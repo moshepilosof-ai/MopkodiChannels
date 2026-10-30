@@ -1,0 +1,45 @@
+# רענון אוטומטי של רשימת הערוצים: GitHub מריץ את mopchannels.py על שרת שלו לפי לוח זמנים,
+# ושומר את channels.json / channel.json המעודכנים חזרה לריפו.
+# רענון יזום: לשונית Actions -> "Update channels" -> "Run workflow".
+name: Update channels
+
+on:
+  schedule:
+    # UTC. בישראל: 2:15, 8:15, 14:15, 20:15 בחורף (שעה אחת מאוחר יותר בקיץ)
+    - cron: "15 0,6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-channels
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Resolve channel links
+        run: python mopchannels.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add channels.json channel.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Channels refresh $(TZ=Asia/Jerusalem date '+%d.%m.%Y %H:%M')"
+            git push
+          fi

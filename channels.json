@@ -1,0 +1,1381 @@
+{
+ "updated": "30.10.2026 22:28",
+ "updated_utc": "2026-10-30T20:28:26Z",
+ "source": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/channels.json",
+ "count": 84,
+ "summary": {
+  "ok": 67,
+  "needs_ticket": 13,
+  "unreachable": 4
+ },
+ "channels": [
+  {
+   "id": "ch_11",
+   "name": "כאן 11",
+   "type": "tv",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kan.jpg",
+   "tvg_id": "11",
+   "index": 1,
+   "source_link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?dvr=21600000",
+   "url": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?dvr=21600000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_11b",
+   "name": "כאן 11 - גיבוי",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kan.jpg",
+   "tvg_id": "11",
+   "index": 1,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_11c",
+   "name": "כאן 11 - לקויי שמיעה",
+   "type": "tv",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kan.jpg",
+   "tvg_id": "11",
+   "index": 1,
+   "source_link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000",
+   "url": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_12",
+   "name": "קשת 12",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12tv.jpg",
+   "tvg_id": "12",
+   "index": 2,
+   "source_link": "/stream/hls/live/2033791/k12/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_12b",
+   "name": "קשת 12 - גיבוי",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12tv.jpg",
+   "tvg_id": "12",
+   "index": 2,
+   "source_link": "/stream/hls/live/2033791/k12n12wad/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_12b2",
+   "name": "קשת 12 - גיבוי 2",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12tv.jpg",
+   "tvg_id": "12",
+   "index": 2,
+   "source_link": "/stream/hls/live/2033791/k12dvr/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_12b3",
+   "name": "קשת 12 - גיבוי 3",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12tv.jpg",
+   "tvg_id": "12",
+   "index": 2,
+   "source_link": "/n12/hls/live/20000821/k12rh/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/n12/hls/live/20000821/k12rh/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_12c",
+   "name": "קשת 12 - לקויי שמיעה",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12tv.jpg",
+   "tvg_id": "12",
+   "index": 2,
+   "source_link": "/k12cc/index.m3u8?b-in-range=0-1800",
+   "url": "https://d2249b6f08tjt0.cloudfront.net/k12cc/index.m3u8?b-in-range=0-1800",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_13",
+   "name": "רשת 13",
+   "type": "tv",
+   "module": "reshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13tv.jpg",
+   "tvg_id": "13",
+   "index": 3,
+   "source_link": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8",
+   "url": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://13tv.co.il/live/"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_13b",
+   "name": "רשת 13 - גיבוי",
+   "type": "tv",
+   "module": "reshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13tv.jpg",
+   "tvg_id": "13",
+   "index": 3,
+   "source_link": "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8",
+   "url": "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://13tv.co.il/live/"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_13b2",
+   "name": "רשת 13 - גיבוי 2",
+   "type": "tv",
+   "module": "reshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13tv.jpg",
+   "tvg_id": "13",
+   "index": 3,
+   "source_link": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+   "url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://13tv.co.il/allshows/2010263/"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_13c",
+   "name": "רשת 13 - לקויי שמיעה",
+   "type": "tv",
+   "module": "reshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13tv.jpg",
+   "tvg_id": "13",
+   "index": 3,
+   "source_link": "https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8",
+   "url": "https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://13tv.co.il/live/"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_14",
+   "name": "עכשיו 14",
+   "type": "tv",
+   "module": "14tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/14tv.png",
+   "tvg_id": "14",
+   "index": 4,
+   "source_link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8",
+   "url": "https://ch14channel14-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://vod.c14.co.il/"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_14b",
+   "name": "עכשיו 14 - גיבוי",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/14tv.png",
+   "tvg_id": "14",
+   "index": 4,
+   "source_link": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8",
+   "url": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "unreachable",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_14b2",
+   "name": "עכשיו 14 - גיבוי 2",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/14tv.png",
+   "tvg_id": "14",
+   "index": 4,
+   "source_link": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?dvr=21600000&bitrate=5692000&audioId=1&videoId=0",
+   "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?dvr=21600000&bitrate=5692000&audioId=1&videoId=0",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_10",
+   "name": "כלכלה 10",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/10tv.png",
+   "tvg_id": "10",
+   "index": 5,
+   "source_link": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000",
+   "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_23",
+   "name": "כאן חינוכית 23",
+   "type": "tv",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/23tv.jpg",
+   "tvg_id": "23",
+   "index": 6,
+   "source_link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?dvr=21600000",
+   "url": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?dvr=21600000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_23b",
+   "name": "כאן חינוכית 23 - גיבוי",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/23tv.jpg",
+   "tvg_id": "23",
+   "index": 6,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_24",
+   "name": "ערוץ 24",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/24tv.jpg",
+   "tvg_id": "24",
+   "index": 7,
+   "source_link": "/direct/hls/live/2035340/ch24live/index.m3u8?as=1",
+   "url": "https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_24b",
+   "name": "ערוץ 24 - גיבוי",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/24tv.jpg",
+   "tvg_id": "24",
+   "index": 7,
+   "source_link": "/evrideo/hls/live/20001278/ch24live/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/ch24live/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_bb",
+   "name": "האח הגדול 26",
+   "type": "tv",
+   "module": "reshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/bb.jpg",
+   "tvg_id": "",
+   "index": 8,
+   "source_link": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_3.m3u8?_uid=2dfa21af-47dd-4772-9917-934f3ce7feea&rK=a8&_did=a4f82cc9-f24e-0789-2ffd-66f900f0b94b",
+   "url": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_3.m3u8?_uid=2dfa21af-47dd-4772-9917-934f3ce7feea&rK=a8&_did=a4f82cc9-f24e-0789-2ffd-66f900f0b94b",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "unreachable",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_bbb",
+   "name": "האח הגדול 26 - גיבוי",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/bb.jpg",
+   "tvg_id": "",
+   "index": 8,
+   "source_link": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8",
+   "url": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "unreachable",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_33",
+   "name": "מכאן 33",
+   "type": "tv",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/makan.png",
+   "tvg_id": "33",
+   "index": 9,
+   "source_link": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?dvr=21600000",
+   "url": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?dvr=21600000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_33b",
+   "name": "מכאן 33 - גיבוי",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/makan.png",
+   "tvg_id": "33",
+   "index": 9,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_66",
+   "name": "קבלה 66",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kabbalah.jpg",
+   "tvg_id": "66",
+   "index": 10,
+   "source_link": "https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8",
+   "url": "https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_97",
+   "name": "הידברות 97",
+   "type": "tv",
+   "module": "hidabroot",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/hidabroot.jpg",
+   "tvg_id": "97",
+   "index": 11,
+   "source_link": "https://www.hidabroot.org/live",
+   "url": "https://htv-live.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_99",
+   "name": "כנסת 99",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/knesset.png",
+   "tvg_id": "99",
+   "index": 12,
+   "source_link": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8",
+   "url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_99c",
+   "name": "כנסת 99 - לקויי שמיעה",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/knesset.png",
+   "tvg_id": "99",
+   "index": 12,
+   "source_link": "https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8",
+   "url": "https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_ynet",
+   "name": "Ynet Live",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/ynet.jpg",
+   "tvg_id": "",
+   "index": 13,
+   "source_link": "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8",
+   "url": "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_sport5",
+   "name": "ספורט 5 אתר",
+   "type": "tv",
+   "module": "sport5",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/Sport5.png",
+   "tvg_id": "5radio",
+   "index": 15,
+   "source_link": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8",
+   "url": "https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://radio.sport5.co.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_100",
+   "name": "100FM רדיוס",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/100fm.jpg",
+   "tvg_id": "100fm",
+   "index": 16,
+   "source_link": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8",
+   "url": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_9",
+   "name": "ערוץ 9",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/9tv.png",
+   "tvg_id": "9",
+   "index": 17,
+   "source_link": "https://contact.gostreaming.tv/Con-11/index.m3u8",
+   "url": "https://contact.gostreaming.tv/Con-11/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_891",
+   "name": "Первое Радио 89.1FM",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/891fm.png",
+   "tvg_id": "891fm",
+   "index": 17,
+   "source_link": "https://www.oles.tv/891fm/player/",
+   "url": "https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_kabru",
+   "name": "קבלה - רוסית",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kabbalah.jpg",
+   "tvg_id": "",
+   "index": 18,
+   "source_link": "https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8",
+   "url": "https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_musayof",
+   "name": "מוסיוף",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/musayof.jpg",
+   "tvg_id": "",
+   "index": 19,
+   "source_link": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
+   "url": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "http://media-line.co.il/Media-Line-Player/musayof/livePlayer.aspx"
+   },
+   "status": "unreachable",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_i24news",
+   "name": "i24news",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/i24news.png",
+   "tvg_id": "i24news",
+   "index": 20,
+   "source_link": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
+   "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_i24newsen",
+   "name": "i24news en",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/i24news.png",
+   "tvg_id": "i24news",
+   "index": 21,
+   "source_link": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+   "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_i24newsfr",
+   "name": "i24news fr",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/i24news.png",
+   "tvg_id": "i24news",
+   "index": 22,
+   "source_link": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+   "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_i24newsar",
+   "name": "i24news ar",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/i24news.png",
+   "tvg_id": "i24news",
+   "index": 23,
+   "source_link": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+   "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_16tv",
+   "name": "ערוץ 16",
+   "type": "tv",
+   "module": "tv",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/16tv.jpg",
+   "tvg_id": "16tv",
+   "index": 24,
+   "source_link": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8",
+   "url": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_13comedy",
+   "name": "13 ערוץ הקומדיות",
+   "type": "tv",
+   "module": "reshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13comedy.jpg",
+   "tvg_id": "13comedy",
+   "index": 25,
+   "source_link": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8",
+   "url": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://13tv.co.il/allshows/2605018/"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_13nofesh",
+   "name": "ערוץ הנופש",
+   "type": "tv",
+   "module": "reshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13nofesh.jpg",
+   "tvg_id": "13nofesh",
+   "index": 26,
+   "source_link": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8",
+   "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://13tv.co.il/allshows/2395628/"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_13reality",
+   "name": "ערוץ הריאליטי",
+   "type": "tv",
+   "module": "reshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13reality.jpg",
+   "tvg_id": "13reality",
+   "index": 27,
+   "source_link": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8",
+   "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://13tv.co.il/allshows/2395629/"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_erets",
+   "name": "ערוץ ארץ נהדרת",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12eretz.jpg",
+   "tvg_id": "",
+   "index": 28,
+   "source_link": "/evrideo/hls/live/20001278/erets/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/erets/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_savri",
+   "name": "ערוץ סברי מרנן",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12savri.jpg",
+   "tvg_id": "",
+   "index": 29,
+   "source_link": "/evrideo/hls/live/20001278/savri/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/savri/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_free_comedy",
+   "name": "ערוץ הקומדיה",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12comedy.jpg",
+   "tvg_id": "",
+   "index": 30,
+   "source_link": "/evrideo/hls/live/20001278/free_comedy/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_comedy/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_free_drama",
+   "name": "ערוץ הדרמה",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12drama.jpg",
+   "tvg_id": "",
+   "index": 31,
+   "source_link": "/evrideo/hls/live/20001278/free_drama/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_drama/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_free_music",
+   "name": "ערוץ המוזיקה",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12music.jpg",
+   "tvg_id": "",
+   "index": 32,
+   "source_link": "/evrideo/hls/live/20001278/free_music/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_music/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "ch_free_food",
+   "name": "ערוץ האוכל",
+   "type": "tv",
+   "module": "keshet",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/12food.jpg",
+   "tvg_id": "",
+   "index": 33,
+   "source_link": "/evrideo/hls/live/20001278/free_food/index.m3u8",
+   "url": "https://mako-streaming.akamaized.net/evrideo/hls/live/20001278/free_food/index.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "needs_ticket",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_glglz",
+   "name": "גלגל\"צ",
+   "type": "radio",
+   "module": "glz",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/glglz.jpg",
+   "tvg_id": "glglz",
+   "index": 1,
+   "source_link": "",
+   "url": "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_88",
+   "name": "כאן 88",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/88fm.png",
+   "tvg_id": "88",
+   "index": 2,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_90",
+   "name": "90FM רדיו תשעים",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/90fm.jpg",
+   "tvg_id": "90fm",
+   "index": 3,
+   "source_link": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+   "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_91",
+   "name": "91FM רדיו לב המדינה",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/91fm.jpg",
+   "tvg_id": "91fm",
+   "index": 4,
+   "source_link": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+   "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_97",
+   "name": "97FM רדיו דרום",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/97fm.jpg",
+   "tvg_id": "97fm",
+   "index": 5,
+   "source_link": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+   "url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_99",
+   "name": "ECO 99FM",
+   "type": "radio",
+   "module": "99fm",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/99fm.png",
+   "tvg_id": "99fm",
+   "index": 6,
+   "source_link": "http://eco-live.mediacast.co.il/99fm_aac",
+   "url": "http://eco-live.mediacast.co.il/99fm_aac",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_100",
+   "name": "100FM רדיוס",
+   "type": "radio",
+   "module": "100fm",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/100fm.jpg",
+   "tvg_id": "100fm",
+   "index": 7,
+   "source_link": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+   "url": "https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_101",
+   "name": "101FM רדיו ירושלים",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/101fm.png",
+   "tvg_id": "101fm",
+   "index": 8,
+   "source_link": "https://radio.streamgates.net/stream/101fm",
+   "url": "https://radio.streamgates.net/stream/101fm",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_1015",
+   "name": "101.5FM רדיו דרום",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1015fm.jpg",
+   "tvg_id": "1015fm",
+   "index": 9,
+   "source_link": "http://radio.2net.co.il/hatahana",
+   "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_102",
+   "name": "102FM רדיו תל אביב",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/102fm.jpg",
+   "tvg_id": "102fm",
+   "index": 10,
+   "source_link": "https://102.livecdn.biz/102fm_aac",
+   "url": "https://102.livecdn.biz/102fm_aac",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_102Eilat",
+   "name": "102FM רדיו קול הים האדום",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/102Eilatfm.jpg",
+   "tvg_id": "102fmEilat",
+   "index": 11,
+   "source_link": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+   "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_103",
+   "name": "103FM רדיו ללא הפסקה",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/103fm.png",
+   "tvg_id": "103fm",
+   "index": 12,
+   "source_link": "http://103fm.maariv.co.il/include/OnLineView.aspx",
+   "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_1045",
+   "name": "104.5FM רדיו צפון",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1045fm.jpg",
+   "tvg_id": "1045fm",
+   "index": 13,
+   "source_link": "https://1045fm.maariv.co.il/include/OnLineView.aspx",
+   "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_1075",
+   "name": "107.5FM רדיו חיפה",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1075fm.jpg",
+   "tvg_id": "1075fm",
+   "index": 14,
+   "source_link": "https://1075.livecdn.biz/radiohaifa",
+   "url": "https://1075.livecdn.biz/radiohaifa",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_glz",
+   "name": "גלי צה\"ל",
+   "type": "radio",
+   "module": "glz",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/glz.jpg",
+   "tvg_id": "glz",
+   "index": 15,
+   "source_link": "",
+   "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_bet",
+   "name": "כאן ב",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/bet.png",
+   "tvg_id": "bet",
+   "index": 16,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_gimel",
+   "name": "כאן גימל",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/gimel.png",
+   "tvg_id": "gimel",
+   "index": 17,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_culture",
+   "name": "כאן תרבות",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/culture.png",
+   "tvg_id": "culture",
+   "index": 18,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_music",
+   "name": "כאן קול המוסיקה",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/music.png",
+   "tvg_id": "music",
+   "index": 19,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_moreshet",
+   "name": "כאן מורשת",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/moreshet.png",
+   "tvg_id": "moreshet",
+   "index": 20,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_kankids",
+   "name": "כאן ילדים",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/23tv.jpg",
+   "tvg_id": "",
+   "index": 21,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_kan_hinuchit/live.livx",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_kan_hinuchit/live.livx",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_sport5",
+   "name": "ספורט 5 אתר",
+   "type": "radio",
+   "module": "sport5",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/Sport5.png",
+   "tvg_id": "5radio",
+   "index": 22,
+   "source_link": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8",
+   "url": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://radio.sport5.co.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_reka",
+   "name": "כאן Reka",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/reka.png",
+   "tvg_id": "reka",
+   "index": 23,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_891",
+   "name": "Первое Радио 89.1FM",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/891fm.png",
+   "tvg_id": "891fm",
+   "index": 24,
+   "source_link": "http://www.891fm.co.il/",
+   "url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_1064",
+   "name": "Лучшее Радио 106.4FM",
+   "type": "radio",
+   "module": "1064fm",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1064fm.jpg",
+   "tvg_id": "",
+   "index": 25,
+   "source_link": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
+   "url": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_makan",
+   "name": "כאן مكان",
+   "type": "radio",
+   "module": "kan",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/makan.png",
+   "tvg_id": "makan",
+   "index": 26,
+   "source_link": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx?dvr=14400000",
+   "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx?dvr=14400000",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "Referer": "https://www.kan.org.il"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_mizrahit",
+   "name": "קול הים התיכון",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/mizrahit.png",
+   "tvg_id": "",
+   "index": 27,
+   "source_link": "https://rs.mizrahit.fm:7777",
+   "url": "https://rs.mizrahit.fm:7777",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_kolhay",
+   "name": "93FM קול חי",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kolhay.jpg",
+   "tvg_id": "kolhay",
+   "index": 28,
+   "source_link": "https://media2.93fm.co.il/live-new",
+   "url": "https://media2.93fm.co.il/live-new",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_kolhaymusic",
+   "name": "קול חי מיוזיק",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kolhaymusic.jpg",
+   "tvg_id": "",
+   "index": 29,
+   "source_link": "https://media2.93fm.co.il/livemusic",
+   "url": "https://media2.93fm.co.il/livemusic",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_kolbarama",
+   "name": "קול ברמה",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kolbarama.jpg",
+   "tvg_id": "kolbarama",
+   "index": 30,
+   "source_link": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+   "url": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_kolplay",
+   "name": "קול Play",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kolplay.png",
+   "tvg_id": "",
+   "index": 31,
+   "source_link": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+   "url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_gly",
+   "name": "גלי ישראל",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/gly.jpg",
+   "tvg_id": "gly",
+   "index": 32,
+   "source_link": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+   "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_fm995",
+   "name": "99.5FM רדיו",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/fm95.5.png",
+   "tvg_id": "",
+   "index": 33,
+   "source_link": "https://995.livecdn.biz/995fm",
+   "url": "https://995.livecdn.biz/995fm",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_noshmim_mizrahit",
+   "name": "רדיו נושמים מזרחית",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/noshmim.jpg",
+   "tvg_id": "",
+   "index": 34,
+   "source_link": "https://rs.mizrahit.fm:7777",
+   "url": "https://rs.mizrahit.fm:7777",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  },
+  {
+   "id": "rd_diki",
+   "name": "רדיו שירי דיכאון",
+   "type": "radio",
+   "module": "radio",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/diki.jpg",
+   "tvg_id": "",
+   "index": 35,
+   "source_link": "https://radio.diki-mizrahit.co.il",
+   "url": "https://radio.diki-mizrahit.co.il",
+   "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+   },
+   "status": "ok",
+   "checked": "30.10.2026 22:27"
+  }
+ ]
+}

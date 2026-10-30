@@ -1,0 +1,383 @@
+{
+ "categories": [
+  {
+   "id": "tv",
+   "name": "טלוויזיה",
+   "sub_categories": [
+    {
+     "id": "tv_israel",
+     "name": "ישראל",
+     "channels": [
+      {
+       "name": "כאן 11",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kan.jpg",
+       "url": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?dvr=21600000"
+      },
+      {
+       "name": "כאן 11 - גיבוי",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kan.jpg",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan11/live.livx?dvr=14400000"
+      },
+      {
+       "name": "כאן 11 - לקויי שמיעה",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kan.jpg",
+       "url": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11_subs/live.livx/playlist.m3u8?dvr=21600000"
+      },
+      {
+       "name": "רשת 13",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13tv.jpg",
+       "url": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/mainManifest.m3u8"
+      },
+      {
+       "name": "רשת 13 - גיבוי",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13tv.jpg",
+       "url": "https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8"
+      },
+      {
+       "name": "רשת 13 - גיבוי 2",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13tv.jpg",
+       "url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8"
+      },
+      {
+       "name": "רשת 13 - לקויי שמיעה",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13tv.jpg",
+       "url": "https://reshet.g-mana.live/media/4607e158-e4d4-4e18-9160-3dc3ea9bc677/mainManifest.m3u8"
+      },
+      {
+       "name": "עכשיו 14",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/14tv.png",
+       "url": "https://ch14channel14-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+      },
+      {
+       "name": "עכשיו 14 - גיבוי",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/14tv.png",
+       "url": "https://ch14channel14.encoders.immergo.tv/app/2/streamPlaylist.m3u8"
+      },
+      {
+       "name": "עכשיו 14 - גיבוי 2",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/14tv.png",
+       "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?dvr=21600000&bitrate=5692000&audioId=1&videoId=0"
+      },
+      {
+       "name": "כלכלה 10",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/10tv.png",
+       "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000"
+      },
+      {
+       "name": "כאן חינוכית 23",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/23tv.jpg",
+       "url": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8?dvr=21600000"
+      },
+      {
+       "name": "כאן חינוכית 23 - גיבוי",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/23tv.jpg",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/kan_edu/live.livx?dvr=14400000"
+      },
+      {
+       "name": "האח הגדול 26",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/bb.jpg",
+       "url": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_3.m3u8?_uid=2dfa21af-47dd-4772-9917-934f3ce7feea&rK=a8&_did=a4f82cc9-f24e-0789-2ffd-66f900f0b94b"
+      },
+      {
+       "name": "האח הגדול 26 - גיבוי",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/bb.jpg",
+       "url": "https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/master.m3u8"
+      },
+      {
+       "name": "מכאן 33",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/makan.png",
+       "url": "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?dvr=21600000"
+      },
+      {
+       "name": "מכאן 33 - גיבוי",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/makan.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/makan/live.livx?dvr=14400000"
+      },
+      {
+       "name": "קבלה 66",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kabbalah.jpg",
+       "url": "https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8"
+      },
+      {
+       "name": "הידברות 97",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/hidabroot.jpg",
+       "url": "https://htv-live.cybercdn.live/HidabrootIL/Live97/playlist.m3u8"
+      },
+      {
+       "name": "כנסת 99",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/knesset.png",
+       "url": "https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8"
+      },
+      {
+       "name": "כנסת 99 - לקויי שמיעה",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/knesset.png",
+       "url": "https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8"
+      },
+      {
+       "name": "Ynet Live",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/ynet.jpg",
+       "url": "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8"
+      },
+      {
+       "name": "ספורט 5 אתר",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/Sport5.png",
+       "url": "https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8"
+      },
+      {
+       "name": "100FM רדיוס",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/100fm.jpg",
+       "url": "https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8"
+      },
+      {
+       "name": "ערוץ 9",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/9tv.png",
+       "url": "https://contact.gostreaming.tv/Con-11/index.m3u8"
+      },
+      {
+       "name": "Первое Радио 89.1FM",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/891fm.png",
+       "url": "https://cdn.cybercdn.live/Pervoia/Video/playlist.m3u8"
+      },
+      {
+       "name": "קבלה - רוסית",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kabbalah.jpg",
+       "url": "https://edge2.il.kab.tv/live/tv66-rus-high/playlist.m3u8"
+      },
+      {
+       "name": "מוסיוף",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/musayof.jpg",
+       "url": "http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8"
+      },
+      {
+       "name": "i24news",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/i24news.png",
+       "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
+      },
+      {
+       "name": "i24news en",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/i24news.png",
+       "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8"
+      },
+      {
+       "name": "i24news fr",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/i24news.png",
+       "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8"
+      },
+      {
+       "name": "i24news ar",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/i24news.png",
+       "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8"
+      },
+      {
+       "name": "ערוץ 16",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/16tv.jpg",
+       "url": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+      },
+      {
+       "name": "13 ערוץ הקומדיות",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13comedy.jpg",
+       "url": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8"
+      },
+      {
+       "name": "ערוץ הנופש",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13nofesh.jpg",
+       "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8"
+      },
+      {
+       "name": "ערוץ הריאליטי",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/13reality.jpg",
+       "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "radio",
+   "name": "רדיו",
+   "sub_categories": [
+    {
+     "id": "radio_israel",
+     "name": "ישראל",
+     "channels": [
+      {
+       "name": "גלגל\"צ",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/glglz.jpg",
+       "url": "http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+      },
+      {
+       "name": "כאן 88",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/88fm.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_88/live.livx?dvr=14400000"
+      },
+      {
+       "name": "90FM רדיו תשעים",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/90fm.jpg",
+       "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio"
+      },
+      {
+       "name": "91FM רדיו לב המדינה",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/91fm.jpg",
+       "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+      },
+      {
+       "name": "97FM רדיו דרום",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/97fm.jpg",
+       "url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio"
+      },
+      {
+       "name": "ECO 99FM",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/99fm.png",
+       "url": "http://eco-live.mediacast.co.il/99fm_aac"
+      },
+      {
+       "name": "100FM רדיוס",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/100fm.jpg",
+       "url": "https://cdn.cybercdn.live/Radios_100FM/Audio/playlist.m3u8"
+      },
+      {
+       "name": "101FM רדיו ירושלים",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/101fm.png",
+       "url": "https://radio.streamgates.net/stream/101fm"
+      },
+      {
+       "name": "101.5FM רדיו דרום",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1015fm.jpg",
+       "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio"
+      },
+      {
+       "name": "102FM רדיו תל אביב",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/102fm.jpg",
+       "url": "https://102.livecdn.biz/102fm_aac"
+      },
+      {
+       "name": "102FM רדיו קול הים האדום",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/102Eilatfm.jpg",
+       "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio"
+      },
+      {
+       "name": "103FM רדיו ללא הפסקה",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/103fm.png",
+       "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+      },
+      {
+       "name": "104.5FM רדיו צפון",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1045fm.jpg",
+       "url": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio"
+      },
+      {
+       "name": "107.5FM רדיו חיפה",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1075fm.jpg",
+       "url": "https://1075.livecdn.biz/radiohaifa"
+      },
+      {
+       "name": "גלי צה\"ל",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/glz.jpg",
+       "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+      },
+      {
+       "name": "כאן ב",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/bet.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx?dvr=14400000"
+      },
+      {
+       "name": "כאן גימל",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/gimel.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_gimel/live.livx?dvr=14400000"
+      },
+      {
+       "name": "כאן תרבות",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/culture.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_tarbut/live.livx?dvr=14400000"
+      },
+      {
+       "name": "כאן קול המוסיקה",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/music.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx?dvr=14400000"
+      },
+      {
+       "name": "כאן מורשת",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/moreshet.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_moreshet/live.livx?dvr=14400000"
+      },
+      {
+       "name": "כאן ילדים",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/23tv.jpg",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_kan_hinuchit/live.livx"
+      },
+      {
+       "name": "ספורט 5 אתר",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/Sport5.png",
+       "url": "https://rgelive.akamaized.net/hls/live/2043150/radio5/playlist.m3u8"
+      },
+      {
+       "name": "כאן Reka",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/reka.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/kan_reka/live.livx?dvr=14400000"
+      },
+      {
+       "name": "Первое Радио 89.1FM",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/891fm.png",
+       "url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio"
+      },
+      {
+       "name": "Лучшее Радио 106.4FM",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/1064fm.jpg",
+       "url": "https://cdna.streamgates.net/TheBest/live/playlist.m3u8"
+      },
+      {
+       "name": "כאן مكان",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/makan.png",
+       "url": "https://r.il.cdn-redge.media/livedash/oil/kancdn-live/live/radio/radio_makan/live.livx?dvr=14400000"
+      },
+      {
+       "name": "קול הים התיכון",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/mizrahit.png",
+       "url": "https://rs.mizrahit.fm:7777"
+      },
+      {
+       "name": "93FM קול חי",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kolhay.jpg",
+       "url": "https://media2.93fm.co.il/live-new"
+      },
+      {
+       "name": "קול חי מיוזיק",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kolhaymusic.jpg",
+       "url": "https://media2.93fm.co.il/livemusic"
+      },
+      {
+       "name": "קול ברמה",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kolbarama.jpg",
+       "url": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio"
+      },
+      {
+       "name": "קול Play",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/kolplay.png",
+       "url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio"
+      },
+      {
+       "name": "גלי ישראל",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/gly.jpg",
+       "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
+      },
+      {
+       "name": "99.5FM רדיו",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/fm95.5.png",
+       "url": "https://995.livecdn.biz/995fm"
+      },
+      {
+       "name": "רדיו נושמים מזרחית",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/noshmim.jpg",
+       "url": "https://rs.mizrahit.fm:7777"
+      },
+      {
+       "name": "רדיו שירי דיכאון",
+       "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/diki.jpg",
+       "url": "https://radio.diki-mizrahit.co.il"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
