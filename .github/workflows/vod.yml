@@ -18,8 +18,12 @@ concurrency:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    # המריץ הביתי (SALONPC, ווינדוס) בישראל: כאן 11 וספורט 5 עונים לו. אם הוא כבוי, GitHub מחכה לו עד יום.
+    runs-on: [self-hosted, israel]
     timeout-minutes: 120
+    defaults:
+      run:
+        shell: bash
     steps:
       - uses: actions/checkout@v4
 
@@ -27,7 +31,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install -r requirements.txt
+      - run: python -m pip install -q -r requirements.txt
 
       - name: Crawl the addon's VOD menus
         run: python idanvod.py
