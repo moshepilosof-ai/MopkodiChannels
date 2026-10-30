@@ -14,7 +14,7 @@ if "%~1"=="" (
 )
 set "REPO_URL=https://github.com/moshepilosof-ai/MopkodiChannels"
 set "RUNNER_VER=2.338.2"
-set "DIR=%USERPROFILE%\actions-runner-mopkodi"
+set "DIR=C:\actions-runner-mopkodi"
 if not exist "%DIR%" mkdir "%DIR%"
 cd /d "%DIR%"
 if not exist run.cmd (
