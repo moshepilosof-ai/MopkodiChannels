@@ -195,6 +195,8 @@ class Crawler:
         if limit:
             series = series[:limit]
         log("{0}: {1} programs".format(cfg["name"], len(series)))
+        if not series:
+            raise RuntimeError("the site returned no programs (blocked for this server, or changed)")
         entries = []
         for i, s in enumerate(series, 1):
             p = params(s)
