@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 120
     defaults:
       run:
-        shell: bash
+        shell: powershell
     steps:
       - uses: actions/checkout@v4
 
@@ -35,13 +35,17 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          $ErrorActionPreference = 'Continue'
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase --autostash || true
+          git pull --rebase --autostash
           git add vod.json vod
-          if git diff --cached --quiet; then
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
             echo "No changes"
-          else
-            git commit -m "VOD refresh $(TZ=Asia/Jerusalem date '+%d.%m.%Y %H:%M')"
+          } else {
+            $stamp = [System.TimeZoneInfo]::ConvertTimeBySystemTimeZoneId((Get-Date).ToUniversalTime(), 'Israel Standard Time').ToString('dd.MM.yyyy HH:mm')
+            git commit -m "VOD refresh $stamp"
             git push
-          fi
+            if ($LASTEXITCODE -ne 0) { exit 1 }
+          }
