@@ -28,6 +28,26 @@ jobs:
       run:
         shell: powershell
     steps:
+      # git חייב להיות ב-PATH לפני checkout (אחרת checkout מוריד ארכיון בלי .git ואי אפשר לשמור). חשבון השירות לא רואה את Git של המשתמש,
+      # לכן מחפשים אותו, ואם אין - מורידים פעם אחת MinGit נייד לתיקיית הכלים של המריץ.
+      - name: Find Git on this computer
+        run: |
+          $g = (Get-Command git.exe -ErrorAction SilentlyContinue | Select-Object -First 1).Source
+          if (-not $g) { $g = Get-ChildItem 'C:\Program Files\Git\cmd\git.exe','C:\Program Files (x86)\Git\cmd\git.exe','C:\Users\*\AppData\Local\Programs\Git\cmd\git.exe' -ErrorAction SilentlyContinue | Select-Object -First 1 -ExpandProperty FullName }
+          if (-not $g) {
+            $tool = Join-Path $env:RUNNER_TOOL_CACHE 'mingit'
+            if (-not (Test-Path "$tool\cmd\git.exe")) {
+              [Net.ServicePointManager]::SecurityProtocol = 'Tls12'
+              New-Item -ItemType Directory -Force $tool | Out-Null
+              Invoke-WebRequest 'https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/MinGit-2.47.1-64-bit.zip' -OutFile "$tool\mingit.zip"
+              Expand-Archive "$tool\mingit.zip" $tool -Force
+              Remove-Item "$tool\mingit.zip"
+            }
+            $g = "$tool\cmd\git.exe"
+          }
+          & $g --version
+          Split-Path $g | Out-File -FilePath $env:GITHUB_PATH -Append -Encoding utf8
+
       - uses: actions/checkout@v4
 
       # Python מותקן על המריץ עצמו: ההורדה של setup-python נכשלת תחת חשבון השירות, ו-PATH של השירות לא בהכרח כולל אותו
