@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - חדש על המדף",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "147",
+   "series_id": "147",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
+   "plot": "",
+   "updated": "2026-10-30 23:57",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "רצף הניצחונות נעצר: הפועל תל אביב נכנעה לדובאי בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565765&pos",
+       "season": ""
+      },
+      {
+       "name": "שלושער מטורף לחאכימי, 1:5 גדול לפ.ס.ז`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1796984.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LAHAVRE-PSG_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LAHAVRE-PSG_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565763&post",
+       "season": ""
+      },
+      {
+       "name": "דרמה בדקה ה-91: עכו סחטה 2:2 נגד ראשל\"צ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1796891.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ACO_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ACO_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565756&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "חגיגת שערים: 2:3 גדול לאחי נצרת על כפר קאסם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1796889.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AHI_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AHI_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565755&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "חלוקת נקודות בין מכבי הרצליה לבני ריינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796893.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REYNA_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REYNA_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565754&poster=",
+       "season": ""
+      },
+      {
+       "name": "קינגסלי כבש והביא לעפולה 3 נקודות מול קריית גת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796895.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AFULA_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AFULA_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565753&poster=",
+       "season": ""
+      },
+      {
+       "name": "מעקבדיה: דני תורם בהכל בלי הקליעה מבחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1796794.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MAAKAVDIJA_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MAAKAVDIJA_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565773&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "אבדיה ובוזר כיכבו: ממפיס גברה על פורטלנד 103:124",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1796752.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MEMPOR_0146_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MEMPOR_0146_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565645&pos",
+       "season": ""
+      },
+      {
+       "name": "הופעה של אייקאף לא מנעה 132:120 לניו אורלינס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1796748.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACNOP_0145_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACNOP_0145_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565738&pos",
+       "season": ""
+      },
+      {
+       "name": "אוקונגוו להט: אטלנטה גברה על קליבלנד 111:114",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796746.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CLEATL_0144_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CLEATL_0144_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565737&pos",
+       "season": ""
+      },
+      {
+       "name": "הפועל ת\"א ניצחה 2:3 בדרבי וזכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796516.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_TOTO_291026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_TOTO_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565640&poster",
+       "season": ""
+      },
+      {
+       "name": "ממשיכה לשקוע: מכבי ת\"א הפסידה 99:94 לפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796605.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565639&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "דור פרץ: \"היה צריך להישרק פנדל 100 אחוז''",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1796607.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PERETZ_SY1_179330745158/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/PERETZ_SY1_179330745158/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565648&pos",
+       "season": ""
+      },
+      {
+       "name": "ברדה: \"בהמשך נראה אם אנחנו מסתערים על הכל\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1796600.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_BARDA_291026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_BARDA_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565647&poster=http",
+       "season": ""
+      },
+      {
+       "name": "קני מילר: \"היו טעויות אישיות של שחקנים\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1796597.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_KENNY_MILLER_291026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_KENNY_MILLER_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565646&post",
+       "season": ""
+      },
+      {
+       "name": "מלדון הוביל את ריאל לניצחון גדול על פנר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1796669.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/real_fener_26/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/real_fener_26/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565638&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "הכוכב האדום התפוצצה עם 73:103 על באיירן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1796660.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/zvezda_bayern_tak_work/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/zvezda_bayern_tak_work/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565637&post",
+       "season": ""
+      },
+      {
+       "name": "דאבל דאבל לשלושה שחקנים, 109:114 לפילדלפיה מול אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1796178.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHIIND_0135_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHIIND_0135_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565545&pos",
+       "season": ""
+      },
+      {
+       "name": "87:103 ללייקרס בדרבי מול הקליפרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796183.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALLAC_0143_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALLAC_0143_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565544&pos",
+       "season": ""
+      },
+      {
+       "name": "פלאג ודאלאס הנחילו לת'אנדר הפסד בכורה העונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796206.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_OKCDAL_0142_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_OKCDAL_0142_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565543&pos",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

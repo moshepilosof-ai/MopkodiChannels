@@ -1,0 +1,46 @@
+# רענון קטלוגי ה-VOD: GitHub מריץ את התוסף "עידן+" של Fishenzon (בלי Kodi, דרך kodishim) על שרת שלו,
+# עובר על התוכניות והפרקים ושומר vod.json ו-vod/*.json חזרה לריפו.
+# רענון יזום: לשונית Actions -> "Update VOD" -> "Run workflow".
+name: Update VOD
+
+on:
+  schedule:
+    # UTC. בישראל: 4:40 ו-16:40 בחורף (שעה אחת מאוחר יותר בקיץ)
+    - cron: "40 2,14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-vod
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Crawl the addon's VOD menus
+        run: python idanvod.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add vod.json vod
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "VOD refresh $(TZ=Asia/Jerusalem date '+%d.%m.%Y %H:%M')"
+            git push
+          fi

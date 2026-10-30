@@ -1,0 +1,43 @@
+{
+ "name": "MopkodiChannels VOD",
+ "updated": "2026-10-30 23:57",
+ "addon_version": "4.0.4",
+ "sources": [
+  {
+   "name": "הישרדות",
+   "provider": "reshet",
+   "provider_name": "רשת 13",
+   "file": "vod/reshet_12.json",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47b2caf8e5664172b080f73a31df7d53/version/3/width/800/height/1200/quality/90",
+   "episodes": 100,
+   "seasons": 3,
+   "updated": "2026-10-30 23:57",
+   "newest": "2026-10-28",
+   "oldest": "2023-03-30"
+  },
+  {
+   "name": "הפטריוטים",
+   "provider": "14tv",
+   "provider_name": "עכשיו 14",
+   "file": "vod/14tv_https_3A_2F_2Finsight-api-shared_univtec_com_2Finterface_2Fp.json",
+   "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/ed86e026-804e-4481-aa6f-80369bd92f1a.png",
+   "episodes": 43,
+   "seasons": 20,
+   "updated": "2026-10-30 23:57",
+   "newest": "2026-10-25",
+   "oldest": "2023-03-01"
+  },
+  {
+   "name": "חדש על המדף",
+   "provider": "sport5",
+   "provider_name": "ספורט 5",
+   "file": "vod/sport5_147.json",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
+   "episodes": 20,
+   "seasons": 1,
+   "updated": "2026-10-30 23:57",
+   "newest": "",
+   "oldest": ""
+  }
+ ]
+}

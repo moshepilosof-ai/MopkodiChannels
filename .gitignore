@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+# downloaded at run time from the Fishenzon repo, and the addon data
+addon/
+addon-data/
