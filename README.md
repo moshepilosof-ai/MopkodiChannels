@@ -15,8 +15,8 @@
 ## כתובות לקריאה
 
 ```
-https://raw.githubusercontent.com/moshepilosof-ai/MopChannels/main/channels.json
-https://raw.githubusercontent.com/moshepilosof-ai/MopChannels/main/channel.json
+https://raw.githubusercontent.com/moshepilosof-ai/MopkodiChannels/main/channels.json
+https://raw.githubusercontent.com/moshepilosof-ai/MopkodiChannels/main/channel.json
 ```
 
 ## מצב הערוץ (`status` ב-channels.json)
