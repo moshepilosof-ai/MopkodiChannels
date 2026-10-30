@@ -5,7 +5,8 @@ REM instead of on GitHub's servers in the US. The TV keeps reading the files fro
 REM
 REM Usage:  install_runner_windows.cmd <registration token>
 REM The token comes from GitHub: repo Settings -> Actions -> Runners -> New self-hosted runner (valid one hour).
-REM Needs: Git for Windows (git.exe in PATH) and Python 3 (python.exe in PATH) on this computer.
+REM Needs: Git for Windows (git.exe in PATH). Python is downloaded by the workflow itself.
+REM Installed under C:ctions-runner-mopkodi: the service account (NETWORK SERVICE) cannot read a user profile folder.
 setlocal
 if "%~1"=="" (
     echo Usage: %~nx0 ^<registration token^>
