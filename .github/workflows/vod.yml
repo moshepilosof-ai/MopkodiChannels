@@ -21,6 +21,9 @@ jobs:
     # המריץ הביתי (SALONPC, ווינדוס) בישראל: כאן 11 וספורט 5 עונים לו. אם הוא כבוי, GitHub מחכה לו עד יום.
     runs-on: [self-hosted, israel]
     timeout-minutes: 120
+    env:
+      PYTHONUTF8: "1"            # הסקריפט מדפיס עברית; בלי זה הקונסול של ווינדוס נופל על קידוד
+      PYTHONIOENCODING: utf-8
     defaults:
       run:
         shell: powershell
