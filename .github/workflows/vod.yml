@@ -27,10 +27,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
+      # Python מותקן על המריץ עצמו (לכל המשתמשים): ההורדה של setup-python נכשלת תחת חשבון השירות
       - run: python -m pip install -q -r requirements.txt
 
       - name: Crawl the addon's VOD menus
