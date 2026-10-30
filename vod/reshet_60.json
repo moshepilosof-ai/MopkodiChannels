@@ -1,0 +1,241 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - בלתי נראה",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "60",
+   "series_id": "60",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0828235ccc749a6a02c3bdb6dca21d1/version/9/width/800/height/1200/quality/90",
+   "plot": "תכנית עם אמן החושים נמרוד הראל המצולמת באמצעות מצלמת משקפיים, המאפשרת לצופים לראות את התופעות המדהימות מהצד השני ולחוות את עולם האשליה והעל טבעי דרך עיניו",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בלתי נראה, עונה 1, פרק 6: עשר המכות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6eb5e47b9982487d9d7d9a06fd55b40a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7f7tpuls/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק מיוחד עם קטעים פסיכיים לגמרי בהשראת עשר המכות",
+       "page": "",
+       "id": "--kaltura--1_7f7tpuls===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי נראה, עונה 1, פרק 7: עפים על ניו יורק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09b51d3627b54c988893485bdebb15be/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vmro0q95/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל נוחת בתפוח הגדול ופוגש את אמני החושים הטובים בעולם",
+       "page": "",
+       "id": "--kaltura--1_vmro0q95===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי נראה, עונה 1, פרק 3: הכל בראש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4853815ec532461794a471a17fe404c4/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nozkzghd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התפקידים מתהפכים! נמרוד הראל מלמד אותנו לקרוא מחשבות",
+       "page": "",
+       "id": "--kaltura--1_nozkzghd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי נראה, עונה 1, פרק 4: ללכת נגד ההיגיון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3474478cf4d04368a8e0330430f9eb1f/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jfpx8h3a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל גורם לנו לפקפק בכל מה שנראה לנו הגיוני",
+       "page": "",
+       "id": "--kaltura--1_jfpx8h3a===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי נראה, עונה 1, פרק 5: ששת המופלאים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6253a6806d6e4067ab145c4f80d6c72d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wolygl7t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פגישה עם ששת אמני החושים הטובים במדינה שיטריפו לכם את הראש",
+       "page": "",
+       "id": "--kaltura--1_wolygl7t===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי נראה, עונה 1, פרק 2: קריאת מחשבות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e52e15b9ead432db64dbf15e8bb2c11/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f067h7py/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בואו לגלות את כל מה שלא ידעתם על קריאת מחשבות",
+       "page": "",
+       "id": "--kaltura--1_f067h7py===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי נראה, עונה 1, פרק 1: תכנית הבכורה: להסתכל בעיניים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af2bc0b11b0044e69cbb4404021132e9/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ur0nhjwu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "צפו: כיצד נראה העולם מזווית הראיה של אמן חושים?",
+       "page": "",
+       "id": "--kaltura--1_ur0nhjwu===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "בלתי נראה, עונה 2, פרק 1: תכנית הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/317e019a59d84dbd8a5fac1b292c0a9b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wu1pinay/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "\"בלתי נראה\" חוזרת למסך בעונה שניה ומסקרנת, עם קטעים על חושיים מרתקים שמצולמים מנקודת מבטו של אמן החושים נמרוד הראל",
+       "page": "",
+       "id": "--kaltura--1_wu1pinay===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי נראה, עונה 2, פרק 6: הכול בראש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72e65bdce0af460abb8ee0d3c8094c2e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2kgdfkik/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל עומד להיכנס לראש של המשתתפים ולראש שלכם. ככה נראה העולם המתעתע והקסום דרך העיניים של אמן החושים",
+       "page": "",
+       "id": "--kaltura--1_2kgdfkik===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי נראה, עונה 2, פרק 5: אומנות חושים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22d6fe7813e3443688d7a88ee0246aa6/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wotqr56s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל ממשיך לפרוץ את גבולות המציאות עם קסמים ואומנות חושים שישאירו אתכם עם הלשון בחוץ, האם הבלתי נראה ייעשה את הבלתי ייאמן? חכו ותראו",
+       "page": "",
+       "id": "--kaltura--1_wotqr56s===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ספיישל על חושי עם אורי גלר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79929713bc8849c8b782fb381c86ca14/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z0zhrmas/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל יוצא עם אורי גלר לרחוב ומציב בפניו סדרה של אתגרים מעולם אמנות החושים בניסיון לקבל תשובה לשאלה שגלר מתחמק ממנה: האם הוא אמן חושים?",
+       "page": "",
+       "id": "--kaltura--1_z0zhrmas===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי נראה, עונה 2, פרק 2: הקסם באוויר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/45a707fe64b04d458d3f8330ce539838/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ef58e0tw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל ממשיך להדהים את העוברים ושבים ברחבי הארץ עם קסמים ואשליות שישאירו גם אתכם חסרי נשימה",
+       "page": "",
+       "id": "--kaltura--1_ef58e0tw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי נראה, עונה 2, פרק 4: משחק מסוכן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d162587540d4d92bb523351f306f582/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wpxkjhnd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך נראה העולם דרך העיניים של נמרוד הראל? אמן החושים המצליח יוצא לרחוב ומצליח לגרום לאנשים לעשות דברים שהם בחיים לא דמיינו שהם יעשו",
+       "page": "",
+       "id": "--kaltura--1_wpxkjhnd===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי נראה, עונה 2, פרק 3: הטבעת שנעלמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2007369342a84a52b65ecb0c4a1bcc81/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ubr58axm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך נראה העולם דרך העיניים של נמרוד הראל? אמן החושים המצליח יוצא הפעם לרחוב עם חפיסת קלפים, ומצליח להדהים את כל מי שפוגש אותו – תצטרכו לראות בשביל להאמין!",
+       "page": "",
+       "id": "--kaltura--1_ubr58axm===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "בלתי נראה, עונה 3, פרק 7: הזיות וחזיונות תעתוע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05e7aa6f449c43d9b1b12008f42cddd6/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r1w5vk2m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית שלא מפסיקה להפתיע אתכם בפרק שומט לסתות שלא ישאיר אתכם אדישים. פרק 7 המלא של \"בלתי נראה\" עכשיו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_r1w5vk2m===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "בלתי נראה, עונה 3, פרק 5: מפצחים את הקובייה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc69e4a0baf447c08ef14c4c7a5137c1/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yjmirh69/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם אתם יכולים לפצח את הקובייה ההונגרית בעיניים עצומות? נמרוד הראל עומד לפצח את הקובייה ואתם עומדים להיות בהלם! פרק 5 של העונה החדשה מחכה לכם עכשיו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_yjmirh69===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "בלתי נראה, עונה 3, פרק 6: פוליגרף אנושי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13bc9807e28947169792281f5e36785a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9z9c6cir/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תגידו את האמת, אתם יודעים לשקר? כי נמרוד הראל הופך את הטלפון שלכם לפוליגרף שמתחבר אליכם לגוף. בלתי נראה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_9z9c6cir===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "בלתי נראה, עונה 3, פרק 2: נמרוד VS אינסטגרם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ef077caea5145818e7a25b0d6907257/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6x210w5t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יש לכם אינסטגרם? הערב, אמן החושים מספר 1 בישראל נמרוד הראל, מגיע לביקור בפיד שלכם באפליקציה הכי פופולארית שיש לכם על הסמארטפון. הפרק המלא עכשיו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6x210w5t===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "בלתי נראה, עונה 3, פרק 4: הצד האפל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/557075d71ee84e6da48527b126447153/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_btzfj78f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אתם מוזמנים להכיר את הצד האפל של נמרוד הראל ואמנות החושים בפרק שהולך לגרום לכם להאמין בבלתי אפשרי, בוודו ובלכידת נשמות. פרק 4 של העונה החדשה מחכה לכם עכשיו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_btzfj78f===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "בלתי נראה, עונה 3, פרק 1: אנרגיות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9968c583e6d14095942e30544c0790a6/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hod42zcg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אמן החושים נמרוד הראל מאפשר לכם להיכנס אל תוך הראש שלו ולראות עולם שמעבר להגיון. חשבתם שראיתם הכל?.. תחשבו שוב. פרק הבכורה המלא של העונה השלישית עכשיו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hod42zcg===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "בלתי נראה, עונה 3, פרק 3: הלם במוסך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/44d8ea77ae3045829347e29c5e0961a5/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6m1thrn8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אמן החושים נמרוד הראל מאפשר לכם להיכנס אל תוך הראש שלו ולראות עולם שמעבר להגיון. חשבתם שראיתם הכל?.. תחשבו שוב. פרק 3 המלא של העונה החדשה מחכה לכם עכשיו לצפייה ישירה לפני כולם!",
+       "page": "",
+       "id": "--kaltura--1_6m1thrn8===",
+       "season": "עונה 3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

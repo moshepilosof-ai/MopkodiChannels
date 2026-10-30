@@ -1,0 +1,161 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - פרודים",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "144",
+   "series_id": "144",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8215fd7e8d04e8ba569908c38b78d3f/version/14/width/800/height/1200/quality/90",
+   "plot": "סדרה קומית ישראלית המגוללת את סיפורם של ארבעה חברי ילדות, גברים בשנות ה-40 לחייהם המוצאים את עצמם מחוץ למערכת הזוגית באמצע החיים. בכיכובם של יוסי מרשק, רון שחר, קובי מימון ופיני קידרון",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פרודים, עונה 1, פרק 6: אריאל קונה סנדוויץ'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d7b06bbf8b7a4a19bfe514ab9604ee59/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_30gy29e1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נדב ושמוליק מתערבים, רני מנסה לפתור את בעיית הכלבים ואריאל רוצה סנדוויץ",
+       "page": "",
+       "id": "--kaltura--1_30gy29e1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 7: מלחמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ffc0ee47a8394e26af01ae06b60c023a/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y42v2uod/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שמוליק ורני מסתבכים תוך כדי מבצע צבאי בעזה",
+       "page": "",
+       "id": "--kaltura--1_y42v2uod===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 2: נקמת השווארמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22a92ef3b7454315a4df8ac1c92cab81/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c0jxbqv1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החברים מתכננים משחק חוזר מול קבוצת הכדורסל שניצחה אותם בתיכון",
+       "page": "",
+       "id": "--kaltura--1_c0jxbqv1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 3: מחפשים את דובק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/75f347722ea64848b8d9ff19098c2682/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gf4jqlv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אריאל, רני, נדב ושמוליק מחפשים את מאמן הכדורסל שלהם מהתיכון למשחק חוזר",
+       "page": "",
+       "id": "--kaltura--1_7gf4jqlv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 5: מה נסגר עם אריאל?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fde3cb7e30d4e679ffffbea7ed9a67e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sufdwq9j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החבר'ה מודאגים ממערכת היחסים התקועה של אריאל וגלי",
+       "page": "",
+       "id": "--kaltura--1_sufdwq9j===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 4: רני מכפיל את המלאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6dff506bb954472a9e199301f49dfe7f/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_54e7h17l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נדב גורר את החבר'ה לבר כדי למצוא לרני דייט דחוף אחרי שהפסיד בתחרות ספירת המלאי",
+       "page": "",
+       "id": "--kaltura--1_54e7h17l===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f32aa9bee37149e0a05a744d27383d1d/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wdcy9tzt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סיפורם של ארבעה פרודים טריים, שביום אחד, חוזרים לשוק הפנויים ומגלים עולם",
+       "page": "",
+       "id": "--kaltura--1_wdcy9tzt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 8: משחק הדרבי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d41bf4d3a7a7449395478973c861471a/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5jv61h03/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "שורה של ביקורי פתע הופכים את אירוע הכדורגל הגדול לסיוט מהלך",
+       "page": "",
+       "id": "--kaltura--1_5jv61h03===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 11: המשפט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e3a14d8a1a1474b871f6ca4aa5e754c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u5vix2gt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "רני מגן על נדב ואריאל שנתבעים לשלם סכום עתק בגלל ונדליזם והמשפט מסתבך",
+       "page": "",
+       "id": "--kaltura--1_u5vix2gt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 9: שמוליק מנסה להתאבד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f49005eeea2348209623f35909eedea4/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xlwt83z5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "שמוליק מקבל ביקור מאמא, רני ונדב מתכננים לעזוב את הדירה ואריאל לוקח קשה",
+       "page": "",
+       "id": "--kaltura--1_xlwt83z5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 10: הקטסטרופה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66c6833cb342412393fccf9e63dfae80/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cfsf44m7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "רני פוגש אהבה נכזבת מהתיכון ונדב ואריאל מנסים לעזור לו, האם הם יצליחו?",
+       "page": "",
+       "id": "--kaltura--1_cfsf44m7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 12: המשחק חוזר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/caccb9dc6e3d438c84b5f0a94178328f/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lmhr5oet/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "החבר'ה מתכננים משחק כדורסל, דובק הוא לא בדיוק מה שחשבו והכל יוצא משליטה",
+       "page": "",
+       "id": "--kaltura--1_lmhr5oet===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1: מאחורי הקלעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3436e5ff0f1a4eb3811a475e35333e40/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v0ub4qbn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מאחורי הקלעים של \"פרודים\" הקומדיה החדשה מבית היוצר של \"החיים זה לא הכל\"",
+       "page": "",
+       "id": "--kaltura--1_v0ub4qbn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרודים, עונה 1, פרק 13: יום העצמאות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51aadc7688bf4782a2a80f6fb918da19/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_htvgibgm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "חוגגים את העצמאות, חלקם חוזרים לאהבות ישנות וחלקם יוצאים לדרך חדשה",
+       "page": "",
+       "id": "--kaltura--1_htvgibgm===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

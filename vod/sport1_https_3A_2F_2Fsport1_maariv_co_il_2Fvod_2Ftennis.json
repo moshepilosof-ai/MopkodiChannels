@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - טניס",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Ftennis",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Ftennis",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1289390",
+   "plot": "",
+   "updated": "2026-10-31 00:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תקציר ניצחונו של אלחנדרו דוידוביץ' פוקינה על רפאל חודאר, גמר טורניר שנגחאי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1289390",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4110792/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1975077/",
+       "season": ""
+      },
+      {
+       "name": "סשה זברב אחרי הזכייה באליפות ארה\"ב 2026",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1184452",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4100534/hls/406x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1966198/",
+       "season": ""
+      },
+      {
+       "name": "תיקתקנו, 30.8",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1283395",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4094386/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1936568/",
+       "season": ""
+      },
+      {
+       "name": "תקציר גמר סינסינטי: ארתור פילס נגד פרננס טיאפו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1282718",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4091720/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1931742/",
+       "season": ""
+      },
+      {
+       "name": "אוהדי נבחרת נורבגיה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1277217",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4073376/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1891652/",
+       "season": ""
+      },
+      {
+       "name": "סשה זברב טניסאי גרמני, אלוף רולאן גארוס 2026",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1273705",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4061442/hls/406x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1869054/",
+       "season": ""
+      },
+      {
+       "name": "תקציר זכייתה של אלינה סביטולינה בגמר טורניר רומא אחרי ניצחון על קוקו גוף",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1272420",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4052091/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1861132/",
+       "season": ""
+      },
+      {
+       "name": "תקציר: יאניק סינר זכה בטורניר רומא ועשה היסטוריה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1271241",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4052655/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1854072/",
+       "season": ""
+      },
+      {
+       "name": "צפו: סינר הביס את זברב בגמר טורניר מדריד ונכנס לספרי ההיסטוריה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1269156",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4045965/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1842119/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - ליגה ספרדית (כדורסל)",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fspanish-league",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fspanish-league",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1163600",
+   "plot": "",
+   "updated": "2026-10-31 00:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תקציר: בדאלונה גברה 76:80 על ריאל מדריד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1163600",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/3807817/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/spanish-league/video/1421290/",
+       "season": ""
+      },
+      {
+       "name": "יאבוסלה להט עם 26 נקודות בניצחון ריאל מדריד על באסקוניה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1181804",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/3649309/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/spanish-league/video/1235130/",
+       "season": ""
+      },
+      {
+       "name": "אחרי רבע אחרון והארכה מטלטלים: 90:92 דחוק לברצלונה על אוברדוירו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1182104",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/3649308/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/spanish-league/video/1235125/",
+       "season": ""
+      },
+      {
+       "name": "המשיכה במומנטום בליגה: ברצלונה דרסה 78:115 את ג'ירונה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1178510",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/3630375/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/spanish-league/video/1212348/",
+       "season": ""
+      },
+      {
+       "name": "לפני מכבי תל אביב: ריאל מדריד חזרה לנצח בליגה הספרדית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1178491",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/3630374/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/spanish-league/video/1212272/",
+       "season": ""
+      },
+      {
+       "name": "למרות 19 נקודות של בנדר, ריאל מדריד פתחה עונה עם 79:93 על אוברדוירו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1120747",
+       "url": "https://mp4.wcdn.co.il/3441587/3441587-1500-1024x576.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/spanish-league/video/961943/",
+       "season": ""
+      },
+      {
+       "name": "ריאל מדריד אלופת ספרד אחרי שהשלימה 1:3 בסדרה נגד ברצלונה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1100005",
+       "url": "https://mp4.wcdn.co.il/3400711/3400711-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/video/900507/",
+       "season": ""
+      },
+      {
+       "name": "ריצה ברבע האחרון הובילה את בארסה ל-69:71 על ריאל ול-1:1 בגמר",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1099417",
+       "url": "https://mp4.wcdn.co.il/3399542/3399542-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/spanish-league/video/898703/",
+       "season": ""
+      },
+      {
+       "name": "טנריפה מחצה 76:103 את חובנטוד בדאלונה והשוותה ל-1:1 בסדרה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://mp4.wcdn.co.il/3392657/3392657-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-basketball/video/889152/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

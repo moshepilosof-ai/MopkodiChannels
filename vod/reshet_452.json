@@ -1,0 +1,261 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - שמחות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "452",
+   "series_id": "452",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe2050fbe5274856a1b3abda89234781/version/0/width/800/height/1200/quality/90",
+   "plot": "קומדיה בכיכובם של גיא לואל, דנה פרידר, זאב רווח, ליז רביאן, אורי הוכמן, רמי ורד, לירית בלבן, דובדבני וקובץ', יוסף סוויד ומאיה קופצ'יק, על אולם האירועים הכושל \"גני בל גרדנס היפים\" (לשעבר \"גני בל גרדנס היפים מאוד\")",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שמחות | פרק 24 חתונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfdf88423fd542229c68ecdf0c8830bc/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t9j2lvzd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-20",
+       "plot": "מרדכי ואיוונקה מתחתנים, וצוות האולם מתכונן לאירוע המרגש ביותר בתולדת גני \"בל-גארדנס היפים\". אבל עד רגע החופה, הדרמה באולם חוגגת... הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_t9j2lvzd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות | פרק 23 מיהו יהודי?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a405965918a4356887da404234a8c0c/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_41mtknyl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-20",
+       "plot": "איוונקה מתכוננת לתהליך הגיור ומרדכי ממנה את הרב עמר להיות המורה שלה לענייני יהדות - משימה שמתגלה כקשה יותר מכפי שהוא מצפה. הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_41mtknyl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות | פרק 14 אולם תחת חקירה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/475aafb97bc146a0856aa1c141b097f8/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fxfjjvsx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "שר המשטרה מגיע לחקור את עובדי גני בל גרדנס היפים. מי יזמר? מי יישבר? קבלו את החקירה שאולי לא תפיל את הממשלה, אבל תפיל את כולם מצחוק",
+       "page": "",
+       "id": "--kaltura--1_fxfjjvsx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות | פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c64ecadbb954000920c259805fb6f1b/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sfhgcfj6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "הרב עמר עובר בחינות תקופתיות ברבנות ואת מקומו ממלא ליום אחד, המשגיח המעצבן, הרב המר, שמאיים לבטל את הכשרות ב\"בל גרדנס\". הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_sfhgcfj6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות | פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/98be15ee54124927be42b7c9154cb9e9/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l8y39qvb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מני ודני, צלמי המגנטים הכושלים של \"בל גרדנס\" מחליטים לנסות את מזלם כבמאים דוקומנטריים ולצלם סרט על האולם. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_l8y39qvb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות | פרק 21 פורים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1a96fc384b14f718424f43517c76d68/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5ix7r44i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מרדכי מחליט לקיים תחרות תחפושות באולם, וכל הצוות מנסה לזכות בפרס הנכסף: כרטיס טיסה. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_5ix7r44i===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 8: שף נולד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5525ed97fb241cc9d8cfc3b78db76c6/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_byf0cvgi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "שירז מתכוננת לאודישן של תכנית בישול ותוך כדי מגלה שארדיטי הוא בשלן מתוחכם. שמחות לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_byf0cvgi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות | פרק 13 הרב יוצא לקרב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa21a1927ac142b4b55eb8f8ed17e32b/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_me1mbi2q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "כשכבוד הרב מכריז מלחמה נגד כל העולם ואשתו, גם אלוהים לא יוכל לעצור אותו. קבלו את הפרק שבו נגלה מיהו הבוס האמיתי של גני בל גרדנס היפים",
+       "page": "",
+       "id": "--kaltura--1_me1mbi2q===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 2: כוכב הדרום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d0a277fd5714eb2a1c6791818a410bb/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2q5akgfs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "סדרה קומית חדשה על המתרחש מאחורי הקלעים של אולם אירועים, בכיכובם של זאב רווח, גיא לואל, דנה פרידר, יוסף סוייד , רמי ורד לירית בלבן ועוד",
+       "page": "",
+       "id": "--kaltura--1_2q5akgfs===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 6: סי או איי אל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56d75788599443ca825d0c5f960758c9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nx9g56gx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מה קורה כשנזכרים ברגע האחרון שהחתונה אמורה להיות טבעונית? צפו בפרק 6 של שמחות",
+       "page": "",
+       "id": "--kaltura--1_nx9g56gx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 9: גאוות יחידה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3cecee22700247b5a0f61ddc5e131fe0/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hyolaa5e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "זוג מהקהילה הגאה מגיע לעשות אירוע באולם, אבל החגיגה האמיתית תתחיל כשהרב עמר יגלה את זה. האם כבוד הרב ייצא גבר-גבר?",
+       "page": "",
+       "id": "--kaltura--1_hyolaa5e===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק הבכורה: שאני אמות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a570e85be5c4f3e8eb44939c0c5abe9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_laqgp2l9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "הנכם מוזמנים לחגוג בסדרה קומית חדשה שתתקיים ב'גני בל גרדנס היפים'- המקום לעשות בו את כל סוגי האירועים. השמחה האמיתית מתחילה הרבה לפני האירוע",
+       "page": "",
+       "id": "--kaltura--1_laqgp2l9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות| פרק 17 הפתעה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4e5d5be347074913a76ab1018166c67a/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ipovxx8h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "ג׳קי וגלית חוגגים את חתונה הכסף, ומארגנים זה לזו מסיבת הפתעה. מה יקרה כשאירוע של פעם בחיים יתרחש פעמיים באותו הערב?",
+       "page": "",
+       "id": "--kaltura--1_ipovxx8h===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 20| יצאנו לפרסומות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/10af59a07a9e4dd4801aa2921faca289/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6p9p1mep/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מרדכי מחליט להפיק סרט פרסומת לגני בל-גרדנס, אבל הצעת המחיר שהוא מקבל ממשרד הפרסום גורמת לו למנות את איוונקה לבמאית הפרסומת, למורת רוחם של שאר אנשי הצוות",
+       "page": "",
+       "id": "--kaltura--1_6p9p1mep===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 3: אמן אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/45f0a95beb8f4ec38827bff807ac8b1a/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4cekaina/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מה קורה כשכהן וגרושה רוצים להתחתן אך הרבנות מסרבת לחתן אותם? מביאים סלב שיחתן אותם ועל הדרך יסעיר את כל עובדי האולם",
+       "page": "",
+       "id": "--kaltura--1_4cekaina===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות| פרק 15 ספיישל אימה קורע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc6c5ac673864f7bba2bb5b6d15db9f0/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dtwnpn1d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "צוות גני בל גרדנס היפים נתקע באולם למשך לילה שלם בלי יכולת לצאת. וכשהם רועדים מפחד, תהיו בטוחים שאתם הולכים לרעוד מצחוק",
+       "page": "",
+       "id": "--kaltura--1_dtwnpn1d===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 5: זיכרונות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f09b5dea2db6401fbfa9711165f73eac/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8hco2kv3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "אהובת נעורים של ארדיטי מגיעה לסגור אירוע עם בעלה המגעיל וגורמת לכולם להיזכר בילדותם",
+       "page": "",
+       "id": "--kaltura--1_8hco2kv3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 7: אחד באפריל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d304f8c9bec54505b56cc6f40dbf55f6/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jm9z6shs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מסתבר שאחד באפריל זה אחלה יום להגיע ולשדוד אולם אירועים",
+       "page": "",
+       "id": "--kaltura--1_jm9z6shs===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 4: מתנות קטנות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5fa88c4fcb13441797359946eb622da7/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z3plf6ua/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מודעת \"דרושים עובדים\" שהתפרסמה בטעות מביאה למקום גמדה שזוכה בעבודה (למרות שאין תקן) ולאף אחד לא נעים לפטר אותה",
+       "page": "",
+       "id": "--kaltura--1_z3plf6ua===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות | פרק 22 מצלמות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a43319c57114bf9a874a93597eace0c/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3gfu7xvp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מרדכי מתקין מצלמות אבטחה כדי לפקח על העובדים באולם, ובינתיים נתן מנסה להגשים את חלומו לככב מול המצלמות בתכנית הכישרונות החדשה \"כוכב בוקע\". הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3gfu7xvp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות| פרק 19 חופה ופידוחין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f23b364279f49f1b05802795f75c6f2/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_39em5rdv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "בפעם הראשונה בחייו, כבוד הרב עמר מקבל משימה לערוך את החופה המרכזית באולמי בל גרדנס, ונכנס להתקף חרדה",
+       "page": "",
+       "id": "--kaltura--1_39em5rdv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות| פרק 16: הדרבי הגדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7dfb4d222a3e49ee866e855d5631bf83/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b4m80hd2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "כשאולמי בל גרדנס היפים מתמודדים ראש בראש מול האולם המתחרה בקרב על כל הקופה, הניצחון הוא מעל הכל. תכינו את הפיצוחים לערב שאסור להפסיד",
+       "page": "",
+       "id": "--kaltura--1_b4m80hd2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות פרק 10: בל גרדנס VIP",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca25202c0ca540e6a505d8a7b93b8466/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oocqcux5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "הסלבס הכי נוצצים בישראל מגלים את אולמי בל גרדנס, והצוות סופר את הדקות לקראת האירוע שאף אחד לא יישכח בחיים. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_oocqcux5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שמחות| פרק 18 פיגזמליון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d540ec5f57f9469d9bb1c7d53c2f4c51/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8tv9b0my/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "לצוות האולם נמאס מההתנהגות הגסה של שירז, ומרדכי אפילו מאיים לפטר אותה, אבל לאיוונקה יש תכנית איך להפוך את שירז לקונדיטורית הכי מתוקה באולם",
+       "page": "",
+       "id": "--kaltura--1_8tv9b0my===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

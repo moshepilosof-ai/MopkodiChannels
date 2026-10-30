@@ -1,0 +1,166 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אחד העם 1",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "417",
+   "series_id": "417",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/55e14b07decd4daa8a13410507315514/version/3/width/800/height/1200/quality/90",
+   "plot": "כל הפרקים של הסדרה \"אחד העם 1\" בכיכובם של אילן פלד (מירי פסקל), אורי גוטליב (ראובן פסקל), יעל פוליאקוב (יפית \"יפעת\" ותקווה פסקל)",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אחד העם 1, עונה 1, פרק 7, יחד בגאווה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6108a7b963f24a44aef8d5f0520d4770/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fqypuul0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-16",
+       "plot": "זוג הומואים עובר לבניין",
+       "page": "",
+       "id": "--kaltura--1_fqypuul0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 1, עונה 1, פרק 6: המעלית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a7f0d5a8b1e248af889a0151197f4b1f/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t385l69f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "המעלית לא עובדת",
+       "page": "",
+       "id": "--kaltura--1_t385l69f===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 1, עונה 1, פרק 2: דייר חדש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/89b0fd6e68c04f71baea4f189d275a1e/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u9whcgd4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "דייר חדש עתיד לעבור לבניין",
+       "page": "",
+       "id": "--kaltura--1_u9whcgd4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 1, עונה 1, פרק 5: הביוב עולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73b227b5b86d4c7d960d56d02a067b79/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h5n2h1v2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "ריח רע עולה מהביוב",
+       "page": "",
+       "id": "--kaltura--1_h5n2h1v2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 1, עונה 1, פרק 4: שקט בבקשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/15c4142e4ec24ed0bdd942bb5a034957/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l4a7tfev/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "זוג חדש בבניין עושה רעשים בחדר המיטות",
+       "page": "",
+       "id": "--kaltura--1_l4a7tfev===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 1, עונה 1,  פרק 3: החתול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bbab6dc500a64b14a8aa0f2427abba7c/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1fwe16y2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "חתול שנתקע על עץ מול הבניין מיילל",
+       "page": "",
+       "id": "--kaltura--1_1fwe16y2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 1, עונה 1, פרק 1: יום הבוחר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/992edc947be04b4c9edaf936394d65eb/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6p61yegn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מאבק הבחירות לוועד הבית",
+       "page": "",
+       "id": "--kaltura--1_6p61yegn===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "אחד העם 1, עונה 2, פרק 6: למה מי מת?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e2a3288d1b74d0caf594806ffbee3a6/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l93dk0ea/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "קיפניס השכן מת",
+       "page": "",
+       "id": "--kaltura--1_l93dk0ea===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחד העם 1, עונה 2, פרק 5: סיבה למסיבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1f043b4f8cd452387f79999b2c2cc38/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_900igabe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "פרק מיוחד בהשתתפות רבקה מיכאלי",
+       "page": "",
+       "id": "--kaltura--1_900igabe===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחד העם 1, עונה 2, פרק 4: חוצלארץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8264a57737e24d898d9489ee4970bffb/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p3l5qmj0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "מירי נוסעת לאיסטנבול",
+       "page": "",
+       "id": "--kaltura--1_p3l5qmj0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחד העם 1, עונה 2, פרק 3: ככה לא נוהגים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9019a71e371447118ae60dd56ce4f10c/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g9avg88g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "מירי מתכוננת לטסט",
+       "page": "",
+       "id": "--kaltura--1_g9avg88g===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחד העם 1, עונה 2, פרק 2: סופשבוע רגוע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83b9d39a0b194bae8dbcc20400b93048/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eskpgfx7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "אחותה של מירי מגיעה לביקור",
+       "page": "",
+       "id": "--kaltura--1_eskpgfx7===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחד העם 1, עונה 2, פרק 7: רצח באחד העם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8230322c6f754d768302fda2f2442247/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4pis97kn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מירי חוקרת תעלומת רצח בבניין",
+       "page": "",
+       "id": "--kaltura--1_4pis97kn===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחד העם 1, עונה 2, פרק 1: יום הולדת לראובן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56a12590e75644a5a75763f7d8b83fa9/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1s433w2i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-05",
+       "plot": "ראובן חוגג יומולדת 50",
+       "page": "",
+       "id": "--kaltura--1_1s433w2i===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

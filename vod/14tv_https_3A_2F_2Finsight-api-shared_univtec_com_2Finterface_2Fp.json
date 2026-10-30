@@ -1,452 +1,27 @@
 {
  "categories": [
   {
-   "name": "עכשיו 14 - הפטריוטים",
+   "name": "עכשיו 14 - משדר מיוחד- מבצע שאגת הארי",
    "type": "vod",
    "source": "14tv",
-   "program_url": "https%3A%2F%2Finsight-api-shared.univtec.com%2Finterface%2Fpages%2Fseries%2F63cd2cf4ca5a380012e20fe0",
+   "program_url": "https%3A%2F%2Finsight-api-shared.univtec.com%2Finterface%2Fpages%2Fseries%2F69c113645300f4d482645033",
    "series_id": "https_3A_2F_2Finsight-api-shared_univtec_com_2Finterface_2Fp",
-   "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/ed86e026-804e-4481-aa6f-80369bd92f1a.png",
-   "plot": "תוכנית סאטירה יומית בהגשת העיתונאי ינון מגל. הפטריוטים מסכמים לנו את האירועים החמים והחשובים של היום, מביעים את דעתם, מתווכחים - ועל הדרך מעלים לנו חיוך על הפנים",
-   "updated": "2026-10-30 23:57",
+   "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/745d419a-36c5-45db-9b84-cb2fab1f756d.png",
+   "plot": "",
+   "updated": "2026-10-31 00:06",
    "sub_categories": [
     {
-     "name": "אוקטובר 2026",
+     "name": "מאי 2024",
      "channels": [
       {
-       "name": "רה\"מ נתניהו בריאיון בפטריוטים - 25/10/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/e18ec5e9-bd5c-4149-a78b-9f7ec13c9ac0/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/e18ec5e9-bd5c-4149-a78b-9f7ec13c9ac0/hls/master.m3u8",
-       "date": "2026-10-25",
-       "plot": "רה\"מ בנימין נתניהו,ינון מגל,הפטריוטים,בחירות,ישראל",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/e18ec5e9-bd5c-4149-a78b-9f7ec13c9ac0/hls/master.m3u8",
-       "season": "אוקטובר 2026"
-      },
-      {
-       "name": "יהושע שני בריאיון בפטריוטים - 15/10/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/948944af-89e8-4372-888e-712fe23b435f/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/948944af-89e8-4372-888e-712fe23b435f/hls/master.m3u8",
-       "date": "2026-10-15",
-       "plot": "יהושע שני,אראל סג\"ל,הפטריוטים,רונן בר,השב\"כ",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/948944af-89e8-4372-888e-712fe23b435f/hls/master.m3u8",
-       "season": "אוקטובר 2026"
-      },
-      {
-       "name": "בועז מירן בריאיון בפטריוטים - 07/10/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/5ec2fc80-9698-453b-92f5-2ce5c6f4304d/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/5ec2fc80-9698-453b-92f5-2ce5c6f4304d/hls/master.m3u8",
-       "date": "2026-10-07",
-       "plot": "בועז מירן,הפטריוטים,ינון מגל,עומרי מירן,טקס הזיכרון הלאומי",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/5ec2fc80-9698-453b-92f5-2ce5c6f4304d/hls/master.m3u8",
-       "season": "אוקטובר 2026"
-      },
-      {
-       "name": "הפטריוטים - 01/10/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/a844cb88-919e-4691-b171-56787bc1c98d/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/a844cb88-919e-4691-b171-56787bc1c98d/hls/master.m3u8",
-       "date": "2026-10-01",
-       "plot": "ינון מגל",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/a844cb88-919e-4691-b171-56787bc1c98d/hls/master.m3u8",
-       "season": "אוקטובר 2026"
-      }
-     ]
-    },
-    {
-     "name": "ספטמבר 2026",
-     "channels": [
-      {
-       "name": "אביר קארה בריאיון בפטריוטים - 23/09/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/091216b0-7092-4eae-aaa4-92f99b7b3ff0/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/091216b0-7092-4eae-aaa4-92f99b7b3ff0/hls/master.m3u8",
-       "date": "2026-09-23",
-       "plot": "אביר קארה,ינון מגל,הפטריוטים,ירון זליכה,יוקר המחייה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/091216b0-7092-4eae-aaa4-92f99b7b3ff0/hls/master.m3u8",
-       "season": "ספטמבר 2026"
-      },
-      {
-       "name": "עו\"ד דוד פטר בריאיון בפטריוטים - 15/09/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/cdbab88a-61e0-4fe0-b0cd-ede5f4963e29/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/cdbab88a-61e0-4fe0-b0cd-ede5f4963e29/hls/master.m3u8",
-       "date": "2026-09-15",
-       "plot": "עו\"ד דוד פטר,ינון מגל,הפטריוטים,הליכוד,בנימין נתניהו",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/cdbab88a-61e0-4fe0-b0cd-ede5f4963e29/hls/master.m3u8",
-       "season": "ספטמבר 2026"
-      }
-     ]
-    },
-    {
-     "name": "אוגוסט 2026",
-     "channels": [
-      {
-       "name": "שלמה רוזנטל בריאיון בפטריוטים - 25/08/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/f5a43a3e-13f8-4663-8101-f74e39940c38/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/f5a43a3e-13f8-4663-8101-f74e39940c38/hls/master.m3u8",
-       "date": "2026-08-25",
-       "plot": "שלמה רונזטל,ינון מגל,הפטריוטים,שוטרי הרשות הפלשתינית,מעצר",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/f5a43a3e-13f8-4663-8101-f74e39940c38/hls/master.m3u8",
-       "season": "אוגוסט 2026"
-      }
-     ]
-    },
-    {
-     "name": "מאי 2026",
-     "channels": [
-      {
-       "name": "נתן סולומון בראיון לפטריוטים  - 24/05/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/f1e09521-e2ba-4200-99a2-95e5f264f622/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/f1e09521-e2ba-4200-99a2-95e5f264f622/hls/master.m3u8",
-       "date": "2026-05-24",
-       "plot": "נתן סולומון ,ינון מגל ,הפטריוטים ,סאטירה,ביביסט",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/f1e09521-e2ba-4200-99a2-95e5f264f622/hls/master.m3u8",
-       "season": "מאי 2026"
-      }
-     ]
-    },
-    {
-     "name": "אפריל 2026",
-     "channels": [
-      {
-       "name": "מרדכי דוד בריאיון בפטריוטים - 28/04/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/f77e9eca-cae0-4e1b-a4ae-e4f938bb3ec3/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/f77e9eca-cae0-4e1b-a4ae-e4f938bb3ec3/hls/master.m3u8",
-       "date": "2026-04-28",
-       "plot": "ינון מגל,מרדכי דוד,הפטריוטים,אלימות,כנופיות",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/f77e9eca-cae0-4e1b-a4ae-e4f938bb3ec3/hls/master.m3u8",
-       "season": "אפריל 2026"
-      },
-      {
-       "name": "דורון אברהמי בריאיון בפטריוטים - 27/04/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/ab98e51d-1768-439b-858c-e224b80c5e52/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/ab98e51d-1768-439b-858c-e224b80c5e52/hls/master.m3u8",
-       "date": "2026-04-27",
-       "plot": "ינון מגל,דורון אברהמי,הפטריוטים,דרום תל אביב,מסתננים",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/ab98e51d-1768-439b-858c-e224b80c5e52/hls/master.m3u8",
-       "season": "אפריל 2026"
-      }
-     ]
-    },
-    {
-     "name": "פברואר 2026",
-     "channels": [
-      {
-       "name": "תמר גרסין בריאיון בפטריוטים - 16/02/2026",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/15f62427-21cf-4b99-8b8d-5d36e9187a17/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/15f62427-21cf-4b99-8b8d-5d36e9187a17/hls/master.m3u8",
-       "date": "2026-02-16",
-       "plot": "ינון מגל,תמר גרסין,הפטריוטים,שבעה באוקטובר,מלחמה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/15f62427-21cf-4b99-8b8d-5d36e9187a17/hls/master.m3u8",
-       "season": "פברואר 2026"
-      }
-     ]
-    },
-    {
-     "name": "דצמבר 2025",
-     "channels": [
-      {
-       "name": "גיל דיין בריאיון בפטריוטים - 20/12/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/b298c4b7-0c50-4ee7-9953-2a8f14d5e5cc/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/b298c4b7-0c50-4ee7-9953-2a8f14d5e5cc/hls/master.m3u8",
-       "date": "2025-12-20",
-       "plot": "גיל דיין,ינון מגל,הפטריוטים,רנ\"ג ירון דיין הי\"ד,משטרה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/b298c4b7-0c50-4ee7-9953-2a8f14d5e5cc/hls/master.m3u8",
-       "season": "דצמבר 2025"
-      }
-     ]
-    },
-    {
-     "name": "נובמבר 2025",
-     "channels": [
-      {
-       "name": "ע' לוחם ביחידת המסתערבים  בריאיון בפטריוטים - 20/11/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/d1a9b631-a882-408d-83e1-a8661beec0b5/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/d1a9b631-a882-408d-83e1-a8661beec0b5/hls/master.m3u8",
-       "date": "2025-11-20",
-       "plot": "לוחם,ינון מגל,הפטריוטים,יחידת המסתערבים,בירה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/d1a9b631-a882-408d-83e1-a8661beec0b5/hls/master.m3u8",
-       "season": "נובמבר 2025"
-      },
-      {
-       "name": "עו\"ד מאיר רובין בראיון בפטריוטים - 16/11/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/e53abd23-fa92-41ad-a08d-31226cae3b10/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/e53abd23-fa92-41ad-a08d-31226cae3b10/hls/master.m3u8",
-       "date": "2025-11-16",
-       "plot": "עו\"ד מאיר רובין,יותם זמרי,הפטריוטים,פורום קהלת,מחאות השמאל",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/e53abd23-fa92-41ad-a08d-31226cae3b10/hls/master.m3u8",
-       "season": "נובמבר 2025"
-      }
-     ]
-    },
-    {
-     "name": "אוקטובר 2025",
-     "channels": [
-      {
-       "name": "אשתו של לוחם מ\"כוח 100\" בריאיון בפטריוטים - 29/10/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/b3e4b1eb-b329-48d1-83c6-09b7b90df99c/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/b3e4b1eb-b329-48d1-83c6-09b7b90df99c/hls/master.m3u8",
-       "date": "2025-10-29",
-       "plot": "הילה, אשתו של לוחם מ\"כוח 100\",ינון מגל,הפטריוטים,חקירה פלילית,פרשת שדה תימן",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/b3e4b1eb-b329-48d1-83c6-09b7b90df99c/hls/master.m3u8",
-       "season": "אוקטובר 2025"
-      },
-      {
-       "name": "ח\"כ אבי מעוז בריאיון בפטריוטים - 22/10/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/f98a695e-17c2-4b05-8abe-8eb4b10bbf6e/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/f98a695e-17c2-4b05-8abe-8eb4b10bbf6e/hls/master.m3u8",
-       "date": "2025-10-22",
-       "plot": "ח\"כ אבי מעוז,ינון מגל,הפטריוטים,ריבונות,חוק",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/f98a695e-17c2-4b05-8abe-8eb4b10bbf6e/hls/master.m3u8",
-       "season": "אוקטובר 2025"
-      },
-      {
-       "name": "רנ\"ג רמי כהן בריאיון בפטריוטים - 11/10/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/e57bdb02-aa5e-4175-be21-628daa97197d/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/e57bdb02-aa5e-4175-be21-628daa97197d/hls/master.m3u8",
-       "date": "2025-10-11",
-       "plot": "רנ\"ג רמי כהן,ינון מגל,הפטריוטים,שבעה באוקטובר,שדרות",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/e57bdb02-aa5e-4175-be21-628daa97197d/hls/master.m3u8",
-       "season": "אוקטובר 2025"
-      },
-      {
-       "name": "איציק פיטוסי בריאיון בפטריוטים - 05/10/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/2a0dae2f-4e9a-4c8e-808d-f19823617b7e/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/2a0dae2f-4e9a-4c8e-808d-f19823617b7e/hls/master.m3u8",
-       "date": "2025-10-05",
-       "plot": "איציק פיטוסי,ינון מגל,הפטריוטים,ראש הממשלה,מלחמה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/2a0dae2f-4e9a-4c8e-808d-f19823617b7e/hls/master.m3u8",
-       "season": "אוקטובר 2025"
-      }
-     ]
-    },
-    {
-     "name": "ספטמבר 2025",
-     "channels": [
-      {
-       "name": "יעקב מלכה בריאיון בפטריוטים - 25/09/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/c90b6312-c221-498e-b0ba-16048d8010e4/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/c90b6312-c221-498e-b0ba-16048d8010e4/hls/master.m3u8",
-       "date": "2025-09-25",
-       "plot": "יותם זמרי,יעקב מלכה,הפטריוטים,איחוד הצלה,מלחמה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/c90b6312-c221-498e-b0ba-16048d8010e4/hls/master.m3u8",
-       "season": "ספטמבר 2025"
-      },
-      {
-       "name": "יונתן בן חמו בריאיון בפטריוטים - 07/09/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/244bf2b7-70dd-4594-9bb8-3fdcb50781db/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/244bf2b7-70dd-4594-9bb8-3fdcb50781db/hls/master.m3u8",
-       "date": "2025-09-07",
-       "plot": "סרן יונתן בן חמו,ינון מגל,הפטריוטים,פצועים,חיילים",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/244bf2b7-70dd-4594-9bb8-3fdcb50781db/hls/master.m3u8",
-       "season": "ספטמבר 2025"
-      },
-      {
-       "name": "לירן ברוך בריאיון בפטריוטים - 04/09/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/950ae160-9494-4d9d-ae21-f46c72eb0c4a/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/950ae160-9494-4d9d-ae21-f46c72eb0c4a/hls/master.m3u8",
-       "date": "2025-09-04",
-       "plot": "לירן ברוך,ינון מגל,הפטריוטים,עמוס דורון,מחאה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/950ae160-9494-4d9d-ae21-f46c72eb0c4a/hls/master.m3u8",
-       "season": "ספטמבר 2025"
-      }
-     ]
-    },
-    {
-     "name": "יולי 2025",
-     "channels": [
-      {
-       "name": "ח\"כ חנוך מילביצקי בריאיון בפטריוטים - 22/07/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/ba4110c7-9ef6-4739-b595-ab6cb52dbc57/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/ba4110c7-9ef6-4739-b595-ab6cb52dbc57/hls/master.m3u8",
-       "date": "2025-07-22",
-       "plot": "ינון מגל,ח\"כ חנוך מילביצקי,הפטריוטים,ועדת חוץ וביטחון,הכנסת",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/ba4110c7-9ef6-4739-b595-ab6cb52dbc57/hls/master.m3u8",
-       "season": "יולי 2025"
-      },
-      {
-       "name": "אלכסי לוסב בריאיון בפטריוטים - 17/07/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/9ec8bd40-273b-4b87-a047-18f83187e784/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/9ec8bd40-273b-4b87-a047-18f83187e784/hls/master.m3u8",
-       "date": "2025-07-17",
-       "plot": "יותם זמרי,אלכסי לוסב,הפטריוטים,צה\"ל,רצועת עזה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/9ec8bd40-273b-4b87-a047-18f83187e784/hls/master.m3u8",
-       "season": "יולי 2025"
-      },
-      {
-       "name": "מנחם קלמנזון בפטריוטים - 07/07/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/28194c16-67a4-49a1-84ee-60d22e9bfb93/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/28194c16-67a4-49a1-84ee-60d22e9bfb93/hls/master.m3u8",
-       "date": "2025-07-07",
-       "plot": "הפטריוטים,ינון מגל",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/28194c16-67a4-49a1-84ee-60d22e9bfb93/hls/master.m3u8",
-       "season": "יולי 2025"
-      },
-      {
-       "name": "תא”ל במיל’ ארז וינר בריאיון בפטריוטים - 06/07/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/e2c54660-7315-4f0e-b7c7-f96e7d1afdae/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/e2c54660-7315-4f0e-b7c7-f96e7d1afdae/hls/master.m3u8",
-       "date": "2025-07-06",
-       "plot": "ינון מגל,תאל במיל ארז וינר,אייל זמיר,רמטכל,כתבים,צבא",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/e2c54660-7315-4f0e-b7c7-f96e7d1afdae/hls/master.m3u8",
-       "season": "יולי 2025"
-      }
-     ]
-    },
-    {
-     "name": "יוני 2025",
-     "channels": [
-      {
-       "name": "רוני אינסאז בריאיון בפטריוטים - 18/06/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/b76a9054-ad16-4f57-9472-31c43a934855/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/b76a9054-ad16-4f57-9472-31c43a934855/hls/master.m3u8",
-       "date": "2025-06-18",
-       "plot": "ינון מגל,רוני אינסאז,הפטריוטים,איראן,ישראל",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/b76a9054-ad16-4f57-9472-31c43a934855/hls/master.m3u8",
-       "season": "יוני 2025"
-      },
-      {
-       "name": "הדר מוכתר בפטריוטים - 08/06/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/84e7e71a-e7c8-4ab4-a601-0d6983982ac7/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/84e7e71a-e7c8-4ab4-a601-0d6983982ac7/hls/master.m3u8",
-       "date": "2025-06-08",
-       "plot": "הדר מוכתר,ינון מגל,הפטריוטים,צה\"ל,פוליטיקה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/84e7e71a-e7c8-4ab4-a601-0d6983982ac7/hls/master.m3u8",
-       "season": "יוני 2025"
-      }
-     ]
-    },
-    {
-     "name": "מרץ 2025",
-     "channels": [
-      {
-       "name": "אור וקסלר תושבת רחביה בפטריוטים - 31/03/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/bc6c9fc8-b6b5-4fe2-b20e-cde82f7313f8/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/bc6c9fc8-b6b5-4fe2-b20e-cde82f7313f8/hls/master.m3u8",
-       "date": "2025-03-31",
-       "plot": "אור וקסלר,פטריוטים,ינון מגל,רחביה,הפגנות,שמאל",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/bc6c9fc8-b6b5-4fe2-b20e-cde82f7313f8/hls/master.m3u8",
-       "season": "מרץ 2025"
-      },
-      {
-       "name": "השר מיקי זוהר בפטריוטים - 15/03/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/e2d2c9ff-e145-45df-b879-6829f313d4f2/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/e2d2c9ff-e145-45df-b879-6829f313d4f2/hls/master.m3u8",
-       "date": "2025-03-15",
-       "plot": "הפטריוטים,ינון מגל,השר מיקי זוהר",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/e2d2c9ff-e145-45df-b879-6829f313d4f2/hls/master.m3u8",
-       "season": "מרץ 2025"
-      },
-      {
-       "name": "ח\"כ אריאל קלנר בפטיורטים - 08/03/2025",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/a2e07e05-95e1-49ab-9509-fa976d8230f3/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/a2e07e05-95e1-49ab-9509-fa976d8230f3/hls/master.m3u8",
-       "date": "2025-03-08",
+       "name": "טקס האזכרה הממלכתי לחללי מערכות ישראל  - 13/05/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/75ee9b4c-5b04-4fc1-b89e-3c6ac059c278/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/75ee9b4c-5b04-4fc1-b89e-3c6ac059c278/hls/master.m3u8",
+       "date": "2024-05-13",
        "plot": "",
        "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/a2e07e05-95e1-49ab-9509-fa976d8230f3/hls/master.m3u8",
-       "season": "מרץ 2025"
-      }
-     ]
-    },
-    {
-     "name": "נובמבר 2024",
-     "channels": [
-      {
-       "name": "השר וסרלאוף בפטריוטים - 27/11/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/47334282-5324-441b-a31e-9b4142282f87/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/47334282-5324-441b-a31e-9b4142282f87/hls/master.m3u8",
-       "date": "2024-11-27",
-       "plot": "ינון מגל,השר וסרלאוף,פטריוטים,ניצחון מוחלט,צפון,תושבים,גליל,פורח",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/47334282-5324-441b-a31e-9b4142282f87/hls/master.m3u8",
-       "season": "נובמבר 2024"
-      },
-      {
-       "name": "עו\"ד המייצג את הנגד מפרשת המסמכים - 27/11/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/4d4fecbe-f65e-407c-950f-40f244b0a5b1/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/4d4fecbe-f65e-407c-950f-40f244b0a5b1/hls/master.m3u8",
-       "date": "2024-11-27",
-       "plot": "עו\"ד,מייצג,פרשת המסמכים,יזדעזעו,נחקר,ינון מגל,פטריוטים",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/4d4fecbe-f65e-407c-950f-40f244b0a5b1/hls/master.m3u8",
-       "season": "נובמבר 2024"
-      },
-      {
-       "name": "אלון דוידי בפטריוטים - 20/11/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/3156c41d-da69-4621-9497-d93995d0cfa7/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/3156c41d-da69-4621-9497-d93995d0cfa7/hls/master.m3u8",
-       "date": "2024-11-20",
-       "plot": "הפטריוטים,ינון מגל,אלון דוידי,ראש עיריית שדרות,גלנט,התיישבות",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/3156c41d-da69-4621-9497-d93995d0cfa7/hls/master.m3u8",
-       "season": "נובמבר 2024"
-      }
-     ]
-    },
-    {
-     "name": "אוגוסט 2024",
-     "channels": [
-      {
-       "name": "ריקי ברוך בפטריוטים - 15/08/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/4820e6d8-b810-4fe8-a74c-27cab2d7349c/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/4820e6d8-b810-4fe8-a74c-27cab2d7349c/hls/master.m3u8",
-       "date": "2024-08-15",
-       "plot": "",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/4820e6d8-b810-4fe8-a74c-27cab2d7349c/hls/master.m3u8",
-       "season": "אוגוסט 2024"
-      }
-     ]
-    },
-    {
-     "name": "אפריל 2024",
-     "channels": [
-      {
-       "name": "הפטריוטים  - 15/04/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/8b171ff4-3ef2-401e-ab90-9f88fc5f3591/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/8b171ff4-3ef2-401e-ab90-9f88fc5f3591/hls/master.m3u8",
-       "date": "2024-04-15",
-       "plot": "",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/8b171ff4-3ef2-401e-ab90-9f88fc5f3591/hls/master.m3u8",
-       "season": "אפריל 2024"
-      },
-      {
-       "name": "בנו של רועי קליין ז\"ל בריאיון - 01/04/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/0c90f540-c436-44fc-8c61-a82c5a95baf9/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/0c90f540-c436-44fc-8c61-a82c5a95baf9/hls/master.m3u8",
-       "date": "2024-04-01",
-       "plot": "רועי קליין,יואב קליין,ינון מגל,מלחמת לבנון השנייה",
-       "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/0c90f540-c436-44fc-8c61-a82c5a95baf9/hls/master.m3u8",
-       "season": "אפריל 2024"
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/75ee9b4c-5b04-4fc1-b89e-3c6ac059c278/hls/master.m3u8",
+       "season": "מאי 2024"
       }
      ]
     },
@@ -454,23 +29,143 @@
      "name": "מרץ 2024",
      "channels": [
       {
-       "name": "סאבלימינל והצל עם רביב כנר בריאיון - 04/03/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/684dc21b-6839-4461-b0f0-8942de82f06c/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/684dc21b-6839-4461-b0f0-8942de82f06c/hls/master.m3u8",
-       "date": "2024-03-04",
-       "plot": "סאבלימינל,הצל,רביב כנר,חברות ברזל,חיילים,מלחמה,הופעות",
+       "name": "אחייניתו של החטוף ליאור רודאיף - 29/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/4bf9c8a5-ff11-4426-8779-cb4aa22041ef/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/4bf9c8a5-ff11-4426-8779-cb4aa22041ef/hls/master.m3u8",
+       "date": "2024-03-29",
+       "plot": "יעל סבריאגו,חטוף,שבי חמאס,עזה,חרבות ברזל,צו 9,אונר\"א,ארגון טרור,ירושלים, ליאור רודאיף",
        "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/684dc21b-6839-4461-b0f0-8942de82f06c/hls/master.m3u8",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/4bf9c8a5-ff11-4426-8779-cb4aa22041ef/hls/master.m3u8",
        "season": "מרץ 2024"
       },
       {
-       "name": "ורדה בן ברוך בריאיון - 04/03/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/4ed9b4b2-bc9a-45f4-a94b-c0aa93a2a9cd/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/4ed9b4b2-bc9a-45f4-a94b-c0aa93a2a9cd/hls/master.m3u8",
-       "date": "2024-03-04",
-       "plot": "ורדה בן ברוך,ינון מגל,עידן אלכסנדר,חטוף בעזה,מלחמה,חייל בודד,ארה\"ב,השבעה באוקטובר",
+       "name": "ראש מועצת בית אל בריאיון - 29/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/ed2afee2-cf43-4725-aef6-76eecebd9e38/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/ed2afee2-cf43-4725-aef6-76eecebd9e38/hls/master.m3u8",
+       "date": "2024-03-29",
+       "plot": "דנה ורון ,שי אלון,יהודה ושומרון,טרור סביבתי,בית אל",
        "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/4ed9b4b2-bc9a-45f4-a94b-c0aa93a2a9cd/hls/master.m3u8",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/ed2afee2-cf43-4725-aef6-76eecebd9e38/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "אתה באמת מפחד מדוכן תפילין? - 29/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/8ce034ab-9744-4a7f-ba13-3d2cad9ab8de/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/8ce034ab-9744-4a7f-ba13-3d2cad9ab8de/hls/master.m3u8",
+       "date": "2024-03-29",
+       "plot": "דנה ורון,רון חולדאי,דוכן תפילין,בית ספר,תל אביב",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/8ce034ab-9744-4a7f-ba13-3d2cad9ab8de/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "הרב יוסי איגרא בריאיון - 22/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/90e23d8c-3954-4aa0-b5cb-02bcb8c1508b/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/90e23d8c-3954-4aa0-b5cb-02bcb8c1508b/hls/master.m3u8",
+       "date": "2024-03-22",
+       "plot": "יוסי איגרא,מצפה רמון,ישיבה לצעירים,דנה ורון,חוק הגיוס,חרבות ברזל,נטל,מצווה,שליחות,מלחמה,מילואים",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/90e23d8c-3954-4aa0-b5cb-02bcb8c1508b/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "אביטל הינדי תושבת דולב בריאיון - 22/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/6440efb2-7a8c-4f97-92f3-9e5be2553ae9/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/6440efb2-7a8c-4f97-92f3-9e5be2553ae9/hls/master.m3u8",
+       "date": "2024-03-22",
+       "plot": "דנה ורון,חרבות ברזל,דולב,בנימין,שבעה באוקטובר",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/6440efb2-7a8c-4f97-92f3-9e5be2553ae9/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "אמו של אמתי גרנות ז\"ל בריאיון - 22/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/5db7ac1c-1e28-4f77-9f34-23fd1828aa04/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/5db7ac1c-1e28-4f77-9f34-23fd1828aa04/hls/master.m3u8",
+       "date": "2024-03-22",
+       "plot": "אביבית גרנות,אמתי צבי גרנות,חלל צה\"ל,מלחמה,עזה,חרבות ברזל,דנה ורון",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/5db7ac1c-1e28-4f77-9f34-23fd1828aa04/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "דוד אזולאי בריאיון - 15/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/515bafbb-3539-4458-80c1-186fda140a4c/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/515bafbb-3539-4458-80c1-186fda140a4c/hls/master.m3u8",
+       "date": "2024-03-15",
+       "plot": "מטולה,דנה ורון,מלחמה,חרבות ברזל,חיזבאללה,לבנון,גבול הצפון,דוד אזולאי",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/515bafbb-3539-4458-80c1-186fda140a4c/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "בני בן מובחר בריאיון - 15/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/45b0ba59-68ff-49df-b7fc-3c65bb868640/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/45b0ba59-68ff-49df-b7fc-3c65bb868640/hls/master.m3u8",
+       "date": "2024-03-15",
+       "plot": "בני בן מובחר,דנה ורון,מבואות החרמון,גבול הצפון,חיזבאללה,הקבינט הביטחוני",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/45b0ba59-68ff-49df-b7fc-3c65bb868640/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "עם ישראל בהמתנה - 15/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/91824bb0-4f57-4efd-a5ba-2aab8406603c/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/91824bb0-4f57-4efd-a5ba-2aab8406603c/hls/master.m3u8",
+       "date": "2024-03-15",
+       "plot": "דנה ורון,סיכום השבוע,עם ישראל,החזית הצפונית,הפוליטיקה הישראלית",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/91824bb0-4f57-4efd-a5ba-2aab8406603c/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "יום האישה הבינלאומי 2024 - 08/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/eedf70c2-7a58-420d-a81b-b276a9e140b8/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/eedf70c2-7a58-420d-a81b-b276a9e140b8/hls/master.m3u8",
+       "date": "2024-03-08",
+       "plot": "דנה ורון,יום האישה הבינלאומי 2024,נשיות,אישה",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/eedf70c2-7a58-420d-a81b-b276a9e140b8/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "ח\"כ מתן כהנא בריאיון - 06/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/91c5a57f-e75d-442e-8425-10c857422085/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/91c5a57f-e75d-442e-8425-10c857422085/hls/master.m3u8",
+       "date": "2024-03-06",
+       "plot": "אמיר איבגי,אסון מירון,מירון,הילולת מירון,מתן כהנא",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/91c5a57f-e75d-442e-8425-10c857422085/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "בועז סטרוקובסקי בריאיון - 06/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/93c7b99a-4c9f-48a1-9713-1d33aa4c3b98/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/93c7b99a-4c9f-48a1-9713-1d33aa4c3b98/hls/master.m3u8",
+       "date": "2024-03-06",
+       "plot": "אמיר איבגי,אסון מירון,מסקנות הוודעה,יעקב אלחנן,מירון",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/93c7b99a-4c9f-48a1-9713-1d33aa4c3b98/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "רס\"ן במיל' שאדי חלול בריאיון - 01/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/5f2b0aae-4ca3-4297-bf02-1aeb9db373c7/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/5f2b0aae-4ca3-4297-bf02-1aeb9db373c7/hls/master.m3u8",
+       "date": "2024-03-01",
+       "plot": "דנה ורון,שאדי חלול,חיזבאללה,צפון,מלחמה,חרבות ברזל",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/5f2b0aae-4ca3-4297-bf02-1aeb9db373c7/hls/master.m3u8",
+       "season": "מרץ 2024"
+      },
+      {
+       "name": "בעקבות המלחמה - 01/03/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/3765ab8b-42da-4c07-ae16-d46da7a77a6f/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/3765ab8b-42da-4c07-ae16-d46da7a77a6f/hls/master.m3u8",
+       "date": "2024-03-01",
+       "plot": "דנה ורון,מלחמה,חרבות ברזל,מוגבלויות,שירלי פינטו,ליאת פיג'ו,שפת הסימנים",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/3765ab8b-42da-4c07-ae16-d46da7a77a6f/hls/master.m3u8",
        "season": "מרץ 2024"
       }
      ]
@@ -479,49 +174,94 @@
      "name": "פברואר 2024",
      "channels": [
       {
-       "name": "אריה דאוי בריאיון - 22/02/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/1f6e8e01-148e-4aa0-aec7-07daf7181d36/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/1f6e8e01-148e-4aa0-aec7-07daf7181d36/hls/master.m3u8",
-       "date": "2024-02-22",
-       "plot": "אריה דאוי,מלחמה,חרבות ברזל,רועי דאוי,עזה,חמאס",
+       "name": "מתחת לאף - 23/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/7f8f746a-6614-4f38-92bc-f639386fdadd/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/7f8f746a-6614-4f38-92bc-f639386fdadd/hls/master.m3u8",
+       "date": "2024-02-23",
+       "plot": "חרבות ברזל,מסיונרי,אהבת עמי,דנה ורון,מיגוניות,צפת,בנימין וולקן,אור לאחים",
        "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/1f6e8e01-148e-4aa0-aec7-07daf7181d36/hls/master.m3u8",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/7f8f746a-6614-4f38-92bc-f639386fdadd/hls/master.m3u8",
        "season": "פברואר 2024"
       },
       {
-       "name": "אמו של אדיר עבודי ז\"ל בריאיון - 06/02/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/7ba9c728-3f08-4577-abd3-6d8ae8f1e8dc/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/7ba9c728-3f08-4577-abd3-6d8ae8f1e8dc/hls/master.m3u8",
-       "date": "2024-02-06",
-       "plot": "ויקי ענת עבודי,אדיר עבודי,מלחמה,צה\"ל,חרבות ברזל,חמאס",
+       "name": "מתגייסים ללוחמים - 23/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/4a93d307-cb8b-4148-aadf-50ebc0095660/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/4a93d307-cb8b-4148-aadf-50ebc0095660/hls/master.m3u8",
+       "date": "2024-02-23",
+       "plot": "מילן מועלם,חרבות ברזל,דנה ורון,מלחמה,צה\"ל,אזרחים,מתנדבים,חיילים",
        "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/7ba9c728-3f08-4577-abd3-6d8ae8f1e8dc/hls/master.m3u8",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/4a93d307-cb8b-4148-aadf-50ebc0095660/hls/master.m3u8",
        "season": "פברואר 2024"
       },
       {
-       "name": "ההקלטה שחושפת - 06/02/2024",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/44753ab6-5aba-4b77-80c7-a94cd4981479/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/44753ab6-5aba-4b77-80c7-a94cd4981479/hls/master.m3u8",
-       "date": "2024-02-06",
-       "plot": "נובה,אוגדת עזה,מלחמה,צה\"ל,טבח,חמאס",
+       "name": "ראש עיריית צפת בריאיון - 14/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/b4057e8d-44b6-417f-af29-572490e5bf96/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/b4057e8d-44b6-417f-af29-572490e5bf96/hls/master.m3u8",
+       "date": "2024-02-14",
+       "plot": "שוקי אוחנה,אמיר איבגי,גבול הצפון,צפת,חיזבאללה,חרבות ברזל,מלחמה",
        "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/44753ab6-5aba-4b77-80c7-a94cd4981479/hls/master.m3u8",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/b4057e8d-44b6-417f-af29-572490e5bf96/hls/master.m3u8",
        "season": "פברואר 2024"
-      }
-     ]
-    },
-    {
-     "name": "אפריל 2023",
-     "channels": [
+      },
       {
-       "name": "יום הולדת לינון - 30/04/2023",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/7ffbf4c6-b6bc-4685-a7d1-571031df92c7/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/7ffbf4c6-b6bc-4685-a7d1-571031df92c7/hls/master.m3u8",
-       "date": "2023-04-30",
-       "plot": "ינון מגל,הפטריוטים",
+       "name": "רוחמה רוז בשיר חדש - 09/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/fe49bc82-bd6a-4ab9-8c4b-d1ef34e4523b/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/fe49bc82-bd6a-4ab9-8c4b-d1ef34e4523b/hls/master.m3u8",
+       "date": "2024-02-09",
+       "plot": "רוחמה רוז,דנה ורון,שיר,חיילים,חרבות ברזל,מלחמה,צה\"ל",
        "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/7ffbf4c6-b6bc-4685-a7d1-571031df92c7/hls/master.m3u8",
-       "season": "אפריל 2023"
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/fe49bc82-bd6a-4ab9-8c4b-d1ef34e4523b/hls/master.m3u8",
+       "season": "פברואר 2024"
+      },
+      {
+       "name": "אלוף במיל' גרשון הכהן בריאיון - 09/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/6fae027e-6552-4613-84a9-6fbf3e0de146/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/6fae027e-6552-4613-84a9-6fbf3e0de146/hls/master.m3u8",
+       "date": "2024-02-09",
+       "plot": "שני בן יעיש,גרשון הכהן,מלחמה,צה\"ל,חרבות ברזל,עזה,מנהרות טרור",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/6fae027e-6552-4613-84a9-6fbf3e0de146/hls/master.m3u8",
+       "season": "פברואר 2024"
+      },
+      {
+       "name": "אבידע בכר מקיבוץ בארי בריאיון - 08/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/d3b9c061-072f-466a-baa9-d0d3db342080/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/d3b9c061-072f-466a-baa9-d0d3db342080/hls/master.m3u8",
+       "date": "2024-02-08",
+       "plot": "אבידע בכר,קיבוץ בארי,נוה דרומי,מלחמה,טבח,השבעה באוקטובר",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/d3b9c061-072f-466a-baa9-d0d3db342080/hls/master.m3u8",
+       "season": "פברואר 2024"
+      },
+      {
+       "name": "השוטר שהציל את רחל מאופקים בריאיון - 04/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/7fd177c0-4546-4eac-ae11-b304b5b02a3e/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/7fd177c0-4546-4eac-ae11-b304b5b02a3e/hls/master.m3u8",
+       "date": "2024-02-04",
+       "plot": "אייל גרמאי,רחל מאופקים,אופקים,טבח,מלחמה,חרבות ברזל,7 באוקטובר",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/7fd177c0-4546-4eac-ae11-b304b5b02a3e/hls/master.m3u8",
+       "season": "פברואר 2024"
+      },
+      {
+       "name": "ראש מועצת מטולה בריאיון - 04/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/c7d88c74-985f-40ea-a3b8-98602a77feac/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/c7d88c74-985f-40ea-a3b8-98602a77feac/hls/master.m3u8",
+       "date": "2024-02-04",
+       "plot": "מטולה,דוד אזולאי,מלחמה,גבול הצפון,חיזבאללה,חרבות ברזל",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/c7d88c74-985f-40ea-a3b8-98602a77feac/hls/master.m3u8",
+       "season": "פברואר 2024"
+      },
+      {
+       "name": "רס\"ן במיל' הרב אילון שיימס בריאיון - 02/02/2024",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/2bb1d89f-20fe-46e1-a920-5d76d45563ee/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/2bb1d89f-20fe-46e1-a920-5d76d45563ee/hls/master.m3u8",
+       "date": "2024-02-02",
+       "plot": "אילון שיימס,שבעה באוקטובר,מלחמה,צה\"ל,גיוס,מילואים,חרבות ברזל,ישראל נלחמת",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/2bb1d89f-20fe-46e1-a920-5d76d45563ee/hls/master.m3u8",
+       "season": "פברואר 2024"
       }
      ]
     },
@@ -529,14 +269,219 @@
      "name": "מרץ 2023",
      "channels": [
       {
-       "name": "מוטי קסטל בהפגנה ליד מעון נתניהו בפטריוטים - 01/03/2023",
-       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/efce50e5-2abb-475f-b83d-a43c6a63bb8f/poster.jpg",
-       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/efce50e5-2abb-475f-b83d-a43c6a63bb8f/hls/master.m3u8",
-       "date": "2023-03-01",
-       "plot": "מוטי קסטל,הפגנה,פטריוטים",
+       "name": "הילה עופר על שפת הגוף של הפוליטיקאים - 10/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/8830aed5-9fb1-44eb-b9ce-81fd8a285ed3/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/8830aed5-9fb1-44eb-b9ce-81fd8a285ed3/hls/master.m3u8",
+       "date": "2023-03-10",
+       "plot": "שפת גוף,הילה עופר,פוליטיקה,רפורמה",
        "page": "",
-       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/efce50e5-2abb-475f-b83d-a43c6a63bb8f/hls/master.m3u8",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/8830aed5-9fb1-44eb-b9ce-81fd8a285ed3/hls/master.m3u8",
        "season": "מרץ 2023"
+      },
+      {
+       "name": "ח\"כ ניסים ואטורי בריאיון לעידו טאובר - 10/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/e2230fe7-a71e-433a-b282-6a1d15b81ed5/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/e2230fe7-a71e-433a-b282-6a1d15b81ed5/hls/master.m3u8",
+       "date": "2023-03-10",
+       "plot": "ניסים ואטורי,הליכוד,פיגוע,תל אביב",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/e2230fe7-a71e-433a-b282-6a1d15b81ed5/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "תרגיל ההטעיה של ראש הממשלה נתניהו לקראת טיסתו לרומא בזמן ההפגנה - 09/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/04999343-8568-474e-a4ef-859fd441200d/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/04999343-8568-474e-a4ef-859fd441200d/hls/master.m3u8",
+       "date": "2023-03-09",
+       "plot": "מוטי קסטל,רומא,נתניהו,ראש הממשלה,תרגיל,הטעיה,מחאה,רפורמה,שמאל,משפט",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/04999343-8568-474e-a4ef-859fd441200d/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "הרפורמה המשפטית עלולה להביא להפחתת תחזית דירוג האשראי של ישראל - 09/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/cb926c83-669f-4693-9451-684d99fcdea7/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/cb926c83-669f-4693-9451-684d99fcdea7/hls/master.m3u8",
+       "date": "2023-03-09",
+       "plot": "ירון זליכה,אשראי,רפורמה,מודיס',אזהרה,משפט",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/cb926c83-669f-4693-9451-684d99fcdea7/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "ח\"כ צבי סוכות בריאיון לנווה דרומי על המחאה נגד הרפורמה המשפטית - 09/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/8d138736-ba90-42bb-948e-431ccb681db6/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/8d138736-ba90-42bb-948e-431ccb681db6/hls/master.m3u8",
+       "date": "2023-03-09",
+       "plot": "צבי סוכות,רפורמה,הפגנה,משפט,שמאל,ימין",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/8d138736-ba90-42bb-948e-431ccb681db6/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "אריאלה סגל בריאיון על חסימת הכניסה למשרדי פורום קהלת - 09/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/2f0db59f-4eb0-43a4-ab58-4c5e0cf7b500/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/2f0db59f-4eb0-43a4-ab58-4c5e0cf7b500/hls/master.m3u8",
+       "date": "2023-03-09",
+       "plot": "קהל,אריאלה סגל,אנרכיה,רפורמה,התפרעויות,שמאל,משפט,ימין",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/2f0db59f-4eb0-43a4-ab58-4c5e0cf7b500/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "חיילי צה\"ל מאחלים חג פורים שמח - 08/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/14db6238-9601-4521-9983-6a7d2e1b3142/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/14db6238-9601-4521-9983-6a7d2e1b3142/hls/master.m3u8",
+       "date": "2023-03-08",
+       "plot": "חיילים,פורים,משלוח מנות,בסיס",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/14db6238-9601-4521-9983-6a7d2e1b3142/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "ח\"כ יצחק קרוייזר בריאיון לשי גולדן - 01/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/6876e7f1-42ae-4c76-b4b6-6e3b1cd37789/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/6876e7f1-42ae-4c76-b4b6-6e3b1cd37789/hls/master.m3u8",
+       "date": "2023-03-01",
+       "plot": "משבר,חוקה,רפורמה,משפט,עוצמה יהודית,יצחק קרוייזר,ממשלה,הפגנה,שמאל,ימין",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/6876e7f1-42ae-4c76-b4b6-6e3b1cd37789/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "ח\"כ מתן כהנא בריאיון לשי גולדן - 01/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/8f41edd2-aff0-4b2a-a09d-867814ddf67a/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/8f41edd2-aff0-4b2a-a09d-867814ddf67a/hls/master.m3u8",
+       "date": "2023-03-01",
+       "plot": "מתן כהנא,שי גולדן,המחנה הממלכתי,הידברות,חקיקה,רפורמה,הפגנה,שמאל,ימין",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/8f41edd2-aff0-4b2a-a09d-867814ddf67a/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "מירי רגב בריאיון לשי גולדן - 01/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/0ba57f19-9cd8-4723-b597-f666b9bcfac9/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/0ba57f19-9cd8-4723-b597-f666b9bcfac9/hls/master.m3u8",
+       "date": "2023-03-01",
+       "plot": "מירי רגב,שרת התחבורה,בג\"ץ,ממשלה,הפגנה,ימין,שמאל,רפורמה,משפט",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/0ba57f19-9cd8-4723-b597-f666b9bcfac9/hls/master.m3u8",
+       "season": "מרץ 2023"
+      },
+      {
+       "name": "ח\"כ טלי גוטליב בריאיון לשי גולדן - 01/03/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/d6bde572-70eb-4894-89f8-c31382799f4d/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/d6bde572-70eb-4894-89f8-c31382799f4d/hls/master.m3u8",
+       "date": "2023-03-01",
+       "plot": "טלי גוטליב,רפורמה,הפגנה,שמאל,ימין,ממשלה",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/d6bde572-70eb-4894-89f8-c31382799f4d/hls/master.m3u8",
+       "season": "מרץ 2023"
+      }
+     ]
+    },
+    {
+     "name": "פברואר 2023",
+     "channels": [
+      {
+       "name": "רונה לוי בריאיון עם ד\"ר אלי וניוקור בועידת החינוך והאקדמיה 2023 - 28/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/4c6c8e4f-79aa-4fd5-85f9-6fc711972b72/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/4c6c8e4f-79aa-4fd5-85f9-6fc711972b72/hls/master.m3u8",
+       "date": "2023-02-28",
+       "plot": "רונה לוי,אלי וינוקור,ועידת החינוך",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/4c6c8e4f-79aa-4fd5-85f9-6fc711972b72/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "שר החינוך יואב קיש בנאום על תירון מערכת החינוך - 28/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/f9fd3544-88ad-44df-b099-23c13f2fb208/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/f9fd3544-88ad-44df-b099-23c13f2fb208/hls/master.m3u8",
+       "date": "2023-02-28",
+       "plot": "יואב קיש,שר החינוך,משבר,יציבות,צמיחה,מצגת,תיקון",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/f9fd3544-88ad-44df-b099-23c13f2fb208/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "ח\"כ צבי סוכות בריאיוןעל הפיגוע הרצחני בשומרון - 26/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/76487346-21ae-472a-9fb8-3476e0441c3e/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/76487346-21ae-472a-9fb8-3476e0441c3e/hls/master.m3u8",
+       "date": "2023-02-26",
+       "plot": "צבי סוכות,פיגוע,שומרון,רצח",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/76487346-21ae-472a-9fb8-3476e0441c3e/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "הלל דיווח חדש לא ברור פלילי או פחעי - 26/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/f47b89ac-4515-42fd-be32-824745f44a9e/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/f47b89ac-4515-42fd-be32-824745f44a9e/hls/master.m3u8",
+       "date": "2023-02-26",
+       "plot": "הלל ביטון רוזן,פיגוע,חווארה,שומרון,רצח,מחבלים",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/f47b89ac-4515-42fd-be32-824745f44a9e/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "מפגין מפריע לעתי בשידור חי - 20/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/e2f7baaa-ba03-4071-a40e-a6ac41920c6e/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/e2f7baaa-ba03-4071-a40e-a6ac41920c6e/hls/master.m3u8",
+       "date": "2023-02-20",
+       "plot": "עתי שלו,מפגין,רפומה,אלימות,הפרעה,שידור חי,הפגנה,מחאה",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/e2f7baaa-ba03-4071-a40e-a6ac41920c6e/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "שי גולדן נסער בעקבות האירועים וחסימת ביתה של ח\"כ טלי גוטליב - 20/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/6d8bf21d-6103-4c01-b93f-155d347ac7b1/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/6d8bf21d-6103-4c01-b93f-155d347ac7b1/hls/master.m3u8",
+       "date": "2023-02-20",
+       "plot": "שי גולדן,סערה,טלי גוטליב,רפורמה,משפט,הפגנה,שמאל",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/6d8bf21d-6103-4c01-b93f-155d347ac7b1/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "סערה בוועדת החוקה בין אורנה ברביבאי לטלי גוטליב - 20/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/c68400a2-5ce3-42c4-bf4b-020c9cd5ea22/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/c68400a2-5ce3-42c4-bf4b-020c9cd5ea22/hls/master.m3u8",
+       "date": "2023-02-20",
+       "plot": "אורנה ברביבאי,טלי גוטליב,הליכוד,סערה,כנסת,מחאה,הפגנה,ועדה,חוקה,רפורמה,משפט",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/c68400a2-5ce3-42c4-bf4b-020c9cd5ea22/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "ח\"כ חנוך מילביצקי מלא: \"שום דבר לא ישנה את העובדה שנעביר את הרפורמה המשפטית\" - 20/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/407d12ce-0ae5-42d0-ad8d-5969fc47fd2a/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/407d12ce-0ae5-42d0-ad8d-5969fc47fd2a/hls/master.m3u8",
+       "date": "2023-02-20",
+       "plot": "חנוך מיליבצקי,הליכוד,רפורמה,משפט,טלי גוטליב,חסימה,שמאל,הפגנה",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/407d12ce-0ae5-42d0-ad8d-5969fc47fd2a/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "\"ח\"כ טלי גוטליב מגיבה לראשונה לחסימת ביתה ע\"י פעילי שמאל - 20/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/fa416dcf-36c0-496c-ad00-15f2e117f6d2/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/fa416dcf-36c0-496c-ad00-15f2e117f6d2/hls/master.m3u8",
+       "date": "2023-02-20",
+       "plot": "טלי גוטליב,שמאל,הפגנה,חסימה,בית,אוטיזם,שי גולדן",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/fa416dcf-36c0-496c-ad00-15f2e117f6d2/hls/master.m3u8",
+       "season": "פברואר 2023"
+      },
+      {
+       "name": "ח\"כ אריאל קלנר בריאיון על הרפורמה במערכת המשפט - 20/02/2023",
+       "logo": "https://channel14.vod.immergo.tv/channel14/transcoded/ee89d0ce-400d-4f07-b125-4ddd2f346d3d/poster.jpg",
+       "url": "https://channel14.vod.immergo.tv/channel14/transcoded/ee89d0ce-400d-4f07-b125-4ddd2f346d3d/hls/master.m3u8",
+       "date": "2023-02-20",
+       "plot": "אריאל קלנר,טלי גוטליב,חסימה,בית שמאל,הפגנה,רפורמה,משפט",
+       "page": "",
+       "id": "https://channel14.vod.immergo.tv/channel14/transcoded/ee89d0ce-400d-4f07-b125-4ddd2f346d3d/hls/master.m3u8",
+       "season": "פברואר 2023"
       }
      ]
     }

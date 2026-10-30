@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - גיימינג E-Sports",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fgaming-e-sports",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fgaming-e-sports",
+   "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+   "plot": "",
+   "updated": "2026-10-31 00:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "כשואן דייק לא רצה הארכה: הרגע של השבוע בפיפא 21",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3239906/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/video/525969/",
+       "season": ""
+      },
+      {
+       "name": "צפו בגמר גביע הפיפא: מוחמד דראמי נגד יספר קרלסטרום",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/677766",
+       "url": "https://sport1-video-f.wcdn.co.il/3230588/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/fifa/Article-833416/",
+       "season": ""
+      },
+      {
+       "name": "צפו בחצי גמר גביע הפיפא: יספר לינדסטרום נגד יספר קרלסטרום",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/677766",
+       "url": "https://sport1-video-f.wcdn.co.il/3234527/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/fifa/Article-833415/",
+       "season": ""
+      },
+      {
+       "name": "צפו בחצי גמר טורניר הפיפא: מוחמד דראמי נגד נביל באהוי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/677766",
+       "url": "https://sport1-video-f.wcdn.co.il/3231383/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/fifa/Article-833414/",
+       "season": ""
+      },
+      {
+       "name": "טורניר פיפ\"א 2020: צפו בנביל באהוי נגד ברונו גיירמש",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3239628/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/fifa/Article-833346/",
+       "season": ""
+      },
+      {
+       "name": "טורניר פיפ\"א 2020: צפו נביל באהוי נגד פיל פודן",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3235146/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/fifa/Article-833345/",
+       "season": ""
+      },
+      {
+       "name": "צפו בטורניר פיפ\"א 2020: מוחמד דראמי נגד פאביו סילבה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3241626/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/fifa/Article-833344/",
+       "season": ""
+      },
+      {
+       "name": "פיפ\"א 2020: צפו בקרב בין סרג'ינו דסט נגד מוחמד דראמי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3228268/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/fifa/Article-833343/",
+       "season": ""
+      },
+      {
+       "name": "צפו בטורניר פיפ\"א 2020: יספר קרלסטרום נגד ג'וסטין קלייברט",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3234999/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/gaming-e-sports/fifa/Article-833342/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

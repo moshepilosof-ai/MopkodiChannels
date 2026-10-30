@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - גביע המדינה",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fnational-cup",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fnational-cup",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1290845",
+   "plot": "",
+   "updated": "2026-10-31 00:09",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תיקתקנו, 28.10",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1290845",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114234/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1983727/",
+       "season": ""
+      },
+      {
+       "name": "עימותים בין אוהדי מכבי תל אביב לאוהדי הפועל באר שבע לפני גמר הגביע",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1272392",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4056162/hls/400x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1861011/",
+       "season": ""
+      },
+      {
+       "name": "העימות בין שחקני מכבי תל אביב לשחקני הפועל באר שבע, גמר גביע המדינה 2026",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1272341",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4056297/hls/406x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1860996/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מכבי תל אביב זכתה בגביע המדינה אחרי מהפך ענק מול הפועל באר שבע",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1272321",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4056350/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1860689/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מכבי תל אביב זכתה בגביע המדינה אחרי מהפך ענק מול הפועל באר שבע",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1272321",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1860644/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מכבי תל אביב זכתה בגביע המדינה אחרי מהפך ענק מול הפועל באר שבע",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1272313",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4056298/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1860619/",
+       "season": ""
+      },
+      {
+       "name": "צפו: בסיום גמר הגביע, קטטה גדולה בין שחקני מכבי ת\"א לשחקני הפועל ב\"ש",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1272320",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4056296/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1860610/",
+       "season": ""
+      },
+      {
+       "name": "עימותים בין אוהדי מכבי תל אביב לאוהדי הפועל באר שבע לפני גמר הגביע",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1272266",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4056161/hls/394x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1860396/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מכבי תל אביב ניצחה 2:3 את מכבי חיפה במשחק ענק ועלתה לגמר הגביע",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1266738",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4038507/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/national-cup/video/1826987/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

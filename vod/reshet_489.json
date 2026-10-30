@@ -1,0 +1,101 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מעצבים ברגע",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "489",
+   "series_id": "489",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fcecdd17f4240879eb9ffd5ee790354/version/0/width/800/height/1200/quality/90",
+   "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מעצבים ברגע, עונה 1, פרק 4: מעצבים מחוץ לקופסא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7414db4ff5e447d28255a91ac77fd808/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_me02sum9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-18",
+       "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית. והפעם הקרב על הסלון, האם רונית ודרור יצליחו לקלוע לטעמם של המעצבים בעלי הדעה, ומה גרם לקריסה של דרור?",
+       "page": "",
+       "id": "--kaltura--1_me02sum9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים ברגע, עונה 1, פרק 2: צפון ת\"א פינת סביון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/535af1d82c4d466b84531524a3a5aaee/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dvaqdtnh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-18",
+       "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית. והפעם הקרב על הסלון, האם שני תנצח עם הפיסים והבלינג בלינג, ומה קרה בין רונית ליובל, האם הלקוח תמיד צודק?",
+       "page": "",
+       "id": "--kaltura--1_dvaqdtnh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים ברגע, עונה 1, פרק 7: מאוקראינה לישראל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1351d34cb254ec7b5f64bb9fe11967a/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8cvvqo2l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-18",
+       "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית. והפעם הקרב על הסלון, האם הסגנון האוקראיני של לודה ינצח את הסלון הטכנולוגי של רמי?",
+       "page": "",
+       "id": "--kaltura--1_8cvvqo2l===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים ברגע, עונה 1, פרק 1: הזוג המעורב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a421826026454abfa7231850cb1363e6/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fhwu3lsb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-18",
+       "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית. והפעם הקרב על חדר השינה, האם הרקולס יצליח לצאת מהכפר לעיר, או שקייסי תצליח לביית אותו?",
+       "page": "",
+       "id": "--kaltura--1_fhwu3lsb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים ברגע, עונה 1, פרק 6: שדרוג חדר המיטות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be8ec571890145e5970ed99af0f6af2d/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2bd51a15/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-18",
+       "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית. והפעם שדרוג חדר המיטות. איך שומרים על זוגיות באש גבוהה אחרי 40 שנה יחד, והאם רונית תצליח להרגיע את אבי?",
+       "page": "",
+       "id": "--kaltura--1_2bd51a15===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים ברגע, עונה 1, פרק 3: הרחבת המשפחה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f3cfeb30c20d4984b58e74e5375731e1/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o4wybqei/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-18",
+       "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית. והפעם הקרב על הסלון, איך אפשר להכין אותו להרחבת המשפחה, והאם הם יזכו להגשים חלום ולארח בו את שתי המשפחות?",
+       "page": "",
+       "id": "--kaltura--1_o4wybqei===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים ברגע, עונה 1, פרק 5: גרושים פלוס אחד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2b12ad1bab5414080804c6d1f5c30f5/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9cnvg9lk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-18",
+       "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית. והפעם חדר שינה לילד להורים גרושים. האם רונית ודרור יצליחו להצית מחדש את האהבה בין חן ליאנה?",
+       "page": "",
+       "id": "--kaltura--1_9cnvg9lk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים ברגע, עונה 1, פרק 8: שבעים פלוס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b8d8c47ecec4980b5791e2e30327aec/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z8j5irsi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-18",
+       "plot": "רונית יודקביץ׳ ודרור קונטנטו מגיעים למתחם העיצוב הגדול ביותר בישראל ומתגייסים לעזור לבני זוג שלא מצליחים להסכים על עיצוב חלל הבית. והפעם: הקרב על חדר העבודה. האם ז׳ק יסכים לוותר על לשכת האביר לטובת חדר השינה של ויויאן, והאם לינקולן חי?",
+       "page": "",
+       "id": "--kaltura--1_z8j5irsi===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

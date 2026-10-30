@@ -1,0 +1,61 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מלחמה על הבית",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "21",
+   "series_id": "21",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bc410d8ed454fafab95162687458cd6/version/10/width/800/height/1200/quality/90",
+   "plot": "\"מלחמה על הבית\", אלון בן דוד יוצא בסדרה דוקומנטרית חדשה בת ארבעה פרקים, במלאת 20 שנים למבצע \"חומת מגן\"",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מלחמה על הבית, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d269c2b4a2a44c79ae3d59c3a4f81b1/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4od680z2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-27",
+       "plot": "אלון בן דוד חוזר בפרויקט תיעודי מיוחד ל\"חומת מגן\" במלאת 20 שנה למבצע. בפרק הראשון ישחזרו הלוחמים והצמרת הביטחונית את החודשים שקדמו למבצע ואת התהליכים שהביאו בסופו של דבר ליציאה ללחימה | מלחמה על הבית, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_4od680z2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמה על הבית, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c39f98983b2499ab3b634d9602c5d4b/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_axfvam5j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-27",
+       "plot": "אלון בן דוד חוזר בפרויקט תיעודי מיוחד ל\"חומת מגן\" במלאת 20 שנה למבצע. הפרק הרביעי והאחרון עוסק בלקחים שהופקו מאז - ובשאלה: האם מדינת ישראל מוכנה למערכה הבאה? | מלחמה על הבית, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_axfvam5j===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמה על הבית, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d485f9ba8f624dcbacadbd68dc133f69/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g28u06iu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-27",
+       "plot": "אלון בן דוד חוזר בפרויקט תיעודי מיוחד ל\"חומת מגן\" במלאת 20 שנה למבצע. הפרק השני עוסק במצור על לשכת יו\"ר הרשות הפלסטינית, יאסר ערפאת. האם הייתה תוכנית לחסלו, מה רצו להשיג בכניסה למוקטעה - ומדוע נתנו לו לירות מחלונו לעבר חיילי צה\"ל? | מלחמה על הבית, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_g28u06iu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמה על הבית, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/045f30141386434e94991898162cf456/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_os554jf7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-27",
+       "plot": "אלון בן דוד חוזר בפרויקט תיעודי מיוחד ל\"חומת מגן\" במלאת 20 שנה למבצע. הפרק השלישי עוסק בקרב בג'נין שבו צה\"ל איבד ביום אחד 13 חיילים. מנורות האזהרה ועד לסמטאות שהפכו למלכודת: הסיפור על הקרב בג'נין בלי שום צנזורה | מלחמה על הבית, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_os554jf7===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - הישראלים",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "141",
+   "series_id": "141",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ce7a5b096564f8cb0a71ea9c9cce60c/version/15/width/800/height/1200/quality/90",
+   "plot": "תכנית קומית בכיכובם של \"שלישיית מה קשור\" (ציון ברוך, אסי ישראלוף ושלום מיכאלשווילי). מערכונים בידוריים וסאטיריים, המציגים את האנשים הטיפוסיים שחיים בישראל, ואת המציאות הישראלית המיוחדת. לצפייה בכל הפרקים כנסו לעמוד זה.",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הישראלים, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/38344c5dea9f4af79e8813735dc0a102/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wfgoxht3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-11-16",
+       "plot": "הישראלים עם נפלא! הבאנו לעולם את האמונה באל אחד, את הקיבוץ והבמבה האדומה",
+       "page": "",
+       "id": "--kaltura--1_wfgoxht3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הישראלים: לקט כדורגל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f5c5f43493b4439a47b6514f07baace/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f6z0a5n7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-08",
+       "plot": "ערכנו במיוחד עבורכם את קטעי הכדורגל מכל הפרקים\nשלא תפספסו שום אימון",
+       "page": "",
+       "id": "--kaltura--1_f6z0a5n7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הישראלים, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c2aebf8fba174c2789ce05a3da79a887/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ovdo7ave/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-08",
+       "plot": "תוכנית קומית בכיכובם של שלישיית \"מה קשור\"",
+       "page": "",
+       "id": "--kaltura--1_ovdo7ave===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הישראלים, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/119ddeb9fe054937bc4a081e0e8aa946/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5bh5f332/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-09",
+       "plot": "תוכנית קומית בכיכובם של שלישיית \"מה קשור\"",
+       "page": "",
+       "id": "--kaltura--1_5bh5f332===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הישראלים, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4bfa2ade45cc44dfb42e4193e7b32e20/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k2hm0wgd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-09",
+       "plot": "תוכנית קומית בכיכובם של שלישיית \"מה קשור\"",
+       "page": "",
+       "id": "--kaltura--1_k2hm0wgd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הישראלים, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/236639cb253c4f62bc92b9b00df3a031/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sw784jt7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-09",
+       "plot": "תוכנית קומית בכיכובם של שלישיית \"מה קשור\"",
+       "page": "",
+       "id": "--kaltura--1_sw784jt7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הישראלים, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d0b473d9b42b4b009925bad90997fee6/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3mogjynk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "תוכנית קומית בכיכובם של שלישיית \"מה קשור\"",
+       "page": "",
+       "id": "--kaltura--1_3mogjynk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הישראלים, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/067f6339a14a4f8c9f2375b187af7924/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tykzc499/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "תוכנית קומית בכיכובם של שלישיית \"מה קשור\"",
+       "page": "",
+       "id": "--kaltura--1_tykzc499===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הישראלים, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/23409fcd1a1942ed828b33d0864704e6/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pqryiw78/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "תוכנית קומית בכיכובם של שלישיית \"מה קשור\"",
+       "page": "",
+       "id": "--kaltura--1_pqryiw78===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

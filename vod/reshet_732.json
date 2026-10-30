@@ -1,0 +1,61 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - VOICE OVER",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "732",
+   "series_id": "732",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ed7ed4918db4ac380513eae88162359/version/0/width/800/height/1200/quality/90",
+   "plot": "תוכנית חדשה בהנחיית קווין רובין וליה נגה שתלווה את העונה החדשה של THE VOICE. את התוכנית ילוו פאנליסטים שידברו על מה שקורה על הבמה ומחוצה לה",
+   "updated": "2026-10-30 23:58",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "VOICE OVER עם קווין רובין וליה נגה: פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d816ffa7488149409973db651849c5f7/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_06d7zkr7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_06d7zkr7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "VOICE OVER עם קווין רובין וליה נגה: פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bb45a59364d4d79bb71337a4dcbfc7c/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_75bzsgnl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_75bzsgnl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "VOICE OVER עם קווין רובין וליה נגה: פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56f38a9c28e24dedabcc9ebc4e979be9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0bstebr5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_0bstebr5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "VOICE OVER עם קווין רובין וליה נגה: פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2d541f5613e84877bded44c108047d35/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wo5fld7y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wo5fld7y===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

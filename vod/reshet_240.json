@@ -1,0 +1,556 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - החברים של נאור",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "240",
+   "series_id": "240",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52f934d59f2e4cd5b3c5c985d314324a/version/9/width/800/height/1200/quality/90",
+   "plot": "קומדיית מצבים ישראלית, פרי יצירתו של נאור ציון שגם משחק בסדרה. ארבעה חברים טובים, רווקים, הגרים בלב תל אביב ועל המצבים בהם הם נתקלים בחיי היום יום שלהם",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "החברים של נאור, עונה 1, פרק 13: נערה מהפריפריה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4780553093d147b28bddf49e02225df3/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cyhepcnr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "וייסמן משוויץ שהוא עומד לצאת עם \"סלב\", בעלת חברת אירועים תל אביבית שנחשבת לאחת הנשים היפות בעיר. נאור מצנן את התלהבותו עם תיאוריה חדשה שלו, שבת\"א אין אף בחורה נורמלית",
+       "page": "",
+       "id": "--kaltura--1_cyhepcnr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 11: שובי שובי לים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f58c91d9a194fc89f6252c4885e9602/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lxtvw1xv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_lxtvw1xv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 12: חבר חדש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7df645261dd42bea522f8899a48418b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sz5q6heq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "וייסמן במילואים, דדי באימוני טיסה באריזונה, למיקה יש מבחנים, ונאור מוצא את עצמו במצוקת חברים קשה",
+       "page": "",
+       "id": "--kaltura--1_sz5q6heq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 9: חול מקופיפי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52706a247b9b4025a1ebbd282b1eb97b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_emj97vw5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_emj97vw5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 8: הפולנייה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f2c75a9958744d89e1868a52e7a2e75/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sff1av4q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_sff1av4q===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 10: הג'יי דייט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4c7b997d51cf4f4ca2dd1e1ca61950e0/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1p23hf83/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "דדי מציג לחבורה, יפהפייה אמריקאית שהכיר באתר ההיכרויות: \"ג'יי-דייט\". בעקבות הצלחתו, החבר'ה מתמכרים לאתר ההיכרויות, אך ללא ידיעתם הם נחשפים לסכנת חיים",
+       "page": "",
+       "id": "--kaltura--1_1p23hf83===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 4: החומוסיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca7c09c0f72c4872b3e86675d2a29618/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f4dv1ept/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "כל אחד תמיד חושב שהוא מכיר את החומוס הכי טוב. החבר'ה בטוחים שלחומוסייה השכונתית שלהם אין מתחרים, עד שזוג \"ידענים\" דוחקים בהם לנסות את \"אבו-חסן\", חומוס \"אוטנטי\" ביפו. למרות הקשר ארוך השנים שלהם עם בעל החומוסייה המקומית שלהם, הם מחליטים לתת צ'אנס לאבו-חסן, ולתדהמתם מגלים שהחומוס שלו הרבה יותר טוב. בעל החומוסייה השכונתית מגלה את בגידתם, ויוצא במבצע להשבת הבנים",
+       "page": "",
+       "id": "--kaltura--1_f4dv1ept===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 5: הפצועה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a129aa24ae914180ac26b571d4696731/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7r679s4v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "נאור מקבל בקשה סטנדרטית לבקר חיילת בת 20 שנפצעה בפיגוע. הוא מגיע לביה\"ח ופוגש את שפרה, בחורה שמנה ובלתי מושכת בעליל. אבל לצידה שוכבת מור, פצצה סקסית  ויפה מאין כמוה. וייסמן שהתלווה לביקור יחד עם נאור נדלק גם הוא ושניהם מתחילים לבוא כל יום לביה\"ח ולהתחרות על ליבה של מור. העלילה מסתבכת כשידוענים נוספים באים לביה\"ח לבקר את מור הפתיינית, כולם נדלקים ומתחרים בטרוף על חסדיה",
+       "page": "",
+       "id": "--kaltura--1_7r679s4v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 7: למות מצחוק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/54805f7c62184fc9b604e393b532808a/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4wxezhdp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "נאור קונה לעצמו מתנה יקרה שבטעות מגיעה לאחיינו הקטן, כעת מנסה נאור בעזרת חבריו להשיב לידיו את האבדה",
+       "page": "",
+       "id": "--kaltura--1_4wxezhdp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 6: למות מצחוק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c8abe4034744046bccc990ad134f8ba/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lx2cebh6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_lx2cebh6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 2: פיק אפ בר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90416d5126314e959f00f0846c8eb6b3/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a6mr8qx0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_a6mr8qx0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 1: מעלים הידידים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f5bdede117749f194e81351aae37c42/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v3aprem6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_v3aprem6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החברים של נאור, עונה 1, פרק 3: נערת ה אס. אמ. אס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8d1e02c2ebc84a0da850be3d4eaa2c58/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_acp3yxdi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-04",
+       "plot": "נאור ננטש על ידי חברתו בת ה-23 בגלל שהוא לא כותב מספיק מהר ב-ס.מ.ס. פגוע, הוא מצטרף לסדנת ס.מ.ס שמנהל ילד בשם קאיי במקלט השכונתי. בסדנא, לצד חבורת קשישים מאותגרי ס.מ.ס כמוהו, ובהדרכתו הקשוחה והבלתי מתפשרת של קאיי, נאור מצליח להשתלט על הנכות הטכנולוגית שלו. חמוש ביכולות החדשות שלו, הוא יוצא לכבוש מחדש את חברתו וכבודו האבוד",
+       "page": "",
+       "id": "--kaltura--1_acp3yxdi===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "החברים של נאור, עונה 2, פרק 10: החולצה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17d09769d30d48c993bfb989fed9eceb/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4lecxj8f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "נאור חוזר מחו\"ל עם סריגים צבעוניים יוצאי דופן של מעצב איטלקי הנקרא \"מיסוני\". נאור שבטוח שהסריגים היקרים היו קנייה מצוינת נכתש על ידי התקשורת ובמיוחד על ידי מבקרת הסטיילינג הקשוחה דורין אטיאס. לקראת טקס האוסקר הישראלי אימא של נאור מחליטה לשקם את כבודו האבוד של בנה ומחליטה להפוך לסטייליסטית הצמודה שלו. במקביל דדי מתחיל לקחת גלולה שמצמיחה שיער כי מיקה משכנעת אותו שגברים שעירים חוזרים לאופנה",
+       "page": "",
+       "id": "--kaltura--1_4lecxj8f===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 9: הנשוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9df54191d1214af083962b6e256d0b54/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4wi9hh9q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "טוביס (ליאור אשכנזי) הוא חבר ילדות של החבר'ה החוזר לביקור אחרי תקופה בה גר עם אשתו ושלושת ילדיו באוסטרליה. החבר'ה שזוכרים אותו בתור הרווק מספר אחד בת\"א מתפלאים לגלותו רמוס מתמיד, מיוסר מגידול ילדיו ועבד של אשתו שנשארה באוסטרליה לתערוכה שהיא מציגה במלבורן. טוביס משביע את החברה שלא יעזו להתחתן ומנסה דרכם לחזור לחיי הרווקות העליזים למורת רוחה של אימו של נאור, המפחדת מהשפעתו של טוביס עליהם ועל כך שהוא מוציא להם את החשק מלהקים משפחה",
+       "page": "",
+       "id": "--kaltura--1_4wi9hh9q===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 8: סכסכן במאפיה חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b9a15e608324ec8a63a4b6d5880163a/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bnwlsm7e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "נאור מקבל הצעה חסרת תקדים מראש מחלק המוסר של ת\"א, דני קונפורטי (יגאל נאור), לסכסך בין שתי כנופיות הפשע השולטות בישראל. סמי חג'ג' (איציק כהן) השולט בעסקי הסחר בסמים וה\"ויאגרות\"  וריקו קלדרון (עמוס לביא) השולט בכל עסקי הקזינו ומיחזור הבקבוקים. נאור לא מוכן להיות סוכן סמוי אך קונפורטי מבהיר לו שהם בסך הכול רוצים שהוא יהיה סכסכן סמוי ובתמורה לכך יבוטלו לו כל דוחות החנייה ויתנו לו פטור ממס הכנסה לשנה. נאור נענה לאתגר ומתחיל לסכסך בין שתי הכנופיות עד אשר העניינים מתחילים להסתבך",
+       "page": "",
+       "id": "--kaltura--1_bnwlsm7e===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 6: התביעה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/88684bbbb880460f9154aba4cf051369/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7umu92my/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "נאור נתבע על ידי זוג שנכח בהופעתו וישב בשורה הראשונה. ונדרש לשלם פיצויים בסך 500 אלף שקל. המקרה זוכה לחשיפה תקשורתית רחבה עקב החלטת המדינה לנסות ולבדוק שיטת משפט חדשה בה יהיו חבר מושבעים. במקביל מיקה ווייסמן נקלעים לחובות, ואליקו ההומלס השכונתי, מראה להם דרך קלה להתעשר... באמצעות קיבוץ נדבות ברמזורים",
+       "page": "",
+       "id": "--kaltura--1_7umu92my===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 7: סכסכן במאפיה חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c69a77450a4a45ce9742eb59d599abbc/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b7uhw1xu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "נאור מקבל הצעה חסרת תקדים מראש מחלק המוסר של ת\"א, דני קונפורטי (יגאל נאור), לסכסך בין שתי כנופיות הפשע השולטות בישראל. סמי חג'ג' (איציק כהן) השולט בעסקי הסחר בסמים וה\"ויאגרות\"  וריקו קלדרון (עמוס לביא) השולט בכל עסקי הקזינו ומיחזור הבקבוקים. נאור לא מוכן להיות סוכן סמוי אך קונפורטי מבהיר לו שהם בסך הכול רוצים שהוא יהיה סכסכן סמוי ובתמורה לכך יבוטלו לו כל דוחות החנייה ויתנו לו פטור ממס הכנסה לשנה. נאור נענה לאתגר ומתחיל לסכסך בין שתי הכנופיות עד אשר העניינים מתחילים להסתבך",
+       "page": "",
+       "id": "--kaltura--1_b7uhw1xu===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 5: יש לה פיפל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecd7982efc8a4043a4ccf76778f9f609/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_40z9eg2q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "נאור מקבל הזדמנות חד פעמית ל\"ספיישל\" טלוויזיוני שיכול להביא בעקבותיו תוכנית יומית עם הרבה מאוד כסף. הבעיה היחידה שקברניטי הערוץ מציבים בפניו הוא השגת רייטינג גבוה ביותר לתוכנית, לא פחות מ-20%. נאור מבין שאין לו סיכוי ומחליט לוותר, אך אז מסתבר שדדי יוצא עם בחורה שיש לה בבית \"פיפל מיטר\" והיא אחת מה-500 האנשים שנבחרו למדגם הרייטינג. פלוטו מצליח דרכה להגיע לרשימה הסודית של כל ה-500 ומארגן את כל צבא הסנג'רים שלו כדי להשתלט על כל הדירות עם ה\"פיפל מיטר\" ולהטות את הרייטינג לטובת נאור",
+       "page": "",
+       "id": "--kaltura--1_40z9eg2q===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 3: איזה מזל אתה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30527e0551704ff1983633966dd6c9b6/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_35b9oymp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "נאור מגלה עניין ביעל גולדמן אך מיקה מזהירה אותו שאין לו סיכוי מפני שהוא בן מזל דלי והאסטרולוגית שלה אמרה לה שהעתיד הזוגי שלה יהיה אך ורק עם בני מזל שור. נאור מתחזה לבן מזל שור ומשיג את הדייט המיוחל. אולם העניינים מסתבכים כשדדי, שהוא בן מזל שור בעצמו, מוצא את תעודת הזהות של גולדמן ברחוב וכך \"משיג\" גם הוא דייט. בין השניים מתפתחת מלחמת שוורים על ליבה של יעל",
+       "page": "",
+       "id": "--kaltura--1_35b9oymp===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 4: מלצרית ומארחת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/20eec65e4a5a4132a771503dc43d5301/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1npnfalh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "דדי נדלק על המלצרית ווייסמן על המארחת במסעדה. הם מחליטים להתערב ביניהם איזה קשר עדיף יותר, עם מלצרית או עם מארחת? דדי טוען שעדיף חברה מלצרית כי היא הרבה יותר משקיענית ומפנקת ווייסמן טוען שחברה מארחת היא כמו מלכת המלצריות ומי שכובש את ליבה נהיה מלך. ההתערבות נכנסת להילוך גבוה כשנאור יוצא עם השפית של המסעדה ומיקה עם הבעלים וכולם מנסים לבדוק איזה קשר עדיף מלצרית , שפית,בעלים או עם המארחת של המסעדה?",
+       "page": "",
+       "id": "--kaltura--1_1npnfalh===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 2: שובה של הפרחה הסמויה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a42b062cdadb42d3944cc65664d85e4a/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2nht2pyr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "נאור יוצא עם בחורה איכותית העונה לשם שני, \"קואצ'רית\" שאימא של נאור וגם החברים מגדירים אותה כמושלמת (ענת מגן שאבו). למרות התלהבותם של החברים, נאור מתחיל לחשוד שאולי עוד פעם הוא נפל על פרחה סמויה... החברים מוכנים להישבע בפניו שאין סיכוי שהיא פרחה ונאור יוצא להוכיח את עמדתו. במקביל יוצאת מיקה עם ג'קי זרקו (זוהר ליבה) \"פרח\" אמיתי ולא סמוי ששובה את ליבה",
+       "page": "",
+       "id": "--kaltura--1_2nht2pyr===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "החברים של נאור, עונה 2, פרק 1: מוציאה מקשר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/388be766014b468a84c286449f0abd85/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sw5kuifu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-11",
+       "plot": "דדי מאוהב עד מעל לראש בבחורה בשם נלי (לירון וייסמן) איתה הוא כבר יוצא כחצי שנה, הוא מחליט להציע לה נישואין תוך כדי שהוא מבקש מחבריו הטייסים לכתוב לה בשמיים \"התנשאי לי?\". נלי משיבה בשלילה, והשניים נפרדים. דדי מרוסק עד כאב, והחברים מחליטים לעשות מעשה ולהפגיש אותו עם \"מוציאה מקשר\", בחורה יפיפייה (רונית יודקביץ) שהקימה חברה ל\"הוצאת\" גברים שנפרדו מהקשר האחרון שהיה להם. במקביל דלאל מפיצריית הסובל מבקש מנאור להפגיש את האחיין שלו עם הכוכבת הנערצת עליו, שירי מיימון",
+       "page": "",
+       "id": "--kaltura--1_sw5kuifu===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "החברים של נאור, עונה 3, פרק 16: פרופיל צד ימין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3af0086bc1c34212afdd57f5a546bbca/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zyot0vrr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "נאור מגיע למסקנה שהבעיה עם בחורות שהוא אוסף לדייט היא שהן רואות קודם את פרופיל צד ימין שלו שהוא פחות טוב בעיניו מפרופיל צד שמאל, החברים מחליטים לעזור ולסדר לו דייט בלונדון שם נוהגים בצד ימין, במקביל נצח ודדי נוסעים לקובה לאתר את הפושע הנאצי האחרון שמסתתר בכדור הארץ",
+       "page": "",
+       "id": "--kaltura--1_zyot0vrr===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 17: להתאגרף עם פפארצי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac04e2a1a2d1454894bfbebc868e100c/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3ef8ihr3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "נאור מתחיל לצאת עם בחורה מאוד מיוחדת ומרגיש שהוא מצא את האחת. צלם פאפרצי' אלוף בקראטה שמטיל את אימתו על כל הסלבריטאי ת\"א הורס לו הכל ומבריח אותה. נאור מזמין את הפאפרצ'י לקרב אגרוף כשמי שמאמן אותו  לקרב הוא מאמן רוסי קשה יום בשם פימה [מוני מושונוב ]. במקביל דדי מתנדב ללהק את נערות הסיבוב של הקרב",
+       "page": "",
+       "id": "--kaltura--1_3ef8ihr3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 15: פרק אימה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab076573f2a34e08ae7185245ce90bdb/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lsjljoti/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "מיוחד: החבורה נקלעת לסופה שגורמת להם להגיע לבית מסתורי ושם העלילה מסתבכת כשהאירוח הופך לאירוח אימה",
+       "page": "",
+       "id": "--kaltura--1_lsjljoti===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 14: הבלינצ'ס ההונגרי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cfc526f9fa864c478aacfaffa5046233/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xqy61o9i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "נאור מחפש מקום מיוחד לדייט ומוצא באופן מפתיע בלינצ'ס הונגרי עם מופע שהציל את הערב",
+       "page": "",
+       "id": "--kaltura--1_xqy61o9i===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 12: אהבה בדרום תל אביב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/36f5848a06794930909e15d0e317acf0/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5qs3zgoo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "נאור מחליט לרפד את הספה הבלויה שבביתו מחדש, הוא הולך עם החבר'ה לדרום תל אביב שם הם מתאהבים בדרום העיר ובקסם שלה ומוצאים אהבות חדשות. במקביל, דדי לוקח שיעורי ריקוד איריים כדי להתכונן לטקס בחיל האוויר",
+       "page": "",
+       "id": "--kaltura--1_5qs3zgoo===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 13: משהו לצפות לו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83df49b0feda48ffb769dd557c935a3f/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mi3ibrii/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "דפי מגלה לחברים מה הוא המתכון לאושר ע\"פ אלביס - משהו לעשות ,מישהי לאהוב ומשהו לצפות לו החברים נדלקים על התאוריה ומנסים למצוא כל אחד מה חסר לו בחיים ,במקביל דדי מתחיל לצאת עם הבחורה שעומדת מאחורי הקול של הג'י פי אס שלו ונאור ווייסמן עומדים לפני פריצת דרך משמעותית בקריירה שלהם",
+       "page": "",
+       "id": "--kaltura--1_mi3ibrii===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 10: המתחזה בפייסבוק חלק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ac7e531fe1849ebbc92007581b8cc9c/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xh492xun/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "המתחזה נכנס עוד ועוד לחיי החברים ומשכנע אותם שכדיי להשיג משקיעים  לקבוצת הרכישה עליו להיכנס לאח הגדול וי איי פי . למרות התנגדותו של נאור החברים תומכים  בהחלטה אך הדברים מתחילים להסתבך כשהמתחזה גונב את גל חברתו של דדי  .כדי להיפתר מהמתחזה החברים מתכננים להפילו בטורניר סנוקר גדול ולשם כך הם מגייסים את מעלים הידידים",
+       "page": "",
+       "id": "--kaltura--1_xh492xun===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 11: ההיא מטוקבק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f03a9e3e26ea4a8fbd72f834fd41e793/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bog76ux3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "ההיא מהטוק בק – נאור מגלה טוקבקיסטית ששונאת אותו במיוחד וחתומה תמיד תחת השם חדווה סינוואני. נאור חושד ש\"הטוקבקיסטית\" היא אימא שלו והוא שוכר שני ציידי טוקבקיסטים ,איש מחשבים גאון [מאור כהן ] ובריון רוסי שנשבע לנקום את נקמתו בטוקבקיסטים שהשמיצו את אחותו ,טאטיינה, מאמנת נבחרת ישראל בהתעמלות אומנותית. במקביל דפי מעבירה סדנה למשתפי פעולה פלשתינאים שרוצים לדעת להגות את האות \"פ\"",
+       "page": "",
+       "id": "--kaltura--1_bog76ux3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 9: המתחזה בפייסבוק חלק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/728b82e3bd5c44579e75b20bec902c66/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mzmio3l8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "החברים מנסים  לשכנע את נאור לפתוח דף בפייסבוק , לאחר שהוא מסרב הם מגלים לתדהמתם שמסתובב כבר אחד שטוען שהוא נאור ציון \"בפייסבוק\" ומהתמונות הם מגלים שהוא ממש כפיל של נאור . דפי אכולת סקרנות קובעת עם המתחזה ומגלה נאור קליל זורם והרבה יותר כיפי. היא מכירה אותו לחברים כשלאט לאט גם הם וגם אימא של נאור מעדיפים אותו על נאור המקורי",
+       "page": "",
+       "id": "--kaltura--1_mzmio3l8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 8: וילו והלופטפיסטים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bcbda6d8dcc446f7977870a9842ca64b/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ad7o74ty/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "וילוז'ני בתפקיד עצמו פותח בית קפה שהופך להיות רווחי ובשבועיים הראשונים עושה מחזורים עצומים אך הדברים מתחילים להסתבך כאשר כל \"הלאפטופיסטים \" של תל אביב מתאהבים במקום ומתנחלים שם . וילו המתוסכל משיב מלחמה ועושה הכל כדי להעיף מהמקום את ה\"לאפטופיסטים אוכלי החינם\" . במקביל דדי מסתבך עם בלוגרית מסתורית , שגנבו לה את הכיסא של האופניים",
+       "page": "",
+       "id": "--kaltura--1_ad7o74ty===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 7: שונטל סויסה השנים הראשונות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d36c98f724394a78b99bc2a690e6d58a/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4np6tpo2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "פרק מיוחד וחגיגי העוקב אחרי הפרחה הסמויה שונטל סוויסה[ענת מגן שבו ] וימייה הראשונים בת\"א. מי שמלמדת אותה את כל הטכניקות לכיבוש גבר עשיר בעיר הגדולה היא חברתה הטובה סילבי [אניה בוקשטיין] וביחד עם עוד שתי חברות הן עושות שכונה לכל הרווקים משוק ההון בת\"א",
+       "page": "",
+       "id": "--kaltura--1_4np6tpo2===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 6: ויפאסנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cfadbc1d91d14c35bf7fd1791f05deac/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_122z53bg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "דפי מגיעה למסקנה שהבעיה שלה עם גברים מתחילה מזה שהיא לא יודעת לשרוק , הפסיכולוג שלה ממליץ לה על סדנת ויפאסנה  והחברים מחליטים להיצטרף אחרי שדדי מספר איזה בחורות יהיו שם. הבעיה שאחרי כמה ימים אימא של נאור נזרקת מהויפאסנה והחברים  מחליטים להמריד את כולם להתחיל לדבר",
+       "page": "",
+       "id": "--kaltura--1_122z53bg===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 5: הבת של דלאל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f10426f30cd4cc6a9cf640fb0e0014b/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v3o772nl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "הבת של דלאל – בתו של דלאל  (מורן אטיאס) חוזרת מלימודי אדריכלות אחרי שש שנים ברומא. החברים נוסעים להביא אותה משדה התעופה ומגלים יפיפייה עם טמפרמנט שמתחילה לסבך אותם . דלאל שחושד בנאור שמנהל רומן עם בתו מתחיל לחזר אחרי אימא שלו כדי לנקום בו על חילול כבוד המשפחה. במקביל ברווז [עידו מוסרי ] מלמד את דדי ועומרי על איך לצוד בחורות במוניות שירות",
+       "page": "",
+       "id": "--kaltura--1_v3o772nl===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 3: גירושין נוסח תל אביב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe405783288245bf806560cfce365646/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jw2pyf7h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "זוג חברים של החבורה, אילה (מיכל ינאי) ועמית (גיא לואל), מחליטים להתגרש לאחר זוגיות של מספר שנים ושני ילדים משותפים. הגירושין מתפתחים למלחמת חורמה על הרכוש המשותף. נאור והחברים נסחפים לתוך המלחמה, כאשר הגברים שבחבורה מצודדים בעמית והנשים באילה",
+       "page": "",
+       "id": "--kaltura--1_jw2pyf7h===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3, פרק 4: חברה שלי כוכבת פורנו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2d89d782c5d1492c8b569ce1f6b6ec36/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zmu5ykks/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "החברה שלי כוכבת פורנו  –  נצח אזולאי (שלומי קוריאט), ישראלי שחי במיאמי, מגיע לארץ לביקור מולדת וכהרגלו מתעלק על נאור והחברים שצריכים לממן לו את שהותו בארץ מבחינת בילויים. דדי נוסע לצימר לצפון עם בחורה וסרט ארוטי שהוא משאיל מנאור. נאור מגלה שנצח עוסק היום בהפקת סרטים ארוטיים ושהוא וחברתו הכוכבת קלי דה קוסטה מתכננים לצלם פרומו לסרט ארוטי בישראל",
+       "page": "",
+       "id": "--kaltura--1_zmu5ykks===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3 פרק 1: הסבתא המרוקאית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c660d41fec1241aba3e94145678ed9b7/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0abxxui5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "נאור יוצא עם בחורה מבית שומר שבת ונלחץ מהקולות שנשמעים מבית הוריה בזמן שהוא מדבר איתה בטלפון,  דדי יוצא עם בחורה שאחיה בן ה 12 לא נותן לו להתקרב אליה, ודפי מנסה לשמר בת\"א את חווית ניו-יורק עם בחור שפגשה שם",
+       "page": "",
+       "id": "--kaltura--1_0abxxui5===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "החברים של נאור, עונה 3 פרק 2: פאסיב אגרסיב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17cf2d98a7e5423fa3f7b8a736720de7/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n0c7xl1a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "עומרי מלמד את החבר'ה את ה\"אסטרטגיה\" הטובה ביותר להשגת בחורה שווה בת\"א - \"פאסיב אגרסיב\".  נאור מאמץ אסטרטגיה דומה כשהוא מסתובב עם רותם סלע, ובמקביל דפי נופלת בקסמו של אודי קטש [אורי פפר ] . כשהיא לא יודעת שגם הוא משתמש באותה אסטרטגיה",
+       "page": "",
+       "id": "--kaltura--1_n0c7xl1a===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "החברים של נאור, עונה 4, פרק 12: מפולת בבורסה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ebf820a0699425d95f0dfa99614bd86/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_bndybcgh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-01",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_bndybcgh===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 1: בר מצווה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be1fb741dd20452f966f0bd63e0f5607/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_b04o9cvs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-28",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_b04o9cvs===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 11: מניפולטור בע״מ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/43c11686ea5f4dcd954d53fa71659fdc/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_3cwd3e0d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-28",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_3cwd3e0d===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 7: אני יודע איך אתה חושב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/010ba26a8e7144b48f40ff2a6939ec3a/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pdu5b5t2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-28",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_pdu5b5t2===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 10: סכנה צמחונים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a6fdcb6f432414c851468fd22705f60/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_4smaagwa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-28",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_4smaagwa===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 5: חנות דגים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1a745735356460a9aec3b1dbe6c05ff/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_7dr5naxc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-28",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_7dr5naxc===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 8: וזה לא מובן מאליו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2af0c3766c174a848858ba80754ffc99/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pbcqbvt2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-28",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_pbcqbvt2===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 4: דלאל בייקרי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ebdd7b0bbb4b4c2ea3803333362348b1/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ua82nki4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-28",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_ua82nki4===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 6: הז׳קט שאיבדתי בדואר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ed16492721f741089bf70cf201005646/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_nhnz89ag/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-28",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_nhnz89ag===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 2: בלי מידע מוקדם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2254e1184d224538a2ca20e4294b8261/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_xy0s7vqc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-14",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_xy0s7vqc===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 3: תלווה לי ת'איגואנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b787b0127014c6383b33978364b2a48/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_dit33pot/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-14",
+       "plot": "קומדיית מצבים העוסקת בארבעה חברים טובים, רווקים, בשנות ה-30 לחייהם אשר גרים בלב תל אביב",
+       "page": "",
+       "id": "--kaltura--0_dit33pot===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "החברים של נאור, עונה 4, פרק 13: יובל סמו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8fd64d4182647479169beae1abf0488/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qqwmu2at/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-14",
+       "plot": "דדי (יובל סמו) חוזר אחרי שנתיים ביוסטון כשהוא עומד להיות האסטרונאוט הישראלי הראשון שישוגר לירח. במסיבה שמארגנים לו החברים, אישה סקסית בשם מיכל רובינזון מנסה לפתות אותו ומשם מסתבכים העניינים. שחקנים אורחים: ג׳יזל סילבר ודנה פרידר",
+       "page": "",
+       "id": "--kaltura--1_qqwmu2at===",
+       "season": "עונה 4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

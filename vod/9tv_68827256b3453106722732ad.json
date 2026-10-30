@@ -1,0 +1,561 @@
+{
+ "categories": [
+  {
+   "name": "ערוץ 9 - Главный выпуск новостей",
+   "type": "vod",
+   "source": "9tv",
+   "program_url": "68827256b3453106722732ad",
+   "series_id": "68827256b3453106722732ad",
+   "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/bf698380-2602-4fb4-8467-657e597eb613.jpg",
+   "plot": "Все ключевые события в Израиле и в мире.",
+   "updated": "2026-10-31 00:06",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "ПРАВИТЕЛЬСТВО ЙЕМЕНА НАНЕСЛО 835 УДАРОВ ПО ХУСИТАМ. НЕСКОЛЬКО КОМАНДИРОВ ЛИКВИДИРОВАНЫ. 22/10. 16:00 - 22/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/8f9fa310-51f9-492a-94be-4c10552fe947.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/7694b640-6d66-47f4-89ea-7e88d033ca58/hls/master.m3u8",
+       "date": "2026-10-22",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/7694b640-6d66-47f4-89ea-7e88d033ca58/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЖУРНАЛИСТЫ ОБВИНЯЮТ НЕТАНИЯГУ В ПОПЫТКЕ ВОЗОБНОВИТЬ ВОЙНУ С ИРАНОМ НАКАНУНЕ ВЫБОРОВ. 21/10. 16:00 - 21/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/73887305-de28-43cb-a322-274cd965c090.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/0bc5a37b-6c8b-4b65-8a8c-06e507b7bbe0/hls/master.m3u8",
+       "date": "2026-10-21",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/0bc5a37b-6c8b-4b65-8a8c-06e507b7bbe0/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "СИРИЯ ОТПРАВЛЯЕТ 10 000 ДЖИХАДИСТОВ НА БОРЬБУ С ХУСИТАМИ. 20 октября. 16:00 - 20/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/93a0eedf-2322-4894-9c3f-48b42291e5ca.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/a3e91aeb-d051-413f-bb22-7956cf5ee05b/hls/master.m3u8",
+       "date": "2026-10-20",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/a3e91aeb-d051-413f-bb22-7956cf5ee05b/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИЗРАИЛЬ ОЖИДАЕТ ПРОВОКАЦИЙ В ДЕНЬ ВЫБОРОВ. ГЕНШТАБ В ПОВЫШЕННОЙ БОЕГОТОВНОСТИ. 19 октября. 16:00 - 19/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/2eb90125-0a90-43e1-b415-58f84f9dc77d.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/450c58e7-25a0-4fae-943e-46122876129f/hls/master.m3u8",
+       "date": "2026-10-19",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/450c58e7-25a0-4fae-943e-46122876129f/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "КАТАСТРОФА НА ГРАНИЦЕ С ЙЕМЕНОМ. ЕСТЬ ЖЕРТВЫ. ВОЙНА С ХУСИТАМИ ОБОСТРЯЕТСЯ. 18/10. 16:00 - 18/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/cd2d5227-c2bd-4f1f-b198-dde2ed4f011a.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/89c20c8e-08b2-4e19-8d9e-1dda66b70b9a/hls/master.m3u8",
+       "date": "2026-10-18",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/89c20c8e-08b2-4e19-8d9e-1dda66b70b9a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "НА ЗАВОДЕ В КИРЬЯТ-ГАТЕ ПОГИБЛИ УЖЕ ДВОЕ. ОСНОВНАЯ ВЕРСИЯ — ВЗРЫВ БАЛЛОНА С ГАЗОМ. 15 октября. 16:00 - 15/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/3e9add70-8361-4454-9917-cd8b33ec68ad.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/75c44dde-2974-4078-8ba3-e74ebcbbe2d9/hls/master.m3u8",
+       "date": "2026-10-15",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/75c44dde-2974-4078-8ba3-e74ebcbbe2d9/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "СРОЧНО! ВЗРЫВ НА ЗАВОДЕ INTEL НА ЮГЕ ИЗРАИЛЯ. ЕСТЬ ПОСТРАДАВШИЕ. СПЕЦЭФИР. 14 октября - 14/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/b19d73be-f1e8-42b8-8b91-808e47934c44.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/6b59a12d-2dd2-45a5-8799-7a89ee054b2e/hls/master.m3u8",
+       "date": "2026-10-14",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/6b59a12d-2dd2-45a5-8799-7a89ee054b2e/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ВЗРЫВ НА ТРОПЕ ИЗРАИЛЯ. БОЛЕЕ 20 РАНЕНЫХ, ОДИН РЕБЕНОК ПОГИБ. ИДЕТ РАССЛЕДОВАНИЕ. 13 октября. 16:00 - 13/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/cf3bcf55-2a24-4cf5-ab77-1561509fecf5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/0a953ea1-d7b5-455a-ac32-904fe63e29c7/hls/master.m3u8",
+       "date": "2026-10-13",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/0a953ea1-d7b5-455a-ac32-904fe63e29c7/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "СРОЧНО! ВЗРЫВ СНАРЯДА НА СЕВЕРЕ ИЗРАИЛЯ. ЕСТЬ ПОСТРАДАВШИЕ. СПЕЦЭФИР. 12 октября - 12/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/8abe88c7-d70c-47b2-9e25-fc203dc18795.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/27129a2b-82f9-4e8f-8c65-e84eecb01df4/hls/master.m3u8",
+       "date": "2026-10-12",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/27129a2b-82f9-4e8f-8c65-e84eecb01df4/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "СКАНДАЛЬНАЯ ПУБЛИКАЦИЯ ИЗРАИЛЬСКИХ СМИ: ТРАМП ПРОСИЛ ИЗРАИЛЬ УДАРИТЬ ПО ИРАНУ БЕЗ США? 11/10. 16:00 - 11/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/8f966d3c-c6fe-4284-9c90-70b3be0ba4a9.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/89994485-cc28-40e0-9bd0-63cbf99cb61a/hls/master.m3u8",
+       "date": "2026-10-11",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/89994485-cc28-40e0-9bd0-63cbf99cb61a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИЗРАИЛЬ И АНГЛИЯ ПОССОРИЛИСЬ ИЗ-ЗА КОНСУЛЬСТВА В ВОСТОЧНОМ ИЕРУСАЛИМЕ. 8 октября. 16:00 - 08/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/603df77f-2232-48a8-845b-daf4d95a27fb.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/f006eea8-3cda-4b90-82af-205827820736/hls/master.m3u8",
+       "date": "2026-10-08",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/f006eea8-3cda-4b90-82af-205827820736/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРИ ГОДА СО ДНЯ НАПАДЕНИЯ ХАМАС НА ИЗРАИЛЬ. СТРАНА ВСПОМИНАЕТ ТРАГЕДИЮ ЧЕРНОЙ СУББОТЫ. 07/10. 16:00 - 07/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/9b4eded3-1de7-4832-b489-8c4e47c1d73f.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/0facdac5-6b2c-4912-834c-ab3490eddfa8/hls/master.m3u8",
+       "date": "2026-10-07",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/0facdac5-6b2c-4912-834c-ab3490eddfa8/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ХАМАС ХОЧЕТ СОРВАТЬ ВЫБОРЫ В ИЗРАИЛЕ — ЗАЯВЛЕНИЕ НЕТАНИЯГУ. СТРАНУ ЖДЕТ АТАКА? 6 октября. 16:00 - 06/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/48f62892-2202-4d20-b9c6-6d81e0eda1c5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/3c14a1b1-ca87-45ee-b4b1-c85bf16154d9/hls/master.m3u8",
+       "date": "2026-10-06",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/3c14a1b1-ca87-45ee-b4b1-c85bf16154d9/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИЗРАИЛЬ ВСПОМИНАЕТ ТРАГЕДИЮ 7 ОКТЯБРЯ. КАК ВОЙНА ИЗМЕНИЛА СТРАНУ? СПЕЦЭФИР. 5 октября. 16:00 - 05/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/97305146-6adc-488e-a276-693ee175fe24.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/6b30378d-9359-4120-807c-f9eda32cb976/hls/master.m3u8",
+       "date": "2026-10-05",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/6b30378d-9359-4120-807c-f9eda32cb976/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "КТО СТОИТ ЗА ПОПЫТКОЙ ЗАХВАТА САМОЛЕТА? РАССЛЕДОВАНИЕ ИЩЕТ ЗАКАЗЧИКОВ. 4 октября. 16:00 - 04/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/a300d7e8-f6fb-4f63-a7f7-8e4fed060d6a.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/3d75ab64-af7f-4098-b864-4452d44de07e/hls/master.m3u8",
+       "date": "2026-10-04",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/3d75ab64-af7f-4098-b864-4452d44de07e/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "РАЗВЕДКА ИЗРАИЛЯ НАЧАЛА РАССЛЕДОВАНИЕ ЗАХВАТА БОРТА FLYDUBAI. ПОДРОБНОСТИ. 1 октября. 16:00 - 01/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/5a1fe283-3c88-4c48-929c-3e5105e9826a.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/d57d8b8f-1897-452f-a0ec-8838cb90e60a/hls/master.m3u8",
+       "date": "2026-10-01",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/d57d8b8f-1897-452f-a0ec-8838cb90e60a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЭКСТРЕННАЯ ПОСАДКА САМОЛЕТА ИЗ ДУБАЯ В ИЗРАИЛЬ. ДРАКА ПИЛОТОВ. СИГНАЛ ОБ УГОНЕ. СПЕЦЭФИР. 30/09 - 30/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/ca007cdf-1f75-4ef4-87a0-6644d65ec001.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/87f0bbd3-a1d4-40eb-bdc3-7aabe6a59923/hls/master.m3u8",
+       "date": "2026-09-30",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/87f0bbd3-a1d4-40eb-bdc3-7aabe6a59923/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИСТОЧНИКИ СООБЩАЮТ О ТАЙНОЙ ВСТРЕЧЕ НЕТАНИЯГУ С ЛИДЕРАМИ СТРАН ЗАЛИВА. 29 сентября. 16:00 - 29/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/61227dfd-eba5-47cb-8835-ba91970382e5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/26df90b1-69cd-4515-85c1-81db30a5de4e/hls/master.m3u8",
+       "date": "2026-09-29",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/26df90b1-69cd-4515-85c1-81db30a5de4e/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "НОВЫЕ ПОДРОБНОСТИ ИРАНСКОЙ АТАКИ. РАНЕНЫЕ ПЕХОТИНЦЫ И СЕКРЕТНОЕ СУДНО. 28 сентября. 16:00 - 28/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/9c35a7f1-81ec-4871-85ff-ca305fe27067.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/7b9395de-497e-447f-a55a-a1eb413f7088/hls/master.m3u8",
+       "date": "2026-09-28",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/7b9395de-497e-447f-a55a-a1eb413f7088/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМП ПРИЗВАЛ ЖИТЕЛЕЙ ИРАНА «БРАТЬ ВЛАСТЬ». ВСТРЕЧА В ООН НЕ ПОМОГЛА ПЕРЕГОВОРАМ? 27 сентября. 16:00 - 27/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/f868a159-3c2c-4582-b77c-a862011b7dba.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/bce17527-6ccb-4d1d-90c8-e2db13a0d486/hls/master.m3u8",
+       "date": "2026-09-27",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/bce17527-6ccb-4d1d-90c8-e2db13a0d486/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "НЕТАНИЯГУ СОКРАТИЛ ВРЕМЯ ВИЗИТА В США. ПРИЧИНА — УГРОЗА ЛИЧНОЙ БЕЗОПАСНОСТИ. 24 сентября. 16:00 - 24/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/a75269c2-3a0f-44fc-b644-1cf9afae3105.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/89b93760-2c23-47ff-9848-7e2e78d019b2/hls/master.m3u8",
+       "date": "2026-09-24",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/89b93760-2c23-47ff-9848-7e2e78d019b2/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "НА СЕССИИ ООН ОСУЖДАЮТ ИЗРАИЛЬ И ЗАМАЛЧИВАЮТ ТЕРРОР ХАМАС. ЧЕМ ОТВЕТИТ НЕТАНИЯГУ? 23 сентября. 16:00 - 23/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/53d2706b-88bf-45fa-9b76-ed365cfeaf77.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/8dceabfe-ce31-4401-8e2b-415a68f2165e/hls/master.m3u8",
+       "date": "2026-09-23",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/8dceabfe-ce31-4401-8e2b-415a68f2165e/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "МИРОВЫЕ ЛИДЕРЫ СОБИРАЮТСЯ В НЬЮ-ЙОРКЕ. ВОПРОС ИРАНА — ГЛАВНЫЙ НА ПОВЕСТКЕ. 22 сентября. 16:00 - 22/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/e8e14d0a-6bfb-4b3b-a39d-7da3bb01879a.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/b39967a2-3c52-4d46-8344-9974c1b3935f/hls/master.m3u8",
+       "date": "2026-09-22",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/b39967a2-3c52-4d46-8344-9974c1b3935f/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "США ПРОВЕЛИ ЗАКРЫТУЮ ВСТРЕЧУ С ХУСИТАМИ? ОБ ЭТОМ СООБЩАЮТ ПЯТЬ ИСТОЧНИКОВ REUTERS. 17/09. 16:00 - 17/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/65c13b86-4db7-4442-b1b7-90118171c2fb.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/9b3c1e50-efd8-40bc-919d-89a097b8890a/hls/master.m3u8",
+       "date": "2026-09-17",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/9b3c1e50-efd8-40bc-919d-89a097b8890a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ХУСИТЫ БЛОКИРУЮТ РАБОТУ ПОРТА В ЭЙЛАТЕ. ЭТО МОЖЕТ УДАРИТЬ ПО ЭКОНОМИКЕ ИЗРАИЛЯ. 16 сентября. 16:00 - 16/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/d05ce2e2-911a-4b47-bf7a-ebb84756945d.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/d64e0536-6b8f-4591-ab9a-942b1a8af1ae/hls/master.m3u8",
+       "date": "2026-09-16",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/d64e0536-6b8f-4591-ab9a-942b1a8af1ae/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "32 РАКЕТЫ, НАЦЕЛЕННЫЕ НА ИЗРАИЛЬ. ЦАХАЛ ОБНАРУЖИЛ В ЛИВАНЕ ПУСКОВЫЕ УСТАНОВКИ ХИЗБАЛЛЫ. 15/09. 16:00 - 15/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/afdba693-206e-480e-bbf2-6196d8662832.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/b2cb7f89-26ea-49c8-add9-7b496e5fe48c/hls/master.m3u8",
+       "date": "2026-09-15",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/b2cb7f89-26ea-49c8-add9-7b496e5fe48c/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "«ВИТКОФФ И КУШНЕР ОТЛИЧНО ПОРАБОТАЛИ». ТРАМП ЗАЯВИЛ, ЧТО ХАМАС ГОТОВ К РАЗОРУЖЕНИЮ. 14/09. 16:00 - 14/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/9c0ad907-5d50-48e3-8a39-21b8436170a6.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/df81c634-d92d-4e42-81ed-e4607649d13c/hls/master.m3u8",
+       "date": "2026-09-14",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/df81c634-d92d-4e42-81ed-e4607649d13c/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "АНГЛИЯ ВВЕЛА САНКЦИИ ПРОТИВ ИРАНА. ТЕГЕРАН НАЗВАЛ ЭТО «ЭКОНОМИЧЕСКИМ ТЕРРОРИЗМОМ». 9 сентября. 16:00 - 09/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/105f5776-8bed-48f9-86b7-b7103c4e2f64.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/e88169e1-08d0-4d74-96ad-44f69f15668f/hls/master.m3u8",
+       "date": "2026-09-09",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/e88169e1-08d0-4d74-96ad-44f69f15668f/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ОАЭ ПРЕДУПРЕЖДАЛИ ЛИДЕРА ИЗРАИЛЯ ОБ АТАКЕ ХАМАС? НЕТАНИЯГУ ВСЁ ОТРИЦАЕТ. 8 сентября. 16:00 - 08/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/93bd25c7-2aee-4151-b16a-e2a8113aef17.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/40aa6acd-a1db-423c-bb19-326d7ae76e35/hls/master.m3u8",
+       "date": "2026-09-08",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/40aa6acd-a1db-423c-bb19-326d7ae76e35/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЦАХАЛ ЗАЧИСТИЛ УКРЕПЛЕНИЯ ХИЗБАЛЛЫ В ЛИВАНЕ. ПОСЛЕДНЯЯ НАДЕЖДА ТЕРРОРИСТОВ — ИРАН. 7 сентября. 16:00 - 07/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/c3e2e45b-25d4-48c1-abd7-cabcdd562866.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/7aed432c-aa51-400a-a8a2-9286006af133/hls/master.m3u8",
+       "date": "2026-09-07",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/7aed432c-aa51-400a-a8a2-9286006af133/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИРАН ЗАЯВИЛ, ЧТО «ОТВЕТИТ СИЛОЙ» НА ИЗРАИЛЬСКИЙ УДАР ПО ХИЗБАЛЛЕ. ВОЙНА ВСЕ БЛИЖЕ? 3 сентября. 16:00 - 03/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/fd4f7bb3-ff80-46c4-a747-616b7048436b.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/bda343a1-c69f-4050-97c8-f84db7bf2b59/hls/master.m3u8",
+       "date": "2026-09-03",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/bda343a1-c69f-4050-97c8-f84db7bf2b59/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "МИНИСТР ОБОРОНЫ КАЦ ПРЕДУПРЕЖДАЕТ О РИСКЕ ИРАНСКОЙ АТАКИ НА ИЗРАИЛЬ В ПРАЗДНИКИ. 2 сентября. 16:00 - 02/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/4ed3d328-c4cb-4148-8330-ad6955c8fda5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/808e4441-8eaa-4db0-8b7b-5ddc0637a894/hls/master.m3u8",
+       "date": "2026-09-02",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/808e4441-8eaa-4db0-8b7b-5ddc0637a894/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИЗРАИЛЬ ПРОВЕЛ ОПЕРАЦИЮ ПО ЗАХВАТУ КОМАНДИРА ХАМАС. ТЕРРОРИСТ В РУКАХ ЦАХАЛ. 1 сентября. 16:00 - 01/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/03c61ce3-1702-468f-a4b7-d1a7465b033e.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/50ee773b-f68b-4751-91ea-a72d3f0fcad0/hls/master.m3u8",
+       "date": "2026-09-01",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/50ee773b-f68b-4751-91ea-a72d3f0fcad0/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "КСИР АТАКОВАЛ БАЗЫ США В ИОРДАНИИ. ХАРГ «РАЗБОМБЛЕН НА ЧАСТИ». СНОВА БОЛЬШАЯ ВОЙНА? 31/08. 16:00 - 31/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/564e470a-efd1-4300-927b-0d77563e2071.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/b6d8372f-7d8d-4879-b84d-543059d0b505/hls/master.m3u8",
+       "date": "2026-08-31",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/b6d8372f-7d8d-4879-b84d-543059d0b505/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ХАМЕНЕИ ПРИЗВАЛ МУСУЛЬМАН СПЛОТИТЬСЯ ПРОТИВ США И ИЗРАИЛЯ, НАЗВАВ ИХ ВРАГАМИ ИСЛАМА. 30/08. 16:00 - 30/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/6a3bb409-02ad-47f5-ba68-f16b953793ce.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/03d3561f-db86-4602-932a-973b8da8fdc9/hls/master.m3u8",
+       "date": "2026-08-30",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/03d3561f-db86-4602-932a-973b8da8fdc9/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМП ОТПРАВЛЯЕТ НОВЫЙ АВИАНОСЕЦ К БЕРЕГАМ ИРАНА. ЭСКАЛАЦИЯ ИЛИ БЛЕФ? 27 августа. 16:00 - 27/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/d95dac69-48e1-4ae3-b894-ea5eb776a011.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/e19e114c-94bf-45fd-9027-d0f52a5a6581/hls/master.m3u8",
+       "date": "2026-08-27",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/e19e114c-94bf-45fd-9027-d0f52a5a6581/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЯДЕРНОЕ СОГЛАШЕНИЕ С САУДОВЦАМИ УЖЕ ПЕРЕДАНО КОНГРЕССУ США. ОДОБРИТ ЛИ СДЕЛКУ ТРАМП? 26/08. 16:00 - 26/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/12fce1e2-70c7-48e0-abe0-c1cc2611d53a.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/153189c0-cfde-4370-b7d5-1de11d77eb41/hls/master.m3u8",
+       "date": "2026-08-26",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/153189c0-cfde-4370-b7d5-1de11d77eb41/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИРАН ОБВИНИЛ США В «ЭКОНОМИЧЕСКОМ ТЕРРОРИЗМЕ» И ЗАЯВИЛ, ЧТО ГОТОВ К НОВОЙ ВОЙНЕ. 25 августа. 16:00 - 25/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/e88cd5b1-b303-47d3-bd70-daf41d7312b7.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/242c07b2-c5d6-4e34-9d78-b3a3726f07d7/hls/master.m3u8",
+       "date": "2026-08-25",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/242c07b2-c5d6-4e34-9d78-b3a3726f07d7/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "КРИЗИС В ИРАНЕ. ЗАСТАВИТ ЛИ ИНФЛЯЦИЯ ТЕГЕРАН ПОЙТИ НА УСТУПКИ США? 24 августа. 16:00 - 24/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/5cce0124-efee-423c-b810-08c0d18753d3.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/b614e23c-7c09-43da-928f-df77a23ea195/hls/master.m3u8",
+       "date": "2026-08-24",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/b614e23c-7c09-43da-928f-df77a23ea195/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИЗРАИЛЬ ПРЕДУПРЕЖДАЕТ ТУРЦИЮ: БАЗЫ ЭРДОГАНА В СИРИИ — КРАСНАЯ ЛИНИЯ. 23 августа. 16:00 - 23/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/78ade068-ef52-4188-93b5-48a985f1d5a2.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/f3bd3c07-e8a1-411a-a5e4-9a69957a4122/hls/master.m3u8",
+       "date": "2026-08-23",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/f3bd3c07-e8a1-411a-a5e4-9a69957a4122/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМП: «Я ОБЪЯВЛЯЮ О САМОЙ РАЗРУШИТЕЛЬНОЙ ЭКОНОМИЧЕСКОЙ ОПЕРАЦИИ ПРОТИВ ИРАНА». 20 августа. 16:00 - 20/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/316b0d77-df1c-4a45-8bbc-8e0bedede48c.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/52260083-9167-4e60-a473-1ec19bca3d38/hls/master.m3u8",
+       "date": "2026-08-20",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/52260083-9167-4e60-a473-1ec19bca3d38/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТЕГЕРАН ГОТОВ РАЗВЯЗАТЬ ТРЕТЬЮ МИРОВУЮ? УГРОЗЫ ПОЛУЧИЛИ БОЛГАРИЯ И КИПР. 19 августа. 16:00 - 19/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/fe68cba1-c218-4729-bf5c-707b66449dc5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/1ea3d0e7-9c64-4e75-bbd7-a2f329534f34/hls/master.m3u8",
+       "date": "2026-08-19",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/1ea3d0e7-9c64-4e75-bbd7-a2f329534f34/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "СОВЕТ МИРА ПОЛНОСТЬЮ РАЗОРУЖИТ ХАМАС. ТРАМП БОЛЬШЕ НЕ ГОТОВ ИДТИ НА КОМПРОМИССЫ? 18 августа. 16:00 - 18/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/16fdce2b-c96e-40fd-90c7-6bbeadccf2c8.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/5924da57-e45e-4042-882c-308f43731643/hls/master.m3u8",
+       "date": "2026-08-18",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/5924da57-e45e-4042-882c-308f43731643/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИРАН ВЫИГРЫВАЕТ ВРЕМЯ? ТЕГЕРАН ГОТОВИТСЯ К ЭСКАЛАЦИИ В ВОЙНЕ С США. 17 августа. 16:00 - 17/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/6b540428-136f-4718-bebf-45866342ffac.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/5fb98141-b67f-49a0-aa94-7309119cfc88/hls/master.m3u8",
+       "date": "2026-08-17",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/5fb98141-b67f-49a0-aa94-7309119cfc88/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЦАХАЛ ЛИКВИДИРОВАЛ КОМАНДИРА БАТАЛЬОНА ХИЗБАЛЛЫ. ПЕРЕМИРИЕ С ЛИВАНОМ ПОД УГРОЗОЙ? 16/08. 16:00 - 16/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/c2c82d8a-3129-4bf7-b1d2-676196110a5f.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/fef393cd-76e6-4fe4-8412-5fa16f8e3857/hls/master.m3u8",
+       "date": "2026-08-16",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/fef393cd-76e6-4fe4-8412-5fa16f8e3857/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИЗРАИЛЬ УЙДЕТ ИЗ ЗОНЫ БЕЗОПАСНОСТИ В ЛИВАНЕ? СПОР ГОСДЕПА США И МИНОБОРОНЫ ИЗРАИЛЯ. 13/08. 16:00 - 13/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/0261084b-10a8-4ecb-8ecb-bb0988273cc5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/0090d036-c491-4df9-b132-05591fab2818/hls/master.m3u8",
+       "date": "2026-08-13",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/0090d036-c491-4df9-b132-05591fab2818/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМП ПОДТВЕРДИЛ УГРОЗУ СВОЕЙ ЖИЗНИ СО СТОРОНЫ ИРАНА. ЧЕМ ОТВЕТИТ ГЛАВА США? 12 августа. 16:00 - 12/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/6b31b3e4-32d8-4b3a-bb06-0fba65017bc9.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/51614b82-586a-4d5d-bfb6-8cc1ff008a14/hls/master.m3u8",
+       "date": "2026-08-12",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/51614b82-586a-4d5d-bfb6-8cc1ff008a14/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМПА ТАЙНО ВЫВЕЗЛИ ИЗ ТУРЦИИ ИЗ-ЗА УГРОЗЫ ПОКУШЕНИЯ СО СТОРОНЫ ИРАНА. 11 августа. 16:00 - 11/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/60f89bdb-f126-4d3c-8adc-88581aefd873.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/05121021-17fd-486f-ae40-0b60636f5a26/hls/master.m3u8",
+       "date": "2026-08-11",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/05121021-17fd-486f-ae40-0b60636f5a26/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМП ГОТОВ ОТКАЗАТЬСЯ ОТ ЯДЕРНОЙ СДЕЛКИ С ИРАНОМ. У АЯТОЛЛ БУДЕТ БОМБА? 10 августа. 16:00 - 10/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/3cb97d06-de56-4137-8b31-8bc8576462ed.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/1f240497-863a-4fe1-b401-af591a984c8a/hls/master.m3u8",
+       "date": "2026-08-10",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/1f240497-863a-4fe1-b401-af591a984c8a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "РЕЗКИЙ СПОР ТРАМПА И МИНИСТРА ВОЙНЫ ХЕГСЕТА. ПРОДОЛЖАТ ЛИ США КАМПАНИЮ В ИРАНЕ? 6 августа. 16:00 - 06/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/d282a6b3-161d-4d7b-9c28-6ca4727007cd.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/1cdd4c6f-e4dc-4580-a120-a6bfe4c0a1cf/hls/master.m3u8",
+       "date": "2026-08-06",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/1cdd4c6f-e4dc-4580-a120-a6bfe4c0a1cf/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМП НАЦЕЛЕН «СНИЖАТЬ НАПРЯЖЕННОСТЬ» С ИРАНОМ. НА КАКИЕ УСТУПКИ ПОЙДУТ США? 5 августа. 16:00 - 05/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/4f941038-3d70-4627-a316-156d4994729d.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/31cf52da-e39c-4250-8636-30aedfebc3d8/hls/master.m3u8",
+       "date": "2026-08-05",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/31cf52da-e39c-4250-8636-30aedfebc3d8/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМП УТВЕРЖДАЕТ, ЧТО ИРАН ГОТОВ НА ПЕРЕГОВОРЫ. ТЕГЕРАН ВСЕ ОТРИЦАЕТ. 4 августа. 16:00 - 04/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/b68a31ec-42a0-4706-9a90-79cd8bebe4f6.jpeg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/f07fe8d5-f86e-4a3c-bb57-0c8657ed49fe/hls/master.m3u8",
+       "date": "2026-08-04",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/f07fe8d5-f86e-4a3c-bb57-0c8657ed49fe/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИРАН ОТКАЗЫВАЕТСЯ ОТ ПРЕДЛОЖЕНИЯ ТРАМПА НАЧАТЬ ПЕРЕГОВОРЫ. США УПУСТИЛИ ИНИЦИАТИВУ? 3 августа. 16:00 - 03/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/64840e26-4ca4-44c8-9301-245e1aebc9e6.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/a9b3dde2-bfd1-49b4-a7a2-8172c9fa3d14/hls/master.m3u8",
+       "date": "2026-08-03",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/a9b3dde2-bfd1-49b4-a7a2-8172c9fa3d14/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАМП ОТМЕНИЛ «МОЩНЫЙ УДАР» ПО ИРАНУ. США СНОВА ДЕЛАЮТ СТАВКУ НА ДИПЛОМАТИЮ? 2 августа. 16:00 - 02/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/65b20dca-1074-444a-8cb7-b302e3f54f4a.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/2fe19a2c-8df9-4b8b-bbe8-6a9c0e1aa676/hls/master.m3u8",
+       "date": "2026-08-02",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/2fe19a2c-8df9-4b8b-bbe8-6a9c0e1aa676/hls/master.m3u8",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

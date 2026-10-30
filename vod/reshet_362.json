@@ -1,0 +1,241 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - השגרירות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "362",
+   "series_id": "362",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5551a62dcb734cfa9295c154472236c9/version/10/width/800/height/1200/quality/90",
+   "plot": "\"השגרירות\" - קומדיה על השגרירות הישראלית הראשונה באיחוד האמירויות בכיכובם של איציק כהן, עידו מוסרי, מאיה ורטהיימר, שיפי אלוני, עדן דניאל גבאי ועוד",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "השגרירות, עונה 1, פרק 4: קונסול של כבוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5551a62dcb734cfa9295c154472236c9/version/10/width/800/height/1200/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_krh2bblg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-28",
+       "plot": "כשחבריו של השגריר רוצים לפתוח עסק חדש באמירויות, יצחק מגלה שלמרות תפקידו הרם - הוא לא בעל השפעה כפי שחשב. האם בעזרתו של צביקה הוא יצליח להערים על המערכת? וגם: שרון עושה הכול (אבל הכול) בשביל לקבלת לוחית דיפלומטית לרכב - וזה לא הולך להיות פשוט | השגרירות, לצפייה ישירה.",
+       "page": "",
+       "id": "--kaltura--1_krh2bblg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 2: כשיצחק פגש את פארס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5551a62dcb734cfa9295c154472236c9/version/10/width/800/height/1200/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lcbpdpas/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-28",
+       "plot": "לא קל להיות שגריר בארץ זרה: המשפחה והחברים נשארים בישראל, ומי שמקיפים אותך בשגרירות הם בעיקר העובדים שלך. הבדידות הזו, לצד האהבה לכדורגל, מולידה ליצחק חבר חדש ומפתיע. מישהו אמר, מזרח תיכון חדש? וגם: חווי ואורנה מנסות ללמד את צביקה איך לא לצאת פראייר. נאחל להן בהצלחה | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lcbpdpas===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 17",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a58b3c9e5cfa44aaba164225685625c4/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d2pt2e3s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-27",
+       "plot": "קומדיית מצבים העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_d2pt2e3s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 20",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a663b2013acf4882ba914642197b7f2d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9rvdvv4f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_9rvdvv4f===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 19",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66ee5dc79f154c349bcf3bf9a41bbd53/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_epircusb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_epircusb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 16",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/89e6d0a2473e482aa1804f2737bd1a41/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cv4512xi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_cv4512xi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 18",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/203f3d94f2024c0fa89ec358a790a905/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_db9igwcr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_db9igwcr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 15",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c3aad35e6a364b808fda6d16d86cfd9c/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7dj8s02z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_7dj8s02z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 14",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21a7753e06334ce491a98f1f62df5f67/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4oj74y81/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_4oj74y81===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b511599fde6421ebfb95551cdfa6e09/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uyf7v03n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים חדשה העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_uyf7v03n===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4c0d7fdae2d8469eb425812a085e5c07/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0vaiqfbl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים חדשה העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_0vaiqfbl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a4560bd57c87458ebf746e4707e82a25/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iuqldd0a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים חדשה העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_iuqldd0a===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8320fa82c4f14f179ace8eec40806445/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_anwxz7ts/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "קומדיית מצבים חדשה העוסקת בסיפורה של השגרירות הישראלית הראשונה באיחוד האמירויות",
+       "page": "",
+       "id": "--kaltura--1_anwxz7ts===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 9: יום הולדת לאלנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea3dfb7684764caf93b96af8e0939b2d/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_na3wfjv7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשיצחק מבין שאלנה אשתו מדוכדכת הוא מנסה לארגן לה מסיבת יום הולדת שלא תשכח - אבל העניינים יוצאים משליטה ובמקום חגיגה נחמדת היא מקבלת מסיבת כושלת; במקביל, צביקה מנסה לקבל הזמנה לאיוונט של כל המגניבים - רק שלפני כן הוא יצטרך להוכיח שהוא לא בומר | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_na3wfjv7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 8: דד סי דובאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0bf13631810c436b9b8ec8fa37b83e07/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hzy66pox/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "באמירויות מנסים לשכפל את ההצלחה של ים המלח ועובדים על תוכנית להעתקת הים באזור המפרץ. אלא, שרגע לפני החתימה על ההסכם עם יזם ישראלי - יצחק מתערב והעסקה מתפוצצת (או שמא: נופלת לתוך בולען?); במקביל, שרון מקים עגלת מוצרי קוסמטיקה בקניון - ומסתבך עם האישה הלא נכונה | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hzy66pox===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 7: הנאום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d2bb18e5d8c4326931a76c0b57735a2/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bym7p07u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יצחק מוזמן לנאום מול שגרירי העולם בכנס השנתי באיחוד האמירויות. הבעיה היא שהאנגלית שלו מקרטעת והתקף החרדה לא ממאן להגיע - ואיתו גם הניסיונות להתחמק מהאירוע המיוחד. מוכנים לנאום המביך בעולם? וגם: צביקה מנסה להפוך לוויראלי ברשת - אבל משהו משתבש בדרך והוא הופך לחשוד במרמה והפרת אמונים. אז מה בדיוק קרה שם? | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_bym7p07u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 6: האורחת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4972738aad874600beda00e97d01e3cc/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jw0bbimz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השגריר ואשתו מתכוננים לפגישה חשובה עם שגריר צ'אד ורעייתו, אלא שאז בתם קים מגיעה לביקור באבו-דאבי - מה שקצת מוציא את יצחק משלוותו. אז איך מדמוני הקב\"ט קשור לכל זה? וגם: חווי מחפשת זוגיות אבל לא מוכנה להתפשר | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_jw0bbimz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 5: הביקור של שרת התרבות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e79d0cbbf7c142748d9ecc8faa648a61/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bvfa0m10/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שרת התרבות מגיעה לביקור - והשגרירות כמרקחה: תושבי אבו-דאבי, האם אתם מוכנים לביקור של האישה הכי חזקה בפוליטיקה הישראלית?; וגם: מדמוני הקב\"ט זוכה לביקור מפתיע מהעבר ומוצא את עצמו נלחם על מקומו בין נשות המשרד | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_bvfa0m10===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 4: קונסול של כבוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c82d443f9dd2427bb3d6473593fffbf4/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_krh2bblg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשחבריו של השגריר רוצים לפתוח עסק חדש באמירויות, יצחק מגלה שלמרות תפקידו הרם - הוא לא בעל השפעה כפי שחשב. האם בעזרתו של צביקה הוא יצליח להערים על המערכת? וגם: שרון עושה הכול (אבל הכול) בשביל לקבלת לוחית דיפלומטית לרכב - וזה לא הולך להיות פשוט | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_krh2bblg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 1: אידיאל היופי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/edf221b0ac5849d2aff34693fb8d338d/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0x8pgosu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השגריר מקבל הזמנה מהשייח לשמש שופט בתחרות יופי של גמלים - אבל לא באמת מבין את גודל המעמד, והוא עלול לסבך את ישראל בתקרית דיפלומטית מביכה במיוחד. איך הוא יצא מזה? וגם: אל תגידו לאשת השגריר שהיא נראית מבוגרת. מה, אתם בכוח רוצים להסתבך? | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_0x8pgosu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 2: כשיצחק פגש את פארס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c353813f34194ee88a2335dae36c9bc4/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lcbpdpas/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "לא קל להיות שגריר בארץ זרה: המשפחה והחברים נשארים בישראל, ומי שמקיפים אותך בשגרירות הם בעיקר העובדים שלך. הבדידות הזו, לצד האהבה לכדורגל, מולידה ליצחק חבר חדש ומפתיע. מישהו אמר, מזרח תיכון חדש? וגם: חווי ואורנה מנסות ללמד את צביקה איך לא לצאת פראייר. נאחל להן בהצלחה | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lcbpdpas===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "השגרירות, עונה 1, פרק 3: ערים תאומות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f00d1f7627b447294babb6d41825886/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ivjc4vf9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "שגריר ישראל באיחוד האמירויות מתכנן לחתום על ברית ערים תאומות בין אבו-דאבי לראשון לציון, אלא שראש עיריית תל-אביב כבר נמצא כמה צעדים לפניו - והמלחמה יוצאת לדרך. אז מי תזכה בתואר הנחשק? וגם: תעלומת בלשית סוחפת אחריה את כל הנספחים - והכול בגלל חבילת טרופיות | השגרירות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ivjc4vf9===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

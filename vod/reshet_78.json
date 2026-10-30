@@ -1,0 +1,231 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - קרוב עם צופית גרנט",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "78",
+   "series_id": "78",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/064aa96f07a24de79ff9bc2012ab3ac6/version/10/width/800/height/1200/quality/90",
+   "plot": "תוכנית ראיונות אינטימית, אחד על אחד, בהגשת צופית גרנט, בה היא מראיינת ממיטב אנשי המפתח בתרבות, בפוליטיקה ובחברה הישראלית",
+   "updated": "2026-10-31 00:02",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 20: ברוך דרור",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5c962eff53cf4dd2a737bfdc662d33fc/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0m6jho3g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית גרנט בשיחה עם ברוך דרור שסובל מפוסט טראומה שנגרמה לכאורה בצבא, ניהל משפט מול הצבא והפסיד בו, למרות שהוא מאובחן כפגוע נפש קשה",
+       "page": "",
+       "id": "--kaltura--1_0m6jho3g===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 19: מושיק רוט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b2030e31284442dcaedf1e9e58644c77/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cgozdrui/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מושיק רוט על מאסטר שף, החזרה הביתה והמסעדה שנסגרה | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_cgozdrui===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט - ישראל אוגלבו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2f1d42761864511aed0986034db8ea2/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_72tj4cqq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לפני גמר הישרדות VIP, ישראל אוגלבו מתיישב לשיחה עם צופית גרנט, בה הוא מספר לה על הרגעים הקשים שעבר ברחוב, ההתמודדות על האי, והאמון שהוא לא נותן באנשים | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_72tj4cqq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 18: ירדנה ארזי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/679265ed0c5c4150b2ba0adb8a345b67/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4h3tsefl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדנה ארזי על מחיר החשיפה, אמהות ואהבה | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_4h3tsefl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט - אלינה לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc280e09009e4877a324aa0297a4bfea/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y6jgf29t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלינה לוי בריאיון לצופית גרנט על החרם שעברה באי, הניתוק מאביה, והקורונה ששיבשה את חייה | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_y6jgf29t===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, פרק 15: ירדן ג'רבי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/380e901c2c864050aa022e9ce13ea166/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7c7uk99e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן ג'רבי מתיישבת לשיחה עם צופית גרנט על החיים שאחרי הג'ודו, ההחלטה להגיע להישרדות והווינריות שלה",
+       "page": "",
+       "id": "--kaltura--1_7c7uk99e===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 16: עידן חביב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad22f6cc49da45ee9c1f3fd7b25d39dc/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0os6wepw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לפני גמר הישרדות VIP, עידן חביב מתיישב לשיחה עם צופית גרנט על המוזיקה שלו, האהבה שעוד לא הגיעה וההחלטה לחזור להישרדות | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_0os6wepw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט: עדן חסון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39208a4b4ba44de7ba966a94205c5776/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xkerc4qc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית גרנט מארחת את עדן חסון ומדברת איתו על אהבה, הילד שהיה, הרצון שלו להפוך לזמר והצדדים האפלים של ההצלחה | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_xkerc4qc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 10: אורנה בנאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f59b4fc0231f402e9833c638630ff5c1/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xe574zyb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אורנה בנאי מספרת לצופית גרנט על השנה הקשה בחייה, בה עברה התמוטטות | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_xe574zyb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 11: מיה דגן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b63bc7cb97cd4fe5913b936ebc1d85a1/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_kocfnx2r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיה דגן מספרת לצופית על התקפי החרדה שליוו אותה בתקופה האחרונה, ההצלחות, הכישלונות, והרצון שלה לחזור לבמות | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_kocfnx2r===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 2: ליאור רז",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06ba972b97704f24ba9e0ca6e481c82d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_fsmq4wde/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית גרנט מדברת עם ליאור רז על ההצלחות, הכישלונות והפריצה המאוחרת | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_fsmq4wde===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 3: מוקי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6390e4b013fd4ac2a212cedb898b62ca/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_6o0a4xqz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית מדברת עם מוקי על החיים בתקופת הקורונה, אלוהים ומבררת איתו לאן נעלם הילד הפרוע שהיה | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_6o0a4xqz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 1: אברהם גרנט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c202a7d20a4842db95d43b261846f163/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_t2maajvj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית מדברת עם אברהם גרנט על החיים בתקופת הקורונה על הגירושים הילדים ועל הטעויות וההצלחות של כל אחד מהם | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_t2maajvj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 4: אילה חסון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ffc9caae41940aca6866b3868a22c0f/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_49pgw7nd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית מדברת עם אילה חסון על החשיפות המרעישות, ההצלחות והכשלונות בקריירה, וגם על חייה האישיים | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_49pgw7nd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 5: שלום אסייג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c7b7c81c7877435c9ff82c4a0dbf13f4/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_tv00wi1m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום אסייג נפתח בפני צופית ומדבר על אבהות מאוחרת ועל הפרידה מ\"שנות ה-80\" | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_tv00wi1m===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט: איתי לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/40a7dee4232b4114b360ba7701df7999/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_nr6m38qc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איתי לוי בריאיון לצופית גרנט, על האכזבות, ההצלחות והרצון שלו למחוק את הילד שהיה מחייו וחושף לראשונה את האירוע שטלטל את חייו | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_nr6m38qc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 7: איציק שמולי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c52f8b89eab34f20b6f0b558e9449bf9/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_kkbjcmeb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ראיון אינטימי עם חבר הכנסת איציק שמולי. קרוב עם צופית גרנט לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_kkbjcmeb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, פרק 8: ריקי גל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/329a295b44df41fba129fb54bd488809/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_hpwba5rk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית גרנט יושבת לשיחה צפופה עם ריקי גל על ההצלחות, הכשלונות, הרצון להיות רלוונטית, והחמלה שהיא חשה כלפי אנשים | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_hpwba5rk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 21: סנדרה שדה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d82d8153409f4d3f914b7feba0d2cff2/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4jh9j83u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "צופית גרנט בשיחה עם השחקנית סנדרה שדה על נשיות בגיל 70, והחיים לצד מוני מושונוב",
+       "page": "",
+       "id": "--kaltura--1_4jh9j83u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 12: דב נבון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1802315098b24da4a730640b905f1f66/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_wih2cql5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "דב נבון מספר לצופית גרנט על הפחד לגמור הומלס, הקשיים שחווה מול אביו, והשינוי שעבר לאחר שביקר עם בתו בקופת חולים | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_wih2cql5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קרוב עם צופית גרנט, עונה 1, פרק 17: אסי בוזגלו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5468da66174f47b7b041b241b26ec8a6/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1xmyvgof/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אסי בוזגלו בשיחה כנה עם צופית גרנט על מחיר החשיפה והחיים אחרי הישרדות | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_1xmyvgof===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - איכילוב",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "463",
+   "series_id": "463",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/edfeb50818934a2ab78631fdada95124/version/0/width/800/height/1200/quality/90",
+   "plot": "סדרת טלוויזיה תיעודית ומרגשת המתארת את חייהם של חמישה רופאים בבית החולים איכילוב, תוך שהם מנסים לשלב בין שליחות ומקצוענות לבין חייהם הפרטיים",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "איכילוב | פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/12b4646c59ec4ebcb3403e682c8a9260/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gspac1w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "תכנית דוקו מרגשת על הרופאים בבית החולים איכילוב והתמודדותם עם החולים, הקריירה הרפואית והקשיים הנלווים בחיים האישיים של כל אחד מהם",
+       "page": "",
+       "id": "--kaltura--1_7gspac1w===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "איכילוב | פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec732cb108644378803bb459b11a9dac/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v2oyddtq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "תכנית דוקו מרגשת על הרופאים בבית החולים איכילוב והתמודדותם עם החולים, הקריירה הרפואית והקשיים הנלווים בחיים האישיים של כל אחד מהם",
+       "page": "",
+       "id": "--kaltura--1_v2oyddtq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "איכילוב | פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7236c22da3d84f51a8f7de7dc416d2d4/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kpzs5ges/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "תכנית דוקו מרגשת על הרופאים בבית החולים איכילוב והתמודדותם עם החולים, הקריירה הרפואית והקשיים הנלווים בחיים האישיים של כל אחד מהם",
+       "page": "",
+       "id": "--kaltura--1_kpzs5ges===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "איכילוב | פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b2d80bea10a645b18f22fae941a32c9d/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mxwaze1b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "תכנית דוקו מרגשת על הרופאים בבית החולים איכילוב והתמודדותם עם החולים, הקריירה הרפואית והקשיים הנלווים בחיים האישיים של כל אחד מהם",
+       "page": "",
+       "id": "--kaltura--1_mxwaze1b===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "איכילוב | פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8bc5bf90ff5a4a9ca8e8b035b1e215b2/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wyo2hgs4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "תכנית דוקו מרגשת על הרופאים בבית החולים איכילוב והתמודדותם עם החולים, הקריירה הרפואית והקשיים הנלווים בחיים האישיים של כל אחד מהם",
+       "page": "",
+       "id": "--kaltura--1_wyo2hgs4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "איכילוב | פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/155cd69c65354de1bb27fb090579b670/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xkuz9xkl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "תכנית דוקו מרגשת על הרופאים בבית החולים איכילוב והתמודדותם עם החולים, הקריירה הרפואית והקשיים הנלווים בחיים האישיים של כל אחד מהם",
+       "page": "",
+       "id": "--kaltura--1_xkuz9xkl===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

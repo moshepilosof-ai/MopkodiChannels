@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - דיבור צפוף",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fdiburzafuf",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fdiburzafuf",
+   "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/sport1.jpg",
+   "plot": "",
+   "updated": "2026-10-31 00:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "צפו בפרק הקורע של דיבור צפוף, והפעם: חוגגים מימונה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3244353/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-815550/",
+       "season": ""
+      },
+      {
+       "name": "דיבור צפוף: קבלו את ראש הממשלה החדש של ישראל: ולדימיר איביץ'",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3230000/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-813925/",
+       "season": ""
+      },
+      {
+       "name": "צפו בדיבור צפוף: הראיון המלא עם כריסטיאנו רונאלדו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3226459/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-813250/",
+       "season": ""
+      },
+      {
+       "name": "ולדימיר איביץ' נגד בני גנץ. דיבור צפוף",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3226528/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-812555/",
+       "season": ""
+      },
+      {
+       "name": "מה באמת צעק קפה לסארי ומה עם קמפיין הבחירות של איביץ? דיבור צפוף",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3240373/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-811855/",
+       "season": ""
+      },
+      {
+       "name": "צפו בפרק החדש והמצחיק במיוחד של דיבור צפוף",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3230092/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-811146/",
+       "season": ""
+      },
+      {
+       "name": "צפו בפרק החדש והקורע של דיבור צפוף",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3244256/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-810475/",
+       "season": ""
+      },
+      {
+       "name": "צפו בפרק הקורע החדש של דיבור צפוף",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3225852/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-810161/",
+       "season": ""
+      },
+      {
+       "name": "צפו בפרק הקורע של דיבור צפוף: פפ עשה ברית ומה המתכון לפלאפל של קלופ",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3241974/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/diburzafuf/Article-809412/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

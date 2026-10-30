@@ -1,0 +1,121 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - זאת וזאתי",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "123",
+   "series_id": "123",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da0f9dc01d1140a2aefb45c0b53c9c6f/version/16/width/800/height/1200/quality/90",
+   "plot": "״זאת וזאתי״ היא סדרה קומית בכיכובן של תותית ומילעל, שתי זמרות שמנסות למצוא את עצמן בג׳ונגל של תעשיית הבידור בעזרת אמרגנז׳ בינונז׳",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זאת וזאתי, פרק 2, טירונות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93dda9c388404ea49215069192aa8615/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_38hnbia2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לטובת הלהקה והציונות, המארגן של תותית ומלעיל מציע להן ללכת לעשות טירונות",
+       "page": "",
+       "id": "--kaltura--1_38hnbia2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 4, תותית ומילעל בריטריט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac3b4da343b64b999a89c705a8c90804/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bswj4r97/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תותית ומילעל נוסעות ל'ריטריט' במקום ללא מתח מיני על מנת לקבל השראה לכתיבת שיר. הן יוצאות עם תובנות חדשות אבל ללא שיר כי המוזה לא הגיעה, היא ביישנית. מתארחים: דן שפירא, זהבה בן ולוסי דובינצ'יק",
+       "page": "",
+       "id": "--kaltura--1_bswj4r97===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 1, הדודה מג'רוז",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2733c3b8b2a84e7e8c0eef45680495ae/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ij7qi8uf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תותית ומלעיל, הזמרות הכי \"פחות\", מגיעות אל הדודה יראת השמים דנה אינטרנשיונל כדי לקבל עצות לחיים",
+       "page": "",
+       "id": "--kaltura--0_ij7qi8uf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 6, קמפינג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2288e8c1e1044b55888b87bc56c74817/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_w4zvj7mi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תותית ומילעל נוסעות לקמפיניג למצוא השראה לשיר ושם הן פוגשות חטיפים, אוהלים, ארנבים והרבה חתיכים",
+       "page": "",
+       "id": "--kaltura--0_w4zvj7mi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 3, שוברים דיסטנס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/798622022a7c494c840409dc5b611d81/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y5aae1uo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "תותית ומילעל ממשיכות בטירונות הכי מבאסת ביקום. הן עולות במשקל, נשארות שבת וחולמות על חזרה הבייתה, עד שלבסוף מגיע הרגע המיוחל והן שוברות דיסטנס עם המפקדת המרשעת מסוג זוממת",
+       "page": "",
+       "id": "--kaltura--1_y5aae1uo===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 5, תותית ומילעל עושות חיים בבית החולים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2899e9812e5e41d6b552cb352e0d00cb/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_n56ym367/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "תותית ומלעיל עוברות תאונת דרכים קלה ומתאשפזות בבית חולים, שם הן מכירות חברה שבאה בימים ובעזרת העצות שלה הן לומדות להעריך את החיים. בהשתתפות: אמיר דדון ועומר עציון",
+       "page": "",
+       "id": "--kaltura--0_n56ym367===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 10, החתונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b5cb8ca7685c433caf9debc5ff47027a/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pzqkpm61/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "פרק סיום העונה: תותית ומילעל הולכות לחתונה והן מתרשמות מהדגה, עוזרות לכלה להחליף שמלה, שרות שיר בקליפ חברות ומשתכרות",
+       "page": "",
+       "id": "--kaltura--0_pzqkpm61===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 7, הקמפינג ממשיך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e141af13bada48ddb36ce89b4b7bfa91/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_0j0mguhc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הקמפינג של תותית ומילעל ממשיך עם צ'יזבטים שיגרמו לכם לשקשק מפחד, מסיבת פיג'מות קורעת, שחייה מענגת עם חתיכים והחשוב מכל - רגעים בלתי נשכחים של חברים אמיתיים",
+       "page": "",
+       "id": "--kaltura--0_0j0mguhc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 8, תותית ומילעל מקימות מפלגה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fff145737f894b97b57fb228d1cecb92/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_7f9971qt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "בעקבות פיגוע שתותית ומילעל מסכלות הן מתראיינות לטלוויזיה. הפופולריות שלהן מרקיעה שחקים והן מקימות מפלגה שכל לול ולולה יזדהה איתה",
+       "page": "",
+       "id": "--kaltura--0_7f9971qt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאת וזאתי, פרק 9, בחזרה לתיכון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df5a0b0b29ee439aa32ae24ed99e70f7/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nvpepn6a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "השנה היא 2002, תותית ומילעל חוזרות לתיכון ושם הן חוות שברון לב, כשלון בלימודים, מקובלים מול דחויים וחרם תלמידים",
+       "page": "",
+       "id": "--kaltura--1_nvpepn6a===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

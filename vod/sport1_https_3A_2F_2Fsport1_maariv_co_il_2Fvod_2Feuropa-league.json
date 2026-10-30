@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - ליגה אירופית",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Feuropa-league",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Feuropa-league",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1290052",
+   "plot": "",
+   "updated": "2026-10-31 00:09",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תקציר: הליגה האירופאית יובנטוס – ראן 2:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1290052",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112434/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1978813/",
+       "season": ""
+      },
+      {
+       "name": "צפו: סיסה בן ה-19 הבקיע שלושער, מילאן הביסה 0:4 את רד בול זלצבורג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1289049",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4110023/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1972833/",
+       "season": ""
+      },
+      {
+       "name": "צפו: חלאילי ופאלאס פתחו את הליגה האירופית עם 0:4 מוחץ מול לך פוזנן",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285792",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102721/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1951594/",
+       "season": ""
+      },
+      {
+       "name": "צפו: חלאילי ופאלאס פתחו את הליגה האירופית עם 0:4 מוחץ מול לך פוזנן",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285786",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102675/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1951407/",
+       "season": ""
+      },
+      {
+       "name": "ירמי פינו מעלה את קריסטל פלאס ליתרון נגד לך פוזנאן",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285031",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102669/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1951378/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מילאן פתחה את הליגה האירופאית עם הפסד היסטורי לבנפיקה בסן סירו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285652",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102287/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1950930/",
+       "season": ""
+      },
+      {
+       "name": "תקציר: לאציו – מילאן 2:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285652",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4100417/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1950646/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אסטון וילה הביסה 0:3 את פרייבורג וזכתה בליגה האירופית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1271675",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4054316/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1856654/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אסטון וילה דרסה 0:4 את נוטינגהאם פורסט בדרך לגמר הליגה האירופית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1269883",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4048024/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1846110/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,571 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - משחק מכור",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "530",
+   "series_id": "530",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a0a283521384f5d9fc7bae0d8182821/version/0/width/800/height/1200/quality/90",
+   "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "כל העונות",
+     "channels": [
+      {
+       "name": "משחק מכור -  7.1.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56e7261e16cc4bd3a1006fde25aa511d/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xabbodcg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_xabbodcg===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 19.11.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8698a2634b064e8d966fca53629e1db6/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t8acreov/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_t8acreov===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 19.12.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/68d96eff9fa84d30b5f78fc465a60b08/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j0pg3vyw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_j0pg3vyw===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 28.09.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e859333c6c8d4202a78a812f4c7f36b5/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h8cw083q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_h8cw083q===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 05.12.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2d1c68d0dde840d69c3db7c68222ab5f/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_llre2z4e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_llre2z4e===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "מודי בר און במשחק מכור",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/643a3a782379469f8931570e3f6c746c/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_trheloge/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_trheloge===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 03.04.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0733341884aa49fb8198cb19d4f5d6e4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xo6ydhvz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_xo6ydhvz===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 06.03.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c39e287dac374b26aa578ef6f1b53f3b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sozbyjkv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_sozbyjkv===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 13.03.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52bcebb5ed304000a566d0c60a54f49a/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_axnoihfh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_axnoihfh===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 27.02.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/efcbf9617c3543daa6b3371b1145bf95/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_swthgbb2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_swthgbb2===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 30.01.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b9a3b3886a04a0db74a3da9aefb421c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xbvipgd6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_xbvipgd6===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 16.01.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/413d972589ea4b50827f97ef2629a397/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_93i5tk3i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_93i5tk3i===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 23.01.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4aae0017f3448098e24425f8173f01a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ifz3wy83/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_ifz3wy83===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 02.01.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/548cbb6fb01249c1a4eea163031428bd/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_96njkavw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_96njkavw===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 12.12.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50f334876c414281b30105800222013b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p9ej4h4j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_p9ej4h4j===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 26.12.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a85406a5c7946e3aa2f491f2bb67368/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8z975z90/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_8z975z90===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 21.11.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60ca55af41ef4032907f216a440b562e/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hukg6rv4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_hukg6rv4===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 28.11.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dffd23b350a6499a80ac3c0fec7dccc0/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ng56xrip/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_ng56xrip===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 02.10.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aca0a1961ce448569caa1286b32827ad/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0ia2vrg1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_0ia2vrg1===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 31.07.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06dfcc577c414c28b0e12d3fa13ace8f/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y72f79jg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_y72f79jg===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 21.9.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/08a3621f722c469a99b3206a9ec134b0/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6kiedo6e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_6kiedo6e===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 11.9.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fecb6fda3fa426380aab1ba17a16782/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oqciha1p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_oqciha1p===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 4.9.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cdc1dea1bd314510bc9524a2f4956b76/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o1hde1f8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_o1hde1f8===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 17.8.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22470fe4f4ae463d9d318e46ae6d0b98/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zkzy8i2g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_zkzy8i2g===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 28.8.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf6c129359be49e68680771fa24cd70a/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l3oy9p1o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_l3oy9p1o===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 7.8.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c2c88b83da74dc39272dfba888e3cb3/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5a3tz32n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_5a3tz32n===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 24.7.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8f63c00b85b42e292217c708c6efa0c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oho25mzm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_oho25mzm===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 10.7.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27f4191b357346208682ab0c5960ac4f/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_llgki2sa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_llgki2sa===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 17.7.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/96304b5cdf994377a296a76e09b8c68a/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rxvoy715/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_rxvoy715===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 27.4.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/674f510754d84d88b679366ed548de8e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d702hskj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_d702hskj===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 18.2.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8bb05ebd048c458aaef157e32f051467/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jzfaws4s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_jzfaws4s===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 25.2.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6111da67368947cbbbad5851b66590b5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3gt71134/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_3gt71134===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 11.2.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37262f670ce54e70a5003f373cc8b88c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b6px6qer/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_b6px6qer===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 4.2.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c80cbc4f4ffa4e3793cade6913622653/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3xgyc2lr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_3xgyc2lr===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 21.1.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/edd7cfdfc9174b37a1a9980f28ab14e5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tgzu3pzn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_tgzu3pzn===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 28.1.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3814665ce13641d3a6a1bdd3e58df437/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xek7tju6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_xek7tju6===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 14.1.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92a23912ef7147b7b6109dee494af666/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_28yxi6jo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_28yxi6jo===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 31.12.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0287d3b9a7a45a0bfbc89b4cfeb4d8b/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r9yg5ox5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_r9yg5ox5===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור, לקט - 24.12.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba405ec821f64d38aa49408e0d2107d4/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f483ob7s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_f483ob7s===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 17.12.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa5bcae6569843f2b004568af54ab07e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hlowoech/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_hlowoech===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 10.12.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9918d65e24da4debb280bb1eeb950b4c/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_piww1q95/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_piww1q95===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 3.12.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c02ed1e1175c421ab5667c5d2215778f/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8spj2agd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_8spj2agd===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 26.11.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e4444b731dec4f1098130a1297882b69/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9j103e5w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_9j103e5w===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור -  5.11.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21897727755c402593044a896bf67d3a/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9e39alos/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_9e39alos===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור -  12.11.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0433dd794cc4fc6b9eb5d42ee2ad4a4/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qqv6d0ms/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_qqv6d0ms===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור -  29.10.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/077829ce37404faa9a71f40b234d7db8/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tksedo97/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_tksedo97===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 22.10.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f6a3b7554fd449eca524e52f6af392ef/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h9iutgns/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_h9iutgns===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 11.9.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab7f949b5c8e4d2ca1de55c14a7cbbb3/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_82fukfl1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_82fukfl1===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 13.8.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/65ab66f212ac4970b65c39ce5b1f9715/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_918s3yxg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_918s3yxg===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 6.8.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9bc24900ec354248b58d1b603052974b/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wpq1v6c9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_wpq1v6c9===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 30.7.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f41a0070b26d4d02bde9fd8eb95cc26d/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e0wwu20d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_e0wwu20d===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 23.7.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/61879d6e310948c6bbd07f77e5ef96a6/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q053elln/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_q053elln===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 16.7.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/99f6d4a8ec484a84a79c4cf60ebb59ac/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kneeaym6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_kneeaym6===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור - 2.7.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b5a022e20cb24d69b5e18678331097e6/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aq9q8u0n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_aq9q8u0n===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "משחק מכור- 9.7.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fdd2e556ad9243e9896021a5cec313ea/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mehy75q6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-23",
+       "plot": "עינב גלילי, ליאור שליין, גורי אלפי ושלל אורחים בתוכנית הסאטירה הקלאסית",
+       "page": "",
+       "id": "--kaltura--1_mehy75q6===",
+       "season": "כל העונות"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

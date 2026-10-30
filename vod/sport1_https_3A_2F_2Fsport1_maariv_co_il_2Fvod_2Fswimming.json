@@ -1,0 +1,61 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - שחייה",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fswimming",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fswimming",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1051280",
+   "plot": "",
+   "updated": "2026-10-31 00:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "צפו: מדליית כסף למירון חרותי בקאנה ארוסיון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1051280",
+       "url": "https://sport1-video-f.wcdn.co.il/3218212/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/swimming/video/667373/",
+       "season": ""
+      },
+      {
+       "name": "מבול של שיאים: סיכום היום האחרון בליגת השחייה הבינלאומית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1017971",
+       "url": "https://sport1-video-f.wcdn.co.il/3233170/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/swimming/video/473479/",
+       "season": ""
+      },
+      {
+       "name": "ארבעה שיאי עולם ביום הראשון של גמר ליגת השחייה הבינלאומית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1017593",
+       "url": "https://sport1-video-f.wcdn.co.il/3225946/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/swimming/video/471689/",
+       "season": ""
+      },
+      {
+       "name": "טומרקין שבר שיא ישראל וגורבנקו סיימה שנייה בחצי גמר ה-ISL",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/666292",
+       "url": "https://sport1-video-f.wcdn.co.il/3239055/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/swimming/video/467821/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אחת אפס אפס",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "458",
+   "series_id": "458",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f6e904986f6463d8bbf871cc7373155/version/0/width/800/height/1200/quality/90",
+   "plot": "אחת אפס אפס לצפייה ישירה - סדרת אקשן משטרתית העוקבת אחרי החוקר המשטרתי אריק ארבל ושותפיו לעבודה. עם עמוס תמם, אפרת דור, ריקי בליך, גולן אזולאי, שרון אלכסנדר, זהר שטראוס ומוריס כהן. יוצר: אמיר מן",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41a0196e99574a4abb46849d3a7aada2/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tan4z8iq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "המצוד אחר הרוצחים מגיע לשיאו וחלק מהגיבורים שלנו מוצאים עצמם בסכנת חיים בעוד יוני בר און חוקר היאחב\"ל נמצא במרדף אחר אריק ומנסה להפיל אותו בפח. במהלך המרדף, אריק ואלכס מגלים כי הסודות שלהם בסכנת חשיפה.",
+       "page": "",
+       "id": "--kaltura--1_tan4z8iq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f2d8d14c67f4f2b848862b28ef97eb1/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3wqe8d17/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "סדרת פעולה משטרתית חדשה, גדושה באקשן ובעלילות בלשיות.\nבמרכז הסדרה פקד אריק הלר, שוטר שיחד עם שאר חברי היחידה שלו, ישתמש בכל אמצעי כדי שיעשה צדק.\nעם עמוס תמם, אפרת דור, זוהר שטראוס ועוד",
+       "page": "",
+       "id": "--kaltura--1_3wqe8d17===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0416ad2776e44aa1bf81a3328ba5a800/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oly8hgnc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "סדרת פעולה משטרתית חדשה, גדושה באקשן ובעלילות בלשיות.\nבמרכז הסדרה פקד אריק הלר, שוטר שיחד עם שאר חברי היחידה שלו, ישתמש בכל אמצעי כדי שיעשה צדק.\nעם עמוס תמם, אפרת דור, זוהר שטראוס ועוד",
+       "page": "",
+       "id": "--kaltura--1_oly8hgnc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b4120965141a4426ab4d49781a77d1b6/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1prqjen4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "צוות רוצחים שכירים אכזרי מגיע לארץ. כאשר מתברר מי היעד שלהם ומי הזמין את החיסול יוצאים בעקבותם המשטרה, היאחב\"ל ואפילו בביוף.",
+       "page": "",
+       "id": "--kaltura--1_1prqjen4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/86b7423c31a243a7b5552762199fcc95/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t8lwkove/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "סדרת פעולה משטרתית חדשה, גדושה באקשן ובעלילות בלשיות.\nבמרכז הסדרה פקד אריק הלר, שוטר שיחד עם שאר חברי היחידה שלו, ישתמש בכל אמצעי כדי שיעשה צדק.\nעם עמוס תמם, אפרת דור, זוהר שטראוס ועוד",
+       "page": "",
+       "id": "--kaltura--1_t8lwkove===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1642ff842f6a4fcb9071ee9314393c6b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q2rtb4wx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "סדרת פעולה משטרתית חדשה, גדושה באקשן ובעלילות בלשיות.\nבמרכז הסדרה פקד אריק הלר, שוטר שיחד עם שאר חברי היחידה שלו, ישתמש בכל אמצעי כדי שיעשה צדק.\nעם עמוס תמם, אפרת דור, זוהר שטראוס ועוד",
+       "page": "",
+       "id": "--kaltura--1_q2rtb4wx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5fe31858831e42f3aec4fe90959aedac/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bexk6elq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "סדרת פעולה משטרתית חדשה, גדושה באקשן ובעלילות בלשיות.\nבמרכז הסדרה פקד אריק הלר, שוטר שיחד עם שאר חברי היחידה שלו, ישתמש בכל אמצעי כדי שיעשה צדק.\nעם עמוס תמם, אפרת דור, זוהר שטראוס ועוד",
+       "page": "",
+       "id": "--kaltura--1_bexk6elq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fbbfb53ef434889823b03d39ff5ef6e/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xels5wfm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "סדרת פעולה משטרתית חדשה, גדושה באקשן ובעלילות בלשיות.\nבמרכז הסדרה פקד אריק הלר, שוטר שיחד עם שאר חברי היחידה שלו, ישתמש בכל אמצעי כדי שיעשה צדק.\nעם עמוס תמם, אפרת דור, זוהר שטראוס ועוד",
+       "page": "",
+       "id": "--kaltura--1_xels5wfm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e18c8655cf74df7b1d14d1f0304bce3/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f4hhd8dy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "שתי נערות נפגעות אנושות בתאונת פגע וברח. הבלשים נשלחים לפתור את התעלומה במהירות כיוון שאחת הנערות היא בתו של פוליטיקאי בכיר. אריק מנסה בדרכו המיוחדת להתמודד עם העובדה שלגרושתו יש בן זוג חדש.",
+       "page": "",
+       "id": "--kaltura--1_f4hhd8dy===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/435438e16e554d0eb60712a54696290b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iajdn9jw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "אריק ארבל הוא שוטר עם סעיף עצבים. הוא מנסה לאזן בין עבודתו התובענית, ובין הטיפול בבנו ומערכת היחסים המתפוררת עם אשתו לשעבר. יחד עם אריק ביחידה משרתים מוטי -  איש שטח מנוסה וחברו הנאמן, עזרא – שוטר ותיק ומרובע ואלכס – שוטרת חדשה וחדורת מוטיבציה. במרכז הפרק הראשון, אירוע מטלטל שמזעזע את אנשי היחידה ומוביל את אריק למעשה שישנה את חייו.",
+       "page": "",
+       "id": "--kaltura--1_iajdn9jw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/369be7fd5c4b40e9a9a0a6ee44edfb1b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wybewom2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "גופת אשה צעירה מתגלה בפרדס. כל הנתונים מצביעים על כך שמדובר ברצח על רקע כבוד המשפחה, אבל אנשי היחידה לא מצליחים למצוא עד שיעזור להם למצוא את האשמים.",
+       "page": "",
+       "id": "--kaltura--1_wybewom2===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16c2f8ee400f4bdf9d127f5d47519e16/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_89qbk9fx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פרק 9 - רוצח סדרתי בורח מהכלא ואריק ואלכס נשלחים לעצור אותו. עזרא מגלה שעוקבים אחריו וחקירת שיינברג הופכת ליותר מסובכת ומסוכנת. הרוצח הסדרתי שולח לשוטרים גלויות עם חידות.",
+       "page": "",
+       "id": "--kaltura--1_89qbk9fx===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e685ff142db84b23a79de6ceafd296ce/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8o72y440/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פרק 10 - המצוד אחרי הרוצח הסדרתי ממשיך וליטל מנצלת את המצב כדי להתקרב לאריק. אלכס מבחינה במה שקורה והיא ואריק רבים. מפיענוח הגלויות מתבררת מטרת הרוצח והשוטרים יוצאים למארב.",
+       "page": "",
+       "id": "--kaltura--1_8o72y440===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/328b468aada04b2884acebeffb8587b2/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qcyehyux/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פרק 8 - מקור חדש ומסתורי בחקירת שיינברג יוצר קשר עם אריק, אלכס מגלה שכדי להגן על אנטולי היא צריכה לעקם את החוקים, ובינתיים חקירת האסיר הנמלט ליערות מסתבכת.",
+       "page": "",
+       "id": "--kaltura--1_qcyehyux===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee47d9f6fad8442db3753ec0eb87e640/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_owjnahdx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פרק 4 - האופנוען המתנקש ממשיך במסע ההרג שלו ומתחילה מלחמת כנופיות שאריק חייב לעצור. חוקרת המח\"\"ש, שרון אבן מתחילה לחקור את האנשים הקרובים ביותר לאריק.",
+       "page": "",
+       "id": "--kaltura--1_owjnahdx===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6f414d699a543cf8652f8fffc698a5b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vq3o7n0n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פרק 7 - אריק וליטל נשלחים ליער בצפון לעצור אסיר נמלט שהצטרף לציידים בלתי חוקיים. ליטל מנצלת את ההזדמנות להתקרב לאריק.",
+       "page": "",
+       "id": "--kaltura--1_vq3o7n0n===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/892975dfea0b45cea657778300968302/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_979ijgp0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פרק 5 - אריק ואלכס חוקרים רצח אכזרי של אשה אתיופית שמתברר כיותר מורכב ומיסתורי ממה שהם חשבו. ליטל מנצלת את החקירה להתקרב אל אריק.",
+       "page": "",
+       "id": "--kaltura--1_979ijgp0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/85004128458c44c683ffc1f74075273d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2cishgsl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פרק 6 - חקירת הרצח בקהילה האתיופית מובילה לכנופיה אלימה. שרון אבן לוחצת על המשפחה של אריק ומאיימת לחשוף את הסודות שלו.",
+       "page": "",
+       "id": "--kaltura--1_2cishgsl===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a63697ca5d88454aa0492f82217b6d0c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5lgmfmnj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פרק 3 - מתנקש מסתורי מחסל אנשים הקשורים לבביוף. אריק חושד שאלכס מסתירה ממנו מידע בכל הקשור לאנטולי.",
+       "page": "",
+       "id": "--kaltura--1_5lgmfmnj===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e853e2e349a426cb2b7ed36d9f76057/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dpzqyfqz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פקד אריק ארבל (עמוס תמם)  השוטר הקשוח מאחת אפס אפס - חוזר בעונה גדושה במתח, אקשן וטוויסטים מפתיעים. בעונה החדשה יש אויב חדש ומפתיע שאריק לא מצליח להפחיד וחוקרת מח\"\"ש קשוחה שלא עוזבת אותו. מערכת היחסים הרומנטית עם אלכס מסתבכת כשלתחנה מצטרפת שוטרת חדשה וסקסית. \nאריק ומוטי חוקרים מקרה רצח קשה שמצביע לכיוון מפתיע במיוחד ומוביל את אריק להסתבכות עם אויב שאינו יודע כיצד להתמודד מולו. אלכס מנסה לאזן בין העבודה במשטרה, למערכת היחסים הפורחת עם אריק לקשר המתחדש עם אביה המאפיונר.",
+       "page": "",
+       "id": "--kaltura--1_dpzqyfqz===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 2, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4401ef75716d45a59bc70c8849e8136d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tuak51u3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-31",
+       "plot": "פקד אריק ארבל (עמוס תמם)  השוטר הקשוח מאחת אפס אפס - חוזר בעונה גדושה במתח, אקשן וטוויסטים מפתיעים. בעונה החדשה יש אויב חדש ומפתיע שאריק לא מצליח להפחיד וחוקרת מח\"\"ש קשוחה שלא עוזבת אותו. מערכת היחסים הרומנטית עם אלכס מסתבכת כשלתחנה מצטרפת שוטרת חדשה וסקסית. \nאריק ומוטי חוקרים מקרה רצח קשה שמצביע לכיוון מפתיע במיוחד ומוביל את אריק להסתבכות עם אויב שאינו יודע כיצד להתמודד מולו. אלכס מנסה לאזן בין העבודה במשטרה, למערכת היחסים הפורחת עם אריק לקשר המתחדש עם אביה המאפיונר.",
+       "page": "",
+       "id": "--kaltura--1_tuak51u3===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21acbb01f6264c378e9e2bdbee805d84/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pmh2c8ur/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "אריק מביא את אנטולי לחקירה תחת האף של בביוף. יש לו רק כמה שעות כדי לשבור את המאפיונר הרוסי והוא יעשה הכל. בדרך אריק שורף את ברקוביץ', את ליטל, ואת מערכת היחסים הקורסת שלו עם אלכס",
+       "page": "",
+       "id": "--kaltura--1_pmh2c8ur===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2446784485fd4a53a103c07d1c980c21/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_382xtpxn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "כולם מחכים לעסקת הסמים הגדולה שבביוף מתכנן. עזרא מתמנה לפיקוד על המבצע ואריק חרד שהוא יפריע לתוכנית שלו ויגלה את הסודות של אלכס, בזמן שאנטולי חושש שבביוף יודע עליו. בלילה אחד הכל הולך להתפוצץ",
+       "page": "",
+       "id": "--kaltura--1_382xtpxn===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d975ac45732444680da7599ba63c49d/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4f76surr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "מחבל מתאבד מתקרב לתל אביב בדרך לפיגוע. אריק ומוטי חייבים לעצור אותו, למרות שהם עסוקים בחקירה של משפחת בביוף כשלא ברור אם אנטולי עוזר להם או משחק איתם. ליטל מסתבכת במעקב אחרי פושע מקסיקני מיסתורי",
+       "page": "",
+       "id": "--kaltura--1_4f76surr===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d640e68623bc4251b62526f94e68ad9b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z0snf7cx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "אריק ומוטי חוקרים ארגון פשע שעוסק בהימורי ספורט. החקירה מסתבכת כשמוטי מצליח להשיג מקור, ילד, שמכיר את העסק מקרוב. בינתיים, חייו של דני בביוף משתנים בכלא כשהוא מתקרב לדת",
+       "page": "",
+       "id": "--kaltura--1_z0snf7cx===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2f0ef5c7f08a49baaf8e7433723eb65c/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cu83arax/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "הרוצח שבביוף שלח עוקב אחרי אריק עד למושב של אביגדור, אלכס מנסה להפעיל את אנטולי כדי להציל את אריק, שרון אבן לוחצת את ליטל כדי לסגור על אריק, ושיינברג עושה כל מה שהוא יכול כדי לעצור את המשטרה",
+       "page": "",
+       "id": "--kaltura--1_cu83arax===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a60bd6ad27434e5cb9e0c80408a4f94f/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wijjmb6x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "אריק צריך להציל את אלכס מארגון הפשע שחטף אותה. הוא נחוש לעצור את בביוף בכל מחיר ומצליח להשיג עד נגדו, אבל לבביוף יש עוד הפתעות",
+       "page": "",
+       "id": "--kaltura--1_wijjmb6x===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2780df12f5f74e449b9633e010404040/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h222bl7g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "אריק ומוטי חוקרים ארגון פשע שמתעסק בסחר בנשים. כשאלכס מצטרפת תחת כיסוי, בניגוד לדעתו של אריק, כל החקירה מסתבכת ומערערת את מערכות היחסים של כולם ומסכנת את חייה של אלכס",
+       "page": "",
+       "id": "--kaltura--1_h222bl7g===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/723bede5e0df49529a7cd69c0b86f04c/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t9a6yula/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "עזרא מגלה שאריק קשור לאקדח שירה בבביוף. הלחץ שהוא מפעיל גורם לאריק ליזום עסקה ביניהם ולהגדיל את הלחץ על שיינברג כשהמחיר יכול להיות חייה של המקור שלו, ליהי",
+       "page": "",
+       "id": "--kaltura--1_t9a6yula===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אחת אפס אפס, עונה 3, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1dc74a6f73764e54a248b0f812e1c039/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6pybwtud/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "פקד אריק ארבל (עמוס תמם), השוטר הקשוח, חוזר בעונה גדושה במתח, אקשן וטוויסטים מפתיעים. בעונה החדשה יש אויב חדש ומפתיע שאריק לא מצליח להפחיד וחוקרת מח\"ש קשוחה שלא עוזבת אותו. מערכת היחסים הרומנטית עם אלכס מסתבכת כשלתחנה מצטרפת שוטרת חדשה וסקסית",
+       "page": "",
+       "id": "--kaltura--1_6pybwtud===",
+       "season": "עונה 3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - ליגה פורטוגלית",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fportuguese-league",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fportuguese-league",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1263005",
+   "plot": "",
+   "updated": "2026-10-31 00:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תקציר: בנפיקה – פורטו 2:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1263005",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4024643/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/1799174/",
+       "season": ""
+      },
+      {
+       "name": "בזכות טעות שוער: ספורטינג ליסבון גברה 1:2 על ארוקה של דסה ואלטמן",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1066327",
+       "url": "https://sport1-video-f.wcdn.co.il/3289734/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/758361/",
+       "season": ""
+      },
+      {
+       "name": "טונדלה גברה 2:3 על פמליקאו במשחק תחתית סוער",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1065601",
+       "url": "https://sport1-video-f.wcdn.co.il/3289870/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/754776/",
+       "season": ""
+      },
+      {
+       "name": "הקפצה מ-40 מטר ובעיטה חופשית לחיבורים: צפו בניצחון הדרמטי של פורטו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1065470",
+       "url": "https://sport1-video-f.wcdn.co.il/3289611/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/753922/",
+       "season": ""
+      },
+      {
+       "name": "ספורטינג ליסבון ניצחה את מאריטימו מפנדל דרמטי בדקה ה-98",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1065458",
+       "url": "https://sport1-video-f.wcdn.co.il/3288817/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/753869/",
+       "season": ""
+      },
+      {
+       "name": "פורטו חזרה מפיגור ל-1:1 בחוץ נגד ספורטינג ליסבון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1064354",
+       "url": "https://sport1-video-f.wcdn.co.il/3288872/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/747766/",
+       "season": ""
+      },
+      {
+       "name": "שער ענק של שדאס מנע מפורטו ניצחון על מאריטימו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3288955/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/737044/",
+       "season": ""
+      },
+      {
+       "name": "האלופה שמרה על מאזן מושלם: 0:2 לספורטינג ליסבון על בלננשש",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1062316",
+       "url": "https://sport1-video-f.wcdn.co.il/3289220/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/736126/",
+       "season": ""
+      },
+      {
+       "name": "ארוקה של דסה השיגה 1:2 דרמטי בדקה ה-89 על פמליקאו. שער שוויון נפסל בתו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1062187",
+       "url": "https://sport1-video-f.wcdn.co.il/3289574/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/portuguese-league/video/735351/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

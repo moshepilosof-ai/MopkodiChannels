@@ -1,0 +1,141 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - קובי וליטל החיים עצמם",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "177",
+   "series_id": "177",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f115f532199f4c949dd31c111df2b9bd/version/10/width/800/height/1200/quality/90",
+   "plot": "קובי מיימון וליטל שוורץ במסע דוקו קומי בו הם בוחנים איך אפשר לצלוח את גיל ה-40 בשלום, האם יש כאלה שהצליחו לפצח את השיטה ולמצוא את הדרך אל האושר.",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 1: סודות היופי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b7606b814ef4b45acee6fb6f0ef3fa4/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_j87ee2x6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "טיפול הפנים של קים קרדשיאן, מיכל חנקן קפוא ומסכות טבעיות: קובי מימון וליטל שוורץ מגלים את הסודות של עולם היופי והטיפוח",
+       "page": "",
+       "id": "--kaltura--0_j87ee2x6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 2: עושר גורם לאושר?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf7ca7942a424956b90ecff6eed6c44a/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ohgj0hab/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך נראים חייו של נווד בדרכים ואיך נראה בית שעלותו מוערכת ב-20 מיליון שקלים? קובי מימון וליטל שוורץ יוצאים למסע בעקבות הכסף",
+       "page": "",
+       "id": "--kaltura--0_ohgj0hab===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 3: הורות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd72fdb55b8a42d8a4a65d66896d6279/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_6ofjstd0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קובי מימון וליטל שוורץ נפגשים עם האבות של קבוצת הפייסבוק \"אבא פגום\", בוחנים את הרצון בילד דרך מפגש עם אמא שמחפשת תרומה מבנק הזרע ומתעמתים עם הסבתות של היום",
+       "page": "",
+       "id": "--kaltura--0_6ofjstd0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 5: אמונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e7c95d8385d4e3292bd4aabea30970f/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_vevmmtjq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליטל אתאיסטית גמורה עם נטיה לאמונות תפלות וקובי שמחובר יותר למסורת עוד מילדות ומהבית. שניהם מרגישים צורך  לצאת למסע בעקבות האמונה",
+       "page": "",
+       "id": "--kaltura--0_vevmmtjq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 4: רוחניות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b85e66f54c546d6a4f2498151167deb/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_yinbcl4t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כדי לבדוק איך אפשר לחיות בצורה יותר בריאה, קובי וליטל מחליטים לנסוע לחוות בריאות גלילית, שם הם מתנסים בפעילויות בריאותיות-רוחניות מפתיעות במיוחד",
+       "page": "",
+       "id": "--kaltura--0_yinbcl4t===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 6: זוגיות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/826a043fc3704f20b41304a6b1ebf2cf/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_kkgljtdl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "זוגיות מיינסטרימית ארוכת שנים - חלום אידיאלי או סיוט מתמשך? ממרומי גיל ה40, קובי וליטל יוצאים לבדוק את האופציות המעניינות והלא שגרתיות שיש לעולם הזוגיות של היום להציע",
+       "page": "",
+       "id": "--kaltura--0_kkgljtdl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 8: זקנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/68312e0f28284f4b92e1728e267f8cb7/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_clzlkyix/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קובי וליטל יוצאים לבדוק למה אנחנו מפחדים כל כך להזדקן והאם החיים בגיל 40 הם בעצם השתעבדות והכנה לקראת מגוון האופציות הכיפיות, המרגשות והלא שגרתיות העומדות בפני בני הגיל השלישי בימינו",
+       "page": "",
+       "id": "--kaltura--0_clzlkyix===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "החיים עצמם, פרק 7: משבר גיל ה-40",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e5136a9f64e04f83838858e12cdb6432/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_sb5dji5f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קובי מימון וליטל שוורץ מצטרפים לקבוצת ריצה, יוצאים למסיבת טראנס, צונחים ממטוס ועושים את כל הפעילויות האפשריות שעוזרות לעבור בשלום את משבר גיל ה-40",
+       "page": "",
+       "id": "--kaltura--0_sb5dji5f===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 9: ישראל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/20d1811ce0934990ad91ab343efa4e72/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_sm38wvqa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קובי מימון וליטל שוורץ הם \"הכי ישראלים שיש\", אך שניהם מעידים שלו רק ניתנה להם ההזדמנות, היו מעתיקים את חייהם לארצות הברית כדי לחיות כמו כוכבים אמיתיים. בפרק הם יוצאים למסע שמטרתו להתאהב מחדש במדינה הקטנה והמיוחדת שלנו",
+       "page": "",
+       "id": "--kaltura--0_sm38wvqa===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק הסטנד אפ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/732039985e79455f85c4610812cf3e87/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_452jtsmx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עונת הסטנדאפ נפתחת עם מופע קורע של קובי מימון וליטל שוורץ על החיים עצמם",
+       "page": "",
+       "id": "--kaltura--0_452jtsmx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק 10: טכנופוביה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6306a315c743485594ba567fe8ae7423/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ey0jkkhf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קובי וליטל מבינים שכדי להישאר רלוונטיים בעולם שבו נועה קירל וחבריה נושפים בעורפיהם, הם חייבים להבין יותר בטכנולוגיה ובדיגיטל. בפרק סיום העונה הם יוצאים לבדוק מה צריך לעשות כדי להשתלב בעולם החדש של כוכבי הרשת על חוקיו השונים והמשונים",
+       "page": "",
+       "id": "--kaltura--0_ey0jkkhf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קובי וליטל החיים עצמם, עונה 1, פרק הסטנד אפ השני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecb9043ff03b402490ea0040774fcf1a/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ovrv4cua/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "עונת הסטנדאפ ממשיכה עם מופע קורע של קובי מימון וליטל שוורץ על החיים עצמם",
+       "page": "",
+       "id": "--kaltura--0_ovrv4cua===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

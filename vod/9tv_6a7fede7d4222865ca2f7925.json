@@ -1,0 +1,191 @@
+{
+ "categories": [
+  {
+   "name": "ערוץ 9 - Яблоко раздора",
+   "type": "vod",
+   "source": "9tv",
+   "program_url": "6a7fede7d4222865ca2f7925",
+   "series_id": "6a7fede7d4222865ca2f7925",
+   "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/fe6b1ee7-293d-43d5-beeb-faba33e19604.jpeg",
+   "plot": "Авторская программа Елены Лагутиной — беседы с известными гостями.",
+   "updated": "2026-10-31 00:06",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "Алла Гербер - 28/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/bb643787-d08c-4607-b655-37514b5adb8c.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/0d396a5c-c846-460b-8c6e-4e6550ebd6bf/hls/master.m3u8",
+       "date": "2026-09-28",
+       "plot": "Яблоко раздора. Гость — Алла Гербер, журналист, писатель",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/0d396a5c-c846-460b-8c6e-4e6550ebd6bf/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Арина Холина - 22/05/2018",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/44fb63e7-62ef-4a8f-ad36-8286fc95dcc4.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/11d5aab7-64d7-4ee1-8f9e-0fdd1670497d/hls/master.m3u8",
+       "date": "2018-05-22",
+       "plot": "Яблоко раздора. Гость — Арина Холина, журналист, писатель",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/11d5aab7-64d7-4ee1-8f9e-0fdd1670497d/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Михаил Грушевский - 10/01/2018",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/a45d2bb6-660b-4200-ae5f-2a1dc9871146.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/ccf5ed66-2893-4330-adc9-bc4c24954a28/hls/master.m3u8",
+       "date": "2018-01-10",
+       "plot": "Яблоко раздора. Гость — Михаил Грушевский, артист, пародист",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/ccf5ed66-2893-4330-adc9-bc4c24954a28/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Александр Ширвиндт - 17/10/2017",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/6cf52f87-6a44-4274-8e63-7e7e0a68c9fc.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/7b039be1-8ea7-4ebe-a15e-2203a60fbb56/hls/master.m3u8",
+       "date": "2017-10-17",
+       "plot": "Яблоко раздора. Гость — Александр Ширвиндт, народный артист России",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/7b039be1-8ea7-4ebe-a15e-2203a60fbb56/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Ирина Ясина - 06/10/2017",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/612fd130-601c-45e9-8573-66c2fbb1b3dc.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/f5e94b3b-4288-437d-822b-16c0f7f0c423/hls/master.m3u8",
+       "date": "2017-10-06",
+       "plot": "Яблоко раздора. Гость — Ирина Ясина, журналист, правозащитник",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/f5e94b3b-4288-437d-822b-16c0f7f0c423/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Максим Галкин - 08/09/2017",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/15c187b9-2a16-4f69-a040-63ffaff0d625.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/aed2fe91-b69a-4920-a8bc-1a3be41eaf2b/hls/master.m3u8",
+       "date": "2017-09-08",
+       "plot": "Яблоко раздора. Гость — Максим Галкин, юморист, телеведущий",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/aed2fe91-b69a-4920-a8bc-1a3be41eaf2b/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Игорь Губерман - 01/09/2017",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/23fb1954-e626-4421-8a60-2c09bb3d1477.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/62374b5c-8e27-457d-ac9e-a6ccd4f14b09/hls/master.m3u8",
+       "date": "2017-09-01",
+       "plot": "Яблоко раздора. Гость — Игорь Губерман, поэт",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/62374b5c-8e27-457d-ac9e-a6ccd4f14b09/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Владимир Познер - 10/08/2017",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/1f16d6ea-81af-4124-ab7b-45d827956699.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/48895fbe-96d9-4d8e-b011-16391e8f1342/hls/master.m3u8",
+       "date": "2017-08-10",
+       "plot": "Яблоко раздора. Гость — Владимир Познер, журналист, телеведущий",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/48895fbe-96d9-4d8e-b011-16391e8f1342/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Михаил Гусман - 01/11/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/41963d78-51cd-4edc-9966-7d0de09aedfd.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/40412ce2-0526-4565-8751-c714c006cd9c/hls/master.m3u8",
+       "date": "2016-11-01",
+       "plot": "Яблоко раздора. Гость — Михаил Гусман, первый заместитель гендиректора ИТАР-ТАСС",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/40412ce2-0526-4565-8751-c714c006cd9c/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Игорь Миркурбанов - 05/05/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/785c2b10-e13b-4355-9174-cf97990e01fb.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/ffbe62fc-63e9-4d5d-bace-a80de246c5f9/hls/master.m3u8",
+       "date": "2016-05-05",
+       "plot": "Яблоко раздора. Гость — Игорь Миркурбанов, актёр, музыкант",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/ffbe62fc-63e9-4d5d-bace-a80de246c5f9/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Антон Носик - 27/04/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/6cb4fe9a-8d7c-4085-a3d3-2186b1365610.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/2068eba3-55a5-4cc7-bb74-af52ef8bb2b1/hls/master.m3u8",
+       "date": "2016-04-27",
+       "plot": "Яблоко раздора. Гость — Антон Носик, блогер, медиаменеджер",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/2068eba3-55a5-4cc7-bb74-af52ef8bb2b1/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Андрей Максимов - 18/04/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/bd2bc980-46e1-4f96-b497-18de09454df7.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/b9306bd3-424b-4bd0-96fc-b82989a5883a/hls/master.m3u8",
+       "date": "2016-04-18",
+       "plot": "Яблоко раздора. Гость — Андрей Максимов, журналист, писатель",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/b9306bd3-424b-4bd0-96fc-b82989a5883a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Михаил Шуфутинский - 18/04/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/20560598-10aa-479b-bd06-57e0d173708b.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/83fdddad-1b25-4bbd-9e87-6a1c23a144d6/hls/master.m3u8",
+       "date": "2016-04-18",
+       "plot": "Яблоко раздора. Гость — Михаил Шуфутинский, певец, музыкант",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/83fdddad-1b25-4bbd-9e87-6a1c23a144d6/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Дина Рубина - 13/04/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/571b22e5-7266-4ec6-b725-5a841dbe04a1.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/20c00109-6d4e-44fe-aff7-3da27cb7c574/hls/master.m3u8",
+       "date": "2016-04-13",
+       "plot": "Яблоко раздора. Гость — Дина Рубина, писатель",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/20c00109-6d4e-44fe-aff7-3da27cb7c574/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Владимир Яковлев - 10/04/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/2f1bd017-5b6f-4027-ad00-ad4245454f6f.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/69b7a392-9adb-4bfa-b75a-2c140f45c739/hls/master.m3u8",
+       "date": "2016-04-10",
+       "plot": "Яблоко раздора. Гость — Владимир Яковлев, создатель СМИ",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/69b7a392-9adb-4bfa-b75a-2c140f45c739/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Марта Кетро - 29/03/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/1e9a1b3a-c526-45c5-a7a3-63d0d178960d.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/7e122054-e807-4e82-9ce3-4e6740774e4f/hls/master.m3u8",
+       "date": "2016-03-29",
+       "plot": "Яблоко раздора. Гость — Марта Кетро, писатель",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/7e122054-e807-4e82-9ce3-4e6740774e4f/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Денис Драгунский - 18/01/2016",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/565aab64-0139-4072-9a10-4f19af8b765f.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/c1b3a91c-1017-4e53-a3e3-c0f77c212a33/hls/master.m3u8",
+       "date": "2016-01-18",
+       "plot": "Яблоко раздора. Гость — Денис Драгунский, писатель",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/c1b3a91c-1017-4e53-a3e3-c0f77c212a33/hls/master.m3u8",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

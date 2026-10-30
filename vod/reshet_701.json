@@ -1,0 +1,181 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מה קורה פה?",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "701",
+   "series_id": "701",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df4da9c8d54746cb9f33bdc3bd432da6/version/2/width/800/height/1200/quality/90",
+   "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית בידור סאטירית לכל המשפחה על אירועי השעה בארץ ובעולם",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מה קורה פה? עונה 1, פרק 16: תוכנית הסיום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/127b4818654040c2904fb997dd5083df/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yel69cak/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-09",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית. והערב: תוכנית הסיום המיוחדת בהשתתפות מתן חודורוב | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_yel69cak===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 15: ספיישל סליחות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/04259127a51f42d8ab412bd0d59c63bf/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6xwqgik7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-30",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית, והערב: תוכנית מיוחדת בהשתתפות רינת בר, פז רובינזון ועוד הפתעות | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6xwqgik7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 14: ספיישל ראש השנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d9ad16a9a63b4125955cf541c61226b4/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g23e8exs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-24",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית. והערב: תוכנית מיוחדת לסיכום השנה בהשתתפות מאיה בוסקילה, אורחת בהפתעה ועינת שרוף | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_g23e8exs===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 13: מסיבת סיום האח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77de53ca01194abb9d2d532fef64157c/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3gcudbmw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-17",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב: תוכנית מיוחדת לסיכום האח הגדול והפתעות נוספות | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3gcudbmw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 12: שני מהאח הגדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/44ae7e841340488abdc9b505c255bd2e/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gnpt0xy0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-12",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב: שני מ\"האח הגדול\" מגיעה, טל מוסרי חוגג יום הולדת 50, וגם: סמדי בומבה | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gnpt0xy0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 11: יוסי בובליל בריאיון ראשון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b853bf3a3c44587b2e749e6d2aea086/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4htp088s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-01",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב: יוסי בובליל, ארז מוגרבי וחן קראוניק מגיעים היישר מבית האח הגדול אל האולפן. וגם: שימי תבורי ועוד הפתעות | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_4htp088s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 10: מאי מהאח, מיכל הקטנה וליהיא גרינר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af276082b73645d7a82540e4db7bf47a/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uq5my7ft/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-25",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב: מאי מ\"האח הגדול\" מגיעה לסגור חשבון עם דיירי הבית. וגם: מיכל הקטנה וליהיא גרינר | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_uq5my7ft===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 9: אוהד בוזגלו ודרור מהאח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/410009a1dd9d4081a9dbfeed5320d7d4/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kb4xwuaj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-18",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב, דרורה מ\"האח הגדול\" מגיעה לסגור חשבון. וגם: השחקנית לירז חממי ואוהד בוזגלו | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_kb4xwuaj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 8: שלקה וסאבלימינל והצל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35fef0d87481469896b12e4eb467d3c6/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jz02oiez/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-11",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב: שלקה סוגרת חשבון עם הנבחרת, וגם תגובה ראשונה של סאבלימינל והצל על סערת השבוע האחרון | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_jz02oiez===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 7: הגריל של רועי מהאח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbe81be14ed540bdbaf6b387da3e8e52/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_csbzdwie/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-07",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב: רועי ותהילה מ\"האח הגדול\" סוגרים חשבון עם הפאנל, וגם סקאזי מגיע להקפיץ את האולפן | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_csbzdwie===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 6: מודחי האח הגדול באים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6b0fa515e3046b4b2c456d2624d6020/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0sq1oko7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-28",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב: הנבחרת סוגרת חשבון עם אנה ומושיקו מ\"האח הגדול\" וגם עם סטפן לגר | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_0sq1oko7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 5: פנינה רוזנבלום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b9be02fd5464cd480d8f7278a0bed98/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uuyfeiy8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-21",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל, בתוכנית סאטירית על אירועי השבוע. והערב: הנבחרת סוגרת חשבון עם אלאיה מ\"האח הגדול\" ועם פנינה רוזנבלום | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_uuyfeiy8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 4: מושיק רוט ושאול מ\"האח הגדול\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d74fea5661d4fd29bf77623ebfdb6dc/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fza1pxbv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-14",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. והערב: הנבחרת סוגרת חשבון עם מושיק רוט ושאול מ\"האח הגדול\" | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_fza1pxbv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 3: אדל בספלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/865ee3022df649508c69d78962bf73da/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h09miqvz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-07",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית סאטירית על אירועי השבוע. הערב: ביבי פוגש את טראמפ, והנבחרת במפגש הפסגה עם אדל בספלוב ולורן מ\"האח הגדול\" | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_h09miqvz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 2: מאור מהאח הגדול מגיעה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a75d28d480bf425ab9e00f20855957cc/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kik0l6yl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-30",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל בתוכנית פאנל סאטירית על אירועי השעה בארץ ובעולם. והערב: עדן פינס ומאור ברוכמן מהאח הגדול מגיעות לאולפן | \"מה קורה פה?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_kik0l6yl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מה קורה פה? עונה 1, פרק 1: אגם בוחבוט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f048e86c2794cc8be305b9faf6547fb/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_982b71ba/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-23",
+       "plot": "שלום אסייג ונבחרת הצחוק של ישראל, בתוכנית בידור סאטירית לכל המשפחה על אירועי השעה בארץ ובעולם | \"מה קורה פה ?\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_982b71ba===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

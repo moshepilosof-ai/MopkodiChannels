@@ -1,0 +1,91 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - ליגה משלהן",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "716",
+   "series_id": "716",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a7ddb4b04424223b7f3e2894348561a/version/0/width/800/height/1200/quality/90",
+   "plot": "התוכנית שמסכמת את כל מה שקורה בליגת העל לנשים - על המגרש ובעיקר מחוצה לו. היכרות עם קבוצות הליגה, עם הכוכבות ועם הישראליות שמשחקות בחו\"ל",
+   "updated": "2026-10-31 00:05",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ליגה משלהן - פרק 7 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a672a798465471a932b8844eb68683e/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ul72kljz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ul72kljz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ליגה משלהן - פרק 6 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d562347e65ea4e8b881fb82da5435a3d/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e3ru1pg7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_e3ru1pg7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ליגה משלהן - פרק 05 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc45d7a0f44845db8a1f456c9f8c6610/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_amhmecz5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_amhmecz5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ליגה משלהן – פרק 4 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/230a7287ef8e45e2a77173cb165b68da/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rzhe3x9k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_rzhe3x9k===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ליגה משלהן – פרק 3 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09aa54be42c341c09ba3faf6fc38792f/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2fnr2ci0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2fnr2ci0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ליגה משלהן - פרק 2 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7fe666abcdd48db8a8269ccd69306ac/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r2bog3h3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_r2bog3h3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ליגה משלהן - פרק 1 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5deb5a8954a44189b9e6b790a357b4ae/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ytf72ok4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-20",
+       "plot": "התוכנית שמסכמת את כל מה שקורה בליגת העל לנשים - על המגרש ובעיקר מחוצה לו. היכרות עם קבוצות הליגה, עם הכוכבות ועם הישראליות שמשחקות בחו\"ל",
+       "page": "",
+       "id": "--kaltura--1_ytf72ok4===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

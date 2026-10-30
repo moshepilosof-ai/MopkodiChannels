@@ -1,0 +1,991 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - החיים זה לא הכל",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "69",
+   "series_id": "69",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8225902ed5f2436b82fd1225e414efce/version/9/width/800/height/1200/quality/90",
+   "plot": "קומדיית מצבים ישראלית פופולארית על זוגיות, משפחה, גברים ונשים. בכיכובם של אבי קושניר, ענת וקסמן, עידן אלתרמן, יעל לבנטל ועוד",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 14: הפלישה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2b1569adcb74c24b489e5c97ffe99a3/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_siliq2lv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהוד ודפנה מארגנים מסיבה משפחתית שיוצאת משליטה",
+       "page": "",
+       "id": "--kaltura--1_siliq2lv===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 12: מלחמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4478c27b4a514333899d73fd1482968a/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e217s31p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הריב של מיקי ואורלי מצליח לשגע את דפנה וגדי",
+       "page": "",
+       "id": "--kaltura--1_e217s31p===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 13: סליחות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c619cc56c8c4661ac24202a6259695b/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rngj6dt1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיכל עוזרת לדפנה וגדי לרשום את בתם לגן פרטי",
+       "page": "",
+       "id": "--kaltura--1_rngj6dt1===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 8: ועדת חקירה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b63ef9908e5c44b489e24cd060017f52/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_af65jx3s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אורלי מארגנת למיקי מסיבת יום הולדת בסגנון \"חיים שכאלה\"",
+       "page": "",
+       "id": "--kaltura--1_af65jx3s===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 11: המנהלת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f88f4bea852470ebff202e57669f5de/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_75t7noux/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה לא מצליחה לספר לגדי עליה ועל אהוד",
+       "page": "",
+       "id": "--kaltura--1_75t7noux===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 7: איקאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1edcb3788104403a91ab0008bedcc696/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eoauvp7l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כולם מתגייסים להרכבת שולחן מאיקאה",
+       "page": "",
+       "id": "--kaltura--1_eoauvp7l===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 10: גבולות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4f98e659d6c44ad9449091771388640/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9nlzj006/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהוד עושה הכל כדי שדפנה תקבל אותו בחזרה",
+       "page": "",
+       "id": "--kaltura--1_9nlzj006===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 6: הרצון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/763f505c62d7450f824d77672724e803/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ao0taarq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיקי ואורלי בדרך לריאליטי",
+       "page": "",
+       "id": "--kaltura--1_ao0taarq===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 9: פחדים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22fb34ad88004badbc7886b5af30101c/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j9zt15dg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי ודפנה ממשיכים הלאה",
+       "page": "",
+       "id": "--kaltura--1_j9zt15dg===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 5: המחזה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9749c42dd4a040e4ad18cb4e18dad351/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pl0wmhbw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה משוכנעת שגדי כתב מחזה על החיים שלהם",
+       "page": "",
+       "id": "--kaltura--1_pl0wmhbw===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 3: ים של דמעות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d9a196b7dc841d483be2cfaa307438b/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uah31gys/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה לא מפסיקה לבכות בגלל הגירושין",
+       "page": "",
+       "id": "--kaltura--1_uah31gys===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 4: ג'יי דייט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2906d48ba963446e9c960c5d662e118b/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m7lw1mes/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה וגדי מנסים להסתגל לחיי הרווקות החדשים",
+       "page": "",
+       "id": "--kaltura--1_m7lw1mes===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 2: הברווז",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/61ee641cf4d741b69918e8ae090af3e7/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s3w0ohd7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה וגדי מפנים את הדירה שלהם ומתחלקים ברכוש",
+       "page": "",
+       "id": "--kaltura--1_s3w0ohd7===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 5, פרק 1: זכרון דברים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/01c2574ab1844d41bc7a662dcbcc1632/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7inc9aqa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי מוצא עצמו על מרפסת הבניין וכולם משוכנעים שהוא רוצה להתאבד",
+       "page": "",
+       "id": "--kaltura--1_7inc9aqa===",
+       "season": "עונה 5"
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 15: מאיר עם גבר?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c7131afdef64407ab74b76598e64a50/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zh173l2l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בתיה חושדת שמאיר בגד בה עם גבר",
+       "page": "",
+       "id": "--kaltura--1_zh173l2l===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 18: בחזרה לעבר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35946b62d6854eb1a4f796c2cc755af0/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8jx8mama/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לחזור לעבר ולראות מה באמת קרה? חבל להרוס לא?",
+       "page": "",
+       "id": "--kaltura--1_8jx8mama===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 2: מי הזוג הנשוי?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9964ac4c5d4649c8b43320869c4760c1/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lo31w3ev/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה וגדי מתחזים לזוג נשוי",
+       "page": "",
+       "id": "--kaltura--1_lo31w3ev===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 16: שפם ויחסים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/042878436a8b4985a36f021f9082af82/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ot11uev/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השפם החדש של אהוד משפיע על היחסים בינו לבין דפנה",
+       "page": "",
+       "id": "--kaltura--1_7ot11uev===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 3: גדי מסתבך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f73fad8d2a14caba832f1ce5283d126/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lsxkh2jj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי ומיכל חוזרים אולם גדי עומד בפני הסתבכות אדירה",
+       "page": "",
+       "id": "--kaltura--1_lsxkh2jj===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 17: סיפור הרכב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4682a9f59d974885818bf802b049bde0/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kmayywon/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמצא הרכב ש\"נגנב\" לפני 17 שנה",
+       "page": "",
+       "id": "--kaltura--1_kmayywon===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 1: גדי ודפנה נתפסים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80075a07697a495abdc33edc63003d50/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8nomsw0w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיכל ואהוד תופסים את גדי ודפנה על חם",
+       "page": "",
+       "id": "--kaltura--1_8nomsw0w===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 13: ארוחה חשובה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09a0a4ad702846adbcfdc10037b43c83/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6cee700e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כולם חושדים בכולם, בארוחה הכל מתבהר",
+       "page": "",
+       "id": "--kaltura--1_6cee700e===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 14: מכתב מסבך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b895f4e1b11242ac8f4a68b319bcb1e7/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5zscvgja/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה ששנוא עליך אל תעשה לחבריך, אל תשלח מכתב שרשרת",
+       "page": "",
+       "id": "--kaltura--1_5zscvgja===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 12: מלחמה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a27c22d894a4359aad70ae1cf7345b6/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8hk6o9yl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיכל ודוריס במלחמה על תפקיד חייהן",
+       "page": "",
+       "id": "--kaltura--1_8hk6o9yl===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 11: הפתעה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/907b29b39e4b4812a2ceba71b8e80103/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iuz1nhea/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי בלחץ מההוצאות הרבות ומבקש מקדמה",
+       "page": "",
+       "id": "--kaltura--1_iuz1nhea===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 8: סיפור המתנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/68f36767bc344442bbabceea16523484/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ygqxgdiq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיכל נותנת לבתיה ומאיר מתנה שקיבלה במשרדה",
+       "page": "",
+       "id": "--kaltura--1_ygqxgdiq===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 4: הפרס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5bc11083963641bd8b495036549c8306/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cdbgmy2a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם דפנה וגדי יזכו בפרס הגדול?",
+       "page": "",
+       "id": "--kaltura--1_cdbgmy2a===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 9: עכשיו מבינים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fd7ff193b75446793199154c34ba04a/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9f4far95/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מאיר ובתיה מבינים שהם אינם נשואים",
+       "page": "",
+       "id": "--kaltura--1_9f4far95===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 7: החלטתו של מיקי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/923cef5d920f43b3819449dafa72545f/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fq54welw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיקי מודיע לאורלי שהוא נשאר בהודו",
+       "page": "",
+       "id": "--kaltura--1_fq54welw===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 6: אורלי בהריון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/85b5a2f9a3c0464bbdca255b7766bb66/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_niery1hs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשאורלי מגלה שהיא בהריון ורוצה להתגרש?",
+       "page": "",
+       "id": "--kaltura--1_niery1hs===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 5: מחדל במערך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d0da8df0ecf042cfa22bc533dc36ccf1/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cxyakr63/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מאיר ובתיה עולים על מחדל במערך האספקה הצבאי",
+       "page": "",
+       "id": "--kaltura--1_cxyakr63===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 6, פרק 10: משפחה בהפתעה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56962f74f7c7437c85025b199231df57/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_en8mueng/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "דוריס מגלה שיש לה אח שנמסר לאימוץ",
+       "page": "",
+       "id": "--kaltura--1_en8mueng===",
+       "season": "עונה 6"
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 16: החולמים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4385c40c0f594ca290c1990c10050eea/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zdohvd2l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כרטיס הגרלה אחד גורם לכולם לפנטז",
+       "page": "",
+       "id": "--kaltura--1_zdohvd2l===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 15: פרק 100",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09e3f99e04f042a4aa81f622b8c13758/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3ieovt3w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיכל מנחמת את דפנה",
+       "page": "",
+       "id": "--kaltura--1_3ieovt3w===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 1: קרחת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1260c8161ad4bc4bb12f696ff750d00/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ejypjj80/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי ומיקי עושים קרחת",
+       "page": "",
+       "id": "--kaltura--1_ejypjj80===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 21: נישואים פתוחים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfd5812e844148bd9ae42cd30f7ee554/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0l3nta95/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הדייט \"המושלם\" של דפנה",
+       "page": "",
+       "id": "--kaltura--1_0l3nta95===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 22: המושלמת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/913602f6db494218a0f006da9d709ecf/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7vb97s6y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקרב על ליבו של גדי",
+       "page": "",
+       "id": "--kaltura--1_7vb97s6y===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 20: התנגשות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d09f31d909594efea2421518ed66d1ae/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j4jbbudx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה וגדי מנסים לרמות את הביטוח",
+       "page": "",
+       "id": "--kaltura--1_j4jbbudx===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 19: אינסומניה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8391c2a88a9748d09b70b02023c652ec/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_is1uqrdh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החברה החדשה של גדי",
+       "page": "",
+       "id": "--kaltura--1_is1uqrdh===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 18: ממנטו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8e3af090ce94715ba2bd3db137cd2fd/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vo17row4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה מאבדת את הזיכרון",
+       "page": "",
+       "id": "--kaltura--1_vo17row4===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 14: מאיר חרש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3e784ca1c5e4c208175b0373ca9370e/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1lsfgo8n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אי הבנה בין גדי לדפנה גורמת לה לחשוב שהוא רוצה שהם יחזרו",
+       "page": "",
+       "id": "--kaltura--1_1lsfgo8n===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 17: שריטות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd66214bb1f741908e00d96e6de3aa18/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3tfs8ii5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השריטות של גדי ודפנה נחשפות",
+       "page": "",
+       "id": "--kaltura--1_3tfs8ii5===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 13: אוליגרכים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf7a66986ae9407298cf14138a71450f/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mow5z8eg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי עושה הכל כדי להחזיר אליו את מיכל",
+       "page": "",
+       "id": "--kaltura--1_mow5z8eg===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 12: הכותל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3b857ade3ad4cb29fe0004e52d91933/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wqst35w9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אורלי חושבת שהיא מקוללת וגדי ודפנה שמים פתק בכותל",
+       "page": "",
+       "id": "--kaltura--1_wqst35w9===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 9: דפנה ומיכלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fe815f151994a57993a4dcace8a8ff1/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_124qmemw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיכל מחפשת דירה וגדי מנסה להחזיר אותה אליו",
+       "page": "",
+       "id": "--kaltura--1_124qmemw===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 8: דפנה מארגנת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/734f45c3aae34ea7802df3cc776adf41/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9tz2afb8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי מציע למיכל נישואין",
+       "page": "",
+       "id": "--kaltura--1_9tz2afb8===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 11: דפנה מתערבת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cde7fb685e7142a9a6d59b3e496cb38b/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9mst5hfp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי בדיכאון ודפנה מתערבת עם חברותיה",
+       "page": "",
+       "id": "--kaltura--1_9mst5hfp===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 10: למה עזבת?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/89f9fd5dfe7047d599b79429187e9d20/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kcy8zjb7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה מלמדת את גדי איך להתחיל עם בחורות",
+       "page": "",
+       "id": "--kaltura--1_kcy8zjb7===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 6: פרוטקציה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/785efc955a7240b7becae53e1c9b522f/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nv95b1cu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי ומיכל מנסים להשיג לנועה פרוטקציה בצבא",
+       "page": "",
+       "id": "--kaltura--1_nv95b1cu===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 5: הטכנאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60cec7acc34243aba932963a4fbc813c/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_okryrozf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המאהב החדש של דפנה",
+       "page": "",
+       "id": "--kaltura--1_okryrozf===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 7: הפסיכולוג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbc329dd51064044923fe71bfe21f957/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vz23e0kd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך תצליחו להסתדר גם עם הגרושה וגם עם החברה החדשה?",
+       "page": "",
+       "id": "--kaltura--1_vz23e0kd===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 4: השוטר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a118bad6dd0449e986645d64114cf57/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mgvsp2zp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התחביב החדש של גדי",
+       "page": "",
+       "id": "--kaltura--1_mgvsp2zp===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 2: אהבה ומוות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c1614906f5514954a3fdfd1f41ce4cf6/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ngyjaczd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הבליינד דייט של דפנה",
+       "page": "",
+       "id": "--kaltura--1_ngyjaczd===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 7, פרק 3: מיקי ואורלי עוברים דירה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6953055a099c4bf5b7546799fb1def18/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bk4pusg4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי מנסה לגרום לאורלי ומיקי לעזוב את הדירה שלו",
+       "page": "",
+       "id": "--kaltura--1_bk4pusg4===",
+       "season": "עונה 7"
+      }
+     ]
+    },
+    {
+     "name": "עונה 8",
+     "channels": [
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 13: שפעת החזירים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/97a9fb1aa9b34ce29200a6fc50239a2a/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_25z6da8k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רופאה חובבת נשים חושבת שגדי הומו ומציעה לו לעשות איתה ילד",
+       "page": "",
+       "id": "--kaltura--1_25z6da8k===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 18: הנקמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/227a3b426b474ef4a430f758fec72be8/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kbaa8exw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי מחפש דרך לנקום במבקר טלוויזיה שקוטל אותו באכזריות",
+       "page": "",
+       "id": "--kaltura--1_kbaa8exw===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 19: אושר ועושר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a9b985e4b7a438d8b36f101637e8062/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qxd12ljb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה עולה רמה כשמיליונר נדלק עליה ובמהרה הוא מציע לה לעבור לגור איתו",
+       "page": "",
+       "id": "--kaltura--1_qxd12ljb===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 17: אלוהים גדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e9027c660a70423fb2bd771f4ea59b12/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qm1ueqs5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה עובדת כעוזרת אישית של קנובלר והם נקלעים לדיון סוער אודות קיומו של אלוהים",
+       "page": "",
+       "id": "--kaltura--1_qm1ueqs5===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 16: אני הסבא של עצמי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f839e1ba61624e1ca831f007f92866ba/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bshmf5sz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בחורה צעירה נדלקת על גדי ואחרי זה על מאיר, למיקי יש ספקות לגבי זהות האב של בנו",
+       "page": "",
+       "id": "--kaltura--1_bshmf5sz===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 15: נועה מתגייסת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f03b13cd25ea46d2bb5c54152107805f/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ao39bojv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיכל עושה הכל כדי למנוע מנועה לשרת רחוק מהבית והיא מגייסת את כולם לעזרה",
+       "page": "",
+       "id": "--kaltura--1_ao39bojv===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 5: העתיד הנראה לעין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/290f6fa6d53e4e768137ce332500a68a/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_agy3t213/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קנובלר מציע לגדי הצעה כלכלית מוזרה והעניינים מסתבכים כשהם מערבים מגדת עתידות",
+       "page": "",
+       "id": "--kaltura--1_agy3t213===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 11: סוף שבוע רגוע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/61886e67ef2244ebb545834d7a52a4ac/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zy3tbuig/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה וגדי נתקלים בפסיכולוג שמייעץ להם לנסוע, כל אחד לחוד, לסוף שבוע כדי להתאוורר",
+       "page": "",
+       "id": "--kaltura--1_zy3tbuig===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 6: אהבה ומתמטיקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5c90ad760d634657b6f088941f677c67/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eeainf0t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נועה יוצאת עם בחור המבוגר ממנה ב-5 שנים. אחרי שהם נפרדים דפנה פוצחת ברומן איתו",
+       "page": "",
+       "id": "--kaltura--1_eeainf0t===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 4: נישואים פיקטיביים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3cdd0c3984414aeab1d03136c8546bb4/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jm7fhlsd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי וקנובלר נכנסים לעסקי השידוכים ומנסים לגייס את דפנה לעבודה",
+       "page": "",
+       "id": "--kaltura--1_jm7fhlsd===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 12: סודות ושקרים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9303d17e25984384afb1c119ffdade31/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cftzaee3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אורלי קוראת ספר שמשנה את חייה, בעקבות כך היא ומיקי מחליטים להיפרד מגדי ודפנה",
+       "page": "",
+       "id": "--kaltura--1_cftzaee3===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 10: גרושים ושותפים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b028fd050fce49b09b59a3225ee271da/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6lb06qih/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כדי לפתור בעיות כלכליות, גדי ודפנה מחליטים לעבור לגור יחד בדירה שבבעלותם כשותפים",
+       "page": "",
+       "id": "--kaltura--1_6lb06qih===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 9: מזונות ועוגות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eeb5ace64e4d4bc089e273b14c645040/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p5eqjo62/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי ודפנה, על סף ריב אדיר בנושא המזונות, מגלים מי באמת מושך בחוטים שלהם",
+       "page": "",
+       "id": "--kaltura--1_p5eqjo62===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 3: הנאקה של אברום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff8f924c54ca4e9e81d56621d2fee861/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sufliqd1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מאיר מנסה לשווק את חלב הנאקה של חברו, אברום. אורלי מתקשה לייצר חלב אם בגלל היותו של מיקי מובטל. לגדי חברה חדשה, רופאה אלטרנטיבית בשם מילי שהיא גם בת דודתה של אורלי. הוא נאלץ לשקר לה בניגוד לרצונו ודפנה נזרקת על ידי חבר חדש. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_sufliqd1===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 2: הברית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5576f28b495840d58e26cb512c8553a0/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tpyjezui/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הפרק סובב סביב אירוע הברית שמיועד לתינוק של מיקי ואורלי. מי יזכה להיות הסנדק?",
+       "page": "",
+       "id": "--kaltura--1_tpyjezui===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 8: שיחת אב ובנו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b4440c5ff4447dbab0d6d92c81c0f1c/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yy84v9ex/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מאיר חושש ששיחה על מין שהוא לא ניהל עם גדי לפני 30 שנה אחראית לחלק מהצרות של בנו",
+       "page": "",
+       "id": "--kaltura--1_yy84v9ex===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 1: אחרי החתונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3314ab461c2b4eb9bc478c604f399df0/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1dwlfxl2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאחר שכלתו העתידית נלקחה לאשפוז כפוי מתחת לחופה, גדי מגלה שהוא נכנס לחובות",
+       "page": "",
+       "id": "--kaltura--1_1dwlfxl2===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 20: ביחד או לחוד?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/36f007e1dd0148eaa2490d93858eb4a6/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fpsmteyz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "כולם נתקעים בפלונטר אנושי שמצריך שיתוף פעולה נדיר",
+       "page": "",
+       "id": "--kaltura--1_fpsmteyz===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 7: החופרת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d59e2b06384f4ba6ade140dd5709ec1a/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_orci1j6x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "דפנה מוצאת עבודה חדשה בתחום מפוקפק וגדי מתקשה להיפרד מחברתו החדשה והמשעממת",
+       "page": "",
+       "id": "--kaltura--1_orci1j6x===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 8, פרק 14: חליפה וברט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/523c68dffb584ea9af0219da556e2606/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ck3xd5rb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נועה מותחת את גדי ואומרת לו שקנובלר ודפנה מנהלים רומן. הוא מאמין לה ומחליט לנקום",
+       "page": "",
+       "id": "--kaltura--1_ck3xd5rb===",
+       "season": "עונה 8"
+      }
+     ]
+    },
+    {
+     "name": "עונה 9",
+     "channels": [
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 11: מקסימום יצליח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8225902ed5f2436b82fd1225e414efce/version/9/width/800/height/1200/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eol1m1m3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-11",
+       "plot": "האם אלון גל יוכל להפיץ קצת שפיות בקשר ההזוי של גדי ודפנה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_eol1m1m3===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 21: מעשה באיש מצחיק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d7ed170941745acb4aaa2d63b7dc15d/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2a3ohe82/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי הולך לטיפול פסיכולוגי ונזכר ברגעים הגדולים משמונת העונות של החיים זה לא הכל",
+       "page": "",
+       "id": "--kaltura--1_2a3ohe82===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 20: שלכם באהבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4205325acd1241a29acb2019591838c1/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qld8bwjw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צפו בפרק האחרון של הסדרה הכי אהובה בטלוויזיה. אנחנו נתגעגע...",
+       "page": "",
+       "id": "--kaltura--1_qld8bwjw===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 19: חיים בריא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0bb0adaedaf54539a1c9bae991682bb9/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qubpbal7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "למה קנובלר וגדי מאושפזים בבית החולים? צפו בפרק המלא ותהיו בריאים!",
+       "page": "",
+       "id": "--kaltura--1_qubpbal7===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 18: זה שיר פרידה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2414d9d6b50a49ea94a6d9944ccb9a84/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j8am1vbo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי מלווה את דפנה ומיכלי לשדה התעופה ונפרד מהן לשלום. הכינו את הממחטות!",
+       "page": "",
+       "id": "--kaltura--1_j8am1vbo===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 15: איזור הדמדומים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe174a546c71438199ce944573266878/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bxfqmxwt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם זה סופו של גדי? זהירות פרק ממכר במיוחד",
+       "page": "",
+       "id": "--kaltura--1_bxfqmxwt===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 12: הסיפור שאינו נגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3a869e431f84f0f8546f43d0f457fff/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_enrzcl51/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה הקשר בין הנשמה מפה לפה, משטרה, גדי ודפנה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_enrzcl51===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 17: לאבא שלי יש סולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a74aa005cb074892b17081ca69832c58/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3vf1i8vo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשגדי תקוע בבוידם וגדוש תקוע בשירותים? צפו בפרק המלא הקורע והתוקע",
+       "page": "",
+       "id": "--kaltura--1_3vf1i8vo===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 16: החור שבקצה המנהרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/97e3eedbbb7b4e92984489dfe51063d2/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j39347zu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה הקשר בין אומנות, מוסד, לוס אנג'לס ושיננית? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_j39347zu===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 13: החיים זה הצגה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b6ac8a2e75b41cfa16150143e7ed948/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_it812xzs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם לדפנה וגדי יש כישרון משחק שמשתוקק לצאת? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_it812xzs===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 11: מקסימום יצליח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4300736a98b040b1b4ce5abe1918950d/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eol1m1m3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם אלון גל יוכל להפיץ קצת שפיות בקשר ההזוי של גדי ודפנה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_eol1m1m3===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 10: שידוך מבית טוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95f071038dd047e0bfd3d7eec3ff62fa/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2s2i142p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גדי מנסה לשדך בין בן דודו הציוני לנועה. האם יהיה לו מקום בגן עדן בתור שדכן?",
+       "page": "",
+       "id": "--kaltura--1_2s2i142p===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 14: שלום, אני נוסעת?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5630bbc51634ffdba6b63894551828d/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8xid7w0y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה החליטה דפנה? לטוס ל L.A או להישאר בארץ? צפו בפרק המלא וגלו",
+       "page": "",
+       "id": "--kaltura--1_8xid7w0y===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 7: ''אתה מופתע?!''",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/563faf3eb68b459d847424fa1ed14921/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4l7akmlb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מי היה מאמין שחגיגת יום נישואין יכולה להיות כל כך מפתיעה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_4l7akmlb===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 3: ממזרים חסרי כבוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c67e54523b64614aa78172189298119/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x409ajn8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיקי וגדי לוקחים את החוק לידיים שלהם. האם זאת התחלה של עבריינות נפלאה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_x409ajn8===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 9: דוקטור דייט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b06b648d480425e82c35c62f254dec7/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sdhd6spa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שאלה לכל הרווקות: הייתן יוצאות עם רופא נשים? את דפנה זה טיפה מערער",
+       "page": "",
+       "id": "--kaltura--1_sdhd6spa===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 6: כוכבת נוצצת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9916178fd04b4b66b4cc1fbef31e95be/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0n4n8km9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה הקשר בין אורלי, סטנדאפ, טיפול שיניים וגדי? כל התשובות בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_0n4n8km9===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 5: יום הולדת וחצי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2419670396cc45b9be8e91c85b25585f/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1a663rkd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "למה מיכלי הופתעה וחצי במסיבה שגדי ודפנה ארגנו לה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_1a663rkd===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 4: יוניסקס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/03757564dd78461c889b6d3c808eb503/version/26/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_prhsnm14/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "למה גדי ממלא טופס לשינוי מין? האם בתיה ומאיר צריכים לדאוג? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_prhsnm14===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 1: צחוק הגורל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/86b0fe972fe744e688408da9453b541f/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xu5d5hyc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דפנה וגדי חוזרים או נפרדים? סוף כל סוף יש תשובה! צפו בפרק הבכורה",
+       "page": "",
+       "id": "--kaltura--1_xu5d5hyc===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "החיים זה לא הכל, עונה 9, פרק 2: ראש כחול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d84f77ccc4b4d97875883ba25b87dec/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2a0c984l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה הקשר בין גדי, דפנה, זקנה בבית אבות וביצה כחולה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_2a0c984l===",
+       "season": "עונה 9"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

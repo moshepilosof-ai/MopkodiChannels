@@ -1,0 +1,71 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - חיים של אבא",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "120",
+   "series_id": "120",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/acec40f482fd4d1fbd66a24875a67021/version/13/width/800/height/1200/quality/90",
+   "plot": "חיים של אבא - אבות מפורסמים מתמודדים עם סוגיות מרכזיות בחיים. מההורות בפעם הראשונה, דרך הנוכחות בחיי הילדים ועד הדילמות בנוגע לחינוך שלהם.",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חיים של אבא, עונה 1, פרק 4: אורן מנסה לטהר את שמו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b1f8fd8603a4ce2912be1291a1caaf9/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yvx3titn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אורן חזן מנסה להילחם משפטית בטענות שעלו נגדו לפני שנכנס לכנסת, קובי פרץ חוזר לשכונת ילדותו, עומר מילר מנסה לשלב בין חיי לילה לסטטוס החדש וישראל אור חושף חלק מפתיע מעברו | חיים של אבא, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_yvx3titn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים של אבא, עונה 1, פרק 3: הסיפור של גיא יחזקאל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f5406a192df84359991aacf87a4519e0/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kotkiik6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גיא יחזקאל מספר על הקשיים מאז שאיבד את אשתו בפיגוע ועל הגידול של קאי לבדו, בן בן ברוך מנסה להבין למה הילדים שלו לא מקשיבים לו - וישראל אור טס עם מישל לאיטליה | חיים של אבא, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_kotkiik6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים של אבא, עונה 1, פרק 2: הקשיים של בן בן ברוך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e440c2a95414d48910ed9c1228b6c42/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_55d8gte1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בן בן ברוך מתקשה לעבוד מהבית ובמקביל לעמוד בציפייות של אשתו, עומר מילר מספר על המחלה שהרסה לו את הילדות, קובי פרץ לוקח את בנו הקטן לטקס דתי בצפון למורת רוחה של אשתו ואורן חזן בשיחה מתוחה עם אבא שלו | חיים של אבא, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_55d8gte1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים של אבא, עונה 1, פרק 1: תוכנית הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0510c332f4dd4a04af0a663766bee39f/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_313ji1z2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "סדרה דוקומנטרית בת 5 פרקים העוקבת אחרי האבהות של שישה גברים מפורסמים: הזמר קובי פרץ, השף עומר מילר, ח\"כ לשעבר אורן חזן, היהלומן ישראל אור, הסטנדאפיסט בן בן ברוך וגיא יחזקאל שאיבד את אשתו בפיגוע. כל אחד מהם חווה דילמות שונות, קשיים שונים ואתגרים אחרים - אבל ביחד הם נותנים לנו הצצה לאבא הישראלי",
+       "page": "",
+       "id": "--kaltura--1_313ji1z2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים של אבא, עונה 1, פרק 5: הקורונה משנה את הכול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d49115f7a164a1ab8ee532f6726fcfd/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lwtr9s8b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "בפרק סיום העונה, האבות נאלצים להתמודד עם השלכות המגפה ששינתה את העולם: עומר מילר נתקף חרדה בעקבות סגירת המסעדות שלו, קובי פרץ ובן בן ברוך עצבניים מביטול ההופעות ואורן חזן מתקשה לשעשע את הילדים שלו במהלך ימי הסגר | חיים של אבא, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lwtr9s8b===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

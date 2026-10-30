@@ -1,0 +1,101 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - השנים הכי יפות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "517",
+   "series_id": "517",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7a926130563a4fbd86f9dcf28c4ce439/version/0/width/800/height/1200/quality/90",
+   "plot": "קומדיית מצבים ישראלית. גברת וסרמן (קרן מור), רכזת השכבה בתיכון הבדיוני 'ניצני אלון' חשודה בגנבה. במהלך החקירה מגוללת גברת וסרמן לחוקר שלה (שלומי קוריאט) את המתרחש בבית הספר, החל מהיום הראשון ללימודים ועד לטיול השנתי ולרגע הגנבה",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פרק 06 | הכל אודות פיפי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b85099a35144d6ca92e9747c77025e8/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kyw3l1d6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-11",
+       "plot": "סודו של מוטי פיפי נחשף, האם הוא יסלח לגברת וסרמן?",
+       "page": "",
+       "id": "--kaltura--1_kyw3l1d6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 05 | אפוקליפסה עכשיו!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2154855fe2dd439c923482725cc73dbc/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gka1otgp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-11",
+       "plot": "המבחנים הארציים מתחילים ובית הספר מאבד שליטה",
+       "page": "",
+       "id": "--kaltura--1_gka1otgp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 07 | עולה, סמים וגאולה כהן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f06fb167ca5b4a29b26533ad267e101b/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jgj4bc6x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-30",
+       "plot": "המורים של בית הספר יוצאים לשוטט במדבר ולחפש אחר עזרה",
+       "page": "",
+       "id": "--kaltura--1_jgj4bc6x===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 08 | המנהל שהפך לז''ל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/43e2dc2771504479b75cbbfc6020bd92/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qgsmteyz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-30",
+       "plot": "רפי גינת חושף את קומבינת הניהול הגדולה ביותר בתולדות מערכת החינוך",
+       "page": "",
+       "id": "--kaltura--1_qgsmteyz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 04 | אלימות כן בבית ספרנו!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/270e78e97b3746e4a0603f7e3ebb3e08/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kn3ts1bn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-30",
+       "plot": "בית הספר סופג גל של אלימות ופשע. מי גונב מהתלמידים?",
+       "page": "",
+       "id": "--kaltura--1_kn3ts1bn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 02 | המשלחת לפולין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eeb8eeeb101b4958b5651aef4511e8b3/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tngjvauf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-30",
+       "plot": "מדוע גב' ווסרמן לא מוכנה לוותר על הטיסה עם המשלחת לפולין? הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_tngjvauf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 03 | בי''ס ניצני אלון יוצא משליטה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a5914bdc31b4f82add1f05e5edbe38d/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iyv18kue/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-30",
+       "plot": "האם עמיקם המורה לתנ''ך יעשה ברית ומה מר ווינברג יגיד על זה. הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_iyv18kue===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 01 | חינוך פושע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c33cc4986824bcab8efbba76476eaf3/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jefvjd8s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-30",
+       "plot": "כיצד תיכון ניצני אלון הפך לזירת פשע? צפו בפרק הבכורה של 'השנים הכי יפות'",
+       "page": "",
+       "id": "--kaltura--1_jefvjd8s===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

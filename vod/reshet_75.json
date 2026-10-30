@@ -1,0 +1,251 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - משחקי השף קונדיטור",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "75",
+   "series_id": "75",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b89ea6051e240d2b43e9b2967b055d9/version/9/width/800/height/1200/quality/90",
+   "plot": "ריאליטי הבישול המצליח \"משחקי השף\" פוגש את עולם הקונדיטוריה. לשפים המוכרים (יוסי שטרית, אסף גרניט ומושיק רוט) מצטרף אגדת האפייה, השף ארז קומרובסקי ויחד יוצאים ארבעת השפים לחפש אחר השף קונדיטור של ישראל. מנחה: מירי בוהדנה.",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "נבחרות \"משחקי השף קונדיטור\" מפצחות את סוד הבצק הטעים בעולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f920fa6f57b64b17b4cb503c98df1c0f/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w3w3mskj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קרואסון חמאה מפנק, עוגת שבלולים עשירה, בצק בריוש נימוח או קראנץ גבינת ריקוטה מפתה? ארבעת השפים של \"משחקי השף קונדיטור\" לוקחים את הנבחרות שלהם אל מיטב המומחים כדי לגלות את הסודות של הבצק הכי הכי - בצק השמרים",
+       "page": "",
+       "id": "--kaltura--1_w3w3mskj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 3: אמאל'ה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a0c47b231f247e1827026b4ec044d9a/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w4wjpgza/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האודישנים ממשיכים עם אימו של השף יוסי שטרית, שמגיעה להפתיע את בנה עם אודישן משלה. האם הוא יעביר אותה לשלב הבא?",
+       "page": "",
+       "id": "--kaltura--1_w4wjpgza===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 20: אירוע הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63495af31069494e8503f6e775ecc551/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_god2zjpd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אירוע הגמר של משחקי השף קונדיטור נפתח עם משימה שלא נראתה בישראל! עמוס, עומר, גל או עדן - מי יהיה השף קונדיטור הראשון של ישראל?",
+       "page": "",
+       "id": "--kaltura--1_god2zjpd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 1: האודישן שטלטל את השפים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2047ce21cd9042b4b07a0d76f2c5edb6/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g7ao4d75/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השפים מושיק רוט, יוסי שטרית, אסף גרניט והשף החדש ארז קומרובסקי יוצאים למצוא את השף קונדיטור הבא של ישראל! מי יזכה לסכינים מהשפים ויעפיל לנבחרות?",
+       "page": "",
+       "id": "--kaltura--1_g7ao4d75===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 12: חגיגה יוונית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1df4ceb931f4bc8898f64e8c770e06a/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tpffl6bx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "טעמי הבלקן משתלטים על האולפן! הנבחרת של השף אסף גרניט חוגגת עד שמשהו מוציא את השף מהכלים והחגיגה הופכת לטרגדיה יוונית",
+       "page": "",
+       "id": "--kaltura--1_tpffl6bx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 5: סוגרים נבחרות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a9f983608c9047be960c485e395843fc/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y4vv25su/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ששת המתמודדים שהשפים לא קיבלו הכרעה לגביהם מתייצבים לאודישנים גורליים שיקבעו אם מקומם בתוך הנבחרות או מחוץ לעונה. מי יהיו המתמודדים שיתפסו את שני המקומות האחרונים ויעברו לשלב קרבות המטבח?",
+       "page": "",
+       "id": "--kaltura--1_y4vv25su===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 18: חצי הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a3378f81bf744dc82ba97d3caf6f959/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_21v2t9mp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חצי הגמר הדרמטי של משחקי השף קונדיטור! שמונה מתמודדים מתחרים אבל חצי מהם יודחו עד סוף הפרק. מי תהיה רביעיית הגמר? תתכוננו לפרק הסוער של העונה",
+       "page": "",
+       "id": "--kaltura--1_21v2t9mp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 15: מלכת המאפים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f5ba6a7ff884886a91775150b67e69e/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ih89qy7n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשפותחים עליה עיניים במשימת מאפי הבוקר, האם הילה, מלכת המאפים, תצליח לעמוד בציפיות הגבוהות של כולם? פרק שמתחיל עם מאפי בוקר מתוקים ומסתיים בהדחה מרירה",
+       "page": "",
+       "id": "--kaltura--1_ih89qy7n===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 17: ההדחה המפתיעה של העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c24fcaee2d4c4127918acaa1b563067b/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4ya36qkn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לפני חצי הגמר, המטבח הופך לסיר לחץ! מי המתמודדים שיעפילו לשלבים המכריעים ומי ימצא את עצמו מחוץ לתחרות?",
+       "page": "",
+       "id": "--kaltura--1_4ya36qkn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1: רגע לפני חצי הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7938b91b615d4f8da86f3fdef5268744/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_02mvelyh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בואו לגלות את הדרך שעברו 8 המתמודדים שעלו לחצי הגמר כל הדרך מהאודישנים ועד למשימות רבע הגמר",
+       "page": "",
+       "id": "--kaltura--1_02mvelyh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 16: מתמודד אחד מול כולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a90b51a106e3424b884fb42a0fbd8f3c/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kq97gg3p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניר יוצא למשימה הקבוצתית לבדו ועושה הכול כדי להביא את הניצחון הקבוצתי האחרון לשף יוסי שטרית. האם הוא יצליח לגבור על כולם ולנצח נגד כל הסיכויים?",
+       "page": "",
+       "id": "--kaltura--1_kq97gg3p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 19: בדרך אל הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/38c8407c3347404eb9e958506ff493db/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ak9qxn0z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עמוס חיון, עדן אמר, עומר שפיר וגל בוכניק נפגשים עם השפים וחושפים את כל האמת על הדרך שהביאה אותם עד לגמר הגדול",
+       "page": "",
+       "id": "--kaltura--1_ak9qxn0z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 14: המתמודד שחצה את הקווים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1991a104c3c14be197a28de45c4a55e0/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ahii3aa9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הנבחרת של מושיק מתרסקת במשימה הקבוצתית וגל מהנבחרת של אסף מגיע לסייע להם. האם העזרה שלו תפיל את הניצחון לנבחרת האדומה?",
+       "page": "",
+       "id": "--kaltura--1_ahii3aa9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 13: המלכה הלבנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbed6b62ff114971b69a68fffc0837c2/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e3j0gr1e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "למתמודד עמוס מהנבחרת של השף אסף גרניט תמיד יש מה להגיד, אבל דווקא במשימת ההדחה הזו הוא לחוץ וחסר שקט. האם למתמודד שהרגיש עד כה הכי בטוח בעצמו יש סיבה לחשוש למקומו?",
+       "page": "",
+       "id": "--kaltura--1_e3j0gr1e===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 4: האודישנים נסגרים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f08368e249aa4870bb065a3439d3563e/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ux74ujui/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האודישנים של \"משחקי השף קונדיטור\" מגיעים לסיומם עם תרמיל קקאו ענק שמשגע את השפים, דונאט מיוחד עם מרכיב סודי ושף קונדיטורית שגורמת לשפים לריב עליה. מי יתפוס את המקומות האחרונים בנבחרות?",
+       "page": "",
+       "id": "--kaltura--1_ux74ujui===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 6: קרבות המטבח מתחילים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/48454dd28c9842fb96ca9f8f6e23c91e/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5p38k965/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפעם הראשונה, ארבעה שפים נלחמים ראש בראש, עד שייצא עשן והמתמודדים מחליטים למרוד. מי יהיה המתמודד הראשון שיסיים את דרכו?",
+       "page": "",
+       "id": "--kaltura--1_5p38k965===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 11: הסוף של סופיה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e5f6cfb8eb7241b5bbb119520d6ca2d5/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ewckk3id/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשהמשימה היא אישית וכל אחד בסכנה, המתמודדים מחפשים את מי לשרוף וסופיה חוטפת אש מכולם. האם זה הסוף שלה בתחרות?",
+       "page": "",
+       "id": "--kaltura--1_ewckk3id===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 7: יש שריף חדש בעיר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a253d4f8c7d54130aa6b1c47864a6c0a/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sc4jk6n9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאחר שניצח בקרב הראשון, השף ארז קומרובסקי הפך לשריף קשוח שמחזיק את הנבחרת שלו קצר. האם הוא ישלוף שוב את המנה המנצחת ויפיל את השפים פעם נוספת?",
+       "page": "",
+       "id": "--kaltura--1_sc4jk6n9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 8: מנת מישלן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fb73ce4c3d554c848de160dc837b88c3/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iexk69fp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשהמשימה היא מנת מישלן, טבעי לחלוטין שהשף מושיק רוט ירגיש בעננים, אבל הלחץ עושה את שלו. האם השף עם כוכבי המישלן יתרסק?",
+       "page": "",
+       "id": "--kaltura--1_iexk69fp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור - רגע לפני שמתחילים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/414f66881fdc4c3fbcd0247ff1be8ef2/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nyhvrwa4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לפני שעונת הקונדיטוריה של \"משחקי השף\" מתחילה, בואו להציץ לחייהם של שלושת השפים האהובים, להכיר מקרוב את השף והאופה ארז קומרובסקי ולבקר מאחורי הקלעים",
+       "page": "",
+       "id": "--kaltura--1_nyhvrwa4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 9: עומר VS יוסי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d1063aa23934f3bbe32accff3100695/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kuq2l016/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "עומר, בת טיפוחיו של השף יוסי שטרית, למדה ממנו הכול בזמן שעבדה במטבחים שלו, אבל כשהיא מביאה את הניסיון שרכשה אצלו במטבח לתוך המשימה, אין מקום לסנטימנטים והכל עלול להתפוצץ",
+       "page": "",
+       "id": "--kaltura--1_kuq2l016===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 10: מלחמת האגו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/71d0604157fc49f78208e69487affcdf/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sq13tz0h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "כשעפאף ועמוס מהנבחרת של השף אסף גרניט נכנסים למלחמת אגו, המצב מגיע לנקודת רתיחה. האם האימפריה של אסף בדרך לקריסה?",
+       "page": "",
+       "id": "--kaltura--1_sq13tz0h===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף קונדיטור, עונה 1, פרק 2: האחות של נינט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6ea578f0a3a44248e27af90d9aea434/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7vw21rpi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "סופיה טייב, אחותה הקטנה של נינט, מגיעה לבחון את יכולותיה כקונדיטורית חובבת באודישן. ללא הנחת סלב, האם היא תצליח להרשים את השפים ולעבור לנבחרת?",
+       "page": "",
+       "id": "--kaltura--1_7vw21rpi===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

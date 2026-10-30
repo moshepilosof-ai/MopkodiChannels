@@ -1,0 +1,41 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - סערה בממלכה",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fkingdom-storm",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fkingdom-storm",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1177243",
+   "plot": "",
+   "updated": "2026-10-31 00:09",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "\"לא ידעתי שזה יגיע לממדים כאלה\": צפו בבכר מדבר על הנאום הוויראלי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1177243",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/3629362/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/israelis-abroad/video/1211117/",
+       "season": ""
+      },
+      {
+       "name": "כשראובן עטר סטר לאייל ברקוביץ': \"סערה בממלכה\" עם גיא פלג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1068260",
+       "url": "https://mp4.wcdn.co.il/3297001/3297001-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/kingdom-storm/video/769038/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - עניין של זמן",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "219",
+   "series_id": "219",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c5c87e0cf2b842b1a6ea015ced82b92e/version/10/width/800/height/1200/quality/90",
+   "plot": "ספין אוף של סדרת הטלוויזיה \"עניין של זמן\" אשר שודרה בחינוכית. קבוצת יאפים תל אביבית מדור ה-X בתחילת שנות ה-40 לחייהם",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עניין של זמן, עונה 1, פרק 12: החלטה גורלית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aed8a6a4db0741a29e5aa8e7fdc6c8b1/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ufdcddb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם גלי תישאר עם עידו?",
+       "page": "",
+       "id": "--kaltura--1_7ufdcddb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 11: האמת המרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a4d4ec0afa0a47d7b3a845e618d1f2a0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w45zbahd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם וייצמן יספר לעידו את האמת?",
+       "page": "",
+       "id": "--kaltura--1_w45zbahd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 9: סיפור לפני השינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a60f4767e2b44aa86bc2604326a1e07/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mm1ekqmm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "וייצמן מלווה את אנה לבית החולים",
+       "page": "",
+       "id": "--kaltura--1_mm1ekqmm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 6: צרות בגן עדן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b5317ed138e4202b1738929d2de00cc/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j9099c2u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מאיה מקבלת מעטפה ובה תוכן שמערער אותה",
+       "page": "",
+       "id": "--kaltura--1_j9099c2u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 8: חלומות מתגשמים?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bbf495a0539c47f2b5bcd1cc9e191b27/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_upmu8d0d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המשאלה של דנה עומדת להתגשם",
+       "page": "",
+       "id": "--kaltura--1_upmu8d0d===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 4: משפחה שכזאת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f8a28fcc5294799977c77c3ec28f707/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mttxc7s9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נער צעיר מגיע לביתם של איתי ויפתח.",
+       "page": "",
+       "id": "--kaltura--1_mttxc7s9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 10: בית הלבבות השבורים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/81c09b8f2b0649ca922b59f146b033b0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_og7gzuza/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דנה שבורה בעקבות תאונת המטוס של אדי",
+       "page": "",
+       "id": "--kaltura--1_og7gzuza===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 5: בלי סודות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d153fac2603643cb86d4ef1991e718c2/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_goht5pyi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אנה לא מסוגלת יותר לשמור בבטן",
+       "page": "",
+       "id": "--kaltura--1_goht5pyi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 7: פצעים ונשיקות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bac4433e0bb49df90fa458f64c8402c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gpm2lpym/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איתי ויפתח חוגגים 5 שנות נישואין",
+       "page": "",
+       "id": "--kaltura--1_gpm2lpym===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 3: אהבה ראשונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c44880f505540eb9262fa81f927dbb9/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wx27xl8z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גיא ומאיה יוצאים לדייט ולפתע נקטעה הרומנטיקה. מה קרה שם? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_wx27xl8z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 1: אחרי 20 שנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ece1a5955cb45b7a2c356208cd35260/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l892g748/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך זה מרגיש לראות את החברים מהתיכון? דרמטי?  צפו בפרק הבכורה",
+       "page": "",
+       "id": "--kaltura--1_l892g748===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 2: אהבה אסורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80ac2c6af74044959d060476a12754c0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2xawmkht/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מי מאיים על הקשר האסור של וייצמן וגלי?",
+       "page": "",
+       "id": "--kaltura--1_2xawmkht===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עניין של זמן, עונה 1, פרק 13: מחוברים לחיים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ad450b0f70844f2b8422e3ec1dc1bac/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i6etyx42/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מה קרה אחרי שעידו סלח לגלי?",
+       "page": "",
+       "id": "--kaltura--1_i6etyx42===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

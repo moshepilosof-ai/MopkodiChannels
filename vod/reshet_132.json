@@ -1,0 +1,821 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - צחוק מעבודה",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "132",
+   "series_id": "132",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63aa90fdc2654f8683ff4015d5b6e19e/version/3/width/800/height/1200/quality/90",
+   "plot": "תוכנית בידור קומית, בהנחייתו של שלום אסייג וקומיקאים ישראלים נוספים. לצפייה ישירה בכל הפרקים הכנסו לעמוד הרשמי של התכנית.",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 4: אילנית לוי בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66bf85ad86b34eafa4619b4d7cef658a/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kmrw4aoo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_kmrw4aoo===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 3: עידן אלתרמן בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2db39f50d0b14770ab60e1d46c9c9a4d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_idmg3lzt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_idmg3lzt===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87b4457f4b6d48dd92b0ac62424153f2/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l3jt05rf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "ארז ואורי מוצאים אוצר",
+       "page": "",
+       "id": "--kaltura--1_l3jt05rf===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 2: סטייל של מיליונרים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f094dd27b1c4b9a8a157898c20ae640/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z57strk6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "רגע האמת מגיע, ליטל נכנסת לחדר לידה",
+       "page": "",
+       "id": "--kaltura--1_z57strk6===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 5: עינב בובליל בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80d7b4b21df4430c94e5d7f4be258825/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_orcr4pux/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג.",
+       "page": "",
+       "id": "--kaltura--1_orcr4pux===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 6: גיא פינס בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cc31a2d9f7774509a2609e090927ceed/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p8ldqclg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_p8ldqclg===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 7: אסתי גינזבורג בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51b1ba77222945c195c3180770c875cb/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ihmuiw2e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_ihmuiw2e===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 8: הופעת אורח של מורן אטיאס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0263bda30aa64c44bd23b0b46cf68d0d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x6w4kqto/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_x6w4kqto===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 9: פנינה רוזנבלום בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a072cc2ede2846d4ab5cb8f5b3539a7d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ivi0azxt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_ivi0azxt===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 10: נירו לוי בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b9de358692164717addb3de60b3b79cd/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mhgetuu9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_mhgetuu9===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 12: פאנל הסטנדפיסטים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27acfefd2a2548d9ad79760376c74609/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_124haxt0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_124haxt0===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 11: איציק כהן בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5fe26a5e41ca4e57b622bb4063a2695f/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z8y72elh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_z8y72elh===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 13: גאלה קוגן בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7d7155a2350f498f8ade4466d0a0e71c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yotes1nm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_yotes1nm===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 14: נועה תשבי בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2af8e844db9a4f8e8e4c39698dc87acc/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bk4hwmnm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_bk4hwmnm===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 3, פרק 15: ספיישל סיכום העשור",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41fc633870d64a08be1b5d123eaeebfc/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_klu5045s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה שלישית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_klu5045s===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "צחוק מעבודה, עונה 4, פרק 3: ליאת בלו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d0990c4c3bc64eafbea7099a57e3005b/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hvj3h440/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "עונה רביעית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג עם חנה לסלאו",
+       "page": "",
+       "id": "--kaltura--1_hvj3h440===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 4, פרק 1: ליאור כלפון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bcc89d34d1814245a3ac55293df19354/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oc5fhhbr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה רביעית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_oc5fhhbr===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 4, פרק 2: מיקי גבע ואילנית לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37d156e25ff5408a8e5eb142794e94bb/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4cqjbo0m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה רביעית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_4cqjbo0m===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 4, פרק 4: ליאור נרקיס בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/43ea8e0ee7bf4545b88ad420e476b7bb/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e4yhg860/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה רביעית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_e4yhg860===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 4, פרק 5: שלומי סרנגה בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/914fe203e4b3467aa55912d763830449/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ia1aessq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה רביעית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_ia1aessq===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 4, פרק 6: אורי גוטליב בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/437f99b0354042a69bfe63aec81f107c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z28hsfh8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עונה רביעית לתוכנית הסטנדאפ המצליחה בהנחייתו של שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_z28hsfh8===",
+       "season": "עונה 4"
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 3: יובל המבולבל ואיציק זוהר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fcea0bf1b79c43bebe2b9d1800213dc5/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qfpre8ru/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "הנבחרת עולה על מגרש הסטאנדאפ ביחד עם איציק זוהר",
+       "page": "",
+       "id": "--kaltura--1_qfpre8ru===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 1: דודו אהרון - מחזירים את הכבוד למדינת ישראל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f58e77c91373418d858d63de3cb89fd1/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_468748kx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "פעילי השלום אסייג חוזרים להעלות לכם את המורל",
+       "page": "",
+       "id": "--kaltura--1_468748kx===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 2: צביקה פיק בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/399a34f2a8f14fb3b6aacce67a5edd42/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qwj37mtm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "המאסטרו עומד על הגריל של הנבחרת. מי יקבל דוז פואה?",
+       "page": "",
+       "id": "--kaltura--1_qwj37mtm===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 5: עומרי כספי, אופירה אסייג וחיים רביבו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c32c7b860d954107aaac26f177ec7098/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rh9fn47u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "אצטדיון הצחוק מגיש: אורי וקובי בהתקפה וליטל שוורץ... על הספסל?",
+       "page": "",
+       "id": "--kaltura--1_rh9fn47u===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 6: רוני דואני בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91d73e5b8bf64ef48f03657ff54540e4/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_53wqf1se/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "רוני דואני ונבחרת הצחוק מציגים את ההצחקה הכי טובה בעיר",
+       "page": "",
+       "id": "--kaltura--1_53wqf1se===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 7: ליאור נרקיס ורותם אבוהב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a1572737b2f4201a02eae04bcfa3083/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_esg3lhzn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "ליאור נרקיס ורותם אבוהב עושים שמח באולפן הצחוק",
+       "page": "",
+       "id": "--kaltura--1_esg3lhzn===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 8: סאבלימינל ועופר לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec1ca988a1eb472884095163a0fa2610/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_46rq4w61/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "סאבלימינל, עפר לוי ונבחרת הצחוק הופכת את בימת הסטאנדאפ לשטח הפקר",
+       "page": "",
+       "id": "--kaltura--1_46rq4w61===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 15: חנוך רוזן ומושיק עפיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/646feb303a8440e3a54ea1b08c5aabd8/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uxduki59/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "חנוך רוזן ומושיק עפיה מגיעים לאולפן להופעת אורח.",
+       "page": "",
+       "id": "--kaltura--1_uxduki59===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 16: ארז דה דרזנר בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/88b4cfae2325432fbc22cc8194974def/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cag7btwk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "ארז דה דרזנר מגיע לאולפן",
+       "page": "",
+       "id": "--kaltura--1_cag7btwk===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "חגיגות סוף הקיץ של צחוק מעבודה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b369de3c04c84ad997e553042029c131/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0mooup0e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "חגיגות סוף הקיץ של צחוק מעבודה",
+       "page": "",
+       "id": "--kaltura--1_0mooup0e===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 11: שלומי שבת ודניאל אסייג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f03a90a8611349259a2eda22154f46d5/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_krarvl1a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "נבחרת הצחוק ושלומי שבת עושים בית ספר על בימת הסטאנדאפ",
+       "page": "",
+       "id": "--kaltura--1_krarvl1a===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 12: אליקו ויאיר ניצני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/00601e2e1d504df3b70530da78b3731f/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1fa0am4u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "נבחרת צחוק מעבודה במבצע צחוק לחגים. הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_1fa0am4u===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 13: שירי מימון ושמעון בוסקילה בהופעת אורח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/18ed0bf2425c4ecda4943d188b5201d3/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e5g9gvyx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "נבחרת צחוק מעבודה מסכמת את החופש ומשתפת בסיפורים הכי חמים שהיו לה",
+       "page": "",
+       "id": "--kaltura--1_e5g9gvyx===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 5, פרק 17: אנה ארונוב ואביב משה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79a05c25406e4394a4efbfab5b3a8a88/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lu7sgc87/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "משפחה לא בוחרים, אבל סטאנדאפיסטים כן. צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_lu7sgc87===",
+       "season": "עונה 5"
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 1: מטבחון הצחוק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2ccc9d7c5cc49d38fda385a2f55cf43/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yi7hng74/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "צחוק מעבודה פותחת עונה עם ראפ, קאוצ'ינג בהפתעה וסטאנדאפיסטים חדשים",
+       "page": "",
+       "id": "--kaltura--1_yi7hng74===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 2: למי קראת חנון?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e866e8f53964c25afb5d9a8075257d5/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_knetna7u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "חנון, דוגמנית ואורי חזקיה נכנסים לאולפן...",
+       "page": "",
+       "id": "--kaltura--1_knetna7u===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 3: יאללה בכפיים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c08d447cecd7415fa8a5f5c8492e2766/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p6b1p2n6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "מרגול מכבסת, יעקב חוגג יומולדת, ארז מפחד מסוף העולם ושרית חדד עושה חפלה",
+       "page": "",
+       "id": "--kaltura--1_p6b1p2n6===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 4: נרקוד כל הלילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2d11c49f50ce4a09ae7a862bb960f7ed/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fk4ntr3d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "אורי נכנס לפייסבוק, שלומי רוקד ושר, יעקב כהן \"מחליפה\" ואלדיס במבזק מיוחד",
+       "page": "",
+       "id": "--kaltura--1_fk4ntr3d===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 5: עונת הרחצה נפתחת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56c5831b94bf469aaf55faf0b56a3275/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gdidfwtj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "דג זהב, צפרדע, בת ים וגם עומר אדם - מגיעים לחגוג את החופש הגדול",
+       "page": "",
+       "id": "--kaltura--1_gdidfwtj===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 9: עפים על אטבים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6433992e35e14017b42a6af64617e2b8/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wcjz5vs2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "את מי יעיפו החברים כשהפנים שלהם מלאות באטבי כביסה? פרק מלחיץ במיוחד!",
+       "page": "",
+       "id": "--kaltura--1_wcjz5vs2===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 11: חמישה בדירה אחת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35caca7d34be4a1daf8c0b56be6a31bb/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fbt7cb9m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "הנבחרת מציעה פתרונות יצירתיים להתמודדות עם מצוקת הדיור. צפו בתכנית המלאה",
+       "page": "",
+       "id": "--kaltura--1_fbt7cb9m===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 6: הכל זה מלמעלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a421093975946aeb7261284665996e6/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_38vuly5k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "דודו אהרון מגיע מלה לה לנד היישר לצחוק מעבודה. צפו בתכנית המלאה",
+       "page": "",
+       "id": "--kaltura--1_38vuly5k===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 7: שלושים שניות צפיתם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d94dee327fc547ecb60693b12609877c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_erq4btzf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "הנבחרת מצדיעה לכוחות הביטחון. מי שומר על דיסטטנס ולמי נשאר דפוק?",
+       "page": "",
+       "id": "--kaltura--1_erq4btzf===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 8: הכי חריף שיש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/31def37746ae41f68c051a7bf37e4c23/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8opt7ws8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "סקעת שר, ג'ולייטה חוזרת בתשובה, אורי מלוכלך וקובי נזרק לפח",
+       "page": "",
+       "id": "--kaltura--1_8opt7ws8===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 10: צוחקים ברומו של עולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/904c92a04f5746ad8f4647e6922a8117/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_03iezyvh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "אורי חזקיה עם אנרגיות עודפות, ליטל שוורץ מנענעת ומאיה בוסקילה מתגלגלת",
+       "page": "",
+       "id": "--kaltura--1_03iezyvh===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 20: ספיישל אורי חזקיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77a9d2d7f3e946bfb827e88a3c9241dd/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_czihx244/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "מיטב קטעי הסטאנד אפ הכי מצחיקים של אורי חזקיה מכל העונות",
+       "page": "",
+       "id": "--kaltura--1_czihx244===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 12: אהבה וצרות אחרות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/334976ec4fee4fdba5ac4955fe63e4aa/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_77hwl3cn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "החברים עושים צחוק מט''ו באב ומראים שאהבה היא לא כל הסיפור. צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_77hwl3cn===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 13: כוכבים נופלים מהשמיים!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd0044330ad9418b95d8fd6daeabe5e1/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rwzjocq8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "האם משה פרץ שוקל הסבה מקצועית? ומה קרה בין ליטל לרביבו?",
+       "page": "",
+       "id": "--kaltura--1_rwzjocq8===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 14: מושיטים יד לכפכף?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7fc2efbf1f8a493ea7d2a077f7d80bb9/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iwyjb3ii/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "הנבחרת שמה את הסכסוך במדינה בצד וקוראת לדו קיום בין אנשים לג'וקים",
+       "page": "",
+       "id": "--kaltura--1_iwyjb3ii===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 15: העולם מצחיק, אז צוחקים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec43bd9eb0d945678f866925a101cb9c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u6hin66t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "אסקימואית, האפיפיור ווגם מלכת אנגליה, מגיעים לצחוק לסובב את העולם....",
+       "page": "",
+       "id": "--kaltura--1_u6hin66t===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 16: משפחת טקט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c27eceba0ab4584b08e29b94e7a0e1a/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jw4j3jwp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "סאבלימינל עושה ראפ, אלין לוי באה לנקום וחברי צחוק נמתחים...",
+       "page": "",
+       "id": "--kaltura--1_jw4j3jwp===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 17: ולפעמים החגיגה נגמרת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b6d360bcfaf466592e13bee1b2c4a3a/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zhwur4p2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "צחוק מעבודה מסיימת עונה ומסכמת 100 תוכניות",
+       "page": "",
+       "id": "--kaltura--1_zhwur4p2===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 18: לתת באהבה 2011",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0866814ae6a44e7fabedf4ac17ef317e/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8ng92k18/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "כוכבי צחוק מעבודה ואמנים רבים נרתמים למען ארגון \"לתת\"",
+       "page": "",
+       "id": "--kaltura--1_8ng92k18===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה: ספיישל ליטל שוורץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17bbc91caa864c20904292efffbce6dd/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_50s26os7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "מיטב קטעי הסטאנד אפ הכי מצחיקים של ליטל שוורץ מכל העונות",
+       "page": "",
+       "id": "--kaltura--1_50s26os7===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 21: ספיישל קובי מימון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9eb01fb59db84d54b5f138f73ddecabd/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g9z0shkf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "מיטב קטעי הסטאנד אפ הכי מצחיקים של קובי מימון מכל העונות",
+       "page": "",
+       "id": "--kaltura--1_g9z0shkf===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 6, פרק 22: ספיישל ארז שלם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dabe8f8b8e4a48dba4df0de519d6b60d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cromccp6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "מיטב קטעי הסטאנד אפ הכי מצחיקים של ארז שלם מכל העונות",
+       "page": "",
+       "id": "--kaltura--1_cromccp6===",
+       "season": "עונה 6"
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 7: חוזרים לשגרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/23b5a61543d045f399595ebb6fe47b06/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wo7tgtqk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "החברים נפרדים בצער גדול מהחגים",
+       "page": "",
+       "id": "--kaltura--1_wo7tgtqk===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7: ספיישל המירוץ למיליון 2013",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b3eea62c59d4799ac631a3d6669fafb/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tcltzjic/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "נבחרת הצחוק נופלת על העולם בתכנית מיוחדת",
+       "page": "",
+       "id": "--kaltura--1_tcltzjic===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7: ספיישל \"צוחקים איתך, גבר\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff3fa8c266044568907a17bbbc357176/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_99tfxayt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "נבחרת הצחוק עושה כבוד לגבר הישראלי",
+       "page": "",
+       "id": "--kaltura--1_99tfxayt===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7: ספיישל מיטב הקטעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e214fe75052d4a19873aff32e199ab04/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6gsx042h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "פרק קורע במיוחד!",
+       "page": "",
+       "id": "--kaltura--1_6gsx042h===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7: ספיישל עצמאות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/15228fec08d64500bebc870c198b642c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xix73io1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "חגיגות 65 שנים למדינת ישראל",
+       "page": "",
+       "id": "--kaltura--1_xix73io1===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7: ספיישל ריאליטי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/223e513967254c148d0b3a9333d981d8/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tiw31o36/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "ג'קי מנחם ואחרים מגיעים לעשות כבוד לתוכנית המציאות",
+       "page": "",
+       "id": "--kaltura--1_tiw31o36===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה: ספיישל כוכבי פלטפוס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9698a8972145424591fb4ef1d0a8221e/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mg0o8wxf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עושים כבוד לבידור הישראלי",
+       "page": "",
+       "id": "--kaltura--1_mg0o8wxf===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 2: אי של צחוק!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72e6d25f58dd427383825dc316b0b9ba/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_knbf8ce6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "איתי שגב מגיע לצחוק מעבודה",
+       "page": "",
+       "id": "--kaltura--1_knbf8ce6===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 1: העולם מצחיק אז צוחקים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f6127187981f4bcea885c906a62cf53c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nkzjy6eo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "פותחים עונה עם סטנדאפיסטים חדשים, לירן דנינו, מדוזה ושחר חסון",
+       "page": "",
+       "id": "--kaltura--1_nkzjy6eo===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 3: קנו לעצמכם מתנה לחג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4fb515a6359f4d1e98db64d7bc648206/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_je0aapqr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "נבחרת הסטנד-אפ משתוללת בתכנית מוזיקלית",
+       "page": "",
+       "id": "--kaltura--1_je0aapqr===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 4: מבקשים מחילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77cb8744d8da4561b45a8fce0407efcc/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_loxlmmgn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "סשן סליחות לקראת יום כיפור",
+       "page": "",
+       "id": "--kaltura--1_loxlmmgn===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 5: אורחים בסוכה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ffee6c4a960944a895cd470e9eb11dad/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3evvm06i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "שחר היפה פוגש את שחר החנון",
+       "page": "",
+       "id": "--kaltura--1_3evvm06i===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 6: צוחקים בסוכה! הקטעים הנבחרים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae1400286b074d4587a666fc0e5005de/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e4r3f0bo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "מיטב הקטעים וכל הרגעים הגדולים של צחוק מעבודה",
+       "page": "",
+       "id": "--kaltura--1_e4r3f0bo===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 8: שירת הסטיקר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6e39b5db96b94f8dacc12f91a857fc5c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4dieqpgq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "לאיזו מפלגה היו מצטרפים בבחירות הבאות?",
+       "page": "",
+       "id": "--kaltura--1_4dieqpgq===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 10: ספיישל ילדות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c4c5267e87ed497da35254c841f067c8/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_muklk03q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "נזכרים בזכרונות הילדות",
+       "page": "",
+       "id": "--kaltura--1_muklk03q===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 9: למה לי פוליטיקה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a2cf94b3fb848018231b579a81626f1/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s4s51n2s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "חברי הפאנל בתוכנית בסימן הבחירות",
+       "page": "",
+       "id": "--kaltura--1_s4s51n2s===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 11: זכות או חובה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/187849673de546e597da062b5c610859/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a4r5wr2d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "חברי הנבחרת מדברים על המצב במדינה",
+       "page": "",
+       "id": "--kaltura--1_a4r5wr2d===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 13: חגיגת חנוכה מטורפת!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7814bc8b7a5e421fa834a469880ba394/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1t74bqci/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "חברי הנבחרת במסיבת חנוכה אלטרנטיבית ובלתי נשכחת עם סופר נני וזהבה בן",
+       "page": "",
+       "id": "--kaltura--1_1t74bqci===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 14: חיים בלה לה לנד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c87b74f2ce2c4fd7bf4a4f8c0b0a9c82/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z6ivfgj2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "כוכבי לה לה לנד פוגשים את נבחרת הסטנד אפ בתכנית מלאה צחוקים וכוכבים",
+       "page": "",
+       "id": "--kaltura--1_z6ivfgj2===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 15: הרגעים הגדולים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/de0c96210de0490c9e53bc7f06af981f/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hhlexjf0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "לקט מיוחד עם כל הקטעים הגדולים של העונה",
+       "page": "",
+       "id": "--kaltura--1_hhlexjf0===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "צחוק מעבודה, עונה 7, פרק 16: ספיישל סיום העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47f75c35fd144938a68616abad1989cb/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sg9ke2hc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "סוגרים עונה עם מופע סיום קורע",
+       "page": "",
+       "id": "--kaltura--1_sg9ke2hc===",
+       "season": "עונה 7"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

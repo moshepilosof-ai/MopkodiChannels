@@ -1,0 +1,1341 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - עושים שישי עם אריק וייס",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "606",
+   "series_id": "606",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b63a4524433f4d1ca654b96fecbe9367/version/1/width/800/height/1200/quality/90",
+   "plot": "מקבלים את השבת במגזין סיכום השבוע של אריק וייס, עם כל העדכונים, החדשות והסיפורים המרגשים",
+   "updated": "2026-10-31 00:05",
+   "sub_categories": [
+    {
+     "name": "תוכניות מלאות",
+     "channels": [
+      {
+       "name": "עושים שישי עם אריק וייס 30.10.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b51b4392080d4c6ba6c8cde9a9b87a21/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q2bpsnw9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_q2bpsnw9===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 23.10.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e97870288c754bc3995708c628e600fe/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3n5n6mao/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_3n5n6mao===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 16.10.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/42c86df7d86a4588b46969e2305bf233/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g9t6o60f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_g9t6o60f===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 09.10.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e83b94914732438a98ae574fc56f04cf/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pw3cha4h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_pw3cha4h===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 02.10.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e31c7fd9d8f4068a182cc90d42104c9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_poo9q242/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_poo9q242===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 25.09.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0bb0c4a60b5e4199b0c4d3131c9bbfb8/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1ot5fbn1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-09-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_1ot5fbn1===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 18.09.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d05ad976538f4340880ecb308ac41384/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bvy9g1bj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-09-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_bvy9g1bj===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 04.09.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/920afc9fd4e8413ea59e19bc9074f404/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dl4l3u20/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-09-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_dl4l3u20===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 21.08.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa53e94d751a4a1e820bdf3ad5f32a25/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_by271b6i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_by271b6i===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 14.08.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d3de296a2ba54a83a5d62025941a5df5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xn5m8up1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xn5m8up1===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 07.08.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30f791f9b46a4f45adcc2e179ec99530/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sfo1z725/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_sfo1z725===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 31.07.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ba52d2d72d44cf7a85a31146a7a8ce6/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ik3kre6p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ik3kre6p===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 24.07.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7408ec8861124c5092d5fc2f066c3412/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_78dau2i6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_78dau2i6===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 17.07.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3257b8313a54e389f050ed4444ce626/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f45gqg6y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_f45gqg6y===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 10.07.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f65827f33f09415aaf6ee0145f186b23/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dlmugst3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_dlmugst3===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 03.07.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f73e97feca6f47c68eb6aeb19aec5278/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2nc8zs5h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2nc8zs5h===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 26.06.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e2c18479e7d40969754f76f7f32cff2/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nohv798s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_nohv798s===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 19.06.26- התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72e25fd61c954aa2a5549741bc949acf/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vfrbfafy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vfrbfafy===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 12.06.26- התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/71108ac23126445ebc481fe7b981042f/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1j8dtsrc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_1j8dtsrc===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 05.06.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/00e70c422bbc409ba5ab706755909d2c/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xgzsod03/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xgzsod03===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 29.05.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/29c453df30d3446881dd21e8b06e6e75/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0phyy8nn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_0phyy8nn===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 15.05.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/182b1080bb874b10a14c377c505a6256/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7wvgvar9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7wvgvar9===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 08.05.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7cbdabc25de64833ae1dc04521b36503/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xkpjgjdh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xkpjgjdh===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 01.05.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/33ff39b724d44f2a95edd5017278c7d8/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gu5fo1v0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_gu5fo1v0===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 24.04.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2490bf1af3048abac8711329b9431a4/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hh3l0vgy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_hh3l0vgy===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 17.04.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ad4c256d5bf49d487fba7cc5d811d33/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e9pkb499/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_e9pkb499===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 10.04.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07da2f069ddf4585bae273c1f0e25137/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_57ru0tkg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_57ru0tkg===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 03.04.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ca2d2720b1449dc80e967ebcfd5f0e0/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_01c6xp4f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_01c6xp4f===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 27.03.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/295d4e38dd21499882f5682a6f745ab6/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b6elnubw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_b6elnubw===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 20.03.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f1769876e2724363a63f76551400ffb8/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xi1anm2e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xi1anm2e===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 13.02.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/347c1b0f36b24ed0a66a3cefebf70a95/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l2e0tb0z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_l2e0tb0z===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 06.03.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f3351107b834da28a6183326a8b2c9f/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i2n6k4fg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_i2n6k4fg===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 27.02.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e25e7db8a7534044be94b0be791a4186/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c6hhjk0u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_c6hhjk0u===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 20.02.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe89e9459c2043b4a670b5dfe3b97176/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d6pf2zl1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_d6pf2zl1===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 13.02.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/24d1aacf88b548aa974a099c797383dd/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m9axcepj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_m9axcepj===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 06.02.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7794122a0f6f4a51821332b51b9c9d3b/version/36/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lb2d6o8x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_lb2d6o8x===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 30.01.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af4436a1524d49b0bd44c5fc0cd5a4e2/version/39/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4xb2ppkt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_4xb2ppkt===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 23.01.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbf773f4ffa64f8ca9e154b9f40cbe49/version/38/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_273y7u45/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_273y7u45===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 16.01.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e584e3bf513b4322813acfddfe205af2/version/37/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f5fnpjx7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_f5fnpjx7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 09.01.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f411aa4ff6144eeaa8ea064aa2eb1560/version/38/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vkck1gyd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vkck1gyd===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 02.01.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09f10d8653574372b9e7e2153bc6f7b5/version/39/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ej3954aq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ej3954aq===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 26.12.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a422031e70a4c43ab351029db4a3c5e/version/40/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ks4i4t6n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-12-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ks4i4t6n===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 19.12.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2cdc38ca426b4592abe40b0c99c85bb0/version/42/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nyiiap14/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-12-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_nyiiap14===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 12.12.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c924215f0f7048e5ba5ff37b6870777e/version/42/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m1i4q2jt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-12-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_m1i4q2jt===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 05.12.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f9b6367440054e7fa9d7a609791f1ace/version/44/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_agifn7xp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-12-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_agifn7xp===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 28.11.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/822283cefcb34c7b965532eca1193740/version/44/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_chjzzhd7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-11-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_chjzzhd7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 21.11.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/67b686f5630d4dd2a62d2de54eac25ff/version/46/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7taygzfk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-11-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7taygzfk===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 14.11.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4693b29e5b14d33bda7754d57143e67/version/47/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hz91plvo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-11-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_hz91plvo===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 07.11.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/625cc128f7824e9eb5484c1d831be99c/version/47/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3rylmv0c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-11-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_3rylmv0c===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 31.10.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05bef9cdf1ed4af0a1f646fe05318668/version/48/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_isiw0ad4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_isiw0ad4===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 24.10.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b1e4735a14645e4990824f792b8bd9d/version/55/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_21753mvq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_21753mvq===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 17.10.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df2bb2d826654d40977beb4b8b802c57/version/53/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cogagrd5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_cogagrd5===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 10.10.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/364863462df34b099210b95fdd7cb7a9/version/54/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gsv0rpvj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_gsv0rpvj===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 03.10.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b4fe6df5dac4096bb175090c42f0481/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jzbwfytv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_jzbwfytv===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 19.09.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90c08af19ee1431fb4e92617de5d3143/version/56/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tn8mkfnx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_tn8mkfnx===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 26.09.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5635781d8be14b56a4b2faad5f9163e1/version/60/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vul27e2g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vul27e2g===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 12.09.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc6bd6a848db4184840b8a7f0203dfd2/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g1ibe18o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_g1ibe18o===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 05.09.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/135f42b522f14714bc5bd1fe4b48abf0/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wi9tyiy3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wi9tyiy3===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 29.08.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5377462bff9645c0b069d8f9104fd8a5/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xz0efdn7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xz0efdn7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 22.08.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfdecd5eeddb49bfa26025236ff46adc/version/68/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_st120639/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_st120639===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 15.08.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e30d80c9d775470e913022683ead8f6f/version/70/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ikkljg8q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ikkljg8q===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 08.08.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d383a7894af4c5bbe85304723dabdf6/version/73/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wu7pic1g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wu7pic1g===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 01.08.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f842eaf59f7f4e4eb5e2f0183bade1a4/version/75/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uhmcxhx2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_uhmcxhx2===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 25.07.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47196f6e8b214ce2b3407629fe4db274/version/76/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m56cgb57/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_m56cgb57===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 18.07.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3f61e85f94a4521b92faa31bccf53a3/version/78/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ebp0xzz2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ebp0xzz2===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 11.07.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2eddec15a02465bb5ea77835e6ccb67/version/80/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xu2q8iby/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xu2q8iby===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 04.07.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2556414d19b44cd0901b16df70fb1901/version/82/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e0to0z6b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_e0to0z6b===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 27.06.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ebf66ae55e944d0a3ecd4c333e6c52f/version/84/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x1afw5ju/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_x1afw5ju===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 20.06.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f18193dcaf54c188b441cccead193d0/version/89/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ie9z4b38/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ie9z4b38===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 06.06.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df465370778c40af9d5fd00d582ed03a/version/90/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qosupjnp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qosupjnp===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 30.05.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ff3a3501d2741aba46525d32be43939/version/92/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b8zxamlx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_b8zxamlx===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 23.05.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1eb1810fe1a4e9b8dbef40c413b3ddc/version/94/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gq9evo5o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_gq9evo5o===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 16.05.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a2690cdca5345f3b7bdacb24cdfa039/version/99/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qehipc7l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qehipc7l===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 09.05.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95ccfd57dc8f41d7919f6d98a1a12c04/version/100/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_azjbhz6z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_azjbhz6z===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 02.05.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d618b1fee0784c0b8f92fe2b2c33683a/version/101/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8fvwk2fr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_8fvwk2fr===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 25.04.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f194b0400385497c9150db29b0412e5a/version/99/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wsy2rlh4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wsy2rlh4===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 11.04.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c1e980ee8754585afa00cea3c621ff7/version/104/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lxmtmtcp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_lxmtmtcp===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 04.04.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ebfa89df20ab4bceb13e36c69bd781ae/version/105/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nym87987/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_nym87987===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 28.03.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ed4b64a4768846119983238be669c7c4/version/107/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ojfzmohx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ojfzmohx===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 21.03.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c089788d2f1d4b6d9e17232669e2c2e4/version/108/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ak544eco/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ak544eco===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 14.03.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4a3564b6dcd043af8f909baa584fc3de/version/112/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nkaq1b7u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_nkaq1b7u===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 07.03.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8b93523829b46e4a10f2b55d4b5a617/version/113/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9mwdd6g9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9mwdd6g9===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 28.02.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b3fcd5b8c694b369929cc9fc907944d/version/115/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m4xz0iri/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_m4xz0iri===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 21.02.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fac3d985726f41cc8fd78e3aebd2c318/version/119/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t6spnwn1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_t6spnwn1===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 14.02.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c6198a5bf6a47b79832384d9554cd88/version/122/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k8h8ztfk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_k8h8ztfk===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 07.02.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/750e906ae2fc42c081f78edf808cc5b9/version/122/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bzgsjn4t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_bzgsjn4t===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 24.01.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0da11537883e4d6484680e661de06971/version/126/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z3c6avif/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_z3c6avif===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 24.01.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e292bb6c70ac4fefa1fc136d874c18b4/version/125/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sdf750tr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_sdf750tr===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 17.01.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/88b2ba798e4f454ca41819ecd23389dc/version/129/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tnb2t8pn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_tnb2t8pn===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 10.01.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e0abdf423edf424eaf4a4ea3164b0944/version/130/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tah82cck/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_tah82cck===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 03.01.25 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7fbb1a19fe5042f99baf08b60220414d/version/131/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b5v77cnv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_b5v77cnv===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 20.12.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2daf917450844be59d35935b9da24f10/version/135/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5fjhnc3j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_5fjhnc3j===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 13.12.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ceefcc1449bf4d2b80657ed780b8c46c/version/137/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5cv90as2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_5cv90as2===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 06.12.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0f1a5ce63c184ba6a8e0e2dd29bfc396/version/140/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_20rluoy5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_20rluoy5===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 29.11.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/563c3f917f694641b7fec74bb7459182/version/141/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uong01c3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_uong01c3===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 22.11.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/796a16255e81419c8db23f2df63ef8dd/version/144/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9j0qqquf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9j0qqquf===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 08.11.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4c720e464d57492289dc9b64f59636ed/version/148/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xv4eg1aa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xv4eg1aa===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 08.11.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d633b12fd68a4c8183d92e44779d5d2a/version/151/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s032vsbk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_s032vsbk===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 01.11.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d22031b269a4457abb106ce83302bae6/version/151/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xusc93b5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xusc93b5===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 25.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e79cef7ce92487c956e5fb4fed1fa6e/version/154/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_exgerv4n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_exgerv4n===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 18.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7509cc2adba34426b3f7b81e6da4211b/version/154/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7wuteawh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7wuteawh===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 27.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e37d7ef5d2814a90807f77f35e7fe7ad/version/159/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i4seqyg1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_i4seqyg1===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 20.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8c4f8a5fb6147dba1b4e382cc057f86/version/158/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7p6eo4h9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7p6eo4h9===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 13.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d3e5cd1e65a7445e90d8ad82194a5cf9/version/161/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qovdu0p2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qovdu0p2===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 06.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/626dca707b7b4b1289d6109d617c6333/version/163/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0kqneqzj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_0kqneqzj===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 30.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9265b3781d7c4ed699cf310fdbc8700a/version/166/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k0heupm7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_k0heupm7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 23.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8dbb4b33dd6141f391cc372ab39e44ae/version/167/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mud8hnov/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_mud8hnov===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 16.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5900f0e000094e1785c9791ab2efd56e/version/170/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ysve7rlv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ysve7rlv===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 09.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c2b7adae725c41c2aba5c2081c138d30/version/170/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2bmqtbmo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2bmqtbmo===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 02.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/713ba73ab38f405db670cd2ee9db60af/version/172/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ioxiyhka/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ioxiyhka===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 26.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7fa66e50f0a44abb6229d11a09820ec/version/174/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9fbz6kka/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9fbz6kka===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 19.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/311b3bda388a4fd2bbf890623295f313/version/179/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_io09sh5r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_io09sh5r===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 12.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/20fd22096de04019ae33b333eeaeee0b/version/179/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ut1qqprv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ut1qqprv===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 05.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6496737a4f5b483a8e9eb8d7405e105f/version/179/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a60jmm5n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_a60jmm5n===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 28.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/078d9558cb1a4516941209152d167021/version/182/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3rqq8g1q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_3rqq8g1q===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 21.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/328bf7a176c94bf1982c2c35d4a8a83e/version/182/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_app77i2w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_app77i2w===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 14.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e877aeb520745e6898ee4f7f0bf9875/version/184/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ccbgm9xh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ccbgm9xh===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 07.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1bd4e6226b2c4124beb1253cfcbaca11/version/186/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nwhgaz29/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_nwhgaz29===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 31.05.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/413ef7bdf70145ef9e00bf53ce3f9858/version/188/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8jp6w02x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_8jp6w02x===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 24.05.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c59ef97c6fad42c4901057202f252f08/version/185/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_db9en6yd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_db9en6yd===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 17.05.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/28d8ffee4ce5492da98703e485b4cf39/version/187/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2zwnj9fp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2zwnj9fp===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 10.05.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/736402eca9f44d038d4c6cfb354b7aef/version/188/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7yserstp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7yserstp===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 03.05.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ede8dc77f884a1184a94e027ece9db6/version/191/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p8515frt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_p8515frt===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 26.04.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5121ae8777c429d831e35e5d04e56c1/version/194/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s91wd2i7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_s91wd2i7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 19.04.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6313f56aa8f41e39fc0e4419c7b360c/version/194/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9qrpwoao/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9qrpwoao===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 12.04.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/244499df76f14c118635b2eb5ec99024/version/193/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xuow0ils/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xuow0ils===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 05.04.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a64d9563a54e4112aace79b0038726c1/version/195/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f11vrts5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_f11vrts5===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 15.03.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50c482b8be094a71b6015d0089e771fc/version/195/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hn38z8pn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_hn38z8pn===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 08.03.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/907ece2950b64f719a52453a6f0277b4/version/197/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4ptzct5j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_4ptzct5j===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 01.03.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/96d09fc7e5ac42d5b199b5788bb518d3/version/197/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_04yu4dh0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_04yu4dh0===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 29.03.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8fc8b9fd275c44338acbf1dfd0e8191f/version/200/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ujjcjjai/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ujjcjjai===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "עושים שישי עם אריק וייס 22.03.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d1954af56f74bb09e05a73fe3f4d76f/version/202/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q4m1n00v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_q4m1n00v===",
+       "season": "תוכניות מלאות"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

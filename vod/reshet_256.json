@@ -1,0 +1,41 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - הרשת החברתית",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "256",
+   "series_id": "256",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e05b3f438bde4cbf88c856444a0a8b4b/version/10/width/800/height/1200/quality/90",
+   "plot": "תוכנית דוקו-אקטיביסטית בהובלת תומר אביטל, אור-לי בר לב וערן הילדסהיים המצביעה על בעיות קשות בשירות הציבורי, בכל פרק תתמקד התוכנית במוסד ציבורי/ממשלתי אחר, תתעד מקרים דוקומנטריים בהם הממשק בין המוסד לאזרח הקטן העלה עוולות וכשלים, ואז תנסה להגיע לשיפור המצב בסיוע מנהלי הארגון.",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הרשת החברתית, עונה 1, פרק 3: משרד הפנים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae5f548b61fb403e8a30a3fbd2448960/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o4y9k4ts/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "הרשת החברתית יצאה לבדוק את השירות והתיפקוד של משרד הפנים ורשות האוכלוסין וההגירה. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_o4y9k4ts===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרשת החברתית, עונה 1, פרק 2: משרד התחבורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/74ff55e798444e46800f27f3536c6ab7/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rxme6t4u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "אור-לי ברלב, ערן הילדסהיים ותומר אביטל יצאו לבדוק את בעיות התחבורה והרישוי של מדינת ישראל. הרשת החברתית לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rxme6t4u===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

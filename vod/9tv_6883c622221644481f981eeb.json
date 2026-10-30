@@ -1,0 +1,201 @@
+{
+ "categories": [
+  {
+   "name": "ערוץ 9 - Война и Мир",
+   "type": "vod",
+   "source": "9tv",
+   "program_url": "6883c622221644481f981eeb",
+   "series_id": "6883c622221644481f981eeb",
+   "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/c39cd1f1-e871-42d0-b2b9-dbb6b7793006.jpg",
+   "plot": "Аналитика и главные события недели — в Израиле и за его пределами.",
+   "updated": "2026-10-31 00:06",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "ПЕРЕСТРЕЛКА ПОД ХЕВРОНОМ. НАПАДАВШИЕ ГОТОВИЛИ МАСШТАБНУЮ АТАКУ. ВОЙНА И МИР. 23 октября - 23/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/5f6b9ee3-e13c-4208-bf44-a0a94e5c359d.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/ed0d2b32-c8d4-4f69-a3fc-77a68e9cd280/hls/master.m3u8",
+       "date": "2026-10-23",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/ed0d2b32-c8d4-4f69-a3fc-77a68e9cd280/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ХУСИТЫ ОБСТРЕЛИВАЮТ МЕДИНУ И ДВОРЕЦ ЙЕМЕНСКОГО РУКОВОДСТВА В АДЕНЕ. ВОЙНА И МИР. 16 октября - 16/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/0920c675-16d0-4111-aa19-7e1a0fee9e7e.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/2a05a684-73c3-416e-b8d2-69fd3a4b1ae3/hls/master.m3u8",
+       "date": "2026-10-16",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/2a05a684-73c3-416e-b8d2-69fd3a4b1ae3/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "НОВЫЕ ФАКТЫ О ПОПЫТКЕ ТЕРАКТА В САМОЛЕТЕ FLYDUBAI. ЧТО УДАЛОСЬ УСТАНОВИТЬ ЗА ПЕРВЫЕ СУТКИ? 2 октября - 02/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/5a495264-f9ba-45e8-b3ab-bac81efc9998.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/ae30379c-2280-48a4-b64f-a79c4b2cd0b7/hls/master.m3u8",
+       "date": "2026-10-02",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/ae30379c-2280-48a4-b64f-a79c4b2cd0b7/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ООН ПРОТЕСТУЕТ ПРОТИВ ИЗРАИЛЯ? ЧЕМ НЕТАНИЯГУ ОТВЕТИЛ НА БОЙКОТ ГЕНАССАМБЛЕИ? ВОЙНА И МИР. 25/09 - 25/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/bc6540eb-bcf0-4d09-9530-77bc2a6953ee.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/b77fccb9-3177-4cd3-ab05-24043b1bbd10/hls/master.m3u8",
+       "date": "2026-09-25",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/b77fccb9-3177-4cd3-ab05-24043b1bbd10/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "СКАНДАЛ ВОКРУГ ФИЛЬМА NAZA. СОЛГАЛИ ЛИ АВТОРЫ? ЧТО ЖДЕТ ИХ В ИЗРАИЛЕ? ВОЙНА И МИР. 18 сентября - 18/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/58db102c-a969-4417-b509-b9bdbf1d228f.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/39649528-7f47-47f0-a66d-410527dd5500/hls/master.m3u8",
+       "date": "2026-09-18",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/39649528-7f47-47f0-a66d-410527dd5500/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИРАН УГРОЖАЕТ УДАРИТЬ ПО ИЗРАИЛЮ. ВЕРНЕТСЯ ЛИ ТЕГЕРАН К ВОЙНЕ НА ДВА ФРОНТА? ВОЙНА И МИР. 4 сентября - 04/09/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/b87ce74d-127f-494b-ac96-421917656bb5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/99e26c89-64f6-4d0a-9f96-642d5e31bb6b/hls/master.m3u8",
+       "date": "2026-09-04",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/99e26c89-64f6-4d0a-9f96-642d5e31bb6b/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "США УСИЛИВАЮТ ДАВЛЕНИЕ НА ИРАН. КОНФЛИКТ СНОВА ПЕРЕХОДИТ В ГОРЯЧУЮ ФАЗУ? ВОЙНА И МИР. 28 августа - 28/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/98a42dc3-0605-47b4-a8fe-d6dfdd6ac4c6.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/eda7e9d6-9117-4b8e-a5ff-eafa378f6273/hls/master.m3u8",
+       "date": "2026-08-28",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/eda7e9d6-9117-4b8e-a5ff-eafa378f6273/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "«ИЗОЛЯЦИЯ БЕСПРЕЦЕДЕНТНОГО МАСШТАБА». НОВАЯ БЛОКАДА ИРАНСКОЙ ЭКОНОМИКИ. ВОЙНА И МИР. 21 августа - 21/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/86acc91a-4847-4e63-8aa0-82e18db58d11.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/4d963fe4-ae9f-47fc-9d67-d4af49f7d336/hls/master.m3u8",
+       "date": "2026-08-21",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/4d963fe4-ae9f-47fc-9d67-d4af49f7d336/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ИРАН ГОТОВ НАЧАТЬ ВОЙНУ, ЕСЛИ США НЕ СНИМУТ БЛОКАДУ ОРМУЗА. ВОЙНА И МИР. 14 августа - 14/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/49bee865-0da5-475e-887f-81c3e3af6371.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/4bea0868-e59d-4238-94d4-fe281b233fb3/hls/master.m3u8",
+       "date": "2026-08-14",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/4bea0868-e59d-4238-94d4-fe281b233fb3/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ХУСИТЫ ОБСТРЕЛИВАЮТ ВОЕННЫЕ ЛАГЕРЯ ПРАВИТЕЛЬСТВА ЙЕМЕНА. 30 ПОГИБШИХ. ВОЙНА И МИР. 7 августа. 20:00 - 07/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/5131f2b3-88c4-4cea-bd77-e86f7a420626.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/5f19428a-24ad-41e6-b431-66c9cbc34354/hls/master.m3u8",
+       "date": "2026-08-07",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/5f19428a-24ad-41e6-b431-66c9cbc34354/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "США И ИЗРАИЛЬ ОБСУЖДАЮТ ЕЩЕ ОДИН СПОСОБ ДАВЛЕНИЯ НА ИРАН. ВОЙНА И МИР. 31 июля. 20:00 - 31/07/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/cd05db78-7dba-471e-a4b5-30ae403a0b32.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/13744151-5fed-43b7-8649-cb79d008a077/hls/master.m3u8",
+       "date": "2026-07-31",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/13744151-5fed-43b7-8649-cb79d008a077/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ВЗАИМНЫЕ ОБСТРЕЛЫ США — ИРАН. ЯДЕРНАЯ ГОНКА НА БЛИЖНЕМ ВОСТОКЕ НАЧАЛАСЬ? ВОЙНА И МИР. 24 июля - 24/07/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/eca6b8bb-b39c-4533-b78a-1f5127cb66ab.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/38ab94ca-7213-4b3a-b8cf-c192b187c0dc/hls/master.m3u8",
+       "date": "2026-07-24",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/38ab94ca-7213-4b3a-b8cf-c192b187c0dc/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "США ОБСТРЕЛИВАЮТ ИРАН. ТЕГЕРАН БЬЁТ ПО СТРАНАМ ЗАЛИВА. ВПЕРЕДИ БОЛЬШАЯ ВОЙНА? ВОЙНА И МИР. 17 июля - 17/07/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/6947dde1-9f8a-4f48-9067-82d1977f99bb.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/17236d3d-d79e-4868-aa26-6fe342bb40ce/hls/master.m3u8",
+       "date": "2026-07-17",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/17236d3d-d79e-4868-aa26-6fe342bb40ce/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ВОЙНА США – ИРАН ВСПЫХНЕТ С НОВОЙ СИЛОЙ? МОЖНО ЛИ ВЕРНУТЬСЯ К ПЕРЕМИРИЮ? ВОЙНА И МИР. 10 июля. 20:00 - 10/07/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/75c14add-cd99-4f0a-91c9-14beda8d27fd.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/3d47bb81-86c3-4647-8478-a0df6503e111/hls/master.m3u8",
+       "date": "2026-07-10",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/3d47bb81-86c3-4647-8478-a0df6503e111/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ОБМЕНЫ УДАРАМИ И СРЫВЫ ДОГОВОРЕННОСТЕЙ. ОСТАЛСЯ ЛИ ШАНС НА ДИПЛОМАТИЮ С ИРАНОМ? ВОЙНА И МИР. 3 июля - 03/07/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/954b4f62-91ff-4fb3-8834-0a4810982030.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/18e6a250-a739-49ec-ad01-3c12cd5f3e7b/hls/master.m3u8",
+       "date": "2026-07-03",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/18e6a250-a739-49ec-ad01-3c12cd5f3e7b/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Зачем Нетаниягу едет к Трампу  Израиль и Сирия  союз с Джулани  ВОЙНА И МИР. ИЗРАИЛЬ. 04 июля 20 00 - 26/09/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/04d384ea-fae8-4bd6-818c-c863526ce2fd.jpeg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/4c68dbb7-9b2f-4554-9a05-ebd54e85061d/hls/master.m3u8",
+       "date": "2025-09-26",
+       "plot": "Война и Мир",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/4c68dbb7-9b2f-4554-9a05-ebd54e85061d/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Сирия  Друзское восстание и удары ЦАХАЛа   Сделка по Газе близка. ВОЙНА И МИР. ИЗРАИЛЬ 18 июня 20 00 - 26/09/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/689aa299-7e03-40d6-a790-93c8142414ba.jpeg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/3937c05a-7d10-4b7d-91ec-c771eee8e379/hls/master.m3u8",
+       "date": "2025-09-26",
+       "plot": "Война и Мир",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/3937c05a-7d10-4b7d-91ec-c771eee8e379/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Насколько Иран близок к бомбе Теракт в США - Смерть сионистам! ВОЙНА И МИР. ИЗРАИЛЬ 6 июня 20 00 - 26/09/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/ec764860-b784-43bd-9782-870682f968cd.jpeg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/5a847046-a6e9-454f-9aa5-dcf0a3ba5f77/hls/master.m3u8",
+       "date": "2025-09-26",
+       "plot": "Война и Мир",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/5a847046-a6e9-454f-9aa5-dcf0a3ba5f77/hls/master.m3u8",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

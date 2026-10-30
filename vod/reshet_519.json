@@ -1,0 +1,411 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - יאיר לפיד",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "519",
+   "series_id": "519",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d32de20d3c6f4aa5a46d9035e944d802/version/0/width/800/height/1200/quality/90",
+   "plot": "\"יאיר לפיד\" - תוכנית ראיונות ואירוח בהנחייתו של יאיר לפיד, ששודרה בשנים 2000–2007 בערוץ 2 במשך שמונה עונות",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "כל העונות",
+     "channels": [
+      {
+       "name": "יאיר לפיד - 29.03.2008",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8146087d6de4fab825d0c1258509ced/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4ow5smu8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אדיר מילר, אסי כהן, בר רפאלי, יאיר לפיד, יונתן ברק, ליטל שוורץ, עדי אשכנזי",
+       "page": "",
+       "id": "--kaltura--1_4ow5smu8===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 26.02.2007",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ed4f86f11897429fb5180101e14d5d4a/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wcmsvay8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אריק ברמן, הילה ז'ורנו, יאיר לפיד, יונתן ברק, ליטל שוורץ, עדן הראל, עודד מנשה, רבקה זוהר",
+       "page": "",
+       "id": "--kaltura--1_wcmsvay8===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 13.11.2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/750696e0c09a42d38c370352e71f91f6/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k3h8ae7r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: דן שילון, הכל עובר חביבי, יאיר לפיד, עמיר פרץ, ענת מגן, רותם אבוהב, שלומית אהרון",
+       "page": "",
+       "id": "--kaltura--1_k3h8ae7r===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "עידן רייכל אצל יאיר לפיד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87be32da4eb94a0db5d1942efdf84e88/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ty3bs6vr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: בועז שרעבי, דין דין אביב, יאיר לפיד, ילנה ראלף, עידן רייכל, שחר אבן-חן, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_ty3bs6vr===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 02.01.2002",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8a8e313026a4848a2b7d82435f6ea50/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kiopbwkt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אדיר מילר, יואב קריים, נסים סרוסי, נתן זהבי",
+       "page": "",
+       "id": "--kaltura--1_kiopbwkt===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 30.11.2000",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba9bb9ccbdee4b22a62ba52e0c6bdf04/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9bkmbujp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: בנות פסיה, שמעון פרס, סלימאן אל-שאפעי, אלי יצפאן, צביקה פיק",
+       "page": "",
+       "id": "--kaltura--1_9bkmbujp===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "אורי זוהר אצל יאיר לפיד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/333a5892975e4a30bbe961768b67ba84/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ewzye0tl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: קרן לייבוביץ', אורי זוהר, צביקה הדר, דיקלה",
+       "page": "",
+       "id": "--kaltura--1_ewzye0tl===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "שלמה ארצי אצל יאיר לפיד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5260d9c689b048079d3dc83df6e94a5a/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dtxfirql/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: שלמה ארצי, יצחק קלפטר, בצלאל אלוני, אבי קושניר",
+       "page": "",
+       "id": "--kaltura--1_dtxfirql===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "אריק אינשטיין בריאיון טלוויזיוני נדיר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e03f3cf19d1f4d549d4f97d333d4257e/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3oe2kedo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "אריק איינשטיין מתארח אצל יאיר לפיד לראיון טלוויזיוני נדיר",
+       "page": "",
+       "id": "--kaltura--1_3oe2kedo===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 26.10.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/88b2c2b7ca8244298826fe39b86b7acc/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jphipz19/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אלי יצפאן, ארז שלם, יאיר לפיד, שלום אסייג, שלמה ארצי",
+       "page": "",
+       "id": "--kaltura--1_jphipz19===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 07.06.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c71ffe9d0504d6082be27784f0eed34/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x6i8p1k1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: יאיר לפיד, יעקב כהן, מאיה בוסקילה, עדי אשכנזי, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_x6i8p1k1===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 17.05.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a9f2ef0689354378ba0305d95c488360/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q59xg1xz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: יאיר לפיד, מירי בוהדנה, עדי אשכנזי, קובי אוז, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_q59xg1xz===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד מארח את \"השרוף\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2cb3fa66c394482ab05e8b5d7ef4e673/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xqcv6i85/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: השרוף (חיים צינוביץ), אלי יצפאן מאיר סויסה, יאיר קליין",
+       "page": "",
+       "id": "--kaltura--1_xqcv6i85===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 27/06/2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a206ad6d94d24d1ebcb4b21fdbd55d25/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yoxeg2pl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אבי קושניר, אביב גפן, אלי האנה, אסי ישראלוף, גלית גוטמן, דודו טופז, דני סנדרסון, הילה נחשון, חיים רביבו, חנה לסלאו, יאיר לפיד, יהודה לוי, יונית לוי, מירי מסיקה, נינט טייב, עדי אשכנזי, ענת מגן, ציון ברוך, קרן מור, רותם אבוהב, שלום אסייג, שלום מיכאלשוילי, תיקי דיין",
+       "page": "",
+       "id": "--kaltura--1_yoxeg2pl===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 06/06/2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4d98907222644ab92177554f97f540d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6fv6wki2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אבי קושניר, אביב גפן, אסי ישראלוף, גלית גוטמן, דודו טופז, דין דין אביב, הילה נחשון, חנה לסלאו, יאיר לפיד, יהודה לוי, יונית לוי, מירי מסיקה, נינט טייב, עדי אשכנזי, עמיר לוסטיג, ענת מגן, ציון ברוך, ציפי שביט, קרן מור, רותם אבוהב, שחר פאר, שלום אסייג, שלום מיכאלשוילי, תיקי דיין",
+       "page": "",
+       "id": "--kaltura--1_6fv6wki2===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "ביבי נתניהו מתארח אצל יאיר לפיד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a670beabdc94e578778e62488aad1a3/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_txuhta67/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אילנית לוי, דיויד ברוזה, יאיר לפיד, מירי בוהדנה, ענת מגן, רותם אבוהב, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_txuhta67===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 27/03/2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e3a518906804c5d9ac64b442585e10b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_je6v4zjb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אריק זילברמן, גורי אלפי, יאיר לפיד, ליאור שליין, נתן זהבי, עינב גלילי, עלמה זק, ענת מגן, רבקה מיכאלי, רותם אבוהב, רמי ורד, שלום אסייג, שלומי שבת",
+       "page": "",
+       "id": "--kaltura--1_je6v4zjb===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 30/05/2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/75ba7940b37b41fdb7dd2e400a107425/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h93ckkb2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: ארז טל, יאיר לפיד, יעל גולדמן, מירי מסיקה, ענת מגן, קובי אוז, רותם אבוהב, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_h93ckkb2===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 20/11/2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/123cc0a5b04b4f789c8a34005a3ee9e9/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ir3rjxd0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אלי מויאל, גורי אלפי, יאיר לפיד, יונתן ברק, מירי בוהדנה, סבלימינל והצל, ענת מגן, רותם אבוהב",
+       "page": "",
+       "id": "--kaltura--1_ir3rjxd0===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 05/03/2007",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6141deda8d7449c68f5dd9ea18ff7460/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x6je3squ/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אדיר מילר, אלי יצפאן, חנה לסלאו, יאיר לפיד, יונתן ברק, יעקב כהן, ישראל קטורזה, ליטל שוורץ, עדי אשכנזי, ענת מגן, ציפי שביט, רותם אבוהב, רמי ורד",
+       "page": "",
+       "id": "--kaltura--1_x6je3squ===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 16/01/2006",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3ba1fd74b31f4cf99883b81d97fdb674/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_86g4j2hp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אדיר מילר, אילת זורר, גורי אלפי, יאיר לפיד, יגאל בשן, ליאור שליין, עינב גלילי, ענת מגן, רותם אבוהב, רמי הויברגר, רפי גינת, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_86g4j2hp===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 07/11/2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/68af2391b27f415cbb658fb72677f95b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ppnsrkmp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: יאיר לפיד, אריאל אריק שרון, שלום אסייג, פליקס שלומוביץ', יהודה סעדו, יעל בר זהר, גיא זוארץ, רותם אבוהב, ענת מגן שבו",
+       "page": "",
+       "id": "--kaltura--1_ppnsrkmp===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 08/02/2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/941e43d701194f6caab15ad68ef45763/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ixmp1yc8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אדיר מילר, אהוד מנור, אריאל זילבר, בועז שרעבי, הראל מויאל, יאיר לפיד, לינור אברג'יל, שחר אבן-חן, שלום אסייג, שמעון בוסקילה",
+       "page": "",
+       "id": "--kaltura--1_ixmp1yc8===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 02/11/2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73289919f14440a6b2b6d861a4418ecf/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b6bemkc8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: ארז שלם, ארקדי דוכין, טל פרידמן, יאיר לפיד, שולי רנד, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_b6bemkc8===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד מארח את אביב גפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f56c0189bb4a411aac2303f71fb9c060/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_arg9x6t6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אדיר מילר, יאיר לפיד, יגאל שילון, צביקה פיק, ציפי שביט",
+       "page": "",
+       "id": "--kaltura--1_arg9x6t6===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 14/06/2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6bd9a8a7ff94af2a295b87bbe13cbf7/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e6kwlfkf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אסנת וישינסקי, יאיר לפיד, יהונתן גפן, יעקב כהן, ירון לונדון, ישראל קטורזה, מוטי קירשנבאום, מורן אייזנשטיין, עדי אשכנזי, ציפי שביט, רמי קליינשטיין, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_e6kwlfkf===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 08/07/2003",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32bcdc51e9ff4b83ab42427d058bf0c9/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y5twe8ik/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: דינה אור, יאיר לפיד, ליאור שליין, סאאב עריקת, עדי אשכנזי, ענבל גבריאלי, רפי גינת",
+       "page": "",
+       "id": "--kaltura--1_y5twe8ik===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "יאיר לפיד - 03/06/2003",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a976db1c74e54faebb92e072d034b5be/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kcoudc7d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אהוד מנור, יאיר לפיד, ירדנה ארזי, ליאור שליין, ניר קלינגר, עדי אשכנזי, צביקה הדר",
+       "page": "",
+       "id": "--kaltura--1_kcoudc7d===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 19.6.2002",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/31fcdae40d3b4c03afc87a23315c4558/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c9wg9z51/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: \nאדיר מילר, אתניקס - זאב נחמה, יואב יצחק, שביט ציפי, שלומי שבת",
+       "page": "",
+       "id": "--kaltura--1_c9wg9z51===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 19.12.2001",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5723a52470734f57b5dafa243a76f8e8/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d7k4t7vw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אבי גרייניק, עידן אלתרמן, רמי ורד",
+       "page": "",
+       "id": "--kaltura--1_d7k4t7vw===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 22.5.2002",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ed0b3877b2c4e34bc07ca933b03b59b/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o2c4z7kk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אדיר מילר, ג'וליאנו מר, יגאל שילון, שימי תבורי",
+       "page": "",
+       "id": "--kaltura--1_o2c4z7kk===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 30.1.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0109b99f7e524f17b72afc2d9bf0e581/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mgk4j8cq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: אדיר מילר, טיפקס, קובי אוז",
+       "page": "",
+       "id": "--kaltura--1_mgk4j8cq===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 21.1.2003",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7865099b96e94d69bea4fd38e1fb36de/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ask7rh6s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר. והפעם: אריה שריקי, יאיר לפיד, ליאור שליין, עדי אשכנזי, ריטה",
+       "page": "",
+       "id": "--kaltura--1_ask7rh6s===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 15.12.2003",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d68093c8236b414e8f311b6aa03c46b9/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_66z72om5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר. והפעם: אורלי וינרמן, עדי אשכנזי",
+       "page": "",
+       "id": "--kaltura--1_66z72om5===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 2.2.2004",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/24c903c656df4d13beaeb1cc570d77c6/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lyptqe71/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: איל פלד, יאיר לפיד, מאיר בנאי, עדי אשכנזי, שלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_lyptqe71===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 1.5.2005",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/10bf935cfd5b4487afa00c1b169843dd/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9ubqfbmx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד בפרק לקט.\nמשתתפים: אלי יצפאן, אלי פיניש, אסי כהן, אריאל זילבר, בועז שרעבי, הראל מויאל, חנה לסלאו, יאיר לפיד, מנחם הורוביץ, רלף קליין, שמעון בוסקילה",
+       "page": "",
+       "id": "--kaltura--1_9ubqfbmx===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 17.12.2002",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d66dad8afba4c35a48ebbe7dbe8a0af/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9udsmum8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: עדי אשכנזי, יונית לוי",
+       "page": "",
+       "id": "--kaltura--1_9udsmum8===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 13.4.2000",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fb9cdfb734c840feb218ed7b16d4da89/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_01j34wmx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: דורון שפר, ירדן בר כוכבא",
+       "page": "",
+       "id": "--kaltura--1_01j34wmx===",
+       "season": "כל העונות"
+      },
+      {
+       "name": "תוכנית הראיונות האייקונית של יאיר לפיד - 23.03.2000",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/53c15eeaa2b34246836791de93393441/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gbk0xeba/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-05",
+       "plot": "תוכנית הראיונות האייקונית והוותיקה בהנחייתו של יאיר לפיד. והפעם: דנה אינטרנשיונל, עומר פארוק טקבילק, ירדן בר כוכבא, עינת ארליך",
+       "page": "",
+       "id": "--kaltura--1_gbk0xeba===",
+       "season": "כל העונות"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

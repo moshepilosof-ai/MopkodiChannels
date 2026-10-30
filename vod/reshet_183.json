@@ -1,0 +1,151 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - קטמנדו",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "183",
+   "series_id": "183",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/de4ad7ee08dd472bb6fb4b05ca0a35ad/version/9/width/800/height/1200/quality/90",
+   "plot": "שמוליק (מיכאל מושונוב) ומושקי (ניצן לברטובסקי) הם זוג חב\"דניקים הנוסעים לשליחות בנפאל להקים שם לראשונה את בית חב\"ד. הסדרה עוקבת אחר הזוג ודמויות נוספות בהתמודדויות שלהם והחוויות שיחוו.",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קטמנדו פרק 4 | הזמנה לחתונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/61f1d48dac8a4eadad8d684e00264b6a/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_egbuaqui/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חתונה יהודית ראשונה בקטמנדו. אז ממה מודאגת מושקי? הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_egbuaqui===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 2 | מעבדות לחירות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4cd6086914cc45149ff5954d2a1473a1/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ujhqk7rr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מושקי עובדת קשה לקראת החג אך שמוליק עדיין במעצר.האם תצליח לחגוג את הסדר?",
+       "page": "",
+       "id": "--kaltura--1_ujhqk7rr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 3 | אחותי שלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d72789a477047cc93dcacd0ace29bb4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_afq95b7z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ימית התרמילאית היפה מגיעה לקטמנדו כדי לחפש את אחותה שעקבותיה אבדו במזרח",
+       "page": "",
+       "id": "--kaltura--1_afq95b7z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 6 | בשורה רעה בקטמנדו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83cad9c0075a44a3b31e48f4ccb95903/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ct2jlbmu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כיצד אלון יתמודד עם ההודעה על מות אביו? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_ct2jlbmu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 5 | קטמנדו הדרך ארוכה ומפותלת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/54c2caffe8524df6acb387a55d898678/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j1wqwu3k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה שמוליק ותומר עושים בהרי ההימלאיה? וכיצד תסתדר מושקי בלעדיהם?",
+       "page": "",
+       "id": "--kaltura--1_j1wqwu3k===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 1 | ברוכים הבאים לקטמנדו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff66857f1785435191cf98f43ecdb1f4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vp8zsa9o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כיצד קיבלו הנפאליים את זוג החב\"דניקים שמוליק ומושקי?",
+       "page": "",
+       "id": "--kaltura--1_vp8zsa9o===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 10 | הדרך אל הכפר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d2899187ff646c9b9b94f6cd2993a46/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ybpnj2h9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מושקי נוחתת בארץ יום לפני החתונה של דיני.",
+       "page": "",
+       "id": "--kaltura--1_ybpnj2h9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 11 | האהבה איננה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05cd438d03ee484187aaa49dde908100/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1ers3jhl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שמוליק מודאג מחזרתה של מושקי.",
+       "page": "",
+       "id": "--kaltura--1_1ers3jhl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 7 | הסיפור מסתבך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f4fb524715d46d3b0c50e5b29ff4578/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jjjqs5r8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "במה הסתבך שמוליק?",
+       "page": "",
+       "id": "--kaltura--1_jjjqs5r8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 8 | מי נהר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56d389285cfd417abef78b52a2d8d66c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kcilogwa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מושקי נחושה בדעתה לצאת לטבול בנהר למרות העוצר.",
+       "page": "",
+       "id": "--kaltura--1_kcilogwa===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 9 | מבצע מושקי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bcb7ae97dd44c7098426e0c080a76e6/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n0crgzj6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "האם מושקי תצליח לעלות לטיסה לישראל?",
+       "page": "",
+       "id": "--kaltura--1_n0crgzj6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 12 | סימני שאלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7dbd7ac389804d998670887fb0fb9a5a/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w492v805/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "שמוליק מגלה מה קרה למושקי בישראל.",
+       "page": "",
+       "id": "--kaltura--1_w492v805===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קטמנדו פרק 13 | קהילת קודש בקטמנדו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0732d0fb9357401fbe7478237270f368/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mzuatt00/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "שמוליק ומושקי מנסים להשלים את משימתם האחרונה בקטמנדו. הפרק האחרון לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_mzuatt00===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

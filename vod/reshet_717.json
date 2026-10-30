@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אופים השניים - מיקי שמו וקרן אגם",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "717",
+   "series_id": "717",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc49b23c1ab04bed823b8352ea57fba3/version/0/width/800/height/1200/quality/90",
+   "plot": "מיקי שמו, עם הדיוק והסטנדרטים של עולם הקונדיטוריה, וקרן אגם, עם הטריקים וקיצורי הדרך במטבח, מאחדים כוחות. בכל פרק הם יכינו שלוש מנות שוות וקלות להכנה סביב נושא מתחלף",
+   "updated": "2026-10-31 00:05",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אופים השניים, פרק 9: חגיגת שוק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/363eca1bee4245498e50672fa1ecdbf5/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e7w3p81q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_e7w3p81q===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אופים השניים, פרק 8: מאפי גבינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd2101a52fac43789fa884ca9a9c6cf9/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m7vj03kt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-02-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_m7vj03kt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אופים השניים, פרק 7: מתכוני חורף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a741b2a2bbd541f091dc84b899e4bdce/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j4wtq5yq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_j4wtq5yq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אופים השניים, פרק 5: שוקולד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f86d423800c34fe2820abe933e8b84fc/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tuewi81k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_tuewi81k===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אופים השניים, פרק 2: בעקבות ההשראה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6a8d9bbc8d44f47b15eec945d4e5f80/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9jryud1n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9jryud1n===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אופים השניים, פרק 6: לחמים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c8ec23229034779bdc9d7fa2ca4b6a6/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xvjvbxnv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xvjvbxnv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אופים השניים, פרק 4: קינוחים מהילדות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1c14b5ccbd3b43ca9d8f4576203feaff/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qj3cc3oe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qj3cc3oe===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אופים השניים, פרק 1: ההצלחות הגדולות שלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/03148c98c47647bebded58176d31d2f2/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ccczmdmg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ccczmdmg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אופים השניים, פרק 3: תחילת הדרך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c5d42fe15924c8f8a8d8cc2e230d960/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eemr0ij7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_eemr0ij7===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

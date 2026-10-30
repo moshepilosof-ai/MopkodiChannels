@@ -1,0 +1,51 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אם וכאשר",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "460",
+   "series_id": "460",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1ed4d4bc38b46709b6260d14ace2988/version/2/width/800/height/1200/quality/90",
+   "plot": "אם וכאשר לצפייה ישירה - סיפור אהבה רומנטי בין רווקה ותיקה לבין גרוש טרי, הנקרע בינה לבין בתו הקטנה. עם נדב נייטס, מעיין אשכנזי, בן פרי ורמה מסינגר. בימוי ערן בן יעקב.",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אם וכאשר, עונה 1, פרק 2: \"הלב הוא כלב שוטה\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16856cc6343948fbb28f85894ff6b39d/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8p9ted5v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "נמרוד וגל מנסים להתגבר האחד על השניה. בעצת בן דודו המצחיק, מנסה נמרוד לשקוע בחיי העיר בזמן שגל מחכה לו. האם יישבר ויתקשר אליה כשיגיע יום הולדתה?",
+       "page": "",
+       "id": "--kaltura--1_8p9ted5v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אם וכאשר, עונה 1, פרק 3: \"הפסגות והמצולות\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92c429ade5b74edc892fb593dba6588f/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gmvlkwe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "שנה אחרי הפרידה, מגיע נמרוד סוף סוף אל מדרגות הרבנות ומקבל גט רשמי. אפילו בתו כבר מוכנה לראות אותו עם אישה אחרת, אבל האם גל עדיין פנויה? עדיין רוצה? עדיין מחכה לו?",
+       "page": "",
+       "id": "--kaltura--1_7gmvlkwe===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אם וכאשר, עונה 1, פרק 1: \"אוהב אותך הכי בעולם\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/271443393415426ba162ed7a32efc013/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1kllp70i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "נמרוד, פרוד טרי שאישתו בגדה בו, פוגש את גל, רווקה ותיקה, לסיפור אהבה שמתלקח מהר אבל נתקל בקושי גדול, בזמן שבתו של הגיבור, סגול בת התשע, טרם עיכלה את פרידת הוריה. גל ונמרוד מחליטים להיפרד ולנסות שוב, מתישהו בעתיד, \"אם וכאשר\", יהיו שניהם פנויים.",
+       "page": "",
+       "id": "--kaltura--1_1kllp70i===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מלחמת המינים",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "201",
+   "series_id": "201",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9535dc3c38f244119cac3567db04efcf/version/11/width/800/height/1200/quality/90",
+   "plot": "תוכנית בידור קומית ישראלית, בהנחייתם של שלום אסייג וליטל שוורץ ובהשתתפות קומיקאים נוספים",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 12: ספיישל חלומות!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/02aa5e03e7e54431bd67279b2f16f9c4/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_otcbmvpl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה גברים רוצים ומה נשים רוצות? בעיקר לחלום!",
+       "page": "",
+       "id": "--kaltura--1_otcbmvpl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 15: מסיבת רווקים!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/542d7ffcef584beca0a122e22e858e3a/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f4yr4ezm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לא ברור מה חוגגים, אבל תמיד כיף לחגוג",
+       "page": "",
+       "id": "--kaltura--1_f4yr4ezm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 16: הכי חם שיש!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d3cf130f47014d9a85ef70e2ba380d4a/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9gxuuvp8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חום אימים בחוץ, הזמן המושלם למהדורת קיץ!",
+       "page": "",
+       "id": "--kaltura--1_9gxuuvp8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 17: סיימנו!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/354a7f5efe874feabb032ff83b7391d5/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9ybabcwy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מלחמת המינים סיימה עונה ראשונה! היכנסו אל מאחורי הקלעים",
+       "page": "",
+       "id": "--kaltura--1_9ybabcwy===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 13: מלחמת החמות!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d11f92f644ee4f2888770eef0512758a/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rgzp7jjx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הפאנל שלנו דן בנושא המשפחתי החם ביותר – החמות",
+       "page": "",
+       "id": "--kaltura--1_rgzp7jjx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 14: הבנות על הבנים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5169bcb6608344aeaa632e5b05aaedd4/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bv7h560r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הפאנל שלנו בפרק מטורף עם הכל מהכל!",
+       "page": "",
+       "id": "--kaltura--1_bv7h560r===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, פרק 11: עולם הדייטים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59550f01814d445f91538e675314d849/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0424aleu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בן לוקח בת או בת לוקחת בן? עולם הדייטים מבלבל כל כך!",
+       "page": "",
+       "id": "--kaltura--1_0424aleu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 3: הוא והיא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/97f843a600c346df9ebb0d22e014d837/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hngtk9iv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מנסים למצוא פתרון הולם למלחמת המינים, אבל לא נשארים חייבים למין השני!",
+       "page": "",
+       "id": "--kaltura--1_hngtk9iv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 6: ספיישל הורים עייפים!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34e1d6fa53d24929a86ddf07beee695a/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5je9mesl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אין כמו לסיים ארוחה טובה של שישי, לשלוח את הילדים למיטה ואז לצחוק עליהם",
+       "page": "",
+       "id": "--kaltura--1_5je9mesl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 5: לא לגזענות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/913ba001d3bd459b80fe95e443836115/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lurmsc20/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עוצרים לרגע את כל המלחמות בין גברים ונשים, כדי לצחוק על כל הגזענים",
+       "page": "",
+       "id": "--kaltura--1_lurmsc20===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 4: זוגיות חדשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32e16f9b481d4b3db32d34b7d058cb44/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uh6dda0b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה אפשר לעשות כשהזוגיות שלכם פשוט נכשלת? לצחוק על זה כמובן",
+       "page": "",
+       "id": "--kaltura--1_uh6dda0b===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 2: זוגות שעובדים ביחד!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a408491c757e489a8444ebe350c5b5c3/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9e4n85yb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסכסוך העתיק בעולם עולה שלב במלחמת המינים",
+       "page": "",
+       "id": "--kaltura--1_9e4n85yb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 10: היי שלום, רווקות מתוקה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4eba877974e046b6bcbc30d222572fc9/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ar7thags/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מי הורה יותר טוב, ולמי עדיף להישאר רווק?",
+       "page": "",
+       "id": "--kaltura--1_ar7thags===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 8: מיטב הקרבות!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6e9931520c4641358c3f51dd854ca76f/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3jlludyk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נבחרת הבנים מול נבחרת הבנות – מי מוביל בינתיים?",
+       "page": "",
+       "id": "--kaltura--1_3jlludyk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 9: עונת החתונות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c9885bbf6ee4ab4aa38126ddca1da79/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dklrikig/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עונת החתונות בפתח וזה זמן מצוין להוציא את פנקס הצ'קים ולסגור חשבון",
+       "page": "",
+       "id": "--kaltura--1_dklrikig===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלחמת המינים, עונה 1, פרק 7: גבר אמיתי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da39cc963c88429e985cf96149f06658/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yqdumgj3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גברים אוהבים לשחק כדורגל ונשים אוהבות לשחק אותה מבינות בכדורגל",
+       "page": "",
+       "id": "--kaltura--1_yqdumgj3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 1: יוצאים לדרך!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39f0a7b0b0e8430fb41718197b38e3a5/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_thjge07c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הגברים מול הנשים בתחרות סטנדאפ שצוחקת על כל מה שבינו לבינה",
+       "page": "",
+       "id": "--kaltura--1_thjge07c===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

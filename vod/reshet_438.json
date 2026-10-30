@@ -1,0 +1,151 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - ויקי ואני",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "438",
+   "series_id": "438",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a6d74a1ea6b84145bc3717cda151f08c/version/1/width/800/height/1200/quality/90",
+   "plot": "חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה שמתפרנס מכתיבת הספדים. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש,  בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר ואיתי זבולון",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ויקי ואני, עונה 1, פרק 13: ראש הממשלה הבא?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63d83375b51b44d7a070486716d39a5e/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sbjp4fir/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_sbjp4fir===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 12: מגורשת!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8bfd8caba07e4c32b4ffc161f74865b1/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m1vi3upl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_m1vi3upl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 11: אהבה באוויר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/933db680b83c457e8234a781b71c181f/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sbaia0ze/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_sbaia0ze===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 10: שידוכים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c0f4dbfe54ff45b48f801bc8b85ea134/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fx99kjcz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_fx99kjcz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 9: הבגידה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b7f944901955492383b5fb6b53819242/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j2few3t0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "סדרה קומית חדשה בכיכובה של מגי אזרזר שמגלמת את ויקי זערור, חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה שמתפרנס מכתיבת הספדים. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש,  בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_j2few3t0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 8: נפלה ברשת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f08e17a706cf4d2480682b094de051e8/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9c2xazye/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_9c2xazye===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 7: מחבל בתל אביב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/644206ea506e41d9b0d447cd08b1ff5d/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f53u4n2x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_f53u4n2x===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 6: חברה לעת צרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/100242e8a211466aab2c9a4e00c7f6ba/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2jqhj3kz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_2jqhj3kz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 5: נקמה מתוקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fb742bbd489d4093889eae63e30c9a25/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x6hqe3x3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_x6hqe3x3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 4: מלחמה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6021a904b44947ed85279ae906a6619a/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rz6j8ynd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_rz6j8ynd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 3: ביקור היסטורי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27082d2385be4f5b9cb447cfb6b049b4/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e7zkfijr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_e7zkfijr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 2: המורה של המדינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c39144a8e1e74cac880a4878566c357f/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w0f0qb3b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_w0f0qb3b===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ויקי ואני, עונה 1, פרק 1: דגם ודוגמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f4cebaf90f1415abaec680c6d26e2eb/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uhsdme80/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "ויקי זערור היא חברת כנסת צעירה ומוטרפת שפוגשת את דדי מתוקי, כותב נאומים מבריק ומשונה. למרות הפערים הגדולים ביניהם יוצאים ויקי ודדי למסע סוער, מצחיק ומשובש, בדרך לכיבוש פסגת הפוליטיקה הישראלית. משתתפים: מגי אזרזר, איתי זבולון, עינת שרוף ואבי דנגור",
+       "page": "",
+       "id": "--kaltura--1_uhsdme80===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

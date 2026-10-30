@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ערוץ 9 - Еврейская энциклопедия",
+   "type": "vod",
+   "source": "9tv",
+   "program_url": "6a74f491337185a605e9b1dd",
+   "series_id": "6a74f491337185a605e9b1dd",
+   "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/7da84f2f-a86b-4f65-87ba-c76cac56eb40.jpeg",
+   "plot": "Программа 9 Канала",
+   "updated": "2026-10-31 00:06",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "РОШ ХА-ШАНА: НОВЫЙ ГОД МИРА, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 24/09/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/cfddf19f-d7cf-491c-9ccb-2fccc7348ce7.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/c9f4ec1f-4e18-4350-96cc-9c9ae523d7d2/hls/master.m3u8",
+       "date": "2025-09-24",
+       "plot": "Череда осенних праздников – это особый период в еврейском календаре.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/c9f4ec1f-4e18-4350-96cc-9c9ae523d7d2/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЙОМ-КИПУР: СУББОТА СУББОТ, ЕВРЕЙСКАЯ ЭКНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 01/10/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/78e32219-e04a-4170-af88-c892d47af7a8.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/587474fe-bd6b-4909-8e3f-c43193495abb/hls/master.m3u8",
+       "date": "2025-10-01",
+       "plot": "На очереди в нашем календаре Йом-кипур, Суббота суббот или Судный день. Тут конечно уместен вопрос – а разве может быть день суда праздником? Вопрос своевременный. О главном дне года для евреев в нашем сегодняшнем сюжете.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/587474fe-bd6b-4909-8e3f-c43193495abb/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "СУККОТ: ПРАЗДНИК КУЩЕЙ, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 07/10/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/8d8267e4-3de2-47b9-b531-82faeb451369.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/cc7517f1-869e-425c-aa72-59e3dcb80c2c/hls/master.m3u8",
+       "date": "2025-10-07",
+       "plot": "И вот он великолепный финал осенних праздников – Суккот. Один из самых фантастических праздников еврейского календаря, когда евреи переселяются в шалаши. Почему и зачем – подробности в нашем сюжете.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/cc7517f1-869e-425c-aa72-59e3dcb80c2c/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "КАШРУТ: ЖЕЛЕЗНЫЕ ПРАВИЛА, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 21/10/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/9f105d13-0d42-467c-9200-70cb341c8d47.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/36829a31-12d8-405d-ab06-944d127c92a4/hls/master.m3u8",
+       "date": "2025-10-21",
+       "plot": "Кашрут - одно из самых загадочных явлений в иудаизме.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/36829a31-12d8-405d-ab06-944d127c92a4/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "МОЛИТВА: ВАЖНЫЙ ДИАЛОГ, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 28/10/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/daaff086-7eed-4113-9aca-a6e26548c458.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/c25140ab-8b30-4bda-a172-6193c0ff369c/hls/master.m3u8",
+       "date": "2025-10-28",
+       "plot": "Молитва может быть личной, частной и общественной. Чем отличаются обращения к Б-гу, как евреи молятся и почему - сегодня поговорим об этом.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/c25140ab-8b30-4bda-a172-6193c0ff369c/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЗАКОНЫ МИЛОСЕРДИЯ: ПРАВА ЖИВОТНЫХ В ИУДАИЗМЕ, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 05/11/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/a48fc1b0-b9dc-4372-8b19-6f93747136cf.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/43c74bcc-57d2-40a9-943a-1ba4dd553a97/hls/master.m3u8",
+       "date": "2025-11-05",
+       "plot": "Права животных: минимум 2 тысячи лет назад в Земле Израиля было запрещено мучать животных – человек о них должен заботиться, оберегать и кормить.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/43c74bcc-57d2-40a9-943a-1ba4dd553a97/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "МУЗЫКА В ИУДАИЗМЕ: ОТ ХРАМА ДО НАШИХ ДНЕЙ, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 12/11/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/0de23178-f5b7-4ca8-9c98-6054f1f35860.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/160cedd1-2aa7-4c88-900d-5335853a78c3/hls/master.m3u8",
+       "date": "2025-11-12",
+       "plot": "Достаточно прислушаться и музыку можно услышать везде. В молитве, синагогальной службе и даже в городском шуме. Музыка - это часть еврейской философии. Еврей всегда поет. И это традиция не менее важная чем всё остальное. Об этом сегодня подробнее.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/160cedd1-2aa7-4c88-900d-5335853a78c3/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЗНАНИЯ КАК ФУНДАМЕНТ И БАЗА. ЕВРЕЙСКАЯ ЭНЦИКЛОПЕЦИЯ С БОРИСОМ ШТЕРНОМ - 19/11/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/af5529d8-ae90-4c86-8e98-aae395fbe277.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/7f59d370-6d05-40e7-afd3-e9f06393e7d4/hls/master.m3u8",
+       "date": "2025-11-19",
+       "plot": "Законы иудаизма, логика и гибкость Талмуда — всё это можно по-настоящему понять только в ешиве, специальном учебном заведении, куда приходит каждый религиозный подросток. Ешива — это школа, колледж и университет в одном флаконе. Она живёт по своим правилам и имеет многовековую историю. Сегодня это наша главная тема.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/7f59d370-6d05-40e7-afd3-e9f06393e7d4/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "СИСТЕМА ОБУЧЕНИЯ ОТРАБОТАННАЯ ТЫСЯЧЕЛЕТИЯМИ, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 25/11/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/16796dec-1f61-44c6-8910-3d1d50cbab99.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/de998f38-0551-4739-9880-d94b1cb705b7/hls/master.m3u8",
+       "date": "2025-11-25",
+       "plot": "Мы рассказываем о еврейской традиции, которая уже много тысячелетий является фундаментом народа Торы. И новая глава нашего проекта сделает это как нельзя лучше. Тем более, что сегодня мы побываем с вами на \"фабрике а идише копф\", одного из главных брендов государства Израиль.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/de998f38-0551-4739-9880-d94b1cb705b7/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТРАДИЦИОННАЯ ОДЕЖДА ЗАКОНЫ И МОДА, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 02/12/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/d506277a-7ca0-480b-ac01-d7b4443c38c2.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/4103998c-2e4a-4239-8532-a09a4b380b6f/hls/master.m3u8",
+       "date": "2025-12-02",
+       "plot": "Встречают всегда по одёжке — у евреев это работает так же, как и у других народов. С той лишь разницей, что иудаизм использует чёткие законы и правила, при этом не отрицая современную моду.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/4103998c-2e4a-4239-8532-a09a4b380b6f/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ВНЕШНИЙ ВИД ЧЕЛОВЕКА, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 10/12/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/79a249de-9910-4089-98ed-5734185e49de.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/29c2ec0b-160f-4937-b65e-098455008a60/hls/master.m3u8",
+       "date": "2025-12-10",
+       "plot": "Какая традиция заметнее всего на улице в Израиле – конечно это внешний вид. Еврейский мужчина бородат, а дама всегда в парике. «Бороды и парики» - сегодня это наша главная тема.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/29c2ec0b-160f-4937-b65e-098455008a60/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ХАНУКА, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕЦИЯ С БОРИСОМ ШТЕРНОМ - 24/12/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/27ddc890-b73c-4ba5-a502-f6063645f2fd.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/69449c43-6805-4dad-b6e4-7086136bd85e/hls/master.m3u8",
+       "date": "2025-12-24",
+       "plot": "Каждый год в 25-й день месяца кислев мир освещается миллионами огней на праздничных светильниках. Ханука - один из самых любимых и популярных праздников в Стране Израиля.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/69449c43-6805-4dad-b6e4-7086136bd85e/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЕВРЕЙСКАЯ СВАДЬБА: РАДОСТЬ И МИСТИКА, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 17/09/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/a2729ddc-66ef-45b2-8dc4-a47b657104dd.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/7911d0e5-9d4a-4f01-9c9d-ab37a06c23d7/hls/master.m3u8",
+       "date": "2025-09-17",
+       "plot": "Вся жизнь еврея строится вокруг семейных отношений, и именно они считаются фундаментом общества. «Мишпоха», семья – это бренд. А начинается всё, ну или почти всё с главного торжества в жизни еврея – свадьбы. Как евреи женятся и что для этого делают – тема нашего главного сюжета сегодня.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/7911d0e5-9d4a-4f01-9c9d-ab37a06c23d7/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ТАЛИТ: МИСТИЧЕСКАЯ ОДЕЖДА. ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 09/09/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/11355e3d-b163-4150-862f-fd35d18eb4f1.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/c77cc7c7-929b-4600-95e2-8d0c0bf5b203/hls/master.m3u8",
+       "date": "2025-09-09",
+       "plot": "У каждого народа есть национальная одежда. У евреев, в отличие от всех остальных, национальных одежд примерно столько же, сколько стран, в которых мы жили и живем. Но есть два элемента одежды, которые видны сразу. Это кипа и талит катан. И если с кипой – «ярмолкой» - всё более-менее понятно - это круглая шапочка в прямом смысле, то талит - это один из секретов еврейского костюма. О том, что же это такое мы вам и расскажем.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/c77cc7c7-929b-4600-95e2-8d0c0bf5b203/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЧТО ТАКОЕ ТФИЛИН. ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 02/09/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/f9360111-b34a-4772-a584-8678722cbd32.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/0e52e56e-57b8-4928-a6f1-1e3ff35b5275/hls/master.m3u8",
+       "date": "2025-09-02",
+       "plot": "Что такое тфилин?",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/0e52e56e-57b8-4928-a6f1-1e3ff35b5275/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ЧТО ТАКОЕ ТОРА. ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 26/08/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/4996a09e-1bc5-4cd1-91f5-6eeb6c82b4ac.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/df53dfe6-696a-4470-a0f8-b2c51c5a59c7/hls/master.m3u8",
+       "date": "2025-08-26",
+       "plot": "Что такое Тора?",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/df53dfe6-696a-4470-a0f8-b2c51c5a59c7/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Мезуза: заповедь и защита еврейского дома | Еврейская энциклопедия - 19/06/2018",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/edfbe204-6cde-47ca-a6e1-5ce5a24a38c5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/d1a01a0e-a263-4be1-8618-d00495463eeb/hls/master.m3u8",
+       "date": "2018-06-19",
+       "plot": "Что такое мезуза, как создают кошерный свиток, где его устанавливают и почему эта заповедь считается защитой еврейского дома.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/d1a01a0e-a263-4be1-8618-d00495463eeb/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Как стать евреем: гиюр | Еврейская энциклопедия - 19/06/2018",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/bab2655e-a0e3-4d3b-b3c3-da1f2feb4422.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/6057ca6d-922d-440b-b945-ca417dfeb8f7/hls/master.m3u8",
+       "date": "2018-06-19",
+       "plot": "Что такое гиюр, из каких этапов состоит переход в иудаизм и почему искренность намерений важнее происхождения.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/6057ca6d-922d-440b-b945-ca417dfeb8f7/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Иерусалимский храм | Еврейская энциклопедия - 01/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/66626898-4193-4d4d-9b04-98a8ab7fa4d3.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/308606f9-de39-4e8f-b452-530a5c84a077/hls/master.m3u8",
+       "date": "2026-10-01",
+       "plot": "История Первого и Второго Иерусалимских храмов, Храмовая гора и значение храма в еврейской традиции.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/308606f9-de39-4e8f-b452-530a5c84a077/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "МИКВА: ВОДА ОЧИЩЕНИЯ, ЕВРЕЙСКАЯ ЭНЦИКЛОПЕДИЯ С БОРИСОМ ШТЕРНОМ - 15/10/2025",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/c22d4248-6a18-4490-9a68-713fc9b522de.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/9d994f66-d790-4de9-859a-b9488c39bd34/hls/master.m3u8",
+       "date": "2025-10-15",
+       "plot": "Миква (ритуальный бассейн) - в буквальном переводе с иврита значит «скопление воды». Окунаться в микву одно из самых загадочных установлений иудаизма, обросшее в общественном сознании огромным количеством мифов и страшилок. И самое время разобраться подробнее, что же это такое и почему миква имеет такое большее значение в еврейском быту и в иудаизме.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/9d994f66-d790-4de9-859a-b9488c39bd34/hls/master.m3u8",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

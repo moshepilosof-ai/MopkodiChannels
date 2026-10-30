@@ -1,0 +1,261 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - המסעדה הבאה של ישראל",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "9",
+   "series_id": "9",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9129305e342f449cbb1657ca12e4181d/version/10/width/800/height/1200/quality/90",
+   "plot": "ריאליטי שכמותו עוד לא נעשה בטלוויזיה. בהשתתפות: השפים אסף גרניט, מושיק רוט ויוסי שטרית ואשת הקולינריה רותי רוסו",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 24: אירוע הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/46cbf003406341368520a1871f379af3/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gfa2h9sg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "40 מתמודדים הגיעו לאודישנים, 10 מסעדות נפתחו לקהל הרחב ושתי מסעדות הגיעו לגמר הגדול: \"ANAND\" של המורה רינת ינסמן ו-\"קילומטרז'\" של הטבח הוותיק עידן בושארי (\"פומפי\"). אז מי יקבל את המסעדה הבאה של ישראל? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gfa2h9sg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 23: חצי הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ff71050703840c4844c89ccab8bb2dd/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uddlx1eo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלב חצי הגמר הגיע, ולמתמודדים ניתנה משימה לא פשוטה כלל - לכתוב תפריט חדש לחלוטין. כל מתמודד בחר מנה מהתפריט החדש והגיש אותה לשופטים. על סמך התפריט החדש והמנה שהגיש, על השופטים משימה לא פשוטה גם כן - להחליט מי מהמתמודדים יקבלו את 2 כרטיסי הכניסה לגמר - ומי יסיים את דרכו בשלב חצי הגמר | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_uddlx1eo===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 20: מבחן המסעדה של אוהד לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/742cbbe728d44023bb4d3865ec64f464/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_afxv8cvf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אוהד הצליח לגרום לשופטים להאמין בו ולפתוח לו את מסעדת חלומותיו \"בוברסא\"' בדיוק במקום שבו הדרך הקולינרית שלו התחילה. האם יצליח להתמודד עם הלחץ של הביקורת של המנטור שלו - יונתן רושפלד? והאם ירשים את הסועדים, המשקיעים ויגרום לשופטים להעביר אותו לשלבי הגמר? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_afxv8cvf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 17: מבחן המסעדה של סוסון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb9d79028f634ac0a6e1049f77cbd1eb/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p0ouaawl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סוסון הרשים את השופטים עם האנרגיה שלו והאוכל הטעים והמושחת שהגיש. כעת, הוא עומד בפני מבחן המסעדה, בו הוא צריך להוכיח לשופטים שבחרו נכון ולהרשים את מבקר המסעדות, המשקיעים והסועדים, אך לא הכול מתנהל כמו שצריך. מה גרם לשופטים לסגור לסוסון את המסעדה עוד לפני סיום הסרוויסים? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_p0ouaawl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 18: אוכל נדיר בזמן בלתי סביר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47aec772495749cba228593c4a2df3d1/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gek64na/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרח ועלי רוצים לפתוח מסעדה של אוכל לבנוני אותנטי - אך אופן ההכנה המסורתי אורך הרבה זמן. מולם ניצבים מינור בן דוד - פיינליסטית \"משחקי השף\" שרוצה לפתוח מסעדה ניו-זילנדית ואוהד לוי שרוצה לפתוח מקום ים תיכוני. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_7gek64na===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 16: מי תהיה המסעדה השמינית שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6e8644b23d4a407a970d8ffb8439dd99/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rl83bauh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "4 מתחרים רוצים לזכות במסעדה משלהם כבר בסוף הפרק: ליאור לביא חולם על דיינר אמריקאי קיבוצי, תמי סירקיס חולמת על בר מרקים, דניאל גולן רוצה מסעדה מקסיקנית מרוקאית ומאי וישראל חולמים על מסעדה ישראלית. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rl83bauh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 15: מבחן המסעדה של דנה לי ברמן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db012860dc2945a89f50852d7f283d64/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zskqs8ce/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דנה לי הרשימה את השופטים עם אוכל איטלקי מדיוק וחזון שלם למסעדת חלומותיה. כעת, במבחן המסעדה, היא צריכה להוכיח לשופטים שבחרו נכון ולהרשים את מבקר המסעדות, המשקיעים והסועדים. מה יהיה הציון הסופי של דנה לי והאם היא תצליח להביא את כל הידע והניסיון שלה במטבחים לידי ביטוי ולעבור לשלבי הגמר? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zskqs8ce===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 14: מי תהיה המסעדה השביעית שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf14a0e338bf4c3ea4cf6cc718715d43/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2mi8jc7y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "4 מתחרים רוצים לזכות במסעדה משלהם כבר בסוף הפרק: אלחנן ברבי רוצה לפתוח מקום של בשרים, דנה-לי עם מטבח איטלקי אזורי, סוזן מסעודה רוצה לפתוח מקום של אוכל ביתי גורמה וגבריאל ישראל רוצה גסטרו בר אמריקאי. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2mi8jc7y===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 13: מבחן המסעדה של אלעזר טמנו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1cb328cd9f8d4373a202d33bd5e2afd1/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y690wavf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלעזר טמנו פתח את \"STUDIO GURSHA\" מסעדה שמביאה את התרבות האתיופית לקדמת הבמה. האם הוא יצליח להרשים את מבקר המסעדות, המשקיעים, הסועדים ואת השופטים? מה יהיה הציון הסופי של אלעזר - והאם יצליח להביא את האוכל האתיופי אל המיינסטרים? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_y690wavf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 12: מי תהיה המסעדה השישית שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a86dd48b5cbc41148e5f492bd7efaeec/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hmx8yv8y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "4 מתחרים רוצים לזכות במסעדה משלהם כבר בסוף הפרק: עמית חיה טוויטו מגישה מנות ים תיכוניות קוטור, אלעזר טמנו רוצה לפתוח מטבח אתיופי עדכני, אילנה ואלקנה מרציאנו רוצים לפתוח מסעדת אוכל ביתי פרסי וסתיו נווה רוצה להגיש אוכל צרפוקאי מוקפד. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hmx8yv8y===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 10: מי תהיה המסעדה החמישית שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/97ac2b7c2cec40eab8227a6a9c43b647/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_arnhbmih/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "4 מתחרים רוצים לזכות במסעדה משלהם כבר בסוף הפרק: רחלי וארז אלון רוצים לבשל אוכל של סבתא, גומא גלילי מעוניין לבשל אוכל ים תיכוני עילי, שני ירושלמי חולמת על מקום של קובות ובני כהן רוצה מסעדה שתקדש אוכל מקומי. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_arnhbmih===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 9: מבחן המסעדה של רינת ינסמן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8bb0c07f9aa44a99c61257d672a99d9/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jxy3p0qo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רינת הדהימה את השופטים בשלב האודישן והם החליטו לפתוח לה את מסעת ANAND. כעת, רינת צריכה להוכיח את עצמה במבחן המסעדה ולהרשים את השופטים, מבקר המסעדות, המשקיעים והסועדים. מה יהיה הציון הסופי של רינת - והאם למרות חוסר הניסיון שלה בניהול מטבח היא תעבור לשלבי הגמר? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_jxy3p0qo===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 8: מי תהיה המסעדה הרביעית שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a9223391020b4ed49bb8165a4fb5f825/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7u6sjpdz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאחר שבפרק הקודם קרלוס, רינת ואליהב הרשימו את השופטים ועברו לשלב ההחלטה הסופית, לורי דריבין רוצה גם היא לפתוח מסעדה ומציגה לשופטים קונספט של בית קפה אוסטרלי שמגיש בראנץ' יהודי ים תיכוני. למי מהם השופטים יחליטו לפתוח מסעדה? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_7u6sjpdz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 6: מבחן המסעדה של פומפי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c36546ea1fbe426c9893ef0c433c7ad9/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ocw5240p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פומפי הדהים את השופטים בשלב האודישן והם החליטו לפתוח לו את מסעדת חלומותיו \"קילומטרז'?\". כעת, פומפי צריך להוכיח את עצמו ולהרשים את מבקר המסעדות, את המשקיעים, את הסועדים וכמובן את השופטים. מה יהיה הציון הסופי שיקבל פומפי - והאם יעלה לחצי הגמר? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ocw5240p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 7: המורה שעשתה לשפים בית ספר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d4fca9c841b84ff7b28bdc95905505a5/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vzd2xld9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רינת ינסמן היא מחנכת כיתה א' שרוצה לפתוח מקום של אוכל הודי מסורתי. מולה ניצבים קרלוס סלמון, בוגר \"משחקי השף\", שרוצה לפתוח מסעדה מרכז-דרום אמריקאית שורשית ואליאב ששון שרוצה לשלב את המטבח המרוקאי עם המטבח האסייתי. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_vzd2xld9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 4: מבחן הלייב של שחר ואורן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/062b7c86042948d4881d1d72cd74fa2f/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ddquvzok/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שחר ואורן עברו את שלב האודישן בהצלחה גדולה והשופטים בחרו לפתוח להם את \"פינת סין\", אך ברגע האמת, הם גילו שניהול המסעדה והמטבח הרבה יותר מאתגרים ממה שחשבו. במהלך השבוע הגיעו למסעדה סועדים רבים, השופטים ומבקר המסעדות יונתן רושפלד. מה יהיה הציון שיקבלו שחר ואורן - והאם הם יעלו לחצי הגמר? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ddquvzok===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 3: מי תהיה המסעדה השנייה שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0342e7ba11ab43d7838242cf63a3a14e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f0z04t2f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "4 מתחרים רוצים לזכות במסעדה משלהם כבר בסוף הפרק: לימור טאובה עם בר מסעדה לרווקים ולרווקות, איילון חג'ג' שרוצה לתת כבוד לדגים, איילת נחמיאס ורבין מביאה אוכל יווני סלוניקאי, ושחר ואורן, בני הזוג שרוצים להביא מטבח סיני חדש. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_f0z04t2f===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 2: מבחן הלייב של לי מלילי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5021fb4d40fe49069dd9e19cbd9c8d94/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bllj0d9v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי שהשופטים התאהבו בה ופתחו לה את מסעדת \"תאי טה\", לי מלילי צריכה להוכיח שהיא טובה גם במבחן הלייב. במהלך השבוע הגיעו למסעדה סועדים רבים, השופטים ומבקר המסעדות יונתן רושפלד. מה יהיה הציון שלי תקבל - והאם היא תעלה לחצי הגמר? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_bllj0d9v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 1: ערב הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dd0988e861ee4ed7b6633d927eaa56fb/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lor5uzh7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "4 מתמודדים רוצים לפתוח מסעדה משלהם כבר בסוף הפרק: לי מלילי עם מסעדה תאילנדית כפרית, לוקץ' וחבריו רוצים להגיש אוכל מטוגן ומושחת, דוד שושן הביא את המטבח האיטלקי הקלאסי - ואביבה אבידן רוצה לפתוח טברנה ירושלמית. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lor5uzh7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 19: מי תהיה המסעדה התשיעית שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/18d551a2e41046e1a067d0ca37a870eb/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6pdgspnu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "לאחר שבפרק הקודם פרח ועלי ואוהד לוי הרשימו את השופטים ועברו לשלב ההחלטה הסופית, תמר שוורצברד רוצה גם היא לפתוח מסעדה ומציגה לשופטים קונספט של מסעדה עם אוכל שמשתנה בכל יום. למי מהם השופטים יחליטו לפתוח מסעדה? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6pdgspnu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 21: מי תהיה המסעדה העשירית והאחרונה שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1aa9028927f44554b81f95b5c63d4f37/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vlffdi02/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "4 מתחרים רוצים לזכות במסעדה משלהם כבר בסוף הפרק: ליאור אוחיון חולמת על בר פריזאי, אסף ורוני רוצים מקום של קרואסונים, עומרי זקהיים רוצה מקום איטלקי ים תיכוני וצח ניני חולם על בר טורקי טריפולטאי. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_vlffdi02===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 5: מי תהיה המסעדה השלישית שתיפתח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbf6ad94ad204d979877e888368914cf/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4ln0pta9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "4 מתחרים רוצים לזכות במסעדה משלהם כבר בסוף הפרק: נטע דנינו רוצה לפתוח מסעדה מרוקאית, נדב אזולאי רוצה לבשל אוכל מהלב, עדי והודיה רוצות לפתוח פוד-טראק עם פיצות ים תיכוניות ועידן בושארי רוצה לבשל אוכל ישראלי מגוון ולשלב נוער בסיכון. במי השופטים יבחרו? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_4ln0pta9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 11: מבחן המסעדה של בני כהן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/efdf230e68e04024a06eae5211f75759/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qzgeigy5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "בני ריגש את השופטים באודישן שלו והם החליטו לפתוח לו את מסעדת 100km. כעת, הוא צריך להוכיח את עצמו במבחן המסעדה ולהרשים את השופטים, מבקר המסעדות, המשקיעים והסועדים. מה יהיה הציון הסופי של בני והאם הניסיון הרב שלו בניהול מטבחים יעזור לו לעבור לשלבי הגמר? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_qzgeigy5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסעדה הבאה של ישראל, עונה 1, פרק 22: מבחן המסעדה של צח ניני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea6384f6b4204408aeff64b15c50647a/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_antkiemc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "צח ניני הצליח לגרום לשופטים להאמין בו ולפתוח לו את מסעדת חלומותיו \"בובה\" - מקום שמקדש את האוכל הטורקי והטריפולטאי של סבתו. מה יחשבו הסועדים, מבקר המסעדות והמשקיעים - והאם יצליח להרשים את השופטים ולגרום להם להעביר אותו לחצי הגמר? | המסעדה הבאה של ישראל, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_antkiemc===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

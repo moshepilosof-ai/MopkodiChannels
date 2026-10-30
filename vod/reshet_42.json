@@ -1,0 +1,71 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - לעוף על המיליון",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "42",
+   "series_id": "42",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b52403d3cc54a20b2ed76c73167c16c/version/10/width/800/height/1200/quality/90",
+   "plot": "שעשועון טלוויזיה בהנחיית ירון ברובינסקי. מטרת המתמודד הראשי היא להעיף (תרתי משמע) כל מתמודד אשר עומד מולו תוך מענה על מספר שאלות טריוויה.",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "לעוף על המיליון, עונה 7: רון לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8b635556fda41099f953359c7042b64/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_e6j04q40/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הכירו את רון, איש קבע קשוח בעברו, שלא זז בלי אבא שלו אותו הוא הביא בתור מציל שלא חסך בהערות מהמרפסת. רון שבר בימי חייו 17 עצמות בגוף, מין ביש מזל כזה... האם במשחק המזל דווקא יאיר לו פנים? העונה החדשה והרטובה של לעוף על המיליון בהנחיית ירון ברובינסקי. לעוף על המיליון לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_e6j04q40===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לעוף על המיליון, עונה 7: עדי לבני ובר נמני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4987bc0f5ad1434eaa3c66da674627c9/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_vub8fvo8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם עדי תצליח להפיל את כולם בדרך למיליון? לעוף על המיליון לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_vub8fvo8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לעוף על המיליון, עונה 7: ספיישל מטבעות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1629a6bca8c4800916cffa13747c494/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_dbzizxku/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בעל הבית השתגע וכל סכומי הכסף במטבעות השתנו! 8 מטבעות מתוך ה-10 מכילים 50 אלף שקלים, אבל בשני מטבעות יש סכום שיאפס את כל הקופה. צפו בפרק עם תהילה פרץ",
+       "page": "",
+       "id": "--kaltura--0_dbzizxku===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לעוף על המיליון, עונה 7: ניצן גליאני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51e2d3e03d47483d83e1ad066f1aa6ac/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_1mx46mtn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוכנים למתמודדות הכי מלכותיות שיש? ניצן גליאני, הנסיכה הקטלנית מגיעה לתוכנית להפיל בקסמה | לעוף על המיליון לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_1mx46mtn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לעוף על המיליון, עונה 7: יוסי בכר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4948524dff464638b611ec13cfc6a384/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_g412xl7e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השעשועון המצליח עם אופנוען רומנטיקן בקרב טריוויה שלא ישאיר אתכם יבשים | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_g412xl7e===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

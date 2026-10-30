@@ -1,0 +1,211 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - פאוור קאפל",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "728",
+   "series_id": "728",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/efb8f02bc8434c4ba99a35d892010700/version/1/width/800/height/1200/quality/90",
+   "plot": "תוכנית ריאליטי חדשה בהנחיית רון שחר, שבמסגרתה שמונה זוגות מפורסמים יעמידו את היחסים שלהם למבחן. מי יהיו הפאוור קאפל של ישראל?",
+   "updated": "2026-10-30 23:58",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 17: הגמר הסוער!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b25cfa0e2ba4c46835ffccd1f6fac83/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_46lyxeeh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-31",
+       "plot": "הזוגות נפגשים לסגירת חשבונות סוערת במיוחד, ורק אתם בבית תחליטו מי יהיה הפאוור קאפל של ישראל? | \"פאוור קאפל\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_46lyxeeh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 16: משימת הגמר!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c78fdab3f2d4ba1bfda7e9eaffcfbe9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rgyi2nby/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-24",
+       "plot": "רגע לפני שייבחר הפאוור קאפל של ישראל, משימת הגמר הדרמטית יוצאת לדרך",
+       "page": "",
+       "id": "--kaltura--1_rgyi2nby===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 15 - החלק השני: ההדחה האחרונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b1c526e8a4747009e6b565080a888ec/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d5jzb2vx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-19",
+       "plot": "רגע ההדחה האחרונה הגיע. נגלה, מי תהיה שלישיית הגמר - ממנה ייבחר הפאוור קאפל של ישראל",
+       "page": "",
+       "id": "--kaltura--1_d5jzb2vx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 15: אודיה נוקמת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5574b9305b8b4b3690e2e7d80c22c189/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hszzqowg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-17",
+       "plot": "הדחה בהפתעה על הפרק, ודווקא עכשיו אודיה פינטו חוזרת לנקום - מי הזוג שעוגת החתונה שלו תהיה מרירה?",
+       "page": "",
+       "id": "--kaltura--1_hszzqowg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 14: חצי הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d4f515bd57b2436f88f4dc5decc8a39a/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qj3fheae/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-12",
+       "plot": "ארבעה זוגות נותרו במאבק על המקום בגמר, ולקראת ההדחה האחרונה - זה בדיוק הזמן לחשוף את ההקלטות הסודיות ולגלות מה הם באמת חושבים אחד על השני",
+       "page": "",
+       "id": "--kaltura--1_qj3fheae===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 13: רעידת אדמה בהדחה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/75dd1c28ec854e5ebbd2de0bd8b8293a/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tnh9zt0c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-10",
+       "plot": "הגמר הגדול מתקרב, והזוגות בוערים לקראת הדחה דרמטית במיוחד. מה יחליטו הזוגות? | \"פאוור קאפל\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_tnh9zt0c===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 12: החתונה שהשתבשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c7552a915a1a40d8b1db69282214c9f0/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_st79j7gb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-05",
+       "plot": "עדי ואסי בוזגלו מחדשים נדרים, והפעם בהודית - אז כמה האורחים ישימו בצ'ק? וגם: האם הנשים באמת יודעות מה הגברים חושבים?",
+       "page": "",
+       "id": "--kaltura--1_st79j7gb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 11: הנקמה של שיר ואלעד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/514ac2792ff54b5a863a4de7fcf17b90/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yjf8zd4g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-03",
+       "plot": "שיר ואלעד חזרו והם רוצים לנקום - האם אסי ועדי בוזגלו ישלמו מחיר? וגם: מי שברה את שיא העולם במשימה?",
+       "page": "",
+       "id": "--kaltura--1_yjf8zd4g===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 10: מי חוזר לסגור חשבון?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6bd005a4c664df4b520f8a6b42c88a3/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_855ue9v8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-29",
+       "plot": "איזה זוג יחזור למשחק כדי לסגור חשבון עם שאר הזוגות. וגם: המשימה הבלתי אפשרית של הנשים",
+       "page": "",
+       "id": "--kaltura--1_855ue9v8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 9: פרק הדחה צרחות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa6e62da43db4b0eb06e7f98f3699027/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2vyfhzx5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-27",
+       "plot": "בדרך להדחה הזאת יהיו לא מעט פיצוצים. וגם: איך קרתה הבגידה הגדולה - ומי הזוג שיודח?",
+       "page": "",
+       "id": "--kaltura--1_2vyfhzx5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 8: ההדחה שיצאה משליטה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/642cc42cb1f94a21b0c36315562df341/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f90eja02/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-21",
+       "plot": "הגיע הזמן לשופינג - והמחיר כבד: מי יהיה הזוג שיודח במשימת המכירה הפומבית?",
+       "page": "",
+       "id": "--kaltura--1_f90eja02===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 7: הפרצופים האמיתיים נחשפים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c37d145d436e4072a500c5aa27573f5f/version/26/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zs3d5eix/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-20",
+       "plot": "הגברים לא מבינים מאיפה זה נחת עליהם - האם הם מכירים את הפרצוף האמיתי של הנשים? וגם: הגיע הזמן לערב הכי סקסי",
+       "page": "",
+       "id": "--kaltura--1_zs3d5eix===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 6 - החלק השני: הלם של הדחה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/74606d8f5392453d8ac6f2b333da5194/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rvzqpe6v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-15",
+       "plot": "אסי בוזגלו נגד עומרי קנדה: שני הכדורגלנים והחברים הטובים, ראש בראש בהדחה. מוכנים להפתעה הגדולה של העונה?",
+       "page": "",
+       "id": "--kaltura--1_rvzqpe6v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 6: מה קרה במשימה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/851419302b1a46d7be0739fc49a886f1/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ce6uoh8v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-14",
+       "plot": "רגע לפני ההדחה, הגברים יצטרכו להיות חיות במשימה. לא תאמינו באיזו דרמה זה יסתיים",
+       "page": "",
+       "id": "--kaltura--1_ce6uoh8v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 5: אודיה נגד בנאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/849a1c16cedb42a0aeebf61809b6f189/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2gpx0zd9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-12",
+       "plot": "אודיה פינטו משאירה את כולם ללא מילים, עד שפורץ הריב הגדול. וגם: מה עשה אסי בוזגלו שהפך את שיר ואלעד מאויבים למעריצים?",
+       "page": "",
+       "id": "--kaltura--1_2gpx0zd9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 4: בלאגן בארמון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b2916538ab34efbae711b74995d8942/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dqvvtz55/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-07",
+       "plot": "יש חשמל באוויר, והמתח בין הזוגות עולה מדרגה. מה קרה כשעומרי קנדה יצא נגד שיר ואלעד - ומה הוביל לבלאגן בארמון?",
+       "page": "",
+       "id": "--kaltura--1_dqvvtz55===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 3: ההדחה שהתהפכה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72eeac39eb1c42f79296440c09f2fe22/version/34/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mhpjam4c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-05",
+       "plot": "הגברים מתלכלכים לפני טקס ההדחה, ומישהו זורק פצצה שמשנה את הכול. וגם: מי יהיה הזוג הראשון שיודח?",
+       "page": "",
+       "id": "--kaltura--1_mhpjam4c===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 2: מי מתעסק עם הבוזגלוס?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b6431a2736e4a13b636160826e76e0d/version/35/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_svriqowx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-01",
+       "plot": "הרוחות לוהטות בין הזוגות, ולא תאמינו על מה. וגם: מהו הסוד שחני נחמיאס מסתירה מכולם?",
+       "page": "",
+       "id": "--kaltura--1_svriqowx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פאוור קאפל, עונה 1, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f7434da2e174ec084e513c602b28130/version/41/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b0dwp66x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-28",
+       "plot": "ריאליטי קומי ומרגש, המעמיד למבחן את האתגר האנושי הגדול מכולם - זוגיות. 8 זוגות מפורסמים יעמידו את היחסים שלהם למבחן. מי יהיו הפאוור קאפל של ישראל?",
+       "page": "",
+       "id": "--kaltura--1_b0dwp66x===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - הרוסים",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "432",
+   "series_id": "432",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2af599084b3744e0aef12b0b939156d4/version/2/width/800/height/1200/quality/90",
+   "plot": "",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הרוסים, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5620ad1ea55c411896fbb3c947ff4bf1/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_06375j9w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "ולדימיר מקבל הזדמנות חד-פעמית לנגן בקונצרט ולתת ביטוי לכשרון האמיתי שלו, לנגן בכינור. דימה מקנא שאחיו נוטש את הרכב הראפ שלהם, מחפש מחליף וההרכב המקורי מתפרק.",
+       "page": "",
+       "id": "--kaltura--1_06375j9w===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2047db07d7542cdacee86107490bded/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m4vh93np/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "הראפרים רבים עם סבתא שלהם, שמנסה לגרום להם להבין שהם לא ראפרים ולכפות עליהם אורח חיים יותר \"רגיל\". הם ומחליטים שהגיע הזמן לעזוב ולעבור לתל-אביב, אבל הם מאוד מפחדים לעזוב את כרמיאל ולהגיע למקום חדש.",
+       "page": "",
+       "id": "--kaltura--1_m4vh93np===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ede1094e3fa244b383eeff1cc9c874d0/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oyc2l6uw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "יום הוולנטיינז הגיע, והראפרים מחליטים לקחת את החג ברצינות.מאוד ברצינות. הרומנטיקה משתלטת על כרמיאל והראפרים יוצאים לחגוג עם סימה וליטל.",
+       "page": "",
+       "id": "--kaltura--1_oyc2l6uw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2009ec02a78c4934b4c54ecd4d449d8a/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jbxylkq4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "הראפרים תקועים ולא מצליחים לכתוב שיר, הם יוצאים למסע אחר חיפוש מוזה, מוצאים משהו אחר לחלוטין ומסתבכים בענק.",
+       "page": "",
+       "id": "--kaltura--1_jbxylkq4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6f292a6af3e40968dce5986586c19de/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x3nmc5uf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "הראפרים עורכים אזכרה לכבוד אביהם שטבע בים, אלא שלפתע סוד אפל שהסבתא מסתירה מתגלה לראפרים וחייהם עומדים להשתנות.",
+       "page": "",
+       "id": "--kaltura--1_x3nmc5uf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39944f82997a49248f3d44c8583f42a8/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qv0qpcav/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "ולדימיר יוצא לחפש את אהבת חייו, למרות שליטל, המוכרת במכולת, מאוהבת בו עד כלות הנשמה, הוא לא שם לך לכך ונגרר אחר אחיו שמנסה לעזור לו למצוא אהבה במקומות שלאו דווקא מחפשים בהם.",
+       "page": "",
+       "id": "--kaltura--1_qv0qpcav===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f78f02c6144c4e61a0bd0cfdd9292931/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6kfi7pta/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "הראפרים מגלים לאכזבתם שלא גייסו אותם לצה\"ל ומחליטים לתרום בדרכם ולהקים צבא משלהם.",
+       "page": "",
+       "id": "--kaltura--1_6kfi7pta===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee34176776fe44feb3e8c43060755bb9/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f613lbdr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "אין ברירה וגם הראפרים צריכים להרוויח כסף. הם יוצאים לחפש עבודה ונשלחים לעבוד במקום שלא בטוח שיחזרו ממנו. וגם אם יחזרו, לא בטוח שיצאו לעבוד שוב.",
+       "page": "",
+       "id": "--kaltura--1_f613lbdr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2281644d654e4fbb9a1f2407c9418921/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5tu84stw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "הראפרים מחליטים לעמוד על שלהם מול הבריונים של השכונה. דימה שנחוש להרשים את סימה, שולח את ולדימיר להלחם בקרב הגורלי. האימונים מתחילים והפעם הראפרים לא מתכוונים להפסיד. אבל, תכנונים לחוד ומציאות לחוד.",
+       "page": "",
+       "id": "--kaltura--1_5tu84stw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/929b0d6e20c744279920d3284bddc6c4/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2klpx9k6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "כוכב גדול מגיע להופיע בכרמיאל, הראפרים קנו כרטיסים ומחכים בקוצר רוח, אבל ולדימיר נהיה חולה וסבתא לא מרשה לו ללכת להופעה. דימה שלא מוכן לוותר בקלות, מחליט להפתיע את אחיו.",
+       "page": "",
+       "id": "--kaltura--1_2klpx9k6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/771a8f462afc40d39e1ce7ed0a9d53ab/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j9e7wl0z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "הראפרים מנסים לכבוש את ערוץ הטלויזיה MTV  ומצלמים קליפ לשלוח לערוץ. סימה שמתגרשת מבעלה, מבקשת את עזרתם של הראפרים שמסבכים אותה עוד יותר ברבנות.",
+       "page": "",
+       "id": "--kaltura--1_j9e7wl0z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרוסים, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c54c2fce3d7c4d26b9242f4559659853/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k5k802zg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "בחירות בכרמיאל: הראפרים מוצאים את עצמם בלב ליבו של הקמפיין ומנסים לעזור לראש העיר להיבחר שוב. הראפרים מתייחסים אל ראש העיר כאל שליט קומוניסטי ומנסים לעזור לו בשיטות לא מקובלות. מאוד לא מקובלות.",
+       "page": "",
+       "id": "--kaltura--1_k5k802zg===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

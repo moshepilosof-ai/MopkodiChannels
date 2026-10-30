@@ -1,0 +1,1441 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - בא לחדש לכם",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "474",
+   "series_id": "474",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/296e1d08b7f848bf8a6101b29b196b04/version/1/width/800/height/1200/quality/90",
+   "plot": "מושיק גלאמין וצוות מומחים מגיעים לדירות של משפחות ישראליות ומשנים את פניהן ב - 12 שעות בלבד. מוזמנים להיכנס לעמוד התכנית ולצפות בכל הפרקים המרגשים. לקבל רעיונות פשוטים לעיצוב וללמוד כיצד ניתן לשדרג כל דירה בעזרת מעט צבע, עבודות גבס ואקססוריז מקוריים. בואו להתרגש עם המשפחות שכבר זכו לשיפוץ.",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עונה 1, פרק 13: באים לחדש למשפחת קקון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/389268f1dd71455181b73a17eaf1f3fc/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_57s2cubv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "מה עושים כשבונים בית ומגלים שרק השיפוץ דורש הוצאה כלכלית גדולה?",
+       "page": "",
+       "id": "--kaltura--1_57s2cubv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 9: באים לחדש לאיריס ויובל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f1d62cbf777947968eded774b1e80ec2/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aiupe8uk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "משתוללים עם חידוש הבית של איריס השיננית ובנה יובל",
+       "page": "",
+       "id": "--kaltura--1_aiupe8uk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כשמושיק מחדש לעדן בן זקן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3daae032f714887b59b8f043ce6b3e2/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ndwydjk9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מלכת השושנים, עדן בן זקן, מגיעה לשכונה והיא צריכה עזרה עם הדירה החדשה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ndwydjk9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 5, ספיישל: גן ילדי הפליטים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/deb84119f61c4f48bf1606431c939b42/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v2lx9gq3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק וכוכבי הישרדות באים לחדש לכם, ומפתיעים את הילדים",
+       "page": "",
+       "id": "--kaltura--1_v2lx9gq3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זאב רווח חוזר לשורשים עם חלום ישן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b547b329bba543ca90bc2808a5b520fd/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_alcy1g2w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק פוגש את אגדת הבמה לחוויית חידוש בלתי נשכחת, ויחד עם הזיכרונות של זאב והחדשנות של מושיק, הם חוזרים לשורשים ומצמיחים מהם בית חדש וחלומי",
+       "page": "",
+       "id": "--kaltura--1_alcy1g2w===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 4, פרק 18: ספיישל צוותא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/664f3698753d4bf5803fcae36107c5ff/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kxffi40u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "משלבים בין החדש לישן במקום הוותיק והקסום של כולם",
+       "page": "",
+       "id": "--kaltura--1_kxffi40u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 4: ספיישל שדרות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dd8dee8b26494319958edbbd9779e2d8/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qqkeaw3u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק נוסע לשדרות לחדש לקשישי העיר היקרים את המועדון שלהם",
+       "page": "",
+       "id": "--kaltura--1_qqkeaw3u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 14: לומדים לחדש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/260b185bf1a2491289ad0ea4a3d77990/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_phf6atv2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "13 משפחות למדו העונה איך לחדש את הבית. מה אתכם?",
+       "page": "",
+       "id": "--kaltura--1_phf6atv2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 4: ספיישל הזמרת הגדולה ג'וזי כץ!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae9b6fd93eb6448cb14ab537d0354d58/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_duavtpbg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "ג'וזי כץ חוזרת לדירה המשותפת שלה ושל שמוליק קראוס ממנה ברחה לפני 30 שנה",
+       "page": "",
+       "id": "--kaltura--1_duavtpbg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 11: באים לחדש לאלי ואייל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7d3d0db3ebc34d85992a0a9020de19f5/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kl9kab04/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "איך מעצבים דירה של כנר? למושיק יש את התשובה",
+       "page": "",
+       "id": "--kaltura--1_kl9kab04===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 12: באים לחדש למשפחת דריי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/085cf07adce440639af40496965dfdfc/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b2e7e189/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "איך להפוך דירה שכורה במושב לפנינה אמיתית?",
+       "page": "",
+       "id": "--kaltura--1_b2e7e189===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 10: טיפים נבחרים לחידוש הבית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1edb79989b034b148c5f39b1cd90f3ea/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_023l0b75/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "עצות נבחרות מכל השיפוצים והחידושים שנעשו בתוכנית",
+       "page": "",
+       "id": "--kaltura--1_023l0b75===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 8: באים לחדש למשפחת חתוקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b73a2aa00a294486ae077a46f685325b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_irl74gz0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע למשפחת חתוקה כדי לחדש חלל גדול וריק",
+       "page": "",
+       "id": "--kaltura--1_irl74gz0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 7: שלושה בדירה אחת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3967d4e714534223930731e952f35276/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t66z0a0n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "האם החברים הטובים ניר ועומרי יצליחו לחדש וליצור בית נעים עבור גבריאל?",
+       "page": "",
+       "id": "--kaltura--1_t66z0a0n===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 6: באים לחדש לרביד ואמיר בסר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/527b0e927900448a872c5199d82b0dec/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yuoz77rp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לחדש את ביתה של משפחת בסר, משפחה צעירה ומוסיקלית",
+       "page": "",
+       "id": "--kaltura--1_yuoz77rp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 5: באים לחדש את \"בית קובי\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/00ff8534728b4b559aa5b9337b9a1279/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hf15p9lw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לחדש בית מיוחד לחיילים בודדים בגבעתיים",
+       "page": "",
+       "id": "--kaltura--1_hf15p9lw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 3: באים לחדש לגבי ואדם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc07016e1d0747dd9c058693ea344e38/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pszem48g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "יוצאים למושב כדי לחדש את הבית של גבי ואדם אבירם",
+       "page": "",
+       "id": "--kaltura--1_pszem48g===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 4: מחדשים לנטלי ודבי דדון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4bdd66b801bc477888844f9c9b85f981/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fyplcxj1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא לחדש את דירתן השכורה של הדוגמנית נטלי דדון ואחותה דבי",
+       "page": "",
+       "id": "--kaltura--1_fyplcxj1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 2: 12 שעות, 3 נשים, בית אחד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee8427b02a0d4885ad72aca6accc35dd/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9ymsslfi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לחדש את ביתן של מירי, אנה וגילי",
+       "page": "",
+       "id": "--kaltura--1_9ymsslfi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 1: באים לחדש לאילנית לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e02b27702e9f4855ad2384e076a0e598/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p5c5vimx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לחדש את דירתה של אילנית לוי ברחובות",
+       "page": "",
+       "id": "--kaltura--1_p5c5vimx===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "בא לחדש לכם: לחדש בית לקראת חג הפסח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eb2371eeee7549d493eaf92460549a0d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cflfvhd0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "טיפים לחידוש הבית לקראת חג הפסח",
+       "page": "",
+       "id": "--kaltura--1_cflfvhd0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בא לחדש לכם, עונה 2, פרק 14: עמותת עמך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cc2c02e021b64b179cafc7301cf1de0e/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0axyd6jk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לסניף 'עמך' נתניה, ומחדש לניצולי השואה את החלל המרכזי במקום",
+       "page": "",
+       "id": "--kaltura--1_0axyd6jk===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 13: באים לחדש לגילי רוזנשטיין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fedb5ec8c84647dbacbad031e73ba360/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hcg1u51o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "כיצד משלבים בין אהבת רכיבת האופניים של גילי רוזנשטיין לעיצוב ביתו",
+       "page": "",
+       "id": "--kaltura--1_hcg1u51o===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 11: באים לחדש את הבית של רונן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79f2ebb2132248869cac10f04d65a8d4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_irq73ykj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "רונן אקרמן צלם שחי ,עובד וגם מצלם מהבית ,חידוש של בית שהוא גם מקום עבודה",
+       "page": "",
+       "id": "--kaltura--1_irq73ykj===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 12: חידוש ביתם של האחים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df4fd224a75b438e921ded61c0876a56/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fed27ayy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק הופך את ביתם המיושן של האחים אוהד ואביעד לבית צעיר ועדכני",
+       "page": "",
+       "id": "--kaltura--1_fed27ayy===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 10: באים לחדש לאלי והילה מלוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cdaaa5c3297e443e8cc70c23d9b3e678/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sbulocht/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "הסבלנות משתלמת, אלי והילה מנהלים זוגיות מאוחרת ומתקשים לשנות הרגלים",
+       "page": "",
+       "id": "--kaltura--1_sbulocht===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק מיוחד: טיפים לעיצוב הבית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ccc56413b3d84928a8518e1df3967647/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_elqynljs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מציע לכם טיפים חשובים לעיצוב הבית שלכם",
+       "page": "",
+       "id": "--kaltura--1_elqynljs===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 8: מגיעים לשדרות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34c7a7495f4a4c79a21ae70f78f248fa/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g1e0qieb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע למשפחת אפללו שביתם נפגע מספר פעמים ממתקפת קאסמים",
+       "page": "",
+       "id": "--kaltura--1_g1e0qieb===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 7: העם דורש לבוא לחדש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/928b829130ef4a5fa63f9ba2004a573d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pgfb4zfo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לדירה של משפחת זוהר, משפחה פעילה חברתית שקצת שכחה להשקיע בבית",
+       "page": "",
+       "id": "--kaltura--1_pgfb4zfo===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 6: מחדשים בקיבוץ!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59eeec86605d4c329c0276ef8ed0008a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_il6ipbz8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לחדש את הבית של משפחת אזולאי בגבעת ברנר",
+       "page": "",
+       "id": "--kaltura--1_il6ipbz8===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 5: באים לחדש למעיין ומני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/942da1ecaa804acca064855f5157c0ff/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mml34iaj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק עוזר למעיין ומני להפוך את הבית הקודר והמיושן לבית צעיר וחמים",
+       "page": "",
+       "id": "--kaltura--1_mml34iaj===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 2: ארבעה בדירה אחת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a978ac44e1c4378b1800573037732e8/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m35nnc0a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין עוזר לאחים דודו ומורין ובני זוגם החיים כולם יחד בדירה אחת",
+       "page": "",
+       "id": "--kaltura--1_m35nnc0a===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 3: זהבה בן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f03ee144a1114869a1e5716d6f237aa4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rqhz8y22/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק הופך את ביתה של זהבה לבית עם אווירה חמימה, קלילה ושמחה",
+       "page": "",
+       "id": "--kaltura--1_rqhz8y22===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 4: באים לחדש למשפחת מרקוס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/550c8241d9f341a5bfc92d80c27ebf14/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kqe7uk6h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק הופך את הבית של שלי ודניאל מפרדס חנה לבית משפחתי וחמים",
+       "page": "",
+       "id": "--kaltura--1_kqe7uk6h===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 1: באים לחדש פנימייה בב\"ש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2ffaea8f72b435b9bec0b8180f923f0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qr2qvxkj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מארח את יעל בר זוהר, והשניים נוסעים לשפץ פנימייה לבנות",
+       "page": "",
+       "id": "--kaltura--1_qr2qvxkj===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "עונה 3, פרק 6: אביגיל בנאי חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a0fd6e4307949d7881d7cd21459a7c7/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aq2wf2xj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "מושיק משלים את החידוש שהחל בדירתה החדשה של בנאי בכפר הגמלאים",
+       "page": "",
+       "id": "--kaltura--1_aq2wf2xj===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 28: לזכר אסון הכרמל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c584446ca6c44b5a3571175a95f9843/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3vjhnfau/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "רחלי אלגבסי אלמנתה של פביולה בוהדנה ז\"ל מקבלת ממושיק חידוש מרענן לבית",
+       "page": "",
+       "id": "--kaltura--1_3vjhnfau===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 26: מחדשים לדלית ורני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f36454d354e249489fd514d32bfeda17/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_34x3fcmv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "5 הילדים של דלית ורני יקבלו שיפוץ שיגרום להם להרגיש סוף סוף בבית",
+       "page": "",
+       "id": "--kaltura--1_34x3fcmv===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 25: מחדשים למשפחת דרורי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b34d3b5e4bf7466f8355e04b5e56c53d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uw9cuj2l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מחדש למשפחה עם 2 ילדים, 2 כלבים, חתול 3 ציפורים ו-2 עטלפים",
+       "page": "",
+       "id": "--kaltura--1_uw9cuj2l===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 24: מחדשים בכפר נוער",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8130c14470604327bf6a6cc4cb73c958/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dqgp7mc6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "העיצוב הסופי והמרגש של מושיק לכפר הנוער \"ניר העמק\" בעפולה",
+       "page": "",
+       "id": "--kaltura--1_dqgp7mc6===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 27: לכל בית סיפור משלו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/feee5d39ecae4f6eb496e229fe80dc45/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tdu5m1zb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק  נזכר בכל הרגעים המרגשים והיצירתיים ביותר בהם הגיע לחדש",
+       "page": "",
+       "id": "--kaltura--1_tdu5m1zb===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 23: כפר הנוער",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7fcb2f74be8497dbf7ac268eee9b1a0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x9d82pk6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "באים לחדש לכפר הנוער \"ניר העמק\" בעפולה. גם הצמד גיא ויהל הגיעו לעזור",
+       "page": "",
+       "id": "--kaltura--1_x9d82pk6===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 22: מחדשים לאמא את חדר השינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/196162734b4940e49a5200d069f4d4d9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ikbvz0n8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לחדש לעזור לשלושה ילדים לחדש לאמא שלהם את חדר השינה",
+       "page": "",
+       "id": "--kaltura--1_ikbvz0n8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 21: הבית של רונית ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/edd4666f6ccd4ba88ae86a14c56e5180/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v0nbwn1d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "פרק ההמשך של החידוש למרכז חברתי לאנשים בעלי צרכים מיוחדים",
+       "page": "",
+       "id": "--kaltura--1_v0nbwn1d===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 20: הבית של רונית א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ee4d64d7a07444da77c9f9d2b3f2871/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5nr3rhnq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא לחדש למרכז חברתי לאנשים בעלי צרכים מיוחדים",
+       "page": "",
+       "id": "--kaltura--1_5nr3rhnq===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 18: ספיישל חידוש משפחתון א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90b8856072144351b5e6ae25954868a0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1nm58rg6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מחדש למשפחתון בו גדלים 14 ילדים. כיצד יצליח ליצור לכל ילד מקום?",
+       "page": "",
+       "id": "--kaltura--1_1nm58rg6===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 19: ספיישל חידוש משפחתון ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/daa2f26066e042999949237d715c37c7/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rss07iih/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מחדש למשפחתון בו גדלים 14 ילדים. מה תהיה התוצאה הסופית?",
+       "page": "",
+       "id": "--kaltura--1_rss07iih===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 17: החידושים הגדולים העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c41dc83355a436abbfc1170aca466e9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xrxzo5ba/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אז למי חידשנו העונה? לינור אברג'יל,  אביגיל בנאי ולאה לופטין וביתה מעין",
+       "page": "",
+       "id": "--kaltura--1_xrxzo5ba===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 14: לינור אברג'יל חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8f032cc9c374d8ca91a14e50b5d2f6f/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_70kcoqih/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא לחדש את ביתה כדי להתאימו לצרכים של משפחה דתית",
+       "page": "",
+       "id": "--kaltura--1_70kcoqih===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 15: לינור אברג'יל חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df83a9e35d6a4382bdc28a7f46199353/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y1qluy9k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק משלים את החידוש ומכניס לבית אור וצבע",
+       "page": "",
+       "id": "--kaltura--1_y1qluy9k===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 13: מיטב הטיפים לשנה החדשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3135e9b6ca2147718050cc6f800592fc/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5dy16cd0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "חוזרים לרגעים נבחרים ולחידושים המרהיבים מהעונה השלישית",
+       "page": "",
+       "id": "--kaltura--1_5dy16cd0===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 12: באים לחדש לארבע השותפות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0579cbfa49b1449fbf54a5fc8c65f362/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vp0d12y3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא לחדש את דירתן של הרווקות הירושלמיות כדי להפוך אותה לבית אמיתי",
+       "page": "",
+       "id": "--kaltura--1_vp0d12y3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 11: באים לחדש לאיציק ואלירן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ed359528e86349d4a6fd0f161a35174c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rrda5kmw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לביתו של הצמד מ\"המירוץ למיליון\" כדי לשדרג את דירת הרווקים",
+       "page": "",
+       "id": "--kaltura--1_rrda5kmw===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 10: באים לחדש למשפחת עמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9e58bf0a203545a7a24095df31e0c115/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b2ioc5x7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק במשימה חוצת גבולות - מפרידים בין המספרה לסלון",
+       "page": "",
+       "id": "--kaltura--1_b2ioc5x7===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 7: באים לחדש ליעל פפר חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/725ba71261334f869a5a87c5e58eccd7/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5j25oc80/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אחרי שעזבה את הכת של גואל רצון הגיע הזמן להפוך את ביתה החדש למקום חם",
+       "page": "",
+       "id": "--kaltura--1_5j25oc80===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 8: באים לחדש ליעל פפר חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d2424479ef14f2da36176c1b2606d17/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_03hndu3t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק משלים את החידוש בביתה של יעל ומעניק לה ולמשפחתה את הבית שחלמו עליו",
+       "page": "",
+       "id": "--kaltura--1_03hndu3t===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 9: באים לחדש ללאה לופטין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fcda2c0a8e5949f0b140a0d9cf4b44c9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zr6978gv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מכניסים אנרגיות חדשות והופכים את הבית למקום אירוח",
+       "page": "",
+       "id": "--kaltura--1_zr6978gv===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 4: באים לחדש למשפחת סטרץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64c1bad473344d2ca42b2e87136e1c80/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c40ms7hk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "והפעם משימה ייחודית - מחדשים אוהל",
+       "page": "",
+       "id": "--kaltura--1_c40ms7hk===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 5: אביגיל בנאי חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/67c7a64ebada4ca7a6ecd0b8626e792b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6oadswe2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "חלק א' - המעבר לבית גמלאים",
+       "page": "",
+       "id": "--kaltura--1_6oadswe2===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 3: באים לחדש למשפחת חלבי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/43477f131bf44a72a1ef1124f74a2f5d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cllv0xjr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא להתאים את הבית לאורח החיים המודרני של המשפחה",
+       "page": "",
+       "id": "--kaltura--1_cllv0xjr===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 2: באים לחדש למשפחת קרול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39785e54fcb145bbace1d453234dcfb8/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_99ukxfim/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא להתאים את הבית לילדי המשפחה",
+       "page": "",
+       "id": "--kaltura--1_99ukxfim===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 1: באים לחדש למשפחת ברגשטיין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8ae05bcc50c4c13b9c86ce4145c0868/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4099amlh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא לעשות סדר בבלאגן ולהפוך את בית משפחת ברגשטיין למקום נעים ומסודר",
+       "page": "",
+       "id": "--kaltura--1_4099amlh===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "עונה 4, פרק 6: משפ' נחימובסקי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09eb9f079e314574981306f806f4cc3e/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p7aet7b7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "מחדשים לזוג הצדיק ועוזרים בקיום מצוות האירוח בכפר חב\"ד",
+       "page": "",
+       "id": "--kaltura--1_p7aet7b7===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4 - פרק 20: משפ' אדור",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bbbdee986264de3aa2fb6cc5571c11f/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9heedmaj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מחדשים למשפחה מיוחדת שרגילה לחיות תמיד לצד המסגרת ולא בתוכה",
+       "page": "",
+       "id": "--kaltura--1_9heedmaj===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 19: מה זה בית עבורכם?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4657d5f9495049c588d112d08a721559/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r7o0xy4b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק חוזר לבתים שהוא חידש ונותן טיפים שיהפכו את הדירה לבית המתאים לכם",
+       "page": "",
+       "id": "--kaltura--1_r7o0xy4b===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 17: משפחת גואטה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df91010b7bae4d0f8ca3c6d8059aa18b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dy39scou/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מחזירים את הרומנטיקה ומחדשים לכבוד 26 שנים בהן האבא שירת בקבע הרחק מהבית",
+       "page": "",
+       "id": "--kaltura--1_dy39scou===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 16: האחים יוחאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b009d46fb7b74b58a8b0671267fa1c5f/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xcofj81h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "שני אחים גרושים המתגוררים ביחד עם ילדיהם בדירה אחת קטנה",
+       "page": "",
+       "id": "--kaltura--1_xcofj81h===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 15: גדולים מהחיים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8350ca9c6b147be95986d8c62c84822/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_43gf7rbw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "עושים נחת למשפחת הופרט ולשחר ומעצבים לכבודו חדר חלומות וסלון משפחתי חם",
+       "page": "",
+       "id": "--kaltura--1_43gf7rbw===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 14: קומונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd1db0ffda9b4256a33823489144cac9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3vomii16/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "הופכים תחושה של מתנ\"ס קהילתי לבית חם והורס ל- 12 דיירים!",
+       "page": "",
+       "id": "--kaltura--1_3vomii16===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 13: ויטל ודקל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e5eeb9ae95a4b0a886d85ef6344b89d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sm9wi3j6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "חידוש דירת הזוג מבית קודר ולא נגיש לבית עם אווירה אוהבת ויעילה לויטל",
+       "page": "",
+       "id": "--kaltura--1_sm9wi3j6===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 12: אפנר-קפלן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d085fc81d9054a39b34d96982a4cec1e/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jhbc2i1b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק הופך את דירת הרווקים של הזוג לבית משפחתי לאחר הליך פונדקאות ארוך",
+       "page": "",
+       "id": "--kaltura--1_jhbc2i1b===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 11: הפכים מושלמים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8274fde5369412399e3920d4d9cc535/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0xw9jbor/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לויקטוריה ויניב ונותן טאצ' זוגי לדירה שחסרה בה חום ואינטימיות",
+       "page": "",
+       "id": "--kaltura--1_0xw9jbor===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 10: החידושים של העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f0823097db50465a886d0daa74ccf4a4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sm6ceex9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "ביקרנו בכל כך הרבה בתים ושברנו לא מעט מיתוסים, זה הזמן לשמור על ראש פתוח",
+       "page": "",
+       "id": "--kaltura--1_sm6ceex9===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 9: משפחת טפר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a5cec1dcee74430a536a09e00eb0482/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t7vt1vkt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מחדש לאמני הקרקס והאקרובטיקה בדרך הכי מקורית",
+       "page": "",
+       "id": "--kaltura--1_t7vt1vkt===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 8: רפואה מעוצבת!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73c1a9d5923e41b1b7c4fb39e8d73a6d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_477s64cl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מוקירים תודה ומחדשים את הפינה של הרופאים בבית החולים סורוקה",
+       "page": "",
+       "id": "--kaltura--1_477s64cl===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 7: סוף לדירת הרווקים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/74f06f797da545a09df0c458ce29e346/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8wshykuv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אמירה בוזגלו נפרדת מאווירת הרווקות ומתחדשת בקארמה רומנטית בביתה",
+       "page": "",
+       "id": "--kaltura--1_8wshykuv===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 4: צפוף פה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5edd9e88845c4919a5e1b0800909d752/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p1mrybui/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "משפחת אסנר יוצרת מוסיקה, הצגות, אומנות ובעיקר בלאגן",
+       "page": "",
+       "id": "--kaltura--1_p1mrybui===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 3: טילי פטריוט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/71d4881a565c4c969f0f204360d28b64/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_utogmr43/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מחדשים ללוחמים מקום בו הם יכולים להירגע ולהנות בשירותם הצבאי והתובעני",
+       "page": "",
+       "id": "--kaltura--1_utogmr43===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 5: שחר צוברי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e88ae8a76149404490a8c1be20333ee9/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ji5vnr70/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מחדשים דירה מיושנת שעברה מהסבא לנכד באווירה ספורטיבית",
+       "page": "",
+       "id": "--kaltura--1_ji5vnr70===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 2: משפ' טפסאי-מששה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f9708cbbdfe84b388ff63d469f981191/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7vqhyze4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק הגיע לחדש למשפחה יוצאת דופן ומרגשת במיוחד",
+       "page": "",
+       "id": "--kaltura--1_7vqhyze4===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "עונה 4, פרק 1: ים של חידושים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b48a846a96b343da898c52edf1b483d0/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8g1gxas4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "חיכיתם? התגעגעתם? מושיק פותח את עונה בפרק מלא צחוק ודולפינים!",
+       "page": "",
+       "id": "--kaltura--1_8g1gxas4===",
+       "season": "עונה 4"
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "עונה 5, פרק 14: משפחת טובלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6a8cd1ef1a54a1ca025d54c4e42755f/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_87s10o89/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "ענבל ובנה הקטן חזרו לגור עם אמה, היא לא חלמה שתוכל להעניק לו בית כזה",
+       "page": "",
+       "id": "--kaltura--1_87s10o89===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5: החידוש הקלאסי של מגי אזרזר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d921320c3490496b89b34133acec05be/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m048iapt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא לחדש לשחקנית המוכשרת, מגי אזרזר, במבצע הדרמטי ביותר שנראה עד כה",
+       "page": "",
+       "id": "--kaltura--1_m048iapt===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 18: אוהל משפחתי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa7fa71766b844028732f405d0139190/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i098074y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק פגש את משפחת חרמון המתגוררת באוהל בלב השרון ועשה להם מהפכה!",
+       "page": "",
+       "id": "--kaltura--1_i098074y===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "בא לחדש לכם - בתים עם ילדים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/67387253ec914deeaef0e2361f8bae9d/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ncb79ejw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "הטיפים והרעיונות לעיצוב בתים עם ילדים באופן נוח ומזמין",
+       "page": "",
+       "id": "--kaltura--1_ncb79ejw===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 17: מש' ליבוביץ' המהפך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d5db40d6e82c4687b4150833eabc0b3c/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oq9iahub/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מש' ליבוביץ' לא הצליחה להשתלט על הבלגן שהציף את ביתה- מושיק עשה להם מהפך",
+       "page": "",
+       "id": "--kaltura--1_oq9iahub===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 15: מחדשים באולפנא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c783eae62e2a4d0db3b102d5c318a388/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gvq3p9ol/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "הן עלו לבד לארץ, לומדות עברית ומנסות להשתלב- לבנות האולפנא מגיע חידוש!",
+       "page": "",
+       "id": "--kaltura--1_gvq3p9ol===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 16: סלון היופי מתחדש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6d86bb28253406791b5127868677973/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_52i13kzy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק פגש את אירנה ונלי, כלה וחמה המנהלות עסק לקוסמטיקה ועשה להן מהפך!",
+       "page": "",
+       "id": "--kaltura--1_52i13kzy===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 13: פרויקט המכולות מתחדש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a008b9082535438aa85649ae5f791932/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kwefox2j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מחדש לשתי סטודנטיות את הבית, שהוא בעצם מכולה",
+       "page": "",
+       "id": "--kaltura--1_kwefox2j===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 11: הדלתות של משפחת פריד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3f77477c92b4df2948cd8cbe07bcbfb/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yumaeym7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "למשפחת פריד אין דלתות בבית – מה ששמעתם! מושיק ביקר את המשפחה ושימח אותם",
+       "page": "",
+       "id": "--kaltura--1_yumaeym7===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 12: הדירה של טום באום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7920e14e483f406990eaa046a36407b4/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z0mjwvk0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק ממשיך להפתיע וגורם לטום להתאהב מחדש",
+       "page": "",
+       "id": "--kaltura--1_z0mjwvk0===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 9: התחלה חדשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d90f1975a5f4706a12a4e5cb5b98700/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p41sj3cj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "טיגיסט ביטאו, שסומנה כהבטחה הגדולה של תחום הריצה אך נפגעה מתחדשת",
+       "page": "",
+       "id": "--kaltura--1_p41sj3cj===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 10: הסיפור המופלא של איריס ג'ורנו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c26154651edf44d79454293e6a2d1d70/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8a7mmw1m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "לאיריס ג'ורנו ושני בניה סיפור חיים מעורר השראה – והבית שלהם בהתאם",
+       "page": "",
+       "id": "--kaltura--1_8a7mmw1m===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 7: הדר ואלון מתחדשים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb996507e1f0417e831093ed0deca9bf/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qg91w7ql/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "היא לא תיארה לעצמה שתתאהב בגבר אלמן פלוס שלושה, יחד הם מתחדשים עם מושיק",
+       "page": "",
+       "id": "--kaltura--1_qg91w7ql===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 8: מיטב החידושים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8895371f9cb476b8060d7f4afadb3cc/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xm7a95mw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק לא מפסיק לחדש ולגעת בעוד ועוד לבבות",
+       "page": "",
+       "id": "--kaltura--1_xm7a95mw===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 5: כפר הילדים חורפש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c5e7765948442dc864f12be1c17eed7/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iyxgobwg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "שניים מבוגרי כפר הילדים חורפש  שבים למקום שנתן להם כל כך הרבה במטרה לחדש",
+       "page": "",
+       "id": "--kaltura--1_iyxgobwg===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 6: נוי צברי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8a1290d226c4e57b8ee3f7cc3bbfa32/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sar941g0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "היא מרותקת לכיסא גלגלים מגיל 12, אבל נוי צברי אופטימית והערב היא מתחדשת",
+       "page": "",
+       "id": "--kaltura--1_sar941g0===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 4: בקרוב אצלכם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/327b738d89454ddcb7d93bc0790b5913/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b3wahr41/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אורי מסרבת להתחתן עם שי עד שביתם יחודש - מזל שמושיק הגיע להציל את המצב!",
+       "page": "",
+       "id": "--kaltura--1_b3wahr41===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 3: משפחת רוטמן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef6e03fb999947c28955e790b16624be/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_894ve03c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "עיצוב הוא אינו עניין של מה בכך - מזל שמשפחת רוטמן פגשה את מושיק",
+       "page": "",
+       "id": "--kaltura--1_894ve03c===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 2: רותי דייכס מתחדשת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6efe53392514b5bb65f0dc04cdeac60/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vap781s7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "המורה המיתולוגית למשחק והופעה החוששת משינויים פותחת את לבה לחידוש",
+       "page": "",
+       "id": "--kaltura--1_vap781s7===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "עונה 5, פרק 1: לאה סבן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d6094f3116a4911a75f50368ef41e4d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z5yhfdgx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מלווה את לאה סבן וחברה הטוב ביותר, הסוס נני, ומעצב להם חווה לתפארת",
+       "page": "",
+       "id": "--kaltura--1_z5yhfdgx===",
+       "season": "עונה 5"
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "בא לחדש לכם | משפחת פוקס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5bd7ebdc5ac345fd975c1f5523a04a34/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_anz6779i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע לעצב למשפחת פוקס, שביתם נשרף כליל בשריפה הגדולה בחיפה, בית קבע חדש שיתאים לצרכיהם. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_anz6779i===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: משפחת בן שמחון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4a18fca80c2a4da785001c04a799bf71/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gykudagh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "בני הזוג בן שמחון סיימו לעצב את בית חלומותיהם, אך אז הגיעה השריפה הגדולה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gykudagh===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: אוהד חיטמן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/74f20b7a2db84cf2a603074104c47c90/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nliq1hkv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "רן ואוהד הם הורים לתאומים מתוקים בני שנתיים. אבל מאז שהילדים הצטרפו למשפחה, אוהד ורן איבדו שליטה על הבית והם לא מצליחים להשתלט על הבלגאן. מושיק בא לחדש להם",
+       "page": "",
+       "id": "--kaltura--1_nliq1hkv===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: עידו ושרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a15a393671cf4e30a9c08e977860415f/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2rc7hpad/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לדירה של שרה ועידו בתל אביב. בא לחדש לכם לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2rc7hpad===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: משפחת אגיון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a48e778fbbb14904926aa02534608896/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yo5k2ni9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "7 נפשות ללא קורת גג - בא לחדש לכם לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_yo5k2ni9===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: גלינה וארקדי שוורצמן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f4beffaddea4503bc56ca1febcac0f6/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e701tuvx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע למשפחת שוורצמן בכפר סבא. בא לחדש לכם לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_e701tuvx===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: ילדים זה שמחה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c694bd38a78341729035755c960c82e6/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2dlrydkl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין בא לחדש את הבית של משפחת ביטון",
+       "page": "",
+       "id": "--kaltura--1_2dlrydkl===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: מרכז למידה אפיקים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d0722be20feb4536bde178a05e39945b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_158g27ke/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לחדש את מרכז הלמידה \"אפיקים\" בירושלים. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_158g27ke===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: החיים במושב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66da153ef8e841ea9f68026dc0bbd031/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9c0nci5h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין בא לחדש את יחידת הדיור של עידו ולינה ולהתאים אותה לזוג הצעיר",
+       "page": "",
+       "id": "--kaltura--1_9c0nci5h===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: ''תאטרון מראה'' בקרית שמונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7184b0baf51248e5ad2b2805dff0e46d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s7me31oe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מחדש את תאטרון \"מראה\" בקרית שמונה יחד עם השחקן והמנהל האומנותי יפתח קליין",
+       "page": "",
+       "id": "--kaltura--1_s7me31oe===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: עושים סדר בבלאגן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4032cdb1e61424781fc9f00a8f0bb02/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vrcrdww3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לבת ים ומחדש את ביתן של מיכל ואופיר, בנות דודות צעירות ומלאות שיק",
+       "page": "",
+       "id": "--kaltura--1_vrcrdww3===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: מחדשים מבלי לפגוע בזכרונות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/591add9be5d446028fcb6e5f359c76ed/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_stztnpt5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לעומר כדי לחדש את ביתם של ורדה וראובן סיטבון",
+       "page": "",
+       "id": "--kaltura--1_stztnpt5===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: הנגר הולך יחף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/949ea21ec92342feb3e2736dcd9f8718/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g8zry4xh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק בא לחדש את ביתו של אוריאל שער ישוב ונתקל במשימה מאתגרת במיוחד",
+       "page": "",
+       "id": "--kaltura--1_g8zry4xh===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: משפחת כפיר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af34065cb74e4763ac27790f59af363c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4dorz2tp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין שומע לחברים מיחידת 'כפיר' ובא לחדש את ביתם של ההורים הטריים תמיר וליז כפיר",
+       "page": "",
+       "id": "--kaltura--1_4dorz2tp===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: יאללה הפועל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eddbdd30aa294060be04a4d56c66556c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zsvxqv9h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מחדש את מועדון הכדורגל של ילדי \"ליגת השכונות\", קבוצת הפועל קטמון. צפו בפרק המלא שהופק בעזרת הקרן לידידות",
+       "page": "",
+       "id": "--kaltura--1_zsvxqv9h===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: הילדים לא רוצים לעזוב את הבית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6aed94f9d1a54f229cdaec42b73a1975/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hhxsikqg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מחדש את ביתם של משפחת סיטון ומתמודד עם אתגר משפחתי מורכב במיוחד",
+       "page": "",
+       "id": "--kaltura--1_hhxsikqg===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: אמא השתלטה על הבית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/824b051d26ad442a9140fc18d1e0e5e8/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bfoo9ahv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "איך משלבים בין החלל הביתי לחלל העסקי בצורה הטובה ביותר?",
+       "page": "",
+       "id": "--kaltura--1_bfoo9ahv===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: משפחת פורת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/923853a7c3ab4f9ea7ad0e6f424d6020/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n7uxhl3x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לביתם של משפחת פורת ועוזר להם להנגיש את הבית לבנם ינאי, ילד מקסים בעל לקות ראייה קשה",
+       "page": "",
+       "id": "--kaltura--1_n7uxhl3x===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: משפחה אלטרנטיבית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfb024edd0514acba07e3503f4096eee/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bnb4saze/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לכפר ויתקין ומחדש את הבית המיוחד של משפחת גלאור",
+       "page": "",
+       "id": "--kaltura--1_bnb4saze===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "משפחת פליקס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cec9bf9874ea47b79b7c9707af1bbdb7/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h2pqco8z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לראש העין ופוגש את הדר ותמר, שתי אחיות בעלות עסק לאפיית עוגות ומחליט לחדש להם את הבית וסביבת העבודה. הצטרפו לראות איזה שינוי חולל מושיק בביתם של משפחת פליקס.",
+       "page": "",
+       "id": "--kaltura--1_h2pqco8z===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "בא לחדש לכם: משפחה צבעונית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/44267472a62e4908ad92c723504975fe/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fibkbxys/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע למרכז תל אביב ופוגש את שי דאודי אמן פירסינג גותי ועלווה שפיק מעצבת אופנה, בני זוג יצירתיים במיוחד",
+       "page": "",
+       "id": "--kaltura--1_fibkbxys===",
+       "season": "עונה 6"
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "בא לחדש לכם | פנימיית אלישיב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4a3e45bfeba46b890a16f46907a9a22/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v3dnbck7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע אל יישוב קטן ליד חדרה בשם אלישיב, אשר רוב המשפחות המתגוררות בו הן משפחות אומנה לבני נוער בסיכון",
+       "page": "",
+       "id": "--kaltura--1_v3dnbck7===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | מרכז לבריאות הנפש - אברבנאל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b63effe72df46c3ba2a1ae65efed3ae/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k27xebja/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לחדש את המרכז לבריאות הנפש - אברבנאל. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_k27xebja===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | משפחת ברוידה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0483fe682e5847278625b5bdc9763470/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8flr6yjx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "ארינה ואולג ברוידה מקבלים הזדמנות לשדרג את הבית בעזרת מושיק גלאמין. צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_8flr6yjx===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | ארקדי דוכין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/23211ad933ee49dfbe3b4f3324dd91d0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hjnp21hr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לחדש את הבית של ארקדי דוכין. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hjnp21hr===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | אמא השתלטה על הבית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/009309b644ac43e5903f0520974fdecc/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xva9o838/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "ליז ובני אליאס הם הורים לארבע ילדים ומתגוררים ברעננה. ליז היא קוסמטיקאית, שפתחה קליניקה באמצע הסלון המשפחתי  מה שמקשה מאוד על חייהם של כל בני המשפחה. מושיק מגיע לחדש ולארגן את הבית מחדש",
+       "page": "",
+       "id": "--kaltura--1_xva9o838===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | משה אשכנזי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c042a5510b746ef8dd582b0f55fc7f2/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sczid74g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "השחקן המצליח משה אשכנזי מתגורר יחד עם אישתו לירון ובנם רום בתל אביב. מושיק מגיע לחדש את הבית כדי  שיהיה מעוצב ויתאים לצרכים של משפחה",
+       "page": "",
+       "id": "--kaltura--1_sczid74g===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | משפחת עמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3bab6514271f4ace8f79502fe7e15dd6/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oxv8rdw4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "קרין ומיכה עמר וארבעת ילדיהם עוברים בשנים האחרונות תהליך של חזרה בתשובה. מושיק מגיע להתאים את הבית לצרכים של משפחה דתית",
+       "page": "",
+       "id": "--kaltura--1_oxv8rdw4===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | לאמא באהבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/85b9603c12f0429092660730fab9e45a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jrzxcm2x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "השחקן והדוגמן מייקל לואיס פונה למושיק בבקשה מרגשת לחדש את בית אימו, אולגה, אשר הקדישה את כל חייה לארבעת ילדיה והזניחה את ביתה. מושיק מגיע להפוך אותו לחם ומשפחתי במיוחד",
+       "page": "",
+       "id": "--kaltura--1_jrzxcm2x===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | גרים בחנות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9813b11da1f043cfaf6d06172e980438/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d5uxp254/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "תום אלרום מתגוררת יחד עם בנה איירי בבית שהוא גם חנות בגדים ואקססוריז שתום מנהלת. מושיק מגיע לחדש את הבית/חנות כך שיתאים לשני הצרכים גם יחד",
+       "page": "",
+       "id": "--kaltura--1_d5uxp254===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | משפחת צין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6d56f31119a46bdbe7b7bf3f35b0339/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lzailpce/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "בני הזוג גבע ואנדראה צין חיים יחד עם שני ילדיהם בבית בבאר טוביה. בני המשפחה כולם הם בלגניסטים חסרי תקנה שאיבדו שליטה על הבית. מושיק מגיע לחדש ולעזור למשפחה להתארגן מחדש",
+       "page": "",
+       "id": "--kaltura--1_lzailpce===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | תקועים בשנות ה-70",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cfa3ea316417449bbf89c9dcfe67da5e/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7p1bds43/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "בני הזוג חירות ויצהר כהן מתגוררים בדירה שהייתה שייכת לסבא וסבתא של חירות. הדירה לא חודשה מאז שנות ה-70 והשניים מרגישים שהם \"תקועים במנהרת הזמן\". מושיק מגיע לעזור",
+       "page": "",
+       "id": "--kaltura--1_7p1bds43===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | לביא ושירי זיטנר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87b3be09cf1e4bfb8c9324c2c3a463dd/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_32a8c2di/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "לביא ושירי זיטנר החליטו לעזוב את מגורי הקבע ולהתגורר במשאית. אז איך מחדשים משאית שאמורה לתפקד כמגורים? מושיק גלאמין מגיע לפרויקט בלתי שגרתי",
+       "page": "",
+       "id": "--kaltura--1_32a8c2di===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | מחוברים לחיים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f1e8298915b45b6b07a28989a86b3e4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zspz3ekh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "בני הזוג פז מוסקוביץ ומקס גן זך הם זוג אמנים שחיים בדירה שאינה מתאימה לאישיות הצבעונית שלהם ואינו מותאם לצרכים המיוחדים של פז. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zspz3ekh===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | האחים משה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60c7b0ea0d174cb3a14adb41edca98e4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l4uwsz2i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע לבית האחים משה כדי לחדש להם את הבית | התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_l4uwsz2i===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | משפחת דמרי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/81c693ed1378460092ac270d207cd738/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d1tx97fu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק מגיע למשפחת דמרי כדי להתאים את הבית למשפחה גדולה במיוחד. בא לחדש לכם לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_d1tx97fu===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | משפחת קקון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60282a192d68493c86a0d33150f25eaf/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uzkoi6se/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מושיק גלאמין מגיע למרק וליטל קקון כדי לחדש להם את הבית המוזיקלי | בא לחדש לכם לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_uzkoi6se===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "בא לחדש לכם | קרולין וציפי טביב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a3cff2027e045e789b2c0dc79addef0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gymaait7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "בא לחדש לכם בעונה חדשה - פרק 1 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gymaait7===",
+       "season": "עונה 7"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

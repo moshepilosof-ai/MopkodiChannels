@@ -1,0 +1,41 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - דור ה-WiFi",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "168",
+   "series_id": "168",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/335e353074d04c7287d62ad75aea1f0c/version/11/width/800/height/1200/quality/90",
+   "plot": "סדרה דוקומנטרית על בני נוער בגילאי 14-18 שחיים בישראל 2018. בכל פרק נחשף צד אחר בעולמם של בני הנוער, ובכל פרק אנחנו מגלים דברים חדשים מפתיעים, עצובים ומרגשים שלא ידענו על החיים שלהם. מנחה: אברי גלעד",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "דור ה-WiFi, עונה 1, פרק 1: סקס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e86d9033131453b97625cd6092f92a4/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_beo4882l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלבי, נעם ונועם הם שלושה בני נוער שמייצגים כל אחד בדרכו התמודדות עם נושא של סקס, יחסים וזוגיות. דרכם אנחנו נחשפים לעולם הסקס והיחסים המורכב של הילדים שלנו: מה הם חושבים על אהבה, על זוגיות, סקס, אינטימיות והטרדות מיניות. באיזה גיל הם מתחילים לראות פורנו, וכיצד מבינות בנות צעירות את קמפיין ה#METOO? | דור ה-WiFi פרק 1",
+       "page": "",
+       "id": "--kaltura--1_beo4882l===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "דור ה-WiFi, עונה 1, פרק 2: כסף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/96d6d43d49864e9e876bc457be714446/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r3fusgvr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "דור ה-WiFi, נוסעים לחברים בגט טקסי, קונים באשראי דרך האפליקציה, משקיעים בביטקווין, ולומדים מול המחשב מקצועות חדשים שאנחנו אפילו לא ידענו שקיימים והם מבינים בגיל צעיר שחוקי העולם השתנו. כיצד נראה העולם הכלכלי שלהם, כמה בית ספר עדיין רלוונטי ואיזו מערכת יחסים נוצרת בינו לבין עולם המבוגרים? דור ה-WiFi, פרק 2 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_r3fusgvr===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,296 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - המדרשה",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "93",
+   "series_id": "93",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/00596fcd357a43a19f6226137c05ab13/version/9/width/800/height/1200/quality/90",
+   "plot": "סדרת דרמה שבמרכזה קורס הכשרה סודי ביותר לארגון הביון הישראלי. בכיכובם של יהודה לוי, לירון וייסמן, צחי הלוי, מוריס כהן, אימרי ביטון, דניאל ליטמן ועוד",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "המדרשה, עונה 1, פרק 5: הווינברגים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/61c9f4fd1a7d41dcba9e75c1f05eede1/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gogpyr8a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-03",
+       "plot": "תוך כדי תרגיל, החניכים מגלים כי משימתם האמתית היא לעקוב אחד אחרי השני",
+       "page": "",
+       "id": "--kaltura--1_gogpyr8a===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 5: הווינברגים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95369eb518fa4c5794711d3e90be8027/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gogpyr8a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-03",
+       "plot": "תוך כדי תרגיל, החניכים מגלים כי משימתם האמתית היא לעקוב אחד אחרי השני",
+       "page": "",
+       "id": "--kaltura--1_gogpyr8a===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 12: מבצע סופיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7543d8e6c3bc4e6cac3f9aef2c80bac0/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0caxubow/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקורס טס לבולגריה בזהויות בדויות כדי לתרגל פעולות ביון בארץ זרה",
+       "page": "",
+       "id": "--kaltura--1_0caxubow===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 13: הרמת כוסית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8dc15ab1f67c46a99d9adb46781f2458/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hceugk1c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק הסיום של העונה יוצאים החניכים למבצע משולב כנגד יונה",
+       "page": "",
+       "id": "--kaltura--1_hceugk1c===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 7: תפוח רקוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/142db6e669b9429da05706e3f6bddd7b/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_catcx8sq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דלתות המדרשה ננעלות ללילה אחד שבו על החניכים לזהות מי מביניהם הוא הבוגד",
+       "page": "",
+       "id": "--kaltura--1_catcx8sq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 8: מבצע איוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d23ca39bbd36455cad897dceb4625ae2/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_372saeaf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החניכים לומדים כיצד להרוס את חייו של אדם כדי להפכו לפגיע וניתן לסחיטה",
+       "page": "",
+       "id": "--kaltura--1_372saeaf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 11: רומח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ffe02e57326a4d099f5170a018b46100/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u0pmbimp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בתרגולי החיסול שולח יונה את החניכים לבצע התנקשויות מדומות במטרות מסוכנות",
+       "page": "",
+       "id": "--kaltura--1_u0pmbimp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 9: גביע סימן טוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/772a48cdc1164a87aeb04e520e46d489/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g0p5u78g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החניכים נשלחים לחטוף אדם שנמצא תחת הגנת השב\"כ, כחלק מתחרות שנתית",
+       "page": "",
+       "id": "--kaltura--1_g0p5u78g===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק בכורה כפול: הכירו את המדרשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1cc6d92579f54091b26e1e0fc523ca3a/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mws1nib6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקורס הסודי בעולם נפתח בתרגיל פתיחה מיוחד במינו",
+       "page": "",
+       "id": "--kaltura--1_mws1nib6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1: מאחורי הקלעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/332bb639a1ed47f3a2dccef1cda8613b/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dps7p7xm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ברוכים הבאים למדרשה: מאחורי הקלעים של הדרמה המסקרנת",
+       "page": "",
+       "id": "--kaltura--1_dps7p7xm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 4: קפה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cdd3186098974c2f9ec56fc18bba0a05/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_drrq7ml3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יונה טומן מלכודת לאביגיל",
+       "page": "",
+       "id": "--kaltura--1_drrq7ml3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 3: סיפורי כיסוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17eca6127c194c26a1df7b22903ebe59/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9rv9zf34/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יכולתם של החניכים לתפקד תחת סיפורי כיסוי עומדת במבחן",
+       "page": "",
+       "id": "--kaltura--1_9rv9zf34===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 6: מלכודת דבש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/034ec0c4e52e4fbdbaf4bdac05bf4e81/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y7gjic9d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "החניכים מקבלים מטרות אותן עליהם לפתות ולתמרן",
+       "page": "",
+       "id": "--kaltura--1_y7gjic9d===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המדרשה, עונה 1, פרק 10: חשיפה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a96fe13c068438cbd5ff97a1591232d/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r1lwlj24/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מקס חוזר לנקום והחניכים מנסים לצאת מהמשבר אליו נקלעו עקב פציעתו של גיורא",
+       "page": "",
+       "id": "--kaltura--1_r1lwlj24===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "המדרשה, עונה 2, פרק 12: לסלוח זה אלוהי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2161bdcab1854e8d9514b02043cfed8d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ww80p399/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק הסיום של העונה יונה ואנשיו נלחמים מול דאע\"ש, תעלומת רצח אביו של לירון נפתרת ויונה מוצא לעצמו יעוד חדש. צפו בפרק הסיום של העונה השניה",
+       "page": "",
+       "id": "--kaltura--1_ww80p399===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה: לקראת העונה החדשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe21756f66434a5984e8b61f57b49721/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5gi7743i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לפני שהמדרשה חוזרת בעונה חדשה ופורצת גבולות, קבלו הצצה בלעדית לאקשן מאחורי הקלעים, לרגעים המיוחדים ולכל מה שאתם חייבים לראות כדי לבוא מוכנים",
+       "page": "",
+       "id": "--kaltura--1_5gi7743i===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/921fa0f3708c4a8e9a7c4c07f6b02cea/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iby5um85/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאחר שיונה נתקל בגופותיהם של דוריס ואהרון הוא נשלח להיפטר מהן. בינתיים החניכים מנהלים חקירה מול מלבין הכספים האוקראיני, ולירון חרירי מתמקד במטרה לחסל את יונה",
+       "page": "",
+       "id": "--kaltura--1_iby5um85===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 8: הקשר הישראלי של דאעש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e26a41ed88b408c84908a057843a002/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_czpeu1a2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שיונה מגלה שגורם ישראלי קשור לפעילות הפלילית של דאע\"ש באוקראינה. בזמן שמיצי מתכנן להימלט, לירון מקדם את תכניתו להחליף את ארגון הפצת הסמים האוקראיני | המדרשה: עונה 2, פרק 8",
+       "page": "",
+       "id": "--kaltura--1_czpeu1a2===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 11: הסוף של יונה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4e90ebca23184b0283a8a18a22eb7824/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oq6hw5l9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אבו דאוד נחוש לשים קץ להתערבותם של יונה וחניכיו, דוד עזריה מתחיל להתערב בכל התכניות והרקע להתרחשויות עם דאעש בקייב נחשף ובדיוק כשיונה חושב שהכל בשליטה, הוא שוכח שהנקמה של חרירי עוד מאיימת. האם זה סופו של יונה?",
+       "page": "",
+       "id": "--kaltura--1_oq6hw5l9===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f5f8d28a8f4e4198975258dbc4cbc8c8/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_12fcrs9m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאחר חטיפתה של אביגיל, לירון ויונה יוצאים לדרכי פעולה נפרדות במטרה להצילה. כותל מחליט לנצל את מצב הדברים כדי לחסל את יונה ומגלה שהמציאות מורכבת מכפי שחשב",
+       "page": "",
+       "id": "--kaltura--1_12fcrs9m===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 7: מחפשים את אביגיל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34ca7f10225f4def9322b7c7833440c4/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2opfvtvi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יונה יוצא עם כותל ומיצי לשטח בתקווה שהמעקב יוביל אותו לאביגיל ומנצל את ההזדמנות כדי לערער את נאמנותם ללירון, בזמן שלירון פועל במקביל באותה צורה בדיוק מול טובי ואיימי | המדרשה: עונה 2, פרק 7: מחפשים את אביגיל",
+       "page": "",
+       "id": "--kaltura--1_2opfvtvi===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 9: השליח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8cdf3726561d49fa8c15c40b8e1500a0/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xtf3urbu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אביגיל נפגשת עם מיכה בניסיון להשיג ממנו עוד מידע. מיצי מיישר את ההדורים מול לירון ובמקביל מתקרב עוד יותר לאיימי. חייו של גלעד נמצאים בסכנה כששליח מסתורי מטעם דאעש מגיע לקייב.",
+       "page": "",
+       "id": "--kaltura--1_xtf3urbu===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 10: קדיש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d8e0dc94c7644b9952f7c926ea1802e/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3yz15qmh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יונה יוצא עם אנשיו במטרה לאתר את גופתו של גלעד ואביגיל נפגשת עם ראש המוסד בקייב אבל מוצאת את עצמה תחת חקירה צולבת. המשימה מתגלה כבעלת אג'נדה נסתרת ומובילה לתוצאות מפתיעות",
+       "page": "",
+       "id": "--kaltura--1_3yz15qmh===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7289f067a3b14b5db8499fb782ff167b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uadn3bbg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בזמן שאביגיל מנסה לשרוד בשבי דאע\"ש, יונה עושה כמיטב יכולתו להציל את גלעד שהושתל בארגון הטרור. לירון ואנשיו חוזרים לבית המסתור במטרה להשיג מידע נוסף על המתרחש",
+       "page": "",
+       "id": "--kaltura--1_uadn3bbg===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6c47e58fc560491faea3a51db1968d72/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2uy4dcpj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לירון חרירי, כותל ומיצי מצליחים ללכוד את יונה בבית המסתור. אביגיל מגיעה לאוקראינה ומוצאת את עצמה לכודה בתוך תכנית גיוס שהשתבשה קשות. צפו עכשיו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_2uy4dcpj===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eeda78f44ce4445196dc696a1b3c731e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4y07i7wu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "\"המדרשה\", סדרת הדרמה המקורית והמצחילה שמשודרת ב-40 מדינות ברחבי העולם חוזרת בעונה חדשה, מסקרנת, מפתיעה ומטלטלת. צפו בפרק הבכורה",
+       "page": "",
+       "id": "--kaltura--1_4y07i7wu===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המדרשה, עונה 2, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/46d63bec60ad42debbd337ddffdf089c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7748s7h6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "התכנית המשותפת של יונה וחרירי יוצאת לדרך. הפושעים נשלחים ליצור מגע עם ארגון הפשע האוקראיני, אבל הכול משתבש כשטובי נשבר תחת הלחץ ומבצע שגיאה גורלית",
+       "page": "",
+       "id": "--kaltura--1_7748s7h6===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

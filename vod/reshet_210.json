@@ -1,0 +1,141 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - עממיות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "210",
+   "series_id": "210",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1bbddf99564f4bf4bb060d8f64bc2879/version/163/width/800/height/1200/quality/90",
+   "plot": "סדרת טלוויזיה קומית בבימויו של נאור ציון, שודרה בתחילת שנת 2014, בערוץ 2 על ידי הזכיינית רשת. לפניכם כל הפרקים ששודרו לצפייה ישירה",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עממיות, עונה 1, פרק 5: האח של שונטל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c589637612a049b4b5e50156fff94bfe/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1ler00jg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אח של שונטל ה- Name Dropper הגיע לביקור בעיר הגדולה",
+       "page": "",
+       "id": "--kaltura--1_1ler00jg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, פרק 4 : אילת זה אילת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13ce1c0ce02b4ebe8dd1ed559e8dffbb/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_85ruk0n9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שונטל נוסעת לאילת בעקבות האהבה, נסיעה שיצאה משליטה",
+       "page": "",
+       "id": "--kaltura--1_85ruk0n9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 1: שונטל מאחורייך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/68f7f1dc27344fb08a404e120d2af6aa/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ek3b4fkx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ארבע חברות טובות חזקות ושורדות שמגיעות מהפריפריה לת\"א",
+       "page": "",
+       "id": "--kaltura--1_ek3b4fkx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 2: המוכרת מאדריאן נטורל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60ac136693df4853a1d61496977a8797/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cg7o991h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הבנות רבות עם מוכרת היפסטרית שמשפילה אותן בחנות הבגדים",
+       "page": "",
+       "id": "--kaltura--1_cg7o991h===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 3: Hello",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/480ee75bcea846e39b067af9c1cdc2c1/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ec23q6c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה יעשו הבנות כאשר הן מעוניינות בדירה החמה ביותר בת\"א?",
+       "page": "",
+       "id": "--kaltura--1_7ec23q6c===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 10: מודעת מדי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7137804501574277be68f23c1b0645e2/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f4bzi6su/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "העממיות באות לעזרת חברה המועמדת לתחרות מלכת היופי",
+       "page": "",
+       "id": "--kaltura--1_f4bzi6su===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 11: הפסיכולוגית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ce296d1de1c432bae6e9e22ea57043e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_37bnvut1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שונטל לא יודעת איך להתנהל מול הפסיכולוגית שלה, איך זה יגמר?",
+       "page": "",
+       "id": "--kaltura--1_37bnvut1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 12: Federer",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/027e60017c934b74b761b06c3bceb56d/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_acn4oxky/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התבשר לשונטל שיש לה כוחות ובידה לשנות את גורלו של פדרר",
+       "page": "",
+       "id": "--kaltura--1_acn4oxky===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 8: הפרנסאווית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a6378de98dd49d2b94f52ce3cf01a2c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qi189lou/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פצצה מצרפת הורסת לסילבי את כיבוש ליבו של עמרי כספי",
+       "page": "",
+       "id": "--kaltura--1_qi189lou===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 9: אשכנזי סופג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8fa8a1ba35e94e708b2e51d542696d63/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0dz2idvx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חברה מהעבר חוזרת לחייהן של הבנות ולא מפסיקה להלל את בן זוגה החדש",
+       "page": "",
+       "id": "--kaltura--1_0dz2idvx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 6: העוזרת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8e7959eec1149069b4ac35784a4f4ed/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cv698eq0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שונטל מחליטה להסתבך עם העוזרת של החבר שלה",
+       "page": "",
+       "id": "--kaltura--1_cv698eq0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עממיות, עונה 1, פרק 7: יום האהבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db3fb9db7150451084e1fd1f501ed8d9/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_px00aie2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יום האהבה מתקרב והבנות מתכננות הפתעות לבני הזוג שלהן",
+       "page": "",
+       "id": "--kaltura--1_px00aie2===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

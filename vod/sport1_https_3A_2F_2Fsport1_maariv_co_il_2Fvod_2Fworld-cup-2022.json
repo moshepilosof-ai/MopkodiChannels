@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - מונדיאל 2022",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-cup-2022",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-cup-2022",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1137746",
+   "plot": "",
+   "updated": "2026-10-31 00:09",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "גמר מונדיאל 2022: אוהדי נבחרת ארגנטינה חוגגים בבואנוס איירס",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1137746",
+       "url": "https://mp4.wcdn.co.il/3472306/3472306-1500-1024x576.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1010524/",
+       "season": ""
+      },
+      {
+       "name": "אוהדי נבחרת ארגנטינה חוגגים בבואנוס איירס",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1137743",
+       "url": "https://mp4.wcdn.co.il/3472181/3472181-1500-1024x576.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1010350/",
+       "season": ""
+      },
+      {
+       "name": "איוונה נול אוהדת קרואטיה רוקדת את ריקוד היונה אחרי הניצחון על ברזיל",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://mp4.wcdn.co.il/3468455/3468455-1500-1024x576.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1009802/",
+       "season": ""
+      },
+      {
+       "name": "התפרעויות ברחבי צרפת אחרי המשחק בין צרפת למרוקו במונדיאל 2022",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1137328",
+       "url": "https://mp4.wcdn.co.il/3471219/3471219-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1008927/",
+       "season": ""
+      },
+      {
+       "name": "אוהדי נבחרת צרפת חוגגים בפריז",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1137213",
+       "url": "https://mp4.wcdn.co.il/3470763/3470763-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1008566/",
+       "season": ""
+      },
+      {
+       "name": "כמו אוהדים: צפו בשחקני נבחרת ארגנטינה חוגגים ושרים בחדר ההלבשה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1137115",
+       "url": "https://mp4.wcdn.co.il/3470369/3470369-1671002063247227-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1008211/",
+       "season": ""
+      },
+      {
+       "name": "אוהדי נבחרת ארגנטינה מחוץ לאצטדיון לוסייל",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1136991",
+       "url": "https://mp4.wcdn.co.il/3470181/3470181-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1007959/",
+       "season": ""
+      },
+      {
+       "name": "רחובות בריסל אחרי מהומות של אוהדי נבחרת מרוקו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1136795",
+       "url": "https://mp4.wcdn.co.il/3469387/3469387-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1007352/",
+       "season": ""
+      },
+      {
+       "name": "אוהדי נבחרת מרוקו התפרעו ברחבי אירופה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1136359",
+       "url": "https://mp4.wcdn.co.il/3469398/3469398-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/world-cup-2022/video/1006926/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

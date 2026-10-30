@@ -1,0 +1,81 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - רשימת חיסול",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "117",
+   "series_id": "117",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bff70ac36ef54edfae5c07ae5f83fc82/version/13/width/800/height/1200/quality/90",
+   "plot": "רשימת חיסול - סדרת דוקו אקשן בהובלת אלון בן דוד המשחזרת דקה אחר דקה את מבצעי החיסול הנועזים ביותר של מדינת ישראל",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "רשימת חיסול, עונה 1, פרק 1: חיסולו של המהנדס יחיא עייאש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c57ce81fa6c64bf2926f631f94714c98/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6p77vxwe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלון בן דוד מביא את מבצעי חיסול הטרוריסטים המסוכנים ביותר בעולם כפי שמעולם לא סופרו. בפרק הבכורה מתואר סיפור חיסולו של המחבל יחיא עייאש, \"המהנדס\", באמצעות טלפון ממולכד, מרגע ההחלטה על חיסולו ועד רגע השיחה שסיימה את חייו. רשימת חיסול לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6p77vxwe===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "רשימת חיסול, עונה 1, פרק 3: חיסולו של אבו ג'יהאד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b7dfb7c897d448aba7e1a5e95cb43854/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_sem2tv82/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המבצע הגדול והיקר ביותר שביצעה ישראל מיום הקמתה, בו כל הכוחות המיוחדים של המדינה שיתפו פעולה לתכנון מבצע אחד מושלם: חיסולו של אבו ג'יהאד, ראש הזרוע הצבאית של אש\"ף, בלב מדינת האויב | \"רשימת חיסול\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_sem2tv82===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "רשימת חיסול, פרק 2: ניסיון החיסול של חאלד משעל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da26f04c03c44eac949a9bf646588455/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_g3ufqzva/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אלון בן דוד בסדרה המשחזרת את חמשת החיסולים הנועזים שידעה מדינת ישראל על ידי השב\"כ, המוסד וצה\"ל. והפעם: הסודות מאחורי ניסיון חיסולו של מנהיג החמאס, חאלד משעל",
+       "page": "",
+       "id": "--kaltura--0_g3ufqzva===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיסול ממוקד באיראן - אלון בן דוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/78c58013f70f495987c07b8a79791751/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_atakwtpu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "כך חוסל בלב איראן, אבי הפצצה האירנית מוחסן פחריזאדה, שלב אחרי שלב. מסע מרתק אחר אחד ממבצעי החיסול המסעירים בעולם. אלון בן דוד ובכירי אנשי המוסד ושירותי הביטחון בישראל עם פרטים חדשים על אחת מפעולות החיסול הנועזות של השנים האחרונות",
+       "page": "",
+       "id": "--kaltura--1_atakwtpu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "רשימת חיסול, עונה 1, פרק 4: סמיר קונטאר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f27131438a542769812e0efb6670e63/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_dnhlgk1s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "חיסולו של המחבל האכזרי, סמיר קונטאר, שמעולם לא הביע חרטה על הפיגוע הקטלני, בו רצח במו ידיו ילדה קטנה וכתוצאה מכך, הותיר מדינה שלמה בטראומה",
+       "page": "",
+       "id": "--kaltura--0_dnhlgk1s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "רשימת חיסול, עונה 1, פרק 5: עלי חסן סלמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d937d70f3b85416a8da89f3f48bf2777/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_1emggyxf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "פרק סיום העונה: כדי לסגור את החשבון הזה נדרש מבצע מדהים וחסר תקדים, בו גוייסו שני סוכני מוסד בזהות בדויה על מנת להתקרב למטרה: הנסיך האדום, עלי חסן סלמה | \"רשימת חיסול\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_1emggyxf===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

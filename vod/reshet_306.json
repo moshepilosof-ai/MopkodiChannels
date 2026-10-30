@@ -1,0 +1,101 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - ארוחת שחיתות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "306",
+   "series_id": "306",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2fd9b924dc0344fe987fd2e14ee21076/version/10/width/800/height/1200/quality/90",
+   "plot": "עפר שכטר וטום אביב מבשלים את האוכל הכי מוגזם, ומארחים בכל לילה את האנשים הכי מעניינים לשיחה על החיים ולתחרות באתגרים מצחיקים במיוחד",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ארוחת שחיתות עם טום אביב ועפר שכטר, פרק 8: גילי איצקוביץ'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/750ae38404c841449d4935edc382e1bd/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w1fp7t28/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_w1fp7t28===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ארוחת שחיתות עם טום אביב ועפר שכטר, פרק 7: שרון פרי ומאור אדרי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/975d5ba8188d45839c2f41926ddd0cca/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zvpc4wtu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_zvpc4wtu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ארוחת שחיתות עם טום אביב ועפר שכטר, פרק 5: מייקל לואיס ואסי בוזגלו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/74d9965bea0f4e99ae4456707d9d541c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y5gevjxw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עפר שכטר וטום אביב מבשלים את האוכל הכי מוגזם, ומארחים הלילה לסעודת שחיתות אורחים שונים לשיחה על החיים ולתחרות באתגרים מצחיקים במיוחד!",
+       "page": "",
+       "id": "--kaltura--1_y5gevjxw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ארוחת שחיתות עם טום אביב ועפר שכטר, פרק 3: בן זיני ומעיין אשכנזי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a4cd694d34440a3b6929cd9d6c8e533/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vvc3u9w4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עפר שכטר וטום אביב מבשלים את האוכל הכי מוגזם, ומארחים הלילה לסעודת שחיתות אורחים שונים לשיחה על החיים ולתחרות באתגרים מצחיקים במיוחד!",
+       "page": "",
+       "id": "--kaltura--1_vvc3u9w4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ארוחת שחיתות עם טום אביב ועפר שכטר, פרק 2: ירדן הראל ואיתי הרמן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41674deb8f08469c977cb19519933d46/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yw2k5vsp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עפר שכטר וטום אביב מבשלים את האוכל הכי מוגזם, ומארחים הלילה לסעודת שחיתות אורחים שונים לשיחה על החיים ולתחרות באתגרים מצחיקים במיוחד!",
+       "page": "",
+       "id": "--kaltura--1_yw2k5vsp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ארוחת שחיתות עם טום אביב ועפר שכטר, פרק 1: יובל המבולבל ועו\"ד ששי גז",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff442e0be53648bb8767a57813772e7c/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i33o98zf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עפר שכטר וטום אביב מבשלים את האוכל הכי מוגזם, ומארחים הלילה לסעודת שחיתות את יובל המבולבל ועו\"ד ששי גז, לשיחה על החיים ולתחרות באתגרים מצחיקים במיוחד!",
+       "page": "",
+       "id": "--kaltura--1_i33o98zf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ארוחת שחיתות עם טום אביב ועפר שכטר, פרק 6: שלום אסייג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/076608fbff884304a477991596affecd/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_21cqtcxj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "עפר שכטר וטום אביב מבשלים את האוכל הכי מוגזם, ומארחים הלילה לסעודת שחיתות אורחים שונים לשיחה על החיים ולתחרות באתגרים מצחיקים במיוחד!",
+       "page": "",
+       "id": "--kaltura--1_21cqtcxj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ארוחת שחיתות, פרק 4: סקאזי ואירה דולפין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5855a67c7d044ad2abedb97619d0ba46/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lecjiyf7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "עפר שכטר וטום אביב מבשלים את האוכל הכי מוגזם, ומארחים הלילה לסעודת שחיתות אורחים שונים לשיחה על החיים ולתחרות באתגרים מצחיקים במיוחד!",
+       "page": "",
+       "id": "--kaltura--1_lecjiyf7===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

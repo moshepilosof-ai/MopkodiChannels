@@ -1,0 +1,91 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - אגרוף",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fboxing",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fboxing",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1051857",
+   "plot": "",
+   "updated": "2026-10-31 00:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "צפו: כמעט ארבע שנים מאז הפעם האחרונה, פלויד מייוות'ר חזר להיאבק",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1051857",
+       "url": "https://sport1-video-f.wcdn.co.il/3218597/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/boxing/video/670673/",
+       "season": ""
+      },
+      {
+       "name": "רואיז שרד מהלומה עוצמתית וניצח את אראולה בהחלטת שיפוט",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1046004",
+       "url": "https://sport1-video-f.wcdn.co.il/3218955/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/boxing/video/637520/",
+       "season": ""
+      },
+      {
+       "name": "צפו: האלוף ארול ספנס ג'וניור הכניע את דני גרסיה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1020506",
+       "url": "https://sport1-video-f.wcdn.co.il/3237732/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/boxing/video/487649/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מייק טייסון חזר לזירה בגיל 54",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1019299",
+       "url": "https://sport1-video-f.wcdn.co.il/3227186/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/boxing/video/480139/",
+       "season": ""
+      },
+      {
+       "name": "נייט רובינסון, כוכב NBA לשעבר ואקס הפועל ת\"א, סופג נוק אאוט",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1019303",
+       "url": "https://sport1-video-f.wcdn.co.il/3241149/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/boxing/video/480135/",
+       "season": ""
+      },
+      {
+       "name": "קרופורד שמר על חגורת האליפות של ה-WBO במשקל מעורב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1016855",
+       "url": "https://sport1-video-f.wcdn.co.il/3227024/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/boxing/video/466681/",
+       "season": ""
+      },
+      {
+       "name": "אוסיק הכניע את צ'יזורה והוכתר לאלוף הבין יבשתי במשקל הכבד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1014525",
+       "url": "https://sport1-video-f.wcdn.co.il/3239730/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/boxing/video/453423/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

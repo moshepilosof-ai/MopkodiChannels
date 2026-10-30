@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "i24news - משדר מיוחד | בחירות 2026",
+   "type": "vod",
+   "source": "i24news",
+   "program_url": "action%3Dseasons_univtec%26series_id%3D6ae0b033108596cdbecfadb3%26show_name%3D%25D7%259E%25D7%25A9%25D7%2593%25D7%25A8%2B%25D7%259E%25D7%2599%25D7%2595%25D7%2597%25D7%2593%2B%257C%2B%25D7%2591%25D7%2597%25D7%2599%25D7%25A8%25D7%2595%25D7%25AA%2B2026",
+   "series_id": "action_3Dseasons_univtec_26series_id_3D6ae0b033108596cdbecfa",
+   "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/uploaded/e7bdac87-a448-4bd0-a9d6-170244350ff3.png",
+   "plot": "שידורי i24NEWS עם סיקור שוטף לאורך יום הבחירות, מדגם ותוצאות האמת",
+   "updated": "2026-10-31 00:06",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "משדר מיוחד עם שרון גל 28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70398634797.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4d4967ad-1389-4cd0-b03f-7da20693ea4a/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4d4967ad-1389-4cd0-b03f-7da20693ea4a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד עם ניב גלבוע  28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70398505471.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9e406ffc-c679-4c79-ad68-828461a6f99a/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9e406ffc-c679-4c79-ad68-828461a6f99a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד עם נוה דרומי  28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70398434783.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/efc213e6-8348-419c-8747-96789f009fad/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/efc213e6-8348-419c-8747-96789f009fad/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד עם שרון ניסים 28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70398318241.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4b9f901c-e1bd-4992-b255-e02f9087b628/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4b9f901c-e1bd-4992-b255-e02f9087b628/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד סיריל עמר חלק שני  28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70394796891.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a82919fa-d562-4efa-9a01-6df535bdf32a/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a82919fa-d562-4efa-9a01-6df535bdf32a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד עם סיריל עמר חלק ראשון  28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70394418447.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d09462c5-3964-4fe5-a28d-4d18a1dcc9d6/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d09462c5-3964-4fe5-a28d-4d18a1dcc9d6/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד עם מיכל רבינוביץ  28-10-26 חלק שני",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70394179873.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/846e58bd-7142-47d8-9e11-f8fe6c87803b/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/846e58bd-7142-47d8-9e11-f8fe6c87803b/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד עם מיכל רבינוביץ חלק ראשון  28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70394131622.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f330d102-0594-47d0-adb7-712d38a748d7/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f330d102-0594-47d0-adb7-712d38a748d7/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד עם דניאל רוט אבנרי חלק שני 28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70394054454.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/da08635e-170b-4ba5-8081-3d87aae9b071/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/da08635e-170b-4ba5-8081-3d87aae9b071/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד עם דניאל רוט אבנרי חלק ראשון 28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70394016174.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8f8705c7-0b63-45cf-8e15-6b96f30eede9/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8f8705c7-0b63-45cf-8e15-6b96f30eede9/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר מיוחד: מדגם i24NEWS | בחירות 2026, 27-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70388143159.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2a06080f-d466-4e80-a96a-7890429987af/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2a06080f-d466-4e80-a96a-7890429987af/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "הליכוד מובילה, אך גוש נתניהו מתקשה להגיע ל-61: תוצאות מדגם i24NEWS",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70366938437.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ccf666b4-8c7a-4da1-96d6-f8f362b0b24d/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ccf666b4-8c7a-4da1-96d6-f8f362b0b24d/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר בחירות מיוחד עם ניב גלבוע  27-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70362470107.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ac9579ac-e9db-4b1e-a3df-72c41274a4bb/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ac9579ac-e9db-4b1e-a3df-72c41274a4bb/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר בחירות מיוחד עם דניאל רוט אבנרי 27-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70360268258.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bfa8b88f-c804-40d4-9d0a-605160de1234/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bfa8b88f-c804-40d4-9d0a-605160de1234/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר בחירות מיוחד עם אלירז שדה חלק ראשון  27-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70358489762.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8a230e9f-8606-472c-8d0f-04726bcf70f6/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8a230e9f-8606-472c-8d0f-04726bcf70f6/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר בחירות מיוחד עם אלירז שדה חלק שני  27-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70358524729.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9c5e16ad-ff33-4200-bf56-c4236c7ca707/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9c5e16ad-ff33-4200-bf56-c4236c7ca707/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר בחירות מיוחד עם אורי קואל חלק ראשון 27-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70358440968.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9c0f603f-c4de-4593-af55-33caeff4ed9a/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9c0f603f-c4de-4593-af55-33caeff4ed9a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר בחירות מיוחד עם אורי קואל חלק שני 27-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70358460408.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2c27712d-cb9b-4018-bad4-05ca0ecc4fa8/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2c27712d-cb9b-4018-bad4-05ca0ecc4fa8/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר בחירות מיוחד עם שרון ניסים 27-10-26 חלק ראשון",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70358330291.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4ea90fc9-a201-4aa3-84d6-f931622a3578/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4ea90fc9-a201-4aa3-84d6-f931622a3578/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "משדר בחירות מיוחד עם שרון ניסים חלק שני 27-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70358400627.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/43fc9234-c38c-4c16-875b-6bace6b69d40/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/43fc9234-c38c-4c16-875b-6bace6b69d40/hls/master.m3u8",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

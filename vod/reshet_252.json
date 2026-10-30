@@ -1,0 +1,116 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - שף מתחלף",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "252",
+   "series_id": "252",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0f8996b57f264db788a370991aa79a64/version/23/width/800/height/1200/quality/90",
+   "plot": "תוכנית דוקו-ריאליטי, שבה בכל פרק יתחלפו שני שפים ולמשך 24 שעות כל שף ישתלט על המסעדה של השף השני. לאחר יממה כל שף יחליט אם ליישם את השינויים",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שף מתחלף, עונה 1, פרק 1: שגב משה מול ירון שלו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2987248c6827483394625c49459750bf/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0zmzelcf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מצד אחד: השף של segev art; מצד שני, השף של מסעדת טוטו; מה יקרה כשכל אחד מהם ישתלט על המסעדה של השני ל-24 שעות, כיצד יקבלו זאת אנשי המטבח - ומהן התובנות שייקחו איתם בסיום? | \"שף מתחלף\", פרק הבכורה, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_0zmzelcf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שף מתחלף, עונה 1, פרק 2: דיוויד פרנקל מול שחף שבתאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b90597cfd3dc454689a1f9492d5cf437/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_10uuidqx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מצד אחד: השף של מסעדת \"פרונטו\" שמגדל את אותה מחמצת כבר 15 שנה. מצד שני: השף של מסעדת \"pop & pope\" שעיצב את המקום כחוויה אינסטגרמית בפני עצמה; כיצד נראו 24 השעות שבהן השניים החליפו מטבחים, מי מהם הרגיז את אנשי המטבח - והאם השפים אימצו את המנות האחד של השני? | \"שף מתחלף\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_10uuidqx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שף מתחלף, עונה 1, פרק 3: טל כהן מול דודו אלמקייס ויוסי שטרית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b507c26288040bdb9cdce6034d16a1b/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gfoqei2g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ההחלפה שהתפוצצה: מצד אחד, השף של מסעדת \"סילו\" שמתעקש שיקפידו לקרוא לו שף. מצד שני: השפים של מסעדת \"דוד ויוסף\" שממש לא מאמינים ש\"הלקוח תמיד צודק\"; אז מה הוביל לפיצוץ בין השפים, מדוע אחראי המשמרת באחת המסעדות הוריד את השאלטר - ומה הרגיז את מנהלת המטבח? הפרק שיצא משליטה | \"שף מתחלף\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gfoqei2g===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שף מתחלף, עונה 1, פרק 4: מושיקו גמליאל מול הלל תווקולי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/109ad31739a74f9b959c1c5873c89ae6/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3byhf83d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מצד אחד: השף של \"בר 51\" שהביא איתו את הקסם של ירושלים ללב תל אביב; מצד שני, השף של מסעדת \"animar\" שכשם המקום - מכניס את הנשמה לצלחת; מה יקרה כשכל אחד מהם ירחיק למסעדה של השני - שנמצאת במרחק של 300 מטר בלבד - וישתלט על המטבח למשך 24 שעות? | \"שף מתחלף\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3byhf83d===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "שף מתחלף, עונה 2, פרק 5: M25 נגד וייס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7d902da387644a80a11acaa1fe77982c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5dg9g5df/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-23",
+       "plot": "מצד אחד יהונתן בורוביץ', השף שנולד עם סכין קצבים ביד ומנצח על מסעדת בשרים בשוק הכרמל; מצד שני גיל דהאן, השף שעובד רק עם פינצטה וחייב שכל האוכל שמוגש אצלו יהיה מדויק לחלוטין; איך יכול להיות שמשני שפים הפוכים התבשל סיפור אהבה? | שף מתחלף, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_5dg9g5df===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שף מתחלף, עונה 2, פרק 4: טופולופומפו נגד פאסטל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f78de009509141aba1aacbfdb8184206/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d4ejg5w5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-16",
+       "plot": "מצד אחד קובי בכר, השף של מסעדת פאסטל המיתולוגית; מצד שני, אבי קונפורטי - השף של טופולופומפו שידוע כאדם שערורייתי שלא חוסך בביקורת. האם החלפת המטבחים עברה בשלום? ספוילר: ממש לא | שף מתחלף, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_d4ejg5w5===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שף מתחלף, עונה 2, פרק 3: פופינה נגד טורקיז",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6214ebdf83a843e7be12eb3126e24716/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mwrhm387/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-02",
+       "plot": "מלבד העובדה ששתיהן נמצאות בתל אביב - למסעדה של רז סלע ולמסעדה של אוראל קמחי אין שום מכנה משותף. אז מה קרה כששני שפים הפוכים לגמרי נכנסו האחד למטבח של השני? כצפוי, היה פיצוץ | שף מתחלף, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_mwrhm387===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שף מתחלף, עונה 2, פרק 2: קלאטה מול פלומינו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb3a3b901ebe4bc688cf2be23c1de511/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4hitc57p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-26",
+       "plot": "מצד אחד: שלומי בן שלום, שף צעיר שלמרות שמעולם לא ביקר באיטליה - פתח מסעדה איטלקית וכשרה בירושלים; מצד שני, אנדראה מגי, שף שנולד בארץ המגף ומנצח יחד עם אשתו על מסעדה עם טעמים מנוף ילדותו; מה יקרה כשהראשון ינסה ללמד את השני איך באמת מכינים פסטה? יהיה פיצוץ זה בטוח | שף מתחלף, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_4hitc57p===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שף מתחלף, עונה 2, פרק 1: אבי לוי מול איתי קושמרו ושמי גולומב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/163cfc9139fb462a8ac68550ddf4bc98/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ef51uzzd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מצד אחד: השף של מסעדת \"המוציא\" הירושלמית שאימא שלו היא הפנים של המקום (ליטרלי); מצד שני, השפים של \"בית קנדינוף\" התל אביבית שבכלל החלה כגלריה לאומנות; כיצד לוי, שמקפיד על מטבח כשר, יבשל במקום שמגיש תמנונים, איך הצמד שמכין אוכל גורמה ישתלב במטבח המרוקאי - ולמה בישראל 2023 השד העדתי הוא עדיין אישיו? | שף מתחלף, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ef51uzzd===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

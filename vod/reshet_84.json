@@ -1,0 +1,206 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - לצבי יש בעיה",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "84",
+   "series_id": "84",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b25163a70d034557b5b8cf5aaa13c2a0/version/8/width/800/height/1200/quality/90",
+   "plot": "\"לצבי יש בעיה\" היא סדרת דרמה קומית- אוטוביוגרפית בפורמט חדשני שבמרכזה עומד השחקן וכוכב הטלוויזיה צביקה הדר.",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "לצבי יש בעיה, עונה 1, פרק 1: הז בין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5158d895fe2e467587e0359cdf254f09/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rk5gytxe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק הבכורה של סדרת הדרמה החדשה בכיכובו של צביקה הדר, על ניסיונותיו לחזור למרכז הבמה",
+       "page": "",
+       "id": "--kaltura--1_rk5gytxe===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 1, פרק 8: שבת שלום לכם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/20e2636b14414440abf00b1194a1390b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jsnhekqw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צביקה מקבל תוכנית אירוח חדשה בשם \"שישי שבת שלום לכם\" וסיוטי העבר חוזרים לרדוף אותו ביום הכי חשוב בקריירה שלו",
+       "page": "",
+       "id": "--kaltura--1_jsnhekqw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 1, פרק 5: תחתום פה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b904407b4bd0464b9886d10e76182a19/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ylteb6s7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יום בהיר אחד צביקה מגלה שהפך לאויב העם, כשהוא מסרב לחתום על עצומה נגד הופעות מעבר לקו הירוק שיוזמים חבריו להצגה ב'הבימה'",
+       "page": "",
+       "id": "--kaltura--1_ylteb6s7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 1, פרק 3: אוי זכריה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b73c935ad5d45b78c8145486b413a3a/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zwtmc52p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בעלה של ירדנה נפטר והיא מבקשת מצביקה שיספיד אותו בלוויה, בזמן שהוא טרוד באודישן לתפקיד בסדרה ״משחקי הכס\"",
+       "page": "",
+       "id": "--kaltura--1_zwtmc52p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 1, פרק 6: הארנבת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d34e5f57062a4fd786adbe4f6c883189/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c6bdc9pw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צביקה טרוד באודישן גורלי ל'בית הקלפים' וחושש שמתפתח רומן אסור בין לטי לאורנה בנאי שיסכן את חיי המשפחה",
+       "page": "",
+       "id": "--kaltura--1_c6bdc9pw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 1, פרק 4: זה היה בחנוכה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f0df8cc8ec014646b52c565dd9ef2dce/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oxt9arf1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צביקה נאלץ להשתתף בהצגת חנוכה בגן של בנו אבל לא מוכן להופיע בפני רענן שקד, שהוא במקרה גם אב של אחד הילדים",
+       "page": "",
+       "id": "--kaltura--1_oxt9arf1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 1, פרק 2: החבר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1ee38704e08483a8dd82ca51852c67d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_johgiowg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "צביקה מועמד לגלם את נועם שליט בסרט של אבי נשר ומוטרד מאוד מכך שהחבר החייל של בתו נשאר לישון אצלה. צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_johgiowg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 1, פרק 7: ארזנו לבד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50de03c5b464420b90265d7d650c3d54/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nzchphvo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "ההכנות לנסיעה להוליווד בעיצומן, אבל מגדת עתידות מזהירה את צביקה שהנסיעה תהיה אסון. האם הנבואה תתגשם?",
+       "page": "",
+       "id": "--kaltura--1_nzchphvo===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 2: סדנת כעסים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c3cc618b5e364efba2f956401637ca49/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lxbnka8i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צבי מגיע לכביש טעון ועצבני ומוציא את הכעסים על לא אחרת מאשר טהוניה, איזה מזל שתמיד מישהו יצלם ויעלה לרשת. צבי מסתבך עם כל העדה האתיופית ועכשיו הוא חייב להתמודד בסדנה מיוחדת, חושבים שהוא יצליח? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_lxbnka8i===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 1: אסי עזר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a82a728b2b0d4f5fa616c538ce2f3421/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fq2ccrhb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "למה לצבי יש בעיה עם אסי עזר ולמה כשהוא מת היא רק מחמירה? העונה החדשה של \"לצבי יש בעיה\" חוזרת והיא בעייתית במיוחד;) מוכנים להתמודד?!",
+       "page": "",
+       "id": "--kaltura--1_fq2ccrhb===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 5: יום השואה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a1e3194970048c9830ae09da085f42f/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_v29fuvup/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הוויז מוכן לצאת לדרך דווקא באמצע עדות של ניצולת שואה בטקס של הבן בבית ספר, גל חושב שהוא צאצא של קצין אס אס ומוכרח לבדוק את העניין לעומקו והיום רק הולך ומשתפר - צפו בפרק 5 המלא של \"לצבי יש בעיה\"",
+       "page": "",
+       "id": "--kaltura--0_v29fuvup===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 6: בוביבאס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/213dcd0b8da0476390ed646f15b783d6/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_7ouj25fp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשמשפחת הצבי מתרחבת, ולטי מתעקשת על עגלת הבוביבאס, לצביקה אין ברירה אלא לקבל הנחת סלב שכמעט ועולה לו בבריאות | צפו בפרק 6 המלא של \"לצבי יש בעיה\"",
+       "page": "",
+       "id": "--kaltura--0_7ouj25fp===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 7: שיר מתגייסת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35afe59f308345cb86d091a59cc93a3c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_j4kdv752/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ביתו של הצבי מתגייסת ליחידה קרבית, והחרדות של הצבי צפים, על מנת שתלך ליחידה קרובה לבית הוא מוכן לעשות הכול | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_j4kdv752===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 8: הסוס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a164c63f0b548b28816cdbc9ff0a27b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_4w5ke7k5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "משפחת הדר המורחבת יוצאת לנופש, לטי מתעקשת שצבי ישלם, והוא מתעקש להסתיר ממנה את העובדה שלא שילם | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_4w5ke7k5===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 9: בוטוקס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd63db24af97425e968a84311e2dea98/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_mskcglvw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צביקה מחליט לעת זקנה להתחיל בטיפולי בוטוקס, אבל הפחד שלו הוא שיגלו אותו ולכן הוא מעדיף לעשות את הטיפולים בביתו של הרופא ולשקר ללטי",
+       "page": "",
+       "id": "--kaltura--0_mskcglvw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 10: לידה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f6493e454a7c4b9c9d79a62f89958ac3/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_3c95wq9z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אשתו של צביקה יולדת בבית, והצבי עושה הכול על מנת להטיב עימה. ובכנס שמתרחש בביתה של גרושתו של צביקה גל תורן עושה שמות | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_3c95wq9z===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 3: אורלי שריקי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1328bd85269c4cefb68cc2b0bab1c68b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pbcuqni9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהבת הנעורים חוזרת לרדוף את צבי דווקא עכשיו כשלטי בהריון עם התאומים - והיא נראית לא רע, האם צבי יצליח להתמודד? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_pbcuqni9===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לצבי יש בעיה, עונה 2, פרק 4: הכרזת מלחמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f5a97cfbcb94857ab3c45ced7c7ffb9/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jz8i4egy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מה קורה כשאישתו של צביקה הופכת להיות יותר ויראלית מאישתו של החבר הכי טוב? צביקה ולטי במלחמה מול הזוג מיכל ויואב צפיר - צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_jz8i4egy===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

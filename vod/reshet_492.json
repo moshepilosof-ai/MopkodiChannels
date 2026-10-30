@@ -1,0 +1,181 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - המועדון עם שחר חסון",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "492",
+   "series_id": "492",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/975ebe872ee44d3da155b0557a9c08a2/version/0/width/800/height/1200/quality/90",
+   "plot": "אחד הסטנדאפיסטים הכי מצליחים בארץ, בערב שכולו צחוק צחוק ועוד צחוק. \"המועדון עם שחר חסון\" מזמין אתכם להופעה הכי מצחיקה בטלוויזיה, וזאת רק ההתחלה",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | תמיר בוסקילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5123f49f94b84cbcab3e38d6b56ac0d0/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4iv2qxae/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון במופע סטנד אפ חסר מעצורים מארח סטנדאפיסטים צעירים לערב מצחיק של אלתורים",
+       "page": "",
+       "id": "--kaltura--1_4iv2qxae===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | נחום דדי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b7e82bc3e6e4d0abe373fb171cbd9a3/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jkp6sgr7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון במופע סטנד אפ חסר מעצורים מארח סטנדאפיסטים צעירים לערב מצחיק של אלתורים",
+       "page": "",
+       "id": "--kaltura--1_jkp6sgr7===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | משה אשכנזי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1aa2cbc115ed43b996282f0210dcbdfe/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r7bm5m5k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון במופע סטנד אפ חסר מעצורים מארח סטנדאפיסטים צעירים לערב מצחיק של אלתורים",
+       "page": "",
+       "id": "--kaltura--1_r7bm5m5k===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | אסף מור יוסף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/394b1726f06d45c793a0c3029d18b4e2/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mstr8v09/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון במופע סטנד אפ חסר מעצורים מארח סטנדאפיסטים צעירים לערב מצחיק של אלתורים",
+       "page": "",
+       "id": "--kaltura--1_mstr8v09===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | ארז קליימן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb352013135540bc93ae84cf1afc8b51/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5ew4lxyr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_5ew4lxyr===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | יוסי פנסו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f3748de1b1b3483aa0ef31e62fc692ad/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a9kos99c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_a9kos99c===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | יונתן ברק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad82334aa25c4910aa43e3f6317c3583/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4y5wni1r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_4y5wni1r===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | אמיר הורוביץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7fe37f4aa1904b4e9023068d096043f7/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dfemtczv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_dfemtczv===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | יוסי טרבלוס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c986833897d140eeb3d296a15a781765/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rih05zmi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rih05zmi===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | דורון רהב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63c5f0fd5dc4429cb4bf57632746c608/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9h4jpl1d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_9h4jpl1d===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | דובדבני וקובץ'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a19c1352591446589e5e5c388803f64d/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ty9gt91h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ty9gt91h===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | עמית חשאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/521cb19d273c4bef98c05fb8ec20b964/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p7xymdst/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_p7xymdst===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | רוני ששון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b743093b732047e1b979f06a344092d5/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3ymyaeae/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3ymyaeae===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | אדם שרון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c1e766b3bc743e0a2629cfad99ad66c/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lzl5d3fj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lzl5d3fj===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | דרור טייכנר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7ec0491b42744f2d970ff54ad867c684/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1b3hmg5x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1b3hmg5x===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המועדון עם שחר חסון | עונה 2 | דדו מילמן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/161dc638e16a4f58b84d2de2a46733aa/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b9bbijey/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "שחר חסון מזמין אתכם למועדון הכי מצחיק בטלוויזיה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_b9bbijey===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

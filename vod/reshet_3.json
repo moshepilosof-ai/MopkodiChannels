@@ -1,0 +1,186 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מפלצות קטנות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "3",
+   "series_id": "3",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a1fe2cc216b41c28aba71bdf621245e/version/14/width/800/height/1200/quality/90",
+   "plot": "מפלצות קטנות היא קומדיה שכתבו ויצרו בני הזוג שני מלמד ניצן ורועי ניצן העוסקת בהורים לילדים בני שנתיים עד ארבע. הילדים בסדרה זו מיוצגים על ידי בובות מפלצות",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מפלצות קטנות, עונה 1, פרק 1: החופש הגדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab24407e7c9d4ea58ab35768a3ad90b0/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tfnty575/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ההורים מגלים שיש עוד יום לחופש הגדול והילדים מנסים להבין מה זה מחר ולמה הוא אף פעם לא מגיע. מפלצות קטנות לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_tfnty575===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 1, פרק 2: מכולת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5aa3e98e62e2450a957458722e5bd72e/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ybaqejzp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "מפלצות קטנות פרק 2 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ybaqejzp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 1, פרק 3: ילד חולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/76d63e2072ce43ee9b4ca94a430b52a4/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_epnvwags/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "מה עושים עם ילד חולה בבית?",
+       "page": "",
+       "id": "--kaltura--1_epnvwags===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 1, פרק 4: ריבים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fba3517f068e404386a5e043ef42f7d8/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9979p805/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "מפלצות קטנות פרק 4 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_9979p805===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 1, פרק 5: אמא מתנחלת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c5fd0c14e3a34138bf5bddd2fb8cfbe0/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uo0971f5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "מכירים את האמא המתנחלת? זאת שמגיעה עם הילדים גם כשהיא לא מוזמנת, ולא הולכת הביתה למרות כל הרמזים? שרון ומאיה יוצאות לקרב על הפינוי. מפלצות קטנות פרק 5 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_uo0971f5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 1, פרק 6: איגי נעלם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8d0dc606cb349e182b62d1a5958e6ef/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2r4pvl40/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "המפלצות הקטנות משחקות מחבואים, אבל ההורים מאבדים את זה כשאיגי נעלם. חלק יצחקו מזה וחלק יבכו מזה. אז מי שעומד מאחוריי, מלפניי ומצדדי הוא העומד לשגע את כולם? מפלצות קטנות פרק 6 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2r4pvl40===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 1, פרק 7: טלוויזיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/82563de34ca84d958e171cb77c38ee3b/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gq8u28ll/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "שרון ועידן מנסים להוציא את רינה ואיגי ממסך הטלוויזיה אל הטבע העירוני ולירית מנסה לגמול את דדה מחיתולים. מפלצות קטנות פרק 7 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gq8u28ll===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 1, פרק 8: פרק סוף עונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b02bfa2062454fa4a9bd439e863775af/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uutux2nf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "מפלצות קטנות פרק 8 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_uutux2nf===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "מפלצות קטנות, עונה 2, פרק 1: פיטר פן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ccf65d870a0443e9b9bc10dcf3a67c92/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i5spr5d6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "שחר מביים הצגת \"פיטר פן\" בגן ונקלע למאבקי יוקרה ואגו עם הילדים משתתפי ההצגה ובעיקר עם ההורים שרוצים את טובת הילד הפרטי שלהם בלבד. מפלצות קטנות לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_i5spr5d6===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 2, פרק 2: לא ליד הילדים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/19437fdcb65e46c0a1782ca02fad23c2/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wpsfzfgr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "שחר מגלה שהגננת לא תלתה את הציורים של נום נום בגן, רינה מגלה שהוריה אכלו גלידה בלעדיה ומענישה את כולם ואריק ולירית מגלים שאי אפשר לריב לא ליד הילדים",
+       "page": "",
+       "id": "--kaltura--1_wpsfzfgr===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 2, פרק 3: לא כל מה שרוצים אפשר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5fc15fe3fe91422c985610a44170c58d/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_40lvyitl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "נועם הבן ונועם הבת מתכננים תמונה משפחתית משותפת, לירית יוצאת למסע נקמה לא מתוכנן, עידן ושרון מתכננים סוף סוף חופשה זוגית, אבל לרינה יש תוכניות אחרות... | מפלצות קטנות לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_40lvyitl===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 2, פרק 4: לא הולכים הביתה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/550a0806236943ab8592bdf5d834a99c/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_2knwuwft/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "דדה ונועם הבן עושים את המוות לסבא וסבתא בגינה. בינתיים בבית, רינה ואיגי שוברים את הכלים (ואת הפלאפון ואת המשקפיים...) ועידן מאבד את זה. | \"מפלצות קטנות\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_2knwuwft===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 2, פרק 5: יום הולדת חגיגה נחמדת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ec309e06bf54f999240acdf6943b1ad/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_e07nji0r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "לנועם הבן יש יומולדת, מאיה משתדלת לארגן לו את האירוע המושלם, אבל לא הכל מצליח כמתוכנן. עידן מנסה להתיש את רינה ואיגי כדי לזכות בלילה אחד עם אשתו ולירית מגלה שדדה תקוע בשירותים עם גבר זר | \"מפלצות קטנות\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_e07nji0r===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 2, פרק 6: כסף לא גדל על העצים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b27774ef8ef4a319dad40629a6d7c62/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_go9yqoma/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "דדה שותל את הכסף של אמא שלו בגינה כדי שיצמח עוד ומוצא יונה מתה, הילדים מתקשים להבין שהיונה לא ישנה, ההורים מתחבטים איך לספר לילדיהם על מהו מוות וחוטפים שיעור על החיים עצמם",
+       "page": "",
+       "id": "--kaltura--0_go9yqoma===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "מפלצות קטנות, עונה 2, פרק 7: מסיבת יום העצמאות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1cfaa2d80f5c4340a72b3696a7153133/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_rnisth7l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "בפרק הסיום של העונה, סודות נחשפים ודברים שאי אפשר להתחרט עלייהם נאמרים, במסיבת העצמאות בשכונה כשבמקביל לילדים נמאס מההורים והם מתכננים נקמה | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_rnisth7l===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "מאחורי הקלעים של \"מפלצות קטנות\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c76904d118d548bf9d165357b91c8d5b/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e31yt5sk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-27",
+       "plot": "רגע לפני העונה החדשה של \"מפלצות קטנות\" בואו לראות איך נראה מאחורי הקלעים של הסדרה!",
+       "page": "",
+       "id": "--kaltura--1_e31yt5sk===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

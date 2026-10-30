@@ -1,0 +1,51 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - על הדרך",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Froad",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Froad",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/655549",
+   "plot": "",
+   "updated": "2026-10-31 00:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "על הדרך, פרק 6: מה אמר עידן ורד לחבריו אחרי שפגש את אשתו מאי לראשונה?",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/655549",
+       "url": "https://sport1-video-f.wcdn.co.il/3233265/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/square/Article-820785/",
+       "season": ""
+      },
+      {
+       "name": "על הדרך, פרק 2: שרון אייזנברג ודוד קלטינס חושפים הכל",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/653050",
+       "url": "https://sport1-video-f.wcdn.co.il/3226229/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/square/Article-818974/",
+       "season": ""
+      },
+      {
+       "name": "על הדרך, פרק 1: מירן ומאור בוזגלו כמו שלעולם לא ראיתם",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/652706",
+       "url": "https://sport1-video-f.wcdn.co.il/3225703/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/square/Article-818651/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

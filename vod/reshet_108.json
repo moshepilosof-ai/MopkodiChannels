@@ -1,0 +1,151 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אמבוש",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "108",
+   "series_id": "108",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bffa5cbde8744eb3b710a4f48ea07225/version/10/width/800/height/1200/quality/90",
+   "plot": "תוכנית מתיחות המשודרת בערוץ 13 בהנחיית עפר שכטר בה הוא מותח מפורסמים. כל שבוע עפר שכטר בוחר כמה מפורסמים ישראלים ומחליט למתוח אותם",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "אמבוש אקסטרים, פרק 8: שי מיקה יפרח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a4a8d39ff76747b2887dd64b16cfe4a9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rjm58xed/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שי מיקה יוצאת במסע חילוץ נועז, אחרי הכלבה שלה לונה שנחטפה, וגם, למה שי מיקה כמעט טירפדה את שידור המתיחה | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_rjm58xed===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 2: עדי לאון ורותם כהן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b545ebe111574d2098380efbbd969db4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_snhb5trx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לירן שטראובר קונה לעדי לאון כרטיס גירוד שמסבך אותו עם העולם התחתון ושיר אלמליח מזמינה את רותם כהן לשיר בחתונה של בת הדודה שלה, אלא שאז כולם מגלים שבת הדודה מאוהבת ברותם ורוצה לבטל את החתונה רגע לפני החופה",
+       "page": "",
+       "id": "--kaltura--0_snhb5trx===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 3: אביבית בר זוהר ודורון מירן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0456c270012a4fe1ae840cc6414e6683/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_knmrd0r1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליהיא גרינר מותחת את אביבית בר זוהר במתיחה מטורפת שגורמת לה להישבר באולפן ומושיק עפיה גורם לחברו הטוב דורון מירן לסגור עסקת ענק עם אוליגרך עשיר ולחתן את הבן שלו בהפתעה",
+       "page": "",
+       "id": "--kaltura--0_knmrd0r1===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 4: איתי לוי וטהוניה רובל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6697d2a868c5412b862a3b62d5b3108c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ecz8ce3e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אליקו מותח את הזמר וחברו הטוב איתי לוי במתיחה אכזרית במהלך שידור חי בתוכנית רדיו וגיל ריבה מותח את טהוניה רובל באמצעות צוואה מזויפת",
+       "page": "",
+       "id": "--kaltura--0_ecz8ce3e===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 1: ריף נאמן וטילטיל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbf5c853ad594b2a8c38a8d1aec173c9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_hb8sbg9x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "\"אמבוש אקסטרים\" פותחת עונה עם מתיחות מטורפות! נועה קירל מותחת את ריף נאמן עם רעלן רדיואקטיבי מסוכן ורוסלנה רודינה מחליטה למתוח את טילטיל עם בובת וודו מכושפת",
+       "page": "",
+       "id": "--kaltura--0_hb8sbg9x===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 6: דנית גרינברג ולירון רביבו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/70d0f0d9e43f4191843ab9f448345e5e/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_06ueno40/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך הצליחה דנית גרינברג לגרום לקוסם לטבוע באקווריום בזמן מופע קסמים ומה קרה כשלירון רביבו גילתה כי יש לה אחות נוספת שמעולם לא הכירה?",
+       "page": "",
+       "id": "--kaltura--0_06ueno40===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 5: בן זיני וטיילור מלכוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/394bb8d54dae47e681db55283524bccc/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_gjcer6tl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם הסיבה האמיתית לפרידה המפתיעה של טיילור מלכוב ובן זיני היא המתיחה ב\"אמבוש אקסטרים\"? ואיך הגיבה ג'קי אזולאי כשהיא גילתה שחברתה הטובה לאה שנירר מנהלת רומן עם מאהב חדש וצעיר?",
+       "page": "",
+       "id": "--kaltura--0_gjcer6tl===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 7: רגב והלן הוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/43cd3bc6ed464e95928f6d2808f1a54b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_i9tdr3ws/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אף משימה ב\"הישרדות VIP\" לא הכינה את רגב הוד לאמבוש שאשתו הלן ארגנה לו. איך קרה שרגב הוד מחסל דוגמן שמתחיל עם אשתו?",
+       "page": "",
+       "id": "--kaltura--0_i9tdr3ws===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 9: לי לוי ויוסי שטרית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e587e5b2827b433f9cb681f94e8c361f/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_uuktkqob/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כיצד הצליחה מירי בוהדנה לסבך את השף יוסי שטרית עם פושע נמלט? ומה גרם להתמוטטות של המפיק ההוליוודי במהלך האודישן של לי לוי ושרי גבעתי?",
+       "page": "",
+       "id": "--kaltura--0_uuktkqob===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 11: אביבה תבורי ומעיין אשכנזי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9eee261aad5d4542b14207d302a2e68c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_6irsy9mg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אמירה בוזגלו מפגישה את אביבה תבורי עם אסיר מאוהב שמאבד את העשתונות ולוקח אותה כבת ערובה ורוסלנה רודינה גורמת לשוטרים לעצור את מעיין אשכנזי על מעשי כשפים עם בובת וודו",
+       "page": "",
+       "id": "--kaltura--0_6irsy9mg===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 12: נסרין קדרי וקסניה טרנטול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a315f43cdac94cc98905c3cf14797d87/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_3v92rz53/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נסרין קדרי מסתבכת עם ראש הממשלה בנימין נתניהו בתוכנית הרדיו של מרגלית צנעני וקסניה טרנטול מצטלמת עם הלן הוד לקמפיין נשק שיוצא משליטה",
+       "page": "",
+       "id": "--kaltura--0_3v92rz53===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 10: מאור אדרי ואושר כהן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b4b6c8ffc9864241b503c16f70d66103/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_jxp96uxi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אליקו מותח את חבריו לזמר המזרחי מאור אדרי ואושר כהן בשתי מתיחות קורעות! מאור מגיע לשבעה מהגיהינום עם המשפחה הכי מטורללת במדינה ואושר מגיע להתארח ברדיו ופוגש עיוור שלא רואה בעיניים",
+       "page": "",
+       "id": "--kaltura--0_jxp96uxi===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אמבוש אקסטרים, פרק 13: פנינה רוזנבלום ורון שובל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b06206672a24d8da701f1ccf80e0f4f/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_29quq169/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "העונה של \"אמבוש אקסטרים\" מגיעה לסיומה עם הנקמה הגדולה של טום קשתי ברון שובל והסרטון המפליל של פנינה רוזנבלום שנחשף וגורם לה להיעצר בשידור חי",
+       "page": "",
+       "id": "--kaltura--1_29quq169===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - בלתי הפיך",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "147",
+   "series_id": "147",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f624d9359d8d400fa64f97a1f2bb826b/version/14/width/800/height/1200/quality/90",
+   "plot": "סדרה קומית חדשה בכיכובה של עדי אשכנזי על זוג עם תינוקת המנסים לשלב בין עולמם החדש כהורים טריים לבין עולמם הישן, החופשי והסוער",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 7: חצי חצי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d4d2447789946a19a9fe1e060a04c75/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_34r94vhj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם רונה תעשה בוטוקס ומי ישלם על הארוחה עם החברים מחו\"ל? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_34r94vhj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 2: חזרה לעבודה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/355f49075a7243dba593a3f68fc3149e/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2x7xmeya/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם כדאי לסמוך על השכנים כשמחפשים את המטפלת המושלמת? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_2x7xmeya===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 1: בית לבד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93b19b399b05439f8c8f6caae923ba31/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hzeymo6a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם רונה ואודי יצליחו לסדר לעצמם ערב אחד לבד? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_hzeymo6a===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 6: האלמנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60ad3f96faec405f89324197198385bf/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7rp1vzpu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה יקרה כשרונה תבין שהיא פספסה את ההרשמה לגן הכי טוב בסביבה? הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_7rp1vzpu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 3: המסיבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16b3d80ca6744e2e90c204649ea463b7/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_30ruf3nd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רונה יוצאת למסיבה ואודי נשאר בבית עם אסתר. איך זה ייגמר? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_30ruf3nd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 5: ציצים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2af1e0079cb46beb70baa4e93523396/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7hgs5prv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אודי כהרגלו מסתבך בסבך של שקרים שמוביל לתוצאות לא צפויות. צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_7hgs5prv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 4: צימר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d83bb315c52402bb5c0c383f0e8edb0/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l23t2i2p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אודי מפתיע את רונה ולוקח אותה לחופשה רומנטית בצימר",
+       "page": "",
+       "id": "--kaltura--1_l23t2i2p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 8: המטפלת הג'ינג'ית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07558ae408a34a6e9b7f09420dfd2450/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tw0fk454/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "האם רונה טעתה כשהחליטה להעסיק כמטפלת את הבת של הבוס? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_tw0fk454===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 9: חפץ מעבר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4eaf2ec9c2ab48c9be3754c9cc01e325/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xpsx8wa1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מה קורה כאשר חפץ המעבר של אסתר נהרס?! צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_xpsx8wa1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 10: זוג גרוש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09c451a5b77a49cbb523b1c83f40b893/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x9etcnba/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "רונה מציעה לאודי לחיות כמו גרושים בעודם נשואים. האם זה יעבוד? צפו בפרק",
+       "page": "",
+       "id": "--kaltura--1_x9etcnba===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 12: עמנואל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c89d983325054c7381bd2771fe5c2408/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mnxlxiyz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אודי ורונה מרגישים שחיקה בחיי הזוגיות ומתחילים לשחק משחקי תפקידים",
+       "page": "",
+       "id": "--kaltura--1_mnxlxiyz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 11: השרשרת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8c0d4795d354858aaa766606310426e/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xgwa1thh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מדוע רונה לא עונדת את השרשרת שקיבלת מחמתה ריבה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_xgwa1thh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלתי הפיך, עונה 1, פרק 13: אסתר בת שנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/099f405ccac24802863b5be44df4024a/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o3aulbq3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אודי ורונה חוגגים יום הולדת לאסתר וכרגיל מסתבכים. צפו בפרק סיום העונה",
+       "page": "",
+       "id": "--kaltura--1_o3aulbq3===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 6: הלידה חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e9ed0684fc54c01a121cf2ffbf2be06/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gq8ho7it/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עינת צריכה ללדת וזה ממש לא קורה, רונה מאבדת חברים בעבודה ואודי מגלה את עולם הזומבה",
+       "page": "",
+       "id": "--kaltura--1_gq8ho7it===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 1: \"דייט נייט\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ce105b3dc6f4aeb9d9a0761c2c6bab0/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o2f0o47s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עכשיו כשההורות הפכה לשגרה, רונה ואודי מתפנים לטפל בזוגיות שלהם",
+       "page": "",
+       "id": "--kaltura--1_o2f0o47s===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 2: אחיות לצרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a249b85abf5849b5a2b42dccf6de7b10/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u4nbvlz4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מערכת היחסים של עינת וחוויאר מעסיקה את כולם ורונה רוצה להיות האחות הטובה",
+       "page": "",
+       "id": "--kaltura--1_u4nbvlz4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 5: העוזרת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f4b9f8a33814faeb0860aceac888caa/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wzk3jf7l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך מתמודדים כשהבעל מתקמצן ואת רוצה עוזרת בית?",
+       "page": "",
+       "id": "--kaltura--1_wzk3jf7l===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 7: הלידה חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/926d9197ceb3488abafc6a3d63dee5e3/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mpkipa1y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאחר אזעקות שווא, עינת עוברת לידה שאיש לא דמיין וכל מילה נוספת מיותרת",
+       "page": "",
+       "id": "--kaltura--1_mpkipa1y===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2: חולים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f390f5e9c89c4a41b3ca0b185e695f78/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3ilsus50/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסתר הקטנה חולה, אבל גם אבא ואמא חולים. מי ישמור עליהם?",
+       "page": "",
+       "id": "--kaltura--1_3ilsus50===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 3: החופשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4fa2386ddc304beb8d27f8c46d63fc59/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1vzvz5s0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רונה ואודי מתכננים זמן לעצמם, ויוצאים לחופשה הכי לא רומנטית בעולם",
+       "page": "",
+       "id": "--kaltura--1_1vzvz5s0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 4: \"רושם ראשוני\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9010dcb41ef84536934e1677fec6adde/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u177jq7p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רונה פוגשת אקס מיתולוגי ואודי מסתבך בהצגת הספר שלו מול קהל של משקיעים",
+       "page": "",
+       "id": "--kaltura--1_u177jq7p===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 13: ספיישל סיום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6e6b4b733f6484b954e246abd1cbe8d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_15y6d16k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חוגגים את סיום העונה בפרק פספוסים מיוחד",
+       "page": "",
+       "id": "--kaltura--1_15y6d16k===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 11: הנסיעה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f1a69d9a533845819197ce347197f8cf/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ghtf8jyt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אודי ורונה נזכרים בניסיון האחרון שלהם להרות, כשהם נתקלים בזרה מוזרה",
+       "page": "",
+       "id": "--kaltura--1_ghtf8jyt===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 12: לפני ואחרי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b0aa693b2754462b624cc580dcebabd/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f02kjt69/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חייהם של אודי ורונה לפני שאסתר נולדה הם רק זיכרון רחוק, והשניים נזכרים בערגה",
+       "page": "",
+       "id": "--kaltura--1_f02kjt69===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 10: האורחים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6116242d706443aa1a403710a96149e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fod6egz0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "זוג חברים של רוני ואודי נוחתים לביקור מפתיע, ויחד עם שבט ילדיהם משתלטים על הבית",
+       "page": "",
+       "id": "--kaltura--1_fod6egz0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "בלתי הפיך, עונה 2, פרק 9: מפלצת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0ba536cb87c4fa6ab4efd0a1eeb70ee/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ozfosqhh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "רונה מנסה להתקדם בעבודתה ומולי מתחרה עם השכן על דמות המפלצת",
+       "page": "",
+       "id": "--kaltura--1_ozfosqhh===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

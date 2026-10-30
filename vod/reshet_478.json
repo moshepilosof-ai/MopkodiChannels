@@ -1,0 +1,121 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - כוונות טובות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "478",
+   "series_id": "478",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/152bccb5391a4b8e8c2f71dc764a579a/version/0/width/800/height/1200/quality/90",
+   "plot": "סדרה מספרת את סיפורן של שתי שפיות, האחת ישראלית (אורנה פיטוסי) והשנייה פלסטינית (קלרה חורי). שתיהן נבחרות לככב בתוכנית אוכל חדשה ושנויה במחלוקת, שאותה יזמה מפיקת טלוויזיה עקשנית. הסדרה מעמיקה לחייהן של הנשים העומדות משני צידי המתרס וחושפת את הדינאמיקות המורכבות בשני הבתים",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "כוונות טובות, פרק 7: תמי נוסעת לרמאללה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/349e763e3ee04918b425f4c15a3397bd/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ua7zxvl2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-11",
+       "plot": "הנסיעה של תמי לרמאללה",
+       "page": "",
+       "id": "--kaltura--1_ua7zxvl2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 1: אמל חוזרת לרמאללה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0094b4a7c55b4d95afdb19ea88f99831/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4hjfeg2v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-11",
+       "plot": "החזרה של אמל לרמאללה",
+       "page": "",
+       "id": "--kaltura--1_4hjfeg2v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 10: הניתוח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f8f45422f6248a39ef29184366c4721/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1c6qhx5g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-14",
+       "plot": "עידו בחדר ניתוח",
+       "page": "",
+       "id": "--kaltura--1_1c6qhx5g===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 9: הבריחה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/decd0a754f6348ffb8662e7af86ae46a/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mqjvbigx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-14",
+       "plot": "עידן בורח מהבסיס",
+       "page": "",
+       "id": "--kaltura--1_mqjvbigx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 8: אהבה על שרטון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/68f63407a32947a683f024769a86c840/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kqffqofm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-14",
+       "plot": "האהבה של עידו ודנה מתחילה להשתבש",
+       "page": "",
+       "id": "--kaltura--1_kqffqofm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 5, גיוס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5084be4563454fed8dd70121440cef28/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qxg80cmf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-14",
+       "plot": "בנה של תמי מתגייס לצה\"ל",
+       "page": "",
+       "id": "--kaltura--1_qxg80cmf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 6: תמי מושיטה יד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1c64cbf3f5d4311abd6603d7315cdf8/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7eai0fgb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-14",
+       "plot": "אמל על סף ייאוש",
+       "page": "",
+       "id": "--kaltura--1_7eai0fgb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 4: שיתוף פעולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8395be071bb540439b378905a3c18c14/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_op477526/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-14",
+       "plot": "תמי ואמל משתפות פעולה",
+       "page": "",
+       "id": "--kaltura--1_op477526===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 3: משפחה זה הכי חשוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e238305bcf664a288ae2b54270e35781/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gw93ks3e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-14",
+       "plot": "עמנואל מנסה לחדש את הקשר עם אמו",
+       "page": "",
+       "id": "--kaltura--1_gw93ks3e===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כוונות טובות, פרק 2: תכנית בישול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e521792536e4534acb5878f75204533/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i4i1qbwc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-14",
+       "plot": "תמי ואמל מקבלות הצעה",
+       "page": "",
+       "id": "--kaltura--1_i4i1qbwc===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

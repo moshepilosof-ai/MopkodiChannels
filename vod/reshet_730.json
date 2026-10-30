@@ -1,0 +1,281 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - The Voice (דה וויס) ישראל",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "730",
+   "series_id": "730",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f3d07fca082042648bc56158deaae6e0/version/1/width/800/height/1200/quality/90",
+   "plot": "ריאליטי המוזיקה הגדול בעולם חוזר עם ארבעה מנטורים חדשים: עידן רייכל, נועה קירל, עדן בן זקן וסטטיק – שיחפשו יחד את הקול הבא של ישראל",
+   "updated": "2026-10-30 23:58",
+   "sub_categories": [
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "דה וויס, עונה 6, פרק 26: הגמר הגדול!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/599c7b6e0fdf4f41b6a16cd50a6e2be1/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6yz66w7i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-09-06",
+       "plot": "4 קולות נדירים עולים על הבמה באירוע השיא של העונה: אושר כהן של עדן בן זקן, אמה זיזה כהן של נועה קירל, רננה חובב של עידן רייכל ותמיר סרי של סטטיק - רק אתם תחליטו בשידור חי מי יהיה הקול הבא של ישראל",
+       "page": "",
+       "id": "--kaltura--1_6yz66w7i===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 25: אירוע הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d8482bdab4749bcbf99fb53e2921a9a/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fdpjhy78/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-09-05",
+       "plot": "שמונת הקולות הגדולים של העונה עולים לבמה בזה אחר זה כדי לתת הופעות בלתי נשכחות. ערב מרגש שבסופו נגלה מי תהיה רביעיית הגמר!",
+       "page": "",
+       "id": "--kaltura--1_fdpjhy78===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 24: רגע לפני הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1719e434dea4ee5869e0c0798e59c13/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vy3xelxt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-09-02",
+       "plot": "רבע הגמר השני יוצא לדרך, ובסופו נדע מי יעלה לחצי הגמר עם ביצועים גדולים מהחיים בליוויי תזמורת ענקית",
+       "page": "",
+       "id": "--kaltura--1_vy3xelxt===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 23: שלב רבע הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/67b83cbe8e1942d0a7545c7257a520eb/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_efwdyosj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-09-02",
+       "plot": "תוכנית מיוחדת עם ביצועים גדולים מהחיים בליוויי תזמורת ענקית. 16 מתמודדים, סולו מול סולו - ורק אחד יקבל כרטיס לחצי הגמר",
+       "page": "",
+       "id": "--kaltura--1_efwdyosj===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 22: החלטות גורליות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32d602857a5b4744b63095682e9f777a/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zvuyorqb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-30",
+       "plot": "שבוע לפני הגמר, שלב הדו-קרבים מגיע לשיא עם החלטות שהופכות הכול",
+       "page": "",
+       "id": "--kaltura--1_zvuyorqb===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 21: דו קרב גורלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/595893f4b2b347259675848783f5bc44/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gu5o81sq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-29",
+       "plot": "שלב הדו קרבים נמשך עם ביצועים מפתיעים ומעוררי מחלוקת שמביאים את המתח בין המנטורים לרמות חדשות | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gu5o81sq===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 20: הדו קרבים מתחילים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2fded3bda1db47d39966158609961d2f/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zh0l4c0x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-25",
+       "plot": "הדו-קרבים בתוך הנבחרות מתחילים והמתח עולה. לשלב הזה מצטרפים מנטורים אורחים: אושר כהן, שלומי שבת, אמיר דדון ורינת בר",
+       "page": "",
+       "id": "--kaltura--1_zh0l4c0x===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 19: האודישן הגורלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ddf2fc4cd8dd475a9c7d4b702d7f6b44/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_926z4y19/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-23",
+       "plot": "רגע לפני שלב הקרבות, יום אודישנים גורלי שבו המתמודדים מתחרים ראש בראש",
+       "page": "",
+       "id": "--kaltura--1_926z4y19===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 18: הזדמנות אחרונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/369afdee2d7148ecbfd6cc6514dd9934/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7xu7hjgo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-22",
+       "plot": "רגע לפני סגירת הנבחרות, המנטורים בדילמה של העונה עם מתמודדים חדשים ומפתיעים",
+       "page": "",
+       "id": "--kaltura--1_7xu7hjgo===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 17: מטאור!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32e8c6e585b5438bbe8f40f477284f23/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1mnwrxp9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-20",
+       "plot": "רגע לפני סיום האודישנים, מגיע האודישן של העונה. מי מהמנטורים יזכה בו?",
+       "page": "",
+       "id": "--kaltura--1_1mnwrxp9===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 16: הטוויסט המטורף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f66d39449b1346b19132f82de6f53204/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_000pg825/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-18",
+       "plot": "המנטורים מתקרבים לסגירת הנבחרות שלהם, כשמיכאל מטיל פצצה שהופכת את כל העונה",
+       "page": "",
+       "id": "--kaltura--1_000pg825===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 15: סערה באולפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8482fd1f03ee4957b83ce51593ddeb41/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jy11dczh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-16",
+       "plot": "האודישנים נמשכים עם תחרות חיקויים של עדן בן זקן - והמתמודדת שריגשה את המנטורים",
+       "page": "",
+       "id": "--kaltura--1_jy11dczh===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 14: ההזדמנות הגדולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17c6fa7c232e454fb78f0197e310f45e/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x7tre3b7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-15",
+       "plot": "רגע לפני סגירת הנבחרות מגיע האודישן המרגש של העונה עם טוויסט שאפילו המנטורים לא חשבו עליו | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_x7tre3b7===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 13: קולות מהעבר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/082ff222f1974e81ada382b79ac9a864/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wvzbsfnp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-11",
+       "plot": "מתמודדי וזמרי עבר מצליחים מאתגרים את המנטורים - האם הם יצליחו לזהות אותם? | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_wvzbsfnp===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 12: אודישן ילד הפלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b149af07f6b4cfeb337b88763e7f75e/version/26/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w4vdow1z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-09",
+       "plot": "האודישנים נמשכים - האם המנטורים יזהו את הקול של זמרת המוכרת? | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_w4vdow1z===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 11: כוכבים מהעבר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c22740749484fa19c270e60cee569d6/version/26/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gzu55vor/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-08",
+       "plot": "המורה שכל מנטור היה חולם עליה - ומתמודד העבר שנפל ורוצה לחזור לבמה | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gzu55vor===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 10: האודישן שכולם חיכו לו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/add19f9d2c814b899f42ddbaf61af414/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2yrpvt3h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-04",
+       "plot": "הבן של עדן בן זקן מגיע לאולפן, ליום של אודישנים מפתיעים ומרגשים במיוחד | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2yrpvt3h===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 9: האודישן המרגש של העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a60e11600a6845bdb7e357963ebf607d/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hxsy0ecx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-02",
+       "plot": "מה שבר את עידן רייכל - ומי המתמודד שניסה להתעסק עם עדן בן זקן? וגם: האיחוד המפתיע של נועה וסטטיק על הבמה | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hxsy0ecx===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 8: פרק ההפתעות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e9c07d0f35b4f3b8047b1369ab4f8b6/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2knyahks/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-08-01",
+       "plot": "האודישנים מתחממים. האם נועה קירל תזהה את חברת הילדות שנעלמה לה? | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2knyahks===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 7: האודישנים נמשכים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/10cc63d798414b6ba299c938f93acd8a/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eil38uja/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-28",
+       "plot": "נועה קירל מביאה שחקן חיזוק מהבית - ועדן בן זקן מעלה הילוך | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_eil38uja===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 6: חמסה חמסה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a887902e3134fb38f965b822c974c81/version/34/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s7y10ksd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-26",
+       "plot": "האודישנים נמשכים עם ביצוע זוגי רומנטי שמרגש את נועה. וגם: תעלומה בלשית - מי גנב לעידן את החמסה? | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_s7y10ksd===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 5: הצעירים שבאו לנצח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/61390d60129a40b58be63a85fec5b28a/version/35/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ml4iajj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-25",
+       "plot": "האודישנים נמשכים עם מתמודדים צעירים ומפתיעים שמרימים את האולפן ומחממים את התחרות | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_7ml4iajj===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 4: הקרב על הקול הבא של ישראל ממשיך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/40ef89adb33e4b428a2595331a94b675/version/46/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_28zwfhh0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-18",
+       "plot": "המתמודדת שגרמה למנטורים לחשוב מחדש על הקריירה | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_28zwfhh0===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 3: האודישנים נמשכים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/de244db8038a4eac814fda46915600b7/version/49/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v2ymyi8v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-13",
+       "plot": "זמר או זמרת? המנטורים מבולבלים. וגם: איזו זמרת ריגשה את עידן רייכל? | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_v2ymyi8v===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 2: מה שבר את נועה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aae9dcadf5a448798ac3b045ccb176b0/version/51/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_77ko3690/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-11",
+       "plot": "שלב האודישנים של התחרות על הקול הבא של ישראל ממשיך בכל הכוח. אבל, הערב נועה קירל נתפסת הכי חשופה שיש, כשמתמודד אחד עושה צעד מפתיע באודישן מטלטל. מה שבר את נועה - ולמה היא התפרקה באמצע אודישן? | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_77ko3690===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "דה וויס, עונה 6, פרק 1: תוכנית הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/723d94a96f804f93a1d5a53a34000e2c/version/49/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zz30k3ot/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-08",
+       "plot": "ריאליטי המוזיקה הגדול בעולם מגיע לישראל. ארבעה מנטורים חדשים, עידן רייכל, עדן בן זקן, נועה קירל וסטטיק יוצאים לחפש את הקול הבא של של ישראל ומגלים שהתחרות מותחת ומלאה בהפתעות ודרמות | \"דה וויס\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zz30k3ot===",
+       "season": "עונה 6"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

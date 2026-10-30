@@ -1,0 +1,646 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - המסע המופלא של אהרוני וגידי",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "51",
+   "series_id": "51",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1719eabba24f410695b3034a04b6d0e6/version/8/width/800/height/1200/quality/90",
+   "plot": "ישראל אהרוני וגידי גוב במסע טעים, מצחיק ומרגש בעקבות המסעדות המופלאות בעולם",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 1, פרק 7: סיום המסע - איטליה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/932f31ce88ce4b86935462bcb6143c4e/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jpw02ana/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מבקרים בעיירה גרניאנו, מקור הפסטה התעשייתית שהופצה לכל רחבי איטליה, שהוקמה ע\"י יצרני פסטה וחיי תושביה עוסקים עד היום סביב ייצור הפסטה. בפרק מסכמים אהרוני וגידי בקלילות ובהומור את כל מה שראו ולמדו בדרך, את מפגשי התרבויות, המוזיקה, האוכל ובעיקר השונה והדומה בייצור הפסטה",
+       "page": "",
+       "id": "--kaltura--1_jpw02ana===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 1, פרק 4: מסע השורשים של אהרוני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/78026ef859ee4bbe9b488dd710682544/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lsh31f3z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ישראל אהרוני חוזר למקורות משפחתו בבוכרה. פרק שמשלב זיכרונות ומפגש מרתק עם תושבי העיר בוכרה ועם הפתעות קולינריות מרתקות",
+       "page": "",
+       "id": "--kaltura--1_lsh31f3z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 1, פרק 1: סין שיאן, תחילת המסע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d705d0c431a640e1be4b92bfda15f856/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vbzv9kb0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מגיעים לשיאן, בירתה העתיקה של האימפריה הסינית, שם הם פוגשים בסוגי פסטה שונים אבל מתמקדים בכיסונים (פסטה ממולאת): מכיסונים מעוצבים כמיטב מסורת המטבח הקיסרי המפואר ועד \"כיסוני העם\" שאפשר למצוא בכל דוכן בשוק",
+       "page": "",
+       "id": "--kaltura--1_vbzv9kb0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 1, פרק 5: מזרח טורקיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d16bbb35be2940b88c86933cd747c5ee/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_icaxegid/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מגלים את הצד הפראי והמוסלמי יותר של טורקיה: מהגבול האיראני דרך שרידי תיבת נח, שיטות עשיה מרהיבות של אטריות קדאיף ומקומות ייחודיים בסכנת הכחדה",
+       "page": "",
+       "id": "--kaltura--1_icaxegid===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 1, פרק 6: טורקיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7724272a8097497eb793fd6e8057ee48/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dgllz7ap/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "צומת הדרכים המפגישה בין דרך המשי לדרך הבשמים שעלתה מארץ כנען. הסיפור המקראי הוא סיפור אברהם אבינו ושבטו. המערה שבה נולד, העיר אורפה היא אור כשדים וחארן. אורפה היא הבירה הקולינרית של טורקיה והקבאב האורפלי ידוע כאחד הטובים בתבל",
+       "page": "",
+       "id": "--kaltura--1_dgllz7ap===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 1, פרק 2: מתקדמים מערבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ac29440b48a4b52a7c8eaac93b065d1/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nwhpbd6d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהרוני וגידי מתקדמים מערבה באמצעי תחבורה מגוונים. לאורך הדרך הם נחשפים לשיטות הכנה יוצאות דופן של אטריות העשויות מחומרים שונים ובטכניקות מפתיעות",
+       "page": "",
+       "id": "--kaltura--1_nwhpbd6d===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 1, פרק 3: כל הדרך עד קצה סין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ba2db65cffd42f3aefbfbfef43a865e/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k8gqhw5i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהרוני וגידי חווים עושר בלתי נתפס של מקומות, אנשים, תרבויות ומאכלים, ערבוב של שפות, שיטות הכנה ומנהגים ששרדו לאורך השנים. אהרוני מפתיע את גידי במחווה מרגשת עם מוזיקאים מקומיים",
+       "page": "",
+       "id": "--kaltura--1_k8gqhw5i===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 2, פרק 3: מרוקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/690029b7af28419784fa9bd9b23baccc/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_mfziy46m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-05",
+       "plot": "השבוע אהרוני וגידי מגיעים למרוקו ויוצאים למסע בעקבות הקוסקוס והטאג'ין, מסע שמביא אותם ממרקש הגועשת והצבעונית ועד לשבטי הברברים בלב הרי האטלס",
+       "page": "",
+       "id": "--kaltura--0_mfziy46m===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 2, פרק 2: בורמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/035645033401488ba85d74326de8475f/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_8fslqf42/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-24",
+       "plot": "אהרוני וגידי מגיעים לבורמה, שנפתחה למערב אך לפני כמה שנים. מסע שמתחיל בסלט עלי תה וחטיפי טופו שעשוי מחומוס ונגמר אצל בני שבט האינת'ה, יצרני הטופו, באגם אינלה הקסום, ואצל שבט הדאנו מגדלי התה המקומיים",
+       "page": "",
+       "id": "--kaltura--0_8fslqf42===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 2, פרק 6: סין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a43d0cae16b54da7a7466b48f8a7f2bb/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_95bjvaq4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מגיעים להרים השמימיים במחוז שינג׳יאנג שבמרכז אסיה. באזור חיים נוודים מונגולים וקזחים לצד האויגורים יושבי הקבע. רועי צאן מול חקלאים. חיטה וכבש. איזה מתח מייצר המפגש בין שתי צורות החיים? ואיזה אוכל יחודי נוצר מהמתח הזה?",
+       "page": "",
+       "id": "--kaltura--0_95bjvaq4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 2, פרק 4: הודו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e104aa0e8e9f435e9b4c158e153ff282/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_9m0v32d2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מגיעים להודו למסע בעקבות גבינת הפאניר. מסע שמתחיל בדלהי הסואנת ומסתיים למרגלות ההימליה. בדרך הם מבקרים אצל שבט של רועי בקר, הגודג׳אר, סועדים עם מאות עולי רגל במקדש הסיקי הגדול בעולם וגם, גידי חווה על בשרו את נפלאות המספרה ההודית",
+       "page": "",
+       "id": "--kaltura--0_9m0v32d2===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 2, פרק 5: תאילנד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30db2e212bb14be89b103b05394f1e58/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_6h1gr5pu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מגיעים לתאילנד למסע בעקבות הקארי ומאכלי הים. הם מצטרפים לדייגי המקרלים, מגלים את שולי הצדפות ומכינים קארי בייתי. בדרכם הם פוגשים בשלנית ביתית שמחזירה את אהרוני לימיו כמתלמד צעיר במטבח ושף מפורסם שמבשל מנה אחת בלבד",
+       "page": "",
+       "id": "--kaltura--0_6h1gr5pu===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 2, פרק 1: וייטנאם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c077b54646d64ed590ddbcd5bce6fb1a/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_kxpa2itd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ישראל אהרוני וגידי גוב יוצאים למסע חווייתי חובק עולם בעקבות אוכל רחוב. את המסע שלהם הערב הם מתחילים בויטנאם",
+       "page": "",
+       "id": "--kaltura--0_kxpa2itd===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 3, פרק 5: אתיופיה חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/455d49b2b86047af9573321fbceb8612/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4twrsh5p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים במסעם באתיופיה. הפעם הם יוצאים לצפון אל עבר שדות הטף, אותו דגן-פלא שמזין ומכלכל את אתיופיה כולה וממנו מכינים את האינג'רה המפורסמת. המסע מביא אותם אל לאליבלה – עיר אתיופית שהיא העתק בין מאות שנים של... ירושלים",
+       "page": "",
+       "id": "--kaltura--1_4twrsh5p===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 3, פרק 4: אתיופיה חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4933517b305742f297bf87a27c56e861/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_stwimann/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גידי ואהרוני יוצאים למסע במולדת הקפה, מסע מאתגר ומורכב שמביא אותם עד הקצה. הם יוצאים מבירת אפריקה, אדיס אבבה, עד למטעי הקפה בירגעלם, דרך האגמים הגדולים, הדרכים האינסופיות ועד למפגש מפתיע עם בני שבט הסידנייה שחושפים בפניהם את העץ שממנו הם מייצרים בצק ללחם.",
+       "page": "",
+       "id": "--kaltura--0_stwimann===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 3, פרק 3: קוריאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f16f7d5ced8a495a90cbb9c799c38930/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_z0brsj6f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מגיעים לקוריאה הדרומית, שם הם נוסעים בעקבות הקימצ'י – מאכל שאף קוריאני שמכבד את עצמו לא יוותר עליו. אהרוני נכנע למזג הקוראני הקפדני, אבל גידי מתמרד, אז איך הדבר הוביל אותם בסופו של דבר לפארק השעשועים המקורה הגדול בעולם?",
+       "page": "",
+       "id": "--kaltura--0_z0brsj6f===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 3, פרק 2: הולנד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17ebe27dc6f747e5995de804a0e0527a/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_nt1qsu7v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהרוני וגידי מגיעים להולנד בעקבות ההרינג. הם מגלים איך דג קטן ותמים הפך את הולנד ממדינה נידחת, סחופת רוחות ומלאת ביצות לאימפריה גלובאלית. וגם: איך עובדת טחנת רוח ומה סוד הגבינה ההולנדית?",
+       "page": "",
+       "id": "--kaltura--0_nt1qsu7v===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 3, פרק 1: סין - מחוז יונאן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8861f29d09a4f0197218d9a837dfb58/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_vqp2dg9i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהרוני וגידי מגיעים למחוז יונאן בדרום סין בעקבות \"ברווז ייליאנג\" - מנת ברווז מפורסמת שמוצאה באזור ושסביבה התפתחה תעשייה שלמה. בדרך, הם מגיעים לכפרים נידחים שרגל אדם מערבי לא דרכה בהם מעולם, ומכירים מנת איטריות שמבוססת על אגדת עם עתיקה",
+       "page": "",
+       "id": "--kaltura--0_vqp2dg9i===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 4, פרק 7: פרו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30e8bb6722884e8b9b94aeca9a010a6c/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9k3afyzc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מגיעים לפרו למסע בעקבות תפוח האדמה. המסע מביא אותם אל לב הרי האנדים למפגש עם צאצאי בני האינקה בכפריהם המבודדים, ארוחות עתיקות, מפגשים עם לאמות, ערים אבודות ומסתוריות ושדה תפוחי אדמה בגובה של 4000 מטר",
+       "page": "",
+       "id": "--kaltura--1_9k3afyzc===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 4, פרק 3: הודו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fcdc0547b36d4c2a89154fc94f56fd9c/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v908an3x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי במסע מרתק ב\"ארץ הקוקוסים\", משתתפים בטקס תיקשור מקומי בו שמאנים נכנסים לטראנס והופכים ל\"אלים חיים\", מבקרים בפסטיבל מרכבות בו מאות בני אדם גוררים מרכבות ענק ועוברים שיעור \"קלארי פייאטו\" - אומנות הלחימה העתיקה בתבל",
+       "page": "",
+       "id": "--kaltura--1_v908an3x===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 4, פרק 5: טאיוואן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/003849ce096f4cd1bf46445d592d65cc/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_z50kuoi1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים במסע שלהם והפעם לטאיוואן בעקבות הבמבוק, מהצמחים החשובים ביותר בתרבות הסינית/טיוואנית. הם מבקרים ביער במבוקים מרהיב, מכינים זונג-זי, מאכל מסורתי חגיגי שמאודה בעלי במבוק, הצטרפו לשבט אבוריג'יני של ציידים-לקטים, ומסיימים את המסע בפסטיבל הכדורים הפורחים בדרום טאיוואן",
+       "page": "",
+       "id": "--kaltura--0_z50kuoi1===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 4, פרק 1: יפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb9d9d57725e4737a8d69ccb55b2caeb/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_neip9rvg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים במסע חובק עולם בעקבות האוכל והפעם ביפן. הם מביאים את הסיפור המופלא של הטונה ומצליחים להסתנן למכירה פומבית, מצטרפים לסדנה להכנת סושי וישנים במלון בתוך קפסולה צרה במיוחד",
+       "page": "",
+       "id": "--kaltura--0_neip9rvg===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 4, פרק 2: איטליה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1263d98e373047189a2d5ece9aac2f2c/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ey1xxchh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים במסע חובק עולם בעקבות האוכל והפעם נוחתים באיטליה ופוגשים את נינו המחזיק בתואר \"אוכל הרחוב הטוב באיטליה\", לומדים להכין בולונז ומרחיקים עד לחוות נידחות בהן מכינים גבינות ונקניקים בשיטות מסורתיות",
+       "page": "",
+       "id": "--kaltura--0_ey1xxchh===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 4, פרק 4: נהר המקונג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1550c6b0c9e244daa6a3b861830af419/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_v66uneq7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים במסע חובק עולם והפעם הם משחזרים את המסלול שתואר בסרט \"אפוקליפסה עכשיו\", מהחיים והאוכל לאורך הנהר, ציד של דגי בוץ בתעלות הקטנות ביקור באחד מהשווקים הצפים המרשימים ביותר שיש, וביקור בסדנאות הקטנות שלאורך הנהר",
+       "page": "",
+       "id": "--kaltura--0_v66uneq7===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 4, פרק 6: מקסיקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b59074c9859747c4be39310bc6b59e91/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_6y4ilcrx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהרוני וגידי מגיעים ליבשת חדשה ונוחתים לראשונה במקסיקו. הם מתחילים את המסע שלהם בשוק הסיטונאי הגדול בעולם, מבקרים בשדות התירס מבקרים בארמון ומגיעים עד העיירה צ'יאפה בה נערכת פעם בשנה פיאסטה סודית ובלתי מתויירת, בה כל גברי הכפר מתחפשים לילדי התירס עם פיאות בולנדיניות מיוחדות",
+       "page": "",
+       "id": "--kaltura--0_6y4ilcrx===",
+       "season": "עונה 4"
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 9: פרו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6085c6e02e124e57ab5b0433c886fa4a/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_oyaq5ciq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק האחרון בעונה אהרוני וגידי מגיעים ללימה בירת פרו למפגש של פעם בחיים עם חוויאר וונג, שף הסביצ'ה הטוב ביותר בעולם. משם הם יוצאים למסע בעקבות הצ'ילי, הפלפל החריף. בדרך הם יוצאים אל האוקיינוס, נוסעים אל אתרים מרהיבים בהרים, ומגיעים לשדה מיוחד במינו שבו שיח פלפל יחיד שגורל החקלאות המקומית מונח על כתפיו",
+       "page": "",
+       "id": "--kaltura--0_oyaq5ciq===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 4: יפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83b64bae36464d2fa642c8bd9a56d5d7/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pgzelf51/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני חוזר ליפן ולוקח על עצמו משימה בלתי אפשרית - לגרום לגידי לאהוב טופו. במסע שמתחיל מול שיח הסויה ונגמר במנזר זן עתיק, הם נחשפים לכל מה שיש לצמח להציע. האם אהרוני יעמוד במשימה? או שמא המסע יסתיים בדוכן שווארמה?",
+       "page": "",
+       "id": "--kaltura--0_pgzelf51===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 6: מקסיקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a7ca4a0d1156481dba2b5f61298247eb/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_edsyef1e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי כובשים את ארץ השוקולד - מקסיקו. ממתקי גורמה עוצרי נשימה ועד מטעי הקקאו שבלב הג'ונגל, השניים נוסעים בין מקומות ותקופות שהביאו את השוקולד אל העולם. הם מכינים את משקה הקקאו העתיק ששתו האצטקים, אוכלים מנה יחודית של עוף בשוקולד, וזוכים לביקור נדיר במעבדה הסודית של אחד מהשוקולטיירים המובילים במקסיקו",
+       "page": "",
+       "id": "--kaltura--0_edsyef1e===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 1: ברזיל חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d6b44654f85445b99e776caf7026580/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_xbu0kg5v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לראשונה אהרוני וגידי נוחתים בברזיל ויוצאים שם למסע מיוחד של טעמים צבעים ונופים שטרם נראו",
+       "page": "",
+       "id": "--kaltura--0_xbu0kg5v===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 3: איטליה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d392de51563486a86d8c572ac8c05a7/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_i36r7l93/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי נוסעים בעקבות הגלידה האיטלקית: מסנדוויץ' של בריוש וגלידה שאי אפשר לעמוד בפניו, ועד גלידת גורמה של עשבי בר ושמן זית. בדרך הם עוברים התקפי צחוק בלתי נשלטים על הרי געש פעילים, מבצרים עתיקים בהן נזירות לשעבר מכינות מרציפנים למחייתן, ואהרוני מתחייב, בפני גידי וההפקה, לא לצלם יותר במחלבות, לעולם",
+       "page": "",
+       "id": "--kaltura--0_i36r7l93===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 7: קמבודיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbd8d5c04cc64b7086b11419b9e8f2cd/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_h2p3nkaq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי נוסעים מהמקדשים עוצרי הנשימה של אנקור-ואט, בהם צולמו סרטי הרפתקאות הוליוודים, אל שדות הפלפל שעל החוף בהם מיוצר הפלפל הטוב בעולם",
+       "page": "",
+       "id": "--kaltura--0_h2p3nkaq===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 8: הודו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a02aa57f82e24c9680bdc47e9f08b589/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_koty6r92/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "משליחיו של שלמה המלך, הפרעונים, מרקו פולו, ועד הממלכה הבריטית, כולם הגיעו לדרום הודו בעקבות התבלינים. ועכשיו, גם אהרוני וגידי מצטרפים למגלי הארצות, במסע עתיר ניחוחות בגן העדן השופע של המקום. הם מבקרים בחוות תבלינים, שדות הל, ובדוכן אחד קטן ומוזנח שבו הם טועמים את אחת המנות הטעימות ביותר בהן הם נתקלו לאורך כל מסעותיהם",
+       "page": "",
+       "id": "--kaltura--0_koty6r92===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 5: טאיוואן - אויסטרים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1dcef1325f814d1c9efc24aa4a9f8694/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_agiht6p6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לכבוד יום הולדתו, ולמעלה משלושים שנה אחרי שסיים את לימודי הבישול הסיני בטייפה, אהרוני חוזר אל הבית בו התגורר אז, בפרק שסובב סביב המאכל הכי פופולארי בטאיוון - חביתה עם אוייסטרים. יחד, גידי ואהרוני יוצאים בעקבות גידול האוייסטרים ומגוון המאכלים בהם הם מככבים, וגידי מכין לאהרוני הפתעת יום-הולדת לה הוא אינו מצפה",
+       "page": "",
+       "id": "--kaltura--0_agiht6p6===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 5, פרק 2: ברזיל חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5401a2f4f7ed4b13922d17bd7b235c51/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_qxrjl1ld/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים את המסע שלהם בברזיל והערב הם יעמיקו אל לב האמזונס הם ידוגו פיראנות, ישחו עם דולפינים ורודים ויסיימו את המסע בדרום ברזיל שם יצטרפו לקאובויז המקומיים",
+       "page": "",
+       "id": "--kaltura--0_qxrjl1ld===",
+       "season": "עונה 5"
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 6: הריביירה הצרפתית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d05c40b22d4049aca4de5acbe477e0b6/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_517rhel2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים במסע שלהם והערב הם מגיעים לחבל פרובאנס ול\"ריביירה הצרפתית\". המטבח של פרובאנס ידוע במאכל המפורסם שלו - הרטטוי וגבינות העיזים המהוללות של המחוז. את הביקור יסיימו בעיר הנמל מרסיי, בארוחה של המנה הכי מזוהה על העיר - מרק בויאבז",
+       "page": "",
+       "id": "--kaltura--0_517rhel2===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 9: ספיישל ישראל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30bfe18039304778a804cea222c1d6e1/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_5pcy9mk0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי שסגרו מעגל מסביב לים התיכון, אהרוני וגידי חוזרים הביתה, לישראל. הם עוברים ממשתה תימני לסעודה גלילית, מנגבים \"חומוס\" קדמוני, אופים חלות חרדיות, ומתלבטים בשאלה - האם ייתכן שרות המואבייה טבלה את בתה בחומוס?",
+       "page": "",
+       "id": "--kaltura--0_5pcy9mk0===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 2: סרדיניה הקסומה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63f44026a75c4354bb91727062d4df71/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_gukyxx05/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המסע המופלא של אהרוני וגידי מגיע לאי סרדיניה שבאיטליה",
+       "page": "",
+       "id": "--kaltura--0_gukyxx05===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 4: הבלקן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/11b68de411fb497aab08a5dd901121ee/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_zj9nb0n2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים את המסע בחבל הבלקן ונוחתים באלבניה ובמנטנגרו הקסומות",
+       "page": "",
+       "id": "--kaltura--0_zj9nb0n2===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 7: הלחם הטעים בעולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/71dd52883dea4ed3ae8b70ab2f917d83/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_fy5mq2q3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מגיעים לאנדלוסיה למסע בעקבות האוכל האבוד של יהדות ספרד. הם מבקרים בארמון האלהמברה, אוכלים חמין של אנוסים, מתאמנים עם לוחמי שוורים, ומגלים את תבשיל-הלחם הטעים ביותר בעולם",
+       "page": "",
+       "id": "--kaltura--0_fy5mq2q3===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 3: בטברנה ביוון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f35e318ebf2742b2ba809c576266924a/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_nba64rri/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי אוכלים מוסקה באתונה וחוגגים בטברנה עם גליקריה, טועמים עלי גפן ממולאים, יוגורט עם מרקחת ענבים, צדפות הישר מן הים ועוד הפתעות טעימות",
+       "page": "",
+       "id": "--kaltura--0_nba64rri===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 5: הסוד של הפסטו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3200fbbbd80f4b96832dcc0d1002763a/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_elmian3z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בקצה המגף, למעלה, בגבול עם הריביירה הצרפתית, שוכנת ליגוריה, שהייתה ממלכת יורדי ים. ארוחה על סיפון",
+       "page": "",
+       "id": "--kaltura--0_elmian3z===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 10: חומוס-טחינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37512562c7d941d091de205d96d999eb/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_e2ft5gqk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מסיימים את מסעם בישראל, עם המאכל הלאומי - חומוס, לומדים שיטות עתיקות ליצור חמאה ויוגורט מרועי הצאן, ומתארחים במשתה מרהיב בביתו של ארז קומורובסקי",
+       "page": "",
+       "id": "--kaltura--0_e2ft5gqk===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 1: מרוקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee54ff6e8901476a9ed03815873c8369/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_b4v9146z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי יוצאים למסע חדש סביב הים התיכון ו\"המטבח הים-תיכוני\"",
+       "page": "",
+       "id": "--kaltura--0_b4v9146z===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "אהרוני וגידי מלקטים צמחים בחיק הטבע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b369f4dff5845349720ac766dc87914/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_wrk3ezuc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי שביקרו בערים הגדולות בארה\"ב ואכלו ארוחות אמריקאיות מושחתות - אהרוני וגידי יוצאים ללקט צמחים בטבע בעקבות שבט הלקוטה האינדיאני. אז מי התחבר יותר לחוויה ומי לא הפסיק לקטר, יש לכם ניחוש?",
+       "page": "",
+       "id": "--kaltura--0_wrk3ezuc===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 6, פרק 8: הטאפאס הטעים בעולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/873e1c37e11d426eb739044436e78b99/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_0v5hlpe8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהרוני וגידי משלימים מעגל ומגיעים למיצרי גיברלטר מהצד הספרדי, שם הם נהנים מחגיגת פאייה ענקית במרכזו של כפר, טועמים מעדני תמרים ושקדים וזוכים למפגש חד פעמי עם קופים אירופאיים",
+       "page": "",
+       "id": "--kaltura--0_0v5hlpe8===",
+       "season": "עונה 6"
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה  7, פרק 6: המבורגר מפלצתי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0887e97e416443bea52172d74a434d4b/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zaq296wg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-27",
+       "plot": "המסע של אהרוני וגידי ממשיך ובמהלך הפרק הם מתמודדים מול אתגר ההמבורגר המפלצתי, ועם כישורי הנהיגה הגרועים של אהרוני",
+       "page": "",
+       "id": "--kaltura--1_zaq296wg===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 2: ניו יורק ופילדלפיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/24bb39afb2eb4855aeb832145bfd077d/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bn5al8to/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי ממשיכים את מסעם ברחבי ארצות הברית! הם עוזבים את ניו יורק לאחר ביקור בטיימס סקוור, מבקרים בשוק הציבורי הראשון בארצות הברית וחוגגים את ה-4 ביולי באכילת \"פילי צ'יז סטייק\", המאכל המפורסם של פילדלפיה",
+       "page": "",
+       "id": "--kaltura--1_bn5al8to===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 1: ארצות הברית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8af224eacaa44198841b1f1e9f17d8d3/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_41grlaa5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מתחילים את מסעם ברחבי ארצות הברית! הם מבקרים בפרובינס טאון, צופים בלוויתנים, נהנים ממסיבה חברתית על חוף הים ומתחילים להתרגל לקולינריה האמריקאית",
+       "page": "",
+       "id": "--kaltura--1_41grlaa5===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 4: המאפיה האיטלקית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/18bda004bc5049d2a40a21382773ab4e/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_zg8az86l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המסע המופלא באמריקה ממשיך כשאהרוני וגידי מגיעים לעיר המפחידה באמריקה, שיקגו, שם הם פוגשים את המאפיה האיטלקית. לאחר מכן הם עוזבים את העיר אל חיק הטבע כדי ללקט צמחים בעקבות שבט הלקוטה האינדיאני",
+       "page": "",
+       "id": "--kaltura--0_zg8az86l===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 5: המערב הפרוע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c268089d29764ccc8c1af4245a0d326c/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_lccsk0pj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי עוזבים את הנוף האורבני ומגיעים אל המערב הפרוע: הם פוגשים קאובויז וצופים במופע רכיבה על שוורים, מבקרים בפארק הלאומי \"ילו סטון\" ואוכלים ארוחת חלוצים מסורתית שמבושלת על תנור עץ",
+       "page": "",
+       "id": "--kaltura--0_lccsk0pj===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 7: פרק סיום עונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3ce82d933de24407971b641bfee2fb0d/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_l5tjdwa5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ביקור במכולת סינית שמוכרת דברים מוזרים, שיעור בישול איטלקי, ודו קרב יריות במשחק וידאו, אהרוני וגידי נפרדים מאמריקה בדרכם הייחודית.",
+       "page": "",
+       "id": "--kaltura--0_l5tjdwa5===",
+       "season": "עונה 7"
+      }
+     ]
+    },
+    {
+     "name": "עונה 8",
+     "channels": [
+      {
+       "name": "אהרוני וגידי, עונה 8, פרק 3: הודו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5012c16f33b41f88b39f26e8c07fd8a/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_obq9ckpu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-02",
+       "plot": "אהרוני וגידי נוסעים לרג'סטאן, מקום בו אגדות אלף לילה ולילה הם עדיין מציאות קיימת, עם ארמונות, נמרים, מדבריות ומשתאות פאר. הם יתארחו בארמון משפחתי שהפך למלון בוטיק ייחודי המציע סוויטות, טיולי ספארי ומסעדה פרטית המגישה מנות ממטבח המהרג'ות המלכותי",
+       "page": "",
+       "id": "--kaltura--1_obq9ckpu===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אהרוני וגידי, עונה 8, פרק 8: אהרוני וגידי מחממים את הקור האנגלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eaf8c4dd91d24ec89847bc5880120813/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nc6hdqca/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי מבקרים באנגליה, שם הם מנסים להתרגל לנסיעה בצד שמאל, מבקרים בשוק של מנצ'סטר ומגלים את המטעמים המקומיים",
+       "page": "",
+       "id": "--kaltura--1_nc6hdqca===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אהרוני וגידי, עונה 8, פרק 7: אהרוני וגידי נוחתים בתאילנד ועוברים מבחן אומץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fbbb0bc0598476a8e0ea450f30e6884/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_les3qmpl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי נוחתים בתאילנד ומגלים מאכלים שהעולם עוד לא טעם",
+       "page": "",
+       "id": "--kaltura--1_les3qmpl===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אהרוני וגידי, עונה 8, פרק 6: אהרוני וגידי נוחתים בפולין ומנפצים כל סטיגמה על האוכל הפולני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7203637f17224ed294cb861a7e0bc354/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fw3g0f40/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי נוחתים בפולין ומבקרים ביריד אוכל פולני ועל הדרך מבינים שכל מה שסופר על האוכל הפולני פשוט לא נכון | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_fw3g0f40===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אהרוני וגידי, עונה 8, פרק 4: חוגגים בסופרה ומכינים סולוגוני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec4ee706e92a40bb9bd6e3f250124439/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_w3q6fhx5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרוני וגידי במסע רווי בצקים ויין בעקבות המטבח הגרוזיני. איך יצלחו את ה\"סופרה\" המשתה הגרוזיני המסורתי שכולל שירה ריקודים ובעיקר - כמויות אדירות של אוכל ושתייה?",
+       "page": "",
+       "id": "--kaltura--0_w3q6fhx5===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אהרוני וגידי, עונה 8, פרק 1: איטליה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/25ff30db4ff14f2eb2f6fb6f08410d72/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_y0b8ldue/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הכפר ורדונו הוא כפר קטן ומנומנם ברוב ימות השנה. פעם בשנה, בסתיו, עונת פטריות הכמהין הלבנות מגיעה לשיאה ואז לכמה שבועות הופכת העיר אלבה ומחוז איטליה כולו לפסטיבל שוקק של חגיגות הכמהין, הפטריה הנדירה שמחירה יקר מזהב. לפני כמעט 30 שנה התארח אהרוני במסעדה בכפר לארוחה אותה הוא זוכר כאחת מהטובות שאכל בחייו. היום הוא מביא את גידי, בשיא עונת הכמהין, כדי לשחזר את החוויה",
+       "page": "",
+       "id": "--kaltura--0_y0b8ldue===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אהרוני וגידי, עונה 8, פרק 5: נוחתים בסינגפור וטועמים מישלן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/297a214e265747d79b8ddd4766bfe860/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_847zmir1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהרוני וגידי מגיעים לסינגפור, שם הם מבקרים במסעדת מישלן בעלת כוכב אחד. ובנוסף גם טועמים לראשונה מעדן צפרדע מקומי",
+       "page": "",
+       "id": "--kaltura--0_847zmir1===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אהרוני וגידי, עונה 8, פרק 2: קו-קוט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c4cb658c6f65463680c22b2e16c9dfd0/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_jbbz2um6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אהרוני וגידי נוסעים לסונובה קירי ויוצאים למסע קולינרי חד פעמי עם אחת השפיות המוכשרות בעולם שהקדישה את חייה לעבודה עם תושבי האי ולבישול לאורחי הריסורט, עם מסעדה ללא תפריט, שכל המנות המוגשות בה מורכבת ממה שגדל על האי",
+       "page": "",
+       "id": "--kaltura--0_jbbz2um6===",
+       "season": "עונה 8"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

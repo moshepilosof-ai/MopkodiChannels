@@ -1,0 +1,61 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - קפיצה למחר",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "159",
+   "series_id": "159",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b4dea3de4b94f2c97988edb937aa20b/version/11/width/800/height/1200/quality/90",
+   "plot": "צופית גרנט יוצאת למסע רגשי סוחף אל עתידם של משתתפים מוכרים, המאפשר הזדמנות נדירה להציץ לדמותם וחייהם בעתיד ולקבל החלטות נכונות יותר בהווה",
+   "updated": "2026-10-31 00:02",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "קפיצה למחר, פרק 2: לוסי אהריש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d33ee7ac58f34a6c8537211798d46102/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f807qivc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לוסי אהריש יוצאת למסע, יחד עם צופית גרנט אל עבר העתיד שלה. מסע המאפשר לה לבחון את חייה ולהתעמת עם הנקודות הרגישות",
+       "page": "",
+       "id": "--kaltura--1_f807qivc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קפיצה למחר, עונה 1, פרק 3: גיל ריבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aab8034db1e747439386553815bfb3c5/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ey5at5yv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גיל ריבה יוצא למסע, יחד עם צופית גרנט אל עבר העתיד שלו. מסע המאפשר לו לבחון את חייו ולהתעמת עם הנקודות הרגישות. לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_ey5at5yv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קפיצה למחר, עונה 1, פרק 4: מוטי רייף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14f7cbf2964049128f38ac206ed9f38b/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0p8642lv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף יוצא למסע, יחד עם צופית גרנט אל עבר העתיד שלו. מסע המאפשר לו לבחון את חייו ולהתעמת עם הנקודות הרגישות. לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_0p8642lv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "קפיצה למחר, עונה 1 פרק 1: מיה דגן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f1e366e6fbc4d368c8b8e02106d7e9d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wnoyjy9b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית גרנט למסע רגשי סוחף אל עתידם של משתתפים מוכרים, המאפשר הזדמנת נדירה להציץ לדמותם וחייהם בעתיד ולקבל החלטות נכונות יותר בהווה. קפיצה למחר לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_wnoyjy9b===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

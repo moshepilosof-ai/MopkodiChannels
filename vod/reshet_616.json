@@ -1,0 +1,841 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - שואו טיים",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "616",
+   "series_id": "616",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a0e74b7a34e48f2bc399289f37fdc8e/version/0/width/800/height/1200/quality/90",
+   "plot": "רצועת הבידור החדשה של רשת 13 בהנחיית עדי הימלבלוי וקובי מחט. התוכנית, שתשודר בכל יום בשעה 16:00, תעסוק בכל מה שמעניין בעולמות הבידור והתרבות",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "תוכניות מלאות",
+     "channels": [
+      {
+       "name": "שואו טיים 30.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3ce33f94afa14d52bbafa37d0fe6626a/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xclnu6pw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xclnu6pw===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 29.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fb4e18b7b4c243a797a91dd83fa31495/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kx32qtlk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_kx32qtlk===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 22.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/425560d9eb784fbe86ae7d854b6f8b31/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5yf9wfs2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_5yf9wfs2===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 21.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ddcd561bcbf14f7ab79b66c01b1645ee/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bbxizkck/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_bbxizkck===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 20.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0949b8e1278b433aa95c63c71a2b68f8/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bc1x14by/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_bc1x14by===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 15.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8dedea690e4477c8f5d90de463caebb/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gxpj99na/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_gxpj99na===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 14.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13e012b645704f628cbcba2063e16199/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dhwwimuz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_dhwwimuz===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 13.10.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3ff69b9d861a4fd58c79232ac0e1f5e3/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0deuljul/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_0deuljul===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 30.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad23af9b20c34cbcb096962323d47588/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y69xj4z8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_y69xj4z8===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 26.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/088f4f4240e1466b86f0bdaf3fbc1297/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s6an8ksp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_s6an8ksp===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 25.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b5a30dc06d6a4b16b70b5942e847b376/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yoxdi8l7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_yoxdi8l7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 24.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc64870e68b848bcb48ff8de44bd50c2/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jsrq64l8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_jsrq64l8===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 23.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5cb0a39685b949a682e1752cea5bb20d/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ihibrtvy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ihibrtvy===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 22.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af743f1a6c0047c4a04cfae11d0d9c2c/version/34/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_egpv0837/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_egpv0837===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 19.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ec77902d9304a9c9a858d67eb6b7da2/version/37/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3l9s98zd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_3l9s98zd===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 18.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/71ee4f37da2f4451a70ef2def49d525a/version/39/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qnxy2myd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qnxy2myd===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 16.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d88fa5a7a9e8471281c3c4b7ccdf0c38/version/40/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iqiybnhy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_iqiybnhy===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 15.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a6591af8d5c4e87862c6da7d52c9611/version/42/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fnghenme/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_fnghenme===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 12.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4349a409404b4ac080343c3f6fc7a8b6/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rkjaghka/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_rkjaghka===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 11.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/74607d956b3a495db67e534315b59bef/version/46/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gdly7z6l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_gdly7z6l===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 10.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf71361743984f70b92c56e836d77762/version/49/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x6fuk2mq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_x6fuk2mq===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 09.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e491fc345114466193e664887a612d62/version/50/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ra2kegml/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ra2kegml===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 08.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/116521832c21419ab1dec01b96fab50b/version/52/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cqn2etc2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_cqn2etc2===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 05.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e096607566a94c228edefbf9a600c1f5/version/56/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5mk105ma/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_5mk105ma===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 04.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/264e0d7f8d1442c3b43027dd11fd19d8/version/56/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wkhm1c1t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wkhm1c1t===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 03.09.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/799242b2e8a54347b7bac8f551bd5d57/version/58/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4zo7a0tu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_4zo7a0tu===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 29.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3ee4de2e9f946849fbe9e9b77066271/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1d4zmzlx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_1d4zmzlx===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 28.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2199db34f5a248c79cda4607e6791158/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r08i8ko7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_r08i8ko7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 26.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b9ff5bcbcaa40e881ed82f601199ae3/version/65/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ng1rm5a4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ng1rm5a4===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 22.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d62b6b8a2734104a26d50155d0b16dd/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xhjafyx7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xhjafyx7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 21.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9aa9e08d0f0e4951968e5e3fc24a26d7/version/68/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oqkzv2lr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_oqkzv2lr===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 20.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b5a97aa2c8a4c98b77f602460815bea/version/70/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_040e7x6i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_040e7x6i===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 19.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2977992dc059464d98e8b1f269734238/version/72/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8yx5bzcw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_8yx5bzcw===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 18.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f28997564184fa2a6ce96d70668281d/version/75/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mzot2c3f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_mzot2c3f===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 15.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/78eea5ac098340a5bdd66b90e4810f15/version/77/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v7z7vlqt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_v7z7vlqt===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 14.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a293b12b02b04d5b9cbe5a428324648a/version/80/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_onhfwrxj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_onhfwrxj===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 11.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2734d72f7e1a4e93ba309c7cd343f711/version/79/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bx0sieea/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_bx0sieea===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 12.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f6ed4f5fb94449fb55dbe05a698abf2/version/81/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ptfkn8qj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ptfkn8qj===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 08.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77ab4359b0cb4c939411a0eaf4812907/version/85/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zz1xozj7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_zz1xozj7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 07.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d584cc4a4f5d4a759073479729d922f4/version/87/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_goxr7pdp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_goxr7pdp===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 06.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/508b7bb9b5fd446998dad963233bb993/version/89/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_249azxov/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_249azxov===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 05.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/40adba4b43334dcc9ecd080c78f9c408/version/92/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pvle7182/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_pvle7182===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 04.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3ac075222f4047b1ad1d4694b8dc9f98/version/93/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yo1792ni/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_yo1792ni===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 01.08.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/261a774716eb44159c43e2cb505ee20a/version/95/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v4del3fy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_v4del3fy===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 30.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3fb332e5575f49e7a70c44489fc7e39d/version/97/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u74v6fqr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_u74v6fqr===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 29.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ea2269cf70248048e1611042d2d9ec0/version/99/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jn31am1i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_jn31am1i===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 25.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64e2898a891f48dba102e3c466c1f5fc/version/101/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kg50hswn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_kg50hswn===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 24.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/36a75c98ee5d4f73a3fa76003c9d40c2/version/103/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a0m5ua8u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_a0m5ua8u===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 22.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b9cab1f0519470484f4f0ff411ec66b/version/104/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ttt0o4ff/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ttt0o4ff===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 23.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/692edad3b84b477e936dde59c2721c39/version/105/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wyu6uat7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wyu6uat7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 21.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c4ce237aab144b4cb1b4b18755c3f253/version/107/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dq7jfv38/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_dq7jfv38===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 18.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91290eeca27144a5b8738992e3b4d2d4/version/112/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hh4ya79e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_hh4ya79e===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 17.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a348f42afa2545fa9a8e02a60ab34f63/version/112/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ygw8ej2f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ygw8ej2f===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 16.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/494305ef60ea46cd93790bb48e7f3336/version/113/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t1rbei6k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_t1rbei6k===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 15.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a437df4ecea84489ba3f0b66e034da99/version/116/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iiztiq0i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_iiztiq0i===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 11.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2d04b29013c4788af61c3be4d86a445/version/114/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6ymtzemd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_6ymtzemd===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 10.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c0a474721ab43219000eff0bd2f4e75/version/115/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aqgjif7z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_aqgjif7z===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 09.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0923a71e249a44dc8efb0d39fc75b73e/version/117/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7vg3trgi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7vg3trgi===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 08.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4755ff8808b343198c2296daa37cc28c/version/118/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k1zcnv9x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_k1zcnv9x===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 07.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64ddf09f1b1c4ce6aff899a38e0a0f18/version/118/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2kv5um5k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2kv5um5k===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 03.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84b39f8a545a4132bd52507cdd507c8e/version/119/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zzgvnu1g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_zzgvnu1g===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 02.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6cc9029c1f064444900f3fb62331f66a/version/122/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9ino0pmz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9ino0pmz===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 01.07.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59b08ad60f6b4af29545f625d89602f2/version/122/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r0vzknc7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_r0vzknc7===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 30.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/792848c8e6174fc584776555ff27fb92/version/123/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o0vlgt4s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_o0vlgt4s===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 27.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c10ad76f4a354f518b15bf5a70f8c5d5/version/124/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9hola8ri/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9hola8ri===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 26.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1b2de42ab714c06bf49fe1d2023b96f/version/125/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m1fdmn9i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_m1fdmn9i===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 25.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b5b7c060a3ef4d6a82294408f351d985/version/125/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p1k740ky/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_p1k740ky===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 24.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60f135071a504513a3a19532374c1ec7/version/127/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l3a02ujl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_l3a02ujl===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 23.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a47598ca3374075b46a477e05d0b6e5/version/128/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c92yi4kt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_c92yi4kt===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 20.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7728b46281bb4faba7c2a0b5f43da727/version/129/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1j668h9g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_1j668h9g===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 19.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/869a747db8be447baffca2463e99d7c7/version/131/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xzqdd8wh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xzqdd8wh===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 18.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13b7ce284e4f446aace9ad3c017f8f92/version/131/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n1bksv6r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_n1bksv6r===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 17.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5070e685bd814cd98a9827756399e694/version/132/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0dg6miaq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_0dg6miaq===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 16.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d557791bb7af40c388137df85e7b30a3/version/133/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pvooxgpb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_pvooxgpb===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 13.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d60a968128e44aee9b285d328782a4fd/version/135/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_89pvq6us/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_89pvq6us===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 10.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b4ee4d2d37e04536bce2f3f90287ccc6/version/136/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fey8is71/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_fey8is71===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 09.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe36bd24976f4b45af0ee7db99166467/version/137/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6iirgq1u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_6iirgq1u===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 06.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e84f0eec51b4ddca728ea73ae8ed599/version/148/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_22s1x66w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_22s1x66w===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 05.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5e5774c4f91443d911f6ee16e6f5dba/version/140/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jwzr7cyj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_jwzr7cyj===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 04.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8e988dbe68e497da35075defa964ed6/version/143/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qdka89wq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qdka89wq===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 03.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/684958dd25354f3abf2ec9abffa1083f/version/143/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3571fjku/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_3571fjku===",
+       "season": "תוכניות מלאות"
+      },
+      {
+       "name": "שואו טיים 02.06.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fcb1352465a64b84b6d5889ab69e19de/version/144/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zofmxjdo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_zofmxjdo===",
+       "season": "תוכניות מלאות"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

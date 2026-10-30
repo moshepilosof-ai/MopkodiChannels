@@ -1,0 +1,276 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - טלוויזיה מהעתיד",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "90",
+   "series_id": "90",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1c0e6ba2476e48d3a17459e55f736937/version/16/width/800/height/1200/quality/90",
+   "plot": "תוכנית סאטירה ומערכונים בהגשתם של כוכבי הרשת: אריאל ויסמן, יואב רבינוביץ' וניב מג'ר. עם גיתית פישר, אושרית סרוסי, טל טירנגל, קארין כהן, גיה באר גורביץ', עומרי אנגל ועוד",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cff3177284c3442bb3c8faec6009975d/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k16yuno0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_k16yuno0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf2dddfb98d74bd28a3d94b850edcb1a/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1s3raoy6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1s3raoy6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b9d9bec8c3847f6a6d395cf69499b57/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rptnianr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rptnianr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1 פרק 12: תכנית סיום העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c34976246f7b43078210f740a2a1844e/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4yex1y8x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_4yex1y8x===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7e1f0f2b2e94eef95c9789eb0eb6809/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uj82g6ta/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_uj82g6ta===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eaeca8a6c104429b8bdb46a04474fc3d/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_opklp0fw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_opklp0fw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e9d9cc79088541ada04f1e197a3c6543/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8jnhg7a0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_8jnhg7a0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8b687310afc40c2884c7389eb624d23/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cjnugha0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_cjnugha0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbc5b24a2e19407fa97803fa704f39e8/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o6febc53/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_o6febc53===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f822231f7e4447983416631de4a7173/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cvrzhrpi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_cvrzhrpi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6c32aec28ea44f49de1713f325889ad/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_25eu2b4g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_25eu2b4g===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 1, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/090d46e8d15e4a1fa7a8ac5c18a38a08/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n4gnhi1t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_n4gnhi1t===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/053819ac592c4dee858a98cdf6af9963/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9spyjy6m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_9spyjy6m===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5de8107259a4a939261b9e68d64b8a9/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4e9sddwm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_4e9sddwm===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60ef335c6195464eadcd3b792f0000d3/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7z2mdffa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_7z2mdffa===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9838afca45de4961bb78fc6889a606e5/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fodetqgo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_fodetqgo===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/215405ad603d47c7a242a6e9afe121ff/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_14w9kx3g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_14w9kx3g===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da8ccaef3eea4708b4f8f151921fe1dd/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1gjwagsa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_1gjwagsa===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6473f245ae34439a8a6f52cebe4746c2/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2fs2it4p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_2fs2it4p===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/752af9ec72eb4c15a990bc65ed9fbe6c/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qmq3u3js/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_qmq3u3js===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ce418a02eb5a4abd95ba747bea3e779e/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2b8nlc1v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "העונה החדשה של טלוויזיה מהעתיד יוצאת לדרך | טלוויזיה מהעתיד, עונה 2, פרק 2 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2b8nlc1v===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/08914378dc84466496f0631a4d4487aa/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_98xuuye4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_98xuuye4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2: ספיישל עצמאות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e8e1a7a92204658a90db90426e37df4/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5jg1geb9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ספיישל חגיגי ליום העצמאות ה-70 של ישראל",
+       "page": "",
+       "id": "--kaltura--1_5jg1geb9===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5eee0f052afc400c90608c6935e8a079/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gf7qasp1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_gf7qasp1===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טלוויזיה מהעתיד, עונה 2, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e57d48dac274965ba76dbe7b3c41bf3/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x5d8bt82/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "התכנית הכי מפורעת על מסך הטלוויזיה שלכם בפרק חדש וקורע מצחוק",
+       "page": "",
+       "id": "--kaltura--1_x5d8bt82===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

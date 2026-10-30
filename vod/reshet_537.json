@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - יניב",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "537",
+   "series_id": "537",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3042e02736b041919be740a28fd540ab/version/0/width/800/height/1200/quality/90",
+   "plot": "קומדיה המתמקדת בסיפורו של יניב, המחליט לפתוח מסעדה בבית – והופך את חיי משפחתו לסיוט. בכיכובם של חנן סביון, שני קליין, אורנה בנאי ותיקי דיין",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "יניב, עונה 1, פרק 18: האקס של דבי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e2137e1ecc34e94860eb8e6f7d07c4d/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_km9mu2fr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-09",
+       "plot": "לאון, המפקד של יניב, נפרד מאשתו, ויניב נאלץ לארח אותו בסלון, דבר שמאתגר את הזוגיות של יניב ואפרת. דבי מגלה שהאקס שלה המשיך הלאה והיא נחושה להראות לו שלא אכפת לה | \"יניב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_km9mu2fr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 20: להיות או לא להיות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3179084440cf4137b0e8038d1e4f81bc/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zsagnbqr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-07-09",
+       "plot": "יניב לוקח על עצמו את תפקיד השף הסקסי כדי לא לחזור לקריירה אפרורית בצבא, אסתר פונה לסופר נני שתציל את היחסים שלה עם דבי | \"יניב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zsagnbqr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 19: מחוות גדולות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af9a296eb917438e91eb5b8a99b36960/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jhma03rn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-30",
+       "plot": "אפרת מגלה שהדרך הכי קצרה להפעיל את יניב היא לכתוב לו תגובות מלקוחות באתר. אסתר מנסה להפריד בין דבי לבין דורון, הארוס האובססיבי | \"יניב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_jhma03rn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 17: הקרקסן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac6e5cbc720d4d3fbbd77a6826ec6027/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3eqm1zo1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-03",
+       "plot": "לקוח של יניב חושב שעמית כבדת שמיעה ובמקום לתקן אותו יניב מנצל את הסיטואציה לטובתו. וגם: דבי דורסת קרקסן שמתאהב בה | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3eqm1zo1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 16: השף ההודי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/363ddf51913b4e2b94a75ecb8084d3e7/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7yla6j63/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-03",
+       "plot": "יניב מעסיק שוטף כלים הודי שסוחט אותו כדי שיניב לא יראה גזען בפני החבר החדש של עמית. וגם: רפי ביסה עורך טקס לוויה בעודו בחיים ומבקש מאסתר להספיד אותו | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_7yla6j63===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 15: בת הטוחן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7dc1a38203fa4ddab3b749f0e8c714bd/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g56pvkya/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-26",
+       "plot": "יניב עורך ארוחת יום הולדת לבת של עבריין, שמתחילה לצאת עם מתן. וגם: דבי מנסה להוכיח לאסתר שהיא יכולה לקנות מכונית לבד מבלי לצאת פראיירית | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_g56pvkya===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 14: אבא גנוב, אמא מגניבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/afbdc5d2de1c47d089c38e15d1548353/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2lgvawok/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-26",
+       "plot": "יניב ואפרת רוצים להתקרב לילדים ומתחרים על התואר מי יותר מגניב. וגם: אסתר עושה נומרולוגיה לחבר החדש של דבי ומנסה להפריד ביניהם | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2lgvawok===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 13: הלילה הזה כולו מרור",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d1837ba18f1e443183c3e1c635bbf0cc/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3np043sw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-18",
+       "plot": "יניב עובד בליל הסדר ואפרת לא מוכנה לארח את דבי ואסתר לבד. וגם: אסתר פותחת עסק לסידור ארונות ומתחרה בדבי | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3np043sw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 12: גט בייבי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4289a3b12625456b8997aecab54a3e03/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3snjojv4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-18",
+       "plot": "יניב מזמין בובת תינוק משוכללת כדי להוכיח לאפרת שהוא מוכן לעוד ילד, במקביל אפרת פותחת עסק לטיפוח ציפורניים ונתקלת באתגרים לא צפויים | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3snjojv4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 11: לפטר את הילד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b2e102b7b09e4bec88d07bc59ab7a485/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rolf3o63/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-11",
+       "plot": "מתן צריך פלאפון חדש, וכדי להרוויח כסף הוא מתחיל לעבוד אצל יניב במסעדה, אפרת דואגת שהוא מזניח את הלימודים ורוצה שיפסיק לעבוד שם. וגם: אפרת מתאהבת בחבר החדש של עמית וחוששת שדבי ואסתר יבריחו אותו | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rolf3o63===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 10: המתכון של סבתא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ad0cc62284b491bb695c939ce243466/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_izi6913q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-11",
+       "plot": "יניב מגלה מתכון סודי לחצ'פורי במצבה ומפחד שהסבתא שגנב לה את המתכון רודפת אותו. אסתר מקנא בחברה החדשה של דבי, וגם: אפרת מחפשת תירוץ לא לטוס לטיול עם קבוצת האימהות | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_izi6913q===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 9: הארנונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe71922d1e4e4553a31e2f9b454d0653/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a36h87n6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-04",
+       "plot": "יניב חושש שמחלקת הארנונה בעירייה תסגור לו את המסעדה הביתית. וגם: דבי ואסתר רבות ומסרבות לדבר אחת עם השנייה - מי תישבר ראשונה? | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_a36h87n6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 8: שקרן שקרן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2cddfa6c006048a2bcef0e788f66fd09/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_smlfck3p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-04",
+       "plot": "מתן מתגלה כשקרן מצוין, ולמרות שאפרת ויניב לא רוצים לעודד את השקרים, הם נזקקים לעזרתו. וגם: אסתר מוכנה לעשות הכול כדי שדבי תתחתן לפני הבת של רפי ביסה | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_smlfck3p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 7: הסדנה של יניב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/08624a32671f4f8cb70ac57fb348f1b5/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_szfw7jrm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "יניב פותח סדנת בישול, אפרת מצטרפת והופכת לבדיחה של הסדנה. וגם: דבי מנסה ללמד את גיא חשבון, אבל לא מצליחה לפתור את התרגילים בעצמה ונאלצת להיעזר במנקה | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_szfw7jrm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 6: ההומלסית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3172daace0b545ebb7715318a6fc84e0/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2f8e7slf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-28",
+       "plot": "מחשש שתעשה לו שיימינג ברשתות, יניב מארח בביתו הומלסית, אבל אז העניינים יוצאים משליטה. וגם: דבי ואסתר מתערבות מי תסיים לקרוא ראשונה את הספר \"החטא ועונשו\" - וכל האמצעים כשרים | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2f8e7slf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 5: הסעודה האחרונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e75be201816b43e6912d9f112e4e748e/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lbce2c8z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-21",
+       "plot": "יניב מתכונן לארח בביתו אדם שנותר לו חודש לחיות, אבל כשיניב מגלה שהוא לא באמת הולך למות, העניינים מסתבכים. אפרת מנסה לגרום לפיטוריה של עמית מהעבודה, וגם: ההתערבות של דבי ואסתר | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lbce2c8z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 4: לאכול עם האויב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/835cc3a81ca44d4891ca854aa8892d5b/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_733a3lxq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-21",
+       "plot": "יניב מארגן ארוחה למשרד עורכי דין בזמן שחסיה עושה הכול כדי שהארוחה לא תתקיים. וגם: אסתר מאבדת את הכסף שאפרת החביאה אצלה ויוצאת למסע במטרה להחזיר אותו | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_733a3lxq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 1: הקרב על הוועד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c592b3d78324c4887cb98b87cc993a9/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2s0sx8c6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-17",
+       "plot": "בניסיון למנוע מחסיה להיבחר שוב לראשות ועד הבניין, גם אפרת ודבי נרשמות למרוץ. מי תצליח לשכנע יותר דיירים להצביע עבורה? וגם: איך הצליח יניב להסתבך עם הטעימות למנות החדשות? | יניב, פרק הבכורה, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2s0sx8c6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 2: האקדח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d672aa6678e4146b19f488cc9ad6442/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o3jmt1q3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-15",
+       "plot": "יניב מקנא כשהוא מגלה שמישהו כבר תפס את תפקידו בצבא. כנקמה על כך שלקח לו את התפקיד הוא גונב למחליף שלו את האקדח ומשם העניינים מתחילים להסתבך. וגם: אפרת, עמית ודבי עוזרות לאסתר אחרי שעברה ניתוח | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_o3jmt1q3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "יניב, עונה 1, פרק 3: סיפורה של כליה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fe649a8325542c7b4892bead2e79d42/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v44mvb8u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-15",
+       "plot": "כשבת משפחה נדרשת לתרומת כליה, דבי, יניב ואפרת רבים מי יתרום לה. דבי רוצה לקבל אהבה מהמשפחה, יניב מקווה שזה יעזור לו לזכות במכרז צה\"לי ואפרת רוצה שבקבוצת ההורים של בית הספר יפסיקו לרכל עליה | יניב, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_v44mvb8u===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

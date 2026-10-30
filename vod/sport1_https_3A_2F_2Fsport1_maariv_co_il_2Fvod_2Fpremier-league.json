@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - ליגה אנגלית",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fpremier-league",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fpremier-league",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1290418",
+   "plot": "",
+   "updated": "2026-10-31 00:08",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תקציר ליגה אנגלית: קריסטל פאלאס – ניוקאסל 2:0",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1290418",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113250/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1981142/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: וירץ ואיסק כבשו, ליברפול ניצחה 0:2 את ברייטון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290416",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113247/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1981135/",
+       "season": ""
+      },
+      {
+       "name": "צפו בשערים: קריסטל פאלאס וענאן חלאילי הפסידו 2:0 לניוקאסל",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290397",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1981061/",
+       "season": ""
+      },
+      {
+       "name": "צפו: שני הבלמים של ארסנל נתנו לה 0:2 מול אברטון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290206",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112675/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1979980/",
+       "season": ""
+      },
+      {
+       "name": "צפו: שני הבלמים של ארסנל נתנו לה 0:2 מול אברטון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290206",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112625/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1979888/",
+       "season": ""
+      },
+      {
+       "name": "צפו: קונסה הבקיע שער בכורה והעלה את ארסנל ליתרון מול אברטון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290206",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112614/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1979821/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ג'קסון הבקיע צמד, וילה הנחילה למנצ'סטר סיטי הפסד ליגה ראשון העונה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290187",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112599/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1979772/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ג'קסון הבקיע צמד, וילה הנחילה למנצ'סטר סיטי הפסד ליגה ראשון העונה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290187",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112574/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1979739/",
+       "season": ""
+      },
+      {
+       "name": "צפו: טוטנהאם גברה 1:3 על קובנטרי והשיגה ניצחון בכורה העונה בפרמיירליג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1289622",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4111363/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1976388/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

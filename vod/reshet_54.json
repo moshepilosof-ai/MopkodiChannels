@@ -1,0 +1,546 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - חברות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "54",
+   "series_id": "54",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80c0dc11d3924c459be2ca5092c2cd6d/version/10/width/800/height/1200/quality/90",
+   "plot": "קומדיית מצבים ישראלית המתארת את חייהן של ארבע חברות טובות: נועה (ליטל שוורץ), פזית (לירית בלבן), ורד (לירון וייסמן) ושני (מגי אזרזר) הרווקה היחידה מבין חבורת הבנות",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חברות, עונה 1, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aec3cbdc903345dc93276613c64414c5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_mx82esxm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_mx82esxm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4893d31872c746fd9dbae29e00c6a0e8/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_3m3lgtdy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_3m3lgtdy===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/45ecc13292754a1e80b7d89366c9ec1a/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_92xghj03/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_92xghj03===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee5940005e454beba5911912f984b4be/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_833u0mi8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_833u0mi8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7dcb7ad648bf479f908a185c57c4cab0/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_r92i52y8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_r92i52y8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f6fc9cadfbbb42329e77400345079b8c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pgmjbq53/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_pgmjbq53===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cb79e86d64e4fd8bd7eb909f38eb395/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_kwk49jge/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_kwk49jge===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1 ,פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ed44ef739524cd7a1accd496892b04e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_eo791cbo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_eo791cbo===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4cf932edca804fb7ada732bb81c756a8/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_thali73m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_thali73m===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/749ccbf0e521427eb4bfbdf20ec9603d/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_17srdfb4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_17srdfb4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92c5459925fb4f3e97557bf033909811/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_jbzwffys/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_jbzwffys===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חברות, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/133ae85aa63f4208a1709436cc7dc961/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_jgkpwi7k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_jgkpwi7k===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "חברות, עונה 2, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/362d17db624645d08bc7a8c53ec6df67/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_344gibs0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_344gibs0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/04ec8b3df372430eb951157df915b9f0/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_6nn1anfw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_6nn1anfw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c20080377cd43ada71752f5f7fa14ce/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_sjhnzsdt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_sjhnzsdt===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/438cb2a9e4024d78a782050aa2baf2b2/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_q3r7m1hn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_q3r7m1hn===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/115a8af6aae34f309cd985bf43c154db/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_euijfacj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_euijfacj===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a1a6c392fc74826a0784623283ac738/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_9t0odl9t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_9t0odl9t===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/45874223114d4276962817da54ed20e2/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_lvind1dp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_lvind1dp===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c001f1184d94b0a93178a9147f210d2/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_swbtb9hb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_swbtb9hb===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/70440e8f7f30420dad50a1fe0ee5cdb5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ph3mf9g3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_ph3mf9g3===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8bfe21325ee84bbebe396757256ebcbb/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ht6k8cfu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_ht6k8cfu===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f04f7fce6fc64175bddaafa9619f1b8c/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_5yn1t3kv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_5yn1t3kv===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06bb0ea26c4f4ba5800856a7a4395bb6/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_g9ozx5zo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_g9ozx5zo===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "חברות, עונה 2, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d5c576bcc7b142618209209e581f5219/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_0df3i00e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_0df3i00e===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "חברות, עונה 3, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/feae22f49b324eeb87e2b1c0afc6a37a/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_3j6acg4z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_3j6acg4z===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4eb08b5188724051813ea1934ff34ec6/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_nlufr8xy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_nlufr8xy===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbe6127f471c443b994ddefff27cb62d/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_wz4s1xy6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_wz4s1xy6===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41248566d8724c49bc1641a2657049b9/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_z2h4va5n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_z2h4va5n===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63a665b8a0ab4450bbde3a67691505d2/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_gj4euqom/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_gj4euqom===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8d2966d9c1e4015b6f367fdc1e6d8c3/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_bsr0s83a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_bsr0s83a===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ccd7041b7eb4086a1e98f4e423992d2/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_5sv9jo1h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_5sv9jo1h===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/08993c0000ee429099c323c5abd6960a/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_zm094uo0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_zm094uo0===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec67e52cb7674d4a98d4ae6ba1dfdd2e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_fv5d3dih/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_fv5d3dih===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/971b96572bec427a86a4c6bf8fd8e960/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_893xa6cb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_893xa6cb===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7ed16b58b6404392b86013ba83c45fa5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_nl789o0i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_nl789o0i===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f23e8a88a74e4d8ea0388a75b6035f64/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_qlm9o98o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_qlm9o98o===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "חברות, עונה 3, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2f4fa852283b4542b14e7353d17ad33b/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_akhy6319/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן",
+       "page": "",
+       "id": "--kaltura--0_akhy6319===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "חברות, עונה 4, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/48b4fa43fcfc42159ab8c2655f9c42fb/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4fjuw7zv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות עונה 4 פרק 10 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_4fjuw7zv===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f47f55ba6c240b6962b27f823304b2e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dlj0i39g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות עונה 4 פרק 13 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_dlj0i39g===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8daba7ba33e04c28bf7ea1039374fb9e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c5r5oq8z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות עונה 4 פרק 8 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_c5r5oq8z===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/980d1617277a48f58a9c6c4d52ae113c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5x4z2wqv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות עונה 4 פרק 12 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_5x4z2wqv===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d3cbb0b84a04e8fa4a114971628bfd5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ouex559p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות עונה 4 פרק 11 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ouex559p===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d383f0965824c4e8b9d135b1152230c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m1mwfxqq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות עונה 4 פרק 7 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_m1mwfxqq===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa66b97004ed4facb8d33c8653c05b09/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1nr53ceu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות עונה 4 פרק 6 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1nr53ceu===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/707f4f7419ec421cb4382429ae2d341c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_raq7705w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות עונה 4 פרק 9 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_raq7705w===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c080edc1bdad4c5c9fc0ddd795b7cfa6/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bdo0ec9y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות, עונה 4, פרק 5 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_bdo0ec9y===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f193b2ce7dd4f66ac38723893a06944/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ov1o62no/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות, עונה 4, פרק 2 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ov1o62no===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfcf8e3c9ea448208b6f73c9dfc4ef64/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8asko78d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות, עונה 4, פרק 1 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_8asko78d===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/944cb0bfa7d84504843b8467c2820747/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ckx5qhjr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות, עונה 4, פרק 4 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ckx5qhjr===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "חברות, עונה 4, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/23cf970637af47dbaa8e1840f3056148/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_88fprfxy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן. חברות, עונה 4, פרק 3 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_88fprfxy===",
+       "season": "עונה 4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

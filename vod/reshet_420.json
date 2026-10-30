@@ -1,0 +1,401 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - המופע של רד ודביר",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "420",
+   "series_id": "420",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/effc56904cf643058a88ce0d636f325c/version/0/width/800/height/1200/quality/90",
+   "plot": "תוכנית האירוח הכי פרועה על המסך בהנחיית דביר בנדק ורד אורבך",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פרק 9: האיש והתופעה אלי יצפאן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9e85d81d683e43d58c1771862dbe19f3/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qv39v93y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-05",
+       "plot": "רד ודביר מארחים את אלי יצפאן, ואברהם טל קורע עם רד את הבמה",
+       "page": "",
+       "id": "--kaltura--1_qv39v93y===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שרית חדד מגיעה לרד ודביר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16a535792fa74fb5b9bb12f6e5f102aa/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dfxh38a6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-05",
+       "plot": "שרית חדד מגיעה לרד ודביר, ואולי אפילו ייצא להם פורמט חדש לתכנית מזה!",
+       "page": "",
+       "id": "--kaltura--1_dfxh38a6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 7: חנה לסלאו ואסתר רדא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/effc56904cf643058a88ce0d636f325c/version/0/width/800/height/1200/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vy75phj3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-05",
+       "plot": "חנה לסלאו מלכת המלכות ואסתר רדא מגניבת המגניבות מגיעות למופע לעשות שמח!",
+       "page": "",
+       "id": "--kaltura--1_vy75phj3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "רד ודביר מארחים את אביתר בנאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6e280af918054f23ac2842dddee8d8f5/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7341jqw8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-05",
+       "plot": "רד ודביר מארחים את עפר שכטר, בלונאי ואת אביתר בנאי",
+       "page": "",
+       "id": "--kaltura--1_7341jqw8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 3: חשמל עם נינט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfa02f8a0fa347de8df9f1cdfaf973dd/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6wikdbau/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-05",
+       "plot": "נינט טייב מגיעה לשרוף עם רד בנד את בימת המופע, וגם- האיש שזוכר הכל",
+       "page": "",
+       "id": "--kaltura--1_6wikdbau===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 18: תכנית סיום עונה חגיגית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e29632534164830bcbee7b93ac7294a/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zbnj12ai/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-04",
+       "plot": "גיא פינס, אסף אבידן ובר רפאלי בתוכנית סיום עונה שלא עושה הנחות",
+       "page": "",
+       "id": "--kaltura--1_zbnj12ai===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 18: תכנית סיום עונה חגיגית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/883b3996fca64de1bc15201f3f6d632e/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zbnj12ai/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "גיא פינס, אסף אבידן ובר רפאלי בתוכנית סיום עונה שלא עושה הנחות",
+       "page": "",
+       "id": "--kaltura--1_zbnj12ai===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 17: התוכנית הכי טובה אי פעם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/664941459e6845ea8ae3343b594b7f2a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yvirejl4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "שלומי קוריאט, יובל שרף ואריאל זילבר - כנראה שמדובר בתוכנית הכי טובה שהייתה עד כה",
+       "page": "",
+       "id": "--kaltura--1_yvirejl4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 16: איחוד משפחות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f38f1319914348aaa98b90810b149ba8/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_inymrkfs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "רד ובנו ג'וניור משתפים פעולה על הבמה וגם הראל סקעת באיחוד לא צפוי",
+       "page": "",
+       "id": "--kaltura--1_inymrkfs===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 15: רמי קלינשטיין ואושרי כהן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/997ffc4ffb4f45cfb42d0ff5e0967d25/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_do7mnu8t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "צמד גברים מוכשרים מגיעים לרד ודביר כדי לכבוש את הבמה בריקוד ובשיר",
+       "page": "",
+       "id": "--kaltura--1_do7mnu8t===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 14: גורי אלפי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1d7fb77f504d45f3a0767081a337865d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qmlu9rfb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "מה קרה כשגורי אלפי ניסה להתעסק עם דביר?",
+       "page": "",
+       "id": "--kaltura--1_qmlu9rfb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 13: שלום כבוד השר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/25347a727c4846f0b9875c68e3340258/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eglk26fa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "השר נפתלי בנט מגיע לראיון ואלישע בנאי ורד בנד על במה!",
+       "page": "",
+       "id": "--kaltura--1_eglk26fa===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 12: מדברים מהבטן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d3ba2baa4d0d42b8876d6d0c8fd6b398/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jf7rf808/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "קרן פלס ההריונית מגיעה לרד ודביר ושורפת את הפסנתר לצד רד על הבמה",
+       "page": "",
+       "id": "--kaltura--1_jf7rf808===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 11: בלי צנזורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7eed73d749ab4ab8bf781863d97db964/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3cqyovuy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "דביר ורד מארחים את קרן מור ושלומי שבן.",
+       "page": "",
+       "id": "--kaltura--1_3cqyovuy===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "רד ודביר, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/15a85fcc16784a87b22f05e9ec83cad9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oa1p0v05/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "ליאור דיין עוזר לרד להתגבר על ההתמכרות וגם רותם סלע ומוש בן ארי מגיעים",
+       "page": "",
+       "id": "--kaltura--1_oa1p0v05===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 9: האיש והתופעה אלי יצפאן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/289d016cbb81474c9686aa194660c985/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qv39v93y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "רד ודביר מארחים את אלי יצפאן, ואברהם טל קורע עם רד את הבמה",
+       "page": "",
+       "id": "--kaltura--1_qv39v93y===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 7: חנה לסלאו ואסתר רדא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c46a85ac5024740b2e3043169027ee1/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vy75phj3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "חנה לסלאו מלכת המלכות ואסתר רדא מגניבת המגניבות מגיעות למופע לעשות שמח!",
+       "page": "",
+       "id": "--kaltura--1_vy75phj3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 8: שרית חדד באולפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90b76706186542aca2ffa8f6a39eb1cd/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dfxh38a6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "שרית חדד מגיעה לרד ודביר, ואולי אפילו ייצא להם פורמט חדש לתכנית מזה!",
+       "page": "",
+       "id": "--kaltura--1_dfxh38a6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 5: רוקדים על עמוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b883b84d0314dcab03b2f541e7c7267/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f8dmvgvq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "מרינה מקסימיליאן בלומין מגיעה למופע וגורמת לרד לאבד את זה לגמרי!",
+       "page": "",
+       "id": "--kaltura--1_f8dmvgvq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 4: עפר שכטר ואביתר בנאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a573e8138cff476baab2da596cfdf286/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7341jqw8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "רד ודביר מארחים את עפר שכטר, בלונאי ואת אביתר בנאי",
+       "page": "",
+       "id": "--kaltura--1_7341jqw8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 3: חשמל עם נינט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfc179512a404a9ebb4e49ec7e6ba174/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6wikdbau/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "נינט טייב מגיעה לשרוף עם רד בנד את בימת המופע, וגם- האיש שזוכר הכל",
+       "page": "",
+       "id": "--kaltura--1_6wikdbau===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 2: חיים בתוך בועה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/490db275dd2a4a468b6ca07e40f03dd5/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tti5wgnq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "אורנה בנאי, יהודה פוליקר וגברת שפריץ אלופת הבועות. צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_tti5wgnq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תכנית הבכורה: רד ודביר נוצצים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc612a39e610494282bb3426818b3e9b/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_up02f8o1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-29",
+       "plot": "רד ודביר מארחים את עדי אשכנזי, אהוד בנאי והשד מקווקז בתכנית מטורפת",
+       "page": "",
+       "id": "--kaltura--1_up02f8o1===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "רד ודביר, פרק 10: זה הגירל פאוור!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4909c50f21644d539d803b4f21f0ff2c/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jfouqeeq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "ליאת הר-לב ולוסי אהריש, אושיות נשיות, סובבו את רד אורבך על האצבע הקטנה",
+       "page": "",
+       "id": "--kaltura--1_jfouqeeq===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "פרק 8: יוצאים מהאולפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b39294a140a14d7699f848b11915bb81/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_of64e01c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "קובי מימון ורד במשחק מוחות והמסע בעקבות שלום חנוך מסתיים בנאמבר ייחודי",
+       "page": "",
+       "id": "--kaltura--1_of64e01c===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "רד ודביר מארחים את יהונתן גפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6cdadb6d80e4612a86959e97f4de750/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8gneckqd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "יהונתן גפן אחראי על המילים ומאיר אדוני על הטעמים, פרק ששובר את הכללים",
+       "page": "",
+       "id": "--kaltura--1_8gneckqd===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "פרק 6: מי הבוס?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0683edc7af36491aa52232ba4a2a91e1/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fclmuzut/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "עמוס תמם ועומר אדם לא הבינו מאיפה זה בא להם",
+       "page": "",
+       "id": "--kaltura--1_fclmuzut===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "פרק 2: דיאטות ורוקנרול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/779d7714128f43819728516222f2ba0a/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bt450cqq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "צביקה הדר מגיע לשיחת בריאות עם דביר ומשינה מסכמים 30 שנה",
+       "page": "",
+       "id": "--kaltura--1_bt450cqq===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המופע של רד ודביר, פרק 3: הרומן של ריטה ורד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba0360607cac4a4cbe5aab675fd972b6/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0oq3n7na/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "ריטה מתחברת לרד ושלומית מלכה מספרת על עולם הדוגמנות",
+       "page": "",
+       "id": "--kaltura--1_0oq3n7na===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "פרק 1: שינוי גדול, בקטנה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3de1002ecf984f8cabcfd5e5655009cf/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5xfv5tik/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "רד ודביר חוזרים בעונה שניה. אז מה השתנה?",
+       "page": "",
+       "id": "--kaltura--1_5xfv5tik===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "פרק 4: אוסף של כוכבים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7699f70c9ff740b9b53501124545d659/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9mhentxx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "מה הקשר בין צביקה הדר, מוקי, שלומית מלכה וריטה? המיטב שלנו, כמובן!",
+       "page": "",
+       "id": "--kaltura--1_9mhentxx===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המופע של רד ודביר, פרק 5: קבלו את נינט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95e30ef5c16d4722893b1a62cee032c2/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8okucm98/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "נינט טייב בראיון מופרע על אמהות, מוזיקה וכל השאר",
+       "page": "",
+       "id": "--kaltura--1_8okucm98===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "פרק 9: מוסיקה וסטייל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92203819119e41889c04c09f60a28be1/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iou4ko7o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-08",
+       "plot": "עברי לידר בראיון מצחיק במיוחד וביצוע עם רד וג'וני גולדשטיין שאסור לפספס!",
+       "page": "",
+       "id": "--kaltura--1_iou4ko7o===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "רד ודביר, פרק 5: הכוח הנשי משתלט על האולפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c5d82a2e2ed4e8fba757e793bd7e984/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4njt6ard/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "נלי תגר, דנה מודן ודיקלה התאחדו לפרק מתפוצץ מכוח נשי!",
+       "page": "",
+       "id": "--kaltura--1_4njt6ard===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "פרק 3: משתלטים על התכנית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd08ea3992e14475950510c9d15310f1/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qi64j07j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "פרק חדש עם אורחים בקנה מידה שרד אורבך עדיין מנסה לחשב – הצמד הנצחי גרייניק ואלתרמן, והמוזיקאי המוכשר גבע אלון",
+       "page": "",
+       "id": "--kaltura--1_qi64j07j===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "פרק 2: טירוף חושים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea3f416fde48442fa1bd7d29a726da06/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n5r2edct/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "רד ודביר עוצרים את השידור, נותנים למולי לישון ונותנים בראש עם יהודית רביץ על הבמה",
+       "page": "",
+       "id": "--kaltura--1_n5r2edct===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "פרק 1: חזקים מתמיד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/823b8a0d31dc4019b16309a0dc8b1e35/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r51xqr1l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-25",
+       "plot": "העונה החדשה יצאה לדרך! רוצים לראות כמה השתדרגנו?",
+       "page": "",
+       "id": "--kaltura--1_r51xqr1l===",
+       "season": "עונה 3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,776 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אח לילה",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "500",
+   "series_id": "500",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e882465617d14a7f90020f8182601642/version/1/width/800/height/1200/quality/90",
+   "plot": "התוכנית המלווה של \"האח הגדול\" בהנחיית קווין רובין עם פאנל מומחים, קטעים בלעדיים, פרשנויות וניתוחים. כל מה שצריך לדעת על הבית",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 06.07.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b794628f83f742cbb1be7096fa527496/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wl2ze2un/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-06",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: שי לי מארחת את מעיין אשכנזי, שי חי ותום ברכה",
+       "page": "",
+       "id": "--kaltura--1_wl2ze2un===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 09.09.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6ffdc67b41f454eaef3cd509bad5ef7/version/35/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_18xo8pdj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-09",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את שי חי, נדיר אליהו ובר כהן",
+       "page": "",
+       "id": "--kaltura--1_18xo8pdj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 07.09.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8606ca483a0742ddb2eedb8e52787d32/version/36/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_clyjntts/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-07",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את שי חי, נדיר אליהו ובר כהן",
+       "page": "",
+       "id": "--kaltura--1_clyjntts===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 06.09.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/379c2c77a8474e35bcafd1429276f9de/version/36/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9d3aqf45/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-06",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את נטע ברזני, שי חי ונופר מור",
+       "page": "",
+       "id": "--kaltura--1_9d3aqf45===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 31.8.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/429658b8b6eb4714aba1c331bb5f4d01/version/37/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q26ztjl0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-31",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את נטע ברזני, שי חי וליהיא גרינר",
+       "page": "",
+       "id": "--kaltura--1_q26ztjl0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 30.8.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/808449c9306444d4b3e746e396827402/version/40/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_itv26jv1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-31",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את שי חי, מעיין אשכנזי וספיר בורגיל",
+       "page": "",
+       "id": "--kaltura--1_itv26jv1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 24.8.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/958efaaab5d540daba85515136e8a520/version/39/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7nadnjfk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-26",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין מארח את שי חי, אודליה סויסה ונטע ברזני",
+       "page": "",
+       "id": "--kaltura--1_7nadnjfk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 23.8.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f4e5cc37b2540f9b8f44828932ddaff/version/41/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cnwfzwz9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-24",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין מארח את שי חי, מעיין אשכנזי ונטע ברזני",
+       "page": "",
+       "id": "--kaltura--1_cnwfzwz9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 17.08.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21411dd68c58426d97ee1b6409c0daaa/version/41/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7qxpdxi6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-20",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין מארח את נדיר אליהו, נופר מור ובר כהן",
+       "page": "",
+       "id": "--kaltura--1_7qxpdxi6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 16.08.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cccc4746f89c4f2e89ae0c231cc27922/version/42/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aguckf32/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-17",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין מארח את ליהיא גרינר, מעיין אשכנזי ונופר מור",
+       "page": "",
+       "id": "--kaltura--1_aguckf32===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 09.08.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60c4f1be6b19496d9d3395425fbf971d/version/43/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nf4r0gwh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-12",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: שי-לי וקווין מארחים את גל גברעם, נדיר אליהו ובר כהן",
+       "page": "",
+       "id": "--kaltura--1_nf4r0gwh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 10.08.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cdadedc2785b438090679d6a8161bb99/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ef5vpxfh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-10",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: שי-לי וקווין מארחים את שי חי, נטע ברזני ואודליה סויסה",
+       "page": "",
+       "id": "--kaltura--1_ef5vpxfh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 03.08.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1bc85d6f98b4f9ba28100b4b34921c5/version/46/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gyuy3c0l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-03",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: שי-לי מארחת את שי חי, ליהיא גרינר ונדיר אליהו",
+       "page": "",
+       "id": "--kaltura--1_gyuy3c0l===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 02.08.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/016ca88c5e05452c9df253c37bfeedd2/version/47/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bkofg9tw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-02",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את שי חי, גל גברעם ונטע ברזני",
+       "page": "",
+       "id": "--kaltura--1_bkofg9tw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 27.07.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0f2b490b797e4d0f8fa696fc294ba20c/version/49/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_96zukm55/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-29",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את נופר מור, נדיר אליהו ושי חי",
+       "page": "",
+       "id": "--kaltura--1_96zukm55===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 20.07.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8aa0a0cf60f24aeeacfb3fadfc687100/version/50/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pbu9hh3u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-22",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את נופר מור, נדיר אליהו ושי חי",
+       "page": "",
+       "id": "--kaltura--1_pbu9hh3u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 13.07.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a91b863852d246f888df882f1789c25e/version/51/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cat2s1ez/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-15",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את בר כהן, גל גברעם ושי חי",
+       "page": "",
+       "id": "--kaltura--1_cat2s1ez===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 13.07.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8a340d884684583abe613f8799f18f6/version/52/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vndml86j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-13",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את נופרמור, נדיר אליהו ושי חי",
+       "page": "",
+       "id": "--kaltura--1_vndml86j===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 06.07.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d66fbdd0ff7c4d9b957caf50d7540f8e/version/53/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_23d87opi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-08",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את בר כהן ונדיר אליהו",
+       "page": "",
+       "id": "--kaltura--1_23d87opi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 29.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db768d15ea6042cea23100772bda634a/version/54/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zknmy6xi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-01",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את בר כהן ושי חי",
+       "page": "",
+       "id": "--kaltura--1_zknmy6xi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 28.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b00fc2f746434a4db24a1fd4f4643ca8/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gabz1kfd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-29",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את בר כהן, אביחי אוחנה ושי חי",
+       "page": "",
+       "id": "--kaltura--1_gabz1kfd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 22.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0f9122686a3f4a0da6170fd704eb7843/version/57/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xpt0aklc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-24",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את בר כהן, נופר מור ושי חי",
+       "page": "",
+       "id": "--kaltura--1_xpt0aklc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 21.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b0c9d6adbfc04285be4dcf894fa30987/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hvisqntl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-22",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את גל גברעם, נופר מור ושי חי",
+       "page": "",
+       "id": "--kaltura--1_hvisqntl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 15.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/adfa78fa949c4eefafb664f4b17c0e90/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uajg0cqb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-18",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את בר כהן, נופר מור ושי חי",
+       "page": "",
+       "id": "--kaltura--1_uajg0cqb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 14.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6d7ddf4eebb48f2bc1168d255bfaa91/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jyjukwx6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-15",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את עינב בובליל, נדיר אליהו ואביחי אוחנה",
+       "page": "",
+       "id": "--kaltura--1_jyjukwx6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 10.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/19f6b6038b284805a07527da692f1b6d/version/72/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_spw46dey/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-11",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את שי חי, בר כהן ונופר מור ומדברים על ההדחה הטרייה של מאיה גרוסמן",
+       "page": "",
+       "id": "--kaltura--1_spw46dey===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 07.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/801c91020c0b427fa9676d2ddd5b4035/version/70/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_13tkn7e0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-08",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את עינב בובליל, בר כהן ואביחי אוחנה ומדברים על כל ההתרחשויות בפרק החמישי",
+       "page": "",
+       "id": "--kaltura--1_13tkn7e0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 06.06.23",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ee8e921e3f7416c9fd54941a265704f/version/74/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ckxflh76/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את שי חי, נופר מור וגל גברעם ומדברים על כל ההתרחשויות בפרק הרביעי",
+       "page": "",
+       "id": "--kaltura--1_ckxflh76===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדר | פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5df35a52aae6455384cea0c9986b2e78/version/138/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b1qlzb9u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-01",
+       "plot": "תוכנית לילית חדשה המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים מחוץ לשלט החוצות הענק בראשון את בר כהן, אביחי אוחנה ועינב בובליל ומדברים על כל ההתרחשויות הלוהטות של שני הפרקים הראשונים",
+       "page": "",
+       "id": "--kaltura--1_b1qlzb9u===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 19.09.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/18f7683255424f1e9471c91cc950eb3f/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t7vkdpjy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-20",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין רובין מארח את מעיין אשכנזי, ישראל אוגלבו, שי חי ותום ברכה",
+       "page": "",
+       "id": "--kaltura--1_t7vkdpjy===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 14.09.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37a1de0a8c9642bdad33151ec5286977/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g7fwdofl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-15",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין רובין מארח את מעיין אשכנזי, אמילי קופר, שי חי ועינב שרי",
+       "page": "",
+       "id": "--kaltura--1_g7fwdofl===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 07.09.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7bb98a9996ca4a758dfc88f340ac3dd8/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_19wz3of3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-08",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין רובין מארח את מעיין אשכנזי, ישראל אוגלבו, שי חי ועינב שרי",
+       "page": "",
+       "id": "--kaltura--1_19wz3of3===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 24.08.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cde6e151917c44c6b2fe92976ea7a386/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zo4hfu5h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-24",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין רובין מארח את מעיין אשכנזי, ישראל אוגלבו, ברק מדר וקורלי",
+       "page": "",
+       "id": "--kaltura--1_zo4hfu5h===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 10.08.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/abc6a39c1b254f93a881920a01cff7e3/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cbob5r1i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-11",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין רובין מארח את מעיין אשכנזי, שי חי, בן אדם וליהיא גרינר",
+       "page": "",
+       "id": "--kaltura--1_cbob5r1i===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 03.08.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e0c66f8c241433d89f11e884d4f8822/version/34/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jxyymhxz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-04",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין רובין מארח את מעיין אשכנזי, שי חי, בן אדם ותום ברכה",
+       "page": "",
+       "id": "--kaltura--1_jxyymhxz===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 20.07.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbe973f6464d4ac49f40d9d71ef3c693/version/35/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_px4myifx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-20",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: שי לי וקווין מארחים את מעיין אשכנזי, שי חי ויהב ארהבור",
+       "page": "",
+       "id": "--kaltura--1_px4myifx===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 13.07.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb486a1102884590b20642565ef16aa8/version/40/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8yo9elwr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-13",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: שי לי מארחת את מעיין אשכנזי, שי חי ותום ברכה",
+       "page": "",
+       "id": "--kaltura--1_8yo9elwr===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 06.07.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/144833b27e56407ba4cf4ca1d73fff74/version/40/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wl2ze2un/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-07",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: שי לי מארחת את מעיין אשכנזי, שי חי ותום ברכה",
+       "page": "",
+       "id": "--kaltura--1_wl2ze2un===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 29.06.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e91b6d467770417a84774cbf5a72aa38/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q7gompiz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_q7gompiz===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 22.06.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3b90820d6b848b68c610cb3e67a2db9/version/46/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pothydez/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-22",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין ושי-לי מארחים את שי חי, דינור אבשייב ומעיין אשכנזי",
+       "page": "",
+       "id": "--kaltura--1_pothydez===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 12.06.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fe2040030d24991a0f82e852ec7ddd2/version/48/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y904dnh3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-12",
+       "plot": "תוכנית לילית המסכמת את כל המתרחש בבית החם במדינה עם אורחים מיוחדים, והפעם: קווין מארח את שי חי, שי לי עופרי, ומעיין אשכנזי",
+       "page": "",
+       "id": "--kaltura--1_y904dnh3===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 01.06.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/49687a7b167142f2a94992c9e6b28ba1/version/55/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_to6r6tj0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-01",
+       "plot": "קווין רובין ושי-לי שינדלר בלייט נייט שבועי רגע לפני עליית \"האח הגדול\" עם הכל לקראת העונה החדשה",
+       "page": "",
+       "id": "--kaltura--1_to6r6tj0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אח לילה עם קווין רובין ושי-לי שינדלר | התוכנית המלאה - 25.05.24",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e04340fd325d40c6bbf38bd98939f5f8/version/60/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4uwvkeiv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-25",
+       "plot": "קווין רובין ושי-לי שינדלר בלייט נייט שבועי רגע לפני עליית \"האח הגדול\" עם הכל לקראת העונה החדשה",
+       "page": "",
+       "id": "--kaltura--1_4uwvkeiv===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 13.09.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92caa076f8264d4a94de0e94fdbea25d/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6l0xso1a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_6l0xso1a===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 06.09.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d7283de31bd4ffdae3a9cea0edd1b71/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v6eeuxcb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_v6eeuxcb===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 30.08.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56981cfe53cf41f2a574fc56f7b3fe02/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9890v8n3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9890v8n3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 23.08.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fec02a8df154bb7830364d8669f9f07/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_igqk30ac/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_igqk30ac===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 16.08.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8405b910c3f140a5a0caaaa8756e536b/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_soag0fcz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_soag0fcz===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 09.08.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e527327fbcb43baaa62db11c9a4ef15/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_56pm0lz0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_56pm0lz0===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 03.08.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c181835fc914504aa186c204b9c8825/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s83x02ip/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_s83x02ip===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 26.07.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a3d1598af494c7f87408e520e216a8f/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lumb3c77/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_lumb3c77===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 19.07.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9476d8e13b38481fa2f89cb6d4a96b15/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jpi0uwmw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_jpi0uwmw===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 12.07.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d42c79df1a394c55a9361cbb8c759580/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wiomr7j8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wiomr7j8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 05.07.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aee9a7e738944c0e9cdfc7edc12c3729/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pyw92y1d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_pyw92y1d===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 28.06.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e087d7c76ca47afb667cd70d6e90e45/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2t2s1slv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2t2s1slv===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 07.06.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/131beaacbbe448dd911df7f64079427c/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bbeh46yr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_bbeh46yr===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 02.06.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c0cf2c266dd4f4b85b681dada3d07fb/version/35/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9okbuolx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9okbuolx===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 31.05.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e258765e4e6544ad9f9707cca09d58d1/version/35/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gadwl07t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_gadwl07t===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 24.05.25",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd050d813d5f44e292727d207690ef27/version/41/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_duswcbqj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_duswcbqj===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "אח לילה - השטיח האדום | התוכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/48829acd5b6b428fa6236f4a409e62f0/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hmcy5uid/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_hmcy5uid===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 20.06.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/18c2b885af1447faab76f995f650ff9d/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_41dtcxj7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_41dtcxj7===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 13.06.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/893cc0d2dc5e44e7b6a7adf19a0c1330/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0acdd7f7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_0acdd7f7===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 06.06.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3fd5759a5e7f474ebdf44c4e35d8a1ee/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xwbjaawc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-06-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xwbjaawc===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 30.05.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c41ac6e15b0447d58703e14330802071/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aqgyddqc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_aqgyddqc===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 23.05.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1127858eedaa404e8a84e31d1f133929/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qrw04ocm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qrw04ocm===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 17.05.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6bb64411c23b4cc487262f1a9cb5ef07/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lvwqzjco/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_lvwqzjco===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 09.05.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58a63eb833fe4fb59d2bbb0a4f9fdd9f/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fp5xrh4u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_fp5xrh4u===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 02.05.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee163fa92855439c9b5d3d83e40ffefa/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wfdm45sh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-05-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wfdm45sh===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 25.04.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/69241cbad0cd4d27b184a83ae09cfc4a/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8d4z11ta/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_8d4z11ta===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 18.04.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd8fc15b9ee9467695ecb74cb5ca74a5/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uw279dwv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_uw279dwv===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה | התוכנית המלאה - 11.04.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3118ea5e9f1045098cd3b62d173bca49/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sbn8va38/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_sbn8va38===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | 04.04.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4004eb39d7964ea8b083cf5fcdc6d0c6/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4ct7ty7q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-04-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_4ct7ty7q===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 28.03.2026",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa64b0be16ae49db9026c7ca70e3304a/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ykt36n0p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ykt36n0p===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אח לילה עם קווין רובין | התוכנית המלאה - 14.03.26",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57414aabef3940149c302bc24adecb85/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1aetey8m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_1aetey8m===",
+       "season": "עונה 4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

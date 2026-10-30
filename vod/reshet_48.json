@@ -1,0 +1,451 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - לה פמיליה",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "48",
+   "series_id": "48",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c92aaf118a45498c9993751e1954ee8b/version/8/width/800/height/1200/quality/90",
+   "plot": "קומדיית מצבים המגוללת את סיפורה של משפחה ישראלית ממוצעת. בעל ואישה המתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות. שחקנים: רותם אבוהב, מריאנו אידלמן, שירה נאור, ניב סולטן, חנה לסלאו, נורמן עיסא, מיקי קם.",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "לה פמיליה, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b06d46166594c1f9357bec2c1b93b09/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ds91b1j2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_ds91b1j2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c3b099094c214e8a91320b0ab69ac0b9/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_h2hl4v97/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_h2hl4v97===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 14",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b86083381474d15ae184a84bb0306e5/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_mcbdcf21/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_mcbdcf21===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f1020ad131584c829c6be5a19d0cae12/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_o9b9mi6m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_o9b9mi6m===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf9d4d8c9b2d4b4c959d1a24819bb400/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_whndlonz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_whndlonz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4e53429ebdda489c99703116fc86b060/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_m6j51g3s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_m6j51g3s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e683e2a1755944ad945635b7dcb66c3d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_hcbcd2np/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_hcbcd2np===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77ff1389117e4ea69b39fe0b90c3339a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_xlnt0td3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_xlnt0td3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8da6f5c60ff64849a9d29fec61de51ba/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ga98qizc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_ga98qizc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c96e5bd1566b4cc7922787276e894ad8/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ku3ijaqo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_ku3ijaqo===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef3fcd1b129142ddb611b7184d3a1da9/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_wajhiuhp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_wajhiuhp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 15",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6c76ade7df33442688513868cc86d44a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_i6hp2z7x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_i6hp2z7x===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5bb62203f4834101b35df9b46ad23339/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_4gtayyzt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_4gtayyzt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "לה פמיליה, עונה 1, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51ce6f6f0f874e71a466909636007db7/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_8yfphymc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_8yfphymc===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "לה פמיליה, עונה 2, פרק 15",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6443d071648b4306aa8d824e5ccf9b7e/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_f5ukzxeg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_f5ukzxeg===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba6f6f75c49f4fa9943747d73c671402/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_21w72ibm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_21w72ibm===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ca6672cece947debd0a317baeff05d0/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_rizax1kb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_rizax1kb===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1779e3ee9174aaf9ba4811a3abd40ff/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ua5t8e4n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_ua5t8e4n===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d487269625e34d02877a2f56d0a0aea1/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_7p87iw2x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_7p87iw2x===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/89295ecf83b149a985be2fdd12834ef2/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_q5xzg9hh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_q5xzg9hh===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 14",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/701a97e1f2704469a6582cd01bc9e3f5/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_js6sax11/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_js6sax11===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b91bb4ec2e743e88eb3927b53e4b6cc/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_381cy2km/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_381cy2km===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3be48d73d4f443ada1c76869d4874795/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_6nw9ck8e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_6nw9ck8e===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad3c952dab2a4fb3991279fc1645c01f/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_heqqccif/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_heqqccif===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/75f1eceeb54f42958dc25acd2811fac6/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_jin56bd5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_jin56bd5===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c7c1f6fccbde4ffb9c97e28ee387426b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_r7jym7p3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_r7jym7p3===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "לה פמיליה, עונה 2, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/96e9218ce01f4178936095fee777b62d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ln1ynv82/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_ln1ynv82===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "לה פמיליה, עונה 3, פרק 2: הבצל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c691fb95d6204b4db974083697aac2d5/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_2dcr7g4a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הפסיכולוג מחליט לטפל ברמי וחגית בשיטה חדשה ודי מוזרה. מיקה מביאה חבר חדש וההורים לחוצים לדעת האם הם מקיימים יחסי מין. לה פמיליה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_2dcr7g4a===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 3: המזגן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/03b009824e56468985c5266a227a473f/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_8r9sqs63/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רמי וחגית נאלצים לעבור סשן אצל הפסיכולוג ללא מזגן כיוון שהוא טוען שזה יוציא מהם את הזעם האמיתי. רמי ויגאל מנסים לברר האם השכן החדש שלהם הוא מהמוסד | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_8r9sqs63===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 4: הקידום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6d3432bfb6f43ada9ce524d9a531125/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pbyzt0x1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רמי מקבל קידום בעבודה מסיבה מאוד מקורית. המשפחה מארגנת לחגית ליומולדת הפתעה מאוד מיוחדת | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_pbyzt0x1===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 5: להזדקן ביחד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c9bc867673144c77bd2771c5451ad23b/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_uu6qykqe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רמי מדמיין את חייו עם חגית כשהם יהיו זקנים באופן שמאוד מרגיז את חגית. בינתיים הבנות מקבלות שיבוצים לקראת הגיוס וזה גורם לכולם לפקפק בצה\"ל | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_uu6qykqe===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 7: הניתוח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b73f104c5f14f97b126dd0d0280e915/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_p88doxxv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רמי נכנס לניתוח אפנדציט ונדהם למצוא את שם את האליל שלו ישראל קטורזה מיטה לידו. בינתיים חיובי האשראי לא מסתדרים לחגית. לה פמיליה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_p88doxxv===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 11: יואבי מתנהג יפה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d492fa30e2be4543acec2b1fb5172355/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_7yilen7l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יואבי מתחיל להתנהג יפה וזה מאוד מרגיז את רמי וחגית. לחגית יש חלום על בדיקות גנטיות שמעורר בה פחד גדול. לה פמיליה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_7yilen7l===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 9: השכן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8daff11a9e7480fbedb933f6b986ba3/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_4yghvuvy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שכן חדש מגיע לשכונה וחגית מארגנת את כל השכונה נגדו. מיקה שוברת את הרגל וחגית חושבת שזה בגלל קארמה רעה. | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_4yghvuvy===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 12: הגירושין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b5c130369fd84836a8a66b20783e9ca3/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_8ilgx4mh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הפסיכולוג מגלה לרמי וחגית פרט על חייו האישיים וזה מזעזע את רמי. רמי ויגאל מתכוננים לקראת טיסה לברצלונה אבל איכשהו מסבכים גם את זה. לה פמיליה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_8ilgx4mh===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ff7c5e684674cf3ad2f3aa95983bca4/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_1ea47061/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רמי מסתבך עם חגית לאחר שהציץ לאישה אחרת, חגית ונורית רבות מי מהן מזניחה יותר דברים | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_1ea47061===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 14: בוררים קרבות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc3078ff4abb42c9ba96dea70d0e32dd/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_cg5t6hn6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רמי וחגית מבינים שעליהם לברור את הקרבות בכל מה שקשור לחינוך ילדיהם. חגית מקבלת מתנה נוראית מהעבודה אבל רוצה להוכיח שהיא כן שימושית",
+       "page": "",
+       "id": "--kaltura--0_cg5t6hn6===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 15: טלפון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/02f5b1bb76d04f519408ca2fa43a23a9/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_q9ahv8ne/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רמי וחגית לא מבינים את שיחות הטלפון המוזרות של הפסיכולוג באמצע הסשן שלהם. בינתיים יגאל ונורית מנסים לגרום לרמי לקבל קידום בעבודה.",
+       "page": "",
+       "id": "--kaltura--0_q9ahv8ne===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 1: אכפתיות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f0f847567b5342f98f1fb46320139afa/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_gmq0rgew/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הסדרה מספרת את סיפורה של משפחה ישראלית ממוצעת ממודיעין. בעל ואישה אשר מתמודדים עם שלל סיטואציות משפחתיות מוכרות ומצחיקות בזוגיות ועם ילדיהם",
+       "page": "",
+       "id": "--kaltura--0_gmq0rgew===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 6: דואגים ליואבי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/daaf1a7b61cf484ab609dd17dd2b6312/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_92hn50dg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "רמי וחגית מתחילים לחשוש שאולי יואבי גיי. חגית חולמת על תורנות מאוד מיוחדת שהיא לוקחת בה חלק בבית ספר",
+       "page": "",
+       "id": "--kaltura--0_92hn50dg===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 8: ארוחת החג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1016a8317d8948b89f0d043ddfec6a77/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_zkwgfyk8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "חגית מנסה להכין תבשיל שיגרום לה סוף סוף לקבל מתכון על שמה בארוחת החג. רמי עוצר לעזור לבחורה להחליף פנצ'ר אבל מכאן הוא רק מתדרדר. לה פמיליה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_zkwgfyk8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "לה פמיליה, עונה 3, פרק 10: השודד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eb332af5a0e64bb6a652430d4d3f5416/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_2j275e5m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "רמי חולם שהוא הופך להיות שודד בנק. יגאל מלמד את רמי טריק חדש איך להרוויח דברים בחינם וחגית עולה על סטארט אפ איך לא לריב ליד הילדים",
+       "page": "",
+       "id": "--kaltura--0_2j275e5m===",
+       "season": "עונה 3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

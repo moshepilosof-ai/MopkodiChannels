@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - הרמון",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "114",
+   "series_id": "114",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d937c752805c4f45984e9fe925ddbb7c/version/11/width/800/height/1200/quality/90",
+   "plot": "סדרת דרמה מטלטלת בכיכובם של אלון אבוטבול וחן אמסלם זגורי, המספרת על כת בה 20 נשים נשלטות על ידי גבר אחד",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הרמון, עונה 1, פרק 4: המצלמה חושפת את ההרמון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3589d14d5e7f44d5ba3718e5363dfa71/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_986ntle5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק 4 של הדרמה המדוברת.  המצלמות פורצות את חומת ההרמון כאשר הכתבת מגיעה לקומונה ומתחילה לצלם את שבתאי ונשותיו לכתבה. כאשר הסודות מתחילים להיחשף, האם ההרמון בסכנה? הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_986ntle5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרמון, עונה 1, פרק 3: התקשורת מתגייסת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a9afd16635ae4f16a66ef3d4fb28b58e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qwj64a2i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תהילה מוסרת את בנה לאביו וההורים של מאיה והגר, שנואשו מן התקווה שהרשויות יסייעו להם לחלץ את בנותיהן, פונים לעיתונות. האם התקשורת תצליח לחשוף את הבית המסתורי?",
+       "page": "",
+       "id": "--kaltura--1_qwj64a2i===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרמון, עונה 1, פרק 1: בכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ceb073f8ce7a40e3bfa78cc1135f5c08/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uw5gxv6h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק הבכורה של סדרת הדרמה המדוברת, העוסקת בכת שבה מנהיג אחד שולט בחייהן של עשרים נשים",
+       "page": "",
+       "id": "--kaltura--1_uw5gxv6h===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרמון, עונה 1, פרק 2: משפחה חדשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2191d66a548648b6b1cb018330b858f4/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xc3k8o8n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק השני של סדרת הדרמה \"הרמון\", הגר מתנתקת בהדרגה מהוריה ומתקבלת באהבה על ידי שבתאי ובנות ההרמון, בעוד הוריה נאבקים להחזירה",
+       "page": "",
+       "id": "--kaltura--1_xc3k8o8n===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרמון, עונה 1, פרק 5: בחירה גורלית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a3e194466c94269b5217af80f3685b6/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x4g5xtl4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השלכות הכתבה ששודרה על הקומונה ניכרות על כולם. יואל, אביה של מאיה, מנסה לומר לה שאמה מאושפזת אבל מאיה רואה בזה מניפולציה שנועדה להפריד בינה לבין שבתאי. תמר סובלת מהתנכלויות בבית הספר. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_x4g5xtl4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרמון, עונה 1, פרק 7: אויבת מבפנים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea8e1b90946f443b8294789464e70f05/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1js0fyzo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "פרק 7 של סדרת הדרמה:  אויב ההרמון נמצא בתוכו. הגר מנסה לגלות פרטים על גורלה של עטרה והאם הוא קשור לגורלה של תמר שנעלמה. האם הגר תהיה זו שתשבור את שבתאי?  הפרק המלא מחכה לכם לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1js0fyzo===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרמון, עונה 1, פרק 8: כל החלקים מתחברים, פרק סיום העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/216ec889def54350919846a901a36705/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ax5lpp85/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "בפרק סיום העונה של סדרת הדרמה המדוברת, כל חלקי הפאזל מתחילים להתחבר וסודו האפל של שבתאי עלול להיחשף. מה הוא מתכנן, האם יש דרך לעצור אותו והאם זה סופו של ההרמון? פרק סיום העונה המלא של \"הרמון\" עכשיו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ax5lpp85===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ההרמון נחשף: מאחורי הקלעים של סדרת הדרמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4e6a00f9ef274a388902c700632f913c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5cilx4q5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "רגע לאחר פרק סיום העונה של סדרת הדרמה המדוברת, אתם מוזמנים לביקור ראשון מאחורי הקלעים של הסדרה, הכולל ראיונות עם השחקנים והיוצרים. איך יוצרים סדרת מופת? הפרק המיוחד מחכה לכם עכשיו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_5cilx4q5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הרמון, עונה 1, פרק 6: ההרמון מתחיל להתפורר?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a224070c7e049d183eb646e477ecfc8/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kk8dkw54/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "פרק 6 של סדרת הדרמה. מתחת לאפו של שבתאי, חומות ההרמון מתחילות להתפורר. תקווה, אמן של מאיה והגר,  מתה בבית החולים ושבתאי חושש שיאבד בשל כך את אחיזתו השבירה על הגר ומורה למאיה למנוע מהגר ללכת ללוויה. פרק 6 המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_kk8dkw54===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

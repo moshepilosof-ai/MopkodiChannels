@@ -1,0 +1,121 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - שוורץ",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "533",
+   "series_id": "533",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae3ed2416b2c42d6890fa49455a16e7e/version/1/width/800/height/1200/quality/90",
+   "plot": "שוורץ - סדרה קומית מאת ליטל שוורץ. בכיכובם של גיא לואל, מיכאל הנגבי, תיקי דיין, אורנה בנאי, קרן מור, עדי אשכנזי, מגי אזרזר ועוד. שוורץ פרקים מלאים",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שוורץ, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51f7f95528d84bf385e51235013060a4/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d65jp7zb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-18",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_d65jp7zb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0233cec0ec70409498d9776bcdea1f1d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6oxgnsue/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-26",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_6oxgnsue===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21d202a8c42b478188bfcc81ca72bc6d/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fs9dars1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-26",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_fs9dars1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57fb8ffb6d974756bc25ee03d7d47a2c/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g5c7omgq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-26",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_g5c7omgq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae6c1388d6714af79a5f70b932d0a2b9/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_isczb28s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-26",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_isczb28s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbbdcfdb2e794df2b58b08dd160cd9c7/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_65gw8aq3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-26",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_65gw8aq3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d4d57b5f04e349e39c18c6ea4ee263b2/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p8gs3wb0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-26",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_p8gs3wb0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f1a699d59f747d2be72f49ca22bc126/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m77vfq4s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-26",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_m77vfq4s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/966c82bef1b34ab1a1719ae07326276c/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pq7qj3sm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-26",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_pq7qj3sm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שוורץ, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/313634933236432e9fd3da41af620730/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i2om6cxl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-25",
+       "plot": "תוכנית מערכונים מצחיקה. בהשתתפות: ליטל שוורץ, קרן מור, אורנה בנאי, עדי אשכנזי, גיא לואל מיכאל הנגבי, אורי יניב, גאלה קוגן ועוד",
+       "page": "",
+       "id": "--kaltura--1_i2om6cxl===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - פטריק",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "655",
+   "series_id": "655",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/810cb90e7a2049b28a06ff3dec33dcff/version/0/width/800/height/1200/quality/90",
+   "plot": "דרמת ענק בעולם הפשע, שבמרכזה, פטריק (שלום אסייג), עבריין בכיר שמתעורר מתרדמת לאחר ניסיון חיסול והוא לא זוכר כלום",
+   "updated": "2026-10-30 23:58",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פטריק - רגע לפני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e4cae35bdf23436284b78c6e0ecdee2b/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j3i84687/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-09",
+       "plot": "שלום אסייג, אגם רודברג, יעל אבקסיס, שלומי קוריאט, יגאל עדיקא, לינור אברג׳יל, יובל סגל מספרים את כל הסודות מאחורי הקלעים של סדרת הפשע החדשה - פטריק | \"פטריק\", פרק הבכורה, חמישי ברשת 13",
+       "page": "",
+       "id": "--kaltura--1_j3i84687===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 10: שני ילדים ודלי - פרק סיום העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8884955e175945d79176a0e18645e51d/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5r8bty60/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-01",
+       "plot": "כשכל הקלפים, הסודות, השקרים וההסתרות כבר נחשפו יוצאים פטריק, איציק ונלו לקרב מוחות מדמם בדרך למכולה מלאת הסמים שתקבע בין חיים למוות, בין עתיד ורוד לסוף טרגי | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_5r8bty60===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 9: הילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5559b283c9044d1eba821598554f4d0e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rgbqzb9b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-23",
+       "plot": "רגע לפני שאיציק ופטריק יוצאים לקרב הסופי ביניהם אנחנו נחשפים לעברו של פטריק ולמזימה אותה רקח לפני ניסיון ההתנקשות שהוביל לאיבוד זכרונו | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rgbqzb9b===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 8: ילדי העבריינים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b1b675b9a6342bf9d22dac78c83a745/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y2bdzq7o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-16",
+       "plot": "פטריק חוזר לישראל עם המידע החדש שגילה מעבר לים ומנסה לשתף אותו עם איציק שזועם על הקשר שרקח עם הבת שלו מתחת לאפו. במקביל, ניסיון הנקמה של לירון עולה מדרגה ונכנס לסחרור מסוכן | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_y2bdzq7o===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 7: לואיס קספר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/805800cf952d456c94d2863c1e4b00d5/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zwmft7oz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-09",
+       "plot": "פטריק חוקר עם נטלי את הקשר הרומנטי שלהם וביחד הם מגלים בו עוד ועוד סודות, שקרים ואין סוף מזימות שפטריק רקח בעברו. במקביל, לירון מתכנן נקמה פרטית ומסוכנת | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zwmft7oz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 6: חיים חדשים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b17453887b0f49c69d660eecbcd523d1/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_130sh2ay/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-02",
+       "plot": "החיסול של ארנון שנכפה על פטריק גורם לו לרצות לצאת סופית מעולם הפשע ומשיתוף הפעולה עם המשטרה. נלו ואיציק, כל אחד מכיוונו, יעשו הכול כדי לגרום לו לשנות את דעתו | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_130sh2ay===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 5: מוסר כליות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/301c1ae738054877bfe118504c1209d9/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_laznq203/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-26",
+       "plot": "פטריק וקיקו נשלחים למשימה אכזרית במיוחד – לחסל את ארנון. במהלך לילה מבעית ומקפיא, פטריק עושה ככל שביכולתו כדי להימנע מהחיסול ועושה הכול כדי לשנות את גורלו | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_laznq203===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 4: רוחות מן העבר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/884ef665683f442789238ce13600c5e5/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hwf53ft1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-19",
+       "plot": "פטריק המום מהקשר האינטימי שהיה לו עם נטלי בעברו. כשהוא מנסה להיעזר בד\"ר סבן כדי להיזכר ולחקור עליו הוא נחשף לתקיפתה ומחליט לפעול בנושא. במקביל, מלחמות העולם התחתון המקומיים עולות מדרגה מסוכנת | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hwf53ft1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 3: כי תצא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d90f759b0aba42c2b219b32591c2e835/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8xz861nf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-12",
+       "plot": "הגעתו של לירון בנו לחייו מטעינה את פטריק ומפיחה בו רצון לחיות ולחקור את עברו, אך הוא נתקל בחזית מפתיעה שמתנגדת לו. במקביל, איציק מעלה את הלחץ על פטריק להיזכר במידע בראשו השווה מיליונים | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_8xz861nf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 2: לירון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6928dd2b3a1c4091ad129571ba26218d/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o67ng0aw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-05",
+       "plot": "ניסיון החיסול אותו שרד ולא פחות מכך המידע המרעיש שנלו חשף בפניו מערערים את עולמו של פטריק. רגע לפני שהוא מוותר על רצונו להיזכר בעבר, הוא נחשף למידע חדש ומרעיש שהופך את עולמו | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_o67ng0aw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פטריק, עונה 1, פרק 1: פרק הבכורה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6774764dc9de4a87ae2c342fe16ee830/version/26/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_itilu13d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-28",
+       "plot": "העבריין הבכיר פטריק מלול מתעורר מתרדמת ממושכת אליה נכנס בעקבות ניסיון חיסול אכזרי ללא כל זיכרון על עברו ועל עצמו. בעל כורחו הוא נכנס לג'ונגל של עולם הפשע בלי מושג מי איתו, מי נגדו ובכלל מי הוא | \"פטריק\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_itilu13d===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

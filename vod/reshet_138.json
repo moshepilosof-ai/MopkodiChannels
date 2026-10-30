@@ -1,0 +1,161 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - פסיכו",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "138",
+   "series_id": "138",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe0a2ab9ebba4a1089ed0345cda33022/version/13/width/800/height/1200/quality/90",
+   "plot": "נמרוד הראל, אמן החושים המוביל במדינה, מביא אל המסך מסע דוקומנטרי על-חושי",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "פרק 7: אקסטרים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc7bc4bc865647dd964400c4b3d3fabb/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dermxska/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל מבצע אפקטים קיצוניים, שונים, מוזרים וקשים לביצוע באופן מיוחד",
+       "page": "",
+       "id": "--kaltura--1_dermxska===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 5: תחרות הקלפים הגדולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1bb2a3199fb445038bcccf4dd420b60c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gpi3qipa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל ואמיר לוסטיג בתחרות שתכריע מיהו הקלפן הטוב בארץ",
+       "page": "",
+       "id": "--kaltura--1_gpi3qipa===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 6: הסחת דעת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af73d482a84e496991da27b87bdf4c19/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j8ayisk3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד חושף, לראשונה על המסך, את הסודות הכמוסים ביותר של עולם התעתוע",
+       "page": "",
+       "id": "--kaltura--1_j8ayisk3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 4: כישוף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/15ae739ad5984b82a1d021f68dc7a1eb/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wkgy0gs8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל בודק - האם בני אדם יכולים לשנות תפיסה ולשוב להאמין בכישוף?",
+       "page": "",
+       "id": "--kaltura--1_wkgy0gs8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 2: הכוחות שבתוכנו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef02769c87844f5d814e56a1e0014020/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_glqu6csp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נמרוד הראל בודק את הכוחות המופלאים הטמונים בתוך כל אחד מאיתנו",
+       "page": "",
+       "id": "--kaltura--1_glqu6csp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 1: חזרה לספסל הלימודים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/65f04b6b59634063b70f88202cf934f0/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wqoncl7q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך נראה ביה\"ס התיכון עבור אמן חושים? נמרוד מדהים את המורים והתלמידים",
+       "page": "",
+       "id": "--kaltura--1_wqoncl7q===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פסיכו ספיישל פתיחת עונה - מוכנים להתרגש?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/44fb14a8947f444582e70e6ffba1e689/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6426ors0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נמרוד הראל משתמש במטבע כדי לתעל רגשות, לא תאמינו איך זה נגמר",
+       "page": "",
+       "id": "--kaltura--1_6426ors0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 3: אנרגיות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f7bd6c8b665453ca45f0565633007b8/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k9n6ip14/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נמרוד הראל עוסק באחד הנושאים השנויים ביותר במחלוקת בעולם המדע והמיסטיקה",
+       "page": "",
+       "id": "--kaltura--1_k9n6ip14===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 8: מסרים תת הכרתיים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22022497ba50438e9f5a595465b1d711/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_byi8urli/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נמרוד בוחן כיצד ניתן להשפיע על הבחירות שלנו באמצעות מסרים תת הכרתיים",
+       "page": "",
+       "id": "--kaltura--1_byi8urli===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 9: התגובה המושלמת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f757838c59b4840adadd4a8f581b7ea/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uq3ueday/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נמרוד הראל יוצא למסע אחר האפקט שמדהים שיביא לתגובה המושלמת",
+       "page": "",
+       "id": "--kaltura--1_uq3ueday===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 10: עיניים להם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/783086cfd6e64522a66a2d67f7ae8cb9/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n5gtqke3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נמרוד הראל בוחן את תופעת העין השלישית. צפו בתכנית המלאה",
+       "page": "",
+       "id": "--kaltura--1_n5gtqke3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פרק 11: חיבור בין בני אדם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/46694b9cc277449c91880f3289894892/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q3g0psgg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נמרוד משתמש באותו קשר נסתר בין אנשים לשם יצירת תופעות הנדמות כעל טבעיות",
+       "page": "",
+       "id": "--kaltura--1_q3g0psgg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פסיכו ספיישל עיניים עצומות לרווחה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bda20a9c016c4f5c8a5a571850c3e9fd/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h9ywswm2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נמרוד הראל משתיל מחשבות לאנשים וגורם להם לראות בעיניים עצומות",
+       "page": "",
+       "id": "--kaltura--1_h9ywswm2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "פסיכו ספיישל הכי קרוב לטלפתיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/234467b66ae54b05b33d6a88fc9a85d0/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g1uj52dw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "נמרוד הראל מצליח לגרום למחשבות להישמע גם אם לא יגידו אותן בקול רם",
+       "page": "",
+       "id": "--kaltura--1_g1uj52dw===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

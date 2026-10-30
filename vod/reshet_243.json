@@ -1,0 +1,141 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - תיבת נח",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "243",
+   "series_id": "243",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/531c9bb2b1aa4853b36d3d044c407ebf/version/10/width/800/height/1200/quality/90",
+   "plot": "דרת דרמה ישראלית העוקבת אחר מפגשים טיפוליים שבועיים הנערכים בקבוצה המונה כשמונה חברים שעורך פסיכותרפיסט לשעבר בשם נח, המגולם על ידי מארק איווניר. במקביל מוצגים אירועים המתרחשים במרינה ביפו, שם עוגנת היאכטה של נח",
+   "updated": "2026-10-31 00:02",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "תיבת נח, עונה 1, פרק 1: לראות את האור",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf43e3bb94cc4cda8c930ef215fcc7c5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pbzot7ru/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רותי מחליטה להביא ילד לעולם",
+       "page": "",
+       "id": "--kaltura--1_pbzot7ru===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 2: ספק ודאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a6ce6445b36847ea86bc4619c0831bbc/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9j7njvvf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רותי מגיעה ליאכטה של נח",
+       "page": "",
+       "id": "--kaltura--1_9j7njvvf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 5: נחמת המנחם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a3822f5edaf4541b72ce1db7a347c20/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_56ss519o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נח מגיע לאסוף את מנחם החבול",
+       "page": "",
+       "id": "--kaltura--1_56ss519o===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 4: שותף לדאגה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b07c031032c4883a4da2fffbb0bf98e/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bzth2gub/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סלע מגיעה לפגישה ראשונה אצל נח",
+       "page": "",
+       "id": "--kaltura--1_bzth2gub===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 3: איתקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0827024b563e4b74979c659876aa82ab/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_znw8196z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בסטודיו נערכות הכנות לקראת אירוע הפרידה מרותי",
+       "page": "",
+       "id": "--kaltura--1_znw8196z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 9: אהבות חדשות ישנות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d5888fcb4b9b494dbd0dd413fe0b7c9c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wihxg4w3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "העניינים בין נח לטסה מתחממים",
+       "page": "",
+       "id": "--kaltura--1_wihxg4w3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 11: פריחת היסמין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc41d84f38ec4548807e698f4cabae7d/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kvggex1p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מנחם מבקש לשחרר את אהובת יסמין מהסרסור שלה",
+       "page": "",
+       "id": "--kaltura--1_kvggex1p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 12: יום הולדת שמח נח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/993dd82c8cd74583a6c2359094e0fb95/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2u11w5al/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נח לא אוהב ימי הולדת",
+       "page": "",
+       "id": "--kaltura--1_2u11w5al===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 10: סשן כוונות טובות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16b7ac68211e4f8fa0530dd46c8cc559/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0wce0kd0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נח מבקש מהקבוצה לדבר על העתיד",
+       "page": "",
+       "id": "--kaltura--1_0wce0kd0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 8: התפרצות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8bcf43b8f6e41f6b07f845dd76e0818/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nv9rzy00/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מנחם אוסף את יסמין במוניתו",
+       "page": "",
+       "id": "--kaltura--1_nv9rzy00===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 6: סשן שמחת ילדות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3625576e94eb4b298e0a360d7354e7f5/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kcbno4ic/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נח מספר לקבוצה שהוא לומד 'פסיכולוגיה התגלותית'",
+       "page": "",
+       "id": "--kaltura--1_kcbno4ic===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תיבת נח, עונה 1, פרק 7: מי -לי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba109ce5ee1248e1b33da0ca511deda7/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wumjyc61/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מילי חושפת את חייה במונולוג קורע לב",
+       "page": "",
+       "id": "--kaltura--1_wumjyc61===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

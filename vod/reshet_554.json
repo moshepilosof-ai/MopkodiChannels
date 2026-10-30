@@ -1,0 +1,91 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מה נסגר?",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "554",
+   "series_id": "554",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77d36f694f6f4a3982f735f6b26b858e/version/0/width/800/height/1200/quality/90",
+   "plot": "תוכנית בידור ישראלית בהנחיית רועי בר נתן, ששודרה בערוץ עשר בין השנים 2011–2018",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "מה נסגר? עם רועי בר נתן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d1ccf580568d40adb2b1058ffc82ebab/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8ynnm4n8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-08",
+       "plot": "תוכנית בידור בהנחיית רועי בר נתן הסוקרת את אירועי השבוע ברחבי הטלוויזיה הישראלית",
+       "page": "",
+       "id": "--kaltura--1_8ynnm4n8===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "מה נסגר עונה 5 פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a51cf8be2964919a18e73169db27b08/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qs6ot8a0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-02",
+       "plot": "תוכנית בידור בהנחיית רועי בר נתן הסוקרת את אירועי השבוע ברחבי הטלוויזיה הישראלית",
+       "page": "",
+       "id": "--kaltura--1_qs6ot8a0===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "מה נסגר עונה 5 פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a33d502240144116ad323adf71e9d814/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xmzd3ad9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-02",
+       "plot": "תוכנית בידור בהנחיית רועי בר נתן הסוקרת את אירועי השבוע ברחבי הטלוויזיה הישראלית",
+       "page": "",
+       "id": "--kaltura--1_xmzd3ad9===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "מה נסגר עונה 5 פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/070d4896db534f29b94b1393a15be184/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q5xwajry/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-02",
+       "plot": "תוכנית בידור בהנחיית רועי בר נתן הסוקרת את אירועי השבוע ברחבי הטלוויזיה הישראלית",
+       "page": "",
+       "id": "--kaltura--1_q5xwajry===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "מה נסגר עונה 5 פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59f1fe431e0f4e94beadb18d81a2bedf/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eo445va1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-02",
+       "plot": "תוכנית בידור בהנחיית רועי בר נתן הסוקרת את אירועי השבוע ברחבי הטלוויזיה הישראלית",
+       "page": "",
+       "id": "--kaltura--1_eo445va1===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "מה נסגר עונה 5 פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e0c717eec1154eaf8ac713563115b1af/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pdaltzma/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-02",
+       "plot": "תוכנית בידור בהנחיית רועי בר נתן הסוקרת את אירועי השבוע ברחבי הטלוויזיה הישראלית",
+       "page": "",
+       "id": "--kaltura--1_pdaltzma===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "מה נסגר עונה 5 פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e167194843ed4546afd51d81873a62fc/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bjcq4rfy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-02",
+       "plot": "תוכנית בידור בהנחיית רועי בר נתן הסוקרת את אירועי השבוע ברחבי הטלוויזיה הישראלית",
+       "page": "",
+       "id": "--kaltura--1_bjcq4rfy===",
+       "season": "עונה 5"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

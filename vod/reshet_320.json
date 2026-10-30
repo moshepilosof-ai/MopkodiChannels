@@ -1,0 +1,41 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - רגע האמת",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "320",
+   "series_id": "320",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/81f664bf13ac4b7a8c170f549ac18b8b/version/9/width/800/height/1200/quality/90",
+   "plot": "תוכנית חדשה של סיון כהן סבן ברשת 13. בכל פרק ישודרו תחקירים אקטואליים שילוו את הפרשיות המשפטיות המסעירות של המדינה",
+   "updated": "2026-10-31 00:02",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "רגע האמת, פרק 2: מדינה בהפרעה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8738e60113404888a5092870c6816785/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_km0zlxh0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "במשרד לביטחון הפנים טוענים כי אחת הבעיות הכי גדולות של המשטרה היא חוסר התקציב והשכר הנמוך של השוטרים. אלא, שנראה כי הבעיה היא שורשית הרבה יותר: כתבי אישום שמוגשים נגד שוטרים שבסך הכול מנסים לעשות את עבודתם, חוסר גיבוי ממפקדיהם וחשש ממאסר. המצב הזה, הלכה למעשה, משפיע בעיקר עלינו, האזרחים. סיון כהן סבן יצאה לבדוק האם אפשר להחזיר את ההרתעה? | רגע האמת, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_km0zlxh0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "רגע האמת | צייד הפדופילים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ceb3a7c16084dc0ac7445f738dfbb23/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g97bq4q7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הוא חי חיים של מיליונר אבל אף פעם לא סיפר כיצד הרוויח את כספו. רק אחרי שנעצר, גילו כולם את האמת המטרידה: הוא התחזה לצייד פדופילים וסחט אותם תמורת שתיקתו. סיון כהן סבן יצאה בעקבות הפרשה בניסיון להבין מי מונע את פרסום רשימת עברייני המין שתזעזע את המדינה?",
+       "page": "",
+       "id": "--kaltura--1_g97bq4q7===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

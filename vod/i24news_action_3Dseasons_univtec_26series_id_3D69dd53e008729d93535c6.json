@@ -1,0 +1,896 @@
+{
+ "categories": [
+  {
+   "name": "i24news - סופשבוע",
+   "type": "vod",
+   "source": "i24news",
+   "program_url": "action%3Dseasons_univtec%26series_id%3D69dd53e008729d93535c6f8b%26show_name%3D%25D7%25A1%25D7%2595%25D7%25A4%25D7%25A9%25D7%2591%25D7%2595%25D7%25A2",
+   "series_id": "action_3Dseasons_univtec_26series_id_3D69dd53e008729d93535c6",
+   "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/4090689c-635c-41e7-8c42-159e8c1be034.jpeg",
+   "plot": "סופשבוע עם דניאל רוט אבנרי",
+   "updated": "2026-10-31 00:07",
+   "sub_categories": [
+    {
+     "name": "אוקטובר 2026",
+     "channels": [
+      {
+       "name": "סופשבוע  24-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70255819572.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bee3419e-4089-4614-951e-ec086c443f00/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bee3419e-4089-4614-951e-ec086c443f00/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "סופשבוע  17-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70014189074.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/34630467-ba98-4c4d-a089-8d75ae8d46c3/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/34630467-ba98-4c4d-a089-8d75ae8d46c3/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "סופשבוע 16-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69978806363.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/368e9742-1eaa-4fc6-8c2f-c5c4703796fe/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/368e9742-1eaa-4fc6-8c2f-c5c4703796fe/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "סופשבוע, 10.10.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69763530046.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/55b07426-63ef-4a75-9891-09908f0aafbb/hls/master.m3u8",
+       "date": "2026-10-10",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/55b07426-63ef-4a75-9891-09908f0aafbb/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "סופשבוע  09-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69729104975.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a2093fb6-2a20-4d3f-8138-97f80851d6e3/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a2093fb6-2a20-4d3f-8138-97f80851d6e3/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "סופשבוע, 03.10.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69520303989.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d5d77c90-5866-4efe-afa5-0cde6e57663e/hls/master.m3u8",
+       "date": "2026-10-03",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d5d77c90-5866-4efe-afa5-0cde6e57663e/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      }
+     ]
+    },
+    {
+     "name": "ספטמבר 2026",
+     "channels": [
+      {
+       "name": "סופשבוע  26-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69284273501.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4cac7436-e319-4f58-a22e-ff9ce141b1be/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4cac7436-e319-4f58-a22e-ff9ce141b1be/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע 19-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69045791244.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/221898b5-944a-423b-88d7-8ad25c7c9a8d/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/221898b5-944a-423b-88d7-8ad25c7c9a8d/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע עם דניאל רוט אבנרי | 18.09.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69026429295.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/aa0fbd4f-f83a-43b3-91e3-27320de3ac98/hls/master.m3u8",
+       "date": "2026-09-18",
+       "plot": "סופשבוע עם דניאל רוט אבנרי - מסכמים את השבוע שהיה ופותחים את השבוע שיהיה עם כל הדעות, הניתוחים, הפרשנויות והמרואיינים שעשו את השבוע",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/aa0fbd4f-f83a-43b3-91e3-27320de3ac98/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע עם דניאל רוט אבנרי | 18.09.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69026465123.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/49e3fe1e-6c68-48b5-aec2-8337b28842be/hls/master.m3u8",
+       "date": "2026-09-18",
+       "plot": "סופשבוע עם דניאל רוט אבנרי - מסכמים את השבוע שהיה ופותחים את השבוע שיהיה עם כל הדעות, הניתוחים, הפרשנויות והמרואיינים שעשו את השבוע",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/49e3fe1e-6c68-48b5-aec2-8337b28842be/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע עם דניאל רוט אבנרי | 18.09.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69026429436.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1b16779d-2f46-4311-82fb-7226840447ea/hls/master.m3u8",
+       "date": "2026-09-18",
+       "plot": "סופשבוע עם דניאל רוט אבנרי - מסכמים את השבוע שהיה ופותחים את השבוע שיהיה עם כל הדעות, הניתוחים, הפרשנויות והמרואיינים שעשו את השבוע",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1b16779d-2f46-4311-82fb-7226840447ea/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע עם דניאל רוט אבנרי | 18.09.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69026464991.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d8203fa6-b55c-4655-af5d-f1e54e6b7ae4/hls/master.m3u8",
+       "date": "2026-09-18",
+       "plot": "סופשבוע עם דניאל רוט אבנרי - מסכמים את השבוע שהיה ופותחים את השבוע שיהיה עם כל הדעות, הניתוחים, הפרשנויות והמרואיינים שעשו את השבוע",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d8203fa6-b55c-4655-af5d-f1e54e6b7ae4/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "ח\"כ טלי גוטליב מעוצמה יהודית לקראת הבחירות: \"אני מבינה שסביבת נתניהו בלחץ\" | הראיון המלא",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69025820620.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1c0924f1-1940-48cb-a34f-c7c1c27196b4/hls/master.m3u8",
+       "date": "",
+       "plot": "ח\"כ טלי גוטליב מעוצמה יהודית לקראת הבחירות: \"אני מבינה שסביבת נתניהו בלחץ\" | הראיון המלא",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1c0924f1-1940-48cb-a34f-c7c1c27196b4/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע 13-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68854142740.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c92967d0-1935-4af4-852b-a9739f18a480/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c92967d0-1935-4af4-852b-a9739f18a480/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע עם דניאל רוט-אבנרי, 14.09.2026",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68853865793.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/621c6008-1994-4c91-830e-ecd66dbbb0b8/hls/master.m3u8",
+       "date": "2026-09-14",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/621c6008-1994-4c91-830e-ecd66dbbb0b8/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע 05-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68573058892.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c0c7434a-4e39-4752-bc5a-26dafcd616f8/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c0c7434a-4e39-4752-bc5a-26dafcd616f8/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "סופשבוע 04-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68539313693.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/22bd0847-2680-40a9-9d18-3d824fda4e20/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/22bd0847-2680-40a9-9d18-3d824fda4e20/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      }
+     ]
+    },
+    {
+     "name": "אוגוסט 2026",
+     "channels": [
+      {
+       "name": "סופשבוע 29-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68364854468.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ceb3f008-c6af-4c34-a48b-048f1452a13b/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ceb3f008-c6af-4c34-a48b-048f1452a13b/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "סופשבוע, 28.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68314165561.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/19458c9e-39b7-4cd9-8baa-fd63d931a97a/hls/master.m3u8",
+       "date": "2026-08-28",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/19458c9e-39b7-4cd9-8baa-fd63d931a97a/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "סופשבוע  22-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68121345467.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4445b245-cd54-404b-a4ee-b5b266d24595/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4445b245-cd54-404b-a4ee-b5b266d24595/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "סופשבוע 21-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68090705171.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d50f2d9c-39fe-43cd-9af9-98705343bc08/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d50f2d9c-39fe-43cd-9af9-98705343bc08/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "סופשבוע, 15.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67897224886.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a23d2e36-cc0b-4afd-931f-289c78f657b1/hls/master.m3u8",
+       "date": "2026-08-15",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a23d2e36-cc0b-4afd-931f-289c78f657b1/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "סופשבוע  08-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67678235302.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9d6240dc-7ab0-43e7-89e6-a8e265324e0f/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9d6240dc-7ab0-43e7-89e6-a8e265324e0f/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "סופשבוע 07-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67647002408.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cd157071-83e2-4c9d-99f7-953a2284dfd9/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cd157071-83e2-4c9d-99f7-953a2284dfd9/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "סופשבוע  01-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67456035306.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/37fc8423-f85e-4888-9657-87e6c3551fa6/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/37fc8423-f85e-4888-9657-87e6c3551fa6/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "סופשבוע  01-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67456016519.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/02a056ce-2899-452e-946a-15c482db0782/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/02a056ce-2899-452e-946a-15c482db0782/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      }
+     ]
+    },
+    {
+     "name": "יולי 2026",
+     "channels": [
+      {
+       "name": "סופשבוע  31-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67424537819.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/241cc16d-058a-4274-8a43-6e079894869e/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/241cc16d-058a-4274-8a43-6e079894869e/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "סופשבוע 25-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67256383519.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/59e23717-a506-4180-94e4-0f268beb14ea/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/59e23717-a506-4180-94e4-0f268beb14ea/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "סופשבוע 24-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67200499426.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bf467f0d-56d2-41be-a94a-75510b8bd9e0/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bf467f0d-56d2-41be-a94a-75510b8bd9e0/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "18-07-26 סופשבוע",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67003554618.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d708551b-b920-4311-9f99-886c12bd7be7/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d708551b-b920-4311-9f99-886c12bd7be7/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "סופשבוע 17-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66970704440.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/87dc73f2-02dc-44f8-869a-018599aa5521/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/87dc73f2-02dc-44f8-869a-018599aa5521/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "סופשבוע 11-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66779667950.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0cb7fd24-b342-4eb9-b95d-c86d43bc6276/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0cb7fd24-b342-4eb9-b95d-c86d43bc6276/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "סופשבוע  10-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66746670986.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/524239f0-958f-47bc-ac18-9cbb592963fc/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/524239f0-958f-47bc-ac18-9cbb592963fc/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "סופשבוע 04-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66576357699.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e7d36b83-fd7b-4323-9782-61dd9582e7c8/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e7d36b83-fd7b-4323-9782-61dd9582e7c8/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "סופשבוע 03-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66526815132.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/74b1b7db-0b71-47a8-8a47-eaa436d17a3e/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/74b1b7db-0b71-47a8-8a47-eaa436d17a3e/hls/master.m3u8",
+       "season": "יולי 2026"
+      }
+     ]
+    },
+    {
+     "name": "יוני 2026",
+     "channels": [
+      {
+       "name": "סופשבוע 26-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66357102675.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5edc3eec-3e71-401a-bf1c-e4289141c23c/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5edc3eec-3e71-401a-bf1c-e4289141c23c/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "סופשבוע, 27.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66336628704.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/34a667c6-c90e-4755-97f0-65869740f203/hls/master.m3u8",
+       "date": "2026-06-27",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/34a667c6-c90e-4755-97f0-65869740f203/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "סופשבוע , 26.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66309125105.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2d6a0abe-7e44-49fb-89f4-68ec9f0e1dbe/hls/master.m3u8",
+       "date": "2026-06-26",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2d6a0abe-7e44-49fb-89f4-68ec9f0e1dbe/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "סופשבוע , 26.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66309092112.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f05ed02d-6c9a-4bb0-8f3a-d9a1f0d713ea/hls/master.m3u8",
+       "date": "2026-06-26",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f05ed02d-6c9a-4bb0-8f3a-d9a1f0d713ea/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "סופשבוע עם דניאל רוט אבנרי 20-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66117700092.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6077d2cc-ad65-4a70-8ee0-e51e35ad95d5/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6077d2cc-ad65-4a70-8ee0-e51e35ad95d5/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "סופשבוע, 19.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66084525832.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9373e516-d9f2-4f38-83d0-921a33966ff0/hls/master.m3u8",
+       "date": "2026-06-19",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9373e516-d9f2-4f38-83d0-921a33966ff0/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "סופשבוע עם דניאל רוט אבנרי 13-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_65900252175.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ff942a03-bcba-4b63-ace1-fea42bbd0a2c/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ff942a03-bcba-4b63-ace1-fea42bbd0a2c/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "סופשבוע ,עם דניאל רוט אבנרי 12-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_65871465546.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/3b77d41d-3e1c-419b-b159-89af639bee9f/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/3b77d41d-3e1c-419b-b159-89af639bee9f/hls/master.m3u8",
+       "season": "יוני 2026"
+      }
+     ]
+    },
+    {
+     "name": "מאי 2026",
+     "channels": [
+      {
+       "name": "המהדורה המוקדמת, 09.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/8645b5bd-fbd3-4faa-8d44-54fca4ee0b3b/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8645b5bd-fbd3-4faa-8d44-54fca4ee0b3b/hls/master.m3u8",
+       "date": "2026-05-09",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8645b5bd-fbd3-4faa-8d44-54fca4ee0b3b/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 08.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/0969f0f2-e241-4463-ae77-4d7c76f1298c/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0969f0f2-e241-4463-ae77-4d7c76f1298c/hls/master.m3u8",
+       "date": "2026-05-08",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0969f0f2-e241-4463-ae77-4d7c76f1298c/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 02.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/cfc2455f-0ba8-46e1-9e85-7cc481adf1b4/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cfc2455f-0ba8-46e1-9e85-7cc481adf1b4/hls/master.m3u8",
+       "date": "2026-05-02",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cfc2455f-0ba8-46e1-9e85-7cc481adf1b4/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 01.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/959436d9-9d22-4491-9d4a-d894d55adc6a/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/959436d9-9d22-4491-9d4a-d894d55adc6a/hls/master.m3u8",
+       "date": "2026-05-01",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/959436d9-9d22-4491-9d4a-d894d55adc6a/hls/master.m3u8",
+       "season": "מאי 2026"
+      }
+     ]
+    },
+    {
+     "name": "אפריל 2026",
+     "channels": [
+      {
+       "name": "המהדורה המוקדמת, 25.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4e9aea68-a156-46ee-8084-fbd6cf967f28/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4e9aea68-a156-46ee-8084-fbd6cf967f28/hls/master.m3u8",
+       "date": "2026-04-25",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4e9aea68-a156-46ee-8084-fbd6cf967f28/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת,24.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/894103ad-55fa-4aaa-80a9-d659514b9af8/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/894103ad-55fa-4aaa-80a9-d659514b9af8/hls/master.m3u8",
+       "date": "2026-04-24",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/894103ad-55fa-4aaa-80a9-d659514b9af8/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 18.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/83f8247a-a991-4ed7-bfdc-fa78dc769b0a/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/83f8247a-a991-4ed7-bfdc-fa78dc769b0a/hls/master.m3u8",
+       "date": "2026-04-18",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/83f8247a-a991-4ed7-bfdc-fa78dc769b0a/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 18.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/707089af-d338-41c3-a0de-00df53c7e42e/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/707089af-d338-41c3-a0de-00df53c7e42e/hls/master.m3u8",
+       "date": "2026-04-18",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/707089af-d338-41c3-a0de-00df53c7e42e/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 17.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/a163df78-2318-403a-bbd0-6a337a635e4d/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a163df78-2318-403a-bbd0-6a337a635e4d/hls/master.m3u8",
+       "date": "2026-04-17",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a163df78-2318-403a-bbd0-6a337a635e4d/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 11.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4af3560a-5b73-429a-ae6e-22380705a695/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4af3560a-5b73-429a-ae6e-22380705a695/hls/master.m3u8",
+       "date": "2026-04-11",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4af3560a-5b73-429a-ae6e-22380705a695/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 10.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/c4fba351-3f96-4e30-aa36-55ded5d3df8b/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c4fba351-3f96-4e30-aa36-55ded5d3df8b/hls/master.m3u8",
+       "date": "2026-04-10",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c4fba351-3f96-4e30-aa36-55ded5d3df8b/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 08.04.26 חלק שני",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/29a708f8-26c2-4105-badf-3d4911a2163b/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/29a708f8-26c2-4105-badf-3d4911a2163b/hls/master.m3u8",
+       "date": "2026-04-08",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/29a708f8-26c2-4105-badf-3d4911a2163b/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת,08.04.26 חלק ראשון",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/9c898cc0-8e79-489c-ac7d-3763b73d9739/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9c898cc0-8e79-489c-ac7d-3763b73d9739/hls/master.m3u8",
+       "date": "2026-04-08",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9c898cc0-8e79-489c-ac7d-3763b73d9739/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 04.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/2d75673a-4006-42c2-b1d6-3b9b816ce842/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2d75673a-4006-42c2-b1d6-3b9b816ce842/hls/master.m3u8",
+       "date": "2026-04-04",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2d75673a-4006-42c2-b1d6-3b9b816ce842/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 02.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/fa8bd7ad-30bd-4626-8a80-4f6b3d0e12d1/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fa8bd7ad-30bd-4626-8a80-4f6b3d0e12d1/hls/master.m3u8",
+       "date": "2026-04-02",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fa8bd7ad-30bd-4626-8a80-4f6b3d0e12d1/hls/master.m3u8",
+       "season": "אפריל 2026"
+      }
+     ]
+    },
+    {
+     "name": "מרץ 2026",
+     "channels": [
+      {
+       "name": "המהדורה המוקדמת, 28.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/caf8bda7-4f61-4898-9e8d-668111ee0b90/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/caf8bda7-4f61-4898-9e8d-668111ee0b90/hls/master.m3u8",
+       "date": "2026-03-28",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/caf8bda7-4f61-4898-9e8d-668111ee0b90/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 27.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/622ec616-31b6-4982-a70a-07966175eea3/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/622ec616-31b6-4982-a70a-07966175eea3/hls/master.m3u8",
+       "date": "2026-03-27",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/622ec616-31b6-4982-a70a-07966175eea3/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 25.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/067f7597-5462-42b9-b819-26e5bd972238/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/067f7597-5462-42b9-b819-26e5bd972238/hls/master.m3u8",
+       "date": "2026-03-25",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/067f7597-5462-42b9-b819-26e5bd972238/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 21.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/b6cd9fda-cdc4-486c-9b53-a8c822dd537a/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b6cd9fda-cdc4-486c-9b53-a8c822dd537a/hls/master.m3u8",
+       "date": "2026-03-21",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b6cd9fda-cdc4-486c-9b53-a8c822dd537a/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 20.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/cb4d0252-04de-4fd0-bf00-4e1f6460837a/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cb4d0252-04de-4fd0-bf00-4e1f6460837a/hls/master.m3u8",
+       "date": "2026-03-20",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cb4d0252-04de-4fd0-bf00-4e1f6460837a/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 14.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/8561b0db-265b-41e2-ba0d-78176767d4c1/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8561b0db-265b-41e2-ba0d-78176767d4c1/hls/master.m3u8",
+       "date": "2026-03-14",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8561b0db-265b-41e2-ba0d-78176767d4c1/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 13.3.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/22a341ae-f2a0-4335-b511-d4eb71f6aa22/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/22a341ae-f2a0-4335-b511-d4eb71f6aa22/hls/master.m3u8",
+       "date": "2026-03-13",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/22a341ae-f2a0-4335-b511-d4eb71f6aa22/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 07.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/63cff981-9974-461b-abd6-1052fc41162a/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/63cff981-9974-461b-abd6-1052fc41162a/hls/master.m3u8",
+       "date": "2026-03-07",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/63cff981-9974-461b-abd6-1052fc41162a/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 6.3.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/342460f6-733a-4396-9a2c-10c4cdddc67c/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/342460f6-733a-4396-9a2c-10c4cdddc67c/hls/master.m3u8",
+       "date": "2026-03-06",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/342460f6-733a-4396-9a2c-10c4cdddc67c/hls/master.m3u8",
+       "season": "מרץ 2026"
+      }
+     ]
+    },
+    {
+     "name": "פברואר 2026",
+     "channels": [
+      {
+       "name": "המהדורה המוקדמת, 21.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/c868d7f1-eadb-4b15-84b9-321568600ca5/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c868d7f1-eadb-4b15-84b9-321568600ca5/hls/master.m3u8",
+       "date": "2026-02-21",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c868d7f1-eadb-4b15-84b9-321568600ca5/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 20.2.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/44e170e4-de38-4faf-bba8-7cc0c8f7b7de/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/44e170e4-de38-4faf-bba8-7cc0c8f7b7de/hls/master.m3u8",
+       "date": "2026-02-20",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/44e170e4-de38-4faf-bba8-7cc0c8f7b7de/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 15.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/cf8a5c5e-6a8f-44d3-a772-dabc389fb016/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cf8a5c5e-6a8f-44d3-a772-dabc389fb016/hls/master.m3u8",
+       "date": "2026-02-15",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cf8a5c5e-6a8f-44d3-a772-dabc389fb016/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 13.2.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/d7bb402a-a1ae-46c1-9d60-c1241840562f/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d7bb402a-a1ae-46c1-9d60-c1241840562f/hls/master.m3u8",
+       "date": "2026-02-13",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d7bb402a-a1ae-46c1-9d60-c1241840562f/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 07.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/e0451885-555b-44ed-9c01-33ab1f2b68f1/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e0451885-555b-44ed-9c01-33ab1f2b68f1/hls/master.m3u8",
+       "date": "2026-02-07",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e0451885-555b-44ed-9c01-33ab1f2b68f1/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 6.2.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/541324d6-b21e-4910-90db-f0b739fd2202/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/541324d6-b21e-4910-90db-f0b739fd2202/hls/master.m3u8",
+       "date": "2026-02-06",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/541324d6-b21e-4910-90db-f0b739fd2202/hls/master.m3u8",
+       "season": "פברואר 2026"
+      }
+     ]
+    },
+    {
+     "name": "ינואר 2026",
+     "channels": [
+      {
+       "name": "המהדורה המוקדמת, 31.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/dd2c67c9-034e-410d-a68d-08d36b0eb092/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/dd2c67c9-034e-410d-a68d-08d36b0eb092/hls/master.m3u8",
+       "date": "2026-01-31",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/dd2c67c9-034e-410d-a68d-08d36b0eb092/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 30.1.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/02998a5f-bb82-417c-b3d9-dd01320aa113/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/02998a5f-bb82-417c-b3d9-dd01320aa113/hls/master.m3u8",
+       "date": "2026-01-30",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/02998a5f-bb82-417c-b3d9-dd01320aa113/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 24.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/76c65939-a0cc-4fa4-95e0-4fd46b15639b/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/76c65939-a0cc-4fa4-95e0-4fd46b15639b/hls/master.m3u8",
+       "date": "2026-01-24",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/76c65939-a0cc-4fa4-95e0-4fd46b15639b/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 23.1.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/c624adc5-8348-426f-b4ef-a42ce67b0482/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c624adc5-8348-426f-b4ef-a42ce67b0482/hls/master.m3u8",
+       "date": "2026-01-23",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c624adc5-8348-426f-b4ef-a42ce67b0482/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 17.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/cceea8bf-fc34-47fe-9bbe-c05ed61c73e4/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cceea8bf-fc34-47fe-9bbe-c05ed61c73e4/hls/master.m3u8",
+       "date": "2026-01-17",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cceea8bf-fc34-47fe-9bbe-c05ed61c73e4/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 16.1.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/47aeac8e-8b90-41d9-9bff-556dbf0e79e9/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/47aeac8e-8b90-41d9-9bff-556dbf0e79e9/hls/master.m3u8",
+       "date": "2026-01-16",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/47aeac8e-8b90-41d9-9bff-556dbf0e79e9/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 10.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/a8d1baaa-e685-47de-81eb-dcc28308f5db/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a8d1baaa-e685-47de-81eb-dcc28308f5db/hls/master.m3u8",
+       "date": "2026-01-10",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a8d1baaa-e685-47de-81eb-dcc28308f5db/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת 9.1.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/ec5a709c-a215-464c-8649-3804ca2f9578/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ec5a709c-a215-464c-8649-3804ca2f9578/hls/master.m3u8",
+       "date": "2026-01-09",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ec5a709c-a215-464c-8649-3804ca2f9578/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת, 03.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/8ec036e6-4cb1-4cf9-8e7c-3e4ff7ec480a/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8ec036e6-4cb1-4cf9-8e7c-3e4ff7ec480a/hls/master.m3u8",
+       "date": "2026-01-03",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8ec036e6-4cb1-4cf9-8e7c-3e4ff7ec480a/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "המהדורה המוקדמת , 02.01.25",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/9ea399e7-c093-4183-b77e-bd282e094667/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9ea399e7-c093-4183-b77e-bd282e094667/hls/master.m3u8",
+       "date": "2025-01-02",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9ea399e7-c093-4183-b77e-bd282e094667/hls/master.m3u8",
+       "season": "ינואר 2026"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - נבסו",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "262",
+   "series_id": "262",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5146c7c20fef44eca850dcec36752d0a/version/11/width/800/height/1200/quality/90",
+   "plot": "נבסו היא קומדיה ישראלית על משפחה מעורבת המורכבת מאב אתיופי, אם אשכנזייה, בתם הקטנה ומשפחתם המורחבת על כל הסיטואציות המצחיקות מרירות שכרוכות במצב זה.",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "נבסו, עונה 1, פרק 4: זהירות, שירי ילדות!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6658dd1cb4064a3fb01ecf4a196369da/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yzsp2was/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניצה מחליטה להעביר את מורשת שירי הילדות של תמר למעיין וגורמת למשבר משפחתי ולגילי נמאס שתמר מגוננת עליו בכל סיטואציה ומחליט להיות עצמאי בשטח",
+       "page": "",
+       "id": "--kaltura--1_yzsp2was===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 3: המרוץ לדירה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7fa5fc7aa6a4490d9bac570ece5c5ce0/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2lj6prms/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי ותמר מחליטים לעזוב את הבית ויוצאים לחפש דירה, אלמיטו פותחת בתחרות מול ניצה על תשומת לבה של אורטל ויעקב מכיר מקרוב את בן זוגו של חברו הטוב גיורא",
+       "page": "",
+       "id": "--kaltura--1_2lj6prms===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 2: קניות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b5d4af8b76cb40c3a568a791487f19ee/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_thcidvvx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי ותמר מבקרים בסופר ונתקלים בדעות קדומות, אלמיטו לומדת סלנג של צעירים שיהפוך אותה למגניבה ויעקב מחליט להפתיע את ניצה כשהוא רוכש עבורם חלקה כפולה",
+       "page": "",
+       "id": "--kaltura--1_thcidvvx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "רגע לפני: נבסו – מאחורי הקלעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/38701332381b47248428b972b3d2dd81/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1rn9mit6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לפני שהיא חוזרת אל מסך הטלוויזיה, בואו להציץ לצילומי העונה החדשה של \"נבסו\"",
+       "page": "",
+       "id": "--kaltura--1_1rn9mit6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 13: תחרות סבתות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83d53b6ef7864dfbb2f3ddcf6a3dda15/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_747dlz4q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יעקב רוצה לראות כדורגל עם החברים של גילי, אבל גילי עושה הכול כדי להתחמק מכך. שמלש לומד מאורטל איך לאיים על חברות התקשורת בהתנתקות. אלמיטו וניצה מתחרות מי מחנכת את הנכדה טוב יותר",
+       "page": "",
+       "id": "--kaltura--1_747dlz4q===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 14: פשרות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/044e2eae0c0548058ed5028df4255d02/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mp0jheqa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניצה חושדת שיעקב מתכנן למצוא כלה אוקראינית באינטרנט, גילי חושד שתמר מרגישה שהתפשרה עליו כשהם הכירו ואלמיטו מחליטה להשגיח על קבוצת הווטסאפ של אלירן מקרוב",
+       "page": "",
+       "id": "--kaltura--1_mp0jheqa===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 8: השחייה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/badd40990e344b1dbe260971f52dcfef/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4d6du02a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי מחליט ללמוד שחייה עם מעיין, ניצה סובלת מהנחירות של יעקב ומחליטה לקבוע לו ניתוח במחיצת האף ואלמיטו יוצאת עם מורה למוסיקה בגלל שניצה לא מאמינה שהוא נדלק עליה",
+       "page": "",
+       "id": "--kaltura--1_4d6du02a===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 11: יום הולדת לגילי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90fc3195138b4e95b1c8d44bc5a1ab9d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tl9243mi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניצה ויעקב מזועזעים שלגילי אף פעם לא עשו יום הולדת ומעודדים את תמר לעשות לו מסיבת הפתעה. אלמיטו מחליטה לעברת את שמה ל\"אגם\" כדי להקל על הקולגות בעבודה, וניצה ויעקב עושים תחרות מי מצחיק יותר את הנכדה",
+       "page": "",
+       "id": "--kaltura--1_tl9243mi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 9: שוביניזם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b792c170261d4d21bd121a4180542b97/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3222b21l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי מרגיש שאלמיטו מרחמת עליו שהוא עושה עבודות בית, ליעקב נמאס שניצה מפילה עליו כל הזמן משימות והוא מחליט להסתגר בחדר ולכתוב רומן",
+       "page": "",
+       "id": "--kaltura--1_3222b21l===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 10: המנקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17e5b1e139d8459b8b2dd1de51385401/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n4jdpgmh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תמר מוצאת עוזר בית אתיופי אבל גילי לא מוכן שאתיופי אחר ינקה אחריו. גלעד (אלישע בנאי), אחיה של תמר, מגיע לביקור מולדת מברלין ולניצה יש הרגשה שהוא רוצה לחזור לתמיד",
+       "page": "",
+       "id": "--kaltura--1_n4jdpgmh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 12: ההתאבדות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee8c2b326f8846fab83533082e3f53ca/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m9tmnb5p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי שותה בטעות מסיר אבנית בבית ובבית חולים משוכנעים שהוא ניסה להתאבד. ניצה רושמת אותה ואת יעקב לקורס כתיבת שירה אצל רוני סומק",
+       "page": "",
+       "id": "--kaltura--1_m9tmnb5p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 6: המבטא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4cfd1d2b553d420db8a599f1828f930d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xooxknmw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניצה מודאגת שהנכדה מעיין מפתחת מבטא אתיופי, ליעקב מתחשק ללמוד אמהרית וגילי ותמר מכינים בריסטול לגן ליום המשפחה ומגלים שלגילי אין תמונות ילדות",
+       "page": "",
+       "id": "--kaltura--1_xooxknmw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 7: מכונית של עשירים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a927b76bbc664a0bbd2abe8e6ae095aa/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eyf9nd2c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי נתקל בשכן ומתבייש באוטו הישן שלו. הוא מחליט לצאת לקנות רכב מפואר שיוציא לשכן את העיניים. בינתיים, ניצה עושה הכול כדי להסתיר מגילי את העובדה שאסור לו לתרום דם",
+       "page": "",
+       "id": "--kaltura--1_eyf9nd2c===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 5: הפסל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e8fbf47177747f6bfc1cd4f9708de18/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dqs8npld/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאורטל יש חבר וניצה חושבת שזה זמן טוב לדבר על מיניות, יעקב רוצה לעשות קורס צניחה ליום הולדת 70 ותמר מציגה פסל בתערוכה וקוראת לו \"גילי\"",
+       "page": "",
+       "id": "--kaltura--1_dqs8npld===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "נבסו, עונה 1, פרק 1: שיימינג ברשת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d7e3b57b116c4093b5ee7a09f7d2a934/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_liuxizun/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק הבכורה של נבסו | שוטר עוצר את גילי בפתח ביתו למרות שהוא חף מפשע. תמר לא נשארת חייבת ומחליטה לפעול בדרך הפופולרית ביותר בימינו: שיימינג ברשת",
+       "page": "",
+       "id": "--kaltura--1_liuxizun===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "נבסו, עונה 2, פרק 14: אלמיטו לא מניחה לתמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93876ccfebd74fc8b153eaad942c8617/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qz5gx5ew/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלמיטו חושדת שתמר בהיריון ולא מפסיקה להציק לה ולגילי, כולם מנסים לעזור לשמלש לפתור את בעיית האגרנות שלו - ולמי יש אכילה רגשית?  | נבסו, פרק אחרון לעונה, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_qz5gx5ew===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 13: כשהילדה רוצה לפתוח עסק, אבא מרוויח?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f9f8735e95134947a2521f72ada362b2/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qf1a88d4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הילדה של גילי רוצה להקים עסק עצמאי בפארק ולמה נעלבה אלמיטו כשהבת הגיעה עם ארוחות המבורגרים מהעבודה וכל המשפחה רצתה לטעום. נבסו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_qf1a88d4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 12: אני והחבר'ה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/362294f2088249b8bb46129615c57e5c/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_utd36s1q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תמר מגלה שגילי לא מזמין אליהם חברים ואומר שזה בגללה, שהיא נורא עסוקה. גילי טוען שהוא רוצה לחסוך לה את הטרחה אבל תמר מתעקשת להזמין את החבר'ה של גילי שנתקעים אצלם ימים ארוכים. נבסו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_utd36s1q===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 11: גילי מסתבך עם החיה הלא נכונה ומשלם על זה ביוקר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2237759002b4dfcb5ae22bafc3719d1/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_72sh8k3n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי מתקשה לקבל את העלויות הגבוהות של הטיפול הרפואי בשרקן שלו וניצה חושדת שגילי לא אומר את האמת ביחס למצב שבו הוא נמצא | נבסו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_72sh8k3n===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 10: מי יקבור את מי?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/89425efcb3c046e1b20e65ce668f93d9/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0oa6wrv3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניצה ויעקב מבקרים את ראובן שנזקק לסיעוד וניצה מקנאה בעזרה שמקבל יעקב מהפיליפינית שגרה איתם. נבסו לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_0oa6wrv3===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 9: העירום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9cfff590fcc24c94b5ba711292698efd/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jrgykycg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניצה ותמר נרשמות לסדנת ציור וניצה נזכרת בחלום ישן שהיה לה לדגמן בעירום. לגילי מנדנדים מהמילואים והוא מגלה שאם הוא יחזור לשם האתיופי שלו הוא יצליח להעלם לרשויות. לשמלש יש חלום טורדני שהוא נוסע ולא מוצא חניה ואלמיטו משכנעת אותו שהפתרון לחלום זה שהוא צריך להתחתן עם זאודיטו | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_jrgykycg===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 4: השרימפס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39107a6c161e4193864629259cd44d6a/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d83rlioe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי מגלה שתמר נותת למעין לאכול שרימפס מאחורי גבו ומחליט להכניס קצת מסורת למשפחה ולגייר את תמר, בלי שהיא תשים לב. ניצה מנהלת קרבות בפייסבוק נגד \"הצל\" וכל המשפחה מפוחדת. אלמיטו מסתבכת בנדר וצריכה לעלות על חמור לבן לירושלים",
+       "page": "",
+       "id": "--kaltura--1_d83rlioe===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 8: ספיישל אתיופיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ccb1427c1924fd59ddbe72a8031a26d/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e0335sut/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי מגלה שניצה התכוונה להוציא דרכון פולני לתמר ומעיין ומציע במקום, שהמשפחה תוציא דרכונים אתיופים. כדי לבדוק את האופציה גילי ותמר טסים לטיול בלתי נשכח באתיופיה",
+       "page": "",
+       "id": "--kaltura--1_e0335sut===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 6: השיער",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73e45cc937ad4b6a9f85a93c90ed553f/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_qsjfze1j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תמר מתחילה ללמד בבית ספר ועכשיו גילי צריך לסדר למעין את האפרו כל בוקר וזה ממש לא פשוט. יעקב מנסה למכור רכב ישן במחיר השוק וכמגיעים קונים ערבים ולוקחים את הרכב לסיבוב הוא חושב שמנסים לחטוף אותו. אלמיטו מחליטה שהגיע הזמן למצוא לשמלש אישה שתבשל ותכבס לו במקומה, שמלש לא מעוניין אבל שהוא מכיר את זאודיטו, שעובדת עם אלמיטו בניקיון, הוא מתאהב ממבט ראשון | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_qsjfze1j===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 3: הדיאטה של ניצה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/11b5875bf9654ee492cfc5c3da098685/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_f7fig5k6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניצה פוגשת חברה מהעבר שירדה מעל ל-40 קילו, ומחליטה לרדת גם כן במשקל. גילי, שמלש ואלמיטו מכירים לניצה את דיאטת הגת. אליה היא מתמכרת | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_f7fig5k6===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 1: המירוץ למיליון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91d5e1e39aa14540a5d707418ddccd4b/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_5sd7ak71/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניצה מחליטה שהיא חייבת לצאת למרוץ למיליון, כשיעקב מסרב להצטרף היא משדלת את אלמיטו להצטרף אליה, כי אתיופים תמיד זוכים בריאליטי. במקביל, במשרד של גילי עושים קמפיין עם הזמר סטפן וגילי מתבאס שהופכים אותו לנושא כליו עד שהוא מגלה שהבת שלו מעריצה את סטפן ויום ההולדת שלה מתקרב | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_5sd7ak71===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 2: ההפגנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2dc80015c7954f17a22bc98e769d30d6/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_nglbeo8h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הבוס של גילי במשרד פרסום דורש ממנו להיות יותר פעיל ברשת וגילי מחליט ללכת להפגנה של אתיופים עם תמר כדי להעלות משם תמונות ולהוסיף עוקבים באינסטגרם. והופך למנהיג הקהילה. שמלש מנצל את קרבתו לגילי ומבקש מתנות סלב בכל חנות שיש בה מוכר אתיופי",
+       "page": "",
+       "id": "--kaltura--0_nglbeo8h===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2, פרק 5: מאותגר שכר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4043f1bb55a1417aab51e3e90bdbc350/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_0gawxtr5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גילי מגלה שכל המשרד מרוויח יותר ממנו וחושב שזה בגלל גזענות. ניצה מתחילה לקרוא רומנים אירוטיים וגוררת את יעקב לסדנת טנטרה. אבל כשמתגלית הפנטזיה הכמוסה של יעקב זה לא ממש מוצא חן בעיניה. אלמיטו סובלת מחיפושים משטרתיים שרירותיים בדירתה, בהתחלה זה מרגיז אבל השוטרים מתחילים למצוא לה בבית דברים שהיא חיפשה. המשפחה האתיופית מחליטה לנצל את המצב לטובתה ומתחילה להזמין את המשטרה רק בשביל לחפש חפצים שאבדו | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_0gawxtr5===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "נבסו, עונה 2: פרק 7, הכלב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2e1979ba0be4e95b583587830ad0009/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pk0gdoa3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "פורצים לבית של ניצה ויעקב וניצה מפתחת פחדים. יעקב מביא כלב שמירה לחצר כדי להרגיע אותה ומסתבר שלגילי יש פחד מכלבים. גילי הולך לסדנה לטיפול בפחד מכלבים אבל למרות כל המאמצים לא מצליח להתיידד עם הכלב שמירה ומתחיל לחשוב שמדובר בכלב גזען. במקביל,  אל שמלש מגיע חבר שהציל את חייו במדבר סודן בדרך לישראל ומתנחל אצלו בבית כי לאשתו נמאס שהוא מנגן כל היום. עכשיו הוא מנגן אצל שמלש כל היום וכל הלילה עם הלהקה האתיופית שלו ולא נותן לשמלש ולזאודיטו פרטיות | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_pk0gdoa3===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

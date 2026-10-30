@@ -1,0 +1,101 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - בלקספייס",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "87",
+   "series_id": "87",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5aed1ca7bd4b4d3f9aa83de903331dbc/version/8/width/800/height/1200/quality/90",
+   "plot": "עונה חדשה לדרמת המתח שכבשה את נטפליקס. העלילה עוסקת במסיבת סיום פרועה של שכבת י\"ב המובילה לתוצאות הרסניות ולחקירה שמטלטלת את חיי כל המעורבים",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "בלקספייס, עונה 1, פרק 8: פרק סיום עוצר נשימה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/116c903e10284ac1be5af519d6491a07/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_51lze3j0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דוידי נחוש למנוע את הרצח הבא, אבל בדיוק כשמתגלה המסיבה הלבנה הוא נאלץ לעזוב. ברגע הגורלי בחייו יחזור לתיכון למרדף אחרון אחרי הרוצחים",
+       "page": "",
+       "id": "--kaltura--1_51lze3j0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלקספייס, עונה 1, פרק 5: המתיחות בתיכון גוברת ודוידי מאבד שליטה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbf651665dfa41cb85d909d5be442b8b/version/44/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t2qk033v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השרפה מסעירה את התלמידים והמתיחות בתיכון גוברת. דוידי ומורג מצליחים לשתף פעולה ולהגיע למידע חדש ומשמעותי. על רקע הגילוי הדרמטי מצבו הפיזי והנפשי של דוידי מחמיר, והוא מאבד שליטה",
+       "page": "",
+       "id": "--kaltura--1_t2qk033v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלקספייס, עונה 1, פרק 4: המעצרים מתחילים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d607f84f30eb465f9369ef4ae5ec686b/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4lxbuuky/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסרטון מוביל את דוידי למעצרים ראשונים בפרשה, אך החקירות חושפות תמונה מורכבת ומבלבלת. תלמידי התיכון מגיבים בקיצוניות לידיעה על המעצרים, והעימותים ביניהם מגיעים לשיא חדש",
+       "page": "",
+       "id": "--kaltura--1_4lxbuuky===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלקספייס, עונה 1, פרק 3: הבלקספייס נחשף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22db746b271c4fa5ac85a3144a757564/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8jryxbta/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כיוון החקירה של דוידי מוביל אותו לגילויים מפתיעים על תלמידי התיכון. בדיוק כשהוא חושב שהוא מתקדם – איום חדש מגיע מכיוון בלתי צפוי",
+       "page": "",
+       "id": "--kaltura--1_8jryxbta===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלקספייס, עונה 1, פרק 2: החקירה מתחילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bdbe9b52f8c84677b72227b60395a18b/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_94tboixa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "התעלומה הגדולה בישראל התחילה. החקירה נפתחת וכל התלמידים חשודים. דוידי נוקט בצעד קיצוני ושנוי במחלוקת, שמזעזע את העיר כולה",
+       "page": "",
+       "id": "--kaltura--1_94tboixa===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלקספייס, עונה 1, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/589b1d6ce4f24e8fa734eb271156ba95/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5zekadhs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אירוע ירי מחריד מטלטל את תיכון מורשת, אך היורים מצליחים להיעלם. רמי דוידי (גורי אלפי), חוקר במחלקה לחקירות מיוחדות חוזר אל תיכון נעוריו כדי לפצח את התעלומה",
+       "page": "",
+       "id": "--kaltura--1_5zekadhs===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלקספייס, עונה 1, פרק 6: אסון נוסף נופל על התיכון ומשנה את התמונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f9d01452f1c4bbd8117fdb455a571cb/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pkbmbv9x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "דוידי משלם מחיר על מעשיו, ומחליט לסייע לאיתמר, למורת רוחה של מירי. שיחת בלקספייס מפתיעה מובילה לחשיפת מקרה מהעבר, אבל לפני שהחקירה מתקדמת – אסון נוסף נופל על התיכון ומשנה את התמונה",
+       "page": "",
+       "id": "--kaltura--1_pkbmbv9x===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "בלקספייס, עונה 1, פרק 7: המעשה ששפך אור על הפרשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5412c6819615447daf82cc2aa0712d0e/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ywfvp6gb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מורג משיגה מידע חדש ומפתיע על תום תדמור, ודוידי מתעמת עם חנוך על העבר. עומר מוצא את עצמו בדילמה בלתי אפשרית, ומחליט לעשות מעשה קיצוני ששופך אור על הפרשה כולה",
+       "page": "",
+       "id": "--kaltura--1_ywfvp6gb===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

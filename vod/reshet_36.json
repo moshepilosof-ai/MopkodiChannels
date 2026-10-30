@@ -1,0 +1,1041 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אבודים",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "36",
+   "series_id": "36",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/667ee07213664be28ed8dfdf7f8ec9f1/version/12/width/800/height/1200/quality/90",
+   "plot": "צופית גרנט מביאה סיפורים מטלטלים ויוצאי דופן ומתמודדת עם מנגנונים תרבותיים שונים על מנת להתחקות אחר האבודים. הפרקים המלאים לצפייה ישירה",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "אבודים, עונה 2, פרק 1: מחפשת תשובה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e4e2651cd4e48139fa0770f0a4e22ba/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dhlr6yok/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תהילה, שננטשה ע\"י אביה, יוצאת למסע חיפושים מרתק עם צופית גרנט אחר אביה",
+       "page": "",
+       "id": "--kaltura--1_dhlr6yok===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אבודים, עונה 2, פרק 3: הגילוי הדרמטי של מרינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f961e1401274c428763a150c7b24dcd/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b4xizxmi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "25 שנה היא חיכתה ליום בו תמצא את אימא שלה, אך דווקא ביום הגדול הכל מסתבך",
+       "page": "",
+       "id": "--kaltura--1_b4xizxmi===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אבודים, עונה 2, פרק 2: תעלומה בגרמניה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be335c72752f48f597da4dbf348fd0bb/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ohw6el61/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית גרנט יוצאת למסע חוצה יבשות בעקבות תעלומה בת 22 שנה",
+       "page": "",
+       "id": "--kaltura--1_ohw6el61===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "אבודים, עונה 3, פרק 2: המפגש עם אבא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7cd6d57902c04b17bb548f50eb214a5f/version/57/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9fielwwk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי 20 שנה צופית מפגישה אב ובתו בפרק מרגש במיוחד",
+       "page": "",
+       "id": "--kaltura--1_9fielwwk===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אבודים, עונה 3, פרק 1: ליסה מחפשת את אמא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8ac26b7d8c84bf1b45a25c12d34ee21/version/57/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oi366uwp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית הופכת עולמות כדי להפגיש צעירה עם אמה, אותה לא ראתה יותר מ-20 שנה",
+       "page": "",
+       "id": "--kaltura--1_oi366uwp===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אבודים, עונה 3, פרק 3: בני נחטף מידי אמו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6df12d3af2ce4cd1ad07bc7305d6b351/version/58/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y8d4age0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "20 שנה אחרי שבני נחטף מידי אמו, האיחוד קרוב מתמיד",
+       "page": "",
+       "id": "--kaltura--1_y8d4age0===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "אבודים, עונה 3, פרק 4: שירין חוזרת לאמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/583468caeca848de8c14c73c602045e3/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4qn7y9rr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאחר 14 שנים, שירין שנחטפה מתאחדת שוב עם אמה",
+       "page": "",
+       "id": "--kaltura--1_4qn7y9rr===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "אבודים, עונה 4, פרק 4: חוזרת לאמא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c09cf7eca8954ded97ef6c981e90074e/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_25wxcfea/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ממשיכים עם סיפורה של שירין שנחטפה מאמה לפני 14 שנה",
+       "page": "",
+       "id": "--kaltura--1_25wxcfea===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אבודים, עונה 4, פרק 3: האב הנעלם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14b5193a67664cecb1ca1fcc0c4f8fff/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_imd0g4pr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה גורם לאבא לשלוש בנות להיעלם ביום בהיר? ואיזה סוד גילתה להן אבודים?",
+       "page": "",
+       "id": "--kaltura--1_imd0g4pr===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אבודים, עונה 4, פרק 2: המסע לעזה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/789a00ee35a34be9bff9eba41874530d/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8y8fscw0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בין המעברים למחסומים, זוג פלסטינים מעזה מחפשים את בנם האבוד מזה 30 שנה",
+       "page": "",
+       "id": "--kaltura--1_8y8fscw0===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "אבודים, עונה 4, פרק 1: חוזרת לגיהנום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30e3636c8e8c44c79b8fd824bb985fdd/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lryep32y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "טניה, שאיבדה את זכויותיה כאדם בגיהנום הסחר בנשים, תרה אחר אמה הנוטשת בפרק מצמרר",
+       "page": "",
+       "id": "--kaltura--1_lryep32y===",
+       "season": "עונה 4"
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "אבודים, עונה 5, פרק 2: מסתבכים במרוקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/19121f1c42954bb9bf9f09e859a52da4/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5erok99b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית ממשיכה את המסע במרוקו בעקבות רמזים על הימצאותה של אחות נוספת",
+       "page": "",
+       "id": "--kaltura--1_5erok99b===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "אבודים, עונה 5, פרק 1: שומרת אחותי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d953c2dc8a80461d84655d173526d694/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pc3i4iff/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "62 שנה מאז ראו את אחותם, שלושה אחים יוצאים למרוקו למציאת אחותם האבודה",
+       "page": "",
+       "id": "--kaltura--1_pc3i4iff===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "אבודים, עונה 5, פרק 3: זהות אבודה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/10c8c8ae40064894b70ad206094510d3/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o24ycxv7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מילדות גלית חושדת שהיא מאומצת וכעת יוצאת למסע מטלטל בעקבות זהותה האמיתית",
+       "page": "",
+       "id": "--kaltura--1_o24ycxv7===",
+       "season": "עונה 5"
+      }
+     ]
+    },
+    {
+     "name": "עונה 6",
+     "channels": [
+      {
+       "name": "אבודים, עונה 6, פרק 5: בעקבות האח האבוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b8bdb1d5df846cfbc1cbe464035df19/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c66vrzvm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "60 שנה אחרי, שלושה אחים מחפשים אחר אחיהם וחושפים סודות מתקופת השואה",
+       "page": "",
+       "id": "--kaltura--1_c66vrzvm===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "אבודים, עונה 6, פרק 1: בעקבות האם לפרו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b68935d50a654db8820a73aa00bc9e96/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_208yci0z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלושה אחים מחפשים אחר אימם שברחה לפרו לפני 30 שנה, האם יגלו מה עלה בגורלה?",
+       "page": "",
+       "id": "--kaltura--1_208yci0z===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "אבודים, עונה 6, פרק 4: איפה אבא שלי?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/792c7538b4a44b59b2a3329923501ff2/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sn9ev08y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית תעשה הכל כדי לעזור לחני לחבק סוף סוף את אביה",
+       "page": "",
+       "id": "--kaltura--1_sn9ev08y===",
+       "season": "עונה 6"
+      },
+      {
+       "name": "אבודים, עונה 6, פרק 2: התעלומה עולה מדרגה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/125166e73c8a470ab653e00ce99785c4/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rvn2eclc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "30 שנה הם חיכו לפגוש את אימם. האם ההימור של צופית ישנה את חייהם?",
+       "page": "",
+       "id": "--kaltura--1_rvn2eclc===",
+       "season": "עונה 6"
+      }
+     ]
+    },
+    {
+     "name": "עונה 7",
+     "channels": [
+      {
+       "name": "אבודים, עונה 7, פרק 4: מאחורי הקלעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f9d39f4def449a2b3d4325d3ae1491d/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3f73ci7d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריקי מגלה סוד משפחתי גדול וצופית נפגשת שוב עם דמויות מהעבר",
+       "page": "",
+       "id": "--kaltura--1_3f73ci7d===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "אבודים, עונה 7, פרק 3: הגילוי המפתיע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c308f5f1c79487dab7af2d789d35dbe/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_46jpmmpb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בחיפוש אחר אבא אבוד יאנה מגלה הפתעה מצמררת שתשנה את חייה",
+       "page": "",
+       "id": "--kaltura--1_46jpmmpb===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "אבודים, עונה 7, פרק 1: חילוץ באפריקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50b7b7a8741543fc98b7f7e6081d1ddf/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tn91r9ba/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "במקום הכי מסוכן בעולם, נמצאת ישראלית שזקוקה להצלה וצופית יוצאת להצילה",
+       "page": "",
+       "id": "--kaltura--1_tn91r9ba===",
+       "season": "עונה 7"
+      },
+      {
+       "name": "אבודים, עונה 7, פרק 2: הילדה האמיצה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3335590d74ba49bcb475b3cde568c5fe/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xw9gt27d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשמוצאים את אבא אחרי הרבה שנים והוא לא רוצה להיפגש?",
+       "page": "",
+       "id": "--kaltura--1_xw9gt27d===",
+       "season": "עונה 7"
+      }
+     ]
+    },
+    {
+     "name": "עונה 8",
+     "channels": [
+      {
+       "name": "אבודים, עונה 8, פרק 7: סודות ושקרים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c06a838c3e1492ea95570f802375351/version/60/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tuiu0duh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית יוצאת לנפאל בעקבות חיים סודיים של אב. פרק סיום עונה בלתי נשכח",
+       "page": "",
+       "id": "--kaltura--1_tuiu0duh===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אבודים, עונה 8, פרק 2: הסודות של אבא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/69302745642b4c52941bc4919d147a55/version/60/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tesupnfh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תעלומה מרעידה: אם ושלוש בנותיה יוצאות עם צופית גרנט למסע בעקבות האב שנעלם לפני 32 שנה. אבודים לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_tesupnfh===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אבודים, עונה 8, פרק 4: המסע של ישראל אורזך - חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47e2f2e678754c48bcb9bff7c2718902/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e7tjvmkn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם יזכה ישראל להגיד תודה לאיש שהציל את חייו בזמן השואה? חלק א",
+       "page": "",
+       "id": "--kaltura--1_e7tjvmkn===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אבודים, עונה 8, פרק 5: המסע של ישראל אורזך - חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4fb022867dc34e9f81d3b61c465b7f2b/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_307byw6l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי האכזבה של ישראל נחשף איש אחר שהציל את חייו - קאפו ראשי שנעלם",
+       "page": "",
+       "id": "--kaltura--1_307byw6l===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אבודים, עונה 8, פרק 6: מגרוזיה באהבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9bee174154c94ecaa6c44e380d670e61/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7arsxd93/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יש אנשים שנעלמו ומסוכן למצוא אותם. אבודים נכנסת למקום האפל בגרוזיה כדי למצוא את האבא שנעלם לפני שנים. הבת וצופית הולכות הכי רחוק כדי למצוא אותו ומה שהן מגלות זה שמחיר החיפוש הזה כבד מאוד. \"אבודים\" נכנסת למקום האפל בגרוזיה כדי למצוא את האבא שנעלם לפני שנים",
+       "page": "",
+       "id": "--kaltura--1_7arsxd93===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אבודים, עונה 8, פרק 3: הדרמה מגיעה לשיאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbfac00ad73b478aaa48c6b92b2fe092/version/59/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tldin3ef/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הדרמה מגיעה לשיאה. אחרי 32 שנה שהן אבודות ואחרי שנתיים וחצי של חיפושים בקצה העולם, האמת על אביהן נחשפת, והיא כואבת, מטלטלת ומשאירה את כולם חסרי נשימה. איפה היה אבא כל השנים? מה יהיה על אימא ושלושת הבנות? לסוף כזה אף אחד לא ציפה.",
+       "page": "",
+       "id": "--kaltura--1_tldin3ef===",
+       "season": "עונה 8"
+      },
+      {
+       "name": "אבודים, עונה 8, פרק 1: חוזרים לנפאל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c4817524d93d49c590324cff293ae02a/version/64/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gercf2ue/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "4 שנים אחרי הנסיעה של צופית לנפאל, היא חוזרת לסיפור על מנת להבין מה עבר על ורוניקה מאז המסע בעקבות אביה | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_gercf2ue===",
+       "season": "עונה 8"
+      }
+     ]
+    },
+    {
+     "name": "עונה 9",
+     "channels": [
+      {
+       "name": "אבודים, עונה 9, פרק 4: המסע של חיים אלפסי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa544c2a3d464d8da5daaa36b172b2c0/version/60/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o67qn13v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חיים אלפסי במסע אחר אביו, אותו מעולם לא פגש. אבודים פרק 4 התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_o67qn13v===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "אבודים, עונה 9, פרק 1: התעלומה המסתורית בברזיל - חלק א",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ced58c951b74430b88498932e4de82c6/version/60/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_36l0m9b9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית גרנט יוצאת לברזיל במצוד אחרי כנופיית סוחרי ילדים - אבודים פרק 1 | התעלומה המסתורית בברזיל - חלק א לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_36l0m9b9===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "אבודים, עונה 9, פרק 3: המסע של יסמין סידו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef25eeb16c4c41a5bd26bc1253d3bd1a/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ffbycsi6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יסמין סידו במסע אחר אביה, אותו מעולם לא פגשה. אבודים פרק 3 התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ffbycsi6===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "אבודים, עונה 9, פרק 5: ארבע שנים אחרי המסע של יסמין סידו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe0a6afd0e8743f6a3303803466aa2e4/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_sypxvgfj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ארבע שנים אחרי, צופית גרנט פוגשת את יסמין סידו ואחיה כדי לשמוע איך השתנו חייהם ואילו התפתחויות קרו בעקבות התוכנית",
+       "page": "",
+       "id": "--kaltura--0_sypxvgfj===",
+       "season": "עונה 9"
+      },
+      {
+       "name": "אבודים, עונה 9, פרק 2: התעלומה המסתורית בברזיל - חלק ב ואחרון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a4521d6788b047158faffec524ebefa2/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qkknnzmg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "צופית גרנט יוצאת לברזיל במצוד אחרי כנופיית סוחרי ילדים. התעלומה המסתורית בברזיל - חלק ב ואחרון לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_qkknnzmg===",
+       "season": "עונה 9"
+      }
+     ]
+    },
+    {
+     "name": "עונה 10",
+     "channels": [
+      {
+       "name": "אבודים, עונה 10, פרק 2: אבודים במרוקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cfca0650bf014e13bac5c160534cb1b7/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n5re0r1y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המסע בעקבות ילדיה החטופים של מרי - אבודים במרוקו חלק שני לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_n5re0r1y===",
+       "season": "עונה 10"
+      },
+      {
+       "name": "אבודים, עונה 10, פרק 3: אבודים במרוקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39b8de33e2a24bf28f85f22d0a4e3dbf/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_keafcweh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המסע בעקבות ילדיה החטופים של מרי - אבודים במרוקו חלק שלישי ואחרון לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_keafcweh===",
+       "season": "עונה 10"
+      },
+      {
+       "name": "אבודים, עונה 10, פרק 5: אבודים בלבנון - המסע מתחיל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c4b52893831944099eb679da498f03f8/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_57wma8ty/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סיפורה של זינאב, לבנונית בת 43 שברחה מביתה, ומאז רק מנסה לחדש את הקשר. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_57wma8ty===",
+       "season": "עונה 10"
+      },
+      {
+       "name": "אבודים, עונה 10, פרק 1: אבודים במרוקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50bb1361ab2c49b5a0e962c26f45b473/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g52j5q6e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אישה מבוגרת, כמעט בת 80, בשם מארי פרץ, שבמשך 50 שנה היא המשיכה להתפלל ולהאמין כי ארבעת ילדיה, אשר נחטפו ונלקחו ממנה, עוד ישובו לחיק זרועותיה. חלק א",
+       "page": "",
+       "id": "--kaltura--1_g52j5q6e===",
+       "season": "עונה 10"
+      },
+      {
+       "name": "אבודים, עונה 10, פרק 3: אבודים במרוקו - שני החלקים לצפייה ישירה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8142f2d47624a0ca60b53853f68a16b/version/64/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u3gs1xzz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הסיפור שריגש מדינה שלמה לצפייה ישירה - חלק א' וב' לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_u3gs1xzz===",
+       "season": "עונה 10"
+      },
+      {
+       "name": "אבודים, עונה 10, פרק 6: אבודים בלבנון - החלק השני והאחרון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1aafc602a3d74d07812d3eee606e4f9a/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vgpgoclj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "לאחר שהצוות הטורקי מסתבך בלבנון, על זינאב מוטלת משימה אותה היא חייבת לצלוח, כדי להגיע למפגש המיוחל עם משפחתה. אבודים בלבנון החלק השני והאחרון",
+       "page": "",
+       "id": "--kaltura--1_vgpgoclj===",
+       "season": "עונה 10"
+      }
+     ]
+    },
+    {
+     "name": "עונה 11",
+     "channels": [
+      {
+       "name": "אבודים, עונה 11, פרק 7: המסע של תומר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32601c44e22d436289c75767f2616c93/version/60/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xcsxat6u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק השני של אבודים ישראל ולאחר שנועה מצאה את אביה הביולוגי, מחפש צוות התוכנית רמזים לאביו של תומר אחיה. האם מדובר ביעקב סלע, לוכש הנחשים שנרצח? אבודים עם צופית גרנט לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_xcsxat6u===",
+       "season": "עונה 11"
+      },
+      {
+       "name": "אבודים, עונה 11, פרק 1: ליבי מחפשת את הוריה האבודים ברוסיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/638da1c1c8a3488e89e78672e65eaf18/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_i00uwmu3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "12 שנים אחרי שאומצה על ידי גילה, חוזרת לליבי לרוסיה, ארץ מולדתה כדי לסגר מעגל ולקבל תשובות מאביה ואמה שנטשו אותה ואת אחותה | הפרק מלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_i00uwmu3===",
+       "season": "עונה 11"
+      },
+      {
+       "name": "אבודים, עונה 11, פרק 3: סיגי במסע בעקבות אביה ובעלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3df86bb307a44beda8d1e922face1f45/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_fjw5wvpa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סיגי יוצאת למסע מרגש בו היא לגלות מה עלה בגורלו של אביה שלא הכירה ובמקביל היא מחפשת את בעלה קלאודיו שנעלם אחרי שמירר למשפחתו את החיים | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_fjw5wvpa===",
+       "season": "עונה 11"
+      },
+      {
+       "name": "אבודים, עונה 11, פרק 4: סיגי מחפשת את בעלה ואביה בארגנטינה חלק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfc9d1ff546247b29c67a0f1d6df3b06/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_dqmx6ul1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סיגי יוצאת למסע מרגש בו היא לגלות מה עלה בגורלו של אביה שלא הכירה ובמקביל היא מחפשת את בעלה קלאודיו שנעלם אחרי שמירר למשפחתו את החיים | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_dqmx6ul1===",
+       "season": "עונה 11"
+      },
+      {
+       "name": "אבודים, עונה 11, פרק 6: נועה מחפשת את אביה שמעולם לא הכירה בישראל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c88a11bebcaa496baac33b359d3bd253/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_cqifbrtz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "24 שנים לאחר שנלקחה מדי אמה גלית, יוצאת נועה עם אחיה תומר למסע שבו השניים מחפשים את אבותיהם שמעולם לא הכירו. הפרק לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_cqifbrtz===",
+       "season": "עונה 11"
+      },
+      {
+       "name": "אבודים, עונה 11, פרק 5: סיגי סוגרת מעגל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/981a47f2414f4137934a97c2fed2336c/version/64/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_xp69l3ak/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "סוף המסע של סיגי בארגנטינה מעמת אותה ואת ילדיה עם הבעל לשעבר קלאודיו שברח לפני 16 שנים, בזמן שהיא מגלה פרטים חדשים על אביה שלא הכירה מעולם. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_xp69l3ak===",
+       "season": "עונה 11"
+      },
+      {
+       "name": "אבודים, עונה 11, פרק 2: כנגד כל הסיכויים, האם ליבי תמצא את אמא?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7dd4f9f295384c02bc9a71faf122033a/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_2l291h37/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "בפרק השני של המסע ברוסיה ולאחר שהאב שנעלם לפני שנים נמצא ופגש את בתו, צופית גרנט מחפשת קצה חוט שיעזור לה למצוא את אמא של ליבי. האם היא תצליח לאחד בין השתיים? \"אבודים\", הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_2l291h37===",
+       "season": "עונה 11"
+      }
+     ]
+    },
+    {
+     "name": "עונה 12",
+     "channels": [
+      {
+       "name": "אבודים, עונה 12, פרק 2: לאן נעלמה פלר - חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d087ec0d91c34c8daeae76082e641894/version/64/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_t8bh001j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החיפוש אחר פלר הולך ומסתבך, כאשר מתגלה שאמה בעלת אלף הפרצופים עברה ללוס אנג'לס ושינתה את שמותיהן. האם הם מתקרבים למקום המצאה של פלר? | \"אבודים\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_t8bh001j===",
+       "season": "עונה 12"
+      },
+      {
+       "name": "אבודים, עונה 12, פרק 1: לאן נעלמה פלר - חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ca3b9ea4b1c4163bcb3935d3498d70c/version/64/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_38nax3i4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תעלומת ההיעלמות של הילדה פלר: צופית גרנט חוזרת כדי להביא לכם את הסיפור הגדול מכולם | אבודים לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_38nax3i4===",
+       "season": "עונה 12"
+      },
+      {
+       "name": "אבודים, עונה 12, פרק 3: לאן נעלמה פלר- חלק ג'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/088838e80391446a9fa62d7b286d489b/version/64/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_w1ytwzsz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יצחק, אביה של פלר, פוגש לאחר 32 שנה את אמה של פלר. בין השניים מתפתח ויכוח חריף במהלכו היא טוענת שהוא צריך לשבת בבית סוהר על כך שהכה אותה והוא טוען שהיא שקרנית ונצלנית. לאחר מכן, צופית מצליבה בין הגירסאות שלהם על מנת להגיע אל האמת | \"אבודים\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_w1ytwzsz===",
+       "season": "עונה 12"
+      },
+      {
+       "name": "אבודים, עונה 12, פרק 4: לאן נעלמה פלר- החלק האחרון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/715ae9bbf446447eb726e986fe97ca55/version/64/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_1l80t9j2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החיפוש אחר פלר מגיע לסיומו המפתיע. החלק האחרון של מסע החיפוש חושף את השתלשלות האירועים, מאז אותו יום שפלר נחטפה דרך חלון הגן שלה באכזריות, ועד לרגע הפגישה המיוחד, שאביה של פלר ינצור בליבו לעד | אבודים לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_1l80t9j2===",
+       "season": "עונה 12"
+      },
+      {
+       "name": "אבודים, עונה 12, פרק 5: פרק סיום העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d7d14a0803ee4f898bea90b74df8e227/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gut9x0o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "צופית נפגשת עם מרים בשוודיה והיא מבקשת ממנה לחפש את אמה שמסרה אותה בלידתה לאימוץ לפני ארבעים שנה. צופית יוצאת למסע בהסוואה בטול כרם על מנת לחפש אמא שאין לה מושג אם היא רוצה להימצא והחיפוש אחריה עלול לסכן אותה ואת גורל משפחתה. הפחד מעולם לא היה מוחשי יותר | \"אבודים\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_7gut9x0o===",
+       "season": "עונה 12"
+      }
+     ]
+    },
+    {
+     "name": "עונה 13",
+     "channels": [
+      {
+       "name": "אבודים, עונה 13, פרק 7: הילדים של סוניה - חלק ג'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e72f9938e00746c6907744b13b58db53/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d1jutg5q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המסע של צופית גרנט וילדיה של סוניה ממשיך, סוניה לקחה איתה סוד גדול לקבר, הגיע הזמן שהאמת של אימא תצא לאור. האם האיש שגידל את סוניה כמו אבא, הוא גם האבא של הילדים שלה? | הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_d1jutg5q===",
+       "season": "עונה 13"
+      },
+      {
+       "name": "אבודים, עונה 13, פרק 6: הילדים של סוניה - חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f288226eb8424ecf95c6cc69f7a5e6e6/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bxwmh36h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צופית גרנט ושני ילדיה של סוניה ממשיכים במסע לגילוי עברה של אימם. האם אבותיהם הם גברים מזדמנים ממועדוני יפו? ומי הוא נהג המונית המסתורי שיכול לשפוך אור על התעלומה? | הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_bxwmh36h===",
+       "season": "עונה 13"
+      },
+      {
+       "name": "אבודים, עונה 13, פרק 5: הילדים של סוניה - חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9acc381c60e64c1ab664ec27a2ce0efb/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u7ifb8iu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הילדים של סוניה יוצאים למסע מטלטל למקומות הכי אפלים. האם הם יצליחו לגלות את הסודות של אימא? | הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_u7ifb8iu===",
+       "season": "עונה 13"
+      },
+      {
+       "name": "אבודים, עונה 13, פרק 4: בשם האב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d7c7c0f70b8409fb9c8333f000c77a0/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ffp4c41h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המסע של צופית גרנט והתאומות השבדיות מגיע לסיומו, האם התאומות יסכימו להיפגש עם אביהן שישב בכלא על רצח אימן? | אבודים - החלק הרביעי לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ffp4c41h===",
+       "season": "עונה 13"
+      },
+      {
+       "name": "אבודים, עונה 13, פרק 3: מי הרעיל את אמא?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d7158c3310084e5e92d0b363124635d9/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zrmr629c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המסע של צופית והתאומות השבדיות ממשיך, והפעם צוות אבודים מאויים על ידי קרובי התאומות המסרבים לשתף פעולה בחקירת הרצח. אבודים - חלק 3 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zrmr629c===",
+       "season": "עונה 13"
+      },
+      {
+       "name": "אבודים, עונה 13, פרק 1: התאומות משבדיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ba9fa0388e24c45b94944a76a83cc20/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_78zrqw39/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם יתכן שאמה ומתילדה, תאומות שבדיות שנולדו בישראל, נלקחו מאימן הביולוגית בניגוד לרצונה? מה עלה בגורלה? האם היא בחיים? אבודים - חלק 1 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_78zrqw39===",
+       "season": "עונה 13"
+      },
+      {
+       "name": "אבודים, עונה 13, פרק 2: הדרמה בחדר לידה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83d1d65a73e74fe8ba8ac23200a82e81/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jmxe39t0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המסע של צופית גרנט והתאומות השבדיות נמשך, האם יתכן שתעלומת החיפוש אחר הורי התאומות הופכת לתעלומת רצח? אבודים - חלק 2 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_jmxe39t0===",
+       "season": "עונה 13"
+      }
+     ]
+    },
+    {
+     "name": "עונה 14",
+     "channels": [
+      {
+       "name": "אבודים, עונה 14, פרק 6: איפה הם היום?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3908f9566bc84df1a9182cd77efecfcd/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5dpbxlq0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לרבים מהסיפורים ששודרו לאורך העונות היה סוף מרגש ואף משנה חיים, אלא שלעיתים היו גם כאלה שהסתיימו אחרת, בטון צורם ולא כפי שדמיינו המחפשים; חזרנו אל הגיבורים של הסיפורים הכי גדולים ובדקנו איך החיים שלהם השתנו - ואיפה הם היום? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_5dpbxlq0===",
+       "season": "עונה 14"
+      },
+      {
+       "name": "אבודים, עונה 14, פרק 5: החיים שאחרי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1facc402cb4c4c799c44eee92735d1c7/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yn0cswih/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לרבים מהסיפורים ששודרו לאורך העונות היה סוף מרגש ואף משנה חיים, אלא שלעיתים היו גם כאלה שהסתיימו אחרת, בטון צורם ולא כפי שדמיינו המחפשים; חזרנו אל שלושה מהמסעות הכי מורכבים שהיו לנו ובדקנו כיצד גיבורי החיפושים מרגישים כיום - והאם הם סוף סוף מרגישים שסגרו מעגל? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_yn0cswih===",
+       "season": "עונה 14"
+      },
+      {
+       "name": "אבודים, עונה 14, פרק 4: המסע לאמת של לירן, חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9e592901e33e467da524e9c287d7044b/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wn53ahvq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החיפושים אחר אביו הביולוגי של לירן מקבלים תפנית מפתיעה - וצוות התוכנית מוצא את עצמו לפתע מנהל בעקבותיו מרדף ברחבי ספרד. כיצד יראה המפגש עם הבת שלא ראה במשך 27 שנים - ומה באמת קרה בעבר בינו לבין אימה? | \"אבודים\", עונה חדשה, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_wn53ahvq===",
+       "season": "עונה 14"
+      },
+      {
+       "name": "אבודים, עונה 14, פרק 3: המסע לאמת של לירן, חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6747524688b24f2c8c5ba44587051974/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tlnqhijt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "היא נולדה ברומניה לפני 27 שנים בשם אוולין וזמן קצר לאחר מכן אומצה על ידי זוג ישראלים. לאורך כל חייה היא חיפשה אחר משפחתה הביולוגית, כשבדרך אף החלה בהליך לשינוי מין והפכה ללירן. כעת, בחיפושים אחר שורשיו במקום שבו הכול התחיל, הוא נחשף לסיפור מזעזע ומטלטל שכולל מכירת ילדים ושתיקה של הרשויות | \"אבודים\", עונה חדשה, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_tlnqhijt===",
+       "season": "עונה 14"
+      },
+      {
+       "name": "אבודים, עונה 14, פרק 1: המסע של ארז, חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f0db98813d5b44548f13afb5d57fafc1/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uyiug0ve/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לאחר שנולד ברומניה הקומוניסטית, נשלח ארז פרץ לבית ילדים. הוא גדל שם במשך תקופה בתנאים קשים, עד שאומץ על ידי זוג ישראלים וקיבל בית חם. כעת, כשהוא עדיין סוחב איתו את הטראומות מהילדות, הוא מחפש את אימו ומתחקה אחר שורשיו | \"אבודים\", עונה חדשה, פרק הבכורה, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_uyiug0ve===",
+       "season": "עונה 14"
+      },
+      {
+       "name": "אבודים, עונה 14, פרק 2: המסע של ארז, חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c266fed60014d9193e47b87b815f44b/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gtrslgy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המפגש עם אימו הביולוגית של ארז, שנדמה היה שיקרה רגע אחרי שנמצאה, הולך ומתרחק בגלל סוד מטריד שהיא מסרבת לחשוף. האם בסופו של דבר היא תסכים להסביר לבנה מדוע נאלצה לשלוח אותו לבית יתומים לפני יותר מ-30 שנה? | \"אבודים\", עונה חדשה, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_7gtrslgy===",
+       "season": "עונה 14"
+      }
+     ]
+    },
+    {
+     "name": "עונה 15",
+     "channels": [
+      {
+       "name": "אבודים, עונה 15, פרק 7: תעלומה בבולגריה, חלק ג' ואחרון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0bdc9f43b45b47708750a78351efa3ee/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zufl3jx3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי 30 שנה של חיפושים, שונטל קרובה יותר מאי-פעם למצוא את אימא: האם אימה תחשוף את הסיבה שבגינה מסרה את בתה לאימוץ, כיצד יראה המפגש הטעון בין השתיים - ומה יתגלה על האב? | אבודים, פרק סיום העונה, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zufl3jx3===",
+       "season": "עונה 15"
+      },
+      {
+       "name": "אבודים, עונה 15, פרק 5: תעלומה בבולגריה, חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f05adeea63444e5ae809981256381f3/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kcl8zd9j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בת חן ושונטל נולדו בבולגריה ואומצו מבית יתומים על ידי שתי משפחות ישראליות. מלבד העובדה שהן נקראו נדקה ואלבנה, הן לא באמת יודעות כלום על עברן. כעת, כשהן מבקשות להתחקות אחר השורשים שלהן ולהבין מדוע נמסרו לאימוץ, הן מחליטות להיחשף לעברן ומגלות סיפור מטלטל ומפתיע | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_kcl8zd9j===",
+       "season": "עונה 15"
+      },
+      {
+       "name": "אבודים, עונה 15, פרק 6: תעלומה בבולגריה, חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d7ad3b1b3644478b86b4ffb7a886e207/version/68/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rkuzwjxm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לאחר שביקרה בבית היתומים שבו גדלה לפני שאומצה, בת חן מגיעה לכפר שבו נולדה - שם ככל הנראה עדיין מתגוררים הוריה. האם כעת, אחרי 29 שנים ומבלי שהיא יודעת שום דבר על עברה, היא תגלה מדוע נמסרה לאימוץ? וגם: מה עלה בגורלם של הוריה - ואיך יקבלו אותה בכפר? | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rkuzwjxm===",
+       "season": "עונה 15"
+      },
+      {
+       "name": "אבודים, עונה 15, פרק 4: החזרה למרוקו, החלק הרביעי והאחרון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17224576a34d433c904f06e167d69c3e/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t0hbdeeo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האיחוד של אסתר עם המשפחה היה גדול מהחיים - אבל זה לא נגמר שם: צופית גרנט תעשה הכול כדי לדאוג שהחוטפת תשב בכלא והצדק עם מרי ייעשה; איך ייראה העימות בין כל המעורבים, מה תגיד החוטפת להגנתה - וכיצד תיגמר הדרמה שהחלה לפני 50 שנה? | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_t0hbdeeo===",
+       "season": "עונה 15"
+      },
+      {
+       "name": "אבודים, עונה 15, פרק 3: החזרה למרוקו, חלק ג'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/636cdc6fda2e4c30ac2a329f96da04c8/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xdrjjnd7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי 50 שנה של חיפושים, הבת הרביעית של מרי סוף סוף נמצאה והתאחדה עם אמה, אחיה ואחיותיה. אחרי הדמעות, החיבוקים והדרמה סביב המפגש, נותר לגלות מי בעצם חטף אותה, היכן גדלה כל השנים, מה עבר עליה מאז ומדוע לאורך חייה חשבה שהיא מאומצת? | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_xdrjjnd7===",
+       "season": "עונה 15"
+      },
+      {
+       "name": "אבודים, עונה 15, פרק 2: החזרה למרוקו, חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/55c29fd41d62413397c23293f9b760dc/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aqtmc0nd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החזרה למרוקו חושפת אמת מפתיעה והצוות יוצא למרדף מסוכן ברחובות קזבלנקה אחר מי שעשויה להיות האישה שחטפה את הילדה של מרי לפני 50 שנה; האם התעלומה עומדת להיפתר ומשפחת פרץ סוף סוף תתאחד עם הבת הרביעית? | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_aqtmc0nd===",
+       "season": "עונה 15"
+      },
+      {
+       "name": "אבודים, עונה 15, פרק 1: החזרה למרוקו, חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf1744ff2d024666a0be49affcedbb58/version/67/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f9v7zl2w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לפני חמש שנים כל המדינה בכתה עם מרי פרץ - אבל זה לא נגמר שם: קצה חוט חדש מוביל את הצוות שוב לקזבלנקה בעקבות האחות שלא נמצאה מעולם. האם מרי סוף סוף תתאחד עם הבת שנעלמה? הסיפור שהרעיד את המדינה מגיע לסוף עוצר נשימה | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_f9v7zl2w===",
+       "season": "עונה 15"
+      }
+     ]
+    },
+    {
+     "name": "עונה 16",
+     "channels": [
+      {
+       "name": "אבודים, עונה 16, פרק 5: אבודים באוקראינה, חלק ג'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/316dd657d3b9469f96feeae6b3ab5eff/version/42/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_64t30kh5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-06",
+       "plot": "צופית גרנט נוחתת בלב אזור הקרבות באוקראינה כדי לאחד משפחות תחת אש. הערב: אחרי שוויל התאחד עם אימו ואחיו - המסע ממשיך בניסיון לאתר את משפחתה הביולוגית של בת שבע | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_64t30kh5===",
+       "season": "עונה 16"
+      },
+      {
+       "name": "אבודים, עונה 16, פרק 4: אבודים באוקראינה, חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/641b7e44c9d54d328bc7e09016bfbf23/version/47/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ciz54fl9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-01",
+       "plot": "צופית גרנט נוחתת בלב אזור הקרבות באוקראינה כדי לאחד משפחות תחת אש. הערב:  האם וויל ימצא את אמא שלו בכפר נידח באוקראינה?  | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ciz54fl9===",
+       "season": "עונה 16"
+      },
+      {
+       "name": "אבודים, עונה 16, פרק 3: אבודים באוקראינה, חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6e87ad9695ba467a9f66d91a8a85d560/version/46/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lclxxbce/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-30",
+       "plot": "צופית גרנט נוחתת בלב אזור הקרבות באוקראינה כדי לאחד משפחות תחת אש. הערב: הנער שהפך לחייל צה\"ל חולם להתאחד עם אמא שלו | אבודים, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lclxxbce===",
+       "season": "עונה 16"
+      },
+      {
+       "name": "אבודים, עונה 16, המסע לקזחסטן, חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/547faabf822d4cf48bf102779d63fb17/version/62/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_65k6lq4f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-29",
+       "plot": "המסע של שיר ודיאנה לחיפוש אחר הוריהן הביולוגיים נמשך - ומגיע לשיא שאף אחד לא ציפה לו: התאומות והאימא נפגשות ואף עין לא נותרת יבשה; מה עלה בגורל האב, מדוע מסמכי האימוץ שלהן כה לוקחים בחסר ומהו הסוד הנורא שנחשף?",
+       "page": "",
+       "id": "--kaltura--1_65k6lq4f===",
+       "season": "עונה 16"
+      },
+      {
+       "name": "אבודים, עונה 16, המסע לקזחסטן, חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa6de5ad57c944b0be0a4bf79246bce8/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sf6zjmro/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "דיאנה ושיר הן תאומות בנות 22 שנולדו בקזחסטן למשפחה ענייה במיוחד, ואומצו על ידי זוג ישראלים אמידים אשר שינו את גורלן לחלוטין. לאורך חייהן הן חששו לגעת בעבר אבל כעת, כשהאחת רוצה והשנייה ממש לא, הן יוצאות למסע בעקבות ההורים הביולוגיים ומקוות לגלות את זהות האם, להבין מי האיש שחתם על מסמכי האימוץ והאם הן באמת אחיות או שמא הספק שהן לא יתגלה כאמת לאמיתה",
+       "page": "",
+       "id": "--kaltura--1_sf6zjmro===",
+       "season": "עונה 16"
+      }
+     ]
+    },
+    {
+     "name": "עונה 17",
+     "channels": [
+      {
+       "name": "אבודים, עונה 17, פרק 8: פרק סיום העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d1476dc67e8f4a269cb847cac91e890b/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6zpjple4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-21",
+       "plot": "החיפוש ביוון אחר אבא של יאנה מסתבך. האם יאנה תעמוד סוף סוף מול האיש שפגע בה ותסגור איתו חשבון? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6zpjple4===",
+       "season": "עונה 17"
+      },
+      {
+       "name": "אבודים, עונה 17, פרק 7: לסגור חשבון עם אבא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a20327928f194100a1482573d019ae7d/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w6t1bf6m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-19",
+       "plot": "לפני עשרים שנה הוא הרס לה את החיים, עכשיו היא יוצאת ליוון כדי לסגור חשבון עם אביה. מה יקרה כשיאנה תגלה את האמת? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_w6t1bf6m===",
+       "season": "עונה 17"
+      },
+      {
+       "name": "אבודים, עונה 17, פרק 6: הסודות נחשפים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/749a8ad5333f45698784bb5b3f445a72/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pimpibnd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-12",
+       "plot": "הוא הציג את עצמו כאב מסור שדואג לילדים שלו, אבל שיחת טלפון מפתיעה חושפת את הסוד של האבא המתחזה. האם האחים יתאחדו עם האמא? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_pimpibnd===",
+       "season": "עונה 17"
+      },
+      {
+       "name": "אבודים, עונה 17, פרק 5: תעלומה משפחתית ברוסיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c93cd99a7764187803a45f5c337c1e3/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_49fncepj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-09",
+       "plot": "צופית נוחתת ברוסיה בשביל למצוא את ההורים הביולוגיים של קטיה ודניאל. במהלך המסע היא נחשפת לסודות האפלים של המשפחה ומבינה שהאבא האמיתי מסתיר מידע קריטי מילדיו | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_49fncepj===",
+       "season": "עונה 17"
+      },
+      {
+       "name": "אבודים, עונה 17, פרק 4: סוף התעלומה באוקראינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6c87fb08cdc04a54a128ec1966af60bc/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ddgc73oj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-10",
+       "plot": "התאומות נועה ונטלי יוצאות עם צופית גרנט למצוא את הוריהן הביולוגים. מאיזה סוד כולם מפחדים - ומה יקרה ברגע המפגש? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ddgc73oj===",
+       "season": "עונה 17"
+      },
+      {
+       "name": "אבודים, עונה 17, פרק 3: התאומות מאוקראינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/944d808f397a410d9076e4fd634f274d/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sltte3yp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-29",
+       "plot": "התאומות נועה ונטלי יוצאות לאוקראינה עם צופית גרנט כדי למצוא את אימם הביולוגית. אבל, הן נוחתות למציאות מטלטלת - ולמרוץ מטורף נגד השעון. האם אפשר לחלץ את אמא בזמן? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_sltte3yp===",
+       "season": "עונה 17"
+      },
+      {
+       "name": "אבודים, עונה 17, פרק 2: המשפחה של צופית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac91c623e4fc4bc9b0f140adb961eed2/version/37/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ltofxd7n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-26",
+       "plot": "צופית גרנט יוצאת בשליחות אבא המחפש את בנותיו שנעלמו לפני 16 שנה בלוס אנג'לס. אבל, החיפוש מסתבך כשהוא מוביל אותה אל המשפחה האישית שלה",
+       "page": "",
+       "id": "--kaltura--1_ltofxd7n===",
+       "season": "עונה 17"
+      },
+      {
+       "name": "אבודים, עונה 17, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bb6f56f6a17d4b4c870889d52ae87f31/version/45/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ege2psa2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-22",
+       "plot": "צופית גרנט יוצאת בשליחות אבא המחפש את בנותיו שנעלמו לפני 16 שנה בלוס אנג'לס. אבל, החיפוש מסתבך כשהוא מוביל אותה אל המשפחה האישית שלה. פרק בכורה שעולה על כל דמיון",
+       "page": "",
+       "id": "--kaltura--1_ege2psa2===",
+       "season": "עונה 17"
+      }
+     ]
+    },
+    {
+     "name": "עונה 18",
+     "channels": [
+      {
+       "name": "אבודים, עונה 18, פרק 9: יאנה סוגרת חשבון עם אבא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f89c2ec32faa49219f97e668e5c53652/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r6hcy7hv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-02",
+       "plot": "לפני שנה כל המדינה בכתה עם יאנה. הערב, התפתחות דרמטית מביאה את יאנה להתייצב סוף סוף מול אבא, והיא לא לבד. מה יקרה בעימות חייה? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_r6hcy7hv===",
+       "season": "עונה 18"
+      },
+      {
+       "name": "אבודים, עונה 18, פרק 8: פתרון תעלומת היתומים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35ff62bd0c1941eb931980900c913ed9/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_53wyexo9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-04",
+       "plot": "תעלומת היתומים היהודים בדרך לפתרון. מה קרה לאח של לנה בבית היתומים? והאם אחרי 30 שנה היא תצליח להציל אותו? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_53wyexo9===",
+       "season": "עונה 18"
+      },
+      {
+       "name": "אבודים, עונה 18, פרק 7: תעלומת היתומים היהודים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13cb07980a8b42ec84c220dd7a6f6060/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fz08r5np/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-28",
+       "plot": "אחרי שנעלמו עשרות יתומים יהודים מעיירה נידחת ברוסיה, \"אבודים\" יוצאת לרוסיה ולארה\"ב, כדי לחשוף אמת מחרידה: לאן נעלמו שני אחיה הקטנים של נטע, ששהו גם הם בבית הילדים? מי עושה הכול כדי להחביא אותם? וגם: מה הסוד הגדול שהם מנסים להסתיר? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_fz08r5np===",
+       "season": "עונה 18"
+      },
+      {
+       "name": "אבודים, עונה 18, פרק 6: מה באמת קרה לדדי?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba8f4f06bedd47b8a6520cab87f4eee7/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zt2hj4t1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-12",
+       "plot": "אחרי 7 שנים של חיפושים, לאחר שנעלם בלאס וגאס - אף אחד לא האמין שדדי בורדה בחיים. אבל, מידע שהגיע למערכת הוביל אותנו למקום הימצאו. כזה סיפור עוד לא היה! | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zt2hj4t1===",
+       "season": "עונה 18"
+      },
+      {
+       "name": "אבודים, עונה 18, פרק 5: פשע אמיתי לאס וגאס – חלק ג'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df1cc388d38e4891a6349772b090e7e5/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gzjmkz2r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-18",
+       "plot": "סיפור ההיעלמות של הישראלי דדי בורדה בווגאס מוביל לכלה שלו מהעולם התחתון. האם היא המאהבת של הבוס שלו? וגם: מה היא הסתירה כל השנים? התעלומה מגיעה לשיא | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gzjmkz2r===",
+       "season": "עונה 18"
+      },
+      {
+       "name": "אבודים, עונה 18, פרק 4: פשע אמיתי לאס וגאס – חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51702b353313467db5f10dd91f2246bd/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c894sm0v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-13",
+       "plot": "סיפור היעלמותו של הישראלי בווגאס ממשיך להסתבך. מה מסתיר הבוס של דדי בורדה? מי היא באמת הכלה מהעולם התחתון? וגם: מה הסתירו כל השנים? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_c894sm0v===",
+       "season": "עונה 18"
+      },
+      {
+       "name": "אבודים, עונה 18, פרק 3: פשע אמיתי לאס וגאס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77b535f27ec34b6fa600d6b7e43842e9/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vidd4wmr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-11",
+       "plot": "דדי בורדה יצא להגשים את החלום האמריקאי והסתבך עם העולם התחתון. סיפור היעלמות של ישראלי בווגאס, חקירת משטרה שהסתבכה - ואימא אחת שלא מוותרת עד שתגיע לאמת | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_vidd4wmr===",
+       "season": "עונה 18"
+      },
+      {
+       "name": "אבודים, עונה 18, פרק 2: הסוד של נטע נחשף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf3e26c96a5847488131c88fe6910cb1/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fp6yeu4a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-07",
+       "plot": "אחרי שניצלה מהטבח בבארי נטע מתקרבת לפתרון תעלומת חייה. אחרי 40 שנה היא מקבלת הודעה שמשנה הכול - האם היא סוף סוף תפגוש את אימה? | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_fp6yeu4a===",
+       "season": "עונה 18"
+      },
+      {
+       "name": "אבודים, עונה 18, פרק 1: הסוד של הילדה מבארי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee2676017cdf40cc99f2ab1f25777568/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zaihp2o0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-05",
+       "plot": "אחרי ששרדה את הטבח, נטע ממריאה לאמריקה כדי לחפש את אימה הביולוגית | \"אבודים\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zaihp2o0===",
+       "season": "עונה 18"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

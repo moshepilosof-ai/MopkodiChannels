@@ -1,0 +1,141 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אלנבי",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "459",
+   "series_id": "459",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0928c62e9d54701a7a88782e96b3dfe/version/0/width/800/height/1200/quality/90",
+   "plot": "אלנבי לצפייה ישירה - סדרת דרמת פשע רומנטית ישראלית בבימויו של אסף ברנשטיין, המבוססת על ספרו רב-המכר של גדי טאוב באותו השם, \"אלנבי\". עם מורן אטיאס, אביב אלוש, רומי אבולעפיה, נדב נייטס וגיא אריאלי",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אלנבי, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4546661cf0a6460fbc20c36530a4c0c5/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_grlj63ki/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "מה שמתחיל באירוע בודד של תקיפת בחורה צעירה, הולך ומסתבך וסוחף אל תוכו את כל מי שנוגע בו. מבוסס על הרומן רב המכר \"אלנבי\" של גדי טאוב.",
+       "page": "",
+       "id": "--kaltura--1_grlj63ki===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4983290c791e4923acb4733a6a9880ff/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_54gce4j1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "ארז מנסה לגייס את כל כוחו כדי לחלץ את מיקה מציפורני אחיה. ערן נעשה הנואש מוכן אפילו לפנות לאלימות.",
+       "page": "",
+       "id": "--kaltura--1_54gce4j1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fc83b719a3e481e82b7a7722c3c903b/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9j8l8gpn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "ערן מנסה להחזיר לעצמו את נוקי, אם צריך אז בשקרים. אפי מגלה שערן וארז סכסכו בינו ובין דימה, ומחליט לנקום. מיקה נשארת לצד מיטת אחיה.",
+       "page": "",
+       "id": "--kaltura--1_9j8l8gpn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d180a10607024502a64fda6a80b8d81a/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_86ypkzwg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "מיקה חושפת את סודה בפני ארז בבית הוריו. הקנאה של ערן יוצאת משליטה ונוקי מתנקמת בו",
+       "page": "",
+       "id": "--kaltura--1_86ypkzwg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fdfbd23f9c62473e8cd6a2dea9fcab16/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3kupkicd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "ערן עושה עוד צעד לתוך עולמה הפרוע של נוקי, זה עשוי להיות צעד אחד יותר מידי אבל הוא כבר לא יכול לסגת. גרושתו של ארז לא מסכימה שהילדה תהיה איתו כל עוד מיקה נמצאת. ארז מתייצב לצד מיקה.",
+       "page": "",
+       "id": "--kaltura--1_3kupkicd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b689ea1ca28431d832a232e857e74fb/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3gvvdy1f/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "נוקי מנסה לעשות לערן כיף, אבל נשברת ולא יכולה לשקר לו יותר. דימה משתחרר ממעצר ומריח שמשהו קורה בין ארז למיקה.",
+       "page": "",
+       "id": "--kaltura--1_3gvvdy1f===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf5b9dff618d4808991cfc801ca4462e/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wc7fi3i4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "ארז מביא את מיקה איתו לדאנס בר, ומכר של המשפחה שלה מנסה לסחוט ממנה טובות הנאה מיניות. ארז מנסה להיעזר בערן ונוקי כדי להפליל את אח של מיקה.",
+       "page": "",
+       "id": "--kaltura--1_wc7fi3i4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fcb4dc853b84606aef4369f36776f79/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_alp9lc2l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "אפי מבין שארז מוכן להקריב את דימה למען מיקה. ארז מהמר ומנסה לסכסך בין אפי לדימה, אבל מגלה בתוך כך טפח מסודה האפל של מיקה. ערן מתקשה לחיות עם מקצועה של נוקי.",
+       "page": "",
+       "id": "--kaltura--1_alp9lc2l===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1458a681b364c2ea123e66b44f6cbdb/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ad8plsqi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "ארז מחליט לפעול מאחורי גבה של מיקה כדי להציל אותה מעצמה, ולחלץ את עצמו מהסתבכות פלילית. נוקי חושפת פרטים על עברה של מיקה כחשפנית.",
+       "page": "",
+       "id": "--kaltura--1_ad8plsqi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aee619dcddb64a22aab641b265e08cfd/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p7b7b4ad/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "מיקה בורחת מאפי ודימה. אחרי שפורצים לה לדירה היא פונה לארז, שמחביא אותה במשרד עזוב. החיים הכפולים של נוקי מאיימים להתפוצץ לה בפנים.",
+       "page": "",
+       "id": "--kaltura--1_p7b7b4ad===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c81001fcd224b42a442defec32174a4/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nhi8lqde/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "המשטרה עוצרת את דימה ואפי יוצא לצייד, נחוש למצוא את מיקה שהפלילה את חברו. הוא עולה על עקבותיה וחושד בארז שהוא מחביא אותה.",
+       "page": "",
+       "id": "--kaltura--1_nhi8lqde===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אלנבי, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/942b6f8f00c84aca9532dbebd3b5bc66/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_47ytjvj5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "מיקה מגישה תלונה שקרית, כאילו בן-זוגה דימה הוא זה שתקף אותה. התלונה מסבכת גם את ארז. ערן נתקף חרדה מפני הפראות של נוקי.",
+       "page": "",
+       "id": "--kaltura--1_47ytjvj5===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

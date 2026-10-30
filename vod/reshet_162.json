@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - חיים שלי",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "162",
+   "series_id": "162",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a89945713f094a648fa8626bd4b60689/version/10/width/800/height/1200/quality/90",
+   "plot": "סדרה מוקומנטרית-ריאלסטית העוקבת אחר חייו המקצועיים והאישיים של קובי מימון",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "חיים שלי, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/71f66d965c15424db6c01e1f9b9c24f2/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mmkgrusw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 4 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_mmkgrusw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים שלי, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/afe04b3bc8d14e05937ccad5dd5faf28/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3frsbco1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 5 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3frsbco1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים שלי, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9fb829d5688843028484e41a508a23ed/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_61wgjimh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 2 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_61wgjimh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים שלי, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1141c8aedb2141f1b691348a68419435/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n750ezbt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 7 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_n750ezbt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים שלי, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c66b6e24812a4bf9a198b689ac1068b3/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v7fwjeyv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 1 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_v7fwjeyv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים שלי, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfb1d1ef6222457d8da8badb27f6ef84/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rpn7mxl6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 6 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rpn7mxl6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים שלי, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a511c002ea84d469f95ce7027adb581/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o5qmxk5i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 3 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_o5qmxk5i===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים שלי, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe973651f6a3434bb6707e38afbe18ea/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jg4y58lg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 9 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_jg4y58lg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "חיים שלי, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/19b1c2eabb4b417cbc61eee2580fc64b/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k62gh5jy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומדיה החדשה של קובי מימון | חיים שלי פרק 8 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_k62gh5jy===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

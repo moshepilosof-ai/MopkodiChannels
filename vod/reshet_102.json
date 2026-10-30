@@ -1,0 +1,236 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - הכל דבש",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "102",
+   "series_id": "102",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a791c429a62c4697a300cd3243b72995/version/25/width/800/height/1200/quality/90",
+   "plot": "סדרת דרמה קומית ישראלית זוכת פרס האקדמיה לטלוויזיה המשודרת ברשת, ערוץ 2 החל משנת 2007. הסדרה נוצרה על ידי יעל פוליאקוב ומבוססת על דמויות ומצבים מחייה",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הכל דבש, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/768314d5c13a4287bfde60011e603fbb/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ez8gnhcz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ez8gnhcz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59ff57d652434d61bad2550fab1e0bd9/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6fek5w9w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-31",
+       "plot": "סדרת דרמה קומית ישראלית זוכת פרס האקדמיה לטלוויזיה המשודרת ברשת, ערוץ 2 החל משנת 2007. הסדרה נוצרה על ידי יעל פוליאקוב ומבוססת על דמויות ומצבים מחייה",
+       "page": "",
+       "id": "--kaltura--1_6fek5w9w===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/854ba75e9aca43899752a9492b6d437d/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_shgfim99/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_shgfim99===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/499204a23bd2499086a3a72c5e66da49/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sohimrv4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_sohimrv4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b00df82bb414e28974abe28389890ee/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yi31nd1s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_yi31nd1s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3864c4508f40454196fdd77dd9b9e637/version/29/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tdx5h6fw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_tdx5h6fw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba4985bbb73644afbbfc31fb72a86f59/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8lp5jlqn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_8lp5jlqn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/034b927bf0d84b5ab666f796e0c455c9/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jotp21zq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_jotp21zq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a26ff025b3e4f6ab3f68c4b4a45f5ea/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6nxgp935/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_6nxgp935===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכל דבש, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41ab0723a3f14518b0921dc24dea8691/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x70xpghv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_x70xpghv===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "הכל דבש, עונה 2, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/71b2eaddccbc4966a5cc9b9b2b653e6c/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x4tnntft/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-11-16",
+       "plot": "המשפחה יושבת שבעה לאחר מותו של פולי והם מנסים להתמודד עם המציאות החדשה",
+       "page": "",
+       "id": "--kaltura--1_x4tnntft===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc4511ca41a843148e6ec23e16a2829f/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uw48a43z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_uw48a43z===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8092c276c0414ee492dd17284ffe337d/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3vlmvbkr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-04",
+       "plot": "יעל מתמוטטת ומובהלת לבי\"ח ומפגש אקראי עם ג'ימי מחזיר אותו לחייה ואותה לחיים",
+       "page": "",
+       "id": "--kaltura--1_3vlmvbkr===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1da82ad3bc234bbe92d6ccec5166c40e/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gvr8gjku/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "יעל נלחמת על צילום הסדרה למרות מותו של ישראל והמשפחה מתחילה  להתפרק",
+       "page": "",
+       "id": "--kaltura--1_gvr8gjku===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/69ec4c747cb04820b4d0f36674f84b6d/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6av6p0hq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "המשפחה מתרעמת על יעל ועל העובדה שהיא החליטה לכתוב עליהם סדרה",
+       "page": "",
+       "id": "--kaltura--1_6av6p0hq===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c5a7f272a2ed4ad18903b9eb7e3afdfd/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p9c9km0k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "בזמן שיעל מפתחת את קריירת המשחק שלה היא מקבלת עצה מחבר לכתוב סדרה על משפחתה",
+       "page": "",
+       "id": "--kaltura--1_p9c9km0k===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2253e358c5e4efabc4f76987ffaf89e/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ua3e8ts6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "יעל רוקדת על שתי חתונות, נישואיה לליאור ורומן לוהט עם ג'ימי",
+       "page": "",
+       "id": "--kaltura--1_ua3e8ts6===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af9944920e8742ff8c7ea5f32459a691/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9eks6o0y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "היחסים בין יעל וג'ימי הולכים ומתהדקים ונוכחותו מתחילה להפריע לבני המשפחה",
+       "page": "",
+       "id": "--kaltura--1_9eks6o0y===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a73162a4818848f98bce95f3d7f0ff7a/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8xtukj8t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "ערן ממשיך להיעזר בטיפה המרה כדי להתמודד עם מותו של פולי ובאופן מפתיע מתאהב בזונה",
+       "page": "",
+       "id": "--kaltura--1_8xtukj8t===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73a439c3497241d9afc31eb5b5de2a42/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_etgfjjxv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "אביתר מנסה לתפקד כאבי המשפחה, פונה לשייקה וגברי לעזרה ומסבך את כולם באופן מפתיע",
+       "page": "",
+       "id": "--kaltura--1_etgfjjxv===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכל דבש, עונה 2, פרק מאחורי הקלעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b767d061fa9e4cb09ce39d8d312a91cb/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oz7o4z93/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-28",
+       "plot": "פרק מאחורי הקלעים",
+       "page": "",
+       "id": "--kaltura--1_oz7o4z93===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

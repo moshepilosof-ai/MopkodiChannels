@@ -1,0 +1,386 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - טקסי דרייבר",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "153",
+   "series_id": "153",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/38bb35b4364f4d4b90eb8cb48d1453e7/version/14/width/800/height/1200/quality/90",
+   "plot": "דרמה קומית ישראלית על חמישה שותפים בתחנת מוניות, הנאבקים לשמר את עצמאותה של התחנה הקטנה ומתמודדים עם קשיים וחולשות אנושיות שיגרמו לכולנו לצחוק בקול רם",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 10: יגאל ופאני הולכים להירשם ברבנות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3ce61de4747446ebda20009ae733a79/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ssy6a7qe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "יגאל ופאני הולכים להירשם ברבנות",
+       "page": "",
+       "id": "--kaltura--1_ssy6a7qe===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 11: יגאל רוצה חתונה דתית ופאני אזרחית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d1b81d33a1a408c83ca1530ca775434/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wbevt3ej/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "יגאל רוצה חתונה דתית ופאני אזרחית",
+       "page": "",
+       "id": "--kaltura--1_wbevt3ej===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 9: יגאל ופאני מתקרבים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a198a9756ce4376947826c6104753f7/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_172w4hfu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "יגאל ופאני מתקרבים",
+       "page": "",
+       "id": "--kaltura--1_172w4hfu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 8: חרא מסתבך עם החוק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f464cf3040864f18bd29eadfc42073de/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qenlc8a2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "חרא מחפש מונית למכירה ובכך מסתבך עם החוק",
+       "page": "",
+       "id": "--kaltura--1_qenlc8a2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 7: האם התחנה קורסת?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a81caf7bad94819bad4b79859295171/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6gfgoipi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "יגאל מדוכא, חרא מתגעגע, הרצל עצבני ואלישע חוטף",
+       "page": "",
+       "id": "--kaltura--1_6gfgoipi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 7: האם התחנה קורסת?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/acc03f44e0064b3fb65e67179c353f34/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6gfgoipi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "יגאל מדוכא, חרא מתגעגע, הרצל עצבני ואלישע חוטף",
+       "page": "",
+       "id": "--kaltura--1_6gfgoipi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 6: יגאל מציע לחרא להצטרף לתחנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/62f8068e61b54e74832f5fca069504b8/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_44hy0mw6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "יגאל מציע לחרא להצטרף לתחנה",
+       "page": "",
+       "id": "--kaltura--1_44hy0mw6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 5:  כדורגל חופים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5822112b7a9b49e584af8fd353643106/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bwg8mpeu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "יגאל והחברים סוגרים את התחנה",
+       "page": "",
+       "id": "--kaltura--1_bwg8mpeu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 4: יגאל בא לבקר את פאני בבית החולים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22a1a77a81aa4a86be259f74e85a8a48/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x7lzmnji/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "יגאל בא לבקר את פאני בבית החולים",
+       "page": "",
+       "id": "--kaltura--1_x7lzmnji===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 2: אלישע מקבל את הזדמנות חייו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/134640770fb4432da504777b5b2db612/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tb28pip0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "אלישע מקבל את הזדמנות חייו",
+       "page": "",
+       "id": "--kaltura--1_tb28pip0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f18c9d07733471fa0a07f5f4daea33b/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jqneph0d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-06",
+       "plot": "האם החברות של נהגי 'מוניות השכונה' תעמוד במבחן המציאות?",
+       "page": "",
+       "id": "--kaltura--1_jqneph0d===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/705052360ea74d62a7e8f38b4c6c7842/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_96di9sdc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-03",
+       "plot": "פרק סיום העונה",
+       "page": "",
+       "id": "--kaltura--1_96di9sdc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1d6c4299fd84f71a8ec7dc8a9d4d1f2/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ase8epp6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-03",
+       "plot": "דרת דרמה קומית על קבוצת חברים בני 35 -40, נהגים בתחנת \"מוניות השכונה\"",
+       "page": "",
+       "id": "--kaltura--1_ase8epp6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d03d546eace941bfa378a2cc535bf7a0/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jqneph0d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "האם החברות של נהגי 'מוניות השכונה' תעמוד במבחן המציאות?",
+       "page": "",
+       "id": "--kaltura--1_jqneph0d===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eef6cd9b300f4f1881d395fe4fdcbc98/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tb28pip0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אלישע מקבל את הזדמנות חייו",
+       "page": "",
+       "id": "--kaltura--1_tb28pip0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/219dac1e5db24415aa8e50a52870b7ff/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e9yyropu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "לחץ על אביהו לתשלום החוב הולך וגובר",
+       "page": "",
+       "id": "--kaltura--1_e9yyropu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fda5b74edab14a06b440141e795924a9/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x7lzmnji/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יגאל בא לבקר את פאני בבית החולים",
+       "page": "",
+       "id": "--kaltura--1_x7lzmnji===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/845270974fdf41fc8152386084ac4156/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bwg8mpeu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יגאל והחברים סוגרים את התחנה",
+       "page": "",
+       "id": "--kaltura--1_bwg8mpeu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a93ce853d586451da4a8a1dc17b6c710/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_44hy0mw6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יגאל מציע לחרא להצטרף לתחנה",
+       "page": "",
+       "id": "--kaltura--1_44hy0mw6===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6594cb230180418ebba4317678986229/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6gfgoipi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יגאל מדוכא, חרא מתגעגע, הרצל עצבני ואלישע חוטף",
+       "page": "",
+       "id": "--kaltura--1_6gfgoipi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/beba51ab6a454d01a49f3dae9a05cf7f/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_172w4hfu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יגאל ופאני מתקרבים",
+       "page": "",
+       "id": "--kaltura--1_172w4hfu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d14c0a22dded469a98594791a9f5e0d0/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qenlc8a2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "חרא מחפש מונית למכירה ובכך מסתבך עם החוק",
+       "page": "",
+       "id": "--kaltura--1_qenlc8a2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/450c22db9f8a47af9ac5f582092ac595/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ssy6a7qe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יגאל ופאני הולכים להירשם ברבנות",
+       "page": "",
+       "id": "--kaltura--1_ssy6a7qe===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2239d2edb5844aa59cd6b6d13d2c021b/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wbevt3ej/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יגאל רוצה חתונה דתית ופאני אזרחית",
+       "page": "",
+       "id": "--kaltura--1_wbevt3ej===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 12: המכתב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b7ea72279d054eacbf0d6c05af9d5272/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q45034fn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יגאל מגלה מכתב מהעבר שטורף את כל הקלפים לגבי סגירת התחנה",
+       "page": "",
+       "id": "--kaltura--1_q45034fn===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 10: המורה המיתולוגית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a27494b618894df0994a3d8ffe3b3bd0/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vbewxzki/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הרצל בטוח שהוא פגש את מורתו האהובה מבית הספר ומנסה להוכיח זאת לחבורה",
+       "page": "",
+       "id": "--kaltura--1_vbewxzki===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 8: מחזירים את התשוקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eebc3fd4e91a4da78e247bdd5f7ac805/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b3zjdfs4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הרצל מנסה למצוא פתרון לבעיית התשוקה ואביהו מספר לדויד על אימו",
+       "page": "",
+       "id": "--kaltura--1_b3zjdfs4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 11: ים המלח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a686d30c55d342dbb560d41f351aaa0d/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b8cwvens/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "החבר'ה נוסעים לים המלח כדי לנסות להציל את התחנה והרצל עובר מהפך",
+       "page": "",
+       "id": "--kaltura--1_b8cwvens===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 13: החתונה של אלישע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5c3ec39e6ebb4eb6ab48a8f2a1d214f3/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cn8kse0e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "העימות בין החבר'ה עולה שלב, יגאל לא מוזמן לחתונה והרצל מסרב להגיע",
+       "page": "",
+       "id": "--kaltura--1_cn8kse0e===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 7: חיזור גורלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/033682f7566244598906028063a4f295/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a0hqttx4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחות של אלישע מתחילה בחיזור חולני אחרי חרא וזקן מסתורי מופיע פתאום בחייו",
+       "page": "",
+       "id": "--kaltura--1_a0hqttx4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 3: הדרך אל הכפר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0693719a6ad943f1a807690e3c2cee5e/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_felge4dg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ברוך עושה מאמצים לזכות בלילה אחד של שינה עם סווטה.חרא מתמודד עם געגועיו לקייס",
+       "page": "",
+       "id": "--kaltura--1_felge4dg===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 1: יום הולדת חצי שנה שמח!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4914e9322d949ac8e7ecbd88315c932/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8gphfgk1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשרוב החברים הפכו להורים מגוללת העונה את המאבק בשימור החברות ארוכת השנים",
+       "page": "",
+       "id": "--kaltura--1_8gphfgk1===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 4: הגירוש מהמקלט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05a47f8da0c24470a10d23c182da0f52/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xub9d0hz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלישע מגורש מן המקלט והטיפול הפסיכולוגי שלו עולה שלב",
+       "page": "",
+       "id": "--kaltura--1_xub9d0hz===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 5: לכל איש יש שם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fccf1e9520441048f117f4c11504ce5/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pcmfkm8a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלישע מחליט לשנות שמו, ליגאל מתחיל להימאס מהמושב וחרא דורש בדיקת אבהות",
+       "page": "",
+       "id": "--kaltura--1_pcmfkm8a===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 6: נולד מחדש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d927ab52ca740b797083832fe57b377/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mpk0rf7i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלישע מתחיל את חייו החדשים כנמרוד ונתקל במהמורות בדרך",
+       "page": "",
+       "id": "--kaltura--1_mpk0rf7i===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "טקסי דרייבר, עונה 2, פרק 2 : משבר גיל הארבעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f708f54d6d004c6a8beeaf24e52f8219/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2bvmrfzx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלישע מתחיל לגלות את עצמו מחדש, ואביהו מראה למאמן מה זה לא להכניס את הבן להרכב",
+       "page": "",
+       "id": "--kaltura--1_2bvmrfzx===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

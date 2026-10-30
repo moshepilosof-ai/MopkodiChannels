@@ -1,0 +1,131 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אחד העם 101",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "273",
+   "series_id": "273",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8dfcce47f3b145f0a4a284543cb2c507/version/7/width/800/height/1200/quality/90",
+   "plot": "בעקבות הסדרה הקומית והמצליחה אחד העם 1, אחד העם 101 מגולל את עלילותיה של מירי פסקל שעברה לגור במגדלי יוקרה לאחר שהתעשרה.",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אחד העם 101, עונה 1, פרק 10: תלמה ולואיז - פרק אחרון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93c807bab90746c9a660ee812f28bbd9/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gwsqgnr5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "האם מדובר בסוף של מירי? | אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gwsqgnr5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 9: חוזרים לאחד העם 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d33944b9b5954f8cb5fd0861c8df5523/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sdkexxyu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "שובה של החתולה השחורה | אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_sdkexxyu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 8: יש חשמל באוויר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/48c5f53e861d47cbb720bc2c27a59983/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kfojcrju/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "מירי מתחשמלת, ויפית הופכת לאימא | אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_kfojcrju===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 6: קופצים לאילת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fae24437bf2d4fa48da768cc767b3e2b/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1yk1g59w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "מירי פסקל כובשת את עיר הנופש אילת ופוגשת שייח' עשיר | אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1yk1g59w===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 7: פנטום האופרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4fd5693dd6044c9498d7e10539baa16d/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_20c3ht44/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "מירי פסקל סופגת תרבות | אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_20c3ht44===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 5: החלום השחור של מירי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84bb8b279eb346f6abfec5ba2b4cd631/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6ujw9j2x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "החלום השחור של מירי מתגשם: יפית וירון מתחתנים | אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6ujw9j2x===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 4: סקס ומירי הגדולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f154425c5f1f425da6d12b0460c24cc6/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2q77j0nx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "הפנטזיות המיניות של הבנות לבית משפחת פסקל | אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_2q77j0nx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 3: חנוכת בית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b55c7fb619d41c2a1e9f4b22d3b2bd1/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g91lc7uz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "מסיבת השנה של מירי פסקל וחבריה. כביכול... | אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_g91lc7uz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 2: הדייט עם מייק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/985aea46690d401399f5d3bef7b1d94b/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ofh78u97/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "מירי פסקל יוצאת לדייט ראשון עם השכן השרמנטי. אחד העם 101 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ofh78u97===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אחד העם 101, עונה 1, פרק 1: מירי פסקל מצטרפת לעשירון העליון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dccd5b3a596e404ba61bff9a85f585ed/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fsggkams/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "מירי פסקל מצטרפת לעשירון העליון והופכת להיות החברה הכי טובה של שולה",
+       "page": "",
+       "id": "--kaltura--1_fsggkams===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מאחורי הקלעים של אחד העם 101",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39095ef3b95740e0aec86a68b3fa7146/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4b7pcsah/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "היוצרים והשחקנים מספרים, כיצד נולדה סדרת הקאלט האהובה, אחד העם 101",
+       "page": "",
+       "id": "--kaltura--1_4b7pcsah===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

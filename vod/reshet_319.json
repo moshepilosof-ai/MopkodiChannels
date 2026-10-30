@@ -1,0 +1,71 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - שתולה",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "319",
+   "series_id": "319",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c0a5d79a5124f37a18fe1978078a558/version/10/width/800/height/1200/quality/90",
+   "plot": "צביקה יחזקאלי בסדרת דוקו-דרמה עוצרת נשימה, המביאה את סיפור הריגול הלא יאמן של אישה שנשתלה בארגוני זכויות אדם התומכים בפלסטינים, עד שחשפה את הקשר שלהם לטרור.",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שתולה, פרק 5: פרק אחרון שעולה על כל דמיון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac3339c106054780b93e63415fbbea3b/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rlyoypkh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בעיצומו של המשט לעזה, אחרי ימים ארוכים על הספינה, הסוכנת כמעט ונחשפת - והפעילים מאיימים להשליך אותה ללב ים; האם היא תצליח לשכנע אותם שהיא אחת משלהם? | שתולה, הפרק החמישי והאחרון בסדרת הדוקו עוצרת הנשימה של צבי יחזקאלי, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rlyoypkh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שתולה, פרק 4: הסוכנת נפגשת עם היעד הכי מסוכן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a24aeab302c410c8a91832142ddc7f0/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3vx17jka/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השתולה מצטרפת למשט לעזה של ארגוני זכויות האדם, ובדרך נפגשת עם אמין אבו ראשיד, ראש חמאס ברוטרדם שלו חשבון ארוך עם ישראל. המפעילים שלה דורשים ממנה שלא להישאר איתו לבד - אבל היא לא מתכוונת לוותר בקלות | שתולה, הפרק הרביעי בסדרת הדוקו עוצרת הנשימה של צבי יחזקאלי, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3vx17jka===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שתולה, פרק 3: הטעות הגורלית של הסוכנת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1502cab7d8744698640aedd6ecd2f72/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_brnbxrz3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לפני ההישג הכי גדול שלה, הסוכנת עושה טעות שעלולה לעלות לה ביוקר. מה בדיוק קרה שם ואיך נראה המפגש שלה עם זאהר ביראווי, מי שהוגדר כ\"ראש מפקדת חמאס באירופה\"? | שתולה, הפרק השלישי בסדרת הדוקו עוצרת הנשימה של צבי יחזקאלי, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_brnbxrz3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שתולה, פרק 2: האם המרגלת שלנו היא סוכנת כפולה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a115ae1ae117497ba2e09cd6a48b19dd/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p3c13iig/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי שכמעט נתפסה על ידי אנשי הארגון שאליו הסתננה, השתולה ממשיכה במסעה לחשיפת האמת - אלא שמשהו שקורה בדרך מאיים לשבש את הכול ומעלה את החשד שהיא בכלל עובדת עבור הצד השני. האמנם?",
+       "page": "",
+       "id": "--kaltura--1_p3c13iig===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שתולה, פרק 1: הכירו את השתולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/23c177efb0a64570a4e4caab0fc4b365/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tbsf75zv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך הפכה צעירה מסקנדינביה למרגלת קרת רוח בשירות סוכנות ביון ישראלית? סיפורה המדהים של השתולה שסיכנה את חייה כדי להגיע עד לראשי החמאס באירופה; האם היא הלכה רחוק מדי?",
+       "page": "",
+       "id": "--kaltura--1_tbsf75zv===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

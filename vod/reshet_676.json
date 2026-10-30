@@ -1,0 +1,121 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - טרנד טיים",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "676",
+   "series_id": "676",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa8e72dba4f941c1a4039322068442d8/version/1/width/800/height/1200/quality/90",
+   "plot": "תוכנית קלילה ומלאת סטייל שבה המשפיעניות יעל כרמון ואורטל בניסטי מפרקות את כל הטרנדים הכי חמים מהרשתות החברתיות – ובודקות מה באמת עובד ומה רק נראה טוב בפיד",
+   "updated": "2026-10-31 00:05",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "טרנד טיים - פרק 12 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c21b2704734840e89d8aa62a28c4b1da/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bjsotx40/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_bjsotx40===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 11 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/239292e8f64546bda5287969a2bb8294/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wtnxy7jb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_wtnxy7jb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b28869ce50941cfa2e20722239ac07e/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ne2s8dgy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ne2s8dgy===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbbe8dcc6af74bfe8ecd737f88cbdb89/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nshle71b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_nshle71b===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/00cf13b2c2eb416eb5cbaa5652e81ef0/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fien9jtb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_fien9jtb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e01fbcdb8464ed19831fe8c813d4a2b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6asxop8v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_6asxop8v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d566a560412040beae58d5f39489e83f/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h3ko5zpf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_h3ko5zpf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93f4ac3c052b48a787ff7ada7fd88bcc/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x72atirx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_x72atirx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7bda5cd920bf4b52be0ab0f0c31a66b9/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zkk8ixs1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_zkk8ixs1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "טרנד טיים - פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd7b16d40d154e0b984964d8ce13c537/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ibejv6c6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ibejv6c6===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

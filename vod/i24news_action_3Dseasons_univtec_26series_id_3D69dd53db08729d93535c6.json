@@ -1,0 +1,1956 @@
+{
+ "categories": [
+  {
+   "name": "i24news - 7 שרון גל",
+   "type": "vod",
+   "source": "i24news",
+   "program_url": "action%3Dseasons_univtec%26series_id%3D69dd53db08729d93535c6f66%26show_name%3D7%2B%25D7%25A9%25D7%25A8%25D7%2595%25D7%259F%2B%25D7%2592%25D7%259C",
+   "series_id": "action_3Dseasons_univtec_26series_id_3D69dd53db08729d93535c6",
+   "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/b99fcb26-67c9-44f9-a7b4-f1f1ae30e5c6.jpeg",
+   "plot": "שרון גל – החדשות, הדעות והאנשים שמעצבים את המציאות. ישיר, חד וללא פילטרים – כל ערב בשבע.",
+   "updated": "2026-10-31 00:07",
+   "sub_categories": [
+    {
+     "name": "אוקטובר 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל 29-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70433741426.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fbe43d5e-933b-4681-b0b7-78f7f923c12b/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fbe43d5e-933b-4681-b0b7-78f7f923c12b/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 28-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70426944318.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d8d5f59b-e3a5-4227-b5ed-91215c588f84/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d8d5f59b-e3a5-4227-b5ed-91215c588f84/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 25-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70314097514.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8582a482-db31-4b35-a86e-b61de91aa147/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8582a482-db31-4b35-a86e-b61de91aa147/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 22-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70183615034.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/13f0041f-1023-4878-971f-30d77f64146e/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/13f0041f-1023-4878-971f-30d77f64146e/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 21-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70150466103.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/12738b09-6c01-430c-8eb6-26216264d510/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/12738b09-6c01-430c-8eb6-26216264d510/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 20-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70116215317.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/372f808e-1051-4a84-94f7-3bc7452beb5a/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/372f808e-1051-4a84-94f7-3bc7452beb5a/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 19-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70081633857.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/19ae49e2-b5c4-4413-8180-666dc2fdb0a0/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/19ae49e2-b5c4-4413-8180-666dc2fdb0a0/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 18-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70064705978.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f72caa54-bed7-4527-8cbf-6cd6fc568abf/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f72caa54-bed7-4527-8cbf-6cd6fc568abf/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "שרון גל 7 18-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70048114756.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e6b4322d-0015-447f-bb0c-9696108658bd/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e6b4322d-0015-447f-bb0c-9696108658bd/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 15-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69938844144.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5d58117e-204c-47f7-8f5f-10e6814baf93/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5d58117e-204c-47f7-8f5f-10e6814baf93/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 14-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69905094052.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/260cf90e-a8b6-4761-87dd-3f0ae227ec38/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/260cf90e-a8b6-4761-87dd-3f0ae227ec38/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 13-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69870527199.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7c505076-8880-4099-a090-c3650d3f5a87/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7c505076-8880-4099-a090-c3650d3f5a87/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 12-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69833996581.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e7963960-9cc6-4670-a51c-1764f5d7aa88/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e7963960-9cc6-4670-a51c-1764f5d7aa88/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל  11-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69799972253.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2ecdd4f7-6b2e-41f3-bd20-2a5114f13e16/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2ecdd4f7-6b2e-41f3-bd20-2a5114f13e16/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 08-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69696922662.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1e1924b7-b381-4427-9cfe-bca5a1063266/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1e1924b7-b381-4427-9cfe-bca5a1063266/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 07-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69658957748.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cddabed0-9a36-485e-aaf3-e339a982bfa3/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cddabed0-9a36-485e-aaf3-e339a982bfa3/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 06-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69624219177.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/70f015a6-b2f4-4150-bead-645af560bd52/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/70f015a6-b2f4-4150-bead-645af560bd52/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל, 05.10.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69589757635.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/71b8027d-bf7b-4874-b46d-fd5fdc001b81/hls/master.m3u8",
+       "date": "2026-10-05",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/71b8027d-bf7b-4874-b46d-fd5fdc001b81/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
+      {
+       "name": "7 שרון גל 04-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69557739657.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/46698831-7c5a-4b3b-a496-6e35501f1338/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/46698831-7c5a-4b3b-a496-6e35501f1338/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      }
+     ]
+    },
+    {
+     "name": "ספטמבר 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל 30-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69418180167.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/009391cb-de4d-4b0c-8580-e90bd067db05/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/009391cb-de4d-4b0c-8580-e90bd067db05/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 29-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69383981696.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c1ef33aa-ada6-4b4f-8314-ac566c413884/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c1ef33aa-ada6-4b4f-8314-ac566c413884/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 28-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69352070943.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c3290bdd-4984-48ba-a327-d229ff28a1b2/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c3290bdd-4984-48ba-a327-d229ff28a1b2/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 27-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69316303667.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f385c872-75c8-4d90-9ee4-70db7bf927c1/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f385c872-75c8-4d90-9ee4-70db7bf927c1/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 23-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69182082085.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8e936abb-be16-4339-9214-17a5c13c7ff6/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8e936abb-be16-4339-9214-17a5c13c7ff6/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל22-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69145952208.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5b2a9da2-01dc-475c-b754-737d318dc7c5/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5b2a9da2-01dc-475c-b754-737d318dc7c5/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7  שרון גל 17-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68994653483.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e58b2a75-8154-47a1-b372-77907b9df174/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e58b2a75-8154-47a1-b372-77907b9df174/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל, 16.09.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68936922792.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b87d10fa-afbe-4a20-b5b1-ffa0ab0e9f94/hls/master.m3u8",
+       "date": "2026-09-16",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b87d10fa-afbe-4a20-b5b1-ffa0ab0e9f94/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל, 15.09.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68903626025.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/959e639e-9c57-49aa-8e06-1c95e59a7460/hls/master.m3u8",
+       "date": "2026-09-15",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/959e639e-9c57-49aa-8e06-1c95e59a7460/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 14-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68870668521.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cf03a74a-27eb-4ddc-9a6b-74947e3bdc4a/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cf03a74a-27eb-4ddc-9a6b-74947e3bdc4a/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 10-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68740781477.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ff2a67ba-21b9-425e-aad1-ba9652235fbd/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ff2a67ba-21b9-425e-aad1-ba9652235fbd/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 09-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68723048919.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/029fcc3c-330a-438c-a990-c4bcbcbc2aac/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/029fcc3c-330a-438c-a990-c4bcbcbc2aac/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל, 08.09.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68670896931.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8b73e895-fbce-422e-bd27-59064085f382/hls/master.m3u8",
+       "date": "2026-09-08",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8b73e895-fbce-422e-bd27-59064085f382/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 07-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68640130497.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/33c1dc66-f7ed-42d6-80e8-a02222f50a63/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/33c1dc66-f7ed-42d6-80e8-a02222f50a63/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל, 06.09.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68603499679.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/75e2ff2c-2608-4a6e-850a-957cf29d1aa5/hls/master.m3u8",
+       "date": "2026-09-06",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/75e2ff2c-2608-4a6e-850a-957cf29d1aa5/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 03-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68508359777.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1c639126-0070-464b-a1f0-beef16651235/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1c639126-0070-464b-a1f0-beef16651235/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל  02-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68476295772.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fe3880ea-0188-44a5-8bbc-fd3ff9601a2d/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fe3880ea-0188-44a5-8bbc-fd3ff9601a2d/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      },
+      {
+       "name": "7 שרון גל 01-09-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68447046295.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b6318d51-8cde-466b-a15e-0b3685817429/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b6318d51-8cde-466b-a15e-0b3685817429/hls/master.m3u8",
+       "season": "ספטמבר 2026"
+      }
+     ]
+    },
+    {
+     "name": "אוגוסט 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל, 31.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68409766924.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/180c892a-7ec8-41a1-90a2-99bd254ed7b8/hls/master.m3u8",
+       "date": "2026-08-31",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/180c892a-7ec8-41a1-90a2-99bd254ed7b8/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל, 30.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68377621333.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c34682b5-e299-4a06-a928-c0452b0ddc8e/hls/master.m3u8",
+       "date": "2026-08-30",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c34682b5-e299-4a06-a928-c0452b0ddc8e/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל 26-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68267556382.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/eea1d896-115b-4135-a153-c57634a68646/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/eea1d896-115b-4135-a153-c57634a68646/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל, 25.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68214425397.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bf8356da-1a12-4bf5-92d5-4a027b4b9650/hls/master.m3u8",
+       "date": "2026-08-25",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bf8356da-1a12-4bf5-92d5-4a027b4b9650/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל 24-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68182965243.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/53c10fb6-7b21-4d06-beac-9f757193ba65/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/53c10fb6-7b21-4d06-beac-9f757193ba65/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל 23-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68153132192.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/32dea277-f72e-4374-aa0d-74d16dd2d9df/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/32dea277-f72e-4374-aa0d-74d16dd2d9df/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל20-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68055654923.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ed382f69-dc6e-44a2-9ae7-198598f1b7f3/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ed382f69-dc6e-44a2-9ae7-198598f1b7f3/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל 19-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68025481107.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9b22b516-231e-4524-9c4b-fae6b1b637de/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9b22b516-231e-4524-9c4b-fae6b1b637de/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל, 18.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67992058889.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9d56eaee-6623-4b9e-8ba3-5c4976ba8161/hls/master.m3u8",
+       "date": "2026-08-18",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9d56eaee-6623-4b9e-8ba3-5c4976ba8161/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל 17-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67962674984.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/091ada3e-9048-49df-b188-5c8593ce2d58/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/091ada3e-9048-49df-b188-5c8593ce2d58/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל, 16.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67928907879.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/eb8aad71-5e92-484e-a1b8-85fdcc51c74a/hls/master.m3u8",
+       "date": "2026-08-16",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/eb8aad71-5e92-484e-a1b8-85fdcc51c74a/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל  13-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67835995359.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2d42d60c-8a26-41ad-a28e-89d7cad31973/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2d42d60c-8a26-41ad-a28e-89d7cad31973/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל  12-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67802841902.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/29b2da90-d38b-4ded-8790-b31fdefdb07d/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/29b2da90-d38b-4ded-8790-b31fdefdb07d/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל  11-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67770810953.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e2b06a01-1108-415d-bc3f-0177c8e5f0af/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e2b06a01-1108-415d-bc3f-0177c8e5f0af/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל 10-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67742238308.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b5adca69-1d30-4765-88ee-783908df54f6/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b5adca69-1d30-4765-88ee-783908df54f6/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל, 09.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67707806441.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b45cafd9-f5ce-4ee2-86fa-63a67b792b3f/hls/master.m3u8",
+       "date": "2026-08-09",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b45cafd9-f5ce-4ee2-86fa-63a67b792b3f/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל 04-08-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67551299103.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8d64b242-c29a-4d10-b26b-2c2d00705919/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8d64b242-c29a-4d10-b26b-2c2d00705919/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל, 03.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67519917555.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e6380f74-4068-4ee0-9fd3-0afc9a53e2ea/hls/master.m3u8",
+       "date": "2026-08-03",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e6380f74-4068-4ee0-9fd3-0afc9a53e2ea/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      },
+      {
+       "name": "7 שרון גל, 02.08.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67485784649.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/db84d06c-4142-4e9b-8747-a75f0dbcf3aa/hls/master.m3u8",
+       "date": "2026-08-02",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/db84d06c-4142-4e9b-8747-a75f0dbcf3aa/hls/master.m3u8",
+       "season": "אוגוסט 2026"
+      }
+     ]
+    },
+    {
+     "name": "יולי 2026",
+     "channels": [
+      {
+       "name": "7 נדב אלימלך 30-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67391871213.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6c48e6b1-ba56-448a-abd0-4a6f53408a39/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6c48e6b1-ba56-448a-abd0-4a6f53408a39/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל 29-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67359886704.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/06738f29-b4ae-4928-9ebf-03700747c507/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/06738f29-b4ae-4928-9ebf-03700747c507/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל, 28.07.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67325011899.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8bbe4e63-fdf2-4730-8e7c-5092ffea43f8/hls/master.m3u8",
+       "date": "2026-07-28",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8bbe4e63-fdf2-4730-8e7c-5092ffea43f8/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל, 26.07.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67260542735.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a692be59-3a6f-477c-b2d7-aa1878124766/hls/master.m3u8",
+       "date": "2026-07-26",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a692be59-3a6f-477c-b2d7-aa1878124766/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל 23-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67164205746.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/38358dc3-e7d9-456c-b973-6f8a9d83a950/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/38358dc3-e7d9-456c-b973-6f8a9d83a950/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "שרון 7 22-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67132031314.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/74873d9a-79cb-48a5-802e-2a65105639e9/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/74873d9a-79cb-48a5-802e-2a65105639e9/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל, 21.07.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67096987602.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/afe1dc11-eb73-4b09-9432-d32fe765d097/hls/master.m3u8",
+       "date": "2026-07-21",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/afe1dc11-eb73-4b09-9432-d32fe765d097/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל 20-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67066184799.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5799d50e-36a3-434e-964b-0d0d6828900c/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5799d50e-36a3-434e-964b-0d0d6828900c/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל, 19.07",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67032063573.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7a391b4e-623d-47de-bf3c-dafed15c3e38/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7a391b4e-623d-47de-bf3c-dafed15c3e38/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל 16-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66937299420.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7c42513b-029c-47d8-8b87-89cd465af630/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7c42513b-029c-47d8-8b87-89cd465af630/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל 15-0-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66903153723.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/efd65888-725c-4279-b69d-9aa611279256/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/efd65888-725c-4279-b69d-9aa611279256/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל 14-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66871444122.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f0e44d27-140b-40f7-8437-df9dcc2e0c34/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f0e44d27-140b-40f7-8437-df9dcc2e0c34/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל, 13.07.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66842461466.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9134bfe1-c0be-4e02-aec9-3241d25122c5/hls/master.m3u8",
+       "date": "2026-07-13",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9134bfe1-c0be-4e02-aec9-3241d25122c5/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל, 12.07.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66808673488.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7ba34340-8a95-45bc-a16f-9e359142ca80/hls/master.m3u8",
+       "date": "2026-07-12",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7ba34340-8a95-45bc-a16f-9e359142ca80/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל  09-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66713215926.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/be27c00c-3c31-4904-a56d-008960650a86/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/be27c00c-3c31-4904-a56d-008960650a86/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל 08-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66681966670.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/30bc9731-717b-4c79-80e2-e35533b02042/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/30bc9731-717b-4c79-80e2-e35533b02042/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל, 07.07.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66651343935.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/584c412d-08ad-4a15-9bf7-1ee749007b0e/hls/master.m3u8",
+       "date": "2026-07-07",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/584c412d-08ad-4a15-9bf7-1ee749007b0e/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל  06-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66617575933.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ab29bdba-e2a8-4845-9e81-142e11fe5608/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ab29bdba-e2a8-4845-9e81-142e11fe5608/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 שרון גל, 05.07.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66585903814.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a669aad5-8322-43d0-b6f3-235042a126d8/hls/master.m3u8",
+       "date": "2026-07-05",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a669aad5-8322-43d0-b6f3-235042a126d8/hls/master.m3u8",
+       "season": "יולי 2026"
+      },
+      {
+       "name": "7 נדב אלימלך 01-07-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66481486913.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/304ed372-ba24-46d4-bfb3-67d291635170/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/304ed372-ba24-46d4-bfb3-67d291635170/hls/master.m3u8",
+       "season": "יולי 2026"
+      }
+     ]
+    },
+    {
+     "name": "יוני 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל 30-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66432708283.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/01d6e6f7-4f53-40d9-a3d1-28c3065e1a6f/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/01d6e6f7-4f53-40d9-a3d1-28c3065e1a6f/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 29-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66419585025.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/974ea7bb-227e-4516-93e9-8be294a7285f/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/974ea7bb-227e-4516-93e9-8be294a7285f/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 28.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66366996577.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/37979ea8-1efb-4e60-ad88-002d2ea99fbd/hls/master.m3u8",
+       "date": "2026-06-28",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/37979ea8-1efb-4e60-ad88-002d2ea99fbd/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "25-06-26 7 נדב אלימלך",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66273470455.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0507e8cf-d781-48aa-9940-053b9f5fbb48/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0507e8cf-d781-48aa-9940-053b9f5fbb48/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 23-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66261770264.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a0348e42-e127-4a6d-9f33-d1a0b3ac4028/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a0348e42-e127-4a6d-9f33-d1a0b3ac4028/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 24-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66244363359.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c5cf8df5-e674-4347-b373-f6d9d28dfaf8/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c5cf8df5-e674-4347-b373-f6d9d28dfaf8/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 22-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66178174490.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/54e4585d-ddb8-45bf-b80c-6d5522ef1b31/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/54e4585d-ddb8-45bf-b80c-6d5522ef1b31/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 21.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66146749859.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c2a8a7c8-2bae-4c48-b8da-00b30331eec4/hls/master.m3u8",
+       "date": "2026-06-21",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/c2a8a7c8-2bae-4c48-b8da-00b30331eec4/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 18-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66054162635.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8ee6a525-8698-47d5-a017-7c8008509a40/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8ee6a525-8698-47d5-a017-7c8008509a40/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 17-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66021535862.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/21ca15a2-3329-4de8-bffa-d1d4b70486c2/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/21ca15a2-3329-4de8-bffa-d1d4b70486c2/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 16.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_65995084400.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/20e59d70-edb0-44b9-a815-9552ec83ca13/hls/master.m3u8",
+       "date": "2026-06-16",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/20e59d70-edb0-44b9-a815-9552ec83ca13/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 15-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_65961898024.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bb4ecda2-1cc9-4fbc-9ead-8685392eac73/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bb4ecda2-1cc9-4fbc-9ead-8685392eac73/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 14.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_65929454941.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/250d75d8-2bee-4786-a2a3-5e4bd15dea14/hls/master.m3u8",
+       "date": "2026-06-14",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/250d75d8-2bee-4786-a2a3-5e4bd15dea14/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 11-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_65840372833.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f0330368-5cea-4cb4-bcc2-6fe995cdbd68/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f0330368-5cea-4cb4-bcc2-6fe995cdbd68/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל 10-06-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_65807363061.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/316e7d56-ac52-4e93-bea5-7aec46e3c3c2/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/316e7d56-ac52-4e93-bea5-7aec46e3c3c2/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 09.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_65777118751.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/61cc3417-27ff-44dc-b0d6-25844f21d382/hls/master.m3u8",
+       "date": "2026-06-09",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/61cc3417-27ff-44dc-b0d6-25844f21d382/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 07.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/f5cf2de6-f2ef-4a1b-b4c4-845e40baf09d/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f5cf2de6-f2ef-4a1b-b4c4-845e40baf09d/hls/master.m3u8",
+       "date": "2026-06-07",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f5cf2de6-f2ef-4a1b-b4c4-845e40baf09d/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 04.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4955cc28-9f19-464c-8cbf-6ca67bab606c/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4955cc28-9f19-464c-8cbf-6ca67bab606c/hls/master.m3u8",
+       "date": "2026-06-04",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4955cc28-9f19-464c-8cbf-6ca67bab606c/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 03.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4fed8525-e779-4f26-8220-c3a59a2a666e/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4fed8525-e779-4f26-8220-c3a59a2a666e/hls/master.m3u8",
+       "date": "2026-06-03",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4fed8525-e779-4f26-8220-c3a59a2a666e/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 02.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/bdaf6886-e448-44d3-b187-162256cc9a30/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bdaf6886-e448-44d3-b187-162256cc9a30/hls/master.m3u8",
+       "date": "2026-06-02",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bdaf6886-e448-44d3-b187-162256cc9a30/hls/master.m3u8",
+       "season": "יוני 2026"
+      },
+      {
+       "name": "7 שרון גל, 01.06.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/e27e79d5-02f6-4b7b-a095-83913d18dca6/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e27e79d5-02f6-4b7b-a095-83913d18dca6/hls/master.m3u8",
+       "date": "2026-06-01",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e27e79d5-02f6-4b7b-a095-83913d18dca6/hls/master.m3u8",
+       "season": "יוני 2026"
+      }
+     ]
+    },
+    {
+     "name": "מאי 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל, 31.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4446df93-1a14-495f-a5b9-220ac71d093d/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4446df93-1a14-495f-a5b9-220ac71d093d/hls/master.m3u8",
+       "date": "2026-05-31",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4446df93-1a14-495f-a5b9-220ac71d093d/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 28.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/407c4c68-b0f6-4cf9-8906-f7ad8f6fce1f/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/407c4c68-b0f6-4cf9-8906-f7ad8f6fce1f/hls/master.m3u8",
+       "date": "2026-05-28",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/407c4c68-b0f6-4cf9-8906-f7ad8f6fce1f/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 27.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/e1f34a83-5922-4190-882e-88414a3208bb/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e1f34a83-5922-4190-882e-88414a3208bb/hls/master.m3u8",
+       "date": "2026-05-27",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e1f34a83-5922-4190-882e-88414a3208bb/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 26.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/2329b60b-64b9-4eab-846a-4e0de2a6c343/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2329b60b-64b9-4eab-846a-4e0de2a6c343/hls/master.m3u8",
+       "date": "2026-05-26",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/2329b60b-64b9-4eab-846a-4e0de2a6c343/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל,25.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/563d2ec0-26d5-4716-b43e-fc887da5c446/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/563d2ec0-26d5-4716-b43e-fc887da5c446/hls/master.m3u8",
+       "date": "2026-05-25",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/563d2ec0-26d5-4716-b43e-fc887da5c446/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 24.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/fd26a78b-b899-45e0-b8e0-76625e0ee2f9/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fd26a78b-b899-45e0-b8e0-76625e0ee2f9/hls/master.m3u8",
+       "date": "2026-05-24",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fd26a78b-b899-45e0-b8e0-76625e0ee2f9/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 20.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/42df2636-4f10-4c25-a651-b1211901a152/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/42df2636-4f10-4c25-a651-b1211901a152/hls/master.m3u8",
+       "date": "2026-05-20",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/42df2636-4f10-4c25-a651-b1211901a152/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 19.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/190ca9cc-026b-4bc6-b27f-a9e1cfe45dc5/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/190ca9cc-026b-4bc6-b27f-a9e1cfe45dc5/hls/master.m3u8",
+       "date": "2026-05-19",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/190ca9cc-026b-4bc6-b27f-a9e1cfe45dc5/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 18.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/34cf7ded-fb94-4993-b18d-f21240dbc915/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/34cf7ded-fb94-4993-b18d-f21240dbc915/hls/master.m3u8",
+       "date": "2026-05-18",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/34cf7ded-fb94-4993-b18d-f21240dbc915/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 17.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/0adfe4ae-7524-4e45-a11d-2dd5814454f6/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0adfe4ae-7524-4e45-a11d-2dd5814454f6/hls/master.m3u8",
+       "date": "2026-05-17",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0adfe4ae-7524-4e45-a11d-2dd5814454f6/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 14.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/47c06773-8e21-4fe2-b79c-dcc57ca9d30e/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/47c06773-8e21-4fe2-b79c-dcc57ca9d30e/hls/master.m3u8",
+       "date": "2026-05-14",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/47c06773-8e21-4fe2-b79c-dcc57ca9d30e/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 13.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/df635154-46de-4766-90d9-abd79b5012fc/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/df635154-46de-4766-90d9-abd79b5012fc/hls/master.m3u8",
+       "date": "2026-05-13",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/df635154-46de-4766-90d9-abd79b5012fc/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 10.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/f0ead125-f694-4e62-91ea-c379a2176e34/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f0ead125-f694-4e62-91ea-c379a2176e34/hls/master.m3u8",
+       "date": "2026-05-10",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f0ead125-f694-4e62-91ea-c379a2176e34/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 10.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/9d0d26df-78de-4352-9dc8-088ff0332e05/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9d0d26df-78de-4352-9dc8-088ff0332e05/hls/master.m3u8",
+       "date": "2026-05-10",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9d0d26df-78de-4352-9dc8-088ff0332e05/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 07.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/d14979b2-7b5b-4adf-99b3-0ea11f3e4dee/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d14979b2-7b5b-4adf-99b3-0ea11f3e4dee/hls/master.m3u8",
+       "date": "2026-05-07",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d14979b2-7b5b-4adf-99b3-0ea11f3e4dee/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 06.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/f3fd084e-bdae-4f2f-bc82-df46dab840b4/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f3fd084e-bdae-4f2f-bc82-df46dab840b4/hls/master.m3u8",
+       "date": "2026-05-06",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f3fd084e-bdae-4f2f-bc82-df46dab840b4/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 05.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/e9c74dd8-4554-4d70-828e-c67042b97690/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e9c74dd8-4554-4d70-828e-c67042b97690/hls/master.m3u8",
+       "date": "2026-05-05",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e9c74dd8-4554-4d70-828e-c67042b97690/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 04.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/f3171ae1-687c-46af-b651-e243dd6aad7a/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f3171ae1-687c-46af-b651-e243dd6aad7a/hls/master.m3u8",
+       "date": "2026-05-04",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f3171ae1-687c-46af-b651-e243dd6aad7a/hls/master.m3u8",
+       "season": "מאי 2026"
+      },
+      {
+       "name": "7 שרון גל, 03.05.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/0bf31e1a-9cc8-407c-a816-6123e9410a84/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0bf31e1a-9cc8-407c-a816-6123e9410a84/hls/master.m3u8",
+       "date": "2026-05-03",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0bf31e1a-9cc8-407c-a816-6123e9410a84/hls/master.m3u8",
+       "season": "מאי 2026"
+      }
+     ]
+    },
+    {
+     "name": "אפריל 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל, 30.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/0a8efd63-77e5-41c8-a422-c9ac38cb2db9/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0a8efd63-77e5-41c8-a422-c9ac38cb2db9/hls/master.m3u8",
+       "date": "2026-04-30",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0a8efd63-77e5-41c8-a422-c9ac38cb2db9/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 29.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/44ad5ea7-c4c3-44b2-91c9-cfac775dc6bb/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/44ad5ea7-c4c3-44b2-91c9-cfac775dc6bb/hls/master.m3u8",
+       "date": "2026-04-29",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/44ad5ea7-c4c3-44b2-91c9-cfac775dc6bb/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 28.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/508a31d3-8b56-4746-922c-611bc19da946/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/508a31d3-8b56-4746-922c-611bc19da946/hls/master.m3u8",
+       "date": "2026-04-28",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/508a31d3-8b56-4746-922c-611bc19da946/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 27.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4d14ece6-9e9f-45d3-abf2-1488cf4b4854/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4d14ece6-9e9f-45d3-abf2-1488cf4b4854/hls/master.m3u8",
+       "date": "2026-04-27",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4d14ece6-9e9f-45d3-abf2-1488cf4b4854/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 26.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/ea774c45-91f8-47c9-947f-9968e041389b/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ea774c45-91f8-47c9-947f-9968e041389b/hls/master.m3u8",
+       "date": "2026-04-26",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ea774c45-91f8-47c9-947f-9968e041389b/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 23.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/edfad76c-41a9-434f-b659-5425a8da927f/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/edfad76c-41a9-434f-b659-5425a8da927f/hls/master.m3u8",
+       "date": "2026-04-23",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/edfad76c-41a9-434f-b659-5425a8da927f/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 19.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/3e4de57d-94cd-4b5c-8026-82cc7bedc685/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/3e4de57d-94cd-4b5c-8026-82cc7bedc685/hls/master.m3u8",
+       "date": "2026-04-19",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/3e4de57d-94cd-4b5c-8026-82cc7bedc685/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 15.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4b9675bc-65f8-4bb8-aa0d-1fba89d83848/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4b9675bc-65f8-4bb8-aa0d-1fba89d83848/hls/master.m3u8",
+       "date": "2026-04-15",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4b9675bc-65f8-4bb8-aa0d-1fba89d83848/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 14.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/cbafea15-33e6-41a5-a441-a44b6fa83887/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cbafea15-33e6-41a5-a441-a44b6fa83887/hls/master.m3u8",
+       "date": "2026-04-14",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/cbafea15-33e6-41a5-a441-a44b6fa83887/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 12.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/bc31a0bb-1cba-4612-80d6-559f0df40d67/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bc31a0bb-1cba-4612-80d6-559f0df40d67/hls/master.m3u8",
+       "date": "2026-04-12",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bc31a0bb-1cba-4612-80d6-559f0df40d67/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 09.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/35959adf-4bb8-4af3-960b-0734b37a09e0/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/35959adf-4bb8-4af3-960b-0734b37a09e0/hls/master.m3u8",
+       "date": "2026-04-09",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/35959adf-4bb8-4af3-960b-0734b37a09e0/hls/master.m3u8",
+       "season": "אפריל 2026"
+      },
+      {
+       "name": "7 שרון גל, 05.04.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4b4723c6-39c3-42df-addf-63a440438c03/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4b4723c6-39c3-42df-addf-63a440438c03/hls/master.m3u8",
+       "date": "2026-04-05",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4b4723c6-39c3-42df-addf-63a440438c03/hls/master.m3u8",
+       "season": "אפריל 2026"
+      }
+     ]
+    },
+    {
+     "name": "מרץ 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל, 31.3.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/b19fdbe2-a188-44fc-8607-3d265015e315/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b19fdbe2-a188-44fc-8607-3d265015e315/hls/master.m3u8",
+       "date": "2026-03-31",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b19fdbe2-a188-44fc-8607-3d265015e315/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 30.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/f0297eda-5b8e-4806-ade7-02cd1e3e59ca/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f0297eda-5b8e-4806-ade7-02cd1e3e59ca/hls/master.m3u8",
+       "date": "2026-03-30",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f0297eda-5b8e-4806-ade7-02cd1e3e59ca/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 29.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/ae5b61f0-6df2-4c0f-afb1-f0cabb1d27b0/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ae5b61f0-6df2-4c0f-afb1-f0cabb1d27b0/hls/master.m3u8",
+       "date": "2026-03-29",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ae5b61f0-6df2-4c0f-afb1-f0cabb1d27b0/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 26.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4ecd7b97-b114-4aa1-a6e9-c8afddc24e0b/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4ecd7b97-b114-4aa1-a6e9-c8afddc24e0b/hls/master.m3u8",
+       "date": "2026-03-26",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4ecd7b97-b114-4aa1-a6e9-c8afddc24e0b/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 24.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/9a2de9eb-73c4-4015-ad01-59d18f414a41/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9a2de9eb-73c4-4015-ad01-59d18f414a41/hls/master.m3u8",
+       "date": "2026-03-24",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9a2de9eb-73c4-4015-ad01-59d18f414a41/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל,23.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/43b7bcb5-405a-4c88-8fb7-d365a6afa929/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/43b7bcb5-405a-4c88-8fb7-d365a6afa929/hls/master.m3u8",
+       "date": "2026-03-23",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/43b7bcb5-405a-4c88-8fb7-d365a6afa929/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 22.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/20bcd5f4-8ced-49a9-8919-97bba46182d4/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/20bcd5f4-8ced-49a9-8919-97bba46182d4/hls/master.m3u8",
+       "date": "2026-03-22",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/20bcd5f4-8ced-49a9-8919-97bba46182d4/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל,19.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/218ac251-ace5-4141-b047-cec09a6cfe8f/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/218ac251-ace5-4141-b047-cec09a6cfe8f/hls/master.m3u8",
+       "date": "2026-03-19",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/218ac251-ace5-4141-b047-cec09a6cfe8f/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 18.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/7d06ce8a-4c2c-4393-aaa9-ed630c2c424f/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7d06ce8a-4c2c-4393-aaa9-ed630c2c424f/hls/master.m3u8",
+       "date": "2026-03-18",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7d06ce8a-4c2c-4393-aaa9-ed630c2c424f/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 17.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/b0baae19-fe1a-44b0-ab31-fd0d46c00e1b/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b0baae19-fe1a-44b0-ab31-fd0d46c00e1b/hls/master.m3u8",
+       "date": "2026-03-17",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/b0baae19-fe1a-44b0-ab31-fd0d46c00e1b/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 15.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/64adb550-4b92-4cf1-9f11-253febcee8b3/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/64adb550-4b92-4cf1-9f11-253febcee8b3/hls/master.m3u8",
+       "date": "2026-03-15",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/64adb550-4b92-4cf1-9f11-253febcee8b3/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 16.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/6177741a-f5db-4480-b6a1-2dbc0b5e4154/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6177741a-f5db-4480-b6a1-2dbc0b5e4154/hls/master.m3u8",
+       "date": "2026-03-16",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6177741a-f5db-4480-b6a1-2dbc0b5e4154/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 15.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/bc96e06a-c226-4013-b6b4-4c83344d9780/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bc96e06a-c226-4013-b6b4-4c83344d9780/hls/master.m3u8",
+       "date": "2026-03-15",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bc96e06a-c226-4013-b6b4-4c83344d9780/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל ,12.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/6a4d4134-c53a-469b-9859-3e7bc8e6cc76/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6a4d4134-c53a-469b-9859-3e7bc8e6cc76/hls/master.m3u8",
+       "date": "2026-03-12",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6a4d4134-c53a-469b-9859-3e7bc8e6cc76/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 11.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/0eb219ab-dc48-4a52-95a0-32dc95b667b8/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0eb219ab-dc48-4a52-95a0-32dc95b667b8/hls/master.m3u8",
+       "date": "2026-03-11",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0eb219ab-dc48-4a52-95a0-32dc95b667b8/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 10.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/61667f97-1dec-489e-867d-81e8e90d3cb3/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/61667f97-1dec-489e-867d-81e8e90d3cb3/hls/master.m3u8",
+       "date": "2026-03-10",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/61667f97-1dec-489e-867d-81e8e90d3cb3/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 09.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/a11920f3-ea2c-41e3-be5a-1e33d9bb5e3f/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a11920f3-ea2c-41e3-be5a-1e33d9bb5e3f/hls/master.m3u8",
+       "date": "2026-03-09",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a11920f3-ea2c-41e3-be5a-1e33d9bb5e3f/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 08.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/f4ef09a6-8b8b-4202-bc99-839f643ae818/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f4ef09a6-8b8b-4202-bc99-839f643ae818/hls/master.m3u8",
+       "date": "2026-03-08",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/f4ef09a6-8b8b-4202-bc99-839f643ae818/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 04.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/30304549-d05f-40fe-bb6b-fc3f3381210b/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/30304549-d05f-40fe-bb6b-fc3f3381210b/hls/master.m3u8",
+       "date": "2026-03-04",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/30304549-d05f-40fe-bb6b-fc3f3381210b/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 03.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/a8daf309-4d1d-4f4b-a40d-38c054e9ef25/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a8daf309-4d1d-4f4b-a40d-38c054e9ef25/hls/master.m3u8",
+       "date": "2026-03-03",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a8daf309-4d1d-4f4b-a40d-38c054e9ef25/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 03.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/8b63bbbf-d3df-47a0-8370-815a0ee8822d/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8b63bbbf-d3df-47a0-8370-815a0ee8822d/hls/master.m3u8",
+       "date": "2026-03-03",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/8b63bbbf-d3df-47a0-8370-815a0ee8822d/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 02.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/90aa1ad2-5510-4ab3-b77c-af586f363279/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/90aa1ad2-5510-4ab3-b77c-af586f363279/hls/master.m3u8",
+       "date": "2026-03-02",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/90aa1ad2-5510-4ab3-b77c-af586f363279/hls/master.m3u8",
+       "season": "מרץ 2026"
+      },
+      {
+       "name": "7 שרון גל, 01.03.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/7a9f4ba0-e8b4-48b7-bbc0-1673e97834ca/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7a9f4ba0-e8b4-48b7-bbc0-1673e97834ca/hls/master.m3u8",
+       "date": "2026-03-01",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7a9f4ba0-e8b4-48b7-bbc0-1673e97834ca/hls/master.m3u8",
+       "season": "מרץ 2026"
+      }
+     ]
+    },
+    {
+     "name": "פברואר 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל, 26.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/da2ea857-0ae7-436a-b5fe-31f5ffc4324d/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/da2ea857-0ae7-436a-b5fe-31f5ffc4324d/hls/master.m3u8",
+       "date": "2026-02-26",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/da2ea857-0ae7-436a-b5fe-31f5ffc4324d/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 24.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4e86b6fe-0dde-41ce-9a8a-2049bb948ee3/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4e86b6fe-0dde-41ce-9a8a-2049bb948ee3/hls/master.m3u8",
+       "date": "2026-02-24",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4e86b6fe-0dde-41ce-9a8a-2049bb948ee3/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 23.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/7be0d797-0bec-4fcd-a4e3-3c9e6cd6e278/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7be0d797-0bec-4fcd-a4e3-3c9e6cd6e278/hls/master.m3u8",
+       "date": "2026-02-23",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7be0d797-0bec-4fcd-a4e3-3c9e6cd6e278/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 22.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/d83a9f33-f875-4fc2-99e3-d17f3b8ad419/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d83a9f33-f875-4fc2-99e3-d17f3b8ad419/hls/master.m3u8",
+       "date": "2026-02-22",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d83a9f33-f875-4fc2-99e3-d17f3b8ad419/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 19.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/340a26a8-e7e8-4fe5-b042-99f32717665d/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/340a26a8-e7e8-4fe5-b042-99f32717665d/hls/master.m3u8",
+       "date": "2026-02-19",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/340a26a8-e7e8-4fe5-b042-99f32717665d/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 18.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/bf56a0ec-d686-4ae3-b5f8-a12d299b1b20/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bf56a0ec-d686-4ae3-b5f8-a12d299b1b20/hls/master.m3u8",
+       "date": "2026-02-18",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/bf56a0ec-d686-4ae3-b5f8-a12d299b1b20/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 17.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/6c6c61fd-3883-4393-bb6c-44137c5934a7/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6c6c61fd-3883-4393-bb6c-44137c5934a7/hls/master.m3u8",
+       "date": "2026-02-17",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/6c6c61fd-3883-4393-bb6c-44137c5934a7/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 16.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/23dd03ab-0917-4fc6-8dc3-b005271a6806/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/23dd03ab-0917-4fc6-8dc3-b005271a6806/hls/master.m3u8",
+       "date": "2026-02-16",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/23dd03ab-0917-4fc6-8dc3-b005271a6806/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 15.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/ebcebf20-74e5-47c1-9fa4-09a3257588b7/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ebcebf20-74e5-47c1-9fa4-09a3257588b7/hls/master.m3u8",
+       "date": "2026-02-15",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ebcebf20-74e5-47c1-9fa4-09a3257588b7/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 12.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/3043d295-4627-463a-b4f4-ffa39c53e697/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/3043d295-4627-463a-b4f4-ffa39c53e697/hls/master.m3u8",
+       "date": "2026-02-12",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/3043d295-4627-463a-b4f4-ffa39c53e697/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 11.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/e01edacf-0f1f-4f07-a080-4379d084e279/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e01edacf-0f1f-4f07-a080-4379d084e279/hls/master.m3u8",
+       "date": "2026-02-11",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e01edacf-0f1f-4f07-a080-4379d084e279/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 09.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/dd0840e2-9a15-40f9-81eb-8fa5b949c8f2/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/dd0840e2-9a15-40f9-81eb-8fa5b949c8f2/hls/master.m3u8",
+       "date": "2026-02-09",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/dd0840e2-9a15-40f9-81eb-8fa5b949c8f2/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 08.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/5257f635-091f-4189-a677-0c0e8cb2040c/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5257f635-091f-4189-a677-0c0e8cb2040c/hls/master.m3u8",
+       "date": "2026-02-08",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5257f635-091f-4189-a677-0c0e8cb2040c/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 05.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/773efa6d-c030-414b-8e5d-4367f39b3b0e/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/773efa6d-c030-414b-8e5d-4367f39b3b0e/hls/master.m3u8",
+       "date": "2026-02-05",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/773efa6d-c030-414b-8e5d-4367f39b3b0e/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 04.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/eae2e3ff-eee7-4a9b-9292-8bcacfd6d932/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/eae2e3ff-eee7-4a9b-9292-8bcacfd6d932/hls/master.m3u8",
+       "date": "2026-02-04",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/eae2e3ff-eee7-4a9b-9292-8bcacfd6d932/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 03.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/dccbcf61-66b6-4837-aa09-e29b2ae0e7b9/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/dccbcf61-66b6-4837-aa09-e29b2ae0e7b9/hls/master.m3u8",
+       "date": "2026-02-03",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/dccbcf61-66b6-4837-aa09-e29b2ae0e7b9/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 02.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/ab69d63c-1ae1-4554-93a9-67536740338d/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ab69d63c-1ae1-4554-93a9-67536740338d/hls/master.m3u8",
+       "date": "2026-02-02",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/ab69d63c-1ae1-4554-93a9-67536740338d/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 01.02.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/7df65ee4-026e-4006-b407-a5402d133331/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7df65ee4-026e-4006-b407-a5402d133331/hls/master.m3u8",
+       "date": "2026-02-01",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/7df65ee4-026e-4006-b407-a5402d133331/hls/master.m3u8",
+       "season": "פברואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 29.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/02b76ba9-ddb9-4391-b312-93752046842c/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/02b76ba9-ddb9-4391-b312-93752046842c/hls/master.m3u8",
+       "date": "2026-01-29",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/02b76ba9-ddb9-4391-b312-93752046842c/hls/master.m3u8",
+       "season": "פברואר 2026"
+      }
+     ]
+    },
+    {
+     "name": "ינואר 2026",
+     "channels": [
+      {
+       "name": "7 שרון גל, 28.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/982ecaf3-bd66-4f16-9a4f-0ec60c1cced3/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/982ecaf3-bd66-4f16-9a4f-0ec60c1cced3/hls/master.m3u8",
+       "date": "2026-01-28",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/982ecaf3-bd66-4f16-9a4f-0ec60c1cced3/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 27.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/af88535f-3f26-41c4-94ac-af7a357914d6/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/af88535f-3f26-41c4-94ac-af7a357914d6/hls/master.m3u8",
+       "date": "2026-01-27",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/af88535f-3f26-41c4-94ac-af7a357914d6/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 26.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/d4d25cad-a3a6-4f17-a10e-1b49ecd8e207/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d4d25cad-a3a6-4f17-a10e-1b49ecd8e207/hls/master.m3u8",
+       "date": "2026-01-26",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/d4d25cad-a3a6-4f17-a10e-1b49ecd8e207/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 25.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/e54f4f5d-e3bc-4dd0-aa0a-c8be1dc1b756/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e54f4f5d-e3bc-4dd0-aa0a-c8be1dc1b756/hls/master.m3u8",
+       "date": "2026-01-25",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e54f4f5d-e3bc-4dd0-aa0a-c8be1dc1b756/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 דניאל רוט אבנרי, 22.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/71672662-526b-452a-97d3-acea6837dd9d/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/71672662-526b-452a-97d3-acea6837dd9d/hls/master.m3u8",
+       "date": "2026-01-22",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/71672662-526b-452a-97d3-acea6837dd9d/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 21.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/a5b3d361-f0ee-4b9a-a508-949a9571a015/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a5b3d361-f0ee-4b9a-a508-949a9571a015/hls/master.m3u8",
+       "date": "2026-01-21",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/a5b3d361-f0ee-4b9a-a508-949a9571a015/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 20.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/32ff1b32-f349-411d-b8d0-6ffe7b20b02e/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/32ff1b32-f349-411d-b8d0-6ffe7b20b02e/hls/master.m3u8",
+       "date": "2026-01-20",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/32ff1b32-f349-411d-b8d0-6ffe7b20b02e/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל,19.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/23829d2c-1094-4324-8219-f37590d152bb/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/23829d2c-1094-4324-8219-f37590d152bb/hls/master.m3u8",
+       "date": "2026-01-19",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/23829d2c-1094-4324-8219-f37590d152bb/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 18.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/fe3c54dd-426a-4584-8e99-a613814a4654/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fe3c54dd-426a-4584-8e99-a613814a4654/hls/master.m3u8",
+       "date": "2026-01-18",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/fe3c54dd-426a-4584-8e99-a613814a4654/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 15.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/9bb90a06-da0c-45c1-986f-74f77aadf766/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9bb90a06-da0c-45c1-986f-74f77aadf766/hls/master.m3u8",
+       "date": "2026-01-15",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/9bb90a06-da0c-45c1-986f-74f77aadf766/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 14.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/0f371cfa-426e-4115-9147-df2d765613d7/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0f371cfa-426e-4115-9147-df2d765613d7/hls/master.m3u8",
+       "date": "2026-01-14",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/0f371cfa-426e-4115-9147-df2d765613d7/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 13.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4007ddf8-7913-4808-a078-bd4e55c011cd/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4007ddf8-7913-4808-a078-bd4e55c011cd/hls/master.m3u8",
+       "date": "2026-01-13",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4007ddf8-7913-4808-a078-bd4e55c011cd/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 12.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/28bfe5e5-c59d-4a9e-9999-c99a0c221004/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/28bfe5e5-c59d-4a9e-9999-c99a0c221004/hls/master.m3u8",
+       "date": "2026-01-12",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/28bfe5e5-c59d-4a9e-9999-c99a0c221004/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 11.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/23269fb4-923e-4a98-9692-977c2ee29498/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/23269fb4-923e-4a98-9692-977c2ee29498/hls/master.m3u8",
+       "date": "2026-01-11",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/23269fb4-923e-4a98-9692-977c2ee29498/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 08.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/5a9332bd-de51-4f79-9c7d-1bc7c68cae81/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5a9332bd-de51-4f79-9c7d-1bc7c68cae81/hls/master.m3u8",
+       "date": "2026-01-08",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/5a9332bd-de51-4f79-9c7d-1bc7c68cae81/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 07.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/4f7baf2f-fb44-4442-8a46-c6259d204f63/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4f7baf2f-fb44-4442-8a46-c6259d204f63/hls/master.m3u8",
+       "date": "2026-01-07",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/4f7baf2f-fb44-4442-8a46-c6259d204f63/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 06.01.26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/91e29c57-1ef6-424a-9a1c-3c707248bf62/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/91e29c57-1ef6-424a-9a1c-3c707248bf62/hls/master.m3u8",
+       "date": "2026-01-06",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/91e29c57-1ef6-424a-9a1c-3c707248bf62/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 05.01.25",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/77dde727-f5d4-4025-ba26-36b20b519aa8/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/77dde727-f5d4-4025-ba26-36b20b519aa8/hls/master.m3u8",
+       "date": "2025-01-05",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/77dde727-f5d4-4025-ba26-36b20b519aa8/hls/master.m3u8",
+       "season": "ינואר 2026"
+      },
+      {
+       "name": "7 שרון גל, 04.01.25",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/transcoded/39647fbd-e1ec-44b9-8227-03fa61426c36/poster.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/39647fbd-e1ec-44b9-8227-03fa61426c36/hls/master.m3u8",
+       "date": "2025-01-04",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/39647fbd-e1ec-44b9-8227-03fa61426c36/hls/master.m3u8",
+       "season": "ינואר 2026"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

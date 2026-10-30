@@ -1,0 +1,281 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - המעגל עם דן שילון",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "423",
+   "series_id": "423",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13bf02510462436db32a740f03b868b8/version/0/width/800/height/1200/quality/90",
+   "plot": "תוכנית האירוח המיתולוגית עושה קאמבק",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "תוכנית 8: המעגל המצחיק והמרגש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d41ea1dd6d84ff2b5437c7074d8e95a/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xhvblgdq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "ליא קניג, שלומי שבת, מירי בוהדנה ושלישיית מה קשור מגיעים למעגל",
+       "page": "",
+       "id": "--kaltura--1_xhvblgdq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תכנית 4: מחוזקים לעולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93391e7dbc194e7083d60f7990234376/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gypcgzj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "עומרי כספי, אברהם טל, יובל שרף ועוד נכנסים למעגל",
+       "page": "",
+       "id": "--kaltura--1_7gypcgzj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תכנית 2: שוויון בנטל והרבה מוסיקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b0833d758c534d18b12d639fac1f783f/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v4pnj771/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "יעקב פרי, יהודה משי זהב, מיכל אנסקי ואורחים נוספים במעגל.",
+       "page": "",
+       "id": "--kaltura--1_v4pnj771===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אביב גפן וארז טל במעגל של דן שילון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d61ce58205c042a7b76019a401f1346a/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_syqve25c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אביב גפן, ארז טל, אסתי גינסבורג, אלי ומריאנו ואורחים נוספים נכנסים למעגל",
+       "page": "",
+       "id": "--kaltura--1_syqve25c===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תוכנית 7: ערב של מחאות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/690e90803cb1420f89d30ecb7f1484bb/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nrk2xw3k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "עברי לידר, רבקה מיכאלי, דנה אינטרנשיונל, דפני ליף ועמיר פרץ מגיעים למעגל",
+       "page": "",
+       "id": "--kaltura--1_nrk2xw3k===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תכנית 5: מעגל כמעט מושלם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2fa31ed7a7d467e8d7a7def72e8e470/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a2pifcv5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "ניצן הורוביץ, קרן פלס, רותם אבוהב, יוסי בניון, ואורחים נוספים במעגל.",
+       "page": "",
+       "id": "--kaltura--1_a2pifcv5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "תוכנית 6: על צחוק וחרדות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c942c719fb074c308056885445877add/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zrgrl2dd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אנייה בוקשטיין, חנה לסלאו, צופית גרנט ונחמן שי מתארחים במעגל",
+       "page": "",
+       "id": "--kaltura--1_zrgrl2dd===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "המעגל, פרק 9: שרים לאריק איינשטיין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6850c3d899084751a3d8c863db235e1e/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v0r0t2q0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "ערב מיוחד במעגל לזכרו של אריק איינשטיין",
+       "page": "",
+       "id": "--kaltura--1_v0r0t2q0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 7: האמנות והפוליטיקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f3f599297634b18ab20cebc5017c4a0/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_83cmlxgz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "ציפי לבני, רינת גבאי, טל ברמן, אביעד קיסוס, ואורחים נוספים במעגל.",
+       "page": "",
+       "id": "--kaltura--1_83cmlxgz===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 8: סחרור התהילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5509e6623b0b43c1a6fb2807d34b77d4/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yfxtt5lm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אורנה בנאי, נועה ירון דיין, דביר בנדק, ואורחים נוספים במעגל",
+       "page": "",
+       "id": "--kaltura--1_yfxtt5lm===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 6: גדולים מהחיים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63267a83976d4fb3bb9c531836f136d1/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_clfmvymj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "פבלו רוזנברג, עדי הימלבלוי, לימור גולדשטיין, גיא זוארץ, רפיק חלבי ועוד!",
+       "page": "",
+       "id": "--kaltura--1_clfmvymj===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 3: השראה במעגל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6469db73d5042d591c3341eb2df9f6c/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y21dg83g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אדיר מילר, עמיר בניון, יעל בר-זוהר, לוסי אהריש ואורחים נוספים במעגל.",
+       "page": "",
+       "id": "--kaltura--1_y21dg83g===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המעגל עם משה פרץ ואילנית לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/314ed8e40b504d81a84f6701116d29bd/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sqrmj486/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "משה פרץ, אילנית לוי וסילבן שלום בשיח על אהבה ועוד!",
+       "page": "",
+       "id": "--kaltura--1_sqrmj486===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 4: מהי הצלחה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eea793ac8f06492a96225070525fb4cc/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kby3os2z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "אילנית, נמרוד הראל, שגב משה, מיכל ינאי ואורחים נוספים במעגל",
+       "page": "",
+       "id": "--kaltura--1_kby3os2z===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 2: היפים והאמיצים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9246cf3586e14f9abaa37c68c138c262/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qomc5ryd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "קרולינה, ירדן הראל, שלום אסייג, יונה אליאן ואורחים נוספים במעגל.",
+       "page": "",
+       "id": "--kaltura--1_qomc5ryd===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 5: אודישן אחד גדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c16b6dbf07744398dbf192f9645c1e9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1d50c793/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "שירי מימון, אבי קושניר, מאיר שטרית ואורחים נוספים במעגל",
+       "page": "",
+       "id": "--kaltura--1_1d50c793===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "עונה 3,פרק 6: מתקרבים להפסקת אש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/29bbbc4cebac456b86e5f215f8ee9f00/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6zj45c30/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-05",
+       "plot": "דן שילון מארח את עדן הראל, זאב נחמה, רזי ברקאי, תושבת כפר עזה, ח\"כ גילה גמליאל.",
+       "page": "",
+       "id": "--kaltura--1_6zj45c30===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 9: מעגל של השראה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b914e5a72324d20a5761b12bbb9f197/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kep4zgse/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "מירי מסיקה, מאמן נבחרת ישראל ארז אדלשטיין, ח\"כ אילן גילאון ועוד!",
+       "page": "",
+       "id": "--kaltura--1_kep4zgse===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 8: חלום על שגרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eb9be973483b4c3cb8a2236e360e0217/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nhh8inj7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "דיוויד בלאט, השר שי פירון, גיל ריבה, פבלו רוזנברג ואורחים נוספים במעגל",
+       "page": "",
+       "id": "--kaltura--1_nhh8inj7===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 7: מעגל לעולם חוזר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87e8ef3cea9745efbf4968d48b2c9cd9/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h4uuwaw8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "דן שילון מארח את שלומי שבת, רשף לוי, רותם זיסמן והשר אהרונוביץ' במעגל",
+       "page": "",
+       "id": "--kaltura--1_h4uuwaw8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 5: כולנו מעגל אחד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8d4b842e4d7e41a79ddff9ed7e3879f1/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ruwzvejd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "רבקה מיכאלי, הראל סקעת, שלי יחימוביץ', ועוד",
+       "page": "",
+       "id": "--kaltura--1_ruwzvejd===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 2: אמיצים בעורף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c8e6d375df24b2db21959f53a4ce0b8/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dnx3n4oq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "הורים לחיילים בחזית לעזה",
+       "page": "",
+       "id": "--kaltura--1_dnx3n4oq===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 3: גיוס בצל המלחמה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cfe5938e30674923834ca69b49c48aeb/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hrprw85x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "בני נוער לקראת גיוס מכל קצוות הקשת הפוליטית נפגשים לחלוק תחושות ומחשבות",
+       "page": "",
+       "id": "--kaltura--1_hrprw85x===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 4: מלחמה ושלום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e487285976f4b3ba89506b0c9a85123/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sfwq9xax/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "היום ה-22 ל'צוק איתן': התחושות, המחשבות והדעות",
+       "page": "",
+       "id": "--kaltura--1_sfwq9xax===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 1: הנשיא הנבחר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6e5fb3b2083e4c8bb81c371a35c71365/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0u384u9b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-07",
+       "plot": "הנשיא הנבחר רובי רבלין, קרן פלס, אברהם טל, זוהיר בהלול ועוד",
+       "page": "",
+       "id": "--kaltura--1_0u384u9b===",
+       "season": "עונה 3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

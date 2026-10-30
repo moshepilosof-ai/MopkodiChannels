@@ -1,0 +1,931 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - זמן שישי",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "582",
+   "series_id": "582",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1dae819922d24110b1dcce30507170b2/version/2/width/800/height/1200/quality/90",
+   "plot": "מהדורת יום שישי של חדשות 13. כל החדשות, הפאנלים וכתבות המגזין החשובות של סוף השבוע",
+   "updated": "2026-10-31 00:03",
+   "sub_categories": [
+    {
+     "name": "התוכניות המלאות",
+     "channels": [
+      {
+       "name": "זמן שישי 07.11.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/11fa3b5f351d4f3baedcbc1a17754b9f/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v8qizl5a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-11-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_v8qizl5a===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 31.10.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/526623bb517b43eca9d112297144969b/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z08kaxo0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_z08kaxo0===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 24.10.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1de60772e91c484d80776dbf12d0213f/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tep6x7lq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_tep6x7lq===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 17.10.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/42bfd20e5d4b481caf2a637c78153454/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ov6buia9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ov6buia9===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 10.10.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6cfe95e3a94148bcbb024a1d3b4c449e/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xbzvvx9o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xbzvvx9o===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 03.10.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/96c5d5db8b424d22a2376e7fe09b6d63/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_52uq2uj3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_52uq2uj3===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 19.09.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bc607469cfbd470fb3c3070bb41cd774/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kp4q2wbn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_kp4q2wbn===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 26.09.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58f9d11e5bbb420693b8b7aac1daa86f/version/40/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ze6iwq4m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ze6iwq4m===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 12.09.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef0ec6823aa245db891c68020ada6488/version/46/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c28recac/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_c28recac===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 05.09.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b2940f5f343e4c9fbe1a04812650bd19/version/55/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vwiewy8z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vwiewy8z===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 29.08.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b927b2f2c794765af358f63fbb336ef/version/49/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tclo7ofl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_tclo7ofl===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 22.08.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ae6f456b9254a0e9da411899100d2c0/version/53/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rf2a0x8q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_rf2a0x8q===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 15.08.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b0056ae9353c47d792c1d2e3a18ef1ad/version/55/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ge6t0kp5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ge6t0kp5===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 08.08.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9450590c6b0a41c389264cbf9d2c5de5/version/58/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oshev1xa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_oshev1xa===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 01.08.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f581b247e194c54a1efa4af44fa63e5/version/61/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ziw32snb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ziw32snb===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 25.07.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ff01d74dfc248e8aa80fca5d8019cd2/version/63/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jlj7npoj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_jlj7npoj===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 18.07.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/656e9801653a4c26aab26b364df2254b/version/66/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_odrf0kv7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_odrf0kv7===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 11.07.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a71b64c5c94f4a45bed4e5a22a1a1a0f/version/69/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_926p9h1r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_926p9h1r===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 04.07.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c55736ab0d844122b06580d424beeea4/version/69/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rwfjlo5v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_rwfjlo5v===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 27.06.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34ecc311278d4d5c9f48b647e02e70b3/version/74/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i1m2ejgr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_i1m2ejgr===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 06.06.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77059fbaffb04d2a902d0277971106f1/version/75/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_di742s37/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_di742s37===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 30.05.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f33e19f352b49a6be9ba010ff46c230/version/78/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fkojy98l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_fkojy98l===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 23.05.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34e3dbe787a644b29b6323207f250467/version/80/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z4ytm7xp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_z4ytm7xp===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 16.05.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/76613ab2d1794a4a9e1dd5f8acc0cc89/version/86/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vjoyqrsi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vjoyqrsi===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 09.05.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/01b42a2c6c674683b3a5577a44a53b51/version/88/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xn30mxkl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xn30mxkl===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 02.05.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/986ce9cccd014f9ab12b24804a59b145/version/90/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_id4u9woq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-05-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_id4u9woq===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 25.04.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/705e9a9719b5417a8cb9fa82101acf0a/version/95/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_03x50qg9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_03x50qg9===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 18.04.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b12e6bd84b34e0eaef8d77e09ea1048/version/99/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2uqy4qh3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2uqy4qh3===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 11.04.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/055b91d6fb724c209248344f7c6a227b/version/100/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zg1nmanc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-11",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_zg1nmanc===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 04.04.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df52f58c512a4943831b67499df179be/version/101/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_29jxd097/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-04-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_29jxd097===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 28.03.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8952b79599a94d9baa1ca7aca0d4ce12/version/108/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kkiztfqo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_kkiztfqo===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 21.03.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4e7c6a1375794d0b82d905b636899110/version/111/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q3s3i231/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_q3s3i231===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 14.03.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0843bd842596417199dfeeb29ae288ee/version/111/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rjrq2tq6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_rjrq2tq6===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 07.03.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b1d2515b0fc4f28aa1f065d0d9e03ee/version/117/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v3b7x0xf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_v3b7x0xf===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 28.02.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2086eee73cd846f5bd0b9e51724a952c/version/123/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fshg9t3v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-03-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_fshg9t3v===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 21.02.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4015f9fdca9840d88e712e95b15e19d7/version/127/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4xssaaw0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_4xssaaw0===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 14.02.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a0f8797d49e4c01ad02adb7fa895735/version/130/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7bioxhw5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7bioxhw5===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 07.02.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d9ec2b529441443b9eb1db001cbefa27/version/134/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2gl7jd5a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-02-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2gl7jd5a===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 31.01.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac5c2ccf8bef4382a9eb3c1db846e3bc/version/138/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hjqc9fbg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_hjqc9fbg===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 24.01.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bbaeab4494147ed9f3a6f9bf86c9fb2/version/141/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xmv9cqub/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xmv9cqub===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 17.01.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/986460a8d2f840bbad18bf01935ad7c0/version/145/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eq6b3vo6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_eq6b3vo6===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 10.01.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3fc54571b1f44d6292a01e2a2b0dabc9/version/146/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j7u67n57/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_j7u67n57===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 03.01.25 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db87ebe20d7d41f698894bec7b4baa30/version/150/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qaoohscf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-01-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qaoohscf===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 27.12.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e688e3a1713346f6b066f6c8e62bf601/version/153/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z9m7a4aw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_z9m7a4aw===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 13.12.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1d7f5cfae13c4e8c80b07a8ff09bd280/version/156/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w62jnzai/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_w62jnzai===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 06.12.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b38e7ea817d1481bbea266e7d9a32d22/version/162/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t42woxn0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-12-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_t42woxn0===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 29.11.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3c2584b27a549019c6732e6c59751dd/version/161/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ruksilie/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ruksilie===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 22.11.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f69231ea31ec4f0eb371e819846130c2/version/167/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_swtl1kmq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_swtl1kmq===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 15.11.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb169c17283d4bd5a06c9c7a7f43afdc/version/167/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_teucxtp0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-17",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_teucxtp0===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 08.11.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/457eb20f419c4f6da39ff71decba6f95/version/170/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hd3f9gdg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_hd3f9gdg===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 01.11.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af63733e20dc47a9bb203a63b323d252/version/175/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mhoau1qt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_mhoau1qt===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 25.10.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cde14b86bd064068bc1554e1bb22a58c/version/177/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_09sly4al/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_09sly4al===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 18.10.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d79eab4f51c846f7856b803be484d28e/version/182/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vwwqppew/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vwwqppew===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 04.10.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/38f07e7ba90d40bdbacc61ecb81e49ed/version/177/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vrlzmsey/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vrlzmsey===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 27.09.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/20d2ce2ca5924b3d9d658406f1d93993/version/187/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3qgn1y4q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_3qgn1y4q===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 20.09.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a878e4154834435491b3a9dee92fc333/version/189/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ho0f9xgg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-20",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ho0f9xgg===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 13.09.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b6c1052aee4403792bb7e0038825601/version/193/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r3u2w3fo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_r3u2w3fo===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 06.09.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c88087271b284b9d82d4944afd51445c/version/195/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6iu8qx43/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-09-06",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_6iu8qx43===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 30.08.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21e0456f827e4cd7847d56f544164720/version/195/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5ncn1zpq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-30",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_5ncn1zpq===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 23.08.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9875fb013d934e56b8a6d2785c784a9e/version/201/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n98x7ymk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_n98x7ymk===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 16.08.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa923ddfe192440fbe5772ca44b719f7/version/204/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nhtk1nk6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_nhtk1nk6===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 09.08.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1788ac39c0504211aaaf8b10fa609e7f/version/205/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2dxpnpui/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2dxpnpui===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 02.08.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5b972866e184f5a86f444eede3e7c27/version/206/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3hp14xkh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_3hp14xkh===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 26.07.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5803e906ec6b4f0d8c581c7635416563/version/213/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_100ahaix/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_100ahaix===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 19.07.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b46a0928d4d443aa9633202bdeced4e5/version/153/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dr7zx7tk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_dr7zx7tk===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 12.07.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f05d3c53c554618a8f668c9bac732c8/version/154/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cnn602pj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_cnn602pj===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 05.07.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f69eb3e4de354892b91d48c6b34055c0/version/158/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2av65q8n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-07-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_2av65q8n===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 28.06.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b4f4f1bb89cd4c3db8da3fe322d6f3a5/version/161/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_61swfh4h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-28",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_61swfh4h===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 21.06.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d0fa954d09d84fac98e3ee9d84cdcf88/version/165/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i6w09000/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-21",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_i6w09000===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 14.06.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/700b3dd71e1d47288fa013be3534e8e9/version/162/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z47a1wl6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_z47a1wl6===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 07.06.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f0340b85b8e42f2a12a9a3e5398977a/version/166/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_75gf337e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_75gf337e===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 31.05.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7faa3a7191a44534b9c3fc2dd661ea92/version/167/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7onsvszw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-06-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7onsvszw===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 31.05.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bced2dc7f3124ef581401b4d7af69407/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7onsvszw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_7onsvszw===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 24.05.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8daa6ba327554cc594bf0476a97a8a14/version/173/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vf5s4ht7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-24",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vf5s4ht7===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 17.05.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec616768001e48df8b8832b36dee567b/version/174/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ttzra29q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ttzra29q===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 03.05.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a16041a8ccb64acdbec438fc91e9a0a7/version/180/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1357o2gb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-05-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_1357o2gb===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 19.04.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0b15d5849ff40e1953160929664f6bb/version/189/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tbjbz8dx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_tbjbz8dx===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 12.04.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/309a1da4bf1e4097b079a59381299be2/version/190/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1i5ewa12/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_1i5ewa12===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 05.04.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ed223b60d684e4095acb770edf8061e/version/194/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x0cfn9ti/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-05",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_x0cfn9ti===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 29.03.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b42a94104f274932a9bd8d88488aaacb/version/198/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r1k1s1sw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_r1k1s1sw===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 22.03.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e26448a654e04e07af7b3fc3196c82f6/version/201/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_roes3aub/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-22",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_roes3aub===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 15.03.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4bfd38da62444abebfd28bc8ede162c3/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qnsudryh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-15",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qnsudryh===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 08.03.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66dccfaa6f31406a966a33f970928ef1/version/206/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dq59v1r0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_dq59v1r0===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 01.03.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4603addf6ec8435db5564639580c3b4b/version/213/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_huwcv1t5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_huwcv1t5===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 23.02.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b05e84276d864807a85e8c23dc7d79f7/version/213/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cl2mhbgp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-23",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_cl2mhbgp===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 16.02.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91faaec304134ea48e05bae146845399/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ks6k3fab/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-16",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ks6k3fab===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 09.02.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0e37ddfb680456098fc7651d31b0d1e/version/220/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lymze0j9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_lymze0j9===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 02.02.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2de4820584b48eb9734c050c13c719b/version/222/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_twdh9kno/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-02",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_twdh9kno===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 26.01.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66fe6f69798d4f2c9178dc6e93b1f9fc/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vxkomk4d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_vxkomk4d===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 19.01.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8d592f908034ff9b9c0a77eaf6944ca/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p1m1mg32/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-19",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_p1m1mg32===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "זמן שישי 12.01.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09cc525c783b4c0394a89e7a1622a1f9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_raqybhv6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-12",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_raqybhv6===",
+       "season": "התוכניות המלאות"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

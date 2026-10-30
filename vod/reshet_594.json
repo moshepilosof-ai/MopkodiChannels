@@ -1,0 +1,166 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אוטו אוכל VIP",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "594",
+   "series_id": "594",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/924a68781fe34aa8ad411f5ce7647b4c/version/0/width/800/height/1200/quality/90",
+   "plot": "אוטו אוכל VIP - בהנחיית אסף גרניט ורותי רוסו. בכל פרק זוגות מפורסמים יקבלו משימת בישול בנושא מסוים והם יצטרכו לבנות סביבו מנה ולהגיש אותה בתוך אוטו אוכל",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אוטו אוכל VIP, עונה 1, פרק 7: הגמר הגדול!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac4419287425430dbf94be7ce3db831b/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2qaykm22/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-13",
+       "plot": "הגמר הגדול! יניב סוויסה ודניאל סטיופין ו-אימרי ושי ביטון מתחרים ביניהם בגמר הגדול במשימת אוכל רחוב בגרסת מישלן",
+       "page": "",
+       "id": "--kaltura--1_2qaykm22===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 1, פרק 6: כרטיס אחרון לגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bbec8e84badd41d495334a07ab1be2c3/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8idrv169/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-07",
+       "plot": "שחף וטליה, סי היימן ואיזבל ואימרי ושי ביטון מתחרים ביניהם על הכרטיס השני לגמר במשימת \"השף המתחשב\"",
+       "page": "",
+       "id": "--kaltura--1_8idrv169===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 1, פרק 5: חצי הגמר הראשון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f98426a7e88e4ece8eb5d32ea061b139/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p56czjve/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-05",
+       "plot": "חני ועדי בוזגלו, כרקוקלי וכוכבי \"קופה ראשית\" מתחרים ביניהם על הכרטיס הראשון לגמר במשימת שמן זית וזיתים",
+       "page": "",
+       "id": "--kaltura--1_p56czjve===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 1, פרק 4: טליה ושחף בדרך לחתונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c6d2af4373e47d1862df3e75041e8da/version/34/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_id79i7um/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-31",
+       "plot": "סי היימן והמקעקעת שלה איזבל, שחף וטליה ושי ואימרי ביטון מתחרים ביניהם במשימת אוכל שאוכלים בידיים",
+       "page": "",
+       "id": "--kaltura--1_id79i7um===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 1, פרק 3: חלדייץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07a2b50d6da9467e98e370dc1d116654/version/37/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7r1gz3hb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-29",
+       "plot": "חני ועדי בוזגלו, כרקוקלי וכוכבי \"קופה ראשית\" מתחרים ביניהם במשימת מנה של פעם בשנה",
+       "page": "",
+       "id": "--kaltura--1_7r1gz3hb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 1, פרק 2: טליה ושחף בלחץ!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7c41437f50a459d83af2eca7c7e7c8b/version/38/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w9cfjf9z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-24",
+       "plot": "סי היימן והמקעקעת, שחף וטליה ושי ואימרי ביטון מתחרים ביניהם במשימת הפטריות",
+       "page": "",
+       "id": "--kaltura--1_w9cfjf9z===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 1, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d33575115d2a494d86f3c87215ceb77d/version/43/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l5mw0imz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-22",
+       "plot": "החני ועדי בוזגלו, האחיות כרקוקלי וכוכבי \"קופה ראשית\" מתחרים ביניהם במשימת הפירות",
+       "page": "",
+       "id": "--kaltura--1_l5mw0imz===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "אוטו אוכל VIP, עונה 2, פרק 7: הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1709d704652e48aab5bed76142efbdf9/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lpf6y02t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-13",
+       "plot": "התוכנית שתעשה לכם טעים בלב! אסף גרניט ורותי רוסו מגישים תחרות בישול ישראלי בין זוגות הסלבס מהאהובים בישראל. והפרק: חיה וטום באום ושירן ובן בן ברוך מתחרים ביניהם בגמר במשימת אוכל רחוב בגרסת מישלן | אוטו אוכל VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lpf6y02t===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 2, פרק 6: מי בגמר?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4641b38670204799b0be75d69b9779af/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_143gzmu4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-06",
+       "plot": "התוכנית שתעשה לכם טעים בלב! אסף גרניט ורותי רוסו מגישים תחרות בישול ישראלי בין זוגות הסלבס מהאהובים בישראל. והפרק: עינב בובליל ואימה ורד, אורית שחף ותום פטרובר וטום באום ואימו חיה מתחרים על המקום האחרון בגמר במשימת אוכל של שישי בצהריים | אוטו אוכל VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_143gzmu4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 2, פרק 5: חצי גמר מתוק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a6d2f56b95d4b048fd1b10a9bfe5643/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zhctizcw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-03",
+       "plot": "התוכנית שתעשה לכם טעים בלב! אסף גרניט ורותי רוסו מגישים תחרות בישול ישראלי בין זוגות הסלבס מהאהובים בישראל. והפרק: בן בן ברוך ואשתו שירן, רביב כנר ואחיו גיא ואוולין הגואל ובתה אלה לביא מתחרים על מקום בגמר הגדול במשימה מתוקה במיוחד | אוטו אוכל VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_zhctizcw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 2, פרק 4: הניגירי הכחול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/408f7e3631644802955954e7f314bc6d/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_irmp8ogq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-28",
+       "plot": "התוכנית שתעשה לכם טעים בלב! אסף גרניט ורותי רוסו מגישים תחרות בישול ישראלי בין זוגות הסלבס מהאהובים בישראל. והפרק: עינב בובליל ואימה ורד, אורית שחף ותום פטרובר וטום באום ואימו חיה מתחרים ביניהם במשימת הפרחים | אוטו אוכל VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_irmp8ogq===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 2, פרק 3: הבוריק הלוהט של בן בן ברוך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/984ed1cbb6b340e58949b24f2f655aa6/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1wghayvp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-26",
+       "plot": "התוכנית שתעשה לכם טעים בלב! אסף גרניט ורותי רוסו מגישים תחרות בישול ישראלי בין זוגות הסלבס מהאהובים בישראל. והפרק: בן בן ברוך ואשתו שירן, רביב כנר ואחיו גיא ואוולין הגואל ובתה אלה לביא מתחרים ביניהם במשימת הכיסונים | אוטו אוכל VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1wghayvp===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 2, פרק 2: שלושה זוגות חדשים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/715ffa5f6eae4c3cac9c300adfb03d52/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z5phtxe5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-21",
+       "plot": "עינב בובליל ואימה ורד, אורית שחף ותום פטרובר וטום באום ואימו חיה מתחרים ביניהם במשימת \"לא זורקים אוכל\", משימה שבה יצטרכו להכין מנת רחוב שמבוססת על אוכל מוצל",
+       "page": "",
+       "id": "--kaltura--1_z5phtxe5===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "אוטו אוכל VIP, עונה 2, פרק 1: המפורסמים החדשים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/034d91f9ece746e9b1d5fe7532f34322/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9xixg2jb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-02-19",
+       "plot": "בן בן ברוך ואשתו שירן, רביב כנר ואחיו גיא ואוולין הגואל ובתה אלה לביא מתחרים ביניהם במשימת \"טעם ילדות\"",
+       "page": "",
+       "id": "--kaltura--1_9xixg2jb===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

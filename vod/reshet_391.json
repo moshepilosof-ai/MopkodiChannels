@@ -1,0 +1,116 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - שש אימהות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "391",
+   "series_id": "391",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c1a4a1d4ff04a9f97a2e4717de81065/version/9/width/800/height/1200/quality/90",
+   "plot": "האתר הרשמי של סדרת הדוקו-ריאליטי 6 אימהות בהשתתפות בת אל בלן, מיכל צפיר, ליאת בנאי, רחיק סלימאן, נאם הורוביץ והרבנית רונית ברש",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שש אימהות, עונה 1, פרק 2: תחליטי את",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/988f9e02e23f4905b4dfba0e25a17348/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_02avxe1r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "להיות אימא זה קשה . אבל לפעמים לנסות להיות אימא זה קשה הרבה יותר. עירית ודביר בנדק מכניסים אתכם ולחלום הגדול שלהם- להביא ילד לעולם.\nהאם הם יצליחו להגשים את החלום?",
+       "page": "",
+       "id": "--kaltura--1_02avxe1r===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שש אימהות, עונה 1, פרק 3: אמאל'ה, מי אני?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af20f1c549a8455c9715b8094a65b18a/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ilhzuxgi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מחפשים את הנוסחה המושלמת לגידול הילדים שלנו.  האם זה נכון לגדל בקשיחות או עדיף בעדינות? האם זה נכון להשקיע הכול בילד כבר בגיל קטן? ומתי צריך לשחרר? כל אמא והדרך שלה.",
+       "page": "",
+       "id": "--kaltura--1_ilhzuxgi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שש אימהות, עונה 1, פרק 1: אשת חיל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1af4b966abf2495baa166994c7ccc289/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hc075nqz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "פרק הבכורה!\nשש אימהות משישה עולמות שונים מכניסות אתכם לחייהן בסדרה על התפקיד הקשה בעולם-אמהות , זה הזמן לבדוק האם קיימת האמא המושלמת?",
+       "page": "",
+       "id": "--kaltura--1_hc075nqz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שש אימהות, עונה 1, פרק 4: אימא כאן עבור כולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/595248f3b3b74d499fe52d83e09c1359/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ob25i4i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הסדרה שש אימהות מגיעה לפרק סיום מרגש: גילה, נטשה, נועה, אישתאר, עירית וג'ני מגיעות לסוף המסע ומגלות כיצד חייהן השתנו",
+       "page": "",
+       "id": "--kaltura--1_7ob25i4i===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "שש אימהות, עונה 2, פרק 4: תראו אותי- גיל ההתבגרות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/23218f8cd0f84b708c4aa5037339efdf/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y9ivfbzq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשמשקעים מהעבר צפים?\nהילדים חושפים את אשר על ליבם בשיחה עם הוריהם",
+       "page": "",
+       "id": "--kaltura--1_y9ivfbzq===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שש אימהות, עונה 2, פרק 5: עכשיו התור לאהבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ba3264c161543549f84c4c774601b19/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l3guoow0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק הסיום האימהות מגיעות לתובנות חדשות לגבי היחסים עם ההורים והילדים",
+       "page": "",
+       "id": "--kaltura--1_l3guoow0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שש אימהות, עונה 2, פרק 2: אמא מבזלת או מחרסינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/693f060ec62742c0a470deacf93af921/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3l7j0kgw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "על מה חולמת לוסי, מה שמעה נעמה חסין לראשונה והבחירות של בליינש",
+       "page": "",
+       "id": "--kaltura--1_3l7j0kgw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שש אימהות, עונה 2, פרק 3: חלום של אמא:רוצות אהבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7183d53b8e264982b15513a9f7578577/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lhb9o5jl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לפעמים אימהות עושות טעויות, אך האם הן גם יודעות לבקש סליחה?",
+       "page": "",
+       "id": "--kaltura--1_lhb9o5jl===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שש אימהות, עונה 2, פרק 1: עוצמתה של אמא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d8bd9bb009b46ec8a4dce38aaad80ea/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1psidep5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שש אימהות חדשות פותחות את הדלת לעולמן ולדרך החינוך בה הן מאמינות",
+       "page": "",
+       "id": "--kaltura--1_1psidep5===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

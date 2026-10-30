@@ -1,0 +1,496 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - הכי בעולם",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "231",
+   "series_id": "231",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a81de17488946868d29b57b8dc80ea9/version/8/width/800/height/1200/quality/90",
+   "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים והכי מתוייגים ברשת. מהיעדים הכי מתויירים בעולם ועד למקומות ששווה להגיע לקצה העולם בשבילם",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הכי בעולם, עונה 1, פרק 1: באטומי – גיאורגיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e5a5e0d6ff9445f18d6b34bfa4382780/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_mlieo09x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים והכי מתוייגים ברשת, והפעם באטומי - הריביירה של הים השחור בגיאורגיה. החצ׳פורי הכי גדול בעולם, אירוח בבית משפחה גיאורגית וקרב סכינים שיצא משליטה, הפלגה ביאכטה לאורך הטיילת ומשקה כחול שמשגע את העיר. הכי בעולם לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_mlieo09x===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכי בעולם, עונה 1, פרק 4: רומא - איטליה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a15630da0e57482489a6bfe6df95f3f4/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_n1r9vr4o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים והכי מתוייגים ברשת, והפעם רומא | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_n1r9vr4o===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכי בעולם, עונה 1, פרק 5: מינכן - גרמניה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6ad0026568045208e2f92a002618d3a/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_llge70zl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים והכי מתוייגים ברשת, והפעם מינכן | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_llge70zl===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכי בעולם, עונה 1, פרק 6: יירבאן - ארמניה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8aa8bb8520304b3dae6aac1857307459/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_0x7m8gz8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים והכי מתוייגים ברשת, והפעם יירבאן | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_0x7m8gz8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכי בעולם, עונה 1, פרק 3: אמסטרדם - הולנד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2459600a728a470d9f655be77cf60038/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_m7jlr3ma/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הראל יוצאת בעקבות המקומות הכי מדוברים והכי מתוייגים ברשת, והפעם אמסטרדם | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_m7jlr3ma===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכי בעולם, עונה 1, פרק 8: טביליסי - גיאורגיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e97150dc04524675b12ddfc7632ae0c9/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_l1vvk3ok/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הכי בעולם עם ירדן הראל. והפעם: טביליסי - גיאורגיה",
+       "page": "",
+       "id": "--kaltura--0_l1vvk3ok===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הכי בעולם, עונה 1, פרק 7: סאמוס - יוון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf0693ea38e54d0f9e94d93db255df74/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ozbyihfq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הכי בעולם עם ירדן הראל. והפעם: סאמוס - יוון. הכי בעולם לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_ozbyihfq===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "הכי בעולם, עונה 2, פרק 15: רייקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/936bd533eda843d988c9b6d32ebeada3/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dwuliji2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_dwuliji2===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 14: אוויה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c1fe8bc7a834e1f8ffae9ecb2955780/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_unc1x27n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_unc1x27n===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 13: לוטראקי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5c375fd07b2641ea91cc8f0abddd3e83/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zy2l7nnb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_zy2l7nnb===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 12: באקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/76a10e1414bd47a1a2bc25c68fc75832/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xg807j8a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_xg807j8a===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 11: ורשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c3125b3a990940a7954067aee2d67cf0/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3gt5i5pn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_3gt5i5pn===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 9: ירדן הראל נוחתת באבו דאבי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39e933982e6342b0b9024b5aa3d01b88/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8o7ea68q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_8o7ea68q===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 10: המבורג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/68c2f9d9d8a147bf8eaf588f03a80ee7/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e38bdojk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_e38bdojk===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 8: פאפוס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/12b0342759364c929841b129d2afa77c/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r1sn21lh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_r1sn21lh===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 7: צפון מזרח הולנד - סלאחהרן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6c2c144bf30e4333aae0d15f9b972508/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vvqslxtv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_vvqslxtv===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 6: אתונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/716d5a5206e84646bebed78167102624/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wna9iscs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_wna9iscs===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 5: מרקש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4c0fdf1b7e084f919d68085adea85c82/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s1n76u64/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_s1n76u64===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 4: מרוקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cba75740ea8c4cbdb6e542dfdd97ea3b/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pur4np33/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_pur4np33===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 3: מילאנו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/204913065e6b49d5a5ada7f80de7cdd4/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v0qdq96m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_v0qdq96m===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 2: סיישל - חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56626ab5515a42599a66ab95e80df199/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6gsz8i5c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_6gsz8i5c===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "הכי בעולם, עונה 2, פרק 1: סיישל חלק א'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/835103e6030142389a28bff3bdd2868a/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jzx32jju/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. יחד, הם יכירו לנו את המקומות שחייבים להגיע אליהם",
+       "page": "",
+       "id": "--kaltura--1_jzx32jju===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "הכי בעולם, עונה 3, פרק 19: אגם גארדה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bde6d22734c7400ea011aa777272ec7a/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x68iu1er/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-20",
+       "plot": "ירדן הראל וארז דן מגיעים לאגם גארדה שבצפון איטליה, מבקרים בעיירה הכי ציורית באזור ומחפשים את הקינוח הכי מוגזם, ירדן תנסה לבשל ריזוטו סגול ולהרשים שף מישלן, ארז ינסה ללמד אותה לרכוב על אופניים - ושניהם ייכשלו",
+       "page": "",
+       "id": "--kaltura--1_x68iu1er===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 18: עכו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6f2e3dd04db4966a00e945f81e42590/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_033tmcaz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-06",
+       "plot": "ירדן הראל וארז דן מגלים את עיר התיירות הנסתרת של ישראל: סמטאות עתיקות, קולינריה בת 300 שנה, פארק אקסטרים שהולך עד הסוף וגם: איך אביר יכול להציל נסיכה ב-2025?",
+       "page": "",
+       "id": "--kaltura--1_033tmcaz===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 17: רומא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bbb5377189d84c7997a7a67fd3209390/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8qm9pv8b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-23",
+       "plot": "תוכנית קלאסית על עיר קלאסית: מלון שאסור לכם לפספס, שוק אוכל במקום הכי לא צפוי, ביקור ברובע היהודי ולראשונה בתולדות התוכנית: ירדן הראל מנסה לנהוג. האם זה ייגמר בשלום?",
+       "page": "",
+       "id": "--kaltura--1_8qm9pv8b===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 16: יוון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/558ce4774ab94967a2cd5ff2f7633e5c/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mcsu9bwv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-16",
+       "plot": "ירדן הראל וארז דן מגיעים למועדון נופש ביוון: מה ביקשו מהם ללבוש ולמה? האם הפעם ננצח את אתגר הבישול ומה מפחיד יותר: לעשות סקי מים או ללטף דבורים?",
+       "page": "",
+       "id": "--kaltura--1_mcsu9bwv===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 15: אילת, ישראל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4a1b4bb4317c45639a9ae9ed303f9eae/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7qt7ahv5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-09",
+       "plot": "ירדן הראל מגלה מחדש את עיר הנופש של ישראל: מה התחדש במצפה התת ימי? (המון), איך התפתחה הסצנה הקולינרית בעיר (בטירוף) ואיפה נקודת התצפית הכי שווה בעיר (רמז: לא על היבשה)",
+       "page": "",
+       "id": "--kaltura--1_7qt7ahv5===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 14: לרנקה, קפריסין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c0d35fd1df6843a19b8085f6a5f48736/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mgypks7v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-08-02",
+       "plot": "ירדן הראל עם היעדים שווים, המלונות הכי מפנקים והמסעדות הכי טובות. והפעם - לרנקה, קפריסין",
+       "page": "",
+       "id": "--kaltura--1_mgypks7v===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 13: לימסול, קפריסין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c3a77c0b4da341eea3c03dcab4368a1d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_191coq5g/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-27",
+       "plot": "ירדן הראל וצוות הכי בעולם מגיעים ללימסול בקפריסין שהפכה ליעד המועדף לחופשות על ידי הישראלים. שילוב בין ישן לחדש, עתיק מול מודרני, שווקים צבעוניים לצד בוטיקים מעוצבים ומלונות יוקרתיים",
+       "page": "",
+       "id": "--kaltura--1_191coq5g===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 12: תל אביב, ישראל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4c7af6f4d6bb48b89ced716da9054185/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a8m81j2y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-09",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_a8m81j2y===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 11: טרוגיר, קרואטיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30790ac9198e425ba9fdf4b7eab04a86/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qcumc2lb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-09-02",
+       "plot": "ירדן הראל מגלה יעד חדש ומפתיע: בריביירה הקרואטית. נטייל בעיר העתיקה, נצלול לביקור בספינה טבועה ונענה על השאלה הקולינרית: מה זה אוכל דלמתי ולמה הוא כל כך טעים?",
+       "page": "",
+       "id": "--kaltura--1_qcumc2lb===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 10: אלמאו, אוסטריה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/12b2a780b800444c9fda3819373d8bad/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ajge1uz4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-12",
+       "plot": "ירדן הראל מגיעה לעיירת הסקי הציורית אלמאו הנמצאת בחבל טירול שבאוסטריה, שם היא עוברת מסלול מזחלות מטורף, מעפילה לפסגת ההר המושלג ואפילו לומדת לעשות סקי",
+       "page": "",
+       "id": "--kaltura--1_ajge1uz4===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 1, פרק 9: ואל דיזייר, צרפת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e917c4f72214fd8989d674629077c1d/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_198p09vk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-05",
+       "plot": "הכי בעולם עם ירדן הראל. והפעם: ואל דיזייר, צרפת",
+       "page": "",
+       "id": "--kaltura--1_198p09vk===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 8: חצי האי פלופונס חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a011a67cb32c44659d5759e40d1d8282/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z3y67lv3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-30",
+       "plot": "בחלק השני של החופשה בפלופונס יוון, ירדן הראל מבקרת בעיר פטרס. וגם כאן האתגרים לא מפסיקים להגיע: אודישן לסרט מול במאי מקומי, תחרות בישול עם שופט מפתיע ואתגר אחד שבנוי בדיוק בשביל ירדן: אתגר השופינג",
+       "page": "",
+       "id": "--kaltura--1_z3y67lv3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 8: חצי האי פלופונס חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/01c758fb1b6442658eeb46c2d28f2b7c/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z3y67lv3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-29",
+       "plot": "בחלק השני של החופשה בפלופונס יוון, ירדן הראל מבקרת בעיר פטרס. וגם כאן האתגרים לא מפסיקים להגיע: אודישן לסרט מול במאי מקומי, תחרות בישול עם שופט מפתיע ואתגר אחד שבנוי בדיוק בשביל ירדן: אתגר השופינג",
+       "page": "",
+       "id": "--kaltura--1_z3y67lv3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 7: חצי האי פולופנז",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a07eb1ea8bcb411e9408bef375ec8fed/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0jtkwpty/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-22",
+       "plot": "הפעם ירדן מבקרת ביעד חדש ומפתיע שנמצא במדינה שכולנו מכירים ואוהבים - יוון. ירדן תעשה כבוד לאולימפיאדה ותבקר בעיר אולימפיה בה נוסדה התחרות, תתחרה בדו קרב מוסקות מול שף יווני, וגם, ההפתעה שירדן לא הייתה מוכנה אליה",
+       "page": "",
+       "id": "--kaltura--1_0jtkwpty===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 6: בוקרשט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/19d5d513fefa411aa70ecdf420e8da66/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b9ij7fm9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-15",
+       "plot": "והפעם חופשה אורבנית בבירת רומניה: נטפס על שער הניצחון, נאכל קבב דונר, ונתפנק בפארק מים מטורף. והאתגר הגדול של הפרק: לגרום לירדן לנהוג במכונית מיניאטורית ברחבי בוקרשט בלי להרוס אותה או את העיר",
+       "page": "",
+       "id": "--kaltura--1_b9ij7fm9===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 5: ירושלים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d5433e8a38044a990ff0dd7daa4176b/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u6vl57lr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-08",
+       "plot": "ירדן הראל בפרק מיוחד של \"הכי בעולם\" באחת הערים המיוחדות בעולם כולו - ירושלים. היא תתחיל מסיור וסנפלינג על חומות העיר העתיקה, תבקר במבנה ימקא המפורסם וגם כמובן בשוק מחנה יהודה",
+       "page": "",
+       "id": "--kaltura--1_u6vl57lr===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 4: אנטליה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dd4fc57f4b2444b889b248038dd09035/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_52gipnr6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-01",
+       "plot": "ירדן לומדת על ההבדל בין חופש לנופש ומנסה את כוחה כמעצבת אמבטיות-פרחים, מחפשת את הנקודה המושלמת לצילום, ולומדת עוד קצת על רמת האוכל הגבוהה באיים. אבל כלום לא מכין אותה לאתגר המפחיד של הפרק: צלילה עם כרישים",
+       "page": "",
+       "id": "--kaltura--1_52gipnr6===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 3: מלדיבים - חלק ב'",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0def8e079cd74e9eadb8973f19b6f554/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e3aekk5h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-24",
+       "plot": "ירדן מגיעה לאיים המלדיבים. בין חופי הטורקיז, עצי הקוקוס והדקלים ירדן תתנסה במגוון פעילויות שיש לאי המיוחד להציע",
+       "page": "",
+       "id": "--kaltura--1_e3aekk5h===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 2: מלדיבים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0766cfa47714545941b1440bbf65046/version/34/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4cy6m3o8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-17",
+       "plot": "בחלק הראשון ירדן מגיעה לאיים המלדיבים. בין חופי הטורקיז, עצי הקוקוס והדקלים ירדן תנסה את כוחה בגלישת גלים, רחיפה עם מצנח ובבישול מלדיבי מקומי. והפעם האתגר קשה מתמיד: לבצע תרגיל קרקס על מתקן טרפז בגובה 20 מטר",
+       "page": "",
+       "id": "--kaltura--1_4cy6m3o8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "הכי בעולם, עונה 3, פרק 1:",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/480c7dd66e1b44259e6efb926568b08f/version/34/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gw5q8uny/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-11",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים",
+       "page": "",
+       "id": "--kaltura--1_gw5q8uny===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "הכי בעולם, עונה 4, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c74ecb6582834861bc70c7c640f5254c/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xiiicw07/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_xiiicw07===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "הכי בעולם, עונה 4, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a557a457338e4845b63d28042ef995e8/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3o9narmh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_3o9narmh===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "הכי בעולם, עונה 4, פרק 2: מילאנו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e1ad73864f64549b157f1388439cb02/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kh3ju0x3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-11",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. והפעם - ירדן ממשיכה את מסעה לבירת העיצוב העולמית, מילאנו",
+       "page": "",
+       "id": "--kaltura--1_kh3ju0x3===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "הכי בעולם, עונה 4, פרק 1: מילאנו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/edbb8f2e30a0491d93d7be9888d8580b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_piicszar/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-04",
+       "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. והפעם - ירדן מגיעה לבירת העיצוב העולמית, מילאנו",
+       "page": "",
+       "id": "--kaltura--1_piicszar===",
+       "season": "עונה 4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

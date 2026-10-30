@@ -1,0 +1,251 @@
+{
+ "categories": [
+  {
+   "name": "ערוץ 9 - Дело врачей",
+   "type": "vod",
+   "source": "9tv",
+   "program_url": "6a74f412337185a605e9b154",
+   "series_id": "6a74f412337185a605e9b154",
+   "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/94537e69-d6c2-4f89-aaa4-9f47d47a3acc.jpeg",
+   "plot": "Программа 9 Канала",
+   "updated": "2026-10-31 00:06",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "Программа \"Дело врачей\". Пробивание закупорки сосуда. Стенокардия. Ишемическая болезнь сердца. - 05/06/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/62dcb0ca-8b22-48ca-8f45-d1baf634f82c.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/9c399d75-3278-4c9a-b339-ad9b437ecaea/hls/master.m3u8",
+       "date": "2023-06-05",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Героиня сегодняшнего выпуска- Наталья. Она страдает от стенокардии: одышки и боли в груди при физической нагрузке и иногда в покое. Ей предстоит пройти процедуру пробивания старой коронарной закупорки- реканализации хронической коронарной окклюзии гибридным методом.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/9c399d75-3278-4c9a-b339-ad9b437ecaea/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Мерцательная аритмия. Транскатетерное закрытие ушка левого предсердия - 04/06/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/e44f1529-9b96-4186-ad77-e5fcf927312f.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/96e761f5-d961-4dea-837a-f39e92284050/hls/master.m3u8",
+       "date": "2023-06-04",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Герой сегодняшнего выпуска- Александр. Страдает мерцательной аритмией. Ему предстоит закрытие ушка левого предсердия.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/96e761f5-d961-4dea-837a-f39e92284050/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Работа приёмного отделения в больнице. Скорая медицинская помощь. - 29/05/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/8b78729c-d5da-438a-bf7f-61a32dd96fd5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/8e8117dd-01cb-463f-8dd4-bddce9017c00/hls/master.m3u8",
+       "date": "2023-05-29",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Сегодня мы приехали в Холон, больницу Вольфсон и познакомим вас с работой приёмного отделения этой больницы.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/8e8117dd-01cb-463f-8dd4-bddce9017c00/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Аорто-коронарное шунтирование. Как вылечить ишемическую болезнь сердца? - 25/05/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/3b1a2dc4-05bd-4922-bb09-a81e065b62ab.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/c36465c7-2221-414c-b131-e70eb513cb9d/hls/master.m3u8",
+       "date": "2023-05-25",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Герой сегодняшнего выпуска- Игорь. Он жалуется на боли в сердце. Ему предстоит операция \"Аорто-коронарное шунтирование\". Цель операции: \"восстановление нарушенного кровоснабжения сердца\".",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/c36465c7-2221-414c-b131-e70eb513cb9d/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Операция по удалению катаракты. Имплантация хрусталика глаза. Астигматизм. - 22/05/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/0f308634-68c3-4ceb-9dd3-5d21f62585f5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/70a8ca0d-ceba-42d5-ac5a-cba4bb271603/hls/master.m3u8",
+       "date": "2023-05-22",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Героиня сегодняшнего выпуска- Людмила. Она страдает проблемами со зрением. Ей предстоит операция по удалению катаракты с имплантацией торического хрусталика с целью коррекции астигматизма.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/70a8ca0d-ceba-42d5-ac5a-cba4bb271603/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Варикозное расширение вен. Флебэктомия - 09/05/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/558245ff-8e34-4946-b02e-e4e0bc0b0c06.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/8700eb12-e0d9-4308-b483-e2eba93a5553/hls/master.m3u8",
+       "date": "2023-05-09",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Героиня сегодняшнего выпуска- Мейшар. Она жалуется на варикозное расширение вен. Ей предстоит флебэктомия- хирургическое лечение варикозного расширения поверхностных вен нижних конечностей.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/8700eb12-e0d9-4308-b483-e2eba93a5553/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Дело врачей. Врач эндоскопист Сергей Воско. Рак желудка. Эндоскопическая диссекция желудка в Израиле - 10/02/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/ae5eaeb2-4a16-40e8-8adc-5cd94e21c195.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/ed202a08-3c14-4d60-b0e6-4377e3a4fe6b/hls/master.m3u8",
+       "date": "2023-02-10",
+       "plot": "Дело врачей и врач эндоскопист Сергей Воско. Рак желудка. Эндоскопическая диссекция желудка В Израиле.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/ed202a08-3c14-4d60-b0e6-4377e3a4fe6b/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Дело врачей. Гастроэнтеролог Сергей Воско. Лечение дивертикула пищевода в Израиле - 10/02/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/cfa47995-ab2d-454a-8faf-67e81e3b36f7.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/338b6d0f-2446-4f0c-8c6c-8076ab568ce4/hls/master.m3u8",
+       "date": "2023-02-10",
+       "plot": "Программа Дело врачей и гастроэнтеролог Сергей Воско. Лечение дивертикула пищевода в Израиле.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/338b6d0f-2446-4f0c-8c6c-8076ab568ce4/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Разрыв сухожилия плеча. Операция по технологии \"InSpace Balloon\" - 04/02/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/f8a1f1d3-6a50-4586-ad04-4ae71ccf7062.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/60838d0f-8d68-42a0-b1bf-a2267d1726a6/hls/master.m3u8",
+       "date": "2023-02-04",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Героиня сегодняшнего выпуска- Нина. У неё диагностирован разрыв сухожилия плеча. Ей предстоит операция по технологии \"InSpace Balloon\".",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/60838d0f-8d68-42a0-b1bf-a2267d1726a6/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Вальгусная деформация стопы. Операция по удалению шишки на большом пальце - 14/01/2023",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/922fbd3d-6dc6-4551-a6ab-397fcd2c5b99.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/706f1668-f1f8-41d0-b8d4-c6e5d505424e/hls/master.m3u8",
+       "date": "2023-01-14",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Героиня сегодняшнего выпуска- Людмила. Она страдает от вальгусной деформации большого пальца стопы.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/706f1668-f1f8-41d0-b8d4-c6e5d505424e/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Полипэктомия матки. Полип в матке. Внутриматочная операция. - 21/12/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/367815d4-e6ae-4be0-bb47-53caa62bf98e.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/00d8bb7e-9391-4dfb-9cf2-c82923b57ba5/hls/master.m3u8",
+       "date": "2022-12-21",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Сегодня наш выпуск посвящен нейрохирургии. Героиня выпуска- Анна. Ей предстоит удалить доброкачественное объемное образование- полип в матке.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/00d8bb7e-9391-4dfb-9cf2-c82923b57ba5/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Приёмный покой в больнице Сорока. - 23/11/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/00ebe69d-4adb-4323-98ab-e2bef8efd374.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/b81463be-5fd2-471f-936d-8f63d062a770/hls/master.m3u8",
+       "date": "2022-11-23",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Сегодняшний выпуск посвящен самому большому приёмному покую в Израиле, который находится в больнице Сорока.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/b81463be-5fd2-471f-936d-8f63d062a770/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Ринопластика. Выравнивание носовой перегородки. Операция на носу. - 18/10/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/875a432d-8f43-408d-82f3-66eab6e6a22c.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/9720b9df-d4d3-414b-9de6-1da8cd27545f/hls/master.m3u8",
+       "date": "2022-10-18",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главная героиня выпуска- Ребекка. У пациентки жалобы на затрудненное дыхание. Ей предстоит ринопластика: выравнивание носовой перегородки с уменьшением нижних раковин.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/9720b9df-d4d3-414b-9de6-1da8cd27545f/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Удаление опухоли толстого кишечника лапароскопическим методом - 10/10/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/c6790522-8bf3-4163-b4e6-a20de837fbb5.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/9206d915-d5de-4094-81b9-995b5f59e7f4/hls/master.m3u8",
+       "date": "2022-10-10",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главная героиня выпуска- Изабелла. У Изабеллы диагностирован рак кишечника с метастазами в печени. Ей предстоит операция по удалению опухоли толстого кишечника лапароскопическим методом.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/9206d915-d5de-4094-81b9-995b5f59e7f4/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Эндопротезирование тазобедренного сустава с помощью робота-хирурга MАКО - 08/10/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/b51840f0-91b0-4ab1-9adc-279a14c95d20.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/dc61df6b-ffa5-4964-bb8c-43ac0804b0a9/hls/master.m3u8",
+       "date": "2022-10-08",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главный герой выпуска- Виталий. Ему предстоит эндопротезирование тазобедренного сустава с использование робота.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/dc61df6b-ffa5-4964-bb8c-43ac0804b0a9/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Сужение спинномозгового канала. Операция на позвоночнике - 03/10/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/f131825d-67a7-475f-a705-c1457a909834.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/0c8638c4-ef43-482c-a9c8-4b9669a9ed48/hls/master.m3u8",
+       "date": "2022-10-03",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главная героиня выпуска- Алевтина. Пациентка страдает от сужения спинномозгового канала. Ей предстоит ламинэктомия поясничного отдела позвоночника.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/0c8638c4-ef43-482c-a9c8-4b9669a9ed48/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Лазерное дробление камня в почке. Камни в почках. - 28/09/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/b62e3864-da92-4028-9af1-7c7673948d2b.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/48e53ba5-0b60-457b-9a46-ab6fff698494/hls/master.m3u8",
+       "date": "2022-09-28",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главная героиня выпуска- Раиса. Ей предстоит операция \"Ретроградное лазерное дробление камня в почке RIRS\"",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/48e53ba5-0b60-457b-9a46-ab6fff698494/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Анестезия в Израиле в программе \"Дело врачей\". Современная анестезиология. - 21/09/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/64c2fe91-580b-4844-9610-54435ef13618.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/356df47c-f639-4daf-9a57-95dfac500261/hls/master.m3u8",
+       "date": "2022-09-21",
+       "plot": "Программа \"Дело врачей\" на 9 канале и анестезия в Израиле. Сегодняшний выпуск посвящен анестезиологии.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/356df47c-f639-4daf-9a57-95dfac500261/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Операция по фиксации позвонков. Стабилизация позвоночника - 17/09/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/17205e7d-3a78-4726-a94c-ea4dc911e1e1.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/37c44c35-dc56-48d9-921d-c8fbe6fd1389/hls/master.m3u8",
+       "date": "2022-09-17",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главный герой выпуска- Николай. Ему предстоит операция по расширению спинномозгового канала и фиксации позвонков. Операцию проводит заведующий хирургии позвоночника в медицинском центре \"Барзилай\", Рустам Джаббаров. Совместно со старшим специалистом, Евгением Ли.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/37c44c35-dc56-48d9-921d-c8fbe6fd1389/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Операция на тазобедренном суставе. Дисплазия таза. Тройная остеотомия - 15/09/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/79c1dbb8-2a3b-4c37-88df-0d3a9bc75f2c.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/8fd59bbf-31de-4f2d-9f12-ed987be7ff26/hls/master.m3u8",
+       "date": "2022-09-15",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главная героиня нашего выпуска- Рахаф. У девочки диагностирован подвывих тазобедренного сустава. Врач- Марк Эдейльман. Профессор, заведующий отделением детской ортопедии в больнице Рамбам.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/8fd59bbf-31de-4f2d-9f12-ed987be7ff26/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Рак желудка. Резекция желудка. Лапароскопическая операция - 14/09/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/3578338d-2766-488f-ae25-0b73687ec6a3.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/035202c1-d374-477c-8f9d-e232af11887a/hls/master.m3u8",
+       "date": "2022-09-14",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главная героиня этого выпуска- Людмила. У неё был диагностирован рак желудка. Людмиле предстоит непростая лапароскопическая резекция желудка.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/035202c1-d374-477c-8f9d-e232af11887a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Эстетическая хирургия. Блефаропластика верхних век - 08/09/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/66b3a5b7-d5f5-45fe-af78-d3b275a05c8c.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/2ebd208f-99ac-49d0-bb85-ef2c18712fab/hls/master.m3u8",
+       "date": "2022-09-08",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главная героиня этого выпуска- Майя. Майя страдает избытком кожи верхнего века, ей предстоит блефаропластика.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/2ebd208f-99ac-49d0-bb85-ef2c18712fab/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Программа \"Дело врачей\". Лазерная коррекция зрения. Высокоточная операция - 03/09/2022",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/951ba656-3ccb-42ec-badf-1e6e3f2c7d37.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/b7cc0b0b-d108-48b2-8526-0f9a56b49c2d/hls/master.m3u8",
+       "date": "2022-09-03",
+       "plot": "Программа \"Дело врачей\" на 9 канале. Главный герой этого выпуска- Идан, которого ждёт высокоточная лазерная операция на зрение у доктора Нины Абрамович.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/b7cc0b0b-d108-48b2-8526-0f9a56b49c2d/hls/master.m3u8",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - כדורגל עולמי",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1290945",
+   "plot": "",
+   "updated": "2026-10-31 00:09",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תקציר ליגה איטלקית מתוקן: פרוזינונה – לצ'ה 1:5",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1290945",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114702/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/serie-a/video/1984549/",
+       "season": ""
+      },
+      {
+       "name": "צפו: גאנדלמן פתח לראשונה העונה, לצ'ה הובסה 5:1 על ידי פרוזינונה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290945",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/serie-a/video/1984460/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: אוליסה כיכב עם צמד, באיירן מינכן דרסה 1:6 את מגדבורג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290862",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114390/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1983800/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: מילאן הופתעה בסן סירו ונכנעה 4:2 לבולוניה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290841",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114355/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/serie-a/video/1983701/",
+       "season": ""
+      },
+      {
+       "name": "צפו: שני שערים עצמיים סידרו לאינטר 0:2 בחוץ מול ונציה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290828",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114356/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/serie-a/video/1983688/",
+       "season": ""
+      },
+      {
+       "name": "צפו: גימראייש החמיץ בפנדלים, ארסנל הודחה מול קבוצה מהליגה הרביעית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290734",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114079/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1983002/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ניקו פאס כיכב עם שער ובישול במהפך הדרמטי של קומו מול טורינו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290731",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114075/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1982936/",
+       "season": ""
+      },
+      {
+       "name": "צפו: רומא חגגה 2:4 דרמטי על קליארי עם שני שערים בדקות האחרונות",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290727",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114069/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/serie-a/video/1982929/",
+       "season": ""
+      },
+      {
+       "name": "צפו: לאציו חגגה עם 2:6 מדהים מול ססואולו ועלתה לפסגת הליגה האיטלקית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290721",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114038/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1982891/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

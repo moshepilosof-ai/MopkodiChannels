@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - משחקי השף: אוטו אוכל",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "384",
+   "series_id": "384",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c96b0506e9a444398741935d17fa5c70/version/10/width/800/height/1200/quality/90",
+   "plot": "משחקי השף: אוטו אוכל בכיכובם של השפים המובילים מושיק רוט, אסף גרניט ומאיר אדוני.",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "משחקי השף אוטו אוכל, עונה 1, פרק 7: בית אלפא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f42975c5eafe49fa9ca48e80c30a7912/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_41nnx868/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלושת השפים ושותפיהם למסע מגיעים לקיבוץ בית אלפא כדי להתמודד עם האתגר הגדול מכולם: איך הופכים את האוכל בחדר האוכל לגורמה, והאם אפשר להחזיר את החשק למשק?",
+       "page": "",
+       "id": "--kaltura--1_41nnx868===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף אוטו אוכל, עונה 1, פרק 8: תל אביב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1b6d08e5e234548bf16c8c8ed07d20b/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_59w7778r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השפים הגיעו לתל אביב, אחד ממעוזות הקולינריה התוססים בארץ, והפעם הם יצטרכו להכין את המנה שהתל אביבים הכי יאהבו אחרי הבילוי הלילי",
+       "page": "",
+       "id": "--kaltura--1_59w7778r===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף אוטו אוכל, עונה 1, פרק 6: רמלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b9854cbcc3d42c2a01b25e227becf5e/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0y9abf9h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השוק של רמלה מקבל את פניהם של השפים והסלבס בפרק שכולו מוזיקה, תבלינים ורוח שטות",
+       "page": "",
+       "id": "--kaltura--1_0y9abf9h===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף אוטו אוכל, עונה 1, פרק 5: אבטליון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/497eeea4bcb04c65bd6112f3f8166ff6/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eopddqko/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלושת השפים יוצאים היום לדרך עם שלושה סלבס ששניים מהם קומיקאים ושניים מהם טבעונים אדוקים, ואנחנו שואלים - יש סיכוי שהפרק הזה לא יקרע אתכם מצחוק?",
+       "page": "",
+       "id": "--kaltura--1_eopddqko===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף אוטו אוכל, עונה 1, פרק 1: עכו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77f784142798441489e7c53693550a4a/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ogpvhubs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "היום זה מתחיל. השוק החם, הבריזה מהים, הנסיעות והתחרות חסרת הרחמים. צפו בפרק הראשון של משחקי השף אוטו אוכל",
+       "page": "",
+       "id": "--kaltura--1_ogpvhubs===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף אוטו אוכל, עונה 1, פרק 3: ירושלים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/11eec382f98349c69a34a3581c649032/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7l19dr5u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט וקרן מור, מושיק רוט וצביקה הדר, מאיר אדוני ועידן עמדי עולים לירושלים כדי לכבוש את ליבם וטעמם של תושבי העיר. קרב כזה עיר הבירה מעולם לא טעמה. צפו בפרק",
+       "page": "",
+       "id": "--kaltura--1_7l19dr5u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף אוטו אוכל: מתניעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cfa3ab8148d24b25b39e032429dd1f07/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vawj2ptn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יום לפני נסיעת הבכורה של התכנית החדשה, קבלו טעימה ראשונה מהאוטו אוכל של כל אחד מהשפים הגדולים של ישראל",
+       "page": "",
+       "id": "--kaltura--1_vawj2ptn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף אוטו אוכל, עונה 1, פרק 4: אשדוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2499d1cc07a4a018e7a0652e0406b46/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x8d6b9n5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "עם קבלת פנים חמה במיוחד, אשדוד פותחת את שעריה למשחקי השף אוטו אוכל והפעם השפים הולכים לעבוד באמת קשה",
+       "page": "",
+       "id": "--kaltura--1_x8d6b9n5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "משחקי השף אוטו אוכל, עונה 1, פרק 2: דימונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7de7764f12cf4bd3ba9002f3ccf55498/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f8x33r39/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "השפים מדרימים כל הדרך עד דימונה עם לוסי אהריש, דידי הררי וקובי אוז. צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_f8x33r39===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

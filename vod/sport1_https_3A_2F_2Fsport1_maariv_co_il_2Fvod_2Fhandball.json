@@ -1,0 +1,91 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - כדוריד",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fhandball",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fhandball",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1054658",
+   "plot": "",
+   "updated": "2026-10-31 00:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "הנקמה הושגה: 23:33 גדול לקיל על למגו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1054658",
+       "url": "https://sport1-video-f.wcdn.co.il/3289249/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/handball/video/689638/",
+       "season": ""
+      },
+      {
+       "name": "בפעם ה-10: ברצלונה זכתה בליגת האלופות לאחר ניצחון על אולבורג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1052882",
+       "url": "https://sport1-video-f.wcdn.co.il/3218480/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/handball/video/676881/",
+       "season": ""
+      },
+      {
+       "name": "איבדה את הפסגה: קיל הפסידה 34:33 למגדבורג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1052132",
+       "url": "https://sport1-video-f.wcdn.co.il/3219008/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/handball/video/672325/",
+       "season": ""
+      },
+      {
+       "name": "נבחרת ישראל בכדוריד נשים נכנעה והודחה ממוקדמות אליפות אירופה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1051757",
+       "url": "https://sport1-video-f.wcdn.co.il/3219960/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/handball/video/670245/",
+       "season": ""
+      },
+      {
+       "name": "נבחרת הנשים של ישראל בכדוריד הפסידה 28:24 לפינלנד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
+       "url": "https://sport1-video-f.wcdn.co.il/3219653/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/handball/video/669548/",
+       "season": ""
+      },
+      {
+       "name": "למגו זכתה בגביע הגרמני לאחר 24:28 על מלסונגן",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1051553",
+       "url": "https://sport1-video-f.wcdn.co.il/3218682/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/handball/video/668995/",
+       "season": ""
+      },
+      {
+       "name": "למגו היממה את קיל עם שער ניצחון אדיר ועלתה לגמר הגביע הגרמני",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1051473",
+       "url": "https://sport1-video-f.wcdn.co.il/3219419/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/handball/video/668377/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - ללא פילטרים",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "412",
+   "series_id": "412",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bb63b7d070184fcd98499cf48952b09b/version/16/width/800/height/1200/quality/90",
+   "plot": "מוטי רייפ מארח בביתו את אושיות האופנה והתרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. ללא פילטרים לצפייה ישירה",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 7 - דרור קונטנטו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66f4b3c0c3254645bc9486be1baf26e0/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lskdbx1b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - דרור קונטנטו",
+       "page": "",
+       "id": "--kaltura--1_lskdbx1b===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 15 - מלי לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b337e09e2a0e419bb81f6df440e54b59/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_16i9eubi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - מלי לוי",
+       "page": "",
+       "id": "--kaltura--1_16i9eubi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 14 - לינור אברג'יל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52c8669b06ff47f7842478c3e5ae5866/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0jumdg93/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - לינור אברג'יל",
+       "page": "",
+       "id": "--kaltura--1_0jumdg93===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 12 - נטע אלחמיסטר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ddd44441e1c64eb8b9e5a39b691f113b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yw8e7qnu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - נטע אלחמיסטר",
+       "page": "",
+       "id": "--kaltura--1_yw8e7qnu===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 10 - תקוה גדעון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5de647c1896042128e033acaeca809ba/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i4o60kpk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - תקוה גדעון",
+       "page": "",
+       "id": "--kaltura--1_i4o60kpk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 9 - ג'וזי כץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bc97fe5481ad484f8f3e24478337963f/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ns9h8b51/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - ג'וזי כץ",
+       "page": "",
+       "id": "--kaltura--1_ns9h8b51===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 8 - גל גברעם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ed81f75c5be445085eade1cdb2cae6f/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_07duj2ac/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - גל גברעם",
+       "page": "",
+       "id": "--kaltura--1_07duj2ac===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 6 - יעל אבקסיס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af8cbc39b3a24eb4b66e671624382af7/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ewmhl84l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - יעל אבקסיס",
+       "page": "",
+       "id": "--kaltura--1_ewmhl84l===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 5 - לייה גיל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34986830c66940c99c78f02a61ded5c7/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ohdd81wz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - לייה גיל",
+       "page": "",
+       "id": "--kaltura--1_ohdd81wz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 4: טהוניה רובל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f96318b4bb6a43f79bd971ee44f68f6b/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_81f1n1g8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - טהוניה רובל",
+       "page": "",
+       "id": "--kaltura--1_81f1n1g8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 3 - בל אגם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d309c9356ad44bf299143124cb683389/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1yg6c0fw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - בל אגם",
+       "page": "",
+       "id": "--kaltura--1_1yg6c0fw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 2 - דיקלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c451ca5519d44a29a75e86946cfd66a/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6fogp0rw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - דיקלה",
+       "page": "",
+       "id": "--kaltura--1_6fogp0rw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 11 - מירי בוהדנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14a409f352584c389cd6653e76e088ca/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2qcb8qxk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - מירי בוהדנה",
+       "page": "",
+       "id": "--kaltura--1_2qcb8qxk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים: ציפי שביט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff80591b669e41ad95a620b2b210d2a0/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_07lp71x1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - ציפי שביט",
+       "page": "",
+       "id": "--kaltura--1_07lp71x1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 17 - מירי מסיקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4e83a37141294ba7b95e43d7fec08dbe/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f48zujiz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - מירי מסיקה",
+       "page": "",
+       "id": "--kaltura--1_f48zujiz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "ללא פילטרים, עונה 2, פרק 16 - ציפי רפאלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3612ae1dc00e479fb2bdb731d64898a2/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pg6em02c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייף, האיש המשפיע ביותר על תעשיית האופנה הישראלית בעשורים האחרונים, יושב אחד על אחד עם האנשים המובילים בתעשייה כדי לדבר על הסודות והפצעים האישיים של הדמויות והאנשים שכולנו מכירים, ללא פילטרים. והפעם - ציפי רפאלי",
+       "page": "",
+       "id": "--kaltura--1_pg6em02c===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 17 - שירה איסקוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8412fe28e3514a82a194461a502c6f4d/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ksuu1bg1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-16",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם שירה איסקוב",
+       "page": "",
+       "id": "--kaltura--1_ksuu1bg1===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 16 - דנה זרמון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/24f5c75f305447599b120aa33c4c4082/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0eqqkswd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-09",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם דנה זרמון",
+       "page": "",
+       "id": "--kaltura--1_0eqqkswd===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 15 - רנא רסלאן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56c7aefefb4246948576204a7dd51383/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dqni92y6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-02",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם רנא רסלאן",
+       "page": "",
+       "id": "--kaltura--1_dqni92y6===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 14 - ריקי גל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/28e589eff3024ddfb79251ea63d95503/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lwrdlm7h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-19",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם הזמרת ריקי גל",
+       "page": "",
+       "id": "--kaltura--1_lwrdlm7h===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 13 - תום חיימוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7b2b4d63d8448bfb60cbe1ef396cd0a/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d08poply/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-11",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם דייר האח הגדול לשעבר תום חיימוב",
+       "page": "",
+       "id": "--kaltura--1_d08poply===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים - שיר אלמליח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3bafc87c9fd4a5d9c87cbcf46923c10/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gvdgkn4j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-05",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם שיר אלמליח",
+       "page": "",
+       "id": "--kaltura--1_gvdgkn4j===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 11 - רותי נבון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4130ea5889fa4510afeee40f612e7393/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fghfe2q2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-28",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם הזמרת רותי נבון",
+       "page": "",
+       "id": "--kaltura--1_fghfe2q2===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 10 - עינת שרוף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/618c184594f544d8a72126e0eec51096/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lwnri58u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-21",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם הזמרת עינת שרוף",
+       "page": "",
+       "id": "--kaltura--1_lwnri58u===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 9 - אילנית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae52cf28f4a449458594b4a954bfa01b/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2e7ey2z0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-15",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם הזמרת אילנית",
+       "page": "",
+       "id": "--kaltura--1_2e7ey2z0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 8 - אירית רחמים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1edb812f68e44049b156a72661a234b8/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hli7i34c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-07",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם מפיקת החתונות של המדינה אירית רחמים",
+       "page": "",
+       "id": "--kaltura--1_hli7i34c===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 7 - ליבי נחימובסקי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/024eb9de26574950b873a82b262f21cc/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nzk2fopw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-30",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם משפעינית הרשת החרדית ליבי נחימובסקי",
+       "page": "",
+       "id": "--kaltura--1_nzk2fopw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 5 - אוולין הגואל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b268a16ddf74b849f119bf76d3872cb/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8ceixmib/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-23",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם השחקנית אוולין הגואל",
+       "page": "",
+       "id": "--kaltura--1_8ceixmib===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 4 - עדן פינס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4abb52b72b1241bebac6239136d1cee1/version/24/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mhf8zvey/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-23",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם הדוגמנית עדן פינס",
+       "page": "",
+       "id": "--kaltura--1_mhf8zvey===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 6 - ירדנה ארזי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2db858736fa24a43959aae1f00c5fb40/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xkjb57ad/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-23",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם הזמרת ירדנה ארזי",
+       "page": "",
+       "id": "--kaltura--1_xkjb57ad===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 2 - גילה אלמגור",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b799d8f0f1b5408ea54caaf8d3c0e923/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_44rjsjvs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם אשת התיאטרון גילה אלמגור",
+       "page": "",
+       "id": "--kaltura--1_44rjsjvs===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 1 - גאולה אבן-סער",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e30d4c71154e436b95682acf3ab0556e/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0121k86n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם מגישת \"העולם הבוקר\" גאולה אבן-סער",
+       "page": "",
+       "id": "--kaltura--1_0121k86n===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "ללא פילטרים, עונה 3, פרק 3 - מורן אטיאס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e456e7e1da5e48858d722354c89b45d8/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0y3dqwdz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מוטי רייפ מארח בביתו את אושיות התרבות הגדולות בישראל לשיחה פתוחה על החיים האמיתיים שמאחורי הקלעים. והפעם: אחד על אחד עם הדוגמנית והשחקנית מורן איאס",
+       "page": "",
+       "id": "--kaltura--1_0y3dqwdz===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

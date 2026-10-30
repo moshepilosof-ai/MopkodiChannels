@@ -1,0 +1,151 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מלבי אקספרס",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "473",
+   "series_id": "473",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd0db82a98b34a088508cac7ec388c67/version/2/width/800/height/1200/quality/90",
+   "plot": "מלבי אקספרס לצפייה ישירה - שלושה צעירים נוסעים לברזיל בעקבות אהבה ונכנסים למסע פרוע במיוחד. עם מיקי גבע, עדי הימלבלוי, קותי סבג, שחר חסון, מיכל גבריאלוב ועוד. יוצר: מיקי קבע. בימוי: בן בכר. תסריט: מיקי גבע ושני פישר",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מלבי אקספרס, עונה 1, מאחורי הקלעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/799b7b91e1494bb7a91fcc2bb3c23c39/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jmztpiky/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-27",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_jmztpiky===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/511b7116ef1d4870ab30cc39accf658c/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_usmrzemm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_usmrzemm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a73db123f6024ad1b2e7beeb46a996c6/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o86oozct/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_o86oozct===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7d1107a229e046aba752a32ce58b2c34/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8dqqmgas/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_8dqqmgas===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f6dd3c0928794affbb422d34216b9a90/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rymyyw1a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_rymyyw1a===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9e658f6bf29e4c2aac0cc1854e2b282f/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ej0v0mc2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_ej0v0mc2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da3b457633154cbe8671ca28a5a2a450/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bwugwle5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_bwugwle5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2de19e528c104d6ab0aab477a75e14ed/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_idwzdkn1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_idwzdkn1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2df36d0d48b45f89461e20698f597af/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5g6885aq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_5g6885aq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e39f1f01dcca43789653ecbaa2161b75/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w814rb3d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_w814rb3d===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/75018051e92a475894c4553291c2b6d4/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_irrcum3r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_irrcum3r===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5348f1b84a5041a59818a7f1aaf4cb7b/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_93br9r26/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_93br9r26===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מלבי אקספרס, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/67f0be503c374e5bb6a9e5c29c3da827/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bdh7vdxt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-05-22",
+       "plot": "אייל, מושיקו וג'וקה הם החברים הכי טובים, שמגיעים לחופשה בברזיל שהופכת להרפתקה פרועה, מלאת אקשן, הסתבכויות, התאהבויות והפתעות. אף אחד מהם לא יכול היה לנחש איך הטיול הזה יגמר. מככבים: מיקי גבע, שחר חסון, יובל שגב, עדי הימלבלוי, מיכל גבריאלוב, וקותי סבג",
+       "page": "",
+       "id": "--kaltura--1_bdh7vdxt===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

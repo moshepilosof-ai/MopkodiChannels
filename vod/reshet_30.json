@@ -1,0 +1,921 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - שנות ה-80",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "30",
+   "series_id": "30",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d29792f3748e47d497bce9fdecdd75c2/version/14/width/800/height/1200/quality/90",
+   "plot": "שנות ה-80 היא סדרה קומית שהפכה לקאלט על ילדותו של שלום אסייג בטירה. בכיכובם של שלום אסייג, דניאל אסייג, עפר שכטר, אוולין הגואל. כותבים: שלום ומני אסייג",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "שנות ה-80, עונה 1, פרק 13: מי שמחבק - משלם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5d3c59dfa334f2d860d9475aefcece4/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9um9g97t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "זה התחיל מחיבוק תמים ונגמר בחתונה שיצאה משליטה בפרק סיום העונה",
+       "page": "",
+       "id": "--kaltura--1_9um9g97t===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 10: תרנגול כפרות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d513029b62b46468599d6875f9128e6/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e9qzw7by/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לקראת יום כיפור, פרוספר חולם לתקוע בשופר ושלום ומני מנסים להציל תרנגול",
+       "page": "",
+       "id": "--kaltura--1_e9qzw7by===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 11: המשחק שיצא משליטה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a666c690ba81412086d02c976adf934d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cjn6cglp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "זה התחיל במשחק כדורגל תמים שגרם לבלאגן בכל העיר!",
+       "page": "",
+       "id": "--kaltura--1_cjn6cglp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 12: על קוצים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d518b2e0c6394f7eae3fddb6b1cbd500/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gvza67ee/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום מנסה למכור סברסים כדי לממן את המבחנים לעיר הנוער ומני נחלץ לעזרתו",
+       "page": "",
+       "id": "--kaltura--1_gvza67ee===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 7: חוסר אחריות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e94ccbaec4ca44c7b7767702b3614073/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p4a516no/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליאור בולע סיכת בטחון ושלום בהיסטריה, האם יעברו בשלום את שנת תשמ\"ד?",
+       "page": "",
+       "id": "--kaltura--1_p4a516no===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 3: סיפור אהבה בלתי נשכח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1d50958f2e641d996112c3aa0a68517/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5pf8xioy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום מתאהב ביסמין הערבייה. איך משפחת אסייג תקבל את זה?",
+       "page": "",
+       "id": "--kaltura--1_5pf8xioy===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 6: לו הייתי רוטשילד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc8a062f952d4e4c863c38dd65c7edd6/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zy0b1cb7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שגעון הטוטומאניה נוחת בטירת הכרמל וכולם רצים למלא טפסים! מי יהיה הזוכה?",
+       "page": "",
+       "id": "--kaltura--1_zy0b1cb7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 9: צו ראשון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cdad89033eca40dfa667ba3339bd3e07/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nm5do2im/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם שלום יצליח להתחמק מקרבי ולהתקבל ללהקה צבאית?",
+       "page": "",
+       "id": "--kaltura--1_nm5do2im===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 5: ליכוד או מערך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39de288f34444ed5ad998b0985fa12e3/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_78h3jav9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כיצד המשפחה תתמודד עם החתן המערכניק?",
+       "page": "",
+       "id": "--kaltura--1_78h3jav9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 8: צרות בגן עדן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/75cdf34959f0416c937706a3f49e7d6a/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_friho4y0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליליאן מתחילה לעבוד במאפייה ופרוספר חושב שבהיא בוגדת בו.",
+       "page": "",
+       "id": "--kaltura--1_friho4y0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 2: מירוץ הטלויזיות הגדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f51b207c8998405ba5066bce326d00ac/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kpif9ugy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר מנסה בו זמנית להתחמק מתשלום אגרת הטלויזיה ולהפוך לחזן. האם יצליח?",
+       "page": "",
+       "id": "--kaltura--1_kpif9ugy===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 1: חלום ילדות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1651df05eafd46ba935b2ca83980656a/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_byit6nkb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום חולם להיות בדרן ופרוספר חולם להיות חייט. מי יגשים את חלומו?",
+       "page": "",
+       "id": "--kaltura--1_byit6nkb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שנות ה-80, עונה 1, פרק 4: קוביות מזל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/127db7102cbe4a63a6e7bef60c2b7de5/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i4q7zyro/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "שגעון הקוביה ההונגרית נוחת בבית משפחת אסייג",
+       "page": "",
+       "id": "--kaltura--1_i4q7zyro===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "שנות ה-80, עונה 2, פרק 13: ליל הסדר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/180813d55a854dc9a04f206ec29de9b9/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eaal6mv1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליל סדר סוער מוביל לשאלה על שם מי ייקרא הבן של ממוקה?",
+       "page": "",
+       "id": "--kaltura--1_eaal6mv1===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 8: פורים שמח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3e9ed318a7640c5af13358fc0a825a6/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hq7ycjdk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מגילת אסתר הנדירה של פרוספר נגנבה ושלום פוצח בקריירת שירה",
+       "page": "",
+       "id": "--kaltura--1_hq7ycjdk===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 10: המתיחה הגדולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ccd9b567dc2042e79ccfc771de59129d/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5e7g6856/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום עורך סדרת מתיחות לדיירי השכונה, יוצר מהומה ומעורר את זעמו של פרוספר",
+       "page": "",
+       "id": "--kaltura--1_5e7g6856===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 11: הקש בדלת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/01e2cf2ffd3345e69512eea0c9180d13/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ez8t9ld3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום מסתבך במבצע ההתרמה השנתי של בית הספר",
+       "page": "",
+       "id": "--kaltura--1_ez8t9ld3===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 4: משולש רומנטי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/49ecf964ff0a44859270d7883e05221e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_skdj8vl3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חנה פינצטה ואירמה דודה של ממוקה רבות על ליבו של פיטוסי",
+       "page": "",
+       "id": "--kaltura--1_skdj8vl3===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 9: המורה לספורט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/48d2829b90b54c6d9e937aff112d8fb3/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9x23qcfm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ממוקה חושש לחייו ושלום מסתבך עם המורה לספורט הקשוח",
+       "page": "",
+       "id": "--kaltura--1_9x23qcfm===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 5: מלחמת הכוכבות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd35809fe9d745ab9b323716efc4df12/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gcx49ibq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חנה פינצטה המעריצה הנלהבת של עופרה חזה מכריזה מלחמה על מעריצי ירדנה ארזי. שנות ה-80 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gcx49ibq===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 6: המורה הפרטי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e052bbb280a434eb77e9b38b06dfc9f/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mn1meup6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום מדרדר בלימודים ומקבל מורה פרטי וגם ממוקה וחנה במבצע עוקץ",
+       "page": "",
+       "id": "--kaltura--1_mn1meup6===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 2: בלאגן בסוכה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a25a5226a9ed47f09141a0938c63bf0d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wqut2gxx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חגיגות חג הסוכות יוצאות משליטה בפרק שיעיף לכם את הסכך",
+       "page": "",
+       "id": "--kaltura--1_wqut2gxx===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 1: האורגן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e39a1233563643869895e2b484bfebf3/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g3yhw1xe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר מתלבט האם להיות הרב של הקהילה ושלום זוכה באורגן שמשגע את כולם",
+       "page": "",
+       "id": "--kaltura--1_g3yhw1xe===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 3: בלי עין הרע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3532a5fd902c4c04837d31104cc60254/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_875uts07/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליליאן מזעיקה את אחיה שיציל את המשפחה מעין הרע בעוד שגידי מנצל את המצב",
+       "page": "",
+       "id": "--kaltura--1_875uts07===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 12: חוגגים בר מצווה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d04e176a06904b9293bf7deff4c14330/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y3gpu573/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "כולם מתכוננים לבר מצווה של ששי ורק ממוקה בהכנות ללידה",
+       "page": "",
+       "id": "--kaltura--1_y3gpu573===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "שנות ה-80, עונה 2, פרק 7: רפורט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a7ea78e2bff44909651ef48a9a8d373/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z9zjwcql/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "פרוספר מנסה לבטל את הרפורט שקיבל בעוד ששלום מתנדב עם השוטר שמילא את הדוח",
+       "page": "",
+       "id": "--kaltura--1_z9zjwcql===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "שנות ה-80, עונה 3, פרק 13: רצים לדירה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca0a38ccf0154669aba0084677a2a6d2/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lpce2a4d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חלום הדירה החדשה של פרוספר ולילאן מתרחק בעקבות חוב. פרק סיום העונה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_lpce2a4d===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 8: השבעה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2679949d1c254efa9b80dba6df958877/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m5j4i5zk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך נפטרים מרב שמדבר יותר מדי בשבעה? איזו ברכה אומרים על במבה? ומה כולם רוצים מגידי? צפו בווידאו",
+       "page": "",
+       "id": "--kaltura--1_m5j4i5zk===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 11: ריסוס בשכונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c18093248534c85907ef3bfa0bd261e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q4kk2isa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "משפחת עובדיה מתפנה מהדירה בעקבות ריסוס נגד מקקים. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_q4kk2isa===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 10: עכבר בית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/791c66b8964a48fcbe4bed33a06e2256/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i2txhnr0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר מתחיל לעבוד כנהג הסעות ומתכחש לבעיית הרוורסים החמורה שלו. ממוקה וויטלי נלחמים במרץ בעכבר סורר שמאיים לכרסם להם את המכולת בעוד שלום מנסה להפוך לבאדי בילדר ומתמכר למשקולות ולאבקות פרוטאין.",
+       "page": "",
+       "id": "--kaltura--1_i2txhnr0===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 3: מבצע משה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a407fad8ad7b4aa2aafb29989ce0cc38/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fmwyok7x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שנות ה-80 ממשיכה עם עונה שלישית מלאת התרחשויות מפתיעות, והשבוע - מה קרה כשממוקה ראה עולה אתיופי לראשונה בחייו? צפו בפרק",
+       "page": "",
+       "id": "--kaltura--1_fmwyok7x===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 6: נעולים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6d4079c741b458c841c6060c1a2cac9/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rhr8cqi2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בעקבות חלום מפחיד פרוספר מחדש נדר ישן ממרוקו ואוסר על בני המשפחה לצאת מהבית בעשירי בטבת. שלום מתאהב קשות בבחורה יפהפייה ממשפחה מפוקפקת בעוד קוקו ופרדי שוברים את הראש בניסיונות לפצח אגוז קוקוס. צפו בפרק המלא.",
+       "page": "",
+       "id": "--kaltura--1_rhr8cqi2===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 5: כי תבוא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/370dcd906710488f834b485154c88fae/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8i3bg0yq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בית הכנסת השכונתי מאז ומתמיד היה מוקד למחלוקות, והפעם - מה קורה כשמרסל מסרב לעלות לפרשת \"כי תבוא\", למרות שתורו סוכם מראש? צפו בפרק",
+       "page": "",
+       "id": "--kaltura--1_8i3bg0yq===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 7: חמסין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab8fa0a716164ee0816451f0a87e451b/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ramckvgh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה ההבדל בין מאוורר לונטילטור? האם עבודתו של קוקו נמצאת בסיכון? ומי הכי טוב ב-\"5 אבנים\"? צפו בפרק 7",
+       "page": "",
+       "id": "--kaltura--1_ramckvgh===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 1: האם שלום יחזור בתשובה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/279a14eaec254454aad68bfecea9737f/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c9tbi3fj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק הפתיחה של העונה השלישית של \"שנות ה-80\" מפתיע אותנו עם התקרבות של שלום אל הדת, עם החלטתו של פרוספר לעבור דירה ועם הקרב על ניהול המכולת של ממוקה. צפו בוידאו",
+       "page": "",
+       "id": "--kaltura--1_c9tbi3fj===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 2: תצא בחוץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/272c42d1c72e4e52bc268168e56f469a/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7w2ff6ue/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק השני של \"שנות ה-80\" כולם מנסים לכופף כפיות, הרב מאיר אוחנה מנסה להוציא את מורדי מהבית ושלום ומני מנסים לגרום לשעון הקוקיה להפסיק את צלצולו המטריד. צפו בוידאו",
+       "page": "",
+       "id": "--kaltura--1_7w2ff6ue===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 4: מלחמת כבלים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90ccd14facca431fadc3951171a40403/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dpa3773x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק 4 לוקח את שנות ה-80 צעד קדימה עם מהפך בתחום הכבלים הפיראטיים של השכונה ושלום ממשיך להיאבק בדרכו לקריירה, צפו בוידאו",
+       "page": "",
+       "id": "--kaltura--1_dpa3773x===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 12: שבועות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/847577a994d74974b51f270c22c1aed2/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iayo74wk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "שלום נכנס לעימות חזיתי מול המנהלת שמאיימת לבטל את מסיבת סיום יב' בה הוא אמור לככב. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_iayo74wk===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 14: שנות ה-80 \"נעים להזכיר\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b7ea22e01484ac7bc01662c069ce363/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sqrpwe3c/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מבחר סצנות נוסטלגיות ומטריפות מתוך שלוש העונות של סדרת הקאלט האהובה פרי יצירתם של האחים מני ושלום אסייג",
+       "page": "",
+       "id": "--kaltura--1_sqrpwe3c===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "שנות ה-80, עונה 3, פרק 9: מיס טירת הכרמל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ba8b78574ef4808a95b065d29541fae/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vak54o62/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "גידי לומד בדרך הקשה מה אסור להגיד לאישה ופרוספר עובר לטונים גבוהים",
+       "page": "",
+       "id": "--kaltura--1_vak54o62===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "שנות ה-80, עונה 4, פרק 20: שירת הסירנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/467b1471f6394c9cbaf5cf3555af2b78/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_unhhd3qi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום מתנדב למד\"א אך מתגלה כהיסטרי. משפחת יושבייב נכנסת לסחרור בעקבות ההתמכרות של ממוקה להרחת טיפקס. אילנה וחיה מתקרבות במהירות ללידה, איזה מזל ששלום הפרמדיק בסביבה",
+       "page": "",
+       "id": "--kaltura--1_unhhd3qi===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 10: צנזורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f48a0c910e2248a7a7c87bae84639f43/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_06juslh2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "זאזה החלפן מתגלה כזמר גדול ומחליט לייסד להקת שמחות גרוזינית ומצרף אליה את שלום כקלידן. חלבי המתחזק בדת מחליט לבקשת פרוספר והרבנים להקרין בכבלים רק תכנים יהודיים, מה שמוביל למרד צרכנים נגדו, ואילו ממוקה וויטאלי נערכים ליומולדת 3 לויצ'ליקו",
+       "page": "",
+       "id": "--kaltura--1_06juslh2===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 21: פרק סיום העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6c358f6b48234436b46b64f79b3eb975/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uqb8diwf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרדי ואניטה מתארסים וליליאן מתכננת לקיים בדירה של משפחת אסייג את טקס החינה למורת רוחו של פרוספר. שלום מתעמת עם ראש העיר לאחר שזה כפה את ביתו על להקת \"הצברים\" כסולנית. מני מתמכר למשחק הכאפות בידיים",
+       "page": "",
+       "id": "--kaltura--1_uqb8diwf===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 7: הקשר הצרפתי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a1118950ad0466693cb224319df0453/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b9lj5tf9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הדוד עמרן עושה עליה ממרסיי יחד עם ביתו קלודין היפהפייה (מירי בוהדנה) שמשגעת את השכונה. מורדי שחולם לרכוש את ליבה של קלודין לוקח שיעורי צרפתית אצל מרסל ואילו פרוספר מסדר לקלודין עבודה אצל פיטוסי רודף השמלות שלא ממש עומד בהבטחותיו לשמור על איפוק. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_b9lj5tf9===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 11: בדיקת ינשוף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32533f2bc21f404cb48d4da6323be609/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_txv9v5kg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "תכונה גדולה בקרב תושבי טירת כרמל לקראת ביקורו של ה\"ינשוף\", מקובל גדול משושלת אבוחצירה. בין הממתינים לברכת המקובל נמצאים אילנה וגידי שלא מצליחים להיכנס להריון. בינתיים, חלבי הזועם מחפש בנרות את הנוכל המתחזה שגבה בשמו כספים בזמן שהיה מאושפז. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_txv9v5kg===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 13: זוהר המלך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8830020996644ff79d22dfca02745c39/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tk773rdm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חלבי מתקשה להשלים עם מותו הפתאומי של המלך זוהר ארגוב ומחליט לשבת עליו שבעה בעוד שסיני מנסה לגייס תומכים לתפקיד בעירייה. שנות ה-80 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_tk773rdm===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 12: הימור מסוכן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad2a5ba3c3744eb5b308302ece4f95f7/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_40iggme8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר נערך להרצאה על מורשת יהדות מרוקו בכיתה של ליאור בעוד שטמנו, השכן החדש בשכונה מתמכר קשות לחיש-גד בדוכן הפיס של סיני ובבר",
+       "page": "",
+       "id": "--kaltura--1_40iggme8===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 4: עבודת שורשים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4804064872644f838059e8d342fd52ca/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mtmpigxz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ההשתתפות של שלום במופע הענק של להקת הצברים מוטלת בספק גדול בשל כאבי שיניים חזקים והתמכרות לעראק. קוקו מנסה בכל דרך להשיג הלוואה בכדי לקנות רכב דפוק בהזדמנות, בעוד פרוספר מנהיג בסלון הדירה שיעורי תורה, אליהם מצטרף חלבי לאחר שניצל ממוות בהתחשמלות. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_mtmpigxz===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 6: התק\"ם להניח תפילין?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/61bc3183fab242f084d5d39325715c0c/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1197avlv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר המיוסר מלמד לבר מצווה את נועם, אחיה של גליה, שלום מתמכר למשחק \"עברייני\", חלבי נטרף מהחשקים של חיה ההריונית שמתזזת אותו הלוך ושוב, ואילו מרסל הופך עולמות בכדי למצוא את מי שגנב לו את מחשב הקומודור החדש. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1197avlv===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 3: עיתוניש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cc40d36e34014092b1afbb234dfc2852/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wy8glv2e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום מקבל צו גיוס לתאריך קרוב והופך עולמות בכדי לדחות הגיוס ולהספיק את הבחינות ללהקה הצבאית. פרוספר מקבל הצעה מפתה לשמש משגיח כשרות מטעם העיריי ו גידי מקבל משרה כעיתונאי תחקירן בעיתון המקומי ועורך תחקיר שמסבך את שלום. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_wy8glv2e===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 5: שערי ועד טוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41fa781004454b018cee9d44c78e28c1/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b4yi98c5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר פוצח בקמפיין לראשות הועד ומגלה את הלכלוך שבפוליטיקה ושבמרסל. בינתיים, מכת כינים פושטת על דיירי הבניין ולא פוסחת על אסייג, מה שמטריף לחלוטין את ליליאן. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_b4yi98c5===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 1: אהבה ממבט שני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a90e07de074149419964a3734ded2bb0/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ka2uv29e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "משפחת אסייג מתמקמת בדירה החדשה. שלום מתחיל לעבוד ברפת הקיבוץ השכן ומתאהב בקיבוצניקית יפהפייה למורת רוחם של הוריו, פרוספר מנסה לשדך לפרדי בת זוג, מה שמוביל לקומדיית טעויות מטורפת בין פרדי, מורדי והמיועדת. בתוך כך דייר חדש ומאוד מאוד מפתיע מגיע להתגורר בדירה הפנויה בשכנות לאסייג. פרק הבכורה של העונה הרביעית של שנות ה-80",
+       "page": "",
+       "id": "--kaltura--1_ka2uv29e===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 2: הדשא של השכן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a59ff6d4f90f4a15a2ee99965bdd20cf/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_61erx7ed/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר ומרסל נאבקים ביניהם בחירוף נפש בתחרות הבניין המטופח. שלום והחבורה מהשכונה מחפשים דרכים יצירתיות להיכנס למועדון הפלדיום בחיפה, שממדר ומונע כניסה לתושבי טירת כרמל. בתוך כך \"שמואל מתנ\"ס\" מסתבך עם ממוקה וויטאלי שחושדים כי הוא גונב להם שוקו ולחמניות מהארגז",
+       "page": "",
+       "id": "--kaltura--1_61erx7ed===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 14: אזעקת שווא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/49afed7b137e4b52890d00d628dcf31c/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_csacleze/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הדוד מרדוש הידעוני מגוייס בצו 8 על ידי לילאן המקווה שהוא יכול לחזות עבורה את מספרי הלוטו. גבי בונה המצבות נכנס לעימות חזיתי מול מתפללי בית הכנסת המונעים ממנו את קניית פתיחת הפרנסה. בתוך כך חלבי נאבק בילד המעצבן שמשמיע קולות אזעקה ומלחיץ את תושבי השכונה | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_csacleze===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 16: היפה והחיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df4c0f111de5407bb54eba7c0194c28e/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_c2f53c6p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "קלודין היפה נגררת לרומן אסור עם פנסו העבריין האימתני מהשוק ומזעזעת את הוריה ואת פרוספר. להקת הצברים מתעתדת לטוס להופעה בחו\"ל בתאריך בעייתי, מה שגורם לשלום להסתבך עם מאפיונר גרוזיני זעפן. פרדי מצידו יוצא מדעתו בעקבות שיגעון הגוגואים.",
+       "page": "",
+       "id": "--kaltura--0_c2f53c6p===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 22: פרק פספוסים ללא צנזורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14a492164813490490e76bcb5646a6fc/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_yb4a1p1h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשממוקה איבד ריכוז, כשפרוספר יוצא מאיזון או כשמורדי מאבד פוקוס? כל השכונה מאבדת כיוון! שנות ה-80 סוגרת עונה עם פרק פספוסים מיוחד",
+       "page": "",
+       "id": "--kaltura--0_yb4a1p1h===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 9: הצוואה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/55ecfa53be604762840d3e9011767bde/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ebxta75z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "רבי מאיר נקלע לבעיית בריאות חמורה ומסכנת חיים, מה שמוביל למלחמת ירושה מלוכלכת בין מרסל אחיו לבין שני ילדיו. בינתיים, שלום ומני פותחים דוכן למכירת ספרים משומשים לקראת פתיחת שנת הלימודים, בעוד פרוספר וליליאן נרגשים נערכים לאירוח הוריה הקיבוצניקים של גליה לערב שבת. הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_ebxta75z===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 19: עיניים שלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d36958e1814f49e88ae64768554d3f3b/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_7we8rtlb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מרסל מנצל את מחלת העיניים של פרוספר ודואג למנות את אחיו רבי מאיר לתפקיד החזן. חלבי המתחזק עושה מאמצים כבירים להעביר את ששי לבית ספר דתי, בעוד ממוקה מתמודד מול הקללות שמנחיתה עליו רבקה קורקוס הרבנית",
+       "page": "",
+       "id": "--kaltura--0_7we8rtlb===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 8: חגורה שחורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be83523bd93c461f8611929deb6dae0c/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_46nohk10/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "בעוד קלודין מתמודדת מול החיזורים של פיטוסי, פרוספר מסדר לאביה עמרן עבודה כעוזר מאמן ג'ודו במתנ\"ס המקומי, שלום נערך למבחנים ללהקה הצבאית ומתחיל ללמוד פסנתר אצל נטליה השכנה הרוסיה. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_46nohk10===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 17: מכת פלולות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56d0e5fe79ec4a93bc53d4432cec0ace/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_28lmteep/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הדוד מרדוש שוב מוזעק אל אסייג, והפעם הוא מגיע למצוא מזור למגפת יבלות (פלולות) מוזרה שתקפה את דיירי הבניין. גידי מתמנה לספרן בספריה העירונית ומפעיל סנקציות נגד משאילי הספרים. מרסל מצידו מפעיל מעקבים אחרי מולוגוטה החשוד כי הוא גונב ממנו כסף | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_28lmteep===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "שנות ה-80, עונה 4, פרק 18: איוואן האיום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfd267030524418fa449a4e3944c2523/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_sgb3e5sl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "משפט דימניוק משפיע לרעה על נחצ'ה הסבא של גידי, וזה מזמין אותו לכמה ימי התרגעות אצל משפחת אסייג. פרוספר לוקח עליו את צביעת הספסל בחזית הבניין ואוכל מרורים ממוניה ה\"יועץ\". שלום מצידו נערך להנחיית ערב מיוחד בשפה האנגלית ונקלע למשבר אמון עם גליה.",
+       "page": "",
+       "id": "--kaltura--0_sgb3e5sl===",
+       "season": "עונה 4"
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "שנות ה-80, עונה 5, פרק 1: לא בלי ויצ'ליקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/78fd39455cb44894a886ec116efefe82/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a2thksxd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר הנרגש והמאושר מקבל ספר תורה עתיק שהתגלגל אליו ממרוקו ומתכנן הכנסה מפוארת, מני מתמכר להימורים בדוכן הקלפים המאולתר של מורדי כאשר ממוקה, שנכנע לגעגועים העזים להוריו, מחליט על מעבר דירה לבלגיה למורת רוחם של הקווקזים הזועמים | שנות ה-80 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_a2thksxd===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 2: טירונות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2a6cef9917b4d08b8ee624740eee1a5/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7iu709zb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אילנה וגידי, כמו גם חלבי וחיה, מתמודדים בחרדה עם רופאת טיפת חלב מלחיצה במיוחד, כאשר שלום שמתגייס לטירונות מסתבך קשות כשמזייף בהשגחה על הנשק האישי. איך כל זה מתקשר להיפר שוק שנפתח לראשונה בטירת כרמל ולעובדים המופרעים שהוא קלט מהשכונה?  | שנות ה-80 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_7iu709zb===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 20: ל\"ג בעומר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b31570c39be41c89ddd899331ed8a8e/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0qvzr17p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר כבול בנדר לנסיעה לקבר הרשב\"י בל\"ג בעומר ונתקל בקשיים כשמנסה לארגן הסעה. ההכנות למדורות המסורתיות לא פוסחות על מורדי שמשכנע את מרסל לבצע שיפוצים במספרה, תוך שהוא זומם על ריהוט העץ שישמש אותו למדורה",
+       "page": "",
+       "id": "--kaltura--1_0qvzr17p===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 25: ספיישל משפחת יושבייב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77b51b94aee744d1867c1184d64ad5b1/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yongxhvk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק שכל כולו מוקדש למשפחת יושבייב | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_yongxhvk===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 21: הכנסת הספר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f9e4f630284f4944ae5e6cd4d1064db5/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_330v9kzz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גבאי מפרסם את הדירה למכירה וגורם למאבק טיטנים רודפי נדל\"ן בעוד ליליאן מצידה מנסה לטרפד את רכישת הדירה ע\"י מרסל. פרוספר הנרגש נתון כולו בארגון ההכנסה החגיגית של ספר התורה המפואר ולא צופה את הטראומה ששלום יגרום לו | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_330v9kzz===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 22: פספוסים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1795bc33aff74faebd2bd8bd15840b84/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_8mvtrnjh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שמרנו את הכי טוב לסוף! פרק פספוסים שאסור לכם לפספס בחיים עם כל הקטעים הקורעים מכל עונות הסדרה | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_8mvtrnjh===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 26: ספיישל משפחת עובדיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbaae36e188c4dc19d854f6dbc67d4e0/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_afo5dza7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מי היחידים שלא הבינו ששנות ה 80 נגמרה? משפחת עובדיה כמובן! מוזמנים לחגיגה אחרונה עם המשפחה הכי דבילית על המסך | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_afo5dza7===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 23: ספיישל שחקנים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6fcd3ac97d142959d5bba7e8705fcc6/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_9kwh3u41/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ספיישל פרידה עם כל השחקנים על כל הרגעים המצחיקים והמרגשים | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_9kwh3u41===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 9: עסק משותף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/435eca0c93b44c0f8d2f8a8fe066fe6a/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_4tt2xwzb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חלבי שנקלע לחובות כבדים, מחפש אחר משקיע לעסק הכבלים ומתפשר על שותף. מרסל משכיר כיסא במספרה למולוגוטה האתיופי ונכנס איתו למלחמת עולם קמצנית. בנוסף, שלום מדהים את השכונה באמצעות קסם מופלא שלמד בצבא | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_4tt2xwzb===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 8: טלפון שבור",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/898a8234bd3842fe88471e8af513f839/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_2b3sh7mf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האחריות על ניקיון המדרגות שמוטלת תמיד על הנשים בבניין, מביאה את ליליאן לארגן מרד נשים שילמד את הגברים לקח כשהם מחליפים תפקידים ביניהם. בנוסף, אירמה מבקשת מליליאן להזעיק את דוד מרדוש בכדי שיגרום לפיטוסי לחשוק בה באמצעות כישוף שיוצא לגמרי משליטה | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_2b3sh7mf===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 6: שלום מתקלט במועדון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/923dc80dff31455084aac953b48e069b/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_3646a8pl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום מקבל הצעה לתקלט במועדון וכולם רוצים להצטרף לחגיגה. איך תיגמר המסיבה אם כל השכונה תגיע? | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_3646a8pl===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 7: ספר השיאים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd8e2088f43d40a2b56d65aedbc150a4/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_yvabccus/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ששי מקבל כמתנת יום הולדת מהדורה של ספר השיאים של גינס וגורם לטירוף בקרב מופרעי השכונה שמנסים להיכנס לספר תוך שבירת שיאי עולם שונים ומשונים. במקביל, חלבי מחפש בנרות את הגנב שפרץ לו לרכב ומני נקלע לרומן אסור עם נחתת מנושאת מטוסים מאמריקה | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_yvabccus===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 10: כך הולכים השותלים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d68588ba683e440488fab2a42a44c051/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_qg376elc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר לוקח יוזמה ומארגן קמפיין התרמה שכונתי למימון השתלת כליה בחו\"ל עבור מנדל החולה. ברוך העבריין שמתאהב קשות בקלודין היפה, מוכן להשתנות עבורה ומוכיח זאת במעשי חסד קיצוניים ומפתיעים במיוחד",
+       "page": "",
+       "id": "--kaltura--0_qg376elc===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 11: עלילות בית הקשיש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c8cafa2f419e40e0bd87253b4ef75894/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_4gcni3zj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרוספר לומד ספרות סת\"ם אצל רבי בלישה שמאכיל אותו מרור, סיני מתמנה למנהל בית הקשיש החדש בעיר ומתעמת עם מרסל שפועל לפיטוריו של האח הערב, וויטאלי מנסה למצוא לסבתא מיזולדה שידוך הגון מבין דיירי בית הקשיש | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_4gcni3zj===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 14: מלאת אהבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07bbb253e934476dad9f72306050b5bc/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_q20cdnhf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אירמה מקבלת בשמחה את הצעת האירוסין של פיטוסי ומפצירה בממוקה לקיים את האירוע אצל ויטאלי. שלום מקים הרכב מוזיקלי המורכב מדיירי בית הקשיש, מה שמוביל את רבי מאיר ללימודי פיתוח קול, ואת רבי בלישה לסחוט את פרוספר בכדי לסדר לעצמו מקום בלהקה",
+       "page": "",
+       "id": "--kaltura--0_q20cdnhf===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה80, עונה 5, פרק 13: המימונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/797d5810cc684fed8cb4d5567fdcf297/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_dnh61euu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליליאן נפצעת באצבעה בעיצומן של ההכנות למימונה המסורתית, ומשתגעת מהאפשרות שקלודין תאפה במקומה את העוגיות, בעוד מורדי מצידו זומם על אירוח המימונה אצלו. בתוך כך ממוקה סופג תביעה משפטית מגידי לאחר שכלבלב שהיה באחריותו \"תקף\" את ליאור",
+       "page": "",
+       "id": "--kaltura--0_dnh61euu===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 12: הדיאטה של פריזר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47f93f3001454865b77cdd6254e3eb02/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_0gvxl2gk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מני נכנס למשטר אימונים קדחתני לקראת הגעתו של מומחה לכדורסל המחפש את הכשרון הבא של ישראל, גידי עושה חיל בממכר חבילות הרזיה לכל השכונה ופרדי, שמושפע מתשדירי השירות, דואג לפוצץ חפצים חשודים | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_0gvxl2gk===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 15: אוטו זבל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f298ea29827e422598216027c4614181/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_2wudmzhl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "גניבת הפדיון החודשי של חלבי ופנסו, גורם להם זעם צרוף ורצון לשרוף את העיר. קוקו ופרדי מתחילים בעבודה משותפת במשאית זבל ומוצאים בתוך האשפה תגלית משנה חיים. בתוך כך תושבי השכונה מתמודדים עם הרעש הנורא שששי מפיק ממערכת התופים שקיבל במתנה",
+       "page": "",
+       "id": "--kaltura--0_2wudmzhl===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 16: מוצא המינים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a960ad9a0f294215be24f06232bea0af/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_l5j9ozwo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רבי קורקוס ואישתו רבקה, מגרשים את בנם מהבית כשזה מגלה סימני כפירה באמונה בעקבות השפעת הספר מוצא המינים. חינגה נקלע לקושי כלכלי חמור בעוד אילנה חווה שוד בנק ומגלה חמלה ורחמים כלפי השודד שזהותו לא ברורה",
+       "page": "",
+       "id": "--kaltura--0_l5j9ozwo===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק לקט: מסיבה בשכונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b3fbbdaa1c849a38b006dfa3a16f629/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_lky29hpa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק מיוחד עם כל רגעי העונה של משפחת אסייג האהובה",
+       "page": "",
+       "id": "--kaltura--0_lky29hpa===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 24: המופע של מורדי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/99b15518b4704f0ca1da542a93c9ed5b/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_25rr9esx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מורדי הוא ללא ספק מהדמויות המצחיקות בשנות ה-80, ועכשיו הוא מקבל מופע פרטי משלו | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_25rr9esx===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 18: שערות סבתא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/11ebb843699f4a16a3c4dff44a846833/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_09rw3602/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בעקבות הסתלקותה הפתאומית של סבתא מיזולדה ממוקה שוקע בתהומות של יגון וצער, בעוד שלום משתמש בטרגדיה הגרוזינית בכדי להשיג לעצמו חופשה מהצבא. ואיך כל זה מתקשר לסמנתה פוקס החושנית ולכשרון הציור של גליה? | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_09rw3602===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 19: הסנדק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd67a924e6614eadbae3109df7dcaeda/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9oh5nvx8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שגעון קלפי חבורת הזבל מגיע לשכונה יחד עם הבן הבכור של פרדי ואניטה. פרוספר מקבל הבטחה מקוקו לשמש הסנדק בברית של נכדו, ומגלה לאכזבתו שהוא לא היחיד שקיבל הבטחה כזו. בתוך כך ממוקה וויטאלי פותחים קזינו מאולתר במכולת ומסתבכים עם חלבי ועם מרסל | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_9oh5nvx8===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 17: מחיר הערק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/26f8c3a5309d4c8eb866ff8951e43ebc/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_50jcl5zr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "גידי מתמנה כאחראי שיווק ופרסום במפעל ערק ומחפש פרזנטור זול מהשכונה. שלום מתעמת עם השקמיסט הרמאי בבסיס ולא משער עם מי הוא הסתבך. פרוספר מדיח את מרסל משולחן הבלוט וזה בתגובה מייסד קבוצת קלפים אלטרנטיבית והזויה | לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_50jcl5zr===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 3: משפחה מיוחדת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c5d3d34cff1c4cd5ba6082cdde706ec4/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_9a7yjojj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הבקשה של שלום לחופשה מיוחדת מהצבא מזמנת לביתו ביקור בלתי נשכח של קצינת התש. המנהלת ברכה משדכת למנדל ההמום את אחותה בעוד הוא מאוים בסילוק מדירתו השכורה בשל חובות. גידי ואילנה מחפשים דירה להשכיר מתחת לאפה של ליליאן שמתנגדת בתוקף למהלך | \"שנות ה-80\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_9a7yjojj===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 4: עוגמת נופש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b7f490ff93704aec85d08379c099a2fc/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_set0x61w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "גידי, שהתמנה לאיש מכירות במלון, מארגן למשפחת אסייג נופש בבית מלון בטבריה. האורחים המפתיעים שפרוספר פוגש בלובי גורמים לו לרצון עז לברוח הביתה. אילנה נדהמת מזהות האחראי על מועדונית הילדים בעוד שלום לוקח פיקוד על צוות הבידור, ומסייע להם בהרמת מופע מאחורי גבו של המנכ\"ל הרשע והמופרע | שנות ה-80 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_set0x61w===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "שנות ה-80, עונה 5, פרק 5: המועדונית של מורדי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af5eb2826b87422884242e672c8bdd2c/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_pyig0ebi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הנופש השכונתי במלון \"פאר\" מקבל תפנית דרמטית לאחר פיטוריו של מורדי ממועדונית הילדים, בעוד שמנצח מפתיע במיוחד זוכה באליפות הטריוויה של המלון ושלום מנצח על מופע בלתי נשכח של צוות הבידור | \"שנות ה-80\" לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_pyig0ebi===",
+       "season": "עונה 5"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מעצבים שיפוץ",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "359",
+   "series_id": "359",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3bbe863bb8524d0ea587bfd1e3ca61a8/version/0/width/800/height/1200/quality/90",
+   "plot": "מושיק גלאמין מגיש \"מעצבים שיפוץ\" עם אנשי מקצוע מובילים מכלל תחומי העיצוב והשיפוץ של בתים פרטיים וחללים שונים. מהם הטרנדים הכי חמים ומה שחשוב לדעת לפני שמתחילים לשפץ",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "מעצבים שיפוץ - פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/755170cbc5144cb1a1c67cfc2f8820e2/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k2qkhzde/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "היום בפרק של \"מעצבים שיפוץ\" נראה מקרוב שיפוץ של בית יוקרה קו ראשון לים, נגלה הכל אודות אומנות בברזל וגם נקבל טיפים על תמ\"א וכל מה שצריך לדעת לפני שיוצאים לדרך",
+       "page": "",
+       "id": "--kaltura--1_k2qkhzde===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e4741e22b3664cd9977948a3a574c76f/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2mmphnfa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "היום בפרק של \"מעצבים שיפוץ\" נגלה איך הופכים קירות לפנטזיה עיצובית, נלמד על העתיד של עולם הבניה הירוקה והחכמה ונקבל הצצה לעולם של גרניט פורצלן",
+       "page": "",
+       "id": "--kaltura--1_2mmphnfa===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66c9a88fcb2e487693394f1e9b0512a5/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yp8tr05d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "היום בפרק של \"מעצבים שיפוץ\" נרים כוסית בבר אנגלי עם עיצוב שלא כדאי לפספס, נראה מהפך של בית ישן וחשוך ונלמד הכל אודות על \"מיקרו טופינג\"- הטרנד הכי חם בעיצוב הבית",
+       "page": "",
+       "id": "--kaltura--1_yp8tr05d===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/26355f3c6b87468d9b76e71c56f7ba8f/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q5sljxlx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "היום בפרק של \"מעצבים של שיפוץ\" נפגוש את אושיית הרשת קרולין וולף ונלמד כל מה שצריך לדעת על אקססוריז ועיצוב הבית וגם נגלה איך ריהוט חוץ יהפוך את הגינה לסלון אמיתי",
+       "page": "",
+       "id": "--kaltura--1_q5sljxlx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b7b8636f11984d1581ed87729539d9ec/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v01gkoaf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "היום בפרק של \"מעצבים של שיפוץ\" נפגוש מעצבת שעיצבה בית לזוג בגיל השלישי, נגלה איך הופכים את המטבח לפיס אומנותי ונלמד איך תאורה נכונה בבית יכולה להשפיע על מצב הרוח",
+       "page": "",
+       "id": "--kaltura--1_v01gkoaf===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6c065b09577244ccb6f776c4b419a126/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qzwv58e5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_qzwv58e5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37d588181c814ed386fd16f5bf1c921e/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x5uj9v5u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "היום בפרק של \"מעצבים של שיפוץ\" נלמד כל מה שצריך לדעת על קרקעות להשקעה, נבקר במספרה עם עיצוב שעוד לא ראיתם ונחקור על חומר הגלם הכי שורשי שיש – האבן",
+       "page": "",
+       "id": "--kaltura--1_x5uj9v5u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/75b2bb8fcac041e0a4403433c430c7e1/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_slbfhns8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "בפרק השני של \"מעצבים שיפוץ\" נגלה מה הטרנד הכי חם בעיצוב מטבח, הכל אודות פתרונות מעוצבים לאקוסטיקה בבית וגם איך מעצבים מסעדה כך שהעיצוב יעשה חשק לאכול",
+       "page": "",
+       "id": "--kaltura--1_slbfhns8===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd893ca62a744af691a8b9a7dfc7e0c8/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t14j9gr7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "היום בפרק של \"מעצבים שיפוץ\" נגלה איך הופכים גג תל אביבי לחלום מעוצב, נלמד טיפים חשובים על עולם התיווך ונכיר מקרוב צמד אדריכלים מפורסם שבנה לא פחות מארמון",
+       "page": "",
+       "id": "--kaltura--1_t14j9gr7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "מעצבים שיפוץ, פרק 5: מהפך בבית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ad2384aa37c4fc7957029f650ab2076/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ypapwqbi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-04",
+       "plot": "בפרק של \"מעצבים של שיפוץ\" נבקר באחד מהבתים הכי יפים בארץ, נגלה איך אפשר לעצב בשיק משרד של רואי חשבון שלא מוכנים להתפרע וגם מהי הדרך הכי קלה לעשות מהפך מהיר בבית",
+       "page": "",
+       "id": "--kaltura--1_ypapwqbi===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

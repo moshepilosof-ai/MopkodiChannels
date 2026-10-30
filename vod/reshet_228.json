@@ -1,0 +1,641 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - כלוב הזהב",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "228",
+   "series_id": "228",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/742a87662f934f5db49f763d0dd43090/version/10/width/800/height/1200/quality/90",
+   "plot": "השעשועון הישראלי המצליח בעולם חוזר בגרסה חדשה עם צביקה הדר ועדן פינס. צמד מול צמד במרדף נגד השעון – אחד פותר שאלות, השני חוטף פרסים מהכלוב",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 12: הכלוב של פנינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c952171384f4a11a527c76a292b3fe9/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3h2ak91v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פנינה רוזנבלום ובתה מגיעות לכלוב הזהב",
+       "page": "",
+       "id": "--kaltura--1_3h2ak91v===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 3: החברות הכי טובות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5881d5d0ea2545bb983b5e54d69461df/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_46ecoucj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שתי חברות מגיעות לכלוב",
+       "page": "",
+       "id": "--kaltura--1_46ecoucj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 11: היסטריה בכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0769c120c07f45ea99fc4426ca4f9b1c/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1e4f59wm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "המתמודדת הכי לחוצה בעולם מגיעה לכלוב הזהב",
+       "page": "",
+       "id": "--kaltura--1_1e4f59wm===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 10: הגאון מגיע",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a39133ed65847a0a526b4c61ffe5602/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dw9d4v1u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מדריך פסיכומטרי מגיע לכלוב הזהב",
+       "page": "",
+       "id": "--kaltura--1_dw9d4v1u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 9: שוברים את הכלים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63ef88b1be1a4ee6891a1fc2fbc466c4/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bzehmvgc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שני אחים מגיעים לכלוב הזהב ומנסים לרוקן את הכלוב",
+       "page": "",
+       "id": "--kaltura--1_bzehmvgc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 8: מכוניות או לא להיות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91de1848681d42cda614dfabc5811445/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2awdw518/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שתי הדוגמניות, מור ומיקי מגיעות לכלוב הזהב ומחליטות להוציא את הרכב!",
+       "page": "",
+       "id": "--kaltura--1_2awdw518===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 1: הכלוב נפתח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c4ebfdc79e2046fe9fb215c6f8b07cfe/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aotslg9n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה המתחרים יספיקו להוציא לפני שייגמר הזמן ומה הם ישאירו מאחור?",
+       "page": "",
+       "id": "--kaltura--1_aotslg9n===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 4: עיניים גדולות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aee55322e7f14f0b94f7f8bf8d67e1a5/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ro7ys7bx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שימי תבורי מגיע עם הבן אלירן לכלוב הזהב ויש לו תכניות שמפתיעות את כולם",
+       "page": "",
+       "id": "--kaltura--1_ro7ys7bx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 7: כוכבי ערוץ הספורט בכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b30ec7aa6fa4e56ac5e274286c388ca/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_19tgf6gt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "נדב יעקבי ואלי סהר מגיעים לכלוב הזהב",
+       "page": "",
+       "id": "--kaltura--1_19tgf6gt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 5: המירוץ לזהב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/42f4550ee1be4e14a20ba046a2f6a00f/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oof0znyd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עקיבא וענהאל מהמירוץ למיליון מנסים את מזלם בכלוב, האם הם ירוצו עד הסוף?",
+       "page": "",
+       "id": "--kaltura--1_oof0znyd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 6: פה גדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be8a5ad33c784a89b5e6bb0c98943e00/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mvaoy03s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הדוד ניסים שאוהב לדבר מגיע לכלוב הזהב",
+       "page": "",
+       "id": "--kaltura--1_mvaoy03s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "כלוב הזהב, עונה 1, פרק 2: ללכת על הכל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/53733ec0061449c08aa686d172987377/version/36/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i5k6gud3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "האם אילן ועודד פז יצליחו לזכות בכל הקופה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_i5k6gud3===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "כלוב הזהב, עונה 2, פרק 7: ספיישל גדולים מהחיים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5c792c9fcf6745a08a310258d8de8595/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ju0csmf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כדורגלן מכבי ת\"א - ערן זהבי מנסה את למנף את יכולות הריצה שלו בכלוב הזהב",
+       "page": "",
+       "id": "--kaltura--1_7ju0csmf===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2, פרק 5: ספיישל המירוץ למיליון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d221a6860fc242f988116900d0771db3/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_haufmdj5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כוכבי המירוץ נכנסים לכלוב ורצים על כל הקופה! מי יזכה בכל הפרסים?",
+       "page": "",
+       "id": "--kaltura--1_haufmdj5===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2, פרק 4: לחץ בכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef9d4f61af3b43648fd48aa094e522b5/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q5ujkh25/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עמית פרקש נכנסת לכלוב עם חברה הטוב והם מנסים לזכות בכל הקופה!",
+       "page": "",
+       "id": "--kaltura--1_q5ujkh25===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2, פרק 3: טיפת מזל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/127d023b3ff04dbab0499eeb916c42d4/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i8qgtip7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם המזל ישחק לחברים הטובים שאף פעם לא זכו בכלום, והם יקחו את כל הקופה?",
+       "page": "",
+       "id": "--kaltura--1_i8qgtip7===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2, פרק 6: המשחק הכי מבולבל שהיה בכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc29db6d24f74e2c94a6a14b66c75003/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xqxq961o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יובל המבולבל וטל מוסרי נכנסים לכלוב ומקווים לצאת עם כל מה שבפנים",
+       "page": "",
+       "id": "--kaltura--1_xqxq961o===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2, פרק 1: הכלוב נפתח מחדש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c60cb1e0f5e44f58b3a7296f5712dff/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7enmayxv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כלוב הזהב נפתח בעונת פרסים גדולה, מרגשת ומותחת יותר! מי ירוקן את הכלוב?",
+       "page": "",
+       "id": "--kaltura--1_7enmayxv===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2, פרק 2: התרגשות בכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ce30604643d4273a730d2bef5a6506f/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4fnls8zc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מתחרים חדשים ורעבים מסתערים על הכלוב והם לא יסתפקו בפחות מכל הקופה..",
+       "page": "",
+       "id": "--kaltura--1_4fnls8zc===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2, פרק 8: קטעים ששווים זהב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b77e77c42fc48df863f8defd8473879/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mg2pvtbu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיטב הקטעים הכי שווים בכלוב הזהב",
+       "page": "",
+       "id": "--kaltura--1_mg2pvtbu===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 11: מחפשים את האפיקומן בכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72e5b6acc1914f05aea71a23a777e59d/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tymj9qlh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בני נוער, כוכבי האינסטגרם וכוכבי גאליס באים לחפש את האפיקומן בכלוב",
+       "page": "",
+       "id": "--kaltura--1_tymj9qlh===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 7: אליפים בכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13e957c7054b41b893742683c95ac08a/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ncwvqeo3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף הרץ ועומר דרור מגיעים לשחק אותה בכלוב הזהב... האם יצליחו?",
+       "page": "",
+       "id": "--kaltura--1_ncwvqeo3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 13: רון שחר כובש את הכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/03639bee06a84ed1844957833f5a0c31/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sbebyxwc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רון שחר ואישתו מאיה קרמר באו לכבוש את כלוב הזהב",
+       "page": "",
+       "id": "--kaltura--1_sbebyxwc===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 5: המכונית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec7003e54ce84ab5be298feb58493600/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tuuxoqhk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מי הם המתמודדים שניסו להוציא את המכונית מהכלוב והאם הם הצליחו?",
+       "page": "",
+       "id": "--kaltura--1_tuuxoqhk===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 12: ספיישל כדורגל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb06edcd178c4420978126246838f997/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_20oi62fm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם אורן זריף ופיני בלילי יצליחו לרוקן את הכלוב?",
+       "page": "",
+       "id": "--kaltura--1_20oi62fm===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 9 : יש הנחת סלב?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72745f3f2646488581883af8809f3b68/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e5mzseh4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם נטלי דדון תצליח להוציא מתנות מהכלוב למען הילדים מ\"להושיט יד\"?",
+       "page": "",
+       "id": "--kaltura--1_e5mzseh4===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 6: מחדשים את הכלוב!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d968d5f074b84402b8ffd5c8b491985f/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qkhfqpeq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מושיקו בריבוע:  מושיק גלאמין ומושיק המפיק מגיעים לכלוב הזהב!  צפו בפרק",
+       "page": "",
+       "id": "--kaltura--1_qkhfqpeq===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 8: ספיישל הורים וילדים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eb0903081d55426a843072305fdc57a6/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1em0mje2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם ההורים וילדיהם יצליחו להוציא הרבה פרסים מהכלוב? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_1em0mje2===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 4: כוכבי השמינייה בכלוב הזהב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17332ec6e1104e7dbcf57d3ff2b2590b/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vvldct82/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הם יפים, הם כוכבים והם כוכבי השמינייה! אך האם הם יצליחו בכלוב הזהב?",
+       "page": "",
+       "id": "--kaltura--1_vvldct82===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 3: תאומות או לא להיות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c195acc43c04d7cad14c83046a5146b/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ivoh944n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק מותח במיוחד של הכלוב... איזה זוג ישחק הרבה זמן ואיזה זוג ייפסל מהר?",
+       "page": "",
+       "id": "--kaltura--1_ivoh944n===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 1: רצים לכלוב הזהב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50dd265af9f844d88c576c73be013085/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4ew0sspi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה קורה כשטום קשתי ורון שובל נכנסים לכלוב? הפרק המלא של העונה החדשה",
+       "page": "",
+       "id": "--kaltura--1_4ew0sspi===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 2: הכלוב נצבע צהוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f3086cdcccd445a84b08afa0f49e71d/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_boj6syrm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מנחי חדשות הבידור ליאון רוזנברג ושי פרץ מנסים לרוקן את הכלוב, יצליח להם?",
+       "page": "",
+       "id": "--kaltura--1_boj6syrm===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "כלוב הזהב, עונה 3, פרק 10: ספיישל מתחתנים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe1784622b054812918a08e2bef5e3fa/version/34/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q7pf3h2d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אספנו לכם את כל הזוגות שעומדים להינשא ובאו לקחת נדוניה מהכלוב",
+       "page": "",
+       "id": "--kaltura--1_q7pf3h2d===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "כלוב הזהב, עונה 4, פרק 6: רק תוציאי את הטרקטורון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1432ccbe1c2d429a9a8ed67fa65040b7/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gm0a6yz1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מיכל וצח הגיעו לכלוב במטרה אחת - להוציא את הטרקטורון",
+       "page": "",
+       "id": "--kaltura--1_gm0a6yz1===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "כלוב הזהב, עונה 4, פרק 5: הדרבי הגדול מגיע לכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ac9a58e523a4c49981fd1cc7c5b6f7b/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3r1rtuea/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כוכבי ערוץ הספורט וכוכבי גוללסטאר בדרבי הגדול - מי ינצח את הכלוב?",
+       "page": "",
+       "id": "--kaltura--1_3r1rtuea===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "כלוב הזהב, עונה 4, פרק 4: לירן שטראובר בכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f99d0de3a82349f29678e8d0ac6f0f65/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dv0fd7n8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שוער הכדורגל מגיע עם בנו לכלוב הזהב והוא נחוש לצאת מנצח",
+       "page": "",
+       "id": "--kaltura--1_dv0fd7n8===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "כלוב הזהב, עונה 4, פרק 2: אמירם טובים קורע מצחוק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d790062df6041f7b3a2f69bf6fa99c1/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8e4b1rmu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשסטאנדפיסט תימני מגיע למקום שכולו חינם תהיו בטוחים שהכל הוא יקח!",
+       "page": "",
+       "id": "--kaltura--1_8e4b1rmu===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "כלוב הזהב, עונה 4, פרק 3: איתי שגב נוחת בכלוב!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf2a6513c68045aab5236e1e6c77147d/version/31/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wj730jf2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איתי שגב והמוזיקאי שי להב מנסים להוציא כמה שיותר פרסים מהכלוב",
+       "page": "",
+       "id": "--kaltura--1_wj730jf2===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "כלוב הזהב, עונה 4, פרק 1: ה\"קוף\" מגיע לכלוב!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f058490973345af9d70cecea191d0f8/version/33/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ftzo8zwd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אתם מוכנים? רון קופמן הגיע נחוש מתמיד להוציא את כל המתנות מכלוב הזהב!",
+       "page": "",
+       "id": "--kaltura--1_ftzo8zwd===",
+       "season": "עונה 4"
+      }
+     ]
+    },
+    {
+     "name": "עונת 2025",
+     "channels": [
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 21: איפה הטבעת?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/613fe959692045a5915406973e26ee77/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u9r02w7p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-19",
+       "plot": "יש זוגות מאוהבים שצריכים רק דבר אחד כדי להשלים את התמונה - טבעת. האם זה ייגמר בהצעה? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_u9r02w7p===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 20: ריקוד הזהב?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c5031280f08f40f2b324af9183436df5/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gulmjppf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-12",
+       "plot": "חשבנו שראינו את כל הדרכים לנצח את הכלוב, אבל צעדי הריקוד האלה הפתיעו גם אותנו. האם אפשר לנצח את הכלוב ולרקוד כל הדרך אל הבנק? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gulmjppf===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 19: אמאל'ה של משחק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe5f602e66864645b34ccec8bf73b081/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tofora7l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-03-05",
+       "plot": "שתי אימהות תותחיות ושני הבנים שלהן, ראש בראש, במשחק שהוא אמאל׳ה ואמאל׳ה | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_tofora7l===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 18: מירי בוהדנה ויוסי שטרית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/030fbe133f91482d9aab9f959ab3e45f/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6gaso9tc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-11-03",
+       "plot": "משחקי השף חוזרת לעונה חדשה, ולכבוד זה מירי בוהדנה ויוסי שטרית יתמודדו מול רותם ישראל ועומר ירדני, מנחי \"העולם הבוקר\". מי יאכל את הכלוב? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6gaso9tc===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 17: קרב הלאבי דאבי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e7cf29bc5594015ade5bbd19b4549cf/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d1byse73/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-26",
+       "plot": "מצד אחד הזוג הכי חמוד בארץ, ומולו - גם הזוג הכי חמוד בארץ. רק זוג אחד יכול לנצח בדרבי הזוגות של \"כלוב הזהב\". אז, מי זה יהיה? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_d1byse73===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 16: אינדה גיים שובר את הכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9e90bab5de1243d98636738209ed8e75/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t4wq1lmc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-20",
+       "plot": "כולם מכירים את הגיימר והיוטיובר של ישראל ואת בת הזוג שלו, מלכת הטיקטוק. והערב הם באו לשבור את הכלוב. האם הם יצליחו? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_t4wq1lmc===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 15: הרכב יוצא מהכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8d52bb32f1e9414e8bd6521c5d129b80/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tt78475v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-18",
+       "plot": "מעלים הילוך! כולם שמו עין על הרכב, ולראשונה הוא סוף סוף יוצא מהכלוב. מי צריך להתחיל לחפש חנייה? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_tt78475v===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 14: האחים טופז מפתיעים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8236779917d4360936cfd69d1b18109/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xe664mg0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-15",
+       "plot": "לא בכל יום הבנים של מלך השעשועונים מגיעים לשעשועון! האחים טופז הצליחו להפתיע אפילו אותנו | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_xe664mg0===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 13: דרבי הריאליטי הגדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4c340477c85348369514bfe5a39c9749/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kzypgjzj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-11",
+       "plot": "הם רגילים לרוץ בריאליטי, אבל איך ירוצו בכלוב הזהב? אסתי ואיציק מ\"המירוץ למיליון\" מול עילי ומיטב מ\"פקין אקפרס\" – מי ינצח את הכלוב? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_kzypgjzj===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 12: אודיה פינטו נגד תום חיימוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a3118da6b40d4d43bc45be4daa5febf1/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3eb4j7ja/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-10-04",
+       "plot": "פותחים את השנה עם שני זוגות טריים! תום חיימוב ושחר צ'רנס מ\"אהבה חדשה\" נגד הכוכבת החדשה אודיה פינטו ובעלה הטרי. האם האהבה תנצח את הכלוב? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_3eb4j7ja===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 11: ספיישל סטנד אפ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba20d47a71024e53a13286e7a83de6d2/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n5d8uz4t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-25",
+       "plot": "כוכבי התכנית \"מה קורה פה?\" דניאל אסייג, מירית המוגזמת, מתן פרץ ושחר קפלן צוחקים כל הדרך אל הכלוב. או שאולי הפעם זה ייגמר בבכי? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_n5d8uz4t===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 10: שיטת עלא באב אללה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8fd25c9813684de58418d57103619e70/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hr19ru6b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-18",
+       "plot": "צמד חברים פארקוריסטים באים לפרק את הכלוב. האם הם יצליחו לדלג מול כל מכשול? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hr19ru6b===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 9: מלכות הטיקטוק נגד הגאונים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c9ed411f8374406be5d743c7407baad/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hvji0l9i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-15",
+       "plot": "תהל ועדי מלכות הטיקטוק נגד שני גאוני על חלל. האם התוצאה ידועה מראש או שיהיה מהפך? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hvji0l9i===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 8: ספיישל האח הגדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a98d5fd3f75e45408e8355f40ecb6f35/version/27/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qptuyz0d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-09-11",
+       "plot": "אין דרך יותר טובה לפתוח את העונה החדשה, מאשר עם כוכבי ה\"אח הגדול\". דרורה, מאור, חן ולורן. מי ינצח את הכלוב? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_qptuyz0d===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 7: זוג ללא תחרות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e728b2b8962a486b8b5c8b1bd27de90e/version/28/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ng2auzl7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-31",
+       "plot": "הזוג התחרותי ביותר בישראל מגיע לכלוב הזהב. עם אילו פרסים הם ייצאו? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ng2auzl7===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 6: הרמלאים מול הלפלפים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecc615cccf214f95a5264d97b6b7a5a4/version/35/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_91ladktw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-24",
+       "plot": "שני הייטקיסטים מגיעים להתמודד מול צמד בני דודים בדו קרב מותח ומלא במהפכים. מי מהם ינצח את הכלוב? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_91ladktw===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 5: שוברים את הכלוב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0be6abef102a41c0a8b7fb4ea2bd1ce1/version/37/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ugdyrvn2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-17",
+       "plot": "צמד הלוחמים המסוקסים מול ירדנה ומיטל - אם ובתה. מי מהזוגות ישבור את הכלוב? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ugdyrvn2===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 4: הכוכב ששבר את הטיקטוק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d7707c9a582942f4ad9875c2ff8249b2/version/40/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ddeid036/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-10",
+       "plot": "כוכב הרשת לירון אופיר וחמותו מגיעים לכלוב, ונתקלים בדו קרב מול צמד האחים שמצליח לענות, ולענות ולענות. מי מהם ינצח את הכלוב? | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ddeid036===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 3: הרכב יוצא מהכלוב?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7e52e0389a642b6b20ae52070d5266a/version/47/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bvuk8rlv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-03",
+       "plot": "כוכבי הרשת לירז וגלגול מול צמד החברים \" עיוני ונה-יוני\" - בדו קרב מותח ועוצר נשימה שמסתיים בדרמה הכי גדולה שאפשר | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_bvuk8rlv===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 2: מנצחים את הכלוב?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13dd201ddb644b1486d488fc95eccfe9/version/47/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j9309crk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-26",
+       "plot": "השעשועון הישראלי המצליח בעולם חוזר בגרסה חדשה! צמד מול צמד במרדף נגד השעון - אחד פותר שאלות טריוויה, השני חוטף פרסים מהכלוב. זה מהיר, מותח ומלא הנאה! עם צביקה הדר ועדן פינס | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_j9309crk===",
+       "season": "עונת 2025"
+      },
+      {
+       "name": "כלוב הזהב, עונה 2025, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/43bfaa90567f44a3899a6c8478fc3049/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6wt697qp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-19",
+       "plot": "השעשועון הישראלי המצליח בעולם חוזר בגרסה חדשה! צמד מול צמד במרדף נגד השעון - אחד פותר שאלות טריוויה, השני חוטף פרסים מהכלוב. זה מהיר, מותח ומלא הנאה! עם צביקה הדר ועדן פינס | \"כלוב הזהב\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6wt697qp===",
+       "season": "עונת 2025"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

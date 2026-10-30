@@ -1,0 +1,701 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - סלבריישן",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "72",
+   "series_id": "72",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c647c51304294003a2feaad888e38042/version/10/width/800/height/1200/quality/90",
+   "plot": "\"סלבריישן\", תכנית אירוח בהנחייתו של העיתונאי ומנחה הטלוויזיה צחי קומה. התכנית תארח מידי שבוע את מיטב הסלבריטאים בארץ לשיחת סלון אינטימית במיוחד.",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "סלבריישן, עונה 1, פרק 14: רוסלנה רודינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/24458d5c004d44f7b4915efbebe74214/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2c2kozma/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הדוגמנית ובת זוגו של אייל גולן בראיון חושפני על הזוגיות, המשפחה והקריירה",
+       "page": "",
+       "id": "--kaltura--1_2c2kozma===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 13: וובה ואלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6624f9ca8d404e06a5daa6d694676150/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1c9rgfqj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הזוג שכבש את ישראל פותח את הלב ומספר על הפרידה מהמירוץ והתהילה",
+       "page": "",
+       "id": "--kaltura--1_1c9rgfqj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 10: זאב רווח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/450eb76dba5248deb02dfa702f4eb088/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b4kohd23/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אב הקולנוע הישראלי בריאיון אישי על פרשת ההטרדות המיניות, המשפחה וריאליטי",
+       "page": "",
+       "id": "--kaltura--1_b4kohd23===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 12: שלום אסייג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7a5715d4684049ed8fac18202960aef8/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uhcr09kj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הקומיקאי והשחקן מדבר על האבהות הטרייה והיחסים עם גרושתו",
+       "page": "",
+       "id": "--kaltura--1_uhcr09kj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 9: יעל אבקסיס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05c1543f18e84286afb5efa32f1bd079/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iahao6vg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "יעל אבקסיס בשיחה אינטימית על רווקות, זוגיות ומה שביניהן",
+       "page": "",
+       "id": "--kaltura--1_iahao6vg===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 11: ליאור נרקיס ואשתו ספיר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d7442050d72e40afa58722bbea3d297e/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_id852w1p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליאור מדבר על פרשות המיסים של חבריו לתחום וספיר נחשפת ומספרת על הזוגיות",
+       "page": "",
+       "id": "--kaltura--1_id852w1p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 8: משפחת רביבו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4925ca1f18444932abc9f0a4ae47ec66/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ss5ytr8o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הזוג חיים ושגית רביבו בראיון זוגי ראשון",
+       "page": "",
+       "id": "--kaltura--1_ss5ytr8o===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 3: שלום מיכאלשווילי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/68fbd7c15c5a492e87307ae1c212ea26/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_04jhwnu9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלום מיכאלשווילי מגיע לשיחה אישית וחושף פרטים עסיסיים מחייו האישיים",
+       "page": "",
+       "id": "--kaltura--1_04jhwnu9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 6: אביב גפן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ba663d73cf7403abd40e7eb6153a6df/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7bspfkqv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אביב גפן מגיע לשיחה אישית עם צחי קומה ומדבר על הכל",
+       "page": "",
+       "id": "--kaltura--1_7bspfkqv===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 1: אייל גולן ורוסלנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e695bd5c65c64fd29166d97d9b3fa00d/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4crjyur1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפעם הראשונה אייל גולן ורוסלנה נעמדים מול המצלמה וסוגרים חשבון",
+       "page": "",
+       "id": "--kaltura--1_4crjyur1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 4: פנינה רוזנבלום ובתה חן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9eb335acd65c4e21a36b824eff044a44/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dsxd3cua/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לרגל חגיגות ה- 60 פנינה רוזנבלום בריאיון אישי וחושפני במיוחד",
+       "page": "",
+       "id": "--kaltura--1_dsxd3cua===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, תכנית 2: צופית גרנט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/12fbb48fadf840608a62667188071d14/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cdgw2s7h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאיון ראשוון לאחר הפרידה, צופית גרנט מספרת על הקשיים והחוויות החיוביות",
+       "page": "",
+       "id": "--kaltura--1_cdgw2s7h===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 7: מירי בוהדנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5bd7a8679ef84819aca90801a3b689f7/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4jgfomav/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מירי בוהדנה מגיעה לשיחה אישית ומספרת על הקשר עם בן זוגה בבו קובו",
+       "page": "",
+       "id": "--kaltura--1_4jgfomav===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 5: קובי וענבל פרץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e29e34cbd3854ce2b2d30d3103177257/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1jazmedg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הזמר קובי פרץ ואשתו ענבל מדברים על פרשת המסים ועל זוגיות וקריירה",
+       "page": "",
+       "id": "--kaltura--1_1jazmedg===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "סלבריישן, עונה 2, פרק 6: אילנית לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5b1de6d458e41b9b3cc944f7854ac8a/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mlgavgbu/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אילנית מדברת על איך הגיבה לפרשת אייל גולן ועתיד היחסים עם אלירז שדה",
+       "page": "",
+       "id": "--kaltura--1_mlgavgbu===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 5: לוסי אהריש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66358434786049a0a2332c2a1a0aa048/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_954q0oje/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לוסי אהריש מדברת על תגובת אמה להדלקת המשואה, וחייה התקשורתיים והאישיים",
+       "page": "",
+       "id": "--kaltura--1_954q0oje===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 4: אסתי גינזבורג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3799e169b55743c1912a47c2f3f7f887/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0k0ata0m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסתי גינזבורג מדברת על האיהות הטרייה והיחסים המתוקשרים עם אביה",
+       "page": "",
+       "id": "--kaltura--1_0k0ata0m===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 2: טהוניה רובל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be949e49856a4da8a56cf6ad29649a80/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g1sbfufr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "טהוניה חושפת פרטים על הפרידה מארוסה וגם מביעה את דעתה על מחאת האתיופים",
+       "page": "",
+       "id": "--kaltura--1_g1sbfufr===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 1: פאר טסי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6b5ef22ed724c269707a78e170cecf1/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b78jc3kg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דרך החלום: הזמר פאר טסי מדבר על הכל בשיחה אישית עם צחי קומה",
+       "page": "",
+       "id": "--kaltura--1_b78jc3kg===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 9: עומר אדם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b06b24b857f94667922571f203802cfc/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yzv4qmt1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לפעמים נדמה לו שהגיע לתחום המוסיקה בטעות, עומר אדם מדבר על הכל",
+       "page": "",
+       "id": "--kaltura--1_yzv4qmt1===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 10: מלי לוי ושמעון גרשון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b60241203da4571aa901aa4af0754bf/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y70645t8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שנים אחרי שלא התראיינו בטלוויזיה מלי ושמעון מאוהבים מתמיד בראיון זוגי",
+       "page": "",
+       "id": "--kaltura--1_y70645t8===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 7: רמי קליינשטיין",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/76933948184d40068f2b35e50650708a/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3md8yqnw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רמי קליינשטיין מדבר על אבהות אחרי גיל 50 וההתקרבות לדת",
+       "page": "",
+       "id": "--kaltura--1_3md8yqnw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 3: עידן רייכל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2643dcfacdc04d7082ecb6ae771c8987/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kjb8g9gj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "עידן רייכל מדבר על האבהות הטרייה לצד קריירה בינלאומית משגשגת",
+       "page": "",
+       "id": "--kaltura--1_kjb8g9gj===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "סלבריישן, עונה 2, פרק 8: רני רהב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b25896f40544dafa87ac53e1fe640eb/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x7eoz186/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "איש התקשורת המוביל במדינה מדבר עם צחי קומה על הפרשיות המסעירות ביותר",
+       "page": "",
+       "id": "--kaltura--1_x7eoz186===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "סלבריישן, עונה 3, פרק 7: עדן הראל מנשה ועודד מנשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fb2a8c7857343d89a606eb76cc895cc/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y18apph3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחד הזוגות הכי מסקרנים בתעשייה פותחים את הלב ומספרים על הקשר לדת",
+       "page": "",
+       "id": "--kaltura--1_y18apph3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "סלבריישן, עונה 3, פרק 5: רוני מאנה וג'ני צ'רווני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a681be2e37e148aea8fc2a5a5b779b8c/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jo75szbd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הזוג המסקרן של הביצה בא לדבר על פער הגילים, העסקים ועולם הדוגמנות. צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_jo75szbd===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "סלבריישן, עונה 3, פרק 3: מיכל הקטנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/78a3e3073566433b929e8a21bdd656d1/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6bnyzem0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ההריון שנכשל, האובססיביות והבדידות מאחורי החיוך הגדול של מלכת הילדים. התכנית המלאה של סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_6bnyzem0===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "סלבריישן, עונה 3, פרק 4: דנה אינטרנשיונל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b2fcdacde1214ea792de5b78edeaf901/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cm6b4bi3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הדיווה דנה אינטרנשיונל שוברת שתיקה וחושפת האם קהילת הגאים בעולם צריכה לחשוש מעלייתו של דונלד טראמפ",
+       "page": "",
+       "id": "--kaltura--1_cm6b4bi3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "צחי קומה מארח את שימי תבורי ויהודית באומן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f84f89dd90c46d9abc4f05a172cea66/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ab4bi69n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שימי תבורי ויהודית באומן אחד הזוגות הכי מדוברים בשנה האחרונה, מגיעים לסלבריישן לפתוח הכל",
+       "page": "",
+       "id": "--kaltura--1_ab4bi69n===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "סלבריישן, עונה 3, פרק 2: נאם וחיים הורוביץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/379f76519905490c9240491ef2ef6c46/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6e7kh1m8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחד הזוגות המעניינים ביותר בתקשורת מדברים על איך משמרים אהבה בעסקים",
+       "page": "",
+       "id": "--kaltura--1_6e7kh1m8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "סלבריישן, עונה 3, פרק 8: מאיה בוסקילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e7b6b9fa95b40798c874bda3ca930b7/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_njqw1tnh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בראיון אינטימי, הזמרת מספרת איך היא מתמודדת עם החרדות והביקורות הבלתי פוסקות בחייה",
+       "page": "",
+       "id": "--kaltura--1_njqw1tnh===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "סלבריישן, עונה 3, פרק 10: ריטה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/de8da6760ebb4ef7bc65acf97b7e26c5/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j2s8eh6t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הזמרת הלאומית בראיון אינטימי על זוגיות, דעות פוליטיות ועל האשפוז שעברה",
+       "page": "",
+       "id": "--kaltura--1_j2s8eh6t===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "סלבריישן, עונה 3, פרק 9: אליעד נחום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92d4d802d9554ae0b8b0302540bfdb86/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_veflb5oi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך הילד החמוד מ\"שמש\" ניצח את בעיית השמיעה והפך לכוכב במוזיקה הישראלית?",
+       "page": "",
+       "id": "--kaltura--1_veflb5oi===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "סלבריישן, עונה 3, פרק 6: אלירז שדה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3aef69d769cf4ffb8c0c4d9b7031064a/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pkoj21k9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "יוצא הריאלטי ומנחה הטלויזיה בשיחה על אהבה, זוגיות, פרסום ואפילו פוליטיקה",
+       "page": "",
+       "id": "--kaltura--1_pkoj21k9===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "סלבריישן, עונה 4, פרק 17: רגב והלן הוד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c7556947cb694659b1a40500c5c01f05/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_401l70kg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגב והלן הוד מגיעים לראיון אינטימי אצל צחי קומה. סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_401l70kg===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 16: איציק זוהר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e6641ade3b345209c898e043c1e6514/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nlca08hj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך הפך גדול שחקני הכדורגל הישראלי, איציק זוהר, למסתבך סדרתי? סלבריישן עם צחי קומה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_nlca08hj===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 15: סתיו סטרשקו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2b279054f0d48a681598d39f488762d/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1bexf7zd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סתיו סטרשקו מגיעה לראיון אינטימי אצל צחי קומה. סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1bexf7zd===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 1, פרק 12: אורנה דץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ded0b36421fd4160b9be2a24d5e6c6ca/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0njpwft6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אורנה דץ בראיון אינטימי אצל צחי קומה. הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_0njpwft6===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 13: מייקל לואיס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b14ddf38e1934f559f716745c4ffc242/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gqnzh5tv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מייקל לואיס מגיע לראיון אינטימי אצל צחי קומה. התכנית המלאה לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gqnzh5tv===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 8: שיר אלמליח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd545a8781c945c087ffdd5b9059dfa7/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xet6bj94/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שיר אלמליח מגיעה לראיון אינטימי אצל צחי קומה. סלבריישן, עונה 4, פרק 8 לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_xet6bj94===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 6: עינת שרוף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1164dc27a9e44bf8ed0f04396905053/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_53gmv9d4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ראיון אינטימי עם עינת שרוף. הפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_53gmv9d4===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 11: שף מושיק רוט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cc99797178b249cdbcc8cc5e96269921/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aov681xc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השף בעל 2 כוכבי המישלן, מושיק רוט, מגיע לראיון אינטימי אצל צחי קומה. סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_aov681xc===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 10: ליאור רז",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/775ef94cf7184a5cb86a31c335bf0470/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y80v8i0u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ליאור רז, יוצר \"פאודה\" מגיע לראיון אינטימי אצל צחי קומה. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_y80v8i0u===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 7: נטלי דדון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf9f5a0881ac49c1973a151e255c76d3/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qa07z7ky/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הדוגמנית נטלי דדון מדברת על הכל בריאיון אינטימי עם צחי קומה. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_qa07z7ky===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 5: טיטי איינאו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/027d357d3f324a6fa638b1cc8ba32990/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pbgjb2w9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מלכת היופי לשעבר מגיעה לראיון אינטימי אצל צחי קומה",
+       "page": "",
+       "id": "--kaltura--1_pbgjb2w9===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 9: רותם כהן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ec286fb6b114ae0908a91570123330c/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kejsa7us/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_kejsa7us===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 3: איתי לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/496310e375d2416985c7349e0cc4b5b4/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jpy9j3pf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחד הזמרים המצליחים בישראל, איתי לוי, מגיע לראיון אינטימי עם צחי קומה. סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_jpy9j3pf===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 18: ניקול ראידמן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/817c6e50558d47cbbfe7574e1ee84eda/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_03ef0o7w/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ניקול ראידמן מגיעה לראיון אינטימי אצל צחי קומה. סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_03ef0o7w===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 2: מיכל מוכתר (מיקי)",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/89c3f10fc9b849a4aa7103bec49365d1/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xtclaba1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה מארח את מיכל מוכתר (מיקי) לראיון אינטימי | סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_xtclaba1===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 1: נועה קירל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8dfb865a8a494f97a6dae600ff860835/version/20/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u68zry6j/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה מראיין את נועה קירל בפרק הפתיחה של העונה החדשה בתוכנית האירוח \"סלבריישן\"",
+       "page": "",
+       "id": "--kaltura--1_u68zry6j===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 19: דיקלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/62c728cb16184f1ba63deb6d70c34c39/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_se0y0fjd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דיקלה מגיעה לראיון אינטימי אצל צחי קומה. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_se0y0fjd===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 20: מורן אטיאס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab06eee809574b508ddf722444553efe/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0towi0r0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מורן אטיאס מגיעה לראיון אינטימי אצל צחי קומה. סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_0towi0r0===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 4: תאלין אבו חנא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5fac4aee576c4a56b9cea164fea6d62e/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_72nwbz38/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "תאלין אבו חנא, דוגמנית, ולשעבר מיס טרנס ישראל ודיירת בבית \"האח הגדול\", מגיעה לשיחה אינטימית עם צחי קומה. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_72nwbz38===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "סלבריישן, עונה 4, פרק 14: ישי לוי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a55adc52a55b45e7b04acecd595f162d/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eixm5zjx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "ישי לוי מגיע לראיון אינטימי אצל צחי קומה. סלבריישן לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_eixm5zjx===",
+       "season": "עונה 4"
+      }
+     ]
+    },
+    {
+     "name": "עונה 5",
+     "channels": [
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 12: משה פרץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60bdae48125c4558bfc623bf976cb192/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b02btpwm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "משה פרץ עבר דרך חתחתים עד שהגיע לפסגה. הוא הגיע לצחי קומה כדי לספר דברים שאותם לא סיפר מעולם. ״רגע לפני שפרצתי עוד ניקיתי בניינים, היום אני שואל את עצמי איך היה לי אומץ, איך לא התביישתי״. על משבר הקורונה שגרם למתיחות במערכת היחסים עם אשתו ירדן: ״שכחנו מה זה להיות אחד בשביל השני. הבנתי שאנחנו לא יכולים לריב כל הזמן״. על הפיתויים: ״אם צריך אז לשים רתמות כדי לא להתפתות. כל פעם שיש אופציה, אני שואל את עצמי מה יותר שווה, האישה והילדים בבית או הדבר הרגעי הזה\"",
+       "page": "",
+       "id": "--kaltura--1_b02btpwm===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 11: אירית רחמים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e48733850a94703953ba0a8ab29d860/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dhm9clka/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: אירית רחמים",
+       "page": "",
+       "id": "--kaltura--1_dhm9clka===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 10: דידי הררי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ff81764218c40688384f102e77f6314/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d52tfzkw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "דידי הררי הגיע סיפר בריאיון על השנה ללא אהובתו מירית ועל הצוואה שהותירה עבורו: \"מירית אמרה לי תתקדם הלאה, תהיה לך זוגיות ואני מקנאה במי שתהיה איתך. אני הולך עם הלב שלי, בלי שום חוקים. על הרגעים בלעדיה: \"אין לי מה לחגוג את ראש השנה. זו אנטיתזה למילה חג\". דידי הררי בריאיון יוצא דופן עם צחי קומה",
+       "page": "",
+       "id": "--kaltura--1_d52tfzkw===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 9: חנה לסלאו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d7239e8d99f744499a32d7c81b973be6/version/19/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2gsnr6j5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חנה לסלאו התארחה אצל צחי קומה וחשפה לראשונה דברים אישיים עליהם לא דיברה מעולם: \"בגלל הבגידות של האקסים שלי איבדתי אמון בגברים. אני בפוסט טראומה״. על הגברים בחייה שגרמו לה לחוסר ביטחון: \"הם היו מסתכלים על כל ביס שהייתי לוקחת לפה\". על החלום המשפחתי שהתנפץ: \"עצוב לי שילדיי לא איתי, הרי זה הגיל של הנחת, הגיל בו אני אמורה לקטוף את הפירות, וזה לא קורה לצערי\". חנה לסלאו כפי שלא שמעתם",
+       "page": "",
+       "id": "--kaltura--1_2gsnr6j5===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 8: ליאור נרקיס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e7bb12fe6f2451d92c57e70539806fd/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yfo0xlcr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: ליאור נרקיס",
+       "page": "",
+       "id": "--kaltura--1_yfo0xlcr===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 7: טום אביב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0343cfc6aaf843c09fa573869fbea405/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_511hwl7s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: טום אביב",
+       "page": "",
+       "id": "--kaltura--1_511hwl7s===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 6: מורן אטיאס",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/48ff21aeaa2646c4b3c2a914b2dbacde/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q34peagk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: מורן אטיאס",
+       "page": "",
+       "id": "--kaltura--1_q34peagk===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 5: עדן חסון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f3d6a9676e1c4b45ab0ca1f9600b07e8/version/21/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5dwa5zit/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: עדן חסון",
+       "page": "",
+       "id": "--kaltura--1_5dwa5zit===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 4: יובל המבולבל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58eecb756d5448849f22e7b82747af77/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hjemlnnh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: יובל המבולבל",
+       "page": "",
+       "id": "--kaltura--1_hjemlnnh===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 3: זהבה בן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07c1008e9f954bf4b8da98b009860aeb/version/16/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_46w3qvz7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: זהבה בן",
+       "page": "",
+       "id": "--kaltura--1_46w3qvz7===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 2: מירי מסיקה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c35bc7b381cf46a687c2852a13cb49b9/version/17/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_420geyx3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: מירי מסיקה",
+       "page": "",
+       "id": "--kaltura--1_420geyx3===",
+       "season": "עונה 5"
+      },
+      {
+       "name": "סלבריישן עם צחי קומה, עונה 5, פרק 1: רן דנקר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/25ac3d0748a24f598620b2b019ca7086/version/25/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_syywiwr7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "צחי קומה, העיתונאי ומנחה הטלוויזיה, מארח את מיטב הסלבריטאים בישראל לשיחת סלון אינטימית במיוחד. והפעם: רן דנקר",
+       "page": "",
+       "id": "--kaltura--1_syywiwr7===",
+       "season": "עונה 5"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

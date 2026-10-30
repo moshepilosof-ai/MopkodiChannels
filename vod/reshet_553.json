@@ -1,0 +1,101 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - הפליליסטיות",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "553",
+   "series_id": "553",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/551f12535d3d45f282b900a3608c6bcb/version/0/width/800/height/1200/quality/90",
+   "plot": "סדרת דוקו-ריאליטי שתיתן הצצה לחייהן של עורכות הדין המובילות בישראל בתחום הפלילי ותחשוף את המורכבות בין שילוב קריירה מצליחה לחיים הפרטיים",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "הפליליסטיות, עונה 1, פרק 8: פרק הסיום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ddb7002c375145939c51f26c8d488acd/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c715l5nh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-10",
+       "plot": "שבע עורכות דין פליליסטיות המובילות בתחום, שמייצגות פושעים ומשפחות פשע שונות, חוברות יחד להקמת משרד משותף. והפרק: פרק סיום העונה! הפליליסטיות ממריאות לחופשת סוף עונה אבל משהו משתבש - האם המשרד עומד להתפרק? | הפליליסטיות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_c715l5nh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הפליליסטיות, עונה 1, פרק 7: ראיית הזהב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/159b7f694ba34fb4a3deb2a1d3c3fb1d/version/18/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xzxqw9a5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-04-03",
+       "plot": "שבע עורכות דין פליליסטיות המובילות בתחום, שמייצגות פושעים ומשפחות פשע שונות, חוברות יחד להקמת משרד משותף. והפרק: הפליליסטיות מגיעות לביקור בכלא - ושני דרי חייבת למצוא את ראיית הזהב | הפליליסטיות, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_xzxqw9a5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הפליליסטיות, עונה 1, פרק 6: התיק שקרע את המשרד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57af02421a1d43f18da6da1e35e028bf/version/22/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l2krfs86/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-31",
+       "plot": "הפליליסטיות פוגשות לראשונה בתוכנית נפגעת עבירה - ושני דרי מטפלת בתיק אישי במיוחד",
+       "page": "",
+       "id": "--kaltura--1_l2krfs86===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הפליליסטיות, עונה 1, פרק 5: סוחר ההמבורגרים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/81dee8fa24344d10a80286191e1f13cf/version/23/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4fovhqmt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-27",
+       "plot": "אור בן שאנן מנסה להוכיח שאם אומרים \"המבורגר\" במהלך שיחה הכוונה היא רק להמבורגר - ושני דרי חושפת את הסיפור המשפחתי הטראגי שלה",
+       "page": "",
+       "id": "--kaltura--1_4fovhqmt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הפליליסטיות, עונה 1, פרק 4: החופשה שהתפוצצה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a95a2a23710414aa18ddb7950b46560/version/26/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_irt1srvi/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-24",
+       "plot": "הן נוסעות להעביר לילה משותף בצימר בצפון, ולא הכול הולך כמתוכנן",
+       "page": "",
+       "id": "--kaltura--1_irt1srvi===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הפליליסטיות, עונה 1, פרק 3: פליליסטית חדשה מצטרפת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2614d50ac0dc454abbbd5e2c89c956a1/version/30/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_er1v639s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-20",
+       "plot": "עורכת הדין קארין לגטיוי מצטרפת למשרד - וחן מאירי מגלה אם היא בהיריון",
+       "page": "",
+       "id": "--kaltura--1_er1v639s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הפליליסטיות, עונה 1, פרק 2: הקו האדום של שני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bb66c9c4863a4442aabaf26fb20666fb/version/32/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j3uaqny4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-17",
+       "plot": "המהלך החריג של אור בן שאנן - והטעות הגורלית שעשה הלקוח של שני דרי",
+       "page": "",
+       "id": "--kaltura--1_j3uaqny4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הפליליסטיות, עונה 1, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f6101b4ea67e4028997661595e3df5ed/version/37/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ldd8eexd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-03-13",
+       "plot": "שבע עורכות דין פליליסטיות המובילות בתחום, שמייצגות פושעים ומשפחות פשע שונות, חוברות יחד להקמת משרד משותף",
+       "page": "",
+       "id": "--kaltura--1_ldd8eexd===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

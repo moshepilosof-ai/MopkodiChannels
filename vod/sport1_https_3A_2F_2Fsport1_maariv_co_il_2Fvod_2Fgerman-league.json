@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - ליגה גרמנית",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fgerman-league",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fgerman-league",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1290447",
+   "plot": "",
+   "updated": "2026-10-31 00:09",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תקציר: פרייבורג – באיירן מינכן 3:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1290447",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113324/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1981247/",
+       "season": ""
+      },
+      {
+       "name": "תקציר: פרייבורג – באיירן מינכן 3:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290429",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113324/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1981248/",
+       "season": ""
+      },
+      {
+       "name": "צפו בשערים: פרייבורג – באיירן מינכן 3:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290429",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113284/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1981209/",
+       "season": ""
+      },
+      {
+       "name": "צפו: באייר לברקוזן השלימה מהפך בקרב הצמרת מול פרייבורג וניצחה 1:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1289419",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4110863/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1975211/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: שלושער ובישול לדיאס, באיירן מינכן הביסה 1:6 את לייפציג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1289284",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4110510/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1974293/",
+       "season": ""
+      },
+      {
+       "name": "צפו: באייר לברקוזן גברה 3:4 על מיינץ במשחק משוגע",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1288276",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4108082/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1967786/",
+       "season": ""
+      },
+      {
+       "name": "צפו: נוייר טעה, באיירן מינכן סיימה ב-2:2 מאכזב מול אוגסבורג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1288237",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4108080/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1967778/",
+       "season": ""
+      },
+      {
+       "name": "צפו בשערים: באיירן מינכן – אוניון ברלין 0:7",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285917",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102883/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1952310/",
+       "season": ""
+      },
+      {
+       "name": "צפו: באיירן מינכן כמעט הסתבכה מול העולה החדשה, הארי קיין כבש וגם בישל",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285156",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4100469/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1947835/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

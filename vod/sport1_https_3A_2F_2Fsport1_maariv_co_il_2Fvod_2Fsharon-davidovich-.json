@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - הכתבות של שרון דוידוביץ'",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fsharon-davidovich-articles",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fsharon-davidovich-",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1026020",
+   "plot": "",
+   "updated": "2026-10-31 00:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "לרקוד איתה: אנגליה פותחת עונת פרמיירליג עם חזרת הקהל",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1026020",
+       "url": "https://sport1-video-f.wcdn.co.il/3289325/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/728053/",
+       "season": ""
+      },
+      {
+       "name": "הקסם לא אבד: סיטי באה להזכיר לליברפול מי כאן בעלת הבית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1030766",
+       "url": "https://sport1-video-f.wcdn.co.il/3218102/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/sharon-davidovich-articles/video/550622/",
+       "season": ""
+      },
+      {
+       "name": "לפני ליברפול: שרון דוידוביץ' על פתיחת העונה של יונייטד\\r\\n",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1024628",
+       "url": "https://sport1-video-f.wcdn.co.il/3226100/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/527694/",
+       "season": ""
+      },
+      {
+       "name": "המפעל המרגש בעולם: צפו בכתבה של דוידוביץ' על הגביע האנגלי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1026100",
+       "url": "https://sport1-video-f.wcdn.co.il/3230034/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/519110/",
+       "season": ""
+      },
+      {
+       "name": "30 משחקים - טירוף הכריסמס מתחיל. צפו בכתבה של שרון דוידוביץ'",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1023517",
+       "url": "https://sport1-video-f.wcdn.co.il/3239650/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/sharon-davidovich-articles/video/505296/",
+       "season": ""
+      },
+      {
+       "name": "המכשף זייך: השחקן הכי חשוב של צ’לסי נכנס לפעולה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1019326",
+       "url": "https://sport1-video-f.wcdn.co.il/3234922/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/sharon-davidovich-articles/video/480248/",
+       "season": ""
+      },
+      {
+       "name": "נגע בשמש ונשרף ממנה: מראדונה הוא אחד יחיד ומיוחד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1013245",
+       "url": "https://mp4.wcdn.co.il/3241761/3241761-4500-1920x1080.mp4",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/sharon-davidovich-articles/video/478304/",
+       "season": ""
+      },
+      {
+       "name": "חזר לחלום בגדול: אמרי נהנה מפתיחת עונה חלומית בוויאריאל",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1018713",
+       "url": "https://sport1-video-f.wcdn.co.il/3227093/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/sport1-exclusive/sharon-davidovich-articles/video/477143/",
+       "season": ""
+      },
+      {
+       "name": "יצא מאיזור הנוחות שלו: הארי קיין שובר שיאים",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1017470",
+       "url": "https://sport1-video-f.wcdn.co.il/3235674/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/470722/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

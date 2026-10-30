@@ -1,0 +1,236 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - המתנחל עם חנוך דאום",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "171",
+   "series_id": "171",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fea683e48d3242e898ded84b75836723/version/10/width/800/height/1200/quality/90",
+   "plot": "לקראת הבחירות לכנסת ה-21 חנוך דאום חוזר להתנחל אצל ראשי המפלגות הגדולות כדי לעזור להם להכפיל את המנדטים בבחירות הקרובות",
+   "updated": "2026-10-31 00:00",
+   "sub_categories": [
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "המתנחל, עונה 3, פרק 5: יאיר לפיד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6eafd7232d848dfa17d9a22741c3f2e/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hp8vdtyv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-29",
+       "plot": "חנוך דאום מתלווה אל יאיר לפיד במסע הבחירות שלו ומנסה להבין אם הוא שמאל, ימין, מרכז או סתם למעלה. \"המתנחל\", הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_hp8vdtyv===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 3, פרק 4: תמר זנדברג",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee791518ca9a4b3e95266ab483155d4c/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_agdyq1xw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-29",
+       "plot": "חנוך דאום מזמין הפעם את יו\"ר מפלגת מרצ, תמר זנדברג לביקור אצלו בהתנחלות ולוקח אותה מעבר לקו הירוק. לצפייה ישירה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_agdyq1xw===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 3, פרק 3: מירי רגב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2446a301dec348d5be8c32987ebaf471/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_iynrbky8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-29",
+       "plot": "בפרק השלישי של עונת הבחירות, חנוך דאום מבקר בביתה של שרת התרבות מירי רגב  ורגע לפני הבחירות מנסה לעזור לה לגייס עוד קולות ומנדטים. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_iynrbky8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 3, פרק 2: אבי גבאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d4917bd5b3b049d7a9af77be6c2ff909/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_29mtsl9y/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-29",
+       "plot": "חנוך דאום מבקר בביתו של יו\"ר מפלגת העבודה ומתלווה אליו במסע הבחירות. המנתחל לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_29mtsl9y===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 3, פרק 1: איילת שקד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73e5f1a153f147f2b90e8d2b493550bb/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_u57zw0c3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-08-29",
+       "plot": "בפרק הראשון של עונת הבחירות, חנוך דאום מתנחל בבית של שרת המשפטים איילת שקד ומתלווה אליה למסע הבחירות. הפרק המלא לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--0_u57zw0c3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 11: איתמר בן גביר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/71713e6376854d418e78d57761b4a274/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ditpm9p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_7ditpm9p===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 10: מירי רגב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07db8e4bdf53444b90adbf8b71bc4a6c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zt3e14nm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_zt3e14nm===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 9: אבי ביטר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06c14fe342c240d18d34b0d827946a51/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7dpc9fmq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_7dpc9fmq===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 8: חן אריזונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba353a6840d442cb9e63f61783500f48/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kovgmo5e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם.",
+       "page": "",
+       "id": "--kaltura--1_kovgmo5e===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 7: רינת גבאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e4a04f4a6c4472285ad83b464851ac2/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9t5msu23/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_9t5msu23===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 6: איתי שגב",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2d2ad9a526c4d84a471e3dbcf07477e/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9ng6b5du/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_9ng6b5du===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 5: דנה רון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/67051a95895b41d6b457f45c84bca347/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_by6f4odp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_by6f4odp===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 4: ארי שמאי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/722315d42d544664842670f3360e43b3/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3abi5lxn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_3abi5lxn===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 3: ליהיא גרינר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80eda12fbf394e15b2964fafad9512b0/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ic65zhv/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_7ic65zhv===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, פרק 1: יורם שפטל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b24ae77ffd724fdd8cfc165cf844519b/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_60djay4d/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם",
+       "page": "",
+       "id": "--kaltura--1_60djay4d===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "המתנחל, עונה 1, פרק 2: פליקס חלפון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/53b90196735e40d08a48811609a5ff3f/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0hxbbhbh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "בכל שבוע יכנס העיתונאי חנוך דאום לחיים של סלב אחר. הוא יגור איתו במשך 48 שעות, יתלווה אליו לכל מקום, ידבר איתו על הנקודות הכי חושפניות וינסה לסדר לו את החיים או סתם להרוס אותם.",
+       "page": "",
+       "id": "--kaltura--1_0hxbbhbh===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "המתנחל, עונה 2, פרק 6: רביב דרוקר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f135486f13d5444cb2206d3e5cf9ec02/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0xwmiqnx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "והפעם חנוך מתנחל אצל רביב דרוקר",
+       "page": "",
+       "id": "--kaltura--1_0xwmiqnx===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המתנחל, עונה 2, פרק 5: חנוך לכנסת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35f17ab5eb0b436daa59ae20a2abbcd4/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7kds5zvt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "חנוך דאום, חוזר לעונת בחירות מוטרפת. בכל פרק חנוך יתנחל ליומיים אצל ראש מפלגה אחר. האם יצליח לעמוד בהבטחתו ולהכפיל את מספר המנדטים שיקבלו בקלפי?",
+       "page": "",
+       "id": "--kaltura--1_7kds5zvt===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המתנחל, עונה 2, פרק 4: יאיר לפיד",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db09c2d47ace40f99c0b1d292f144e2b/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xqsyj5v0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "והפעם חנוך מתנחל אצל יאיר לפיד, האם יצליח להכניע אותו בנוק אאוט בזירה?",
+       "page": "",
+       "id": "--kaltura--1_xqsyj5v0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המתנחל, עונה 2, פרק 3: נפתלי בנט",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7715374a78f04c83951cc9927ef61cf9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3pj4vjog/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "חנוך דאום מתנחל אצל נפתלי בנט ולוקח אותו להילחם בשדה הקרב. מי ינצח?",
+       "page": "",
+       "id": "--kaltura--1_3pj4vjog===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "המתנחל, עונה 2, פרק 1: זהבה גלאון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea38f0333be94bbf84f5de2a7ae65cbb/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uti22kud/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-07-24",
+       "plot": "חנוך דאום, חוזר לעונת בחירות מוטרפת. בכל פרק חנוך יתנחל ליומיים אצל ראש מפלגה אחר. האם יצליח לעמוד בהבטחתו ולהכפיל את מספר המנדטים שיקבלו בקלפי?",
+       "page": "",
+       "id": "--kaltura--1_uti22kud===",
+       "season": "עונה 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

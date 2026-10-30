@@ -1,0 +1,51 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - עינב גלילי נגד הזמן",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "510",
+   "series_id": "510",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35d6a5fe1fad4d16b2b88c5e8fc4bcfa/version/0/width/800/height/1200/quality/90",
+   "plot": "עינב גלילי נגד הזמן | עינב גלילי נפגשת לארוחת ערב עם חבריה גורי אלפי, נלי תגר, אביעד קיסוס ומרגלית צנעני שמספרים בכנות מפתיעה על פדיחות גופניות ששום בוטוקס לא יוכל להעלים; ופוגשת את מיטב המומחים שינסו לתת תשובה לשאלה הנצחית - איך להישאר צעירים?",
+   "updated": "2026-10-31 00:01",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עינב גלילי נגד הזמן, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a7eb7d45be944378af37022e27263599/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sivilj7b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-19",
+       "plot": "עינב גלילי בסדרה חדשה נפגשת לארוחת ערב עם חבריה גורי אלפי, נלי תגר, אביעד קיסוס ומרגלית צנעני, שמספרים בכנות מפתיעה על פדיחות גופניות ששום בוטוקס לא יוכל להעלים, ופוגשת את מיטב המומחים שינסו לתת תשובה לשאלה הנצחית - איך להישאר צעירים?",
+       "page": "",
+       "id": "--kaltura--1_sivilj7b===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עינב גלילי נגד הזמן, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/82f6156ff6b446339aa1ce357b52a1d3/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pnmjvu69/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-19",
+       "plot": "בפרק סיום המסע של עינב גלילי בעקבות השאלה איך להישאר צעירים היא פוגשת ובודקת בעצמה כמה מהשיטות החדשניות והמסקרנות ביותר שקיימות היום בארץ ובחו\"ל",
+       "page": "",
+       "id": "--kaltura--1_pnmjvu69===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עינב גלילי נגד הזמן, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b441e949c0547ea8d0e9631b4b55be4/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pyd676k0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-06-19",
+       "plot": "עינב גלילי, בסדרה דוקומנטרית אישית חדשה ומנקודת מבט כנה ומצחיקה נוגעת בשאלה שהעולם כולו עסוק בה בקדחתנות: איך להישאר צעירים ולמה מלכתחילה אנחנו כל כך אובססיביים לנעורים. בהשתתפותם של גורי אלפי, מרגול, נלי תגר ואביעד קיסוס",
+       "page": "",
+       "id": "--kaltura--1_pyd676k0===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

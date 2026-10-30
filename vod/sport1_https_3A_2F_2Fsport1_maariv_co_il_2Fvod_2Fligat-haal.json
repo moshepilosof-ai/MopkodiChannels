@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 1 - ליגת העל",
+   "type": "vod",
+   "source": "sport1",
+   "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fligat-haal",
+   "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fligat-haal",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291019",
+   "plot": "",
+   "updated": "2026-10-31 00:08",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תיקתקנו, 30.10",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291019",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114760/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1984887/",
+       "season": ""
+      },
+      {
+       "name": "צפו: הפועל תל אביב זכתה בגביע הטוטו אחרי 2:3 ענק מול מכבי תל אביב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290970",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114725/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1984594/",
+       "season": ""
+      },
+      {
+       "name": "תיקתקנו, 29.10",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290899",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114533/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1984187/",
+       "season": ""
+      },
+      {
+       "name": "סיכום שבוע בכדורגל העולמי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1284090",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114408/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1983878/",
+       "season": ""
+      },
+      {
+       "name": "צפו: הפועל באר שבע רמסה 2:5 את מכבי חיפה בסמי עופר, צמד לזלאטנוביץ'",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290619",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113824/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1982313/",
+       "season": ""
+      },
+      {
+       "name": "צפו: הפועל באר שבע רמסה 2:5 את מכבי חיפה בסמי עופר, צמד לזלאטנוביץ'",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290619",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113812/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1982284/",
+       "season": ""
+      },
+      {
+       "name": "צפו: הפועל באר שבע רמסה 2:5 את מכבי חיפה בסמי עופר, צמד לזלאטנוביץ'",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290619",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113809/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1982264/",
+       "season": ""
+      },
+      {
+       "name": "צפו: הפועל באר שבע התפוצצה עם 0:3 בשש דקות מול מכבי חיפה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290616",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113785/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1982239/",
+       "season": ""
+      },
+      {
+       "name": "עימות בין אוהדי הפועל פתח תקוה לבית\"ר ירושלים על כר הדשא",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290437",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113323/hls/402x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1982159/",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

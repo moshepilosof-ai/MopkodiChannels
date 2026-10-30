@@ -1,0 +1,531 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - זוג מנצח VIP",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "45",
+   "series_id": "45",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58ae67fa6a064806849a62e3c22b669c/version/12/width/800/height/1200/quality/90",
+   "plot": "משחק הזוגות המצליח בעולם. מי יהיה זוג מנצח VIP?",
+   "updated": "2026-10-30 23:59",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/988765fef11345aa9eb37c8adcfd6911/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_01tfzxqr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאליטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_01tfzxqr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/725008ae10f744f192680acfcb593018/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qgznbwco/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_qgznbwco===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4a442d6406e040f0acb2d2c6934d0d66/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hftk9zfq/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_hftk9zfq===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/43bfe9fa183546f3862ffbec06da5204/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cx2aisxr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_cx2aisxr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05b3451b5d8c4f30acde8aaf0f9d00de/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r41blin2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_r41blin2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5451dafcd8ae4b0e830ca807a057b537/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t35ftjgk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_t35ftjgk===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e1163cf83ac429880f0b703ba415dd7/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bzia9zkb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_bzia9zkb===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/04daa1a3e71c43d7b8bd56c676656480/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c7nh6aii/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_c7nh6aii===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad9c94dd2c884b6a8d640a3e236053ae/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ot0x9df5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_ot0x9df5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c94c56ed00e4eeeb8c478c448d5e4cf/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nixj1ky1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_nixj1ky1===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 1, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9798b6c85005482aa573bafee1a7844d/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_82d5hz9i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "ריאלטי חדש בו 8 סלבריטאים ובני זוגם לוקחים חלק במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן, הם יגורו בוילה אחת, יעברו משימות שיבדקו עד כמה הם מכירים זה את זו ועד כמה הם באמת סומכים אחד על השנייה",
+       "page": "",
+       "id": "--kaltura--1_82d5hz9i===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 15: הגמר הגדול!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9346690701664503b44c94f88ac781b4/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9n9gvv79/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הגמר הגדול של זוג מנצח VIP, בו תגלו מי הזוג המנצח שהולך לקחת את כל הקופה. אז מאיה וג'ובאני או דנית ואליאב מי הולך לנצח?",
+       "page": "",
+       "id": "--kaltura--1_9n9gvv79===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 8: הפוליגרף",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6b0bbb567e2444f8bb92d4efe63c2ce/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tycv916h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "משימת פוליגרף שגורמת לכולם להזיע. יש שאלות שעדיף לא לשאול ויש תשובות שעדיף לא לדעת. מי ישקר ומי יאמר אמת? והאם מבחן הפוליגרף יגרום לפיצוץ שאין ממנו חזרה?",
+       "page": "",
+       "id": "--kaltura--1_tycv916h===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 4: טקס תספורת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/29c9cee3d4b94726b1355c0bd978385b/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_svif4erl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "טקס תספורת כואב במיוחד, למי הזוגות ירוקנו הפעם את הקופה? בחירתו הקשה של ג'ובאני! הזוגות יגלו שככל שעולים גבוה יותר ככה הנפילה כואבת יותר. וגם דנית ואליאב על האח הגדול",
+       "page": "",
+       "id": "--kaltura--1_svif4erl===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 5: הבגידה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f799453ff6d54b06aa50f129e06f2803/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7963th7e/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשהיא רואה את ג'ובאני במיטה עם אישה אחרת מאיה הופכת לחיה טורפת. הפרק שהוציא ממאיה את כל השדים. וגם מה הכניס את הבנים להיסטריה?",
+       "page": "",
+       "id": "--kaltura--1_7963th7e===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 3: מתחשמלים!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51e16eb9c2ee432a9e75ed9bf49cc67e/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3u5q5wze/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הם ירוצו, יפלו ויקבלו מכות חשמל רק כדי להראות שהם אוהבים ושהם באמת מכירים אחד את השני. וכשהמתח מתחיל לעלות והלחץ מתחיל להשפיע הלכלוך מתחיל לצוף... הזוגות מגלים שהמשחק הוא לא משחק!",
+       "page": "",
+       "id": "--kaltura--1_3u5q5wze===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 6: ערן מתפוצץ!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2b12470b520745d2924ef900c5368613/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_18mluosz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשהכול מתפרק מבפנים אי אפשר לנצח במלחמה שבחוץ! אביבה תבורי עוברת סיכול ממוקד וערן מתפוצץ, האם אביבה וערן חוטפים נוק אאוט? וגם הפיצוץ הגדול בטקס התספורת",
+       "page": "",
+       "id": "--kaltura--1_18mluosz===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 7: מבצע חילוץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b950e1c7874647bf84ae3ab14f8405da/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ap782asd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הנשים במבצע נועז להצלת הגברים, האם יצילו אותם מהתחשמלות? המתח עולה, החושים מתחדדים והמשחק מעלה הילוך... תתכוננו לפרק שיתקוף לכם את כל החושים!",
+       "page": "",
+       "id": "--kaltura--1_ap782asd===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d271766c0ba40ef8528afea90f932e7/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_98kpvbfc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "עונה חדשה לפורמט המצליח. 6 זוגות סלבס נסגרים בוילה ומתחרים במשימות אתגריות שמעמידות את הזוגיות שלהם במבחן. דוד וגליל שפיגל (עו\"ד של זדורוב),ג'ובאני רוסו, אביבה תבורי ,אבי לוי , דנית ואליאב ודנה זרמון",
+       "page": "",
+       "id": "--kaltura--1_98kpvbfc===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 2: הריב על הקופה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/61b34e28e8c248f18d14c4fff3d46c6f/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5hl7t8j9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "זוגות הסלבס מתמודדים במשימות מאתגרות במים ובאוויר שבסופן טקס \"תספורת\" סוער שמנפץ את האידיליה בבית! למי הזוגות יבחרו לקחת את הכסף מהקופה ?",
+       "page": "",
+       "id": "--kaltura--1_5hl7t8j9===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "\"זוג מנצח VIP, עונה 2, פרק 13: משפחה!\n\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5dde248fcd394d59a1b0ab1e7ee1dfab/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m8yyu72i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "\"רגע לפני שבוע הגמר יוצאים הזוגות מהווילה בפעם הראשונה למפגש מרגש עם משפחה וחברים בו הם מבינים את עוצמת החוויה שעברו ב\"\"זוג מנצח\"\" ומנסים להסביר למשפחות שלהם איך הם גדלו , בגרו, התחזקו כזוג!\n\"",
+       "page": "",
+       "id": "--kaltura--1_m8yyu72i===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "\"זוג מנצח VIP, עונה 2, פרק 11: מלחמה!\n\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ed38161d2d44bbfac6d963e5c652c98/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9p4ack1p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי שהנשים עשו כבר את הכול, הגיע הזמן למלא מצברים הגיעה העת לפתוח סתימות. והאם הגברים יצליחו להגן על הנשים בשדה הקרב? תתכוננו לפרק שלא לוקח שבויים!",
+       "page": "",
+       "id": "--kaltura--1_9p4ack1p===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "\"זוג מנצח VIP, עונה 2, פרק 12: החטיפה!\n\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f320a6a98c042699545e41cd2a7b398/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4xwy5hhp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הגברים יוצאים למירוץ נגד השעון כדי להציל את הנשים החטופות. האם הם יצליחו לעשות את כל מה שצריך כדי לחלץ אותן? וגם מה הצליח לשבור את ג'ובאני ומאיה?",
+       "page": "",
+       "id": "--kaltura--1_4xwy5hhp===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 10: העזיבה!",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a7c751a1c7e473bbb9d1e8d16b1e869/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ze7p3l4v/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "\"האם הזוגיות של אביבה וערן נגמרת? היו להם ריבים ופיוסים ,הפסדים וניצחונות גדולים.. ההחלטה הגורלית של אביבה וערן!\n\"",
+       "page": "",
+       "id": "--kaltura--1_ze7p3l4v===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 2, פרק 9: איפה משה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/628d946f9c6649e79cd72094dce8d01f/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0qeuqce5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הם צריכים להבין בלי לשמוע, הן צריכות להספיק לבצע הכול ולמצוא את כל מה שצריך כדי לנצח. קשה להסביר אותו, מסובך להבין אותו אבל אי אפשר להפסיק לצחוק. פרק קורע!",
+       "page": "",
+       "id": "--kaltura--1_0qeuqce5===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "\"זוג מנצח VIP, עונה 2, פרק 14: חצי הגמר\n\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8400f4d5b1f945d3be475354b3455ce2/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ztq408uf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "פרק מותח ומרגש במיוחד שבו הנשים נלחמות להשאיר באוויר והגברים חושפים את הסודות הגדולים. מה יקרה כשהסוד הגדול של ג'ובאני ייחשף לראשונה? וגם נגלה אילו זוגות יעלו לגמר!",
+       "page": "",
+       "id": "--kaltura--1_ztq408uf===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 24: הגמר הגדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57dfebcb285b4d38a26171481ead8f55/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_21d7pqfs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "העונה ה-3 של \"זוג מנצח VIP\" מגיעה לסיומה עם מפגש מרגש של הזוגות שהשתתפו בעונה. לצד הנוסטלגיה, כולם הגיעו במטרה אחת: לגלות מי הזוג שיזכה - אדל ומאצ' או איגי ועתי? | זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_21d7pqfs===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 23: משימת הגמר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/648c172afcf042ffb43f13c22e06431c/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bhiw9q86/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שלושת הזוגות שהעפילו לגמר הגדול - איציק ולאורה, אדל ומאצ' ואיגי ועתי - הגיעו למשימה האחרונה שתיקבע מי יודח רגע לפני הכרעת הצופים? | זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_bhiw9q86===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 22: המשימה המרגשת והדרמטית של העונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f505c2e74344d2ca49e152985a005c1/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_54jzkyo8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "רגע לפני הגמר הגדול, הזוגות מגיעים למשימת הסליחות, התודות וההבטחות - האם איגי ועתי יצליחו לעשות מהפך ולעלות לגמר? וגם: הצעת הנישואין המרגשת והמפתיעה של איציק ולאורה | זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_54jzkyo8===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 21: חצי הגמר מתחיל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6ff282f45f24c58ab311dd0f20f3c40/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5j686my1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אחרי שמני ופרלה חזרו למשחק, ארבעת הזוגות רוצים להבטיח את המקום בשלישיית הגמר - והאתגר הראשון שלהם הוא משימת הפחם. מי מהבנות הצליחה לעמוד במשימה - ואיך התמודדו הבנים עם אמבטיית הקרח? | זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_5j686my1===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 17: חוזרים לילדות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d903f2fbb294cfe9a14b94eeb37d35f/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_calbjl6r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הבנים צריכים לגלות בקיאות בנוגע לתקופת הילדות של בנות הזוג שלהם. לאיזו מהבנות הציקו בבית הספר, למה איגי עזבה את קנדה בגיל צעיר - ומה היה החלום של אביבה? | זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_calbjl6r===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 16: מבחן הפוליגרף האכזרי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be45dbf738794b93b59e463abfc1ba79/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_smauz2uf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הזוגות מגיעים למשימת הפוליגרף ונאלצים לענות על כמה שאלות קשות שמעמידות את הזוגיות שלהם במבחן. למה אדל היא לא האהבה הכי גדולה של מאצ' - ועם איזו בחורה מהווילה איציק ניהל רומן? זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_smauz2uf===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 15: למה מאצ' ואדל בכו?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/430785de5cdd4949b8c7debba128840d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t9o0vbdk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מאצ' ואדל ניסו לעצור את הדמעות בכל דרך במשימת הבצל, אבל רגע אחד גרם להם להישבר מול המצלמות ולהתחיל לבכות באמת. וגם: למה הזוגות כעסו על מיכאל ושירן? זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_t9o0vbdk===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 14: יום ההולדת של איגי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ae2af714d50498d9ea0307d2febdd6a/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ypqbaw8u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אדל מארגנת מסיבת הפתעה לאיגי, מיכאל ושירן צריכים להחליט אם הם ממשיכים במשחק לאור הפציעה בפרק הקודם - ומי יסיימו בהצלחה את משימת האימוג'י? זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ypqbaw8u===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 13: איציק מאבד את העשתונות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ed863f94609d49e4998f5f9df49ca981/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xxynwwdh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מה גרם לאיציק להתעצבן כל כך, איזו משימה הסתיימה בפציעה – ומיהו הזוג הרביעי שהודח? זוג מנצח VIP לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_xxynwwdh===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 12: \"קאט דה בולשיט\"",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7efd6389f131485db37a7e52c0887aba/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mxkber2b/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "הבנים נכנסים לבידוד וכל מה שהם יכולים לעשות זה רק את מה שהבנות מפילות עליהם. מיכאל ושירן מרגישים על בשרם איך זה לישון באוהל ואיציק בשיחה מרגשת במיוחד עם הבת הבכורה שלו. זוג מנצח VIP לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_mxkber2b===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 8: איך יגמר מבחן הפרידה של הזוגות?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/481d65cdf3e94676ab9e8469a8812e78/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1b73btjs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "מבחן הפרידה של הזוגות מגיע -  האם הנשים ידעו לזהות את הקווים האדומים שהגדירו בני הזוג שלהם? ולמה כל הגברים מגובסים על כסא גלגלים? זוג מנצח VIP לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_1b73btjs===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 6: מה קרה לבנזיני וטיילור?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf041209001143bdb7fc9533ca18b5c9/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_epnuc9d3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק ההדחה השני של זוג מנצח VIP, מוציאים הזוגות את הכביסה המלוכלת אחד על השני, בנזיני וטיילור מגיעים לפיצוץ ומה שר יחיאל בברכה?",
+       "page": "",
+       "id": "--kaltura--1_epnuc9d3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 3: את מי ידיחו הזוגות מהווילה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ce3f4ba71eb74b3aa7dd41f4e5cfd688/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v7znakc7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק 3, טל גלבוע מנסה לעצור את העצבים שלה על חלק מהזוגות בווילה ומי יהיה הזוג הראשון שיודח?",
+       "page": "",
+       "id": "--kaltura--1_v7znakc7===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 1: פרק הבכורה - הזוגות מגיעים לווילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/984af19dc037482182bde9a65233d991/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_98cwebno/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק הבכורה מגיעים הזוגות לווילה בפעם הראשונה ונחשפים לבית החדש שלהם, ליחסי הכוחות בין הזוגות ולרגעים הקטנים שישפיעו על על כל אחד מהם",
+       "page": "",
+       "id": "--kaltura--1_98cwebno===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 2: מי הזוג הראשון שמועמד להדחה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e49510db8a694ed9820bef8ccc471fde/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_li1ttwxe/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק ה- 2 מעבירה טיילור את בנזיני מבחן ידע משפחתי, גשם חזק יורד על האוהל של טל ורועי ומי הזוג הראשון שמועמד להדחה?",
+       "page": "",
+       "id": "--kaltura--1_li1ttwxe===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 18: משימת המבוך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c29a75d95ec404eaddcfb852980b322/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d59fe4j4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הזוגות מגיעים למשימת המבוך שתגרום להם לבחון מקרוב את הזוגיות שלהם. איך הסתדרה לאורה עם הפוביה הגדולה מג'וקים, למה אדל בכתה בסוף המשימה - ומה גרם לאיגי לרצות לפרוש? | זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_d59fe4j4===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 19: המשחק מתפוצץ",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/55788715b3884894bf8b5a8e7cfd69b5/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oansf72a/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "כל הזוגות במשימת הקורות מחליטים להקשות על איציק ולאורה. האם הם ייפלו ראשונים ויעמדו להדחה, למה איציק התעצבן על איגי - ואיזה זוג הודח בסוף הפרק הדרמטי? | זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_oansf72a===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 20: משימת ההחזרה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1473de51ed544c32adee16463960e7b1/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0zvi4drr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הזוגות שנותרו במשחק היו בטוחים שהם שלישיית הגמר, אבל אז הם גילו שאחד הזוגות המודחים יחזור ישירות לחצי הגמר. איזה זוג זה יהיה - טל ורועי, מני ופרלה או מיכאל ושירן? | זוג מנצח VIP, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_0zvi4drr===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 10: האם איציק פלרטטן?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dd0a65d244744d93b41063c444fae023/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rfbx8yib/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הזוגות עומדים לאכול אותה בענק במשימת הזוגות והרגע שבו כולם היו צריכים לארוז את כל הציוד שלהם ולעזוב את ברזיל - שנייה לפני שסוגרים את השמיים. זוג מנצח VIP לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_rfbx8yib===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 11: מי הזוג הראשון שיגיע לווילה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d21f51c0e32b409baac32cfb7db4fb9e/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ug8xa35u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הזוגות מתחרים ביניהם במשימה הראשונה בארץ ומנסים להיות הזוג הראשון שיצליח להגיע לווילה ולקבל 50 אלף ש\"ח מהזוגות האחרים. זוג מנצח VIP לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_ug8xa35u===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 9: איך תצליח לאורה להתגבר על התקף החרדה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/144155cf80ee4ce1ad55615ce543894e/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jlqdr3z0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "בפרק ההדחה של זוג מנצח VIP, הזוגות מתמודדים עם בחירה והחלטות בגובה רב, לאורה נכנסת לפניקה ומתקשה להתמודד עם המשימה והדרמה מגיעה לשיאה עם ההחלטה של הזוגות - מי נשאר בווילה ומי יוצא החוצה? זוג מנצח VIP לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_jlqdr3z0===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 7: למה צרחו הבנים מכאב?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4c67f20bedb84dda9fb2d6f866994da0/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jia0ya5z/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "הגברים מתמודדים עם משימה כואבת במיוחד ששולחת אותם להרגיש לראשונה מה הם כאבי לידה, בזמן שהנשים צופות מהצד",
+       "page": "",
+       "id": "--kaltura--1_jia0ya5z===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 4: למה בכה מאצ'?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f77cc80204214a36a5ff52ce351f3bcc/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7rh2i7sz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אדל ומאצ' במשבר זוגיות בעקבות המשימה האחרונה, עתי שר לאיגי אייל גולן ולראשונה מתכנסים כל הזוגות לארוחת שישי",
+       "page": "",
+       "id": "--kaltura--1_7rh2i7sz===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "זוג מנצח VIP, עונה 3, פרק 5: כמה השקיע מאצ' באדל?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8eee194ccd294e0b9907367557713114/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_101j3aeh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "אדל מגיבה בעצבים על מאצ' אחרי משימת הזוגות, בנזיני וטיילור בוויכוח על חמלה וטוב לב וכמה השקיע יחיאל באביבה?",
+       "page": "",
+       "id": "--kaltura--1_101j3aeh===",
+       "season": "עונה 3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
