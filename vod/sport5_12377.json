@@ -1,0 +1,86 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - בן שרף ב-NBA",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "12377",
+   "series_id": "12377",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1794885.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:01",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "דקות ראשונות לשרף, ברוקלין הובסה ע''י אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1794885.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDBKN_0113_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDBKN_0113_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12378%26Vi=565237&p",
+       "season": ""
+      },
+      {
+       "name": "מיטשל כיכב מול ברוקלין, ניצחון בכורה לקליבלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1794235.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/_HLSVideo_7994847_recap27_BKNCLE_0105_RAW_179290272599/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/_HLSVideo_7994847_recap27_BKNCLE_0105_RAW_179290272599/HLS/playlist.m3u8&live=False&referrer=https://vod.sport",
+       "season": ""
+      },
+      {
+       "name": "ברוקלין הפסידה לשארלוט, וולף ושרף לא שותפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1792818.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHABKN_0087_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHABKN_0087_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12378%26Vi=564683&p",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "בן שרף ב-NBA - עונת 2026/27",
+     "channels": [
+      {
+       "name": "דקות ראשונות לשרף, ברוקלין הובסה ע''י אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1794885.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDBKN_0113_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDBKN_0113_RAW/HLS/playlist.m3u8",
+       "season": "בן שרף ב-NBA - עונת 2026/27"
+      },
+      {
+       "name": "מיטשל כיכב מול ברוקלין, ניצחון בכורה לקליבלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1794235.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/_HLSVideo_7994847_recap27_BKNCLE_0105_RAW_179290272599/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/_HLSVideo_7994847_recap27_BKNCLE_0105_RAW_179290272599/HLS/playlist.m3u8",
+       "season": "בן שרף ב-NBA - עונת 2026/27"
+      },
+      {
+       "name": "ברוקלין הפסידה לשארלוט, וולף ושרף לא שותפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1792818.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHABKN_0087_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHABKN_0087_RAW/HLS/playlist.m3u8",
+       "season": "בן שרף ב-NBA - עונת 2026/27"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

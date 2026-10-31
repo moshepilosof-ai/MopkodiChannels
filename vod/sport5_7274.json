@@ -1,0 +1,746 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - עולם הרכב",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "7274",
+   "series_id": "7274",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1004751.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "עולם הרכב, תכנית 154",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1004751.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/BuW3kpWY1D/App/HSP378800_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/BuW3kpWY1D/App/HSP378800_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 153",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1003048.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/xuKG4nGCEL/App/HSP378799_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/xuKG4nGCEL/App/HSP378799_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 157",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/999352.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/NUuShEeAda/App/HSP378797_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/NUuShEeAda/App/HSP378797_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 156",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/996034.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/yyv9n1uJNg/App/HSP378795_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/yyv9n1uJNg/App/HSP378795_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 155",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/990469.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/FxqiUNeH0V/App/HSP378792_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/FxqiUNeH0V/App/HSP378792_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 154",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/988734.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/D6jBukulHi/App/HSP378791_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/D6jBukulHi/App/HSP378791_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 153",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/987128.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/78p6oRLb8G/App/HSP378788_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/78p6oRLb8G/App/HSP378788_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 152",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/985028.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/P1Dvy9Us9E/App/HSP378787_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/P1Dvy9Us9E/App/HSP378787_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 151",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/979371.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/AUcNWW74AL/App/HSP378786_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/AUcNWW74AL/App/HSP378786_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 150",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/977617.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/PpNOXbwZPd/App/HSP378785_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/PpNOXbwZPd/App/HSP378785_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 149",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/976201.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/fr4fQUkTpY/App/HSP378784_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/fr4fQUkTpY/App/HSP378784_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 148",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/974198.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/VZBWX6ACnP/App/HSP378783_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/VZBWX6ACnP/App/HSP378783_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 147",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/966288.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/DODf3sixoE/App/HSP378778_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/DODf3sixoE/App/HSP378778_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 146",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/964598.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/gFH3uXBhXQ/App/HSP378777_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/gFH3uXBhXQ/App/HSP378777_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 145",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/963361.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/dPvfZC4rL9/App/HSP378776_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/dPvfZC4rL9/App/HSP378776_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 144",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/961401.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/cAzQzo63JV/App/HSP378775_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/cAzQzo63JV/App/HSP378775_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 143",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/960034.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/VbJak555Lt/App/HSP378774_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/VbJak555Lt/App/HSP378774_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 142",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/959763.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/VbJak555Lt/App/HSP378774_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/VbJak555Lt/App/HSP378774_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 141",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/958248.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/0W1GEZJ0En/App/HSP378773_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/0W1GEZJ0En/App/HSP378773_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עולם הרכב, תכנית 139",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/953675.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/8FvqIBdu6u/App/HSP378770_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/8FvqIBdu6u/App/HSP378770_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2023",
+     "channels": [
+      {
+       "name": "עולם הרכב 278: מכוניות היוקרה המסורתיות מפסידות בקרב לסיניות?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1362798.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP593322/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP593322/HLS/playlist.m3u8",
+       "season": "עולם הרכב - 2023"
+      },
+      {
+       "name": "עולם הרכב, 13.09.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1318418.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP593301/HLS/playlist.m3u8",
+       "date": "2023-09-13",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP593301/HLS/playlist.m3u8",
+       "season": "עולם הרכב - 2023"
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2016",
+     "channels": [
+      {
+       "name": "עולם הרכב, תכנית 28",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/675637.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/9f/ca9fefd8-8465-423a-bdaf-6831ed96d57b/HSP299799_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סיכום תערוכת דטרויט, תערוכת הטכנולוגיה בווגאס ונסיעה ראשונה על המאווריק X3 במדבר הנגב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/9f/ca9fefd8-8465-423a-bdaf-6831ed96d57b/HSP299799_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, תכנית 27",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/675636.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/db/b4/dbb4586e-f443-425b-9e0e-d46d7e4ac43e/HSP299798_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בניגוד לתחזיות מחיר מרבית הדגמים המרכזיים נותרו ללא שינוי ויש גם הוזלות של אלפי שקלים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/db/b4/dbb4586e-f443-425b-9e0e-d46d7e4ac43e/HSP299798_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, תכנית 26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/671452.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/af/b7/afb73927-4e44-4a79-bd51-8af5e6e53166/301220161010_hsp299797_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "התשתיות בישראל מתקדמות וכך גם מערכות הבטיחות במכוניות - מה כולם מפספסים והיכן נמצא הפיתרון שיצמצם את מספר הנפגעים?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/af/b7/afb73927-4e44-4a79-bd51-8af5e6e53166/301220161010_hsp299797_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב - תכנית 25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/669558.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/ad/abadc428-3142-4636-95f3-884157b5faa1/231220160808_hsp299796_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מבט על אלפא רומיאו החדשה, סיכום שנה בשוק הדו גלגלי והשקה של פורד GT הראשונה בארה\"ב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/ad/abadc428-3142-4636-95f3-884157b5faa1/231220160808_hsp299796_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, תכנית 24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/667400.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/27/ad/27ad9436-3a08-429b-9d38-d5321d101f31/161220161010_hsp299795_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הג'יפון הקטן של אאודי שהושק בישראל ומרצדס חושפת את ה-E CLASS COUPE",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/27/ad/27ad9436-3a08-429b-9d38-d5321d101f31/161220161010_hsp299795_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, תכנית 23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/667953.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/1f/c61f841d-1e05-462f-a530-2c34d44b76aa/181220161212_hsp299794_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "נהיגת בכורה על ה-\"סקודיאק\", פיתוח חדשני ומהפכני של מרצדס וסיכום שנה בשוק הרכב המקומי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/1f/c61f841d-1e05-462f-a530-2c34d44b76aa/181220161212_hsp299794_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, תכנית 22",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/667946.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5e/8e/5e8e9f3e-4dab-4f23-b06b-ed530c80384b/181220161111_hsp299793_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "דגמי 2017 כבר כאן, ההיברידית הלוהטת של טויוטה ועל האליפות ההיסטורית של ניקו רוזברג",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5e/8e/5e8e9f3e-4dab-4f23-b06b-ed530c80384b/181220161111_hsp299793_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, תכנית 21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/667945.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/28/b0282e61-6a2a-48e9-a230-9d0845a3d696/181220161111_hsp299792_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ניר זיגל, אחד ממעצבי הרכב הישראלים הבכירים בעולם מדבר על אחת העבודות המסקרנות בתעשייה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/28/b0282e61-6a2a-48e9-a230-9d0845a3d696/181220161111_hsp299792_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, תכנית 20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/667930.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/23/bf/23bf8cb6-7bc0-431b-a37d-078eb889c991/161220160101_hsp299791_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הוולבו הסדרתית החזקה בעולם נחתה בישראל, המהפכה החשמלית והפעם זו תורה של יגואר, והמאווריק X3",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/23/bf/23bf8cb6-7bc0-431b-a37d-078eb889c991/161220160101_hsp299791_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, תכנית 19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/667922.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/83/88/8388de7e-5eb7-4592-a78e-1a55a93da616/161220160101_hsp299790_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בועז וכפיר מגיעים לסקוטלנד",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/83/88/8388de7e-5eb7-4592-a78e-1a55a93da616/161220160101_hsp299790_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "100 קמ\"ש ב-4.7 שניות: וולוו מפציצה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/656645.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f1/c1/f1c1c356-55b7-4718-a27c-dfe9ec023ade/181120161111_hsp299791_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תוכנית עולם הרכב, 18.11",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f1/c1/f1c1c356-55b7-4718-a27c-dfe9ec023ade/181120161111_hsp299791_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "המפכה הירוקה בישראל יוצאת לדרך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/653224.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/62/bc/62bc1163-b60f-4984-971c-1886ae7a57a6/041120161010_hsp287369_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 17 - BMW הפכה לחלוצה של מהפכה המכוניות ההיברדיות הנטענות והחשמליות. על השינוי הגדול בתוכנית המלאה של עולם הרכב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/62/bc/62bc1163-b60f-4984-971c-1886ae7a57a6/041120161010_hsp287369_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "ב.מ.וו מסירה את הגג: תכנית 16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/648518.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3a/e6/3ae6b9dd-726f-453a-bb31-547a42ac275b/211020161503_hsp287367_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3a/e6/3ae6b9dd-726f-453a-bb31-547a42ac275b/211020161503_hsp287367_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "רנו טווינגו כאן: עולם הרכב, תכנית 15",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/646937.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ed/19/ed19bdc1-76a0-4761-bfeb-d541c1e6f9ac/141020162008_hsp287366_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 15 - של עולם הרכב, והפעם רנו טווינגו על הפרק, לאחר שחזרה שוב לישראל.",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ed/19/ed19bdc1-76a0-4761-bfeb-d541c1e6f9ac/141020162008_hsp287366_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, התכנית המלאה (14)",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/645618.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/07/a5/07a55753-d2b6-40eb-8b8f-021692d74246/071020161301_hsp287365_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 14 - נסיעה ראשונה על האסטון מרטין DB11",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/07/a5/07a55753-d2b6-40eb-8b8f-021692d74246/071020161301_hsp287365_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, 08.09.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/639173.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/64/0e/640e11da-02cf-49cc-832e-29c0d6aaaa3b/100920161907_olam_rechev_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-09-08",
+       "plot": "תכנית 11 - לראשונה על המסך, מבחר מבחני דרכים של מגזין \"עולם הרכב\"",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/64/0e/640e11da-02cf-49cc-832e-29c0d6aaaa3b/100920161907_olam_rechev_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, 01.09.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/637725.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/06/c6/06c6248c-a215-42de-966f-5e2cdc4f05fb/020920161301_hsp287360_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "2016-09-01",
+       "plot": "תכנית 10 - השקת פורש פלמרה החדשה, והאם ה-RX9 של מזדה תגיע לפס הייצור?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/06/c6/06c6248c-a215-42de-966f-5e2cdc4f05fb/020920161301_hsp287360_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, 25.08.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/635921.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a0/64/a0640f3f-bd89-4f07-88d6-3eb3d67db269/260820161212_hsp287359_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-08-25",
+       "plot": "תכנית 9 - מה קורה כשמעבר חציה הופכת למוקש בטיחות? שבוע החלומות בעולם הרכב בקליפורניה ופורד הולכת על כל הקופה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a0/64/a0640f3f-bd89-4f07-88d6-3eb3d67db269/260820161212_hsp287359_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, 04.08.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/628173.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/f2/d5f29982-ec56-4d1e-8aeb-3194590d3538/040820161907_hsp287358_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-08-04",
+       "plot": "תכנית 8 - על שיטת ה 0 קמ\"ש, עליית מחיר הביטוח של האופנועים ונהג האמבולנס המהיר בעולם",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/f2/d5f29982-ec56-4d1e-8aeb-3194590d3538/040820161907_hsp287358_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      },
+      {
+       "name": "עולם הרכב, 28.07.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/626439.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a9/f4/a9f4dc38-b153-443d-8197-53dd7a830526/280720161806_hsp287357_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "2016-07-28",
+       "plot": "תכנית 7 - ניסן והג'וק החדש, טסלה מנמיכה ציפיות וההשקה הרשמית של היונדאי איוניק",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a9/f4/a9f4dc38-b153-443d-8197-53dd7a830526/280720161806_hsp287357_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016"
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2016 - 2016 - דצמבר",
+     "channels": [
+      {
+       "name": "עולם הרכב, תכנית 28",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/675637.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/9f/ca9fefd8-8465-423a-bdaf-6831ed96d57b/HSP299799_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סיכום תערוכת דטרויט, תערוכת הטכנולוגיה בווגאס ונסיעה ראשונה על המאווריק X3 במדבר הנגב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/9f/ca9fefd8-8465-423a-bdaf-6831ed96d57b/HSP299799_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - דצמבר"
+      },
+      {
+       "name": "עולם הרכב, תכנית 27",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/675636.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/db/b4/dbb4586e-f443-425b-9e0e-d46d7e4ac43e/HSP299798_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בניגוד לתחזיות מחיר מרבית הדגמים המרכזיים נותרו ללא שינוי ויש גם הוזלות של אלפי שקלים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/db/b4/dbb4586e-f443-425b-9e0e-d46d7e4ac43e/HSP299798_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - דצמבר"
+      },
+      {
+       "name": "עולם הרכב, תכנית 26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/671452.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/af/b7/afb73927-4e44-4a79-bd51-8af5e6e53166/301220161010_hsp299797_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "התשתיות בישראל מתקדמות וכך גם מערכות הבטיחות במכוניות - מה כולם מפספסים והיכן נמצא הפיתרון שיצמצם את מספר הנפגעים?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/af/b7/afb73927-4e44-4a79-bd51-8af5e6e53166/301220161010_hsp299797_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - דצמבר"
+      },
+      {
+       "name": "עולם הרכב - תכנית 25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/669558.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/ad/abadc428-3142-4636-95f3-884157b5faa1/231220160808_hsp299796_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מבט על אלפא רומיאו החדשה, סיכום שנה בשוק הדו גלגלי והשקה של פורד GT הראשונה בארה\"ב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/ad/abadc428-3142-4636-95f3-884157b5faa1/231220160808_hsp299796_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - דצמבר"
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2016 - 2016 - נובמבר",
+     "channels": [
+      {
+       "name": "עולם הרכב, תכנית 24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/667400.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/27/ad/27ad9436-3a08-429b-9d38-d5321d101f31/161220161010_hsp299795_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הג'יפון הקטן של אאודי שהושק בישראל ומרצדס חושפת את ה-E CLASS COUPE",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/27/ad/27ad9436-3a08-429b-9d38-d5321d101f31/161220161010_hsp299795_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - נובמבר"
+      },
+      {
+       "name": "עולם הרכב, תכנית 23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/667953.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/1f/c61f841d-1e05-462f-a530-2c34d44b76aa/181220161212_hsp299794_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "נהיגת בכורה על ה-\"סקודיאק\", פיתוח חדשני ומהפכני של מרצדס וסיכום שנה בשוק הרכב המקומי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/1f/c61f841d-1e05-462f-a530-2c34d44b76aa/181220161212_hsp299794_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - נובמבר"
+      },
+      {
+       "name": "עולם הרכב, תכנית 22",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/667946.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5e/8e/5e8e9f3e-4dab-4f23-b06b-ed530c80384b/181220161111_hsp299793_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "דגמי 2017 כבר כאן, ההיברידית הלוהטת של טויוטה ועל האליפות ההיסטורית של ניקו רוזברג",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5e/8e/5e8e9f3e-4dab-4f23-b06b-ed530c80384b/181220161111_hsp299793_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - נובמבר"
+      },
+      {
+       "name": "עולם הרכב, תכנית 21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/667945.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/28/b0282e61-6a2a-48e9-a230-9d0845a3d696/181220161111_hsp299792_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ניר זיגל, אחד ממעצבי הרכב הישראלים הבכירים בעולם מדבר על אחת העבודות המסקרנות בתעשייה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/28/b0282e61-6a2a-48e9-a230-9d0845a3d696/181220161111_hsp299792_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - נובמבר"
+      },
+      {
+       "name": "עולם הרכב, תכנית 20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/667930.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/23/bf/23bf8cb6-7bc0-431b-a37d-078eb889c991/161220160101_hsp299791_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הוולבו הסדרתית החזקה בעולם נחתה בישראל, המהפכה החשמלית והפעם זו תורה של יגואר, והמאווריק X3",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/23/bf/23bf8cb6-7bc0-431b-a37d-078eb889c991/161220160101_hsp299791_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - נובמבר"
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2016 - 2016 - אוקטובר",
+     "channels": [
+      {
+       "name": "עולם הרכב, תכנית 19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/667922.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/83/88/8388de7e-5eb7-4592-a78e-1a55a93da616/161220160101_hsp299790_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בועז וכפיר מגיעים לסקוטלנד",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/83/88/8388de7e-5eb7-4592-a78e-1a55a93da616/161220160101_hsp299790_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - אוקטובר"
+      },
+      {
+       "name": "100 קמ\"ש ב-4.7 שניות: וולוו מפציצה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/656645.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f1/c1/f1c1c356-55b7-4718-a27c-dfe9ec023ade/181120161111_hsp299791_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תוכנית עולם הרכב, 18.11",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f1/c1/f1c1c356-55b7-4718-a27c-dfe9ec023ade/181120161111_hsp299791_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - אוקטובר"
+      },
+      {
+       "name": "המפכה הירוקה בישראל יוצאת לדרך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/653224.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/62/bc/62bc1163-b60f-4984-971c-1886ae7a57a6/041120161010_hsp287369_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 17 - BMW הפכה לחלוצה של מהפכה המכוניות ההיברדיות הנטענות והחשמליות. על השינוי הגדול בתוכנית המלאה של עולם הרכב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/62/bc/62bc1163-b60f-4984-971c-1886ae7a57a6/041120161010_hsp287369_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - אוקטובר"
+      },
+      {
+       "name": "ב.מ.וו מסירה את הגג: תכנית 16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/648518.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3a/e6/3ae6b9dd-726f-453a-bb31-547a42ac275b/211020161503_hsp287367_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3a/e6/3ae6b9dd-726f-453a-bb31-547a42ac275b/211020161503_hsp287367_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - אוקטובר"
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2016 - 2016 - ספטמבר",
+     "channels": [
+      {
+       "name": "רנו טווינגו כאן: עולם הרכב, תכנית 15",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/646937.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ed/19/ed19bdc1-76a0-4761-bfeb-d541c1e6f9ac/141020162008_hsp287366_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 15 - של עולם הרכב, והפעם רנו טווינגו על הפרק, לאחר שחזרה שוב לישראל.",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ed/19/ed19bdc1-76a0-4761-bfeb-d541c1e6f9ac/141020162008_hsp287366_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - ספטמבר"
+      },
+      {
+       "name": "עולם הרכב, התכנית המלאה (14)",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/645618.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/07/a5/07a55753-d2b6-40eb-8b8f-021692d74246/071020161301_hsp287365_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 14 - נסיעה ראשונה על האסטון מרטין DB11",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/07/a5/07a55753-d2b6-40eb-8b8f-021692d74246/071020161301_hsp287365_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - ספטמבר"
+      },
+      {
+       "name": "עולם הרכב, 08.09.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/639173.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/64/0e/640e11da-02cf-49cc-832e-29c0d6aaaa3b/100920161907_olam_rechev_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-09-08",
+       "plot": "תכנית 11 - לראשונה על המסך, מבחר מבחני דרכים של מגזין \"עולם הרכב\"",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/64/0e/640e11da-02cf-49cc-832e-29c0d6aaaa3b/100920161907_olam_rechev_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - ספטמבר"
+      },
+      {
+       "name": "עולם הרכב, 01.09.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/637725.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/06/c6/06c6248c-a215-42de-966f-5e2cdc4f05fb/020920161301_hsp287360_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "2016-09-01",
+       "plot": "תכנית 10 - השקת פורש פלמרה החדשה, והאם ה-RX9 של מזדה תגיע לפס הייצור?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/06/c6/06c6248c-a215-42de-966f-5e2cdc4f05fb/020920161301_hsp287360_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - ספטמבר"
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2016 - 2016 - אוגוסט",
+     "channels": [
+      {
+       "name": "עולם הרכב, 25.08.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/635921.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a0/64/a0640f3f-bd89-4f07-88d6-3eb3d67db269/260820161212_hsp287359_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-08-25",
+       "plot": "תכנית 9 - מה קורה כשמעבר חציה הופכת למוקש בטיחות? שבוע החלומות בעולם הרכב בקליפורניה ופורד הולכת על כל הקופה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a0/64/a0640f3f-bd89-4f07-88d6-3eb3d67db269/260820161212_hsp287359_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - אוגוסט"
+      },
+      {
+       "name": "עולם הרכב, 04.08.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/628173.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/f2/d5f29982-ec56-4d1e-8aeb-3194590d3538/040820161907_hsp287358_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-08-04",
+       "plot": "תכנית 8 - על שיטת ה 0 קמ\"ש, עליית מחיר הביטוח של האופנועים ונהג האמבולנס המהיר בעולם",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/f2/d5f29982-ec56-4d1e-8aeb-3194590d3538/040820161907_hsp287358_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - אוגוסט"
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2016 - 2016 - יולי",
+     "channels": [
+      {
+       "name": "עולם הרכב, 28.07.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/626439.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a9/f4/a9f4dc38-b153-443d-8197-53dd7a830526/280720161806_hsp287357_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "2016-07-28",
+       "plot": "תכנית 7 - ניסן והג'וק החדש, טסלה מנמיכה ציפיות וההשקה הרשמית של היונדאי איוניק",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a9/f4/a9f4dc38-b153-443d-8197-53dd7a830526/280720161806_hsp287357_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - יולי"
+      },
+      {
+       "name": "עולם הרכב, 21.07.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/624778.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/09/60/09607f4a-bdcc-4439-8672-b67c2bc5e674/210720161806_hsp287356_,55,160,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-07-21",
+       "plot": "תכנית 6 - האם בקרוב נטעין את הרכבים שלנו, לנד רובר מציגה מערכת חדישה לנהיגת שטח וכל מה שצריך לדעת לפני רכישת רכב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/09/60/09607f4a-bdcc-4439-8672-b67c2bc5e674/210720161806_hsp287356_,55,160,35,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - יולי"
+      },
+      {
+       "name": "עולם הרכב, 14.07.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/623450.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/fd/f2/fdf242c9-19c5-4125-a976-ee1133d3292c/140720162008_hsp287355_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-07-14",
+       "plot": "תכנית 5 - התכנית המלאה של עולם הרכב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/fd/f2/fdf242c9-19c5-4125-a976-ee1133d3292c/140720162008_hsp287355_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - יולי"
+      },
+      {
+       "name": "עולם הרכב, 07.07.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/621445.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4b/48/4b48093f-9090-44c1-958f-4dd24349c34c/070720161604_hsp287353_,110,160,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-07-07",
+       "plot": "תכנית 4 - לקסוס RC נוחתת בישראל, אסטון מרטין ורד בול חושפות היפר מכונית, והשלבי קוברה הראשונה מחליפה בעלים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4b/48/4b48093f-9090-44c1-958f-4dd24349c34c/070720161604_hsp287353_,110,160,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - יולי"
+      }
+     ]
+    },
+    {
+     "name": "עולם הרכב - 2016 - 2016 - יוני",
+     "channels": [
+      {
+       "name": "עולם הרכב, 30.06.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/619703.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/01/14/0114e8bc-270b-4474-959f-0beaac276b5b/300620162109_hsp287354_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-06-30",
+       "plot": "תכנית 3 - פורשה מציגה את הפנמרה החדשה, הגיהנום הירוק של מרצדס והפורד GT מנצחת במירוץ לה מאן",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/01/14/0114e8bc-270b-4474-959f-0beaac276b5b/300620162109_hsp287354_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - יוני"
+      },
+      {
+       "name": "עולם הרכב, 23.06.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/618249.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/15/c815aba1-ff0e-4a1a-ab71-1aa202396feb/230620162109_hsp287352_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-06-23",
+       "plot": "תכנית 2 - הכרות עם מאזדה הגדולה והמפוארת, הצצה אל העתיד הלא רחוק וקדחת הג'יפונים תופסת תאוצה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/15/c815aba1-ff0e-4a1a-ab71-1aa202396feb/230620162109_hsp287352_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - יוני"
+      },
+      {
+       "name": "תכנית הבכורה של \"עולם הרכב\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/616249.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e2/bb/e2bbbb60-9247-4d37-985a-226d202350d8/160620161402_hsp287351_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 1 - התכנית שתעשה לכם סדר בעולם הרכב עם שלל החידושים ושלל האיבזורים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/e2/bb/e2bbbb60-9247-4d37-985a-226d202350d8/160620161402_hsp287351_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "עולם הרכב - 2016 - 2016 - יוני"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

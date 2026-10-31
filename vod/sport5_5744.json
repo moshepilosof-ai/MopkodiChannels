@@ -1,0 +1,1096 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - טור דה פראנס",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "5744",
+   "series_id": "5744",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/949612.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "חגג היסטוריה: ברנאל התרגש על הפודיום בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/949612.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/4gj7Wrb9UX/App/NM_VTR_HIMNUN_SY_TOUR_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/4gj7Wrb9UX/App/NM_VTR_HIMNUN_SY_TOUR_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "הקולומביאני הראשון: ברנאל הבטיח זכיה בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/949283.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ViZ7PwphO7/App/NM_VTR_TOUR_DE_FRANCE_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ViZ7PwphO7/App/NM_VTR_TOUR_DE_FRANCE_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "בחסות השלג: ברנאל לקח את החולצה הצהובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/949196.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/DHOConqtvL/App/NM_TOUR_NEW_260719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/DHOConqtvL/App/NM_TOUR_NEW_260719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.",
+       "season": ""
+      },
+      {
+       "name": "קינטאנה ניצח באלפים, ברנאל עלה למקום ה-2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/948983.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/UdMiTWT5Om/App/NM_VTR_TOUR_250719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/UdMiTWT5Om/App/NM_VTR_TOUR_250719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.",
+       "season": ""
+      },
+      {
+       "name": "טרנטין ניצח בגאפ, אין שינוי בצמרת הטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/949701.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/chvumApR5e/App/TOUR_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/chvumApR5e/App/TOUR_1_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=98",
+       "season": ""
+      },
+      {
+       "name": "יואן ניצח בקטע ה-16, אלאפיליפ עדיין בראש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/948612.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/IoF8mf8iBO/App/NM_VTR_TOAR_230719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/IoF8mf8iBO/App/NM_VTR_TOAR_230719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.",
+       "season": ""
+      },
+      {
+       "name": "אלאפיליפ איבד גובה, ייטס ניצח בפואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/948173.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/kblSBglLre/App/NM_VTR_TUR_210719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/kblSBglLre/App/NM_VTR_TUR_210719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.c",
+       "season": ""
+      },
+      {
+       "name": "פינו ניצח בטורמאלה, אלאפיליפ ממשיך להוליך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/947890.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/zyRs0aX5gU/App/NM_VTR_SNTV_tour_keta_14_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/zyRs0aX5gU/App/NM_VTR_SNTV_tour_keta_14_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "צפו: אלאפיליפ הדהים וניצח בנג\"ש בפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/949700.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/j6K1aFrmj8/App/tour_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/j6K1aFrmj8/App/tour_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9854",
+       "season": ""
+      },
+      {
+       "name": "סיימון ייטס ניצח, אלאפיליפ עדיין מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/949465.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/6fw9m35OjT/App/NM_VTR_TOUR_180719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/6fw9m35OjT/App/NM_VTR_TOUR_180719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.",
+       "season": ""
+      },
+      {
+       "name": "יואן ניצח בפוטו פיניש דרמטי בטולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/947236.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/2jxkXUmzFo/App/NM_VTR_TAK_TOUR_170719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/2jxkXUmzFo/App/NM_VTR_TAK_TOUR_170719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spo",
+       "season": ""
+      },
+      {
+       "name": "אימפי ניצח בקטע ה-9, אלאפיליפ עדיין מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/946611.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/CfuWhwUsoj/App/NM_VTR_TOUR_140719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/CfuWhwUsoj/App/NM_VTR_TOUR_140719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spo",
+       "season": ""
+      },
+      {
+       "name": "אימפי ניצח בבריאוד, אלאפיליפ עדיין מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/946897.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/CfuWhwUsoj/App/NM_VTR_TOUR_140719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/CfuWhwUsoj/App/NM_VTR_TOUR_140719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spo",
+       "season": ""
+      },
+      {
+       "name": "דה חנט ניצח בסנט אטיין, אלאפיליפ שוב בצהוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/946896.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/QDv3c7mlwE/App/NM_TOUR_DE_NEW_130719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/QDv3c7mlwE/App/NM_TOUR_DE_NEW_130719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spor",
+       "season": ""
+      },
+      {
+       "name": "הגיע הזמן. צפו: חרוננוואגן ניצח בקטע ה-7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/946895.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KpkPeXx9e4/App/NM_VTR_TOUR_DE_FRANCE_120719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KpkPeXx9e4/App/NM_VTR_TOUR_DE_FRANCE_120719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "טיונס ניצח בקטע השישי של הטור, צ'יקונה מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/945946.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/k3J3Tird7i/App/NM_TAK_TOUR_DE_FRANCE_110719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/k3J3Tird7i/App/NM_TAK_TOUR_DE_FRANCE_110719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "שובו של פטר הגדול: סגאן ניצח בקולמאר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/946894.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ezYGW7RujS/App/NM_VTR_TOUR_100719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ezYGW7RujS/App/NM_VTR_TOUR_100719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.",
+       "season": ""
+      },
+      {
+       "name": "ויויאני ניצח בנאנסי. אלאפיליפ לובש צהוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/945517.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/5YYzHR3B6P/App/NM_VTR_TOUR_090719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/5YYzHR3B6P/App/NM_VTR_TOUR_090719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spo",
+       "season": ""
+      },
+      {
+       "name": "אלאפיליפ ניצח הקטע ה-3 וילבש את החולצה הצהובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/945518.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/XnUQsvizba/App/NM_VTR_TOUR_THE_FRANCE_080719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/XnUQsvizba/App/NM_VTR_TOUR_THE_FRANCE_080719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://",
+       "season": ""
+      },
+      {
+       "name": "יומבו ויסמה ניצחה בקטע ה-2, טוניסן מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/944938.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KN5BpHTguR/App/NM_VTR_TOUR_DE_FRANCE_070719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KN5BpHTguR/App/NM_VTR_TOUR_DE_FRANCE_070719_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "טור דה פראנס - 2019",
+     "channels": [
+      {
+       "name": "חגג היסטוריה: ברנאל התרגש על הפודיום בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/949612.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/4gj7Wrb9UX/App/NM_VTR_HIMNUN_SY_TOUR_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/4gj7Wrb9UX/App/NM_VTR_HIMNUN_SY_TOUR_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "הקולומביאני הראשון: ברנאל הבטיח זכיה בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/949283.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ViZ7PwphO7/App/NM_VTR_TOUR_DE_FRANCE_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ViZ7PwphO7/App/NM_VTR_TOUR_DE_FRANCE_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "בחסות השלג: ברנאל לקח את החולצה הצהובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/949196.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/DHOConqtvL/App/NM_TOUR_NEW_260719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/DHOConqtvL/App/NM_TOUR_NEW_260719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "קינטאנה ניצח באלפים, ברנאל עלה למקום ה-2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/948983.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/UdMiTWT5Om/App/NM_VTR_TOUR_250719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/UdMiTWT5Om/App/NM_VTR_TOUR_250719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "טרנטין ניצח בגאפ, אין שינוי בצמרת הטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/949701.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/chvumApR5e/App/TOUR_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/chvumApR5e/App/TOUR_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "יואן ניצח בקטע ה-16, אלאפיליפ עדיין בראש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/948612.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/IoF8mf8iBO/App/NM_VTR_TOAR_230719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/IoF8mf8iBO/App/NM_VTR_TOAR_230719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "אלאפיליפ איבד גובה, ייטס ניצח בפואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/948173.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/kblSBglLre/App/NM_VTR_TUR_210719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/kblSBglLre/App/NM_VTR_TUR_210719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "פינו ניצח בטורמאלה, אלאפיליפ ממשיך להוליך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/947890.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/zyRs0aX5gU/App/NM_VTR_SNTV_tour_keta_14_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/zyRs0aX5gU/App/NM_VTR_SNTV_tour_keta_14_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "צפו: אלאפיליפ הדהים וניצח בנג\"ש בפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/949700.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/j6K1aFrmj8/App/tour_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/j6K1aFrmj8/App/tour_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "סיימון ייטס ניצח, אלאפיליפ עדיין מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/949465.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/6fw9m35OjT/App/NM_VTR_TOUR_180719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/6fw9m35OjT/App/NM_VTR_TOUR_180719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "יואן ניצח בפוטו פיניש דרמטי בטולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/947236.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/2jxkXUmzFo/App/NM_VTR_TAK_TOUR_170719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/2jxkXUmzFo/App/NM_VTR_TAK_TOUR_170719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "אימפי ניצח בקטע ה-9, אלאפיליפ עדיין מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/946611.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/CfuWhwUsoj/App/NM_VTR_TOUR_140719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/CfuWhwUsoj/App/NM_VTR_TOUR_140719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "אימפי ניצח בבריאוד, אלאפיליפ עדיין מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/946897.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/CfuWhwUsoj/App/NM_VTR_TOUR_140719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/CfuWhwUsoj/App/NM_VTR_TOUR_140719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "דה חנט ניצח בסנט אטיין, אלאפיליפ שוב בצהוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/946896.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/QDv3c7mlwE/App/NM_TOUR_DE_NEW_130719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/QDv3c7mlwE/App/NM_TOUR_DE_NEW_130719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "הגיע הזמן. צפו: חרוננוואגן ניצח בקטע ה-7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/946895.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KpkPeXx9e4/App/NM_VTR_TOUR_DE_FRANCE_120719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KpkPeXx9e4/App/NM_VTR_TOUR_DE_FRANCE_120719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "טיונס ניצח בקטע השישי של הטור, צ'יקונה מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/945946.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/k3J3Tird7i/App/NM_TAK_TOUR_DE_FRANCE_110719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/k3J3Tird7i/App/NM_TAK_TOUR_DE_FRANCE_110719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "שובו של פטר הגדול: סגאן ניצח בקולמאר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/946894.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ezYGW7RujS/App/NM_VTR_TOUR_100719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ezYGW7RujS/App/NM_VTR_TOUR_100719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "ויויאני ניצח בנאנסי. אלאפיליפ לובש צהוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/945517.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/5YYzHR3B6P/App/NM_VTR_TOUR_090719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/5YYzHR3B6P/App/NM_VTR_TOUR_090719_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "אלאפיליפ ניצח הקטע ה-3 וילבש את החולצה הצהובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/945518.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/XnUQsvizba/App/NM_VTR_TOUR_THE_FRANCE_080719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/XnUQsvizba/App/NM_VTR_TOUR_THE_FRANCE_080719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      },
+      {
+       "name": "יומבו ויסמה ניצחה בקטע ה-2, טוניסן מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/944938.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KN5BpHTguR/App/NM_VTR_TOUR_DE_FRANCE_070719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KN5BpHTguR/App/NM_VTR_TOUR_DE_FRANCE_070719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2019"
+      }
+     ]
+    },
+    {
+     "name": "טור דה פראנס - 2018",
+     "channels": [
+      {
+       "name": "דמאר ניצח בפוטו פיניש, תומאס שמר על ההובלה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/852502.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8a/d8/8ad8817e-a5a3-465d-ad15-83abbf0d2453/260720181907_nm_vtr_tak_tour_260718_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקטע ה-18: הצרפתי גבר על לאפורט וקרישטוף בספרינט, הבריטי ממשיך להחזיק בחולצה הצהובה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8a/d8/8ad8817e-a5a3-465d-ad15-83abbf0d2453/260720181907_nm_vtr_tak_tour_260718_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2018"
+      },
+      {
+       "name": "אלאפיליפ ניצל נפילה של ייטס וניצח בקטע ה-16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/852145.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4a/ae/4aaed408-483e-4d41-99a7-346189c2934a/240720181907_n_vo_tour_240718_,80,110,160,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצרפתי ניצל התרסקות של ייטס כדי לחצות ראשון את קו הסיום. תומאס עדיין מוביל בדירוג הכללי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4a/ae/4aaed408-483e-4d41-99a7-346189c2934a/240720181907_n_vo_tour_240718_,80,110,160,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2018"
+      },
+      {
+       "name": "נילסן ניצח בפוטו פיניש, סטטוס קוו בצמרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/850733.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0a/74/0a74b3d4-a7f4-4006-8372-482b3604fa8a/220720182311_nm_vtr_tak_tour_220718_,110,80,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הדני האיץ ב-300 המטרים האחרונים בקראסקון וחצה את קו הסיום ראשון",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0a/74/0a74b3d4-a7f4-4006-8372-482b3604fa8a/220720182311_nm_vtr_tak_tour_220718_,110,80,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2018"
+      },
+      {
+       "name": "עוד חגיגה צרפתית: אלאפיליפ ניצח באלפים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/849928.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fc/c2/fcc2d961-d6db-40e7-8833-b705599d5d99/170720182109_nm_tak_tour_170718_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "את הקטע ה-10 בטור חצה ראשון הצרפתי ז'וליאן אלאפיליפ. ואן אברמט עדיין לובש את החולצה הצהובה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fc/c2/fcc2d961-d6db-40e7-8833-b705599d5d99/170720182109_nm_tak_tour_170718_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2018"
+      },
+      {
+       "name": "טור: חרוננוואגן ניצח גם באמיין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/849082.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fe/3b/fe3b8334-f1e5-4885-b583-e88c262281fa/140720181705_nm_vtr_tak_tour_de_france_140718_,160,55,35,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ההולנדי רשם ניצחון שני בטור השנה, ואן אברמט מוביל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fe/3b/fe3b8334-f1e5-4885-b583-e88c262281fa/140720181705_nm_vtr_tak_tour_de_france_140718_,160,55,35,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2018"
+      },
+      {
+       "name": "מרטין זכה בקטע ה-6, ואן אברמאט עדיין מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/848770.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ed/53/ed53db72-02f2-49ec-b77d-07991398cbe0/120720181907_nm_vo_tour_120718_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האירי כיכב במור דה ברטאן, דמולאן ובארדה איבדו זמן יקר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ed/53/ed53db72-02f2-49ec-b77d-07991398cbe0/120720181907_nm_vo_tour_120718_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2018"
+      },
+      {
+       "name": "יום של נפילות: סגאן ניצח בקטע השני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/847941.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/08/81/0881d9f8-4977-4a82-b21c-e9f95e355f99/080720182008_nm_vtr_tak_tour_080718_,160,110,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אלוף העולם המכהן ניצן התרסקות של גאביריה וחצה ראשון את קו הסיום",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/08/81/0881d9f8-4977-4a82-b21c-e9f95e355f99/080720182008_nm_vtr_tak_tour_080718_,160,110,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2018"
+      },
+      {
+       "name": "פתיחה צולעת לפרום, גאביריה זכה בקטע ה-1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/847651.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/53/4e/534e1c81-7a48-4bc8-9892-536989b786f0/070720181705_nm_vtr_tour_de_france_070718_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מירוץ האופניים היוקרתי של הטור דה פראנס יצא לדרך עם דרמה ענקית",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/53/4e/534e1c81-7a48-4bc8-9892-536989b786f0/070720181705_nm_vtr_tour_de_france_070718_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2018"
+      }
+     ]
+    },
+    {
+     "name": "טור דה פראנס - 2017",
+     "channels": [
+      {
+       "name": "בפעם ה-4: פרום זכה בטור דה פראנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/722850.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/ef/eaef16da-65df-43dd-ad7b-d61cd89ebbab/230720172210_nm_tour_tak_270717_,55,160,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הרוכב הבריטי חגג זכיה שלישית ברציפות: \"המירוץ הכי קשה וצמוד שהיה לי\"",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/ef/eaef16da-65df-43dd-ad7b-d61cd89ebbab/230720172210_nm_tour_tak_270717_,55,160,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "פרום וקבוצת 'סקיי' פתחו את השמפניות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/722820.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3c/75/3c75c521-6fdf-4451-99e4-eff1733fedfd/,TOUR_CELEB_208k,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי זכיה שלישית ברציפות ו-4 בקריירה בטור דה פראנס, הרוכבים נהנו מהרגעים האחרונים בקטע האחרון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3c/75/3c75c521-6fdf-4451-99e4-eff1733fedfd/,TOUR_CELEB_208k,.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "כריס פרום הבטיח את הזכייה בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/722589.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ad/02/ad0288bd-fc07-47db-a711-7abb4194a6f0/220720171907_nm_vtr_tak_tuor _220717_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הרוכב הגדול ביותר בדורנו הבטיח את זכייתו ה-4 בטור דה פראנס כשסיים במקום השלישי בקטע נגד השעון במארסיי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ad/02/ad0288bd-fc07-47db-a711-7abb4194a6f0/220720171907_nm_vtr_tak_tuor _220717_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "פרום בדרך לזכיה, בארגיל ניצח באלפים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/722284.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/58/d4/58d495c0-4dd2-4c34-8297-e78fb980f0ec/200720172008_nm_vtr_tour_200717_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "המקצה ה-18: הבריטי עשה צעד גדול בדרך לזכיה בטור, הצרפתי היה הראשון לסיים את המקצה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/58/d4/58d495c0-4dd2-4c34-8297-e78fb980f0ec/200720172008_nm_vtr_tour_200717_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "קיטל פרש, פרום שמר על הצהובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/722015.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/60/32/6032b9a8-95fa-411a-8edc-f8e97e59d0db/190720172008_nm_vtr_tour_190717_,35,110,80,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "קטע 17: הספרינטר נקלע לתאונה ונאלץ לפרוש, פרימוז' רוגליץ' סיים ראשון בפעם הראשונה בקריירה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/60/32/6032b9a8-95fa-411a-8edc-f8e97e59d0db/190720172008_nm_vtr_tour_190717_,35,110,80,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "פוטו פיניש: ניצחון שני למתיוז בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/721841.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/14/7c/147c6a4c-3916-4c87-a935-ed5ae613d263/180720172008_nm_vtr_tak_tour_180717_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "קיטל איכזב ומרטין יצא מהטופ 5, רגע לפני הקטע ה-1 באלפים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/14/7c/147c6a4c-3916-4c87-a935-ed5ae613d263/180720172008_nm_vtr_tak_tour_180717_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "מולמה זכה בקטע ה-15, פרום עדיין מוליך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/721496.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/9d/0a/9d0aaae2-e4bc-4136-8ca1-79487ad89184/160720171907_nm_vtr_tour_160717_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "היום ה-15: ההולנדי זכה לראשונה בחייו במקצה של הטור, החולצה הצהובה עדיין של פרום למרות תקלה טכנית שעיכבה אותו",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/9d/0a/9d0aaae2-e4bc-4136-8ca1-79487ad89184/160720171907_nm_vtr_tour_160717_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "לא מוותר: פרום שוב מוביל בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/721287.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/79/09/79093441-30e5-4802-a46f-9a1b0a4cc673/150720171907_nm_vtr_tak_tour_150717_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבריטי לקח בחזרה את החולצה הצהובה אחרי סיום דרמטי. מאתיוס זכה במקצה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/79/09/79093441-30e5-4802-a46f-9a1b0a4cc673/150720171907_nm_vtr_tak_tour_150717_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "בארגיל חגג ניצחון צרפתי בבאסטיליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/721183.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/72/84/72846b7a-17bb-4233-828b-cd39172db2ac/140720171907_nm_vtr_tak_tour_de_france_140717_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רוכב האופניים וורן בארגיל מסאנווב ניצח את הקטע ה-13 בטור דה פראנס 2017, ורשם ניצחון צרפתי ביום הבאסטיליה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/72/84/72846b7a-17bb-4233-828b-cd39172db2ac/140720171907_nm_vtr_tak_tour_de_france_140717_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "מהפך: החולצה הצהובה עברה לארו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/720913.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d0/8f/d08f162b-e9b3-4cbb-96cc-54ae33f8427f/130720172008_nm_tak_tour_130717_,110,55,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בארדה זכה במירוץ, אך הסיפור המרכזי היה הרוכב האיטלקי שעקף את פרום ונטל את ההובלה בקטע ה-12 של הטור",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d0/8f/d08f162b-e9b3-4cbb-96cc-54ae33f8427f/130720172008_nm_tak_tour_130717_,110,55,160,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "מעל כולם: קיטל ניצח בפעם ה-5 בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/720636.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/55/4e/554e7e9e-67d8-4279-a786-57e31dc96413/120720171907_nm_vtr_tuor_120717_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הספרינטר הטוב בעולם ניצח גם בפאו, פרום שמר על החולצה הצהובה עם פער של 18 שניות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/55/4e/554e7e9e-67d8-4279-a786-57e31dc96413/120720171907_nm_vtr_tuor_120717_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "מלך הספרינט: ניצחון רביעי לקיטל בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/720384.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/53/9a/539a2a73-48eb-4bb4-af62-46b06a5d5b0f/110720172008_nm_tak_tour_110717_,110,55,80,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הרוכב הגרמני שוה הראה עליונות כשחצה ראשון את קו הסיום של הקטע העשירי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/53/9a/539a2a73-48eb-4bb4-af62-46b06a5d5b0f/110720172008_nm_tak_tour_110717_,110,55,80,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "פוטו פיניש דרמטי על קו הסיום בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/720006.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d3/2c/d32c99bd-98a5-47a6-a639-13ea904060ec/090720171907_nm_tour_090617_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לאחר מאבק קשה, ריגוברטו אוראן ניצח את הקטע ה-9 והקשה בטור דה פראנס, פרום שמר על החולצה הצהובה. פציעה קשה לפורטי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d3/2c/d32c99bd-98a5-47a6-a639-13ea904060ec/090720171907_nm_tour_090617_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "לא נעים: תאונה קשה בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/719994.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f2/59/f259e2f1-49cc-432c-9a42-ffdaa50e9d53/090720171705_teuna_tour_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הרוכב ריצ'י פורטי מעד מהאופניים והתרסק על הרצפה, פונה לבית חולים ולא הצליח להמשיך את הקטע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f2/59/f259e2f1-49cc-432c-9a42-ffdaa50e9d53/090720171705_teuna_tour_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "קלמז'אן ניצח בקטע ה-8 בטור דה פראנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/718872.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/0a/ca0a5d62-c908-4417-8cb4-08772bbe0482/080720171806_nm_vtr_tour_de_france_080717_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצרפתי סבל מהתכווציות שרירים אך הצליח בסוף לזכות בקטע. פרום שמר על החולצה הצהובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/0a/ca0a5d62-c908-4417-8cb4-08772bbe0482/080720171806_nm_vtr_tour_de_france_080717_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "בפוטו פיניש מטורף: עוד ניצחון לקיטל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/718788.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/01/c601d0ad-53ba-4c29-a657-06ab02997a16/070720171806_nm_vtr_tak_tour_070717_,160,35,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בפוטו פיניש: מרסל קיטל השיג ניצחון שלישי בטור הנוכחי אחרי שסיים ראשון בקטע השביעי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/01/c601d0ad-53ba-4c29-a657-06ab02997a16/070720171806_nm_vtr_tak_tour_070717_,160,35,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "קיטל ניצח בקטע ה-6, פרום עדיין מוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/718668.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f3/a4/f3a45a36-c2f5-467d-bb7f-fc9f91a26241/060720172311_nm_vtr_tak_tuor_060717_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הגרמני השיג ניצחון שני בטור השנה. הפנומן של סקיי נותר עם החולצה הצהובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f3/a4/f3a45a36-c2f5-467d-bb7f-fc9f91a26241/060720172311_nm_vtr_tak_tuor_060717_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "פרום נטל לראשונה את ההובלה בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/718398.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/87/fc/87fc5f04-601c-4f01-aec9-6fa1168ed65d/050720171907_nm_vtr_tak_tour_050717_,110,35,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "היום ה-5: הבריטי קיבל לראשונה בטור את החולצה הצהובה ע\"ח תומאס, ארו ניצח לאחר שפתח מבערים בפוטו פיניש",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/87/fc/87fc5f04-601c-4f01-aec9-6fa1168ed65d/050720171907_nm_vtr_tak_tour_050717_,110,35,160,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "דמארה זכה בקטע ה-4, סאגאן הודח",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/718228.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1c/a6/1ca685d4-0d9c-4536-a259-8a5e8a6397ce/040720171907_nm_tak_tour_040717_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "היום ה-4 בטור: תומאס ממשיך להוביל, סאגאן הורחק לאחר התנגשות מכוערת בקאבנדיש וכריס פרום שומר על מרחק סביר מהפסגה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1c/a6/1ca685d4-0d9c-4536-a259-8a5e8a6397ce/040720171907_nm_tak_tour_040717_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      },
+      {
+       "name": "הדרמה החלה: היום ה-3 בטור מאחורינו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/718023.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/33/2e/332ee661-0ceb-40b8-a06b-c051f183b90f/030720172008_hsp339082_,80,160,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פטר סאגאן חצה את קו הסיום אחרי 5 שעות, 7 דקות ו-20 שניות וניצח את הקטע השלישי בטור דה פראנס",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/33/2e/332ee661-0ceb-40b8-a06b-c051f183b90f/030720172008_hsp339082_,80,160,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2017"
+      }
+     ]
+    },
+    {
+     "name": "טור דה פראנס - 2016",
+     "channels": [
+      {
+       "name": "מלך צרפת: כריס פרום זכה שוב בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/625464.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/36/cf/36cfb8bc-d69b-4b00-853f-aa34561e4cfc/240720162109_tour_240716_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבריטי השלים זכייה שלישית בתואר היוקרתי וחגג בפאריס בפעם השלישית",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/36/cf/36cfb8bc-d69b-4b00-853f-aa34561e4cfc/240720162109_tour_240716_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "ממשיך בשלו: פרום הגדיל את הפער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/624568.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/30/b7/30b721c2-a03f-40d2-9537-2c45dee56ee7/200720161907_tak_tour_200716_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבריטי העלה את הפער ממולמה ל-2.27 נקודות, זיקרין הרוסי סיים ראשון את הקטע ה-17",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/30/b7/30b721c2-a03f-40d2-9537-2c45dee56ee7/200720161907_tak_tour_200716_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "סגאן ניצח בפוטו פיניש, פרום עדיין מוליך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/624132.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/46/03/4603eaa0-0e00-4d72-adc8-c5e2540a274f/180720161907_tour de france_180716_,80,160,55,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הסלובקי הצליח להקדים את כריסטוף במילימטרים. הבריטי רק 14, אך שמר על סטטוס קוו בפסגת הדירוג הכללי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/46/03/4603eaa0-0e00-4d72-adc8-c5e2540a274f/180720161907_tour de france_180716_,80,160,55,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "עוד יום בעבודה: פרום שמר על הפער בפסגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/624079.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/34/0a/340aa65a-7c25-4265-ae47-5381ea095bcf/170720162008_tour_170716_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פנטאנו ניצח את המקטע ה-15. הבריטי שמר על פער של דקה ו-47 שניות<BR>",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/34/0a/340aa65a-7c25-4265-ae47-5381ea095bcf/170720162008_tour_170716_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "קבנדיש ניצח בקטע ה-14 אחרי סיום אדיר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/623736.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/98/c2/98c2c43d-f1a3-4f59-b032-1a29ee9a4056/160720161907_tour_160716_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פרום שמר על הפער בפסגת דירוג הטור. דקת דומיה התקיימה בפתיחה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/98/c2/98c2c43d-f1a3-4f59-b032-1a29ee9a4056/160720161907_tour_160716_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "פרום הגדיל הפער בצמר, קינטאנה רביעי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/623735.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ad/f6/adf643e3-d864-47da-b72d-86950478628d/150720161907_tour_de_france_150716_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבריטי סיים במקום ה-2 בקטע ה-13 וברח. טום דומולין ההולנדי ניצח",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ad/f6/adf643e3-d864-47da-b72d-86950478628d/150720161907_tour_de_france_150716_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "הזוי: פרום איבד את האופניים ונאלץ לרוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/623377.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/71/5f/715fe378-b17e-4a44-87c2-0505341c8ce0/140720161806_frum_walking_tour_140716_,80,160,55,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי תאונה, אלוף הטור דה פראנס המכהן פנה לדרכים לא שגרתיות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/71/5f/715fe378-b17e-4a44-87c2-0505341c8ce0/140720161806_frum_walking_tour_140716_,80,160,55,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "צפו בפטר סגאן מנצח בקטע ה-11 של הטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/623009.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5a/e5/5ae5d71b-bb63-4774-a273-2a8e6ada71d3/130720161907_tour_1307_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "<H2 class=article-sub-main style=\"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT: 16px/18px Arial; PADDING-LEFT: 0px; WIDOWS: 1; MARGIN: 0px 0px 12px; LETTER-SPACING: normal; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px\">פרום סיים שני והגדיל את הפער בפסגת הדירוג הכללי ל-28 שניות מאדם ייטס</H2>",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5a/e5/5ae5d71b-bb63-4774-a273-2a8e6ada71d3/130720161907_tour_1307_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "מייקל מתיוס ניצח בקטע ה-10 בטור דה פראנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/622719.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/7d/bc/7dbcb0dd-3e34-485f-86da-03a2c28fff55/120720162008_tak_tour_120716_,55,110,35,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האוסטרלי גבר על סגאן ורשם ניצחון בכורה בטור. פרום שמר על ההובלה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/7d/bc/7dbcb0dd-3e34-485f-86da-03a2c28fff55/120720162008_tak_tour_120716_,55,110,35,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "קונטאדור פרש, דומולין ניצח בקטע ה-9",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/622129.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/59/52/59522bf2-43db-438e-8634-6d750140d26c/100720162008_tour_100716_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הספרדי התנגש במכונית קבוצתו ונפצע. פרום סיים 11 ושמר על החולצה הצהובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/59/52/59522bf2-43db-438e-8634-6d750140d26c/100720162008_tour_100716_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "פרום ניצח בקטע, לקח את ההובלה - וחבט באוהד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/622951.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f7/b2/f7b243b4-fe08-44f0-95d6-bc13193d44b4/090720161806_tour_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "טור: הבריטי סיפק תצוגת תכלית וברח לפייבוריטים לזכיה. קונטאדור התפרק",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f7/b2/f7b243b4-fe08-44f0-95d6-bc13193d44b4/090720161806_tour_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "צפו: הקשת המתנפחת קרסה. קאמינגס ניצח",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/622950.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/10/8b/108b1cb8-e7a6-4994-8af6-1ea5ba239fee/080720161806_tour_de_france_080716_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רגע ביזארי בקטע השביעי בטור. ואן אוורמאט הגדיל את יתרונו ליותר מ-6 דקות וחצי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/10/8b/108b1cb8-e7a6-4994-8af6-1ea5ba239fee/080720161806_tour_de_france_080716_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "הכי מהיר בטור: ניצחון שלישי למארק קבנדיש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/622949.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/15/70/157015ea-2d9b-4186-8e1c-34c7633d37f4/070720162008_tour_070716_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לפני הפירנאים: הבריטי זכה בקטע ה-6, בדרך ל-29 ניצחונות בקריירה. ואן אוורמאט שמר על החולצה הצהובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/15/70/157015ea-2d9b-4186-8e1c-34c7633d37f4/070720162008_tour_070716_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "ואן אוורמאט זכה בקטע ה-5 ובחולצה הצהובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/622948.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/bd/ffbd65a7-0995-4e05-bd9c-67a5a4e74018/060720162109_tur_de_france_060716_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "טור דה פראנס: הבלגי ברח בקטע הררי. ניבאלי וקונטאדור איבדו גובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/bd/ffbd65a7-0995-4e05-bd9c-67a5a4e74018/060720162109_tur_de_france_060716_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "פיניש משוגע: קיטל ניצח את הקטע ה-4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/620847.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/85/82/85826fac-4611-42b9-b471-0b4a91d7fe39/050720161907_tak_tour_050716_,110,35,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "צפו: הגרמני הקדים את קוקאר במילימטרים. פטר סגאן שמר על ההובלה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/85/82/85826fac-4611-42b9-b471-0b4a91d7fe39/050720161907_tak_tour_050716_,110,35,55,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "קאבנדיש ניצח בפוטו פינש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/620750.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/6b/3d/6b3dfbdb-9742-45fd-ba5c-a48bb39c07bf/040720162008_n_vo_tour_040716_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבריטי גבר על גרייפל בקו הסיום באנז'ה, ועלה למקום ה-2 בכל הזמנים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/6b/3d/6b3dfbdb-9742-45fd-ba5c-a48bb39c07bf/040720162008_n_vo_tour_040716_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "סאגן ניצח, קונטאדור איבד 48 שניות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/620694.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/1c/b21c8252-3c54-4ca5-8cb6-e0e5135a6906/040720160012_tak_tour_030716_,110,35,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הסלובקי זכה בקטע ה-2 ועלה לראשות הדירוג בטור דה פראנס",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/1c/b21c8252-3c54-4ca5-8cb6-e0e5135a6906/040720160012_tak_tour_030716_,110,35,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      },
+      {
+       "name": "קונטאדור התרסק בקטע ה-1 של הטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/620097.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/7f/b3/7fb33c3a-2efa-432a-bc9d-dd7989d92a34/020720161806_tour_de_bla_020716_,55,110,80,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הספרדי נפל אך חזר לפלוטון, קאבנדיש זכה בקטע ה-27 בקריירה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/7f/b3/7fb33c3a-2efa-432a-bc9d-dd7989d92a34/020720161806_tour_de_bla_020716_,55,110,80,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2016"
+      }
+     ]
+    },
+    {
+     "name": "טור דה פראנס - 2015",
+     "channels": [
+      {
+       "name": "הטור ננעל עם חגיגה גדולה בשאנז אליזה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/536028.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/0e/45/0e450449-0567-438c-9361-6f86102f3623/2607152134_tour_260715_,55,110,80,140,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "כריס פרום הוכתר לאלוף בפעם השניה ואי אפשר בלי ספרינט המסורתי לקו הסיום",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/0e/45/0e450449-0567-438c-9361-6f86102f3623/2607152134_tour_260715_,55,110,80,140,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "כבש את הפסגה: פרום שוב זכה בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/535787.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b4/d2/b4d2d201-dcae-448d-af55-8d5fa7526342/2507151822_tourdefrance_,55,80,35,110,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבריטי לקח את התואר בפעם השניה, אחרי שכבר עשה זאת ב-2013",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b4/d2/b4d2d201-dcae-448d-af55-8d5fa7526342/2507151822_tourdefrance_,55,80,35,110,140,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "לקראת הסוף: ניבאלי ניצח, קינטנה צמצם הפער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/535806.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/37/b2/37b2a670-179f-42a6-a1b2-b75029c9eed9/2407151928_tour_240715_,110,35,80,140,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מנצח הטור שנה שעברה סיים ראשון בקטע ה-19 ועלה למקום ה-4. הפער מהבריטי בפסגה צומק",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/37/b2/37b2a670-179f-42a6-a1b2-b75029c9eed9/2407151928_tour_240715_,110,35,80,140,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "ניצחון בכורה לבארדה, פרום שרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/535498.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/94/bb/94bb8669-6b80-4960-adbb-f7b6e7bcbc12/2307152004_tour_230715_,35,55,140,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מקטע 18: הטור לקראת סיום והבריטי עשה עוד צעד לקראת זכייה עם עוד יום מפרך באלפים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/94/bb/94bb8669-6b80-4960-adbb-f7b6e7bcbc12/2307152004_tour_230715_,35,55,140,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "גשקה ניצח ולא יכל לעצור את הדמעות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/535284.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d6/40/d6406701-6269-47ad-991c-0753babd1159/2207152215_gescke_220715_,140,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי יום מנוחה חזרו הרוכבים לפעולה עם מנצח מפתיע, הגרמני סימון גשקה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d6/40/d6406701-6269-47ad-991c-0753babd1159/2207152215_gescke_220715_,140,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "קטע 15: ניצחון 3 בטור לגרייפל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/534705.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/92/95/9295a1c9-e5b2-4e15-a597-d6e818f60ce5/1907152019_tour_defrance_190715_,80,35,110,55,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הספרינטר הגרמני חזר לבמה. פרום עדיין ראשון בדירוג המצטבר",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/92/95/9295a1c9-e5b2-4e15-a597-d6e818f60ce5/1907152019_tour_defrance_190715_,80,35,110,55,140,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "מגעיל: צופה השליך כוס עם שתן על פרום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/534503.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/36/ff36e160-57a1-4e06-ae53-e79c74f45acf/1807151934_le_tournew_,80,140,55,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "<H2 class=article-sub-main style=\"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT: 16px/18px Arial; PADDING-LEFT: 0px; WIDOWS: 1; MARGIN: 0px 0px 12px; LETTER-SPACING: normal; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px\">למרות התקרית, הבריטי הגדיל את הפער בדירוג. קאמינגס לקח את הקטע</H2>",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/36/ff36e160-57a1-4e06-ae53-e79c74f45acf/1807151934_le_tournew_,80,140,55,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "ואן אברמאט ניצח בקטע ה-13, סאגאן שוב שני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/534502.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/87/56/875667c7-bc6c-403d-93cf-b591e47ad16a/1807152100_tour_170715_,80,140,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "<H2 class=article-sub-main style=\"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT: 16px/18px Arial; PADDING-LEFT: 0px; WIDOWS: 1; MARGIN: 0px 0px 12px; LETTER-SPACING: normal; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px\">סגנות רביעית לסלובקי השנה בתום סיום דרמטי. כריס פרום עדיין עם החולצה הצהובה</H2>",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/87/56/875667c7-bc6c-403d-93cf-b591e47ad16a/1807152100_tour_170715_,80,140,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "ניצחון שני לרודריגס, פרום עדיין בראש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/534190.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f5/34/f534ef95-def4-432c-8345-17bb56e55cbd/1607152001_tour_160715_,55,35,80,110,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבריטי שרד יום מלא אתגרים במקטע ה-12, הספרדי נתן רכיבה לפנתאון 7 דקות לפני הדבוקה של כריס פרום",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f5/34/f534ef95-def4-432c-8345-17bb56e55cbd/1607152001_tour_160715_,55,35,80,110,140,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "גם הפרות לקחו חלק בטור דה פראנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/533946.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/cf/80/cf803a92-3e49-4396-9dc9-cbc73d57a8c0/1507151951_tour_de_france_150715_,55,80,35,140,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "וורן ברגיל, שנמצא בין המובילים, הצליח להימנע מתאונה. מייקה ניצח בקטע ה-11",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/cf/80/cf803a92-3e49-4396-9dc9-cbc73d57a8c0/1507151951_tour_de_france_150715_,55,80,35,140,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "פרום פתח מבערים וניצח בפער גדול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/533793.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3f/e7/3fe77c5f-c8d9-4c1c-8610-85b6f3a1635c/1407152115_tak_tour_,140,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מנצח הטור של 2013 הציג תצוגת רכיבה מרשימה, סיים במקום הראשון ופתח פער של כמעט 3 דקות מהמקום השני",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3f/e7/3fe77c5f-c8d9-4c1c-8610-85b6f3a1635c/1407152115_tak_tour_,140,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "קבוצת BMC ניצחה בקטע 9 נגד השעון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/533458.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a0/a6/a0a614a0-9a22-41ff-bbb1-c92c927b5360/1207152053_tour_120715_,35,80,140,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "השחורים-אדומים הקדימו את כולם, פרום נשאר עם החולצה הצהובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a0/a6/a0a614a0-9a22-41ff-bbb1-c92c927b5360/1207152053_tour_120715_,35,80,140,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "השאיר לפרום אבק: ניצחון צרפתי בטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/533201.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/6f/61/6f61d877-cd9b-4adf-8c73-ef9b51e2e45f/1107151851_tour_de_france8_,35,110,55,80,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אלסיס וילרמוז שימח אומה שלמה עם טיפוס מרשים אל קו הסיום בקטע השמיני",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/6f/61/6f61d877-cd9b-4adf-8c73-ef9b51e2e45f/1107151851_tour_de_france8_,35,110,55,80,140,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "קאבנדיש ניצח ושבר בצורת של שנתיים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/533203.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/0c/27/0c27e4d7-2f2c-4210-bdac-696d39bfeea5/1007152049_tour_de_france_7_,80,35,110,55,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "למרות הניצחון המפתיע סיפור היום היה לוקה פאוליני שנזרק מהתחרות בעקבות תוצאה חיובי בבדיקת קוקאין",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/0c/27/0c27e4d7-2f2c-4210-bdac-696d39bfeea5/1007152049_tour_de_france_7_,80,35,110,55,140,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "מרטין התרסק ובספק להמשך הטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/532976.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/92/9d/929d8579-d285-4804-9ca5-1699b8476d86/0907152031_tour_090715_,110,140,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לובש החולצה הצהובה החליק ונפצע לקראת הסיום. למרות זאת הוא עדיין המוביל. את הניצחון במקטע ה-6 לקח זדנאק שטיבר הצ'כי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/92/9d/929d8579-d285-4804-9ca5-1699b8476d86/0907152031_tour_090715_,110,140,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "התאונה  מאחוריו: גרייפל ניצח בקטע ה-5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/532741.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4d/e2/4de2c315-994f-4435-a686-27af42af47c8/0807152011_tak_tour_news_,80,110,35,140,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ניצחון שני הטור למאיץ הגרמני בטורניר האופניים היוקרתי. טוני מרטין שמר על החולצה הצהובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4d/e2/4de2c315-994f-4435-a686-27af42af47c8/0807152011_tak_tour_news_,80,110,35,140,55,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "טוני מרטין ניצח  ועקף את פרום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/532559.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b5/87/b58752bd-b89d-457a-9971-b2b4577f970a/0707151951_tour_de_france_070715_,35,55,80,110,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בתום  מקטע ארוך במיוחד שכלל 7 קטעים שונים, המדורג שני ניצח וזכה ללבוש את החולצה הצהובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b5/87/b58752bd-b89d-457a-9971-b2b4577f970a/0707151951_tour_de_france_070715_,35,55,80,110,140,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "בתום יום דרמטי: פרום  בפסגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/532390.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/91/81/9181b787-12f9-47ab-aa5f-0c9fc16a1bf7/0607152051_teuna_new_060715_,80,55,110,35,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי תאונה קשה ו-4 רוכבים שנאלצו לפרוש, הקטע ה-3 של הטור הסתיים בניצחונו של רודריגס",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/91/81/9181b787-12f9-47ab-aa5f-0c9fc16a1bf7/0607152051_teuna_new_060715_,80,55,110,35,140,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      },
+      {
+       "name": "דניס ניצח בקטע 1 של הטור דה פראנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/532116.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c2/8a/c28ae5a3-41fc-469e-8222-32ace001a215/0407151919_tour_de_france_040715_,35,55,80,140,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האוסטרלי זכה בחולצה הצהובה עם נצחון במירוץ נגד השעון. ניבאלי 22",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c2/8a/c28ae5a3-41fc-469e-8222-32ace001a215/0407151919_tour_de_france_040715_,35,55,80,140,110,0k.mp4.csmil/master.m3u8",
+       "season": "טור דה פראנס - 2015"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

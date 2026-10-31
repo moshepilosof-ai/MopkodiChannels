@@ -1,0 +1,746 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - מונדיאל 2026",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "12315",
+   "series_id": "12315",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1749420.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:02",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "בפעם השנייה בתולדותיה: ספרד אלופת העולם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1749420.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsArgentina-GameHighlights_178453390684/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsArgentina-GameHighlights_178453390684/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      },
+      {
+       "name": "בפעם השנייה בהיסטוריה: ספרד בגמר המונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1747633.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_France_Spain-GameHighlights_178410222113/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_France_Spain-GameHighlights_178410222113/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      },
+      {
+       "name": "אופי של אלופת עולם: ארגנטינה עלתה לגמר המונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1748042.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EnglandvsArgentina-GameHighlights_178418783663/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/EnglandvsArgentina-GameHighlights_178418783663/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/",
+       "season": ""
+      },
+      {
+       "name": "שער ענק לאלברס, ארגנטינה בחצי אחרי 1:3 על שווייץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1746414.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsSwitzerland-GameHighlights_178384182416/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsSwitzerland-GameHighlights_178384182416/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co",
+       "season": ""
+      },
+      {
+       "name": "צמד לבלינגהאם, אנגליה הדיחה את נורווגיה בהארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1746417.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NorwayvsEngland-GameHighlights_178384182373/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NorwayvsEngland-GameHighlights_178384182373/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "האיש למשימות מיוחדות: מרינו העלה את ספרד לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1745985.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsBelgium-GameHighlights_178375698651/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsBelgium-GameHighlights_178375698651/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=",
+       "season": ""
+      },
+      {
+       "name": "אמבפה ודמבלה חגגו: צרפת בחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1745532.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/france_moroco/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/france_moroco/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12319%26Vi=551624&poster=http",
+       "season": ""
+      },
+      {
+       "name": "הלך קשה: צרפת גברה על פרגוואי 0:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1743537.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ParaguayvsFrance-GameHighlights_178323787942/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ParaguayvsFrance-GameHighlights_178323787942/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      },
+      {
+       "name": "בפעם ה-2 ברציפות: מרוקו ברבע גמר המונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1743387.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CanadavsMorocco-GameHighlights_178323781938/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/CanadavsMorocco-GameHighlights_178323781938/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "הכל מהכל: מהפך ענק ב-2:3 של ארגנטינה על מצרים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1744903.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsEgypt-GameHighlights_178349652965/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsEgypt-GameHighlights_178349652965/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      },
+      {
+       "name": "הכי דרמטי שיש: שוייץ הדיחה את קולומביה בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1744905.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SwitzerlandvsColombia-GameHighlights_178349652939/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SwitzerlandvsColombia-GameHighlights_178349652939/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.",
+       "season": ""
+      },
+      {
+       "name": "פרידה קשה: רונאלדו ופורטוגל הודחו מול ספרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1744470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsSpain-GameHighlights_178341097369/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsSpain-GameHighlights_178341097369/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "העזרה של טראמפ לא הספיקה: 1:4 ענק לבלגיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1744474.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/USAvsBelgium-GameHighlights_178341097396/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/USAvsBelgium-GameHighlights_178341097396/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12",
+       "season": ""
+      },
+      {
+       "name": "צמד גדול של הולאנד הדיח את ברזיל מהמונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1744012.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BrazilvsNorway-GameHighlights_17833239753/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BrazilvsNorway-GameHighlights_17833239753/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=1",
+       "season": ""
+      },
+      {
+       "name": "מהמשוגעים שהיו: 2:3 דרמטי לארגנטינה על כף ורדה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1743163.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsCapeVerde-GameHighlights_178315112319/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsCapeVerde-GameHighlights_178315112319/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.i",
+       "season": ""
+      },
+      {
+       "name": "בטוחה בעצמה: 0:1 לקולומביה על גאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1743165.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ColombiavsGhana-GameHighlights_178315112376/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ColombiavsGhana-GameHighlights_178315112376/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "עלתה לשמינית הגמר: שוויץ ניצחה 0:2 את אלג`יריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1742686.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SwitzerlandvsAlgeria-GameHighlights_178306472712/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SwitzerlandvsAlgeria-GameHighlights_178306472712/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.i",
+       "season": ""
+      },
+      {
+       "name": "מצרים ניצחה את אוסטרליה בפנדלים ועלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1742992.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/AustraliavsEgypt-GameHighlights_178315112348/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/AustraliavsEgypt-GameHighlights_178315112348/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      },
+      {
+       "name": "ביכולת אדירה: ספרד הביסה 0:3 את אוסטריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1742684.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsAustria-GameHighlights_178306472772/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsAustria-GameHighlights_178306472772/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=",
+       "season": ""
+      },
+      {
+       "name": "דרמה משוגעת: פורטוגל ניצחה 1:2 את קרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1742682.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל 2026 - חצי הגמר",
+     "channels": [
+      {
+       "name": "בפעם השנייה בהיסטוריה: ספרד בגמר המונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1747633.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_France_Spain-GameHighlights_178410222113/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_France_Spain-GameHighlights_178410222113/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - חצי הגמר"
+      },
+      {
+       "name": "אופי של אלופת עולם: ארגנטינה עלתה לגמר המונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1748042.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EnglandvsArgentina-GameHighlights_178418783663/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EnglandvsArgentina-GameHighlights_178418783663/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - חצי הגמר"
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל 2026 - רבע הגמר",
+     "channels": [
+      {
+       "name": "שער ענק לאלברס, ארגנטינה בחצי אחרי 1:3 על שווייץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1746414.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsSwitzerland-GameHighlights_178384182416/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsSwitzerland-GameHighlights_178384182416/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - רבע הגמר"
+      },
+      {
+       "name": "צמד לבלינגהאם, אנגליה הדיחה את נורווגיה בהארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1746417.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NorwayvsEngland-GameHighlights_178384182373/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NorwayvsEngland-GameHighlights_178384182373/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - רבע הגמר"
+      },
+      {
+       "name": "האיש למשימות מיוחדות: מרינו העלה את ספרד לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1745985.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsBelgium-GameHighlights_178375698651/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsBelgium-GameHighlights_178375698651/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - רבע הגמר"
+      },
+      {
+       "name": "אמבפה ודמבלה חגגו: צרפת בחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1745532.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/france_moroco/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/france_moroco/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - רבע הגמר"
+      },
+      {
+       "name": "הלך קשה: צרפת גברה על פרגוואי 0:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1743537.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ParaguayvsFrance-GameHighlights_178323787942/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ParaguayvsFrance-GameHighlights_178323787942/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - רבע הגמר"
+      },
+      {
+       "name": "בפעם ה-2 ברציפות: מרוקו ברבע גמר המונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1743387.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CanadavsMorocco-GameHighlights_178323781938/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CanadavsMorocco-GameHighlights_178323781938/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - רבע הגמר"
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל 2026 - שמינית הגמר",
+     "channels": [
+      {
+       "name": "הכל מהכל: מהפך ענק ב-2:3 של ארגנטינה על מצרים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1744903.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsEgypt-GameHighlights_178349652965/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsEgypt-GameHighlights_178349652965/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שמינית הגמר"
+      },
+      {
+       "name": "הכי דרמטי שיש: שוייץ הדיחה את קולומביה בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1744905.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SwitzerlandvsColombia-GameHighlights_178349652939/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SwitzerlandvsColombia-GameHighlights_178349652939/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שמינית הגמר"
+      },
+      {
+       "name": "פרידה קשה: רונאלדו ופורטוגל הודחו מול ספרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1744470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsSpain-GameHighlights_178341097369/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsSpain-GameHighlights_178341097369/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שמינית הגמר"
+      },
+      {
+       "name": "העזרה של טראמפ לא הספיקה: 1:4 ענק לבלגיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1744474.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/USAvsBelgium-GameHighlights_178341097396/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/USAvsBelgium-GameHighlights_178341097396/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שמינית הגמר"
+      },
+      {
+       "name": "צמד גדול של הולאנד הדיח את ברזיל מהמונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1744012.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BrazilvsNorway-GameHighlights_17833239753/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BrazilvsNorway-GameHighlights_17833239753/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שמינית הגמר"
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל 2026 - 32 האחרונות",
+     "channels": [
+      {
+       "name": "מהמשוגעים שהיו: 2:3 דרמטי לארגנטינה על כף ורדה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1743163.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsCapeVerde-GameHighlights_178315112319/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ArgentinavsCapeVerde-GameHighlights_178315112319/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "בפעם ה-2 ברציפות: מרוקו ברבע גמר המונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1743387.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CanadavsMorocco-GameHighlights_178323781938/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CanadavsMorocco-GameHighlights_178323781938/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "בטוחה בעצמה: 0:1 לקולומביה על גאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1743165.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ColombiavsGhana-GameHighlights_178315112376/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ColombiavsGhana-GameHighlights_178315112376/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "עלתה לשמינית הגמר: שוויץ ניצחה 0:2 את אלג`יריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1742686.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SwitzerlandvsAlgeria-GameHighlights_178306472712/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SwitzerlandvsAlgeria-GameHighlights_178306472712/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "מצרים ניצחה את אוסטרליה בפנדלים ועלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1742992.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/AustraliavsEgypt-GameHighlights_178315112348/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/AustraliavsEgypt-GameHighlights_178315112348/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "ביכולת אדירה: ספרד הביסה 0:3 את אוסטריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1742684.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsAustria-GameHighlights_178306472772/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SpainvsAustria-GameHighlights_178306472772/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "דרמה משוגעת: פורטוגל ניצחה 1:2 את קרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1742682.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "הנסיך הארי: צמד של קיין שלח את אנגליה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1741990.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EnglandvsDRCongo-GameHighlights_178297952889/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EnglandvsDRCongo-GameHighlights_178297952889/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "בדקה ה-125: בלגיה עלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1742148.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BelgiumvsSenegal-GameHighlights_178297952916/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BelgiumvsSenegal-GameHighlights_178297952916/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "לא עצרה באדום: ארה\"ב ניצחה 0:2 את בוסניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1742167.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/USAvsBosnia-Herzegovina-GameHighlights_17829795286/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/USAvsBosnia-Herzegovina-GameHighlights_17829795286/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "עדיין מושלמת: מקסיקו עלתה לשמינית אחרי 0:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1741728.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MexicovsEcuador-GameHighlights_178289199257/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MexicovsEcuador-GameHighlights_178289199257/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "חגיגה צרפתית: הטריקולור עם 0:3 מול שוודיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1741732.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FrancevsSweden-GameHighlights_178289199201/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FrancevsSweden-GameHighlights_178289199201/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "1:2 דרמטי לנורווגיה מול חוף השנהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1741730.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IvoryCoastvsNorway-GameHighlights_178289199228/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IvoryCoastvsNorway-GameHighlights_178289199228/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "דרמה בדקה ה-96: ברזיל עלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1741117.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BrazilvsJapan-GameHighlights_178280565529/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BrazilvsJapan-GameHighlights_178280565529/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "סנסציית ענק: פרגוואי הדיחה את גרמניה והעפילה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1741112.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GermanyvsParaguay-GameHighlights_178280559556/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GermanyvsParaguay-GameHighlights_178280559556/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "אחרי פנדלים: מרוקו הדיחה את הולנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1741258.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NetherlandsvsMorocco-GameHighlights_178280559529/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NetherlandsvsMorocco-GameHighlights_178280559529/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      },
+      {
+       "name": "עם שער דרמטי בתוספת הזמן: קנדה בשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1740635.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/South_Africa_vs_Canada_Game_Highlights/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/South_Africa_vs_Canada_Game_Highlights/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - 32 האחרונות"
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל 2026 - שלב הבתים",
+     "channels": [
+      {
+       "name": "שער ענק למסי בחופשית, ארגנטינה חגגה על ירדן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1740245.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/JordanvsArgentina-GameHighlights_178263219878/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/JordanvsArgentina-GameHighlights_178263219878/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "סיימה במקום ה-2: פורטוגל מעדה מול קולומביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1740247.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ColombiavsPortugal-GameHighlights_178263225881/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ColombiavsPortugal-GameHighlights_178263225881/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "ג`וד הציל את המצב: 0:2 חשוב לאנגליה מול פנמה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1740249.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PanamavsEngland-GameHighlights_178263231888/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PanamavsEngland-GameHighlights_178263231888/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "לוקאסן כבש בהפסד הדרמטי של גאנה לקרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1740251.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CroatiavsGhana-GameHighlights_17826325600/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CroatiavsGhana-GameHighlights_17826325600/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "בתום משחק משוגע! אוסטריה ואלג`יריה נפרדו ב-3:3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1740254.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/AlgeriavsAustria-GameHighlights_178263243991/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/AlgeriavsAustria-GameHighlights_178263243991/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "עלתה לשלב הבא: קונגו ניצחה 1:3 את אוזבקיסטן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1740264.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DRCongovsUzbekistan-GameHighlights_178263237986/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DRCongovsUzbekistan-GameHighlights_178263237986/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "והיא בשלה: 0:1 לספרד על אורוגוואי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1739913.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/UruguayvsSpain-GameHighlights_178254652142/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/UruguayvsSpain-GameHighlights_178254652142/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "המופע של דמבלה: צרפת חגגה מול נורווגיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1739714.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NorwayvsFrance-GameHighlights_178254664155/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NorwayvsFrance-GameHighlights_178254664155/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "ברוכה הבאה: 1:5 גדול לבלגיה על ניו זילנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1739911.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NewZealandvsBelgium-GameHighlights_178254646139/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NewZealandvsBelgium-GameHighlights_178254646139/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "הכי דרמטי שיש: 1:1 בין מצרים ואיראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1739909.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EgyptvsIran-GameHighlights_17825458610/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EgyptvsIran-GameHighlights_17825458610/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "היסטוריה: כף ורדה העפילה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1739906.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CapeVerdevsSaudiArabia-GameHighlights_178254574092/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CapeVerdevsSaudiArabia-GameHighlights_178254574092/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "סנגל הביסה 0:5 את עיראק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1739718.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SenegalvsIraq-GameHighlights_178254658244/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SenegalvsIraq-GameHighlights_178254658244/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "רגש שלא נגמר: 1:2 ענק לאקוודור על גרמניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1739542.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EcuadorvsGermany-GameHighlights_178246114306/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/EcuadorvsGermany-GameHighlights_178246114306/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "ריקוד המכונה: 1:3 להולנד על טוניסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1739540.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TunisiavsNetherlands-GameHighlights_178246180348/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TunisiavsNetherlands-GameHighlights_178246180348/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "נפרדו בתיקו: 1:1 בין יפן לשוודיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1739538.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/JapanvsSweden-GameHighlights_178246132318/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/JapanvsSweden-GameHighlights_178246132318/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "בדקה ה-98: טורקיה ניצחה 2:3 את ארצות הברית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1739534.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TurkeyvsUSA-GameHighlights_178246120313/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TurkeyvsUSA-GameHighlights_178246120313/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "0:0 מאכזב בין פרגוואי לאוסטרליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1739525.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ParaguayvsAustralia-GameHighlights_178246126418/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ParaguayvsAustralia-GameHighlights_178246126418/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "בשלב הבא: חוף השנהב ניצחה 0:2 את קורסאו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1739529.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CuracaovsIvoryCoast-GameHighlights_178246114334/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CuracaovsIvoryCoast-GameHighlights_178246114334/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "ניימאר ערך בכורה: צמד לויני ב-0:3 של ברזיל על סקוטלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1738027.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ScotlandvsBrazil-GameHighlights_178237432541/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ScotlandvsBrazil-GameHighlights_178237432541/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      },
+      {
+       "name": "חגיגת שערים! מרוקו ניצחה 2:4 את האיטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1738025.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MoroccovsHaiti-GameHighlights_178237462525/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MoroccovsHaiti-GameHighlights_178237462525/HLS/playlist.m3u8",
+       "season": "מונדיאל 2026 - שלב הבתים"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

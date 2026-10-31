@@ -1,0 +1,211 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - מלך הערוץ",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10729",
+   "series_id": "10729",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1657482.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:05",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "מלך הערוץ: פרק 10",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1657482.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703590/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703590/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=530559&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ - אנשי הכדורגל העולמי הגיעו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1652820.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703589/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703589/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=529642&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ - פרק עם מומחי הכדורגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1652818.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703588/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703588/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=529641&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ בעוד פרק קורע במיוחד!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1644236.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703587/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703587/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=527641&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ - פרק ספיישל כדור כתום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1652814.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703586/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703586/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=529640&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ - ספיישל ליגה לאומית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1652811.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703585/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703585/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=529639&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ - מומחי הכדורגל הגיעו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1652807.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703584/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703584/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=529638&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ - ספיישל מומחים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1652805.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703583/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703583/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=529637&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ - ספיישל כדורסל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1652801.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703582/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703582/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=529636&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ - ספיישל כדורגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1652799.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703581/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP703581/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=529635&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ: כדורסלנים VS כדורגלנים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1356255.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP616285/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP616285/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=460486&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "צפו בפרק המלא: מלך הערוץ בספיישל כדורסל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1350201.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP616283/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP616283/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=459067&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "קופה ראשית VS אגדות הפועל במלך הערוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1344642.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PGM1_KING_OF_THE_CHANNEL_04024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/PGM1_KING_OF_THE_CHANNEL_04024/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=4",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ: ספיישל פרשני ועכברי NBA",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1254800.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561939/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561939/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=424888&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ: הבנים VS הבנות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1253285.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561938_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561938_1/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=424381&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ: ספיישל כדורסל ישראלי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1251119.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561937_NEW_231222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561937_NEW_231222/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=423639&post",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ: הריגרים VS האמסלמים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1249200.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561936_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561936_2/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=423023&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ: פרימו ושזיף לא עשו הנחות למכנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1232975.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MELEH_HAARUTZ_211022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MELEH_HAARUTZ_211022/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=417902&p",
+       "season": ""
+      },
+      {
+       "name": "מלך הערוץ: מנקו VS גינת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1253487.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561933/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP561933/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10729%26Vi=424431&poster=https://",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

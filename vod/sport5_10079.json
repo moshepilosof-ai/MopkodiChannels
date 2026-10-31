@@ -1,0 +1,606 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - בובה של לילה",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10079",
+   "series_id": "10079",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1728784.jpg",
+   "plot": "",
+   "updated": "2026-10-31 02:46",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "קוז'וך הגיע לטרוף את האולפן! בובה של לילה בפרק חדש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1728784.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOBA_FULL_040626/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BOBA_FULL_040626/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12165%26Vi=546718&poster=h",
+       "season": ""
+      },
+      {
+       "name": "רוני דיילה הגיע לאולפן: בובה של לילה בפרק חדש!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1715910.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719995/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719995/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12165%26Vi=544238&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "רפאלוב ויענקל'ה הגיעו לאולפן: בובה של לילה בפרק חדש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1704576.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719994/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719994/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12165%26Vi=540849&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה, הפרק המלא!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1689531.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719993/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719993/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12165%26Vi=537802&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "הביצוע של ישי סוויסה ומושיק עפיה בבובה של לילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1688737.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CLIP_MOSHIK_AFIA_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/CLIP_MOSHIK_AFIA_NEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12165%26Vi=537611&post",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה בעונה חדשה!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1676843.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7199911_177128109666/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7199911_177128109666/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12165%26Vi=534852&p",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה - פרק 6 המלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1566516.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_100425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_100425/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=509771&poster=h",
+       "season": ""
+      },
+      {
+       "name": "הכי מצחיק שיש: בובה של לילה בפרק סיום עונה מיוחד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1560803.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP685190/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP685190/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=507342&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "נאור ציון הגיע: בובה של לילה בפרק חדש!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1550919.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_080525/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_080525/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=505433&poster=h",
+       "season": ""
+      },
+      {
+       "name": "גם בכר הגיע: בובה של לילה בפרק חדש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1517741.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663164/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663164/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=498128&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה בפרק חדש ומצחיק במיוחד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1504294.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663162/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663162/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=495232&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "זהבי ועוד שלל דמויות: בובה של לילה בפרק חדש!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1486389.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663160/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663160/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=491885&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה במהדורת חג מיוחדת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1456396.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP624798/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP624798/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=485167&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "קורע מצחוק: הפרק המלא של בובה של לילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1444809.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/X_HSP624796/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/X_HSP624796/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=482631&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "כששוקו פגש את גנדלמן בגנט עדיין לא נרגעים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1444818.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/shoko_buba/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "צפו במערכון המקדים לבובה בשיתוף ווינר",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/shoko_buba/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=482640&poster=https:/",
+       "season": ""
+      },
+      {
+       "name": "גם בניון הגיע: בובה של לילה בעונה חדשה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1421595.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_240724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_240724/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11712%26Vi=478291&poster=h",
+       "season": ""
+      },
+      {
+       "name": "הטופ שבטופ: בובה של לילה - הפספוסים הגדולים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1306812.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP583548/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP583548/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10714%26Vi=443840&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה בפרק סיום עונה קורע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1294118.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BUBA_FULL_280523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BUBA_FULL_280523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10714%26Vi=438870&poste",
+       "season": ""
+      },
+      {
+       "name": "תתכוננו להתפוצץ: 'בובה של לילה' - הפרק המלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1286508.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_300423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_300423/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10714%26Vi=436228&poster=h",
+       "season": ""
+      },
+      {
+       "name": "ברקוביץ', אהרונוביץ' ודז'יקיץ': עוד פרק של בובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1268504.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_190223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_190223/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10714%26Vi=429984&poster=h",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - עונה חדשה של בובה - 2026",
+     "channels": [
+      {
+       "name": "קוז'וך הגיע לטרוף את האולפן! בובה של לילה בפרק חדש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1728784.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOBA_FULL_040626/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOBA_FULL_040626/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה של בובה - 2026"
+      },
+      {
+       "name": "רוני דיילה הגיע לאולפן: בובה של לילה בפרק חדש!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1715910.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719995/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719995/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה של בובה - 2026"
+      },
+      {
+       "name": "רפאלוב ויענקל'ה הגיעו לאולפן: בובה של לילה בפרק חדש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1704576.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719994/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719994/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה של בובה - 2026"
+      },
+      {
+       "name": "בובה של לילה, הפרק המלא!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1689531.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719993/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP719993/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה של בובה - 2026"
+      },
+      {
+       "name": "הביצוע של ישי סוויסה ומושיק עפיה בבובה של לילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1688737.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CLIP_MOSHIK_AFIA_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CLIP_MOSHIK_AFIA_NEW/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה של בובה - 2026"
+      },
+      {
+       "name": "בובה של לילה בעונה חדשה!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1676843.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7199911_177128109666/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7199911_177128109666/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה של בובה - 2026"
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - עונה חדשה 2024",
+     "channels": [
+      {
+       "name": "בובה של לילה - פרק 6 המלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1566516.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_100425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_100425/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "הכי מצחיק שיש: בובה של לילה בפרק סיום עונה מיוחד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1560803.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP685190/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP685190/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "נאור ציון הגיע: בובה של לילה בפרק חדש!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1550919.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_080525/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_080525/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "גם בכר הגיע: בובה של לילה בפרק חדש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1517741.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663164/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663164/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "בובה של לילה בפרק חדש ומצחיק במיוחד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1504294.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663162/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663162/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "זהבי ועוד שלל דמויות: בובה של לילה בפרק חדש!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1486389.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663160/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP663160/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "בובה של לילה במהדורת חג מיוחדת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1456396.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP624798/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP624798/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "קורע מצחוק: הפרק המלא של בובה של לילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1444809.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/X_HSP624796/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/X_HSP624796/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "כששוקו פגש את גנדלמן בגנט עדיין לא נרגעים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1444818.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/shoko_buba/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "צפו במערכון המקדים לבובה בשיתוף ווינר",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/shoko_buba/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      },
+      {
+       "name": "גם בניון הגיע: בובה של לילה בעונה חדשה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1421595.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_240724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_240724/HLS/playlist.m3u8",
+       "season": "בובה של לילה - עונה חדשה 2024"
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - בובה חוזרת",
+     "channels": [
+      {
+       "name": "הטופ שבטופ: בובה של לילה - הפספוסים הגדולים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1306812.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP583548/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP583548/HLS/playlist.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "בובה של לילה בפרק סיום עונה קורע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1294118.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BUBA_FULL_280523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BUBA_FULL_280523/HLS/playlist.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "תתכוננו להתפוצץ: 'בובה של לילה' - הפרק המלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1286508.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_300423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_300423/HLS/playlist.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "ברקוביץ', אהרונוביץ' ודז'יקיץ': עוד פרק של בובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1268504.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_190223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_BUBA_190223/HLS/playlist.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "צפו להפתעות: 'בובה של לילה' - הפרק המלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1262507.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP567084/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP567084/HLS/playlist.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "בובה של לילה: גיא לוזון, אסף נימני ועוד הפתעות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1240572.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_161122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BUBA_FULL_161122/HLS/playlist.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "לא תפסיקו לצחוק: בובה של לילה בפרק חדש!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1185021.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/p0ikUPgNeO/App/HSP520679_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/p0ikUPgNeO/App/HSP520679_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "\"בובה של לילה\" - הפרק המלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1179144.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/FmHG3qCXNe/App/HSP520677_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/FmHG3qCXNe/App/HSP520677_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "יניב קטן הגיע לאולפן: בובה של לילה - פרק 4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1171415.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/OTj47TJAVb/App/HSP520675_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/OTj47TJAVb/App/HSP520675_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "בובה של לילה: זיו אריה וסטפן מלול באולפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1162430.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/hV6Owvqvl7/App/BUBA_FULL_230122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/hV6Owvqvl7/App/BUBA_FULL_230122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "רביד הדליק אותם: הפרק השני של \"בובה של לילה\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1151145.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/4MLot7rMm8/App/BUBA_FULL_131221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/4MLot7rMm8/App/BUBA_FULL_131221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      },
+      {
+       "name": "כיף שחזרתם: \"בובה של לילה\" - הפרק המלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1144761.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/SlYaquzzxE/App/HSP520671_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/SlYaquzzxE/App/HSP520671_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - בובה חוזרת"
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - עונה חדשה",
+     "channels": [
+      {
+       "name": "נקרענו: בובה של לילה - הפרק המלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1101911.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/W3rh7au23C/App/HSP491496_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/W3rh7au23C/App/HSP491496_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה חדשה"
+      },
+      {
+       "name": "גם גוטמן הגיע: צפו בפרק החדש של בובה של לילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1096727.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/ifSgHFtwnw/App/HSP491495_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/ifSgHFtwnw/App/HSP491495_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה חדשה"
+      },
+      {
+       "name": "בובה של לילה - פרק 2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1093118.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/h5ZFCoWwHA/App/HSP491494_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/h5ZFCoWwHA/App/HSP491494_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה חדשה"
+      },
+      {
+       "name": "בובה של לילה - פרק 1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1089687.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV10/jx5bK9kGKt/App/HSP491491_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV10/jx5bK9kGKt/App/HSP491491_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה חדשה"
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - נלחמים בקורונה",
+     "channels": [
+      {
+       "name": "יענקל'ה, בוזגלו ועוד: הפרק המלא של בובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1027404.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV4/eIc6dusvUJ/App/HSP371068_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV4/eIc6dusvUJ/App/HSP371068_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - נלחמים בקורונה"
+      },
+      {
+       "name": "איביץ', שמאי ועוד: הפרק המלא של בובה של לילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1025470.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV4/l70kg81oBI/App/HSP371067_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV4/l70kg81oBI/App/HSP371067_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - נלחמים בקורונה"
+      },
+      {
+       "name": "בובה של לילה, נלחמים בקורונה, תכנית 2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1011163.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV/NL7QNP77VY/App/HSP371062_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV/NL7QNP77VY/App/HSP371062_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - נלחמים בקורונה"
+      },
+      {
+       "name": "בובה של לילה, נלחמים בקורונה, תכנית 1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1010133.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV/fJlDa95ook/App/HSP371061_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV/fJlDa95ook/App/HSP371061_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - נלחמים בקורונה"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

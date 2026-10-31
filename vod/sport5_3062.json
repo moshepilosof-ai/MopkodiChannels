@@ -1,0 +1,751 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - בובה של לילה",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "3062",
+   "series_id": "3062",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1089687.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "בובה של לילה - פרק 1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1089687.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV10/jx5bK9kGKt/App/HSP491491_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV10/jx5bK9kGKt/App/HSP491491_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      },
+      {
+       "name": "יעקב בוזגלו חוגג: \"הילד מענק!\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/610067.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/d7/ffd72b28-d89b-45b1-b830-7f1571115c6b/230520161806_buba_jakob_buzglo_230516_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אבא של מאור הגיע לאולפן של בובה ועשה \"שמח\" כהרגלו. מתוך \"בובה של לילה\", עונה 4",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/ff/d7/ffd72b28-d89b-45b1-b830-7f1571115c6b/230520161806_buba_jakob_buzglo_230516_,110,160,80,55,35,0k.mp4.csmil/master.m3",
+       "season": ""
+      },
+      {
+       "name": "תחזיקו את הבטן: המופע של פאדי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/609417.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/22/7f/227fd0a1-4df5-4926-a26f-5ade54397463/230520161907_buba_fafi_mustafa_230516_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו לליגה הלאומית חוזר עם פינה חדשה שכבר הפכה לקאלט. מתוך \"בובה של לילה\", עונה 4",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/22/7f/227fd0a1-4df5-4926-a26f-5ade54397463/230520161907_buba_fafi_mustafa_230516_,35,55,80,110,160,0k.mp4.csmil/master.m3",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה, תכנית 7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/609326.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c1/70/c170983c-2764-44f7-992e-a7fc748b84ce/230520160707_hsp275915_,160,110,80,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית סיום עונה מ-ש-ו-ג-ע-ת. ב\"ש הגיעה לחגוג אליפות עם כל חברי הפאנל הקרועים: יעקב בוזגלו, פאדי, רז זהבי ועד",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/c1/70/c170983c-2764-44f7-992e-a7fc748b84ce/230520160707_hsp275915_,160,110,80,35,55,0k.mp4.csmil/master.m3u8&live=False&r",
+       "season": ""
+      },
+      {
+       "name": "כך הגיב שי סידי לאליפות של ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/609090.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/7a/d57a49bc-fc6a-44f8-8556-c01f74fa5710/220520161604_keta_buba_22-5_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שי סידי מגיע לאולפן בובה של לילה, ויש לו הרבה מה לומר אחרי אובדן האליפות להפועל ב\"ש.",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/d5/7a/d57a49bc-fc6a-44f8-8556-c01f74fa5710/220520161604_keta_buba_22-5_,80,55,160,110,35,0k.mp4.csmil/master.m3u8&live=Fa",
+       "season": ""
+      },
+      {
+       "name": "האם פרימו צדק או טעה?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/609076.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/52/ab52c571-d0bb-4847-a267-0b7953c85493/220520161503_walla_22-5_,160,80,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו טען שג'ורדי לא יצליח במכבי ת''א, האם הוא צדק או טעה? מתוך \"בובה של לילה\" , העונה הרביעית",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/ab/52/ab52c571-d0bb-4847-a267-0b7953c85493/220520161503_walla_22-5_,160,80,110,55,35,0k.mp4.csmil/master.m3u8&live=False&",
+       "season": ""
+      },
+      {
+       "name": "מה חשב שגיא כהן על ההפסד של ב''ש?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/607635.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/38/d538b53e-2f17-4187-8157-0a0f3f0dc107/160520161010_keta buba_sagi_cohen_16-5_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו נתן כהרגלו מופע ולא חסך בביקורת על ההפסד של ב''ש . מתוך \"בובה של לילה\" , עונה רביעית",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/d5/38/d538b53e-2f17-4187-8157-0a0f3f0dc107/160520161010_keta buba_sagi_cohen_16-5_,110,35,160,55,80,0k.mp4.csmil/master.m",
+       "season": ""
+      },
+      {
+       "name": "בלי כיסוי: הנוכל מנתניה נחשף בבובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/607633.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/0c/d8/0cd85660-b1c0-435a-bbac-61cfb1d1e9ac/160520161010_keta buba_eliyaho_eliyaho_16-5_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רבים הסיפורים והפנים של הרוכש מנתניה. בבובה ניסו לפענח את התעלומה. האם הצליחו?",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/0c/d8/0cd85660-b1c0-435a-bbac-61cfb1d1e9ac/160520161010_keta buba_eliyaho_eliyaho_16-5_,160,80,35,110,55,0k.mp4.csmil/mas",
+       "season": ""
+      },
+      {
+       "name": "ושמישהו יעצור אותו: המופע של פאדי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/607632.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/25/b225bb88-2793-482d-a154-d6b4ebdbffb8/160520161010_keta buba_fadi_16-5_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "השדרן שלנו בליגה לאומית נותן את השואו של חייו. מתוך העונה הרביעית של \"בובה של לילה\"",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/b2/25/b225bb88-2793-482d-a154-d6b4ebdbffb8/160520161010_keta buba_fadi_16-5_,160,55,35,80,110,0k.mp4.csmil/master.m3u8&li",
+       "season": ""
+      },
+      {
+       "name": "\"ליגת הרוסים המוגזמים\" בפיתוח גוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/607625.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/64/46/644683d9-4090-47e4-b76b-4f5575d7596e/160520161010_keta buba_malubani_16-5_,110,160,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רן מלובני בעוד מערכון קורע מצחוק מתוך העונה הרביעית של \"בובה של לילה\"",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/64/46/644683d9-4090-47e4-b76b-4f5575d7596e/160520161010_keta buba_malubani_16-5_,110,160,35,55,80,0k.mp4.csmil/master.m3u",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה, תכנית 7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/607512.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/cc/f8/ccf8c328-b6c0-427a-a945-510c42465513/160520161010_hsp275914_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "המשקה המרגיע של יעקב בוזגלו, נדב יעקבי מתארח באולפן ואליהו אליהו מפתיע את הפאנל",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/cc/f8/ccf8c328-b6c0-427a-a945-510c42465513/160520161010_hsp275914_,35,110,55,160,80,0k.mp4.csmil/master.m3u8&live=False&r",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה, תכנית 6",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/605927.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/6f/24/6f24a424-ef58-4b85-847c-06a3cd5cebe1/090520161301_hsp275911_,110,55,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "דייויד בלאט, סבא טוביה עם כמה יומפידומים קורעים וגם אורח מיוחד מריאדה אל חמיסה. עוד פרק שופך של בובה",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/6f/24/6f24a424-ef58-4b85-847c-06a3cd5cebe1/090520161301_hsp275911_,110,55,160,80,35,0k.mp4.csmil/master.m3u8&live=False&r",
+       "season": ""
+      },
+      {
+       "name": "מה יענקל'ה הביא לדקל קינן?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/605761.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a5/7d/a57db2df-232b-478e-8f6a-d32b5d7161e7/080520161705_keta_buba_8-5_,55,80,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבעלים של מכבי חיפה הגיע להתארח באולפן בובה והחליט להביא \"מתנה\" לבלם הקבוצה. מתוך \"בובה של לילה\" עונה 4",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/a5/7d/a57db2df-232b-478e-8f6a-d32b5d7161e7/080520161705_keta_buba_8-5_,55,80,35,110,160,0k.mp4.csmil/master.m3u8&live=Fal",
+       "season": ""
+      },
+      {
+       "name": "הסיבה להצלחת ב''ש? יונתן כהן מסביר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/604682.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1d/19/1d193d06-62eb-4fba-b38e-8b5bb02843c8/020520161010_keta_buba_yonatan_cohen_2-5_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו מנתח את סוד ההצלחה של ב''ש העונה . מתוך \"בובה של לילה\" , עונה 4",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/1d/19/1d193d06-62eb-4fba-b38e-8b5bb02843c8/020520161010_keta_buba_yonatan_cohen_2-5_,35,110,160,80,55,0k.mp4.csmil/master",
+       "season": ""
+      },
+      {
+       "name": "עופר עיני והאמת על ועדת המינוי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/604681.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a4/23/a423fca8-d738-489d-9bd4-c23b98256cbc/020520161010_keta_buba_ofer_eyni_2-5_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "יו''ר ההתאחדות לכדורגל מספר על כל מה שהתרחש מאחורי הקלעים בועדת האיתור. מתוך \"בובה של לילה\", עונה 4",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/a4/23/a423fca8-d738-489d-9bd4-c23b98256cbc/020520161010_keta_buba_ofer_eyni_2-5_,110,160,80,55,35,0k.mp4.csmil/master.m3u",
+       "season": ""
+      },
+      {
+       "name": "אריה מלינאק מייעץ לאורי ששון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/604674.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/3c/ea3c618a-9db8-480a-aaab-17abd96d886e/020520161010_keta_buba_meliniak_2-5_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקואצ'ר האגדי נותן עצות לסגן אלוף אירופה הטרי בג'ודו איך למנף את הקריירה. מתוך \"בובה של לילה\" עונה רביעית",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/ea/3c/ea3c618a-9db8-480a-aaab-17abd96d886e/020520161010_keta_buba_meliniak_2-5_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "\"בני ריצפז נגד אליצור סינטבון\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/604677.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/59/f6/59f6a65d-fde6-4c25-bb27-e337f726de70/020520161010_keta_buba_raz_zehavi_2-5 _,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רז זהבי חוזר עם כל הסיפורים המרתקים על הליגות שאף אחד לא שמע עליהם. מתוך  \"בובה של לילה\", עונה 4",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/59/f6/59f6a65d-fde6-4c25-bb27-e337f726de70/020520161010_keta_buba_raz_zehavi_2-5 _,35,80,110,55,160,0k.mp4.csmil/master.m",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה, תכנית 5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/604165.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/9e/c89edb83-6fdc-4df8-921e-b0204392187f/020520160404_hsp275910_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "גרטל, מליניאק, תומר לוי ועוד רבים באו לביקור. אורחים מיוחדים:  קלינגר, אורי ששון ו\"קפה שחור חזק\"",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/c8/9e/c89edb83-6fdc-4df8-921e-b0204392187f/020520160404_hsp275910_,160,35,80,55,110,0k.mp4.csmil/master.m3u8&live=False&r",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה, תכנית 5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/602472.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/84/49/84494747-5a2d-4b8b-b597-c87bcfd4cfb6/250420160909_hsp275907x_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 4 - לקט הקטעים הנבחרים עד כה מעונה הרביעית",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/84/49/84494747-5a2d-4b8b-b597-c87bcfd4cfb6/250420160909_hsp275907x_,80,160,35,110,55,0k.mp4.csmil/master.m3u8&live=False&",
+       "season": ""
+      },
+      {
+       "name": "בובה של לילה, תכנית 3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/600747.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/64/47/6447517d-a45a-451f-b0c3-bc3e1f4e52b5/180420161604_hsp275906_1_,55,80,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "דראפיץ' וטביב על סאגת אצילי וכבירי ועובדיה \"ינעל העולם\" על מצב הפועל ת''א. אורחים באולפן: שלומי ארבייטמן",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/64/47/6447517d-a45a-451f-b0c3-bc3e1f4e52b5/180420161604_hsp275906_1_,55,80,160,110,35,0k.mp4.csmil/master.m3u8&live=False",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - עונה 4",
+     "channels": [
+      {
+       "name": "יעקב בוזגלו חוגג: \"הילד מענק!\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/610067.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/d7/ffd72b28-d89b-45b1-b830-7f1571115c6b/230520161806_buba_jakob_buzglo_230516_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אבא של מאור הגיע לאולפן של בובה ועשה \"שמח\" כהרגלו. מתוך \"בובה של לילה\", עונה 4",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/d7/ffd72b28-d89b-45b1-b830-7f1571115c6b/230520161806_buba_jakob_buzglo_230516_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "תחזיקו את הבטן: המופע של פאדי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/609417.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/22/7f/227fd0a1-4df5-4926-a26f-5ade54397463/230520161907_buba_fafi_mustafa_230516_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו לליגה הלאומית חוזר עם פינה חדשה שכבר הפכה לקאלט. מתוך \"בובה של לילה\", עונה 4",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/22/7f/227fd0a1-4df5-4926-a26f-5ade54397463/230520161907_buba_fafi_mustafa_230516_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "בובה של לילה, תכנית 7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/609326.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c1/70/c170983c-2764-44f7-992e-a7fc748b84ce/230520160707_hsp275915_,160,110,80,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית סיום עונה מ-ש-ו-ג-ע-ת. ב\"ש הגיעה לחגוג אליפות עם כל חברי הפאנל הקרועים: יעקב בוזגלו, פאדי, רז זהבי ועד",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c1/70/c170983c-2764-44f7-992e-a7fc748b84ce/230520160707_hsp275915_,160,110,80,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "כך הגיב שי סידי לאליפות של ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/609090.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/7a/d57a49bc-fc6a-44f8-8556-c01f74fa5710/220520161604_keta_buba_22-5_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שי סידי מגיע לאולפן בובה של לילה, ויש לו הרבה מה לומר אחרי אובדן האליפות להפועל ב\"ש.",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/7a/d57a49bc-fc6a-44f8-8556-c01f74fa5710/220520161604_keta_buba_22-5_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "האם פרימו צדק או טעה?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/609076.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/52/ab52c571-d0bb-4847-a267-0b7953c85493/220520161503_walla_22-5_,160,80,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו טען שג'ורדי לא יצליח במכבי ת''א, האם הוא צדק או טעה? מתוך \"בובה של לילה\" , העונה הרביעית",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/52/ab52c571-d0bb-4847-a267-0b7953c85493/220520161503_walla_22-5_,160,80,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "מה חשב שגיא כהן על ההפסד של ב''ש?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/607635.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/38/d538b53e-2f17-4187-8157-0a0f3f0dc107/160520161010_keta buba_sagi_cohen_16-5_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו נתן כהרגלו מופע ולא חסך בביקורת על ההפסד של ב''ש . מתוך \"בובה של לילה\" , עונה רביעית",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d5/38/d538b53e-2f17-4187-8157-0a0f3f0dc107/160520161010_keta buba_sagi_cohen_16-5_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "בלי כיסוי: הנוכל מנתניה נחשף בבובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/607633.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/0c/d8/0cd85660-b1c0-435a-bbac-61cfb1d1e9ac/160520161010_keta buba_eliyaho_eliyaho_16-5_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רבים הסיפורים והפנים של הרוכש מנתניה. בבובה ניסו לפענח את התעלומה. האם הצליחו?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/0c/d8/0cd85660-b1c0-435a-bbac-61cfb1d1e9ac/160520161010_keta buba_eliyaho_eliyaho_16-5_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "ושמישהו יעצור אותו: המופע של פאדי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/607632.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/25/b225bb88-2793-482d-a154-d6b4ebdbffb8/160520161010_keta buba_fadi_16-5_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "השדרן שלנו בליגה לאומית נותן את השואו של חייו. מתוך העונה הרביעית של \"בובה של לילה\"",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/25/b225bb88-2793-482d-a154-d6b4ebdbffb8/160520161010_keta buba_fadi_16-5_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "\"ליגת הרוסים המוגזמים\" בפיתוח גוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/607625.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/64/46/644683d9-4090-47e4-b76b-4f5575d7596e/160520161010_keta buba_malubani_16-5_,110,160,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רן מלובני בעוד מערכון קורע מצחוק מתוך העונה הרביעית של \"בובה של לילה\"",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/64/46/644683d9-4090-47e4-b76b-4f5575d7596e/160520161010_keta buba_malubani_16-5_,110,160,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "בובה של לילה, תכנית 7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/607512.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/cc/f8/ccf8c328-b6c0-427a-a945-510c42465513/160520161010_hsp275914_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "המשקה המרגיע של יעקב בוזגלו, נדב יעקבי מתארח באולפן ואליהו אליהו מפתיע את הפאנל",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/cc/f8/ccf8c328-b6c0-427a-a945-510c42465513/160520161010_hsp275914_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "בובה של לילה, תכנית 6",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/605927.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/6f/24/6f24a424-ef58-4b85-847c-06a3cd5cebe1/090520161301_hsp275911_,110,55,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "דייויד בלאט, סבא טוביה עם כמה יומפידומים קורעים וגם אורח מיוחד מריאדה אל חמיסה. עוד פרק שופך של בובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/6f/24/6f24a424-ef58-4b85-847c-06a3cd5cebe1/090520161301_hsp275911_,110,55,160,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "מה יענקל'ה הביא לדקל קינן?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/605761.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a5/7d/a57db2df-232b-478e-8f6a-d32b5d7161e7/080520161705_keta_buba_8-5_,55,80,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הבעלים של מכבי חיפה הגיע להתארח באולפן בובה והחליט להביא \"מתנה\" לבלם הקבוצה. מתוך \"בובה של לילה\" עונה 4",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a5/7d/a57db2df-232b-478e-8f6a-d32b5d7161e7/080520161705_keta_buba_8-5_,55,80,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "הסיבה להצלחת ב''ש? יונתן כהן מסביר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/604682.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1d/19/1d193d06-62eb-4fba-b38e-8b5bb02843c8/020520161010_keta_buba_yonatan_cohen_2-5_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו מנתח את סוד ההצלחה של ב''ש העונה . מתוך \"בובה של לילה\" , עונה 4",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1d/19/1d193d06-62eb-4fba-b38e-8b5bb02843c8/020520161010_keta_buba_yonatan_cohen_2-5_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "עופר עיני והאמת על ועדת המינוי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/604681.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a4/23/a423fca8-d738-489d-9bd4-c23b98256cbc/020520161010_keta_buba_ofer_eyni_2-5_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "יו''ר ההתאחדות לכדורגל מספר על כל מה שהתרחש מאחורי הקלעים בועדת האיתור. מתוך \"בובה של לילה\", עונה 4",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a4/23/a423fca8-d738-489d-9bd4-c23b98256cbc/020520161010_keta_buba_ofer_eyni_2-5_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "אריה מלינאק מייעץ לאורי ששון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/604674.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/3c/ea3c618a-9db8-480a-aaab-17abd96d886e/020520161010_keta_buba_meliniak_2-5_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקואצ'ר האגדי נותן עצות לסגן אלוף אירופה הטרי בג'ודו איך למנף את הקריירה. מתוך \"בובה של לילה\" עונה רביעית",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/3c/ea3c618a-9db8-480a-aaab-17abd96d886e/020520161010_keta_buba_meliniak_2-5_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "\"בני ריצפז נגד אליצור סינטבון\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/604677.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/59/f6/59f6a65d-fde6-4c25-bb27-e337f726de70/020520161010_keta_buba_raz_zehavi_2-5 _,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רז זהבי חוזר עם כל הסיפורים המרתקים על הליגות שאף אחד לא שמע עליהם. מתוך  \"בובה של לילה\", עונה 4",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/59/f6/59f6a65d-fde6-4c25-bb27-e337f726de70/020520161010_keta_buba_raz_zehavi_2-5 _,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "קורע: סיפורי גרטל בלונדון וספרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/604663.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4f/30/4f304d5d-5650-41a4-856b-610895392571/020520161010_keta_buba_gertel_2-5_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפרשן שלנו לענייני שחייה מספר על המפגש עם מייקל פלפס וקארל לואיס . מתוך \"בובה של לילה\" העונה הרביעית",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4f/30/4f304d5d-5650-41a4-856b-610895392571/020520161010_keta_buba_gertel_2-5_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "בובה של לילה, תכנית 5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/604165.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/9e/c89edb83-6fdc-4df8-921e-b0204392187f/020520160404_hsp275910_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "גרטל, מליניאק, תומר לוי ועוד רבים באו לביקור. אורחים מיוחדים:  קלינגר, אורי ששון ו\"קפה שחור חזק\"",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/9e/c89edb83-6fdc-4df8-921e-b0204392187f/020520160404_hsp275910_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "בובה של לילה, תכנית 5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/602472.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/84/49/84494747-5a2d-4b8b-b597-c87bcfd4cfb6/250420160909_hsp275907x_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 4 - לקט הקטעים הנבחרים עד כה מעונה הרביעית",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/84/49/84494747-5a2d-4b8b-b597-c87bcfd4cfb6/250420160909_hsp275907x_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      },
+      {
+       "name": "בובה של לילה, תכנית 3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/600747.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/64/47/6447517d-a45a-451f-b0c3-bc3e1f4e52b5/180420161604_hsp275906_1_,55,80,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "דראפיץ' וטביב על סאגת אצילי וכבירי ועובדיה \"ינעל העולם\" על מצב הפועל ת''א. אורחים באולפן: שלומי ארבייטמן",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/64/47/6447517d-a45a-451f-b0c3-bc3e1f4e52b5/180420161604_hsp275906_1_,55,80,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 4"
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - עונה 3",
+     "channels": [
+      {
+       "name": "בובה של לילה, תכנית 10",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/445774.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3f/19/3f19970f-fa2d-49fd-b71d-2bbdfe77a3c9/280220181503_hsp173291_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "26.5.14 - סימאונה חיפש אשמים להפסד בגמר, פרוספר עונה לכל המבקרים ובוני מספק הסברים",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3f/19/3f19970f-fa2d-49fd-b71d-2bbdfe77a3c9/280220181503_hsp173291_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "בובה של לילה, תכנית 9",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/442210.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/fb/28fb6de7-fbf4-4b89-9532-2505ecac7638/280220180101_hsp173289_,35,55,160,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "11.5.14 - כולם היום: סוזה, פרימו, ייטב לוזון ופרשן הליגות הנמוכות, רז זהבי. תכנית שוברת עצמות",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/fb/28fb6de7-fbf4-4b89-9532-2505ecac7638/280220180101_hsp173289_,35,55,160,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "בובה של לילה, תכנית 8",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/436134.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/bf/e7/bfe74b1a-b26d-4d13-b632-4b7dfe65645a/280220180202_hsp173286_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "13.04.14 -  המאמן הצהוב הגן על סופו, רז זהבי בחש בליגות הנמוכות וקוסילמלם, והיו גם בונבונירות של ואסילי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/bf/e7/bfe74b1a-b26d-4d13-b632-4b7dfe65645a/280220180202_hsp173286_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "בובה של לילה, תכנית 7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/434539.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b4/50/b450948d-41ec-42f7-ba2e-46eeab4d645f/280220180101_hsp173284_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "6.4.2014 - כוכב חדש מצטרף לבובה של לילה, ערן לוי באולפן, אביגיל ונומה קופצים לבקר ואיך אפשר בלי ברלד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b4/50/b450948d-41ec-42f7-ba2e-46eeab4d645f/280220180101_hsp173284_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "בובה של לילה, תכנית 6",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/432906.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/41/0d/410d67bb-ee57-4d61-9016-dc52f72b6717/270220182311_hsp173282_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "30.3.14-  חלוץ מכבי ת\"א התארח, גם המאמן הגיע בדרכו שלו וכולם בסוף השתחוו לברקוביץ'",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/41/0d/410d67bb-ee57-4d61-9016-dc52f72b6717/270220182311_hsp173282_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "בובה של לילה, תכנית 5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/429439.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/96/b4/96b44090-f210-49e9-90a5-9576d9302907/270220182008_hsp173280_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "23.3.14- רכז מכבי ת\"א הגיע להשתתף ב'בובה של לילה', ובסוף התחרט על כך. צפו בפרק 5 המלא",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/96/b4/96b44090-f210-49e9-90a5-9576d9302907/270220182008_hsp173280_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "בובה של לילה, תכנית 4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/427851.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/54/7e/547eb6d6-2d99-46a5-93ff-8b70207f6dea/270220182109_hsp173278_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "16.3.14- משה דמאיו מגיע לאולפן בובה של לילה, פרוספר אזגי מתפרץ לאולפן וקאלה דרשלר חוטף בראש מהבוס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/54/7e/547eb6d6-2d99-46a5-93ff-8b70207f6dea/270220182109_hsp173278_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "קורע מתמיד: בובה של לילה בפרק ענק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/426217.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/16/b0/16b03851-e3e8-44bd-ae76-7b91e6c51c96/270220181705_hsp173276_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "9.3.14- משה פרימו, יעקב בוזגלו, אלישע לוי ואפילו נדב יעקבי. תתכוננו להחזיק את הבטן",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/16/b0/16b03851-e3e8-44bd-ae76-7b91e6c51c96/270220181705_hsp173276_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "בובה של לילה, תכנית 2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/424539.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8a/67/8a67e62c-eab1-4a71-acff-846b0be03f1f/270220181806_hsp173274_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "2.3.14- בתפריט: חיים רמון, שאול אייזנברג, צביקה שרף ואפילו שגיא כהן",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8a/67/8a67e62c-eab1-4a71-acff-846b0be03f1f/270220181806_hsp173274_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      },
+      {
+       "name": "בובה של לילה, תכנית 1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/422993.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/ed/28edb65a-dd2c-45a4-8b8a-38d2f406c9fb/270220181604_hsp173272_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "23.2.14- התכנית שעושה צחוק מכולם פתחה עונה עם ברלד, שוקו והדמויות הכי מטורפות. אסור לפספס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/ed/28edb65a-dd2c-45a4-8b8a-38d2f406c9fb/270220181604_hsp173272_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - עונה 2",
+     "channels": [
+      {
+       "name": "בובה של לילה - מאחורי הקלעים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/263953.jpg",
+       "url": "https://rgevod.akamaized.net/vodedge/_definst_/mp4:rge//i/videos5-Azrxr1-O1s.csmil/master.m3u8_1800.mp4/chunklist_b1800000.m3u8",
+       "date": "",
+       "plot": "יצפאן מתחרפן על יצחקי, שוקו מסדר את הקהל וגם שימי שוב כאן. קורע",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=s5-Azrxr1-O1s&Type=vod&ShowRecommended=false&folder_id=808&ShowAdvertisement=True&iOSPosterImage=https://www.sport5.co.il/Sip_Storage",
+       "season": "בובה של לילה - עונה 2"
+      },
+      {
+       "name": "בובה של לילה, תכנית 10",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/262632.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8a/66/8a66bbba-192e-4cc7-8e1f-9f1ca8b9cb9b/Buba_Season2_Pgm_10_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית חגיגית לפני היציאה לפגרה עם בוני גינצבורג באולפן ועוד ים של הפתעות כולל ברלד בתפקיד מאיר איינשטיין",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8a/66/8a66bbba-192e-4cc7-8e1f-9f1ca8b9cb9b/Buba_Season2_Pgm_10_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 2"
+      },
+      {
+       "name": "בובה של לילה, תכנית 7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/256248.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8c/c2/8cc21c79-ccca-48b2-92e2-1257d4f776c5/300320172109_hsp086844_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "התכנית הכי מצחיקה בטלויזיה חזרה מהפגרה חזקה מתמיד. גם אסי כהן הגיע לתפקיד אורח. לא להחמיץ!",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8c/c2/8cc21c79-ccca-48b2-92e2-1257d4f776c5/300320172109_hsp086844_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 2"
+      },
+      {
+       "name": "בובה של לילה, תכנית 6",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/251477.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c7/a7/c7a7ff77-d44d-4615-a234-0773f465a313/290320172210_hsp086843_,35,160,110,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אייל ברקוביץ', יואב כץ, יוסי מזרחי, שייע וגם עידו רוזנבלום הגיעו לתוכנית. צפו בפרק המלא",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c7/a7/c7a7ff77-d44d-4615-a234-0773f465a313/290320172210_hsp086843_,35,160,110,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 2"
+      },
+      {
+       "name": "בובה של לילה, תכנית 5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/250229.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8a/2a/8a2a26b9-77dd-42ca-be80-8f8106d289a8/Buba_Season_2_Pgm_5_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בתפריט הפעם: בירנבוים, אוסטפלד, אזגי וכמובן ברלד בתפקיד שימי ריגר. צפו בעוד תכנית קורעת",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8a/2a/8a2a26b9-77dd-42ca-be80-8f8106d289a8/Buba_Season_2_Pgm_5_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 2"
+      },
+      {
+       "name": "בובה של לילה, תכנית 4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/247551.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/e8/abe881ed-7595-4ff7-aeeb-41ded42f0d82/Buba_Season_2_Pgm_4_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פרננדז, צביקה שרף, יוסי מזרחי ומוטל'ה שפיגלר הגיעו לאולפן והצליחו להוציא אפילו את ברק יצחקי מאיזון. פרק 4 המלא",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ab/e8/abe881ed-7595-4ff7-aeeb-41ded42f0d82/Buba_Season_2_Pgm_4_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 2"
+      },
+      {
+       "name": "בובה של לילה, תכנית 3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/246300.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/aKRMQh2C0o/App/HSP086835_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מי לא הגיע לאולפן? גברי לוי, לואיס פרננדס, עמוס לוזון ועוד ביקור קורע של ירון ברלד. פרק 3 המלא",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/aKRMQh2C0o/App/HSP086835_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 2"
+      },
+      {
+       "name": "בובה של לילה, תכנית 2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/244735.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/tjo9dG8bj6/App/HSP086834_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אוהדי בית\"ר מגיעים עצבניים לאולפן, שייע בתכנית רדיו חדשה, ואיך מחזירים את הליגיונרים? פרק 2 בעונה השניה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/tjo9dG8bj6/App/HSP086834_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 2"
+      },
+      {
+       "name": "בובה של לילה, תכנית 1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/243590.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/OtvTNSmMmQ/App/HSP086831_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ככה פותחים עונה חדשה: משפחת בוזגלו, אלי יצפאן ואיך אפשר בלי אזגי. צפו בפרק המלא",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/OtvTNSmMmQ/App/HSP086831_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "בובה של לילה - עונה 1",
+     "channels": [
+      {
+       "name": "בובה של לילה, תכנית 12",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/241299.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c1/74/c17489f8-9738-4e2a-a7d5-3d2b6c2bad47/Buba_Season_1_Pgm_12_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "כספי באולפן, שייע מראיין את שייע וכל הבובות בספיישל סיום עונה מרגש",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c1/74/c17489f8-9738-4e2a-a7d5-3d2b6c2bad47/Buba_Season_1_Pgm_12_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 11",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/231978.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/85/58/8558cd31-11b7-4212-a8dc-3f4ce14da55b/Buba_Season_1_Pgm_11_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "נאור ציון המקורי וגם חיקוי קורע של תומר סיני. בובה של לילה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/85/58/8558cd31-11b7-4212-a8dc-3f4ce14da55b/Buba_Season_1_Pgm_11_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 10",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/230557.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/07/72/077294f2-5684-4c00-b471-97ea6ecc6d71/HSP052778_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אזגי על הירידה, לוזון ורן בן שמעון בטיפול. בובה של לילה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/07/72/077294f2-5684-4c00-b471-97ea6ecc6d71/HSP052778_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 9",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/229303.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/88/c5/88c5d203-58af-4e7c-b898-943072c0a877/HSP052777_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אזגי ובן שמעון הגיעו וזוהיר בהלול הפתיע. צפו בבובה של לילה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/88/c5/88c5d203-58af-4e7c-b898-943072c0a877/HSP052777_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 8",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/223702.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4b/30/4b302e12-29b1-4942-9a0e-6191ddaf18e1/Buba_1_Pgm9_,55,80,160,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פאנל הבובות עושה סדר פסח ופרוספר אזגי מגיע לברך",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4b/30/4b302e12-29b1-4942-9a0e-6191ddaf18e1/Buba_1_Pgm9_,55,80,160,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/222446.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a7/8d/a78d65c9-bd64-4b3e-a4d5-88154354de29/Buba_Season_1_Pgm_7_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אליהו התארח, סופו דפק הופעה ולוזון פתח על תבריזי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a7/8d/a78d65c9-bd64-4b3e-a4d5-88154354de29/Buba_Season_1_Pgm_7_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 6",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/222451.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/40/a9/40a9cab5-953a-4d93-adf9-89fc7424250c/Buba_Season_1_Pgm_6_,55,110,80,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לואיס פרננדס פותח על לוזון ולא תאמינו מי קיבל בובה חדשה בדמותו",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/40/a9/40a9cab5-953a-4d93-adf9-89fc7424250c/Buba_Season_1_Pgm_6_,55,110,80,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/222206.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/11/c1/11c1e02f-cb9c-4ac0-955c-c9aa7316d892/HSP052769_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לפאנל הקבוע מצטרף אלי אוחנה ופרוספר אזגי האמיתי מתעמת עם שוקו",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/11/c1/11c1e02f-cb9c-4ac0-955c-c9aa7316d892/HSP052769_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/219823.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/eb/5c/eb5cc832-befa-4f16-94da-9f0de0de7a0d/Buba_Season_1_Pgm_4_,110,80,160,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תחרות תחפושות עם דמאיו בתפקיד ספיידרמן ולוזון הליצן",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/eb/5c/eb5cc832-befa-4f16-94da-9f0de0de7a0d/Buba_Season_1_Pgm_4_,110,80,160,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/218755.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3c/3e/3c3e0132-d096-4d4b-8bed-207f4fd5a912/Buba_Season_1_Pgm_3_,110,35,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פרוספר אזגי קפץ לביקור ויעקב כהן באחד על אחד עם שייע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3c/3e/3c3e0132-d096-4d4b-8bed-207f4fd5a912/Buba_Season_1_Pgm_3_,110,35,160,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/217252.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/2b/9e/2b9e259e-c3cf-4d5a-be9f-214a90a86c59/Buba_Season_1_Pgm_2_,55,80,110,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שמעון גרשון, עידן מימון ונומה בהופעת בככורה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/2b/9e/2b9e259e-c3cf-4d5a-be9f-214a90a86c59/Buba_Season_1_Pgm_2_,55,80,110,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      },
+      {
+       "name": "בובה של לילה, תכנית 1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/424336.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d2/be/d2bed986-97c3-426b-bf0a-c3016484f290/Buba_Season_1_Pgm_1_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שליימה, לוזון, שוקו ואנדי רם. \"בובה של לילה\" – הבכורה!",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d2/be/d2bed986-97c3-426b-bf0a-c3016484f290/Buba_Season_1_Pgm_1_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "בובה של לילה - עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

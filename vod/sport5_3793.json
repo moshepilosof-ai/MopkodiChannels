@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - נבחרת ישראל",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "3793",
+   "series_id": "3793",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1682088.png",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "בשורות טובות: 54:83 לישראל מול קפריסין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1682088.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_010326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_010326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=536055&pos",
+       "season": ""
+      },
+      {
+       "name": "טיול: הנבחרת הביסה 54:94 את קפריסין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1681741.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISRAEL_CYP_270226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISRAEL_CYP_270226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=535993&p",
+       "season": ""
+      },
+      {
+       "name": "מהגדולים שידענו: ישראל ניצחה 69:82 את צרפת!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1594393.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ISR_FRA_310825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ISR_FRA_310825/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=516895&poster=h",
+       "season": ""
+      },
+      {
+       "name": "חגיגה של סורקין: ניצחון חשוב לנבחרת מול איסלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1593056.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISR_ICE_280825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISR_ICE_280825/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=516614&post",
+       "season": ""
+      },
+      {
+       "name": "מאייר להט, הנבחרת U19 הביסה את שווייץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1570808.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIVHERET_SAL_19_280625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIVHERET_SAL_19_280625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=510958",
+       "season": ""
+      },
+      {
+       "name": "מתקרבת לעלייה: ישראל ניצחה 73:86 את אוקראינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1475380.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIV_SAL_231124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIV_SAL_231124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=489447&poster=",
+       "season": ""
+      },
+      {
+       "name": "בלייזר: \"לשרף יש פוטנציאל אדיר\". הנבחרת בבית הכנסת בריגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1475042.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_BLAYZER/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_BLAYZER/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=489444&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "טימור ומדר כיכבו בניצחון האדיר של נבחרת ישראל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1310793.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_SAL_130823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_SAL_130823/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=445306",
+       "season": ""
+      },
+      {
+       "name": "פתיחה חלקה: סורקין הרשים, ישראל הביסה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1310571.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACA_ISR_120823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACA_ISR_120823/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=445204&poster",
+       "season": ""
+      },
+      {
+       "name": "נבחרת ישראל נכנעה לאוקראינה במשחק הכנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1308999.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISRAAEL_SAL_050823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISRAAEL_SAL_050823/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=444725&pos",
+       "season": ""
+      },
+      {
+       "name": "ישראל סגרה קמפיין עם ניצחון על סלובניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1270555.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISRAEL_SAL_270223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISRAEL_SAL_270223/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=430593&p",
+       "season": ""
+      },
+      {
+       "name": "ישראל גברה גם על רומניה במוק' היורובאסקט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1076087.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/TjbSOGwQzK/App/NM_VTR_ISRAEL_190221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/TjbSOGwQzK/App/NM_VTR_ISRAEL_190221_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vo",
+       "season": ""
+      },
+      {
+       "name": "כמו ב-NBA: האימון המיוחד של הנבחרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/723549.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/83/6b/836b4ae3-2c9b-4d12-b32f-582f5ed26c04/260720172311_nm_vtr_item_nivheret_sal_260717_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "כחודש לפני פתיחת היורובאסקט, נבחרת ישראל קיימה אימון פתוח מיוחד לעיתונאים",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/83/6b/836b4ae3-2c9b-4d12-b32f-582f5ed26c04/260720172311_nm_vtr_item_nivheret_sal_260717_,110,80,160,35,55,0k.mp4.csmil/ma",
+       "season": ""
+      },
+      {
+       "name": "חד צדדי: ישראל הובסה ב-30 והודחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/546779.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/12/ec/12ecac13-678c-4d94-93c4-11423e20dddf/1309152141_tak_israel_italy_130915_,140,35,55,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הנבחרת מארץ המגף הייתה גדולה על החבורה בלבן כחול. מקל בלט אך זה לא הספיק",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/12/ec/12ecac13-678c-4d94-93c4-11423e20dddf/1309152141_tak_israel_italy_130915_,140,35,55,80,110,0k.mp4.csmil/master.m3u8&",
+       "season": ""
+      },
+      {
+       "name": "לא כוחות: צרפת הטביעה את ישראל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/546176.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/56/1a/561afe0b-9400-40ef-b888-b7f376c3e755/1009152356_israel_sal_100915_,110,55,35,80,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ללא כספי, מקל ואליהו, הנבחרת נכנעה 86:61 לצרפת וסיימה במקום השני בבית",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/56/1a/561afe0b-9400-40ef-b888-b7f376c3e755/1009152356_israel_sal_100915_,110,55,35,80,140,0k.mp4.csmil/master.m3u8&live=F",
+       "season": ""
+      },
+      {
+       "name": "\"מרגישים כמו בבית האח הגדול\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/545990.jpg",
+       "url": "/delivery/01/83/0183307b-894b-4972-9115-96d1a259fb51/1009151010_sy_mekel_100915_,1100k,1400k,800k,550k,350k,.mp4",
+       "date": "",
+       "plot": "על מיטת הטיפולים, גל מקל סיפק טעימה מחייו של שחקן נבחרת ישראל: \"אפשר להשתגע פה\"",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=/delivery/01/83/0183307b-894b-4972-9115-96d1a259fb51/1009151010_sy_mekel_100915_,1100k,1400k,800k,550k,350k,.mp4&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26",
+       "season": ""
+      },
+      {
+       "name": "73:75 גדול לנבחרת ישראל על פולין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/545897.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ee/68/ee68a07e-1ee5-4669-b83c-690f3c098123/0909152033_tak_israel_polin_090915_,55,80,35,110,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "נמתחנו עד לרגע האחרון אבל הבחורים של ארז אדלשטיין עשו את זה ועלו לשמינית גמר אליפות אירופה",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/ee/68/ee68a07e-1ee5-4669-b83c-690f3c098123/0909152033_tak_israel_polin_090915_,55,80,35,110,140,0k.mp4.csmil/master.m3u8&",
+       "season": ""
+      },
+      {
+       "name": "התרופפות: ישראל הפסידה לבוסניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/545492.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e6/41/e64188be-35f6-4890-8762-4751da0ce732/0709152107_tak_israel_bosnia_sal_070915_,80,35,140,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הנבחרת כבר הובילה בפער של 16 נקודות, אבל ספגה שלשה עם הבאזר ונכנעה ברגע האחרון של ההארכה",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/e6/41/e64188be-35f6-4890-8762-4751da0ce732/0709152107_tak_israel_bosnia_sal_070915_,80,35,140,55,110,0k.mp4.csmil/master.",
+       "season": ""
+      },
+      {
+       "name": "לא עוצרת: ישראל ניצחה גם את פינלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/545213.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/30/51/30514c2d-522a-40a8-843a-be46eb3c775e/0609152036_tak_israel_vs_finland_060915_,140,80,55,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הנבחרת מושלמת אחרי שני משחקים ביורובאסקט. והפעם: 66:79 על הפינים",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/30/51/30514c2d-522a-40a8-843a-be46eb3c775e/0609152036_tak_israel_vs_finland_060915_,140,80,55,35,110,0k.mp4.csmil/master.",
+       "season": ""
+      },
+      {
+       "name": "הירואי: צפו בניצחון של ישראל על רוסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/544977.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/61/88/6188daa0-5d41-489b-9590-a44f36b8d007/0509152041_tak_israel_russia_,110,55,35,140,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "21 נקודות של כספי הובילו את הנבחרת ל-73:76 ענק בפתיחת היורובאסקט",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/61/88/6188daa0-5d41-489b-9590-a44f36b8d007/0509152041_tak_israel_russia_,110,55,35,140,80,0k.mp4.csmil/master.m3u8&live=F",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

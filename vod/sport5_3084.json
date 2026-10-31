@@ -1,0 +1,3351 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - הליגה הצרפתית",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "3084",
+   "series_id": "3084",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1796984.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:04",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "שלושער מטורף לחאכימי, 1:5 גדול לפ.ס.ז`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1796984.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LAHAVRE-PSG_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LAHAVRE-PSG_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=565763&po",
+       "season": ""
+      },
+      {
+       "name": "פ.ס.ז' ניצחה 0:2 את ליון ושמרה על הפסגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795324.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_261026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_261026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=565346&poster=",
+       "season": ""
+      },
+      {
+       "name": "שער ובישול להזארד, לאנס ניצחה 1:2 את פאריס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1794111.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LENS_PAR_241026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LENS_PAR_241026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=565052&poste",
+       "season": ""
+      },
+      {
+       "name": "לוהטת: פ.ס.ז' ממשיכה בשלה עם 1:3 על שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1790369.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_171026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_171026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=564013&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "מתרחקת מהאלופות: ניס הפסידה 2:1 לנאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1787411.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NICE_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NICE_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563382&poster",
+       "season": ""
+      },
+      {
+       "name": "נקודה מהפסגה: 1:4 לראן מול אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787417.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RENN_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RENN_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563381&poster",
+       "season": ""
+      },
+      {
+       "name": "מארסיי גברה 0:3 על טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1787602.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MARSEILLE_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MARSEILLE_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563380&p",
+       "season": ""
+      },
+      {
+       "name": "בקווה כבש, 0:1 לליל על לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786593.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563193&poster=h",
+       "season": ""
+      },
+      {
+       "name": "שני בישולים לתובאן, לאנס ניצחה את ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786583.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LENS_LYON_TAKTZIR/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LENS_LYON_TAKTZIR/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563298&poster=",
+       "season": ""
+      },
+      {
+       "name": "מרקיניוס הכריע, 1:2 לפ.ס.ז` על מארסיי ב`קלאסיק`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1778425.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_psg_marsielle_kippur/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_psg_marsielle_kippur/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561269&",
+       "season": ""
+      },
+      {
+       "name": "הפסד ליגה ראשון: ליל נכנעה 2:1 לניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1778463.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lille_nice/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lille_nice/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561268&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "חגגה לפני הפגרה: ליון מחצה 0:4 את ראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1778173.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LYON_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LYON_190926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561195&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "ניצחון מרשים: פאריס גברה 1:2 על שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1778116.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PARIS_FC_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PARIS_FC_190926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561193&poste",
+       "season": ""
+      },
+      {
+       "name": "סבאי כיכב, אנז'ה ניצחה 0:2 את טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1778152.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ANGERS_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ANGERS_190926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561228&poster=",
+       "season": ""
+      },
+      {
+       "name": "ניצחון בכורה העונה: לה מאן גברה 1:2 על לוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1778150.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LE_MANS_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LE_MANS_190926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561226&poster",
+       "season": ""
+      },
+      {
+       "name": "צמד לטנגסטדט, 2:3 לטולוז על לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1778148.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOULOUSE_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOULOUSE_190926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561225&poste",
+       "season": ""
+      },
+      {
+       "name": "שער ניצחון לפראן, פ.ס.ז` השיגה ניצחון בכורה בליגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1775282.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_130926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_130926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=560536&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "אחרי פיגור כפול: לאנס חזרה ל-2:2 עם לה מאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1775107.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LANS_130926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LANS_130926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=560535&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "עם שער של איתן אמבפה: ליל גברה 0:2 על טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1775019.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_130926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_130926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=560534&poster=h",
+       "season": ""
+      },
+      {
+       "name": "שער אדיר לברונן, 1:1 בין שטראסבורג למונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1774753.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_STRASS_MONACO_120926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_STRASS_MONACO_120926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=560396&",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2026/27",
+     "channels": [
+      {
+       "name": "שלושער מטורף לחאכימי, 1:5 גדול לפ.ס.ז`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1796984.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LAHAVRE-PSG_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LAHAVRE-PSG_301026/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "פ.ס.ז' ניצחה 0:2 את ליון ושמרה על הפסגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795324.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_261026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_261026/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "שער ובישול להזארד, לאנס ניצחה 1:2 את פאריס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1794111.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LENS_PAR_241026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LENS_PAR_241026/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "לוהטת: פ.ס.ז' ממשיכה בשלה עם 1:3 על שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1790369.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_171026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_171026/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "מתרחקת מהאלופות: ניס הפסידה 2:1 לנאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1787411.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NICE_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NICE_111026/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "נקודה מהפסגה: 1:4 לראן מול אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787417.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RENN_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RENN_111026/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "מארסיי גברה 0:3 על טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1787602.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MARSEILLE_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MARSEILLE_111026/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "בקווה כבש, 0:1 לליל על לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786593.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "שני בישולים לתובאן, לאנס ניצחה את ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786583.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LENS_LYON_TAKTZIR/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LENS_LYON_TAKTZIR/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "מרקיניוס הכריע, 1:2 לפ.ס.ז` על מארסיי ב`קלאסיק`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1778425.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_psg_marsielle_kippur/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_psg_marsielle_kippur/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "הפסד ליגה ראשון: ליל נכנעה 2:1 לניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1778463.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lille_nice/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lille_nice/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "חגגה לפני הפגרה: ליון מחצה 0:4 את ראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1778173.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LYON_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LYON_190926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "ניצחון מרשים: פאריס גברה 1:2 על שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1778116.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PARIS_FC_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PARIS_FC_190926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "סבאי כיכב, אנז'ה ניצחה 0:2 את טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1778152.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ANGERS_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ANGERS_190926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "ניצחון בכורה העונה: לה מאן גברה 1:2 על לוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1778150.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LE_MANS_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LE_MANS_190926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "צמד לטנגסטדט, 2:3 לטולוז על לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1778148.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOULOUSE_190926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOULOUSE_190926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "שער ניצחון לפראן, פ.ס.ז` השיגה ניצחון בכורה בליגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1775282.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_130926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_130926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "אחרי פיגור כפול: לאנס חזרה ל-2:2 עם לה מאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1775107.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LANS_130926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LANS_130926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "עם שער של איתן אמבפה: ליל גברה 0:2 על טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1775019.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_130926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_130926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "שער אדיר לברונן, 1:1 בין שטראסבורג למונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1774753.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_STRASS_MONACO_120926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_STRASS_MONACO_120926/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2025/26",
+     "channels": [
+      {
+       "name": "דוד מול גוליית: פריז גברה על פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1720698.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_170526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_170526/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "גשם של שערים: 4:5 דרמטי לשטרסבורג מול מונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1720696.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_170526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_170526/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "לא כוחות: לאנס הביסה 0:4 את ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1720692.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LAYON_170526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LAYON_170526/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "מתקרבת לצ'מפיונס: 1:3 חשוב למארסיי על ראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1720694.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARSILL_170526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARSILL_170526/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "בפעם ה-5 ברציפות: פ.ס.ז` אלופת צרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1717884.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LANCE_130526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LANCE_130526/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "מתקרבת לאליפות: פ.ס.ז ניצחה 0:1 את ברסט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1715408.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG-BREST_100526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG-BREST_100526/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "פתחה פער בפסגה: פ.ס.ז' גברה 0:3 על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1705307.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_NANT_220426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_NANT_220426/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "שער חריג לדמבלה: פ.ס.ז' גברה 1:3 על טולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1694381.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "במשחק משוגע: פריס ניצחה 2:3 את לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1690397.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PARIS_220326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PARIS_220326/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "השלימה מהפך: מונאקו גברה על ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1690250.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LYON__220326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LYON__220326/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "צמודה לפסגה: לאנס גברה 0:3 על מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1684212.jpg",
+       "url": "https://api.bynetcdn.com/Redirector/sport5/NM_TAK_LENS_0803226/HLS?tn=&ts=1772990959",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://api.bynetcdn.com/Redirector/sport5/NM_TAK_LENS_0803226/HLS?tn=&ts=1772990959",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "מאבק האליפות רותח: פ.ס.ז` הפסידה למונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1683718.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_MONACO_060326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_MONACO_060326/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "מהפך אדיר: אובמיאנג הוביל את מארסיי לניצחון מול ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1682156.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARS_LYON-NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARS_LYON-NEW/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "רגע לפני ליגת האלופות: פ.ס.ז' הפסידה לראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1675079.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_REN_130226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_REN_130226/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "היסטוריה בפארק: פ.ס.ז` הביסה 0:5 את מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1672752.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_080226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_080226/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "שלושער לאנדריק: ליון חגגה עם 2:5 נגד מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1665326.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LYON_250126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LYON_250126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "פסז` ניצחה 1:2 את פריז FC בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1654879.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PARIS_0401261_176756334755/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PARIS_0401261_176756334755/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "שולץ כיכב עם צמד, ליון ניצחה 1:3 את מונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1654250.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_LYON_030126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_LYON_030126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "לה הארבר ופריס נפרדו בתיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1641645.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PARIS_071225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PARIS_071225/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      },
+      {
+       "name": "אוקזר גברה 1:3 על מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1641642.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OKSAR_071225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OKSAR_071225/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2025/26"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2024/25",
+     "channels": [
+      {
+       "name": "שטרסבורג גברה 1:2 על פ.ס.ז' רגע לפני גומלין חצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1548538.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_STRA_PSG_030525/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_STRA_PSG_030525/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "נגיעה מהיסטוריה: 1:2 לפ.ס.ז` על לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1543284.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_190425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_190425/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "בפעם ה-4 ברצף: פ.ס.ז' אלופת צרפת אחרי ניצחון על אנז'ה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1536076.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_050425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_050425/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "הפער גדל: 1:3 לפריז על מארסיי בלה קלאסיק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1528419.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_PARIS_170325/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_PARIS_170325/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "שער ענק לבארקולה, 1:2 דרמטי לפ.ס.ז` נגד לאנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1500817.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_180125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_180125/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "בדקה ה-92: פריז זכתה בסופר קאפ הצרפתי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1493876.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SUPERCUP_050125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SUPERCUP_050125/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "קטן וחשוב: טולוז גברה 0:1 על לאנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1493928.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LENS_050125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LENS_050125/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "צעירה ותוססת: 1:3 לשטרסבורג על אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1493924.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_STRASBURG_050125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_STRASBURG_050125/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "ז'גרובה הכריע: ליל גברה 0:1 על רן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1475857.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_LILLE_REN_241124_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_LILLE_REN_241124_1/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "שער ובישול לקאסימיר, לה האבר גברה על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1475860.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NANTES_241124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NANTES_241124/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "בדקה ה-93: אוקזר ניצחה את אנז'ה משער דרמטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1475864.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AUXZER_241124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AUXZER_241124/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "בדקה ה-96: ניס כפתה 2:2 מול ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1471140.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NICE_101124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NICE_101124/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "יצאה בזול: פ.ס.ז' ניצחה 0:3 את מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1464971.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_271024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_271024/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "פשוט מטורף: 2:3 למארסיי בליון בדקה ה-95",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1452153.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIYON_220924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIYON_220924/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "חזק בצמרת: 1:3 למונאקו על לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1452098.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MONACO_220924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MONACO_220924/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "חלוקת נקודות: אנז'ה ונאנט נפרדו עם 1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1452090.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NANTES_220924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NANTES_220924/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "צמד לדמבלה: פ.ס.ז' גברה 1:3 על ברסט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1448585.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_140924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_140924/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "מושלמת: פ.ס.ז' גברה 1:3 על ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1443867.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_010924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_010924/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "במשחק קצבי: מארסיי וריימס נפרדו ב-2:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1441016.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARSILL_25024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARSILL_25024/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      },
+      {
+       "name": "חלוקת נקודות: ניס וטולוז נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1440763.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NICE_250824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NICE_250824/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2024/25"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20",
+     "channels": [
+      {
+       "name": "מונפלייה גברה 0:2 על לה האבר ועלתה למקום ה-12",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1375737.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAVRE_310324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAVRE_310324/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "בדקה ה-85: ברסט ניצחה את לוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1375736.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BREST_310324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BREST_310324/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "שלושער לאמבפה: פריס הביסה 2:6 את מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1372015.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AF_MAN_FINAL_170324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AF_MAN_FINAL_170324/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "צמד לאמגהה: 1:3 לשטרסבורג על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1371599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHTRAZBURG_160324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHTRAZBURG_160324/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "מונאקו גברה 2:3 על לאנס בתום משחק משוגע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1364560.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lens_monako_250224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lens_monako_250224/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "טולוז גברה 1:3 על ליל והתרחקה מהקו האדום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1364559.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TOUL_LILLE_250224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TOUL_LILLE_250224/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "בקושי: פנדל בדקה ה-90 קבע 1:1 בין פ.ס.ז' לראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1364619.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_250224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_250224/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "בורחת לליגה: פ.ס.ז' גברה 1:3 על ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1359345.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_100224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_100224/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "קאמבק: ברסט חזרה מפיגור שני שערים  נגד פ.ס.ז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1354241.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_psg_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_psg_280124/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "מספרת אדירה של איו, 3:3 בין לוריין ללה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1353997.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LORIENT_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LORIENT_280124/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "צמד לאמבפה: פריז ניצחה 1:3 את מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1340246.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SOF_PSG_211223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SOF_PSG_211223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "בדקה ה-93: פ.ס.ז' נעצרה עם 1:1 אצל ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1339400.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_171223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_171223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "הרביעי ברצף: 1:2 למארסיי על קלרמון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1339292.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARLLIS_171223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARLLIS_171223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "חזרה לקצב: לאנס ניצחה 0:2 את ריימס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1339049.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lans_reims_161223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lans_reims_161223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "מבול של שערים: לה האבר ניצחה 3:1 את ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1339054.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_nice_161223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_nice_161223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "לקאזט חגג שלושער: ליון הביסה 0:3 את טולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1337400.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LYON_101223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LYON_101223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "בדקה ה-96: שטרסבורג ניצחה 1:2 את לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1337387.jpg",
+       "url": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/7/1337387.jpg&useAkamai=true",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/7/1337387.jpg&useAkamai=true",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "חמישית בטבלה: ברסט ניצחה את מץ 0:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1337377.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GOLIM_METS_BREST_101223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GOLIM_METS_BREST_101223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "נצמדה לפ.ס.ז': 1:2 למונאקו על ראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1337134.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAN_MONACO_091223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAN_MONACO_091223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      },
+      {
+       "name": "היא חמה: פ.ס.ז' המשיכה לנצח עם 1:2 על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1337234.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_091223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_091223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2022/23",
+     "channels": [
+      {
+       "name": "עוד צלחת לאוסף: מסי כבש, פ.ס.ז' זכתה באליפות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1293834.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_FULL_270523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_FULL_270523/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "בסטייל: לאנס הביסה ועלתה לליגת האלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1293898.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LANS_AJACCIO_270523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LANS_AJACCIO_270523/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "צמד של אמבפה קירב את פ.ס.ז' לאליפות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1292444.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_220523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_220523/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "משחק העונות: ליון חזרה מ-4:1 ל-4:5 בדקה ה-100",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1288385.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LYON_050723/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LYON_050723/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "לא מוותרת על האליפות: 1:2 למארסיי על אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1286498.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARSEILE_VS_AUXERE/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARSEILE_VS_AUXERE/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "שער מתוחכם של אמבפה לא מנע מפ.ס.ז' השפלה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1286410.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_300423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_300423/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "אמבפה כיכב עם צמד, פ.ס.ז' גברה על אנז'ה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1284373.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_210423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_210423/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "נראית רע: פ.ס.ז' שוב הפסידה בבית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1279590.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_020423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_020423/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "שוב לא שקט: פ.ס.ז' הפסידה 2:0 לראן בבית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1276134.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG75_190323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG75_190323/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "2:4 מותח לפ.ס.ז', אמבפה עשה היסטוריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1271945.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_040323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_040323/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "מסי ואמבפה נצצו: 0:3 גדול לפ.ס.ז' במשחק העונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1270310.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_260223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_260223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "בדקה ה-95: מסי העניק 3:4 על ליל, צמד לאמבפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1268327.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_190223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_190223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "שער נהדר למסי ב-1:2 של פ.ס.ז' על טולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1263197.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_040223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_040223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "גפ אמבפה לא הושיע: פ.ס.ז ספגה 1:0 מראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1257381.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG75_150123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG75_150123/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "ילד פלא: צמד לבן סגיר בניצחון מונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1252351.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ben_segir/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ben_segir/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "קר רוח: אמבפה העניק לפ.ס.ז' ניצחון בדקה ה-96",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1252347.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_281222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_281222/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "נתראה בקטאר: פ.ס.ז' פירקה 0:5 את אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1239608.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PSG_AUXERRE_131122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PSG_AUXERRE_131122/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "ורטו כבש, מארסיי ניצחה 0:1 את ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1237758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_END_LYON_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_END_LYON_NEW/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "שער ובישול לניימאר בניצחון פ.ס.ז' על לוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1237581.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_061122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_061122/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      },
+      {
+       "name": "מסי כבש שער אדיר והוסיף בישול גאוני לניימאר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1235265.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_291022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_291022/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2022/23"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2021/22",
+     "channels": [
+      {
+       "name": "יום חגו: שלושער לאמבפה ב-0:5 של פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1195660.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/G9BqD1KGdE/App/VTR_TAK_PSG_210522_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/G9BqD1KGdE/App/VTR_TAK_PSG_210522_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "ניימאר כבש, אך פ.ס.ז' איבדה יתרון כפול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1192293.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/w6TKhE2Gh6/App/NM_TAK_PSG_080522_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/w6TKhE2Gh6/App/NM_TAK_PSG_080522_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "מסי כבש שער אדיר, פ.ס.ז' הבטיחה זכיה באליפות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1188154.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/wDRchixs8M/App/TAK_PSG_230422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/wDRchixs8M/App/TAK_PSG_230422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "1:2 לפ.ס.ז' על מארסיי בסופו של קלאסיק סוער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1186583.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/MjxvAqmy5o/App/NM_TAK_PSG_170422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/MjxvAqmy5o/App/NM_TAK_PSG_170422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "פיאסקו: אוהדים פרצו למגרש, נאנט - ברסט הופסק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1184505.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/564Zf3EpxG/App/FIASCO_BREST_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/564Zf3EpxG/App/FIASCO_BREST_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "שלושער נהדר לאמבפה וניימאר, 3 בישולים למסי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1184342.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/UAE34fe6UP/App/NM_VTR_TAK_PSG_090422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/UAE34fe6UP/App/NM_VTR_TAK_PSG_090422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "אמבפה להט, מסי כבש: פ.ס.ז' הביסה את לוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1182723.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/Efyo6jHXOH/App/NM_VTR_TAK_PSG_030422X_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/Efyo6jHXOH/App/NM_VTR_TAK_PSG_030422X_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "מסי בישל בגאונות, צמד לאמבפה בחגיגה של פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1172951.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/wftTqxwxqk/App/NM_TAK_PSG_260222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/wftTqxwxqk/App/NM_TAK_PSG_260222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "נאנט היממה 1:3 את פריז סן ז'רמן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1169942.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/nS8IQDY7RZ/App/NM_TAK_PSG_190222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/nS8IQDY7RZ/App/NM_TAK_PSG_190222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "משחקו הטוב בצרפת: מסי כיכב ב-1:5 של פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1166187.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/HXbGfXcmRf/App/NM_VTR_TAK_PSG_060222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/HXbGfXcmRf/App/NM_VTR_TAK_PSG_060222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "שער בכורה לראמוס ב-0:4 של פ.ס.ז' על ריימס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1162417.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/o7abHiTws6/App/NM_VTR_TAK_PSG_230122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/o7abHiTws6/App/NM_VTR_TAK_PSG_230122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "גיים, סט, מאצ': ראן הביסה 0:6 את בורדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1160351.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/fujEoIR0Uk/App/TAK_REENS_BORDEAUX_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/fujEoIR0Uk/App/TAK_REENS_BORDEAUX_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "מסתדר בלעדיהם: אמבפה סחף את פ.ס.ז' לניצחון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1160205.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/SlvQ0rG5lo/App/NM_VTR_PSG_150121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/SlvQ0rG5lo/App/NM_VTR_PSG_150121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "ממשיכה לא להרשים: רק 1:1 לפ.ס.ז' מול ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1158405.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/yrJr46CRh3/App/NM_TAK_PSG_090122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/yrJr46CRh3/App/NM_TAK_PSG_090122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "איקרדי הציל את פ.ס.ז' בדקה ה-91, ראמוס הורחק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1153602.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/dZEISf2jAT/App/NM_VTR_TAK_PSG_221221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/dZEISf2jAT/App/NM_VTR_TAK_PSG_221221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "נער המאה: אמבפה חגג על מונאקו עם צמד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1150736.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/0rTMWOpzW3/App/NM_VTR_TAK_PSG_121221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/0rTMWOpzW3/App/NM_VTR_TAK_PSG_121221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "שער העונה? מספרת מופלאה בניצחון מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1150632.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/vzf5Q45hvb/App/NM_VTR_MARSSEI_STRASBURG_121221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/vzf5Q45hvb/App/NM_VTR_MARSSEI_STRASBURG_121221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "3 בישולים למסי: פ.ס.ז' ניצחה 1:3 את סט. אטיין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1146352.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/4QWqbyZefE/App/NM_TAK_PSG_ETTIENE_281121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/4QWqbyZefE/App/NM_TAK_PSG_ETTIENE_281121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "מסי כבש שער בכורה בליגה, 1:3 לפ.ס.ז' על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1144140.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/o6I6iTnKYK/App/TAK_PSG_201121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/o6I6iTnKYK/App/TAK_PSG_201121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      },
+      {
+       "name": "היה כיף: 2:2 קיצבי בין מונאקו וליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1143996.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/R2vMqty1qb/App/TAK_MONACO_VS_LILLE_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/R2vMqty1qb/App/TAK_MONACO_VS_LILLE_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2021/22"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2020/21",
+     "channels": [
+      {
+       "name": "אמבפה נצץ, פ.ס.ז' ניצחה 2:4 את שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1120938.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ZgHDlilH61/App/NM_TAK_PSG_STRASBURG_140821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ZgHDlilH61/App/NM_TAK_PSG_STRASBURG_140821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "ההצגה של ליאו מסי בפארק דה פראנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1120896.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/BBuYbxxxg5/App/NM_MESSI_PRESENTATION_140821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/BBuYbxxxg5/App/NM_MESSI_PRESENTATION_140821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "ככה נראת אלופה? ליל הובסה 4:0 בביתה מול ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1120869.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/bEZyzR1E0E/App/NM_TAK_LILL_NICE_140821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/bEZyzR1E0E/App/NM_TAK_LILL_NICE_140821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "לאחר עשור: ליל הדהימה את צרפת וזכתה באליפות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1099606.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/YTuu3rJfMz/App/NM_VTR_TAK_LIL_230521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/YTuu3rJfMz/App/NM_VTR_TAK_LIL_230521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "לא עזר להם: פ.ס.ז' ניצחו 0:2 וסיימו במקום השני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1099613.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/W1PnYcJ1ap/App/NM_VTR_TAK_PSG_230521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/W1PnYcJ1ap/App/NM_VTR_TAK_PSG_230521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "עדיין במאבק: פ.ס.ז' הביסה 0:4 את ריימס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1097977.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/y600d0JBg3/App/NM_TAK_PSG_160521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/y600d0JBg3/App/NM_TAK_PSG_160521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "מעדה תחת הלחץ: 0:0 לליל מול סנט אטיין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1097979.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/1V5C7a5CGg/App/TAK_LILLE_160521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/1V5C7a5CGg/App/TAK_LILLE_160521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "מתקרבת לאליפות: ליל גברה 0:2 על ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1094325.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/ZeqEmlNkjy/App/frenchtak_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/ZeqEmlNkjy/App/frenchtak_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "הפעילה לחץ בפסגה: 1:2 לפ.ס.ז' על לאנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1094247.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/LtKchWxqow/App/TAK_PSG_010521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/LtKchWxqow/App/TAK_PSG_010521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "זמנית בפסגה: צמד נהדר לאמבפה ב-1:3 של פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1092369.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/9HBt6pcoRc/App/TAK_PRAIS_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/9HBt6pcoRc/App/TAK_PRAIS_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "2:4 נהדר לפ.ס.ז' על ליון, צמד לאמבפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1084269.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/ne8oBakVWT/App/TAK_PSJ_210321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/ne8oBakVWT/App/TAK_PSJ_210321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "דרמה מאוחרת: ליון השוותה בדקה ה-92",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1081571.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/EZ7h73Ekk1/App/TAK_REIMS_VS_LYON_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/EZ7h73Ekk1/App/TAK_REIMS_VS_LYON_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "אמבפה חגג עם צמד, 0:4 לפ.ס.ז' על דיז'ון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1078152.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/NeGL6sIA8c/App/tak_psg_270221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/NeGL6sIA8c/App/tak_psg_270221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "הפסגה בורחת: פ.ס.ז' הופתעה בבית ע\"י מונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1076752.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/qWiEodvOO4/App/NM_PSG_MON_210221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/qWiEodvOO4/App/NM_PSG_MON_210221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "בישול ענק לאיקרדי ב-1:2 של פ.ס.ז' על ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1074351.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/a93IC5jyEK/App/TAK_PSG_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/a93IC5jyEK/App/TAK_PSG_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "דרמה גדולה: הפועל ת\"א חילצה נקודה בדקה ה-97",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1072798.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/dtZjXUZks1/App/NM_VTR_HADERA_070221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/dtZjXUZks1/App/NM_VTR_HADERA_070221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "מזווית בלתי אפשרית: השער המרהיב של ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1070750.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/fJ63VGHX74/App/TAK_OL_BORDO_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/fJ63VGHX74/App/TAK_OL_BORDO_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "בישול גדול לאמבפה בחגיגה של פ.ס.ז' על ברסט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1066309.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/6GHWnuEYiQ/App/NM_TAK_PSG_BREST_090121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/6GHWnuEYiQ/App/NM_TAK_PSG_BREST_090121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "בבכורה של פוצ'טינו: רק 1:1 לפ.ס.ז' מול סנט אטיין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1065680.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/Uj3hyQeMdg/App/NM_TAK_PSG_060121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/Uj3hyQeMdg/App/NM_TAK_PSG_060121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      },
+      {
+       "name": "נראה רע: ניימאר נפצע ופונה, פ.ס.ז' הפסידה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1059950.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/kIDtmcW3EG/App/NM_VTR_TAK_PSG_131220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/kIDtmcW3EG/App/NM_VTR_TAK_PSG_131220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2020/21"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2019/20",
+     "channels": [
+      {
+       "name": "משחק הצגה: 3:4 אדיר לפ.ס.ז' על בורדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/999927.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/Aws7RcsIP6/App/NM_VTR_TAK_PSG_NEW_230220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/Aws7RcsIP6/App/NM_VTR_TAK_PSG_NEW_230220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "לפנתאון: 4:4 מטורף בין אמיין לפ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/997904.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/gU6jM2M3xS/App/NM_VTR_TAK_PSG_15022_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/gU6jM2M3xS/App/NM_VTR_TAK_PSG_15022_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "פ.ס.ז' נהנתה משער ביזארי בדרך ל-2:4 על ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/996603.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/kFjuHqPWbR/App/NM_VTR_TAK_PSG_090220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/kFjuHqPWbR/App/NM_VTR_TAK_PSG_090220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "נהנתה מכל רגע: פ.ס.ז' מחצה 0:5 את מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/994359.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/KFSQeIQGwk/App/NM_VTR_TAK_PSG_NEW_010220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/KFSQeIQGwk/App/NM_VTR_TAK_PSG_NEW_010220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "מונאקו הפסידה בביתה 3:1 לשטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/992422.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/cjUSxgMXnR/App/NM_VTR_TAK_MONACO_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/cjUSxgMXnR/App/NM_VTR_TAK_MONACO_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "נגמר בתבוסה: 1:4 לפ.ס.ז' על מונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/989906.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/9XCtZFGMD8/App/NM_TAK_PSG_150120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/9XCtZFGMD8/App/NM_TAK_PSG_150120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "דולקת אחרי פ.ס.ז': מארסיי ניצחה 0:1 את ראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/988440.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/Y7y8s1Hp3C/App/NM_VTR_RANNE_MARSSEILLIE_100120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/Y7y8s1Hp3C/App/NM_VTR_RANNE_MARSSEILLIE_100120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "אמבפה חגג יום הולדת עם צמד, פ.ס.ז' הביסה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/983323.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/MWan0BYAKx/App/NM_VTR_TAK_PSG_211219_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/MWan0BYAKx/App/NM_VTR_TAK_PSG_211219_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "מעדה: רק 1:1 למארסיי מול מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/981310.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/KkSypV38Ez/App/NM_VTR_TAK_MARSEILE_141219_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/KkSypV38Ez/App/NM_VTR_TAK_MARSEILE_141219_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "מארסיי שמרה על המקום השני בזכות שער מרהיב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/977370.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/lvYm6YSlUa/App/NM_VTR_TAK_MARSIEILE_291119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/lvYm6YSlUa/App/NM_VTR_TAK_MARSIEILE_291119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "2 אדומים ו-3 שערים: ליון גברה על ניס במשחק סוער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/975819.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/vu5GwhoD8q/App/NM_VTR_TAK_LYON_231119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/vu5GwhoD8q/App/NM_VTR_TAK_LYON_231119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "ניימאר חזר, פ.ס.ז' המשיכה בדהירה מול ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/975656.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/gAE8C5QXXw/App/NM_VTR_PSG_LILLE_221119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/gAE8C5QXXw/App/NM_VTR_PSG_LILLE_221119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "איש השעה: איקרדי סידר לפ.ס.ז' 1:2 דרמטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/972437.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/BcEL3TBEQN/App/NM_VTR_TAK_PS1G_091119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/BcEL3TBEQN/App/NM_VTR_TAK_PS1G_091119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "פ.ס.ז' ספגה הפסד מפתיע מול האחרונה בטבלה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/970441.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/bUP7oX8nX7/App/NM_VTR_TAK_PSG_011119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/bUP7oX8nX7/App/NM_VTR_TAK_PSG_011119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "מתאוששת: שטרסבורג ניצחה 0:1 את מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/963500.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/0X768Nbxkm/App/NM_VTR_TAK_STRASBOURG290919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/0X768Nbxkm/App/NM_VTR_TAK_STRASBOURG290919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "אמבפה חזר ובישל לניימאר, 0:1 לפ.ס.ז' בבורדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/963224.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7pl6x2tMbj/App/NM_VTR_TAK_1PSG_280919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7pl6x2tMbj/App/NM_VTR_TAK_1PSG_280919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "ראיקוביץ' עצר את ניימאר, ריימס הדהימה בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/962637.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/nCiK4TmCbY/App/NM_VTR_TAK_PSG_250919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/nCiK4TmCbY/App/NM_VTR_TAK_PSG_250919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "נינגה כבש שלושער ב-1:4 של אנז'ה על סנט אטיין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/961970.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/5Ji20B5FK3/App/NM_TAK_Angers_SCO_AS_Saint_Etienne230919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/5Ji20B5FK3/App/NM_TAK_Angers_SCO_AS_Saint_Etienne230919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "שער מבריק של ניימאר העניק 0:1 יקר לפ.ס.ז' אצל ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/961845.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/BoQTkBWDtd/App/NM_VTR_TAK_PSG_220919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/BoQTkBWDtd/App/NM_VTR_TAK_PSG_220919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      },
+      {
+       "name": "ניס ניצחה 1:2 את דיז'ון ועלתה למקום ה-2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/961542.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/49bR5Z7WrQ/App/NM_VTR_NISSE_DIJONNETXX_210919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/49bR5Z7WrQ/App/NM_VTR_NISSE_DIJONNETXX_210919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2019/20"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2018/19",
+     "channels": [
+      {
+       "name": "שני למסי: רק שער לאמבפה בהפסד פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/934856.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/94/c9/94c9eb5f-f295-4953-ae2e-e646ba0444ba/250520190012_vo_tak_reims_psg_240519_,55,80,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/94/c9/94c9eb5f-f295-4953-ae2e-e646ba0444ba/250520190012_vo_tak_reims_psg_240519_,55,80,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "סגרה עונה: פ.ס.ז' חגגה אליפות עם 0:4 קליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/933423.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0f/7f/0f7fef6a-e4d7-4d5e-9e42-9f47c8281304/NM_VTR_TAK_PSG_180519_,110,35,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0f/7f/0f7fef6a-e4d7-4d5e-9e42-9f47c8281304/NM_VTR_TAK_PSG_180519_,110,35,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "המופע של ממפיס: ליון שריינה מקום באלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/933422.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/42/02/42025786-a5ef-4710-a4fd-aced3d1e596c/NM_VTR_TAK_LYON_180519_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/42/02/42025786-a5ef-4710-a4fd-aced3d1e596c/NM_VTR_TAK_LYON_180519_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "שער ובישול לניימאר בניצחון פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/931575.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d0/7c/d07cf69c-6f85-432f-8529-2cdf9847e072/NM_VTR_TAK_PSG_110519_,55,35,80,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d0/7c/d07cf69c-6f85-432f-8529-2cdf9847e072/NM_VTR_TAK_PSG_110519_,55,35,80,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "בסכנה ממשית: מונאקו הפסידה לנים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/931653.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d3/bd/d3bd723e-19b9-4f88-9bde-89b189b776a9/NM_VTR_TAK_MONACO_110519_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d3/bd/d3bd723e-19b9-4f88-9bde-89b189b776a9/NM_VTR_TAK_MONACO_110519_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "פ.ס.ז' חגגה אליפות עם שלושער של אמבפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/927310.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c2/e9/c2e99acb-f2a4-4a96-9637-e79971f28299/220420190012_nm_vtr_tak_psg_210419_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c2/e9/c2e99acb-f2a4-4a96-9637-e79971f28299/220420190012_nm_vtr_tak_psg_210419_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "ניצחון היה מעניק אליפות, אך פ.ס.ז' מעדה בבית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/924227.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/72/dd/72dd6d90-ba77-4c06-befc-2d19a5c7935f/080420190012_nm_vtr_tak_psg_070419_,35,55,160,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/72/dd/72dd6d90-ba77-4c06-befc-2d19a5c7935f/080420190012_nm_vtr_tak_psg_070419_,35,55,160,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "אמבפה נותר המום: צפו בהחמצה הנדירה של פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/924206.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5c/d8/5cd8be6d-4d26-40a8-9d5f-4f964dc3a76a/070420192210_vo_miss_psg_070419_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5c/d8/5cd8be6d-4d26-40a8-9d5f-4f964dc3a76a/070420192210_vo_miss_psg_070419_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "ליון הפסידה לדיז'ון, הקהל נטש במחאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/923870.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ab/46/ab46bbda-5e1b-4d75-bf11-2c36501c3d8f/060420192008_nm_vtr_tak_lyon_060419_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ab/46/ab46bbda-5e1b-4d75-bf11-2c36501c3d8f/060420192008_nm_vtr_tak_lyon_060419_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "לוהט: אמבפה סידר לפ.ס.ז' 1:2 דרמטי על קון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/914993.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/62/9e/629e3751-12dc-44b6-8acb-b6dd01a98243/020320191907_nm_tak_psg_kon_020319_,160,35,110,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/62/9e/629e3751-12dc-44b6-8acb-b6dd01a98243/020320191907_nm_tak_psg_kon_020319_,160,35,110,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "הילד לא עוצר: צמד לאמבפה ב-0:3 של פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/913302.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/db/98/db9875f8-9744-429a-bfc4-0404efb24ddc/NM_VTR_TAK_PSG_230219_,110,55,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/db/98/db9875f8-9744-429a-bfc4-0404efb24ddc/NM_VTR_TAK_PSG_230219_,110,55,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "עוד הצגה: 1:5 נהדר לפ.ס.ז' על מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/912671.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e2/d2/e2d28abc-2eec-47d1-96fa-bca13d61c0e0/210220190012_nm_vtr_tak_psg_200219_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e2/d2/e2d28abc-2eec-47d1-96fa-bca13d61c0e0/210220190012_nm_vtr_tak_psg_200219_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "מצא בית? באלוטלי שוב כיכב בניצחון מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/910594.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/78/37/783713e6-e2d4-4e39-857a-84f8dde7a6cf/160220192008_n_vtr_tak_marci_160219_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/78/37/783713e6-e2d4-4e39-857a-84f8dde7a6cf/160220192008_n_vtr_tak_marci_160219_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "נעצרה בליון: הפסד ליגה ראשון לפ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/906505.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fb/bc/fbbc5281-43de-4729-9ee7-c30e1c3e543c/NM_VTR_TAK_GOALS_PSG_LYON_030219_,160,35,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fb/bc/fbbc5281-43de-4729-9ee7-c30e1c3e543c/NM_VTR_TAK_GOALS_PSG_LYON_030219_,160,35,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "לוהטים: הצגה של ליל ופפה מול ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/905907.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/46/cb/46cbc354-1ffc-417a-bbbf-5fa35e688b94/010220192311_nm_tak_lille_nice_010219_,110,160,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/46/cb/46cbc354-1ffc-417a-bbbf-5fa35e688b94/010220192311_nm_tak_lille_nice_010219_,110,160,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "בלי רחמים: פ.ס.ז' התפוצצה עם 0:9 על גנגאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/902557.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ef/7f/ef7fcc24-d4c1-4c80-91d1-a5dc3808a732/190120192008_nm_vtr_tak_psg_190119_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ef/7f/ef7fcc24-d4c1-4c80-91d1-a5dc3808a732/190120192008_nm_vtr_tak_psg_190119_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "בכורה לפברגאס ב-1:1 של מונאקו מול מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/901121.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/87/66/8766d8c1-d006-4c53-9754-8f1d006b8556/130120192311_nm_vtr_monaco_130119_,55,160,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/87/66/8766d8c1-d006-4c53-9754-8f1d006b8556/130120192311_nm_vtr_monaco_130119_,55,160,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "קבאני חילץ את פ.ס.ז' מהפסד ליגה ראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/884714.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5c/5f/5c5faa0e-3abf-44eb-9f8c-58c2b3ebab1f/061220180012_nm_vtr_tak_strsburg_vs_psg_051218_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5c/5f/5c5faa0e-3abf-44eb-9f8c-58c2b3ebab1f/061220180012_nm_vtr_tak_strsburg_vs_psg_051218_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "שער נהדר של קבאני סידר לפ.ס.ז' ניצחון 14 רצוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/878743.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/17/b3/17b30618-7edb-4155-bcbf-3aa346ff8634/241120181907_nm_vtr_tak_psg_241118_,110,55,80,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/17/b3/17b30618-7edb-4155-bcbf-3aa346ff8634/241120181907_nm_vtr_tak_psg_241118_,110,55,80,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      },
+      {
+       "name": "שלושער לקבאני ב-0:4 של פ.ס.ז' על מונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/875998.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a0/ca/a0ca30c3-0f55-4262-9200-e5e63004dc3e/121120180101_nm_vtr_tak_monaco_psg_new_2_111118_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a0/ca/a0ca30c3-0f55-4262-9200-e5e63004dc3e/121120180101_nm_vtr_tak_monaco_psg_new_2_111118_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2018/19"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2017/18",
+     "channels": [
+      {
+       "name": "ממפיס קירב את ליון לאלופות עם 0:2 על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/820370.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f6/fe/f6fe3b45-55e7-4707-bab8-efb8ab44f621/280420181907_nm_vtr_lyon_280418_,110,35,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ההולנדי המשיך ללהוט עם שער ובישול שהעלו את קבוצתו למקום השני",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f6/fe/f6fe3b45-55e7-4707-bab8-efb8ab44f621/280420181907_nm_vtr_lyon_280418_,110,35,55,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "חגגה בענק: פ.ס.ז' אלופה אחרי 1:7 על מונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/815615.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a3/75/a375f38d-1028-4b51-a1de-d0271bc4251e/160420180012_nm_vtr_psg_150418_,80,110,55,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים הבטיחו את התואר 5 מחזורים לסיום עם הצגה אדירה מול האלופה היוצאת",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a3/75/a375f38d-1028-4b51-a1de-d0271bc4251e/160420180012_nm_vtr_psg_150418_,80,110,55,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "פלקאו הפך בשער נהדר, 1:2 למונאקו על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/808408.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/cd/b3/cdb34723-0360-4953-8c4e-25aa867236ef/070420181907_nm_vtr_tak_monaco_070418_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה של לאונרדו ז'רדים נקלעה לפיגור בדקה ה-32, אך רוני לופס והחלוץ הקלומביאני הפכו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/cd/b3/cdb34723-0360-4953-8c4e-25aa867236ef/070420181907_nm_vtr_tak_monaco_070418_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "אליפות? החמצה אדירה לקבאני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/807207.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/69/7b/697b9d01-1be3-409b-8c14-f03467ee1b79/060420182311_nm_vtr_tak_psg_060417_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פ.ס.ז' פספסה הזדמנות להתקרב לתואר עם 1:1 דרמטי בסנט אטיין",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/69/7b/697b9d01-1be3-409b-8c14-f03467ee1b79/060420182311_nm_vtr_tak_psg_060417_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "פאייט כבש,  1:3 דרמטי למארסיי בדיז'ון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/804632.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5e/4f/5e4f5086-7f15-4ae9-a158-8c0565e2cc4f/310320182008_nm_vtr_tak_marseille_310318_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הדרומיים שמרו על המקום השלישי עם ניצחון משכנע",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5e/4f/5e4f5086-7f15-4ae9-a158-8c0565e2cc4f/310320182008_nm_vtr_tak_marseille_310318_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "בדקה ה-90: 2:3 לליון במארסי במשחק אלים וסוער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/800097.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d4/81/d48151fb-83f8-436d-93ab-10a8a19510c5/190320180012_nm_tak_lyon_180318_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ממפיס כבש שער ניצחון דרמטי בזמן פציעות וסידר לקבוצתו ניצחון. בסיום החלה תגרה בין שחקני הקבוצות",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d4/81/d48151fb-83f8-436d-93ab-10a8a19510c5/190320180012_nm_tak_lyon_180318_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "צמד לאמבפה, 1:2 קשה לפ.ס.ז' על אנז'ה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/798876.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/2e/d9/2ed9f351-5cae-468a-be0f-d084fade9354/140320182008_nm_tak_psg_140318_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים פתחו פער של 17 נק' בפסגה בזכות שני שערים של החלוץ הצעיר. מוטה הורחק במחצית הראשונה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/2e/d9/2ed9f351-5cae-468a-be0f-d084fade9354/140320182008_nm_tak_psg_140318_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "הוציאה עצבים: 0:5 לפ.ס.ז' מול מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/796744.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/52/d8/52d801a0-f42b-4931-af7c-74156bb458bb/NM_VTR_TAK_PSG_METZ_NEW_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים התאוששו מההדחה באלופות עם חמישייה לרשתה של מץ",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/52/d8/52d801a0-f42b-4931-af7c-74156bb458bb/NM_VTR_TAK_PSG_METZ_NEW_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "רגע לפני ריאל: 0:2 לפ.ס.ז' מול טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/794055.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/df/94/df947a7c-5d34-49f5-ace3-f62dd7656973/030320182008_nm_vtr_goals_psg_030318_,35,160,55,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "די מריה ואנקונקו כבשו לפני המשחק הגורלי מול הבלאנקוס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/df/94/df947a7c-5d34-49f5-ace3-f62dd7656973/030320182008_nm_vtr_goals_psg_030318_,35,160,55,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "ניימאר נפצע ב-0:3 של פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/791672.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/69/bd/69bd3053-7801-4292-8d73-afce7cf4a942/260220180012_nm_tak_psg_250218_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים הביסו את מארסיי בקלאסיקו של צרפת, אך על שמחת הניצחון העיבה הפציעה של הברזילאי שירד מהדשא ממרר בבכי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/69/bd/69bd3053-7801-4292-8d73-afce7cf4a942/260220180012_nm_tak_psg_250218_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "הוציאה עצבים: 2:5 לפ.ס.ז' מול שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/787457.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b9/e1/b9e1bf3f-0244-4c2e-8a99-57c5d7494da9/170220182008_nm_vtr_psg_170218_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים התאוששו מההפסד המתסכל לריאל מדריד. צמד לקבאני",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b9/e1/b9e1bf3f-0244-4c2e-8a99-57c5d7494da9/170220182008_nm_vtr_psg_170218_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "לפני ריאל: ניימאר העניק ניצחון לפ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/785663.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a4/41/a441ae65-b71f-442f-85e9-b772abe74768/100220182008_nm_vtr_tak_psg_100218_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הברזליאי כבש את השער היחיד ב-0:1 של הפריזאים מול טולוז",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a4/41/a441ae65-b71f-442f-85e9-b772abe74768/100220182008_nm_vtr_tak_psg_100218_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "2:2 מרתק בין סנט אטיין למארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/785390.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b3/39/b339c6d1-3583-4832-bf97-0c8ca1f1511a/100220180012_f9_marseille_stetienne_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "רודי גרסיה ושחקניו איבדו פעמיים יתרון ועלולים לאבד גם את המקום השני",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b3/39/b339c6d1-3583-4832-bf97-0c8ca1f1511a/100220180012_f9_marseille_stetienne_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "שער נהדר לניימאר, 0:3 לפ.ס.ז' בליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/783608.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5c/ad/5cad3195-d465-41d7-9b93-b3d77ab6942d/030220182008_nm_tak_psg_030218_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים הגדילו את הפער בפסגה ל-11 נק' הפרש אחרי ניצחון קליל בליל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5c/ad/5cad3195-d465-41d7-9b93-b3d77ab6942d/030220182008_nm_tak_psg_030218_,55,35,160,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "3:6 משוגע למארסיי על מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/782418.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a9/7d/a97d96a1-7663-4915-b8bc-7ac29684ba7c/020220182311_nm_tak_marseille_020218_,160,35,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "טובן סיפק שלושער ובישול ושלח את רודי גרסיה למקום השני באופן זמני",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a9/7d/a97d96a1-7663-4915-b8bc-7ac29684ba7c/020220182311_nm_tak_marseille_020218_,160,35,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "בדקה ה-94: ליון השיגה 1:2 מטורף מול פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/779246.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/9b/7f/9b7f0e23-3690-4818-86be-2f76da3a9b2f/220120180012_nm_tak_lion_psg_210118_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "משחק מלהיב ניפק שלושה שערים נפלאים, הרחקה של אלבס וגול ניצחון בתוספת הזמן שצימק את הפער בפסגה ל-8 נק'",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/9b/7f/9b7f0e23-3690-4818-86be-2f76da3a9b2f/220120180012_nm_tak_lion_psg_210118_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "רביעייה לניימאר, 0:8 אדיר לפ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/775161.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/9c/e3/9ce3da54-8f5f-46f1-b9e0-b955e7178ca0/180120180012_nm_tak_psg_170118_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים התעללו בדיז'ון המסכנה. קבאני השתווה לזלאטן בראשות טבלת מלכות השערים של המועדון",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/9c/e3/9ce3da54-8f5f-46f1-b9e0-b955e7178ca0/180120180012_nm_tak_psg_170118_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "פקיר ויונסון החזירו את ליון למקום ה-2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/775125.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fd/30/fd30fb1b-3559-4708-a7d5-ffb0adcfbb51/170120182210_nm_vo_goals_lyon_170118_,110,35,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האורחים השיגו ניצחון 7 רצוף בחוץ על חשבונה של גנגאן",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fd/30/fd30fb1b-3559-4708-a7d5-ffb0adcfbb51/170120182210_nm_vo_goals_lyon_170118_,110,35,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "פלקאו כבש בתוספת הזמן, 2:2 דרמטי למונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/774954.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e9/e9/e9e90115-5a45-4827-8e5f-d5fdb6403c79/170120180012_nm_tak_nice_monaco_160118_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האלופה נחלצה מהפסד בדקה ה-92 בדרבי של הריביירה. צמד לבאלוטלי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e9/e9/e9e90115-5a45-4827-8e5f-d5fdb6403c79/170120180012_nm_tak_nice_monaco_160118_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      },
+      {
+       "name": "שער חוקי של נאנט נפסל, פ.ס.ז' ניצחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/774420.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c0/bf/c0bfd7ac-4772-44cd-88ba-71bb9aa76f23/140120182210_f9 di maria_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "די מריה סיים מהלך מושלם של הפריזאים ב-0:1 מול נאנט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c0/bf/c0bfd7ac-4772-44cd-88ba-71bb9aa76f23/140120182210_f9 di maria_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2017/18"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2016/17",
+     "channels": [
+      {
+       "name": "לראשונה אחרי 17 שנים: מונאקו אלופה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/708625.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/41/bb/41bb517c-8acb-4be2-97f3-5c55490aa0e2/180520170101_nm_tak_monaco_hanafa_170517_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אפשר לפתוח את השמפניות: אחרי 17 שנות בצורת, הקבוצה מהנסיכות ניצחה 0:2 את סנט אטיין והבטיחה את התואר",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/41/bb/41bb517c-8acb-4be2-97f3-5c55490aa0e2/180520170101_nm_tak_monaco_hanafa_170517_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "מונאקו זכתה מעשית באליפות צרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/707852.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8b/3b/8b3bfadb-c47c-468d-bc0e-3e7abaa576aa/150520170012_nm_tak_monaco_140517_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ה-0:4 על ליל קירב את ז'ארדים נקודה מהתואר, הקבוצה מהנסיכות קרובה מאד לאליפות ראשונה מזה 17 שנים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8b/3b/8b3bfadb-c47c-468d-bc0e-3e7abaa576aa/150520170012_nm_tak_monaco_140517_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "קרובה לאליפות: מונאקו ניצחה בנאנסי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/705871.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b3/af/b3af1186-da5d-4cee-bd89-e8a82b273937/070520170012_nm_monaco_060517_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "המוליכה עשתה עוד צעד גדול בדרך אל התואר כשגברה על נאנסי בחוץ",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b3/af/b3af1186-da5d-4cee-bd89-e8a82b273937/070520170012_nm_monaco_060517_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "בחסות עין הנץ: 2:2 בין בורדו לסנט אטיין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/705624.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5c/24/5c24a250-94e1-462c-9a34-978c7448b02e/050520172311_nm_tak_saint_eitenne_bordeaux_050517_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "וינסנט פאז'ו כבש שער שנהדף אחרי קו השער וקבע את תוצאת המשחק",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5c/24/5c24a250-94e1-462c-9a34-978c7448b02e/050520172311_nm_tak_saint_eitenne_bordeaux_050517_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "הוכיחה אופי: 1:3 למונאקו על טולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/704234.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/72/46/72460617-abaf-426b-8f9b-737aa39af808/290420172008_nm_tak_monaco_290417_,110,55,80,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה מהנסיכות נקלעה לפיגור מוקדם אך הצליחה לעשות מהפך גדול בדרך לניצחון חשוב במאבק על האליפות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/72/46/72460617-abaf-426b-8f9b-737aa39af808/290420172008_nm_tak_monaco_290417_,110,55,80,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "לא מוותרת: פ.ס.ז' עלתה לפסגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/702383.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e1/8a/e18a443f-7a1e-490e-ac2f-faedf114cd27/220420172008_mn_tak_psg_220417_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים עלו זמנית למקום הראשון, קבאני ודי מריה כבשו ב-0:2 על מונפלייה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/e1/8a/e18a443f-7a1e-490e-ac2f-faedf114cd27/220420172008_mn_tak_psg_220417_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "מהפך גדול למונאקו ב-1:2 על דיז'ון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/700856.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/fa/c4/fac4a677-5580-4df1-9699-279e216526a9/160420170012_nm_vtr_tak_monaco_150417_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה מהנסיכות נקלעה לפיגור מוקדם, אך שערים של דיראר (69') ופלקאו (81') העניקו 3 נקודות סופר חשובות לאדומים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/fa/c4/fac4a677-5580-4df1-9699-279e216526a9/160420170012_nm_vtr_tak_monaco_150417_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "לא מרפה: 1:3 לניס על נאנסי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/700721.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/10/a7/10a7790e-a1bc-412d-9752-260616089884/150420171907_nm_vtr_tak_nice_150417_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה מהריביירה רק נקודה מהפסגה. ז'אן מישל סרי כבש צמד, מיקאל לה ביהאן הוסיף",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/10/a7/10a7790e-a1bc-412d-9752-260616089884/150420171907_nm_vtr_tak_nice_150417_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "לפני דורטמונד: 0:1 יקר לפלקאו ומונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/699129.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/23/d3/23d3f2bb-6357-445f-aede-d30953f37c11/080420172008_nm_tak_monaco_080417_,35,55,160,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקולמביאני כבש את שערו ה-17 העונה בליגה והגדיל את הפער בפסגה ל-4 נקודות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/23/d3/23d3f2bb-6357-445f-aede-d30953f37c11/080420172008_nm_tak_monaco_080417_,35,55,160,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "שער גדול לפאייט ב-1:1 של מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/697253.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/08/96/08969c31-cbec-48ca-86e7-b2f98bc9a49e/010420172008_nm_vtr_marsei_010417_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "למרות בעיטה חופשית נהדרת של הקשר הצרפתי, הכחולים שוב איכזבו מול דיז'ון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/08/96/08969c31-cbec-48ca-86e7-b2f98bc9a49e/010420172008_nm_vtr_marsei_010417_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "1:2 דרמטי לליל ואניימה מול נאנסי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/691876.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1f/ba/1fba0bbb-8595-4180-b39c-893642e64724/110320172210_nm_vtr_tak_nance_lil_110317_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ניצחון סופר חשוב לקבוצה של פרנק פאסי שהתרחקה מהקו האדום בעוד שתי נקודות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1f/ba/1fba0bbb-8595-4180-b39c-893642e64724/110320172210_nm_vtr_tak_nance_lil_110317_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "מוכנה לסיטי: 1:2 למונאקו מול בורדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/691713.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/1a/ca1ad25c-072c-4fb7-9317-0d3cc4026f00/110320171907_nm_vtr_tak_monako_110317_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "4 ימים לפני המפגש המסקרן מול פפ גוארדיולה, הקבוצה מהנסיכות עשתה את העבודה בליגה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/1a/ca1ad25c-072c-4fb7-9317-0d3cc4026f00/110320171907_nm_vtr_tak_monako_110317_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "מוכנה לסיטי: 0:4 למונאקו על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/690382.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/4a/ca4a0be2-c853-4048-b1b8-d47e87370344/060320170012_nm_tak_monaco_nanet_050317_,35,80,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "צמד לאמבפה בהצגה של הקבוצה מהנסיכות. פער ה-3 נקודות נשמר",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/4a/ca4a0be2-c853-4048-b1b8-d47e87370344/060320170012_nm_tak_monaco_nanet_050317_,35,80,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "1:5 ענק לפ.ס.ז' על מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/688407.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/75/b075d976-ee6d-48ea-af72-56f828bd3bd7/270220170012_nm_tak_psg_marcie_260217_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מרקיניוס, קבאני, מורה, דרקסלר ומטווידי חגגו על מארסיי המתפרקת, פאני צימק למארחים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/75/b075d976-ee6d-48ea-af72-56f828bd3bd7/270220170012_nm_tak_psg_marcie_260217_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "חזרה לנצח: 1:2 למונאקו על גנגאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/687889.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/fe/41/fe41a174-7da0-4ec6-9387-566e91464966/250220172008_nm_vtr_guihamp_monaco_250217_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לאחר ההפסד מול סיטי, הקבוצה מהנסיכות התאוששה בליגה ופתחה פער של 3 נקודות בפסגה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/fe/41/fe41a174-7da0-4ec6-9387-566e91464966/250220172008_nm_vtr_guihamp_monaco_250217_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "2:3 גדול לנאנט מול מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/684269.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ac/da/acda6f91-02cb-42b9-9e66-d3802a5e8db9/120220172311_nm_tak_nant_120217_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "<SPAN style=\"FONT-SIZE: 15px; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: justify; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px\">רודי גרסיה וחבורתו ממשיכים להתנדנד ומתרחקים מהמקום המוביל לאירופה</SPAN>",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ac/da/acda6f91-02cb-42b9-9e66-d3802a5e8db9/120220172311_nm_tak_nant_120217_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "מעל כל היתר: 0:5 אדיר למונאקו על מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/683909.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/6d/c9/6dc93b42-7268-4298-a6f2-998a223e4b76/110220172311_nm_tak_monaco_110217_,110,80,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שלושער גדול למבאפה בחגיגה של הקבוצה מהנסיכות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/6d/c9/6dc93b42-7268-4298-a6f2-998a223e4b76/110220172311_nm_tak_monaco_110217_,110,80,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "תוך 4 דקות: מהפך לגנגאן מול ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/683841.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/42/ac/42ac747a-7eeb-430a-babf-75761c18cca1/110220172008_nm_tak_guingamp_110217_,110,80,160,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ליון המשיכה לאכזב ונחלה הפסד רביעי ב-ששת המשחקים האחרונים בהפסד 2:1",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/42/ac/42ac747a-7eeb-430a-babf-75761c18cca1/110220172008_nm_tak_guingamp_110217_,110,80,160,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "שערוריית שיפוט בניצחון פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/682931.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/be/78/be78fd00-a06f-4d5c-b5d8-2349adb32092/080220170012_nm_tak_psg_lion_070217_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הפריזאים כבשו שער ניצחון לא חוקי מעמדת נבדל בתוספת הזמן אך השופט אישר",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/be/78/be78fd00-a06f-4d5c-b5d8-2349adb32092/080220170012_nm_tak_psg_lion_070217_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      },
+      {
+       "name": "ממשיכה לדהור: 1:2 למונאקו על מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/682873.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3b/2b/3b2b58ea-c141-43a5-babf-438827e83811/070220172210_nm_tak_monpelie_monaco_070217_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מוליכת הליגה הצרפתית רשמה הערב ניצחון חמישי בששת המשחקים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3b/2b/3b2b58ea-c141-43a5-babf-438827e83811/070220172210_nm_tak_monpelie_monaco_070217_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2016/17"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - 2015/16",
+     "channels": [
+      {
+       "name": "3 גולים ב-10 דקות בניצחון ליון על טולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/602093.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f3/a8/f3a86767-8b52-4128-af1a-679251588625/230420162008_toulouse_tak_230416_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סיומת מטורפת סידרה לליון את המקום השני בטבלה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f3/a8/f3a86767-8b52-4128-af1a-679251588625/230420162008_toulouse_tak_230416_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "איחור אופנתי: 0:6 קליל לזלאטן ופ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/600352.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/bf/5d/bf5dcb94-76d0-4728-a9d6-8ce5cf0f11a4/160420162008_tak_psg_160416_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לאחר ההדחה מליגת האלופות, השבדי (צמד) וחבריו פירקו את קון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/bf/5d/bf5dcb94-76d0-4728-a9d6-8ce5cf0f11a4/160420162008_tak_psg_160416_,35,110,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "הביתה: כניסה גסה ואדום ישיר בצרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/600176.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4b/b7/4bb7c1f5-7c65-41bc-b47a-71fff1f563a2/150420162311_tak_lyon_internet_,110,55,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ליון סיימה ב-1:1 מול ניס, קורנט ירד למקלחת מוקדמת עם עבירה מכוערת",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4b/b7/4bb7c1f5-7c65-41bc-b47a-71fff1f563a2/150420162311_tak_lyon_internet_,110,55,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "רביעייה רצחנית לליל על מונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/597915.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/39/82/39824115-5269-45c5-83e4-4232c39a3cb3/100420161705_monako_lil_tak_100416_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה של אניימה ניצחה 1:4 את הקבוצה מהנסיכות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/39/82/39824115-5269-45c5-83e4-4232c39a3cb3/100420161705_monako_lil_tak_100416_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "עובדים גם כשנחים: 0:2 לפ.ס.ז' על גנגאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/597665.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/9d/f6/9df6aa5a-c37b-45e0-8ebe-1a3902083b09/090420162008_tak_juve_090416_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בלאן עלה בהרכב משני מול גנגאן, לוקאס כבש צמד. פריס עם הפנים קדימה לגומלין באלופות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/9d/f6/9df6aa5a-c37b-45e0-8ebe-1a3902083b09/090420162008_tak_juve_090416_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "תספרו אותה: ליון במקום ה-2 בצרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/597510.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/0a/a5/0aa59480-1a66-4e42-be95-e68cd841d731/080420162311_lyon_tak_080416_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "צמד של גנאלי קורנה סידר ללבנים 0:2 חשוב במונפלייה ומקום שני על חשבון מונאקו",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/0a/a5/0aa59480-1a66-4e42-be95-e68cd841d731/080420162311_lyon_tak_080416_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "צמד נהדר לילד שמשגע את אירופה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/596274.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/60/e4/60e49637-65e2-495b-b10b-f4635943af31/020420162311_tak_rimes_020416_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עוסמן דמבלה כיכב ב-1:3 של ראן על ריימס. תג המחיר קפץ?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/60/e4/60e49637-65e2-495b-b10b-f4635943af31/020420162311_tak_rimes_020416_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "שלושער לזלאטן, 1:4 לפ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/596159.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3a/a2/3aa25edb-aad6-48d1-9f07-aacc715c7d71/020420162008_tak_psg_040216_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "החלוץ השבדי חגג עם שלושה שערים מול ניס החלשה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3a/a2/3aa25edb-aad6-48d1-9f07-aacc715c7d71/020420162008_tak_psg_040216_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "אווירת סוף: פ.ס.ז' נכנעה 2:0 למונאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/593460.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/49/59/49596afb-a51e-42f0-b1c3-6b42754745d1/210320160012_psj_monaco_200316_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי שכבר זכתה באליפות, לפריס כנראה לא היה מה עוד להוכיח על המגרש וזה נגמר בהפסד",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/49/59/49596afb-a51e-42f0-b1c3-6b42754745d1/210320160012_psj_monaco_200316_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "עדיף מאוחר: ליון ניצחה את נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/593060.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/78/4b/784ba7fb-b251-4f65-9b3c-6f84ea734fee/200320160012_tak_leon_nant_190316_,160,110,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שערים של פראן (83) ולקאזט (94 בפנדל) סידרו ניצחון 0:2",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/78/4b/784ba7fb-b251-4f65-9b3c-6f84ea734fee/200320160012_tak_leon_nant_190316_,160,110,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "ללקק את האצבעות: 2:5 לראן על מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/592780.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/63/96/63964ce8-95b4-45c6-9534-72a52aa6c4f6/180320162311_tak_marseille_180316_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האדומים לא נבהלו מהוולודרום ועלו למקום השלישי. גורקוף הבקיע צמד, שער ענק של תובאן לא הספיק למארחת",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/63/96/63964ce8-95b4-45c6-9534-72a52aa6c4f6/180320162311_tak_marseille_180316_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "2:2 אדיר נחתם במספרת ענקית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/588495.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/81/6a/816aecce-6246-49b8-80d4-f6ec9596adb5/040320162311_tak_monaco_040316_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מונאקו וקון סיפקו הצגה, בסיומה נקבע שוויון עם בעיטת מספריים של קואקו",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/81/6a/816aecce-6246-49b8-80d4-f6ec9596adb5/040320162311_tak_monaco_040316_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "אניימה בצרות: 0:3 למונפלייה על ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/587020.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d9/21/d92146e2-be57-491e-92c4-deaf9cd790aa/270220162008_goals_lil_270216_,160,35,55,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אלופת 2012 ממשיכה לברוח מהתחתית ורשמה ניצחון רביעי בשישה משחקים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d9/21/d92146e2-be57-491e-92c4-deaf9cd790aa/270220162008_goals_lil_270216_,160,35,55,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "קטטה בסיום הניצחון של מונאקו על ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/579798.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/05/b4/05b45e34-12c5-4053-9887-5b5c0c9aa7ed/060220162008_tak_gol_monaco_new_060216_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הדרבי הדרומי נגמר ב-0:1 לעשרת שחקני הקבוצה מהנסיכות, בקאיוקו כבש את שער הניצחון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/05/b4/05b45e34-12c5-4053-9887-5b5c0c9aa7ed/060220162008_tak_gol_monaco_new_060216_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "כל גול הצגה: פ.ס.ז' פירקה את אנז'ה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/575913.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1e/ff/1eff13e3-fff9-4461-b902-1242471121f6/2301162017_tak_psg_anger_230116_,55,35,160,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "זלאטן נתן את האות להתחיל, החבורה מפריס לא ריחמה וסיפקה את אחת ההצגות הגדולות בתקופה האחרונה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1e/ff/1eff13e3-fff9-4461-b902-1242471121f6/2301162017_tak_psg_anger_230116_,55,35,160,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "ממשיכה בשלה: 0:1 לפ.ס.ז' על טולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/574339.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/7f/76/7f76009e-aaf8-4f3a-ac06-6eb664ba3191/1601162011_psg_toulouse_160116_,160,35,110,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האלופה הצרפתית השיגה את נצחונה ה-18 ב-21 מחזורים העונה. זלאטן כבש בדקה ה-73",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/7f/76/7f76009e-aaf8-4f3a-ac06-6eb664ba3191/1601162011_psg_toulouse_160116_,160,35,110,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "מתי ראיתם 2 פנדלים ב-4 דקות?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/574092.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1f/8e/1f8e5dc7-ebf8-4c4b-bf55-38a79b9df0c4/1501162331_tak_nice_angers_150116_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "חאתם בן ארפה הפך פיגור של ניס לניצחון 1:2 על אנז'ה עם שערים בדקות 80 ו-84",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1f/8e/1f8e5dc7-ebf8-4c4b-bf55-38a79b9df0c4/1501162331_tak_nice_angers_150116_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "בכל זאת, ברזילאי: שער אדיר למקסוול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/572061.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/01/0a/010a3164-ae05-4e63-b59f-d83884d567b8/0801162326_tak_psg_080116_,160,110,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מגן פאריס סן ז'רמן סיפק בעיטת יעף מושלמת לחיבורים מול באסטיה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/01/0a/010a3164-ae05-4e63-b59f-d83884d567b8/0801162326_tak_psg_080116_,160,110,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "זלאטן ודי מריה כיכבו, 0:3 לפ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/567425.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/51/9f/519fb199-6901-48d1-9ae8-157688c46628/1912152012_goals_psg_191215_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "השבדי סיפק גולאסו, הארגנטיני כבש פעמיים ואלופת צרפת חגגה מול קון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/51/9f/519fb199-6901-48d1-9ae8-157688c46628/1912152012_goals_psg_191215_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      },
+      {
+       "name": "סדרת החמצות כזו עוד לא ראיתם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/567381.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/9a/49/9a4910ff-d89c-47d7-aae9-ceda7e6b2fef/1912151847_zlatan_no1_191215_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פ.ס.ז' \"הצליחה\" לא לכבוש שוב ושוב ממטרים ספורים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/9a/49/9a4910ff-d89c-47d7-aae9-ceda7e6b2fef/1912151847_zlatan_no1_191215_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "הליגה הצרפתית - 2015/16"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 26",
+     "channels": [
+      {
+       "name": "מונפלייה גברה 0:2 על לה האבר ועלתה למקום ה-12",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1375737.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAVRE_310324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAVRE_310324/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 26"
+      },
+      {
+       "name": "בדקה ה-85: ברסט ניצחה את לוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1375736.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BREST_310324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BREST_310324/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 26"
+      },
+      {
+       "name": "שלושער לאמבפה: פריס הביסה 2:6 את מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1372015.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AF_MAN_FINAL_170324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AF_MAN_FINAL_170324/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 26"
+      },
+      {
+       "name": "צמד לאמגהה: 1:3 לשטרסבורג על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1371599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHTRAZBURG_160324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHTRAZBURG_160324/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 26"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 22",
+     "channels": [
+      {
+       "name": "מונאקו גברה 2:3 על לאנס בתום משחק משוגע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1364560.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lens_monako_250224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lens_monako_250224/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 22"
+      },
+      {
+       "name": "טולוז גברה 1:3 על ליל והתרחקה מהקו האדום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1364559.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TOUL_LILLE_250224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TOUL_LILLE_250224/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 22"
+      },
+      {
+       "name": "בקושי: פנדל בדקה ה-90 קבע 1:1 בין פ.ס.ז' לראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1364619.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_250224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_250224/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 22"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 19",
+     "channels": [
+      {
+       "name": "קאמבק: ברסט חזרה מפיגור שני שערים  נגד פ.ס.ז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1354241.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_psg_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_psg_280124/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 19"
+      },
+      {
+       "name": "מספרת אדירה של איו, 3:3 בין לוריין ללה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1353997.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LORIENT_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LORIENT_280124/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 19"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 16",
+     "channels": [
+      {
+       "name": "בדקה ה-93: פ.ס.ז' נעצרה עם 1:1 אצל ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1339400.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_171223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_171223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 16"
+      },
+      {
+       "name": "הרביעי ברצף: 1:2 למארסיי על קלרמון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1339292.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARLLIS_171223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARLLIS_171223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 16"
+      },
+      {
+       "name": "חזרה לקצב: לאנס ניצחה 0:2 את ריימס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1339049.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lans_reims_161223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_lans_reims_161223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 16"
+      },
+      {
+       "name": "מבול של שערים: לה האבר ניצחה 3:1 את ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1339054.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_nice_161223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_nice_161223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 16"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 15",
+     "channels": [
+      {
+       "name": "לקאזט חגג שלושער: ליון הביסה 0:3 את טולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1337400.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LYON_101223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LYON_101223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 15"
+      },
+      {
+       "name": "בדקה ה-96: שטרסבורג ניצחה 1:2 את לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1337387.jpg",
+       "url": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/7/1337387.jpg&useAkamai=true",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/7/1337387.jpg&useAkamai=true",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 15"
+      },
+      {
+       "name": "חמישית בטבלה: ברסט ניצחה את מץ 0:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1337377.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GOLIM_METS_BREST_101223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GOLIM_METS_BREST_101223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 15"
+      },
+      {
+       "name": "נצמדה לפ.ס.ז': 1:2 למונאקו על ראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1337134.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAN_MONACO_091223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAN_MONACO_091223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 15"
+      },
+      {
+       "name": "היא חמה: פ.ס.ז' המשיכה לנצח עם 1:2 על נאנט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1337234.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_091223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_091223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 15"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 14",
+     "channels": [
+      {
+       "name": "אדום לדונארומה: פריז ניצחה 0:2 את לה האבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1335633.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 14"
+      },
+      {
+       "name": "דרמה בסיום: טולוז ולוריין נפרדו ב1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1335688.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TULUZ_031223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TULUZ_031223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 14"
+      },
+      {
+       "name": "מונאקו ניצחה 0:2 את מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1335694.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_031223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_031223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 14"
+      },
+      {
+       "name": "ללא תנאי: ברסט הביסה 0:3 את קלרמון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1335695.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BREST_031223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BREST_031223/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 14"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 13",
+     "channels": [
+      {
+       "name": "מגיעה מוכנה לחיפה: ראן ניצחה 3:1 את ריימס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1334008.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RANN_261123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RANN_261123/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 13"
+      },
+      {
+       "name": "כל שער בצבע: ברסט  ניצחה 3:1 את מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1334001.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONPALIA_261123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONPALIA_261123/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 13"
+      },
+      {
+       "name": "מבול של שערים: מץ ניצחה 3:2 את לוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1334009.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_METZ_261123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_METZ_261123/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 13"
+      },
+      {
+       "name": "עלתה למקום השני: ניס ניצחה 0:1 את טולוז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1334006.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NICE_TOUL_261123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NICE_TOUL_261123/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 13"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש",
+     "channels": [
+      {
+       "name": "חגגה על מונאקו: ליל ניצחה את מונקו 0:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1327858.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_29100023/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_29100023/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "שמר על עצמה:מונפליה הביסה את טולוז 0:3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1327859.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONPILLIA_291023/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONPILLIA_291023/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "חזרה לנצח ובגדול: לאנס הביסה את נאנט 0:4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1327693.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_LENS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_LENS/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "מטפסת בטבלה: ריימס גברה 0:1 על לוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1327680.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REIMS_281023/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REIMS_281023/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 7",
+     "channels": [
+      {
+       "name": "שוב מעדה: פ.ס.ז' וקלרמון נפרדו בתיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1322281.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_300923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_300923/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 7"
+      },
+      {
+       "name": "אוויר פסגות: מונאקו גברה  2:3 על מארסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1322399.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MON_MAR_300923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MON_MAR_300923/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 7"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש",
+     "channels": [
+      {
+       "name": "טירוף: 2:2 בין מונאקו ללוריין אחרי שער בדקה ה-96",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1319010.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_170923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONACO_170923/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "מהפך: ברסט הפכה נגד ריימס ונצמדה למקום הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1319043.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BREST_170923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BREST_170923/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "ניצחון בכורה: נאנט גברה 0:1 על קלרמון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1319045.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NENNT_170923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NENNT_170923/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "חגיגת שערים: 2:2 בין מונפלייה לשטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1319044.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONPLLIE_170923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONPLLIE_170923/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "צמד של אמבפה לא הספיק: פריז ספגה 3:2 מניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1318806.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG-NICE_new_150623_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG-NICE_new_150623_1/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "לפני חיפה: ראן חילצה תיקו 2:2 מול ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1318901.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAN_LIL_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAN_LIL_2/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      },
+      {
+       "name": "הסגנית בתחתית: לאנס הפסידה 1:0 למץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1318941.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_METZ_LENS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_METZ_LENS/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מסמך חדש"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 4",
+     "channels": [
+      {
+       "name": "צמד לאמבפה, 1:4 לפ.ס.ז' על ליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1316156.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_PARIS_030923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_PARIS_030923/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 4"
+      },
+      {
+       "name": "נשארה מושלמת: מונקו הביסה את לאנס 3:0",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1315821.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MON_LANC/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MON_LANC/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 4"
+      },
+      {
+       "name": "משחק מותח:ברסט וראן נפרדו בתיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1315823.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BREST_020923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BREST_020923/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 4"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 3",
+     "channels": [
+      {
+       "name": "ראן ולה האבר נפרדו בתיקו 2:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1314290.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RENNES_HAVRE_270823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RENNES_HAVRE_270823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 3"
+      },
+      {
+       "name": "טעות קשה שהוביל לגול  של מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1314288.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CLERMONT_270823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CLERMONT_270823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 3"
+      },
+      {
+       "name": "טולוז מנצחת את שסטבורג 2:0",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1314287.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_STRASBOURG_270823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_STRASBOURG_270823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 3"
+      },
+      {
+       "name": "ריימס הביסה את מונפליה 3:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1314280.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONTPELLIER_270823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MONTPELLIER_270823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 3"
+      },
+      {
+       "name": "לורן אברג'יל כבש: לוריין הביסה את ליל 1:4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1314243.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LILLE_270823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LILLE_270823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 3"
+      },
+      {
+       "name": "מארסיי ניצחה 0:2 את ברסט, אמבמבה וסאר כבשו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1313978.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OM_BREST_260823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OM_BREST_260823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 3"
+      },
+      {
+       "name": "צמד לאמבפה: פ.ס.ז' עם ניצחון ראשון בליגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1313975.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/VO_TAK_PSG_260823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/VO_TAK_PSG_260823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 3"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 2",
+     "channels": [
+      {
+       "name": "הסגנית מאבדת גובה: גול מטורף מחוץ לרחבה ב-1:1 בין לאנס לראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1312502.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SOF_LANS_200823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SOF_LANS_200823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 2"
+      },
+      {
+       "name": "עדיין ללא ניצחון: 1:1 לפ.ס.ז' מול טולוז, אמבפה כבש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1312166.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_190823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 2"
+      },
+      {
+       "name": "ממשיכה לקרוס: ליון הובסה 4:1 נגד מונפלייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1312152.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OL_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OL_190823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 2"
+      }
+     ]
+    },
+    {
+     "name": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1",
+     "channels": [
+      {
+       "name": "הום ראן: ראן נתנה הצגה במחזור הפתיחה נגד מץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1310830.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_METZ_130823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_METZ_130823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1"
+      },
+      {
+       "name": "בדקה האחרונה: מונפלייה ולה האבר נפרדו בתיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1310804.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_MOBPELYE_130823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_MOBPELYE_130823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1"
+      },
+      {
+       "name": "חרף האישומים: צמד לבן יידר ב-2:4 על קלרמון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1310798.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_MONACO_130823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_MONACO_130823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1"
+      },
+      {
+       "name": "השוערים הוחלפו: טולוז ניצחה את נאנט 1:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1310800.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_NANT_130823_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_NANT_130823_1/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1"
+      },
+      {
+       "name": "הפתעה בפתיחת העונה: לאנס הפסידה 3:2 לברסט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1310767.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BREST_130823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BREST_130823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1"
+      },
+      {
+       "name": "מתקשה ללא הכוכבים: פ.ס.ז' נפרדה ב-0:0 מלוריין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1310650.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_120823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_120823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1"
+      },
+      {
+       "name": "מארסיי גברה על ריימס: שער ענק לאונאחי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1310550.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARSILLE_120823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MARSILLE_120823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1"
+      },
+      {
+       "name": "דרמה בפתיחה: צפו ב-1:1 של ניס וליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1310438.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/VO_TAK_NICE_LILLE_110823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/VO_TAK_NICE_LILLE_110823/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - מחזור 20 - מחזור 20 - מחזור 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1246 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - מגזין ה-NBA",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "5106",
+   "series_id": "5106",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1004458.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:11",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "מגזין אן, בי, איי, 12.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1004458.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/8rlnZY8n08/App/HSP433571_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-12",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/8rlnZY8n08/App/HSP433571_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי, 05.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1002714.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/yCdn2OPBuf/App/HSP433570_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-05",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/yCdn2OPBuf/App/HSP433570_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי, 27.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1000858.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/2po7WOfJNf/App/HSP433569_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-27",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/2po7WOfJNf/App/HSP433569_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן. בי. איי, 20.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/999131.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3Z1p1UTGIq/App/HSP433568_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-20",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3Z1p1UTGIq/App/HSP433568_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן. בי. איי, 13.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/997484.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/iWNrDhHK9C/App/HSP433567_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-13",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/iWNrDhHK9C/App/HSP433567_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן. בי. איי, 06.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/995734.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/sOVzl99ZEk/App/HSP433566_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-06",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/sOVzl99ZEk/App/HSP433566_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 30.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/993752.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9WuEW9dGPD/App/HSP433565_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-30",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9WuEW9dGPD/App/HSP433565_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 23.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/991873.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/w47xRB5LVS/App/HSP433564_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-23",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/w47xRB5LVS/App/HSP433564_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 16.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/990028.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/RIIzy6LdGO/App/HSP433563_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-16",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/RIIzy6LdGO/App/HSP433563_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 09.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/988552.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/5xSKxLvxsh/App/HSP433562_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-09",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/5xSKxLvxsh/App/HSP433562_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 02.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/986397.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/bi2HZC7spL/App/HSP433561_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-02",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/bi2HZC7spL/App/HSP433561_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 26.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/984655.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/bRY5nfZG77/App/HSP433560_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-26",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/bRY5nfZG77/App/HSP433560_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 19.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/982623.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3pOwVS8iCv/App/HSP433559_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-19",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3pOwVS8iCv/App/HSP433559_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 12.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/981838.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/hsuqN1ijZa/App/HSP433558_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-12",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/hsuqN1ijZa/App/HSP433558_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 05.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/979021.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/mmogrlbfHG/App/HSP433557_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-05",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/mmogrlbfHG/App/HSP433557_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 28.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/977220.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/hRFuIl3tc5/App/HSP433556_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-28",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/hRFuIl3tc5/App/HSP433556_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי.  21.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/975533.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/ju7ymoaXY0/App/HSP433555_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-21",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/ju7ymoaXY0/App/HSP433555_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי. 14.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/973595.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8D6MOfPlU4/App/HSP433554_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-14",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8D6MOfPlU4/App/HSP433554_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "מגזין אן, בי, איי, 07.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/972333.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/Y7LksE4TyC/App/HSP433553_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-07",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/Y7LksE4TyC/App/HSP433553_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/970232.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/TrXqt5l3VM/App/HSP433552_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/TrXqt5l3VM/App/HSP433552_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "מגזין ה-NBA - 2019/20",
+     "channels": [
+      {
+       "name": "מגזין אן, בי, איי, 12.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1004458.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/8rlnZY8n08/App/HSP433571_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-12",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/8rlnZY8n08/App/HSP433571_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי, 05.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1002714.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/yCdn2OPBuf/App/HSP433570_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-05",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/yCdn2OPBuf/App/HSP433570_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי, 27.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1000858.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/2po7WOfJNf/App/HSP433569_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-27",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/2po7WOfJNf/App/HSP433569_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 20.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/999131.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3Z1p1UTGIq/App/HSP433568_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-20",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3Z1p1UTGIq/App/HSP433568_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 13.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/997484.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/iWNrDhHK9C/App/HSP433567_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-13",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/iWNrDhHK9C/App/HSP433567_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 06.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/995734.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/sOVzl99ZEk/App/HSP433566_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-06",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/sOVzl99ZEk/App/HSP433566_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 30.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/993752.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9WuEW9dGPD/App/HSP433565_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-30",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9WuEW9dGPD/App/HSP433565_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 23.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/991873.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/w47xRB5LVS/App/HSP433564_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-23",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/w47xRB5LVS/App/HSP433564_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 16.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/990028.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/RIIzy6LdGO/App/HSP433563_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-16",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/RIIzy6LdGO/App/HSP433563_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 09.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/988552.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/5xSKxLvxsh/App/HSP433562_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-09",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/5xSKxLvxsh/App/HSP433562_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 02.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/986397.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/bi2HZC7spL/App/HSP433561_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-02",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/bi2HZC7spL/App/HSP433561_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 26.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/984655.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/bRY5nfZG77/App/HSP433560_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-26",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/bRY5nfZG77/App/HSP433560_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 19.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/982623.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3pOwVS8iCv/App/HSP433559_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-19",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3pOwVS8iCv/App/HSP433559_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 12.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/981838.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/hsuqN1ijZa/App/HSP433558_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-12",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/hsuqN1ijZa/App/HSP433558_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 05.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/979021.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/mmogrlbfHG/App/HSP433557_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-05",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/mmogrlbfHG/App/HSP433557_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 28.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/977220.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/hRFuIl3tc5/App/HSP433556_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-28",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/hRFuIl3tc5/App/HSP433556_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי.  21.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/975533.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/ju7ymoaXY0/App/HSP433555_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-21",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/ju7ymoaXY0/App/HSP433555_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 14.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/973595.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8D6MOfPlU4/App/HSP433554_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-14",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8D6MOfPlU4/App/HSP433554_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "מגזין אן, בי, איי, 07.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/972333.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/Y7LksE4TyC/App/HSP433553_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-07",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/Y7LksE4TyC/App/HSP433553_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      },
+      {
+       "name": "",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/970232.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/TrXqt5l3VM/App/HSP433552_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/TrXqt5l3VM/App/HSP433552_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2019/20"
+      }
+     ]
+    },
+    {
+     "name": "מגזין ה-NBA - 2018/19",
+     "channels": [
+      {
+       "name": "מגזין NBA ספיישל: על המעברים הגדולים בקיץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/945370.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/quLU6ctEcT/App/HSP390595_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/quLU6ctEcT/App/HSP390595_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, תכנית סיום עונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/941257.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/mnnPx9Pcqx/App/HSP390594_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הזכייה ההיסטורית של טורונטו, המספרים של ה-MVP, קוואי לנארד ולאן הולכת גולדן סטייט?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/mnnPx9Pcqx/App/HSP390594_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 13.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/940140.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/PNsZVmaqCd/App/HSP390593_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-06-13",
+       "plot": "הטירוף סביב סדרת הגמר, ההתעלות של האלופה במאני טיים והמורשת שהשאיר טוני פארקר ב-NBA",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/PNsZVmaqCd/App/HSP390593_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 06.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/938603.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/7M1hxT5Mey/App/HSP390592_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-06-06",
+       "plot": "תכנית 32 - טורונטו עלתה ל-1:2 מול גולדן סטייט והחזירה את הביתיות. מיטב הפרשוניות לקראת המשחקים הקרובים",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/7M1hxT5Mey/App/HSP390592_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 30.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/937269.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/15/c0/15c01fa9-ecb3-486a-a9fc-696b7ff7a024/300520191604_hsp390591_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-30",
+       "plot": "תכנית 31 - מתכוננים לסדרת הגמר, מספרי הפלייאוף, המסע של טורונטו, קווין דוראנט שוב מגיב והתופעה שנקראת בוסטון סלטיקס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/15/c0/15c01fa9-ecb3-486a-a9fc-696b7ff7a024/300520191604_hsp390591_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 23.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/934679.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/04/3f/043f1422-49ee-4488-b09b-df5395c871da/230520192210_hsp390590_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-23",
+       "plot": "תכנית 30 - המסקנות מגמר המזרח, מג'יק ג'ונסון בעוד דרמה הוליוודית והחשיבות העצומה של גרין לאלופה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/04/3f/043f1422-49ee-4488-b09b-df5395c871da/230520192210_hsp390590_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 16.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/932953.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/52/f7/52f75d4e-d0ca-4440-8178-16edeab4091c/160520191503_hsp390589_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-16",
+       "plot": "תכנית 29 - גולדן סטייט מסתדרת ללא דוראנט, לילארד התקשה במשחק הראשון מול הווריירס והפריחה של יאניס בפלייאוף",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/52/f7/52f75d4e-d0ca-4440-8178-16edeab4091c/160520191503_hsp390589_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 02.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/929737.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/07/bf/07bf4e47-f5db-413a-8580-7182795e14ad/020520192210_hsp390588_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-02",
+       "plot": "תכנית 28 - פלייאוף ה-NBA בשיאו, האם הייתה עבירה על הארדן במשחק הראשון מול הווריורס? ופופוביץ' חתם על חוזה חדש",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/07/bf/07bf4e47-f5db-413a-8580-7182795e14ad/020520192210_hsp390588_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 18.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/926703.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3f/b2/3fb23643-6672-439e-b02b-df965d6f4177/180420191503_hsp390587_,55,35,160,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-18",
+       "plot": "תכנית 27 - הדרמות, ההפתעות והשיאים שהיו בפלייאוף, ואלו שעוד יהיו בהמשך",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3f/b2/3fb23643-6672-439e-b02b-df965d6f4177/180420191503_hsp390587_,55,35,160,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 11.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/925116.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e2/cb/e2cb73ce-1cdc-419f-9b8e-456254eda037/110420192008_hsp390586_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-11",
+       "plot": "תכנית 26 - סיכום העונה הסדירה, ההכנות למאני טיים והפרידה מנוביצקי וווייד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e2/cb/e2cb73ce-1cdc-419f-9b8e-456254eda037/110420192008_hsp390586_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 04.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/923468.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5b/c4/5bc48dea-a0fe-48fe-b099-1f18e0eaa6e8/040420191705_hsp390585_,350k,550k,1600k,800k,1100k,.mp4.csmil/master.m3u8",
+       "date": "2019-04-04",
+       "plot": "תכנית 25 - השבוע האחרון של העונה הסדירה, מי יבחר ל-MVP והפרידה ממאנו ג'ינובילי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5b/c4/5bc48dea-a0fe-48fe-b099-1f18e0eaa6e8/040420191705_hsp390585_,350k,550k,1600k,800k,1100k,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 28.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/921627.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/2c/da/2cda7e05-3ed7-4935-9641-9998f2d26d6a/280320191806_hsp390584_,550k,350k,1100k,1600k,800k,.mp4.csmil/master.m3u8",
+       "date": "2019-03-28",
+       "plot": "תכנית 24 - מאזן האימה של הלייקרס בחודש מרץ, כריס בוש קיבל כבוד מלכים במיאמי והקרב על הרוקי של העונה נפתח מחדש",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/2c/da/2cda7e05-3ed7-4935-9641-9998f2d26d6a/280320191806_hsp390584_,550k,350k,1100k,1600k,800k,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 21.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/919987.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/eb/93/eb937f72-cd52-40b2-9d44-99e4a0d96ec1/210320192008_hsp390583_,1100k,550k,800k,350k,1600k,.mp4.csmil/master.m3u8",
+       "date": "2019-03-21",
+       "plot": "תכנית 23 - הליגה מעלה הילוך לקראת הפלייאוף ונוביצקי עובר את צ'מברליין בטבלת קלעי כל הזמנים",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/eb/93/eb937f72-cd52-40b2-9d44-99e4a0d96ec1/210320192008_hsp390583_,1100k,550k,800k,350k,1600k,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן, בי, איי, 14.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/918573.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ed/d8/edd80d27-6e0a-406c-b0e4-4051ec5fff2e/140320191503_hsp390582_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2019-03-14",
+       "plot": "תכנית 22 - גם תומפסון לא נשאר אדיש ללילה הגדול של קאזינס,  ווסטברוק בעוד עימות חזיתי ובובי מריאנוביץ' נתפס על חם",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ed/d8/edd80d27-6e0a-406c-b0e4-4051ec5fff2e/140320191503_hsp390582_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן, בי, איי. 07.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/916317.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/69/8a/698a7356-8c9e-43b2-aff4-e800409e5f1a/070320191503_hsp390581_,35,80,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "2019-03-07",
+       "plot": "תכנית 21 - האגדה של לברון נמשכת עם עוד ציון דרך היסטורי, הקליפרס מתבססים בצמרת והאלופה ממשיכה לקרטע",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/69/8a/698a7356-8c9e-43b2-aff4-e800409e5f1a/070320191503_hsp390581_,35,80,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן, בי, איי 28.02.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/914541.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/38/1c/381c7e4b-86eb-44db-aff2-b4e570adaafc/280220191402_hsp390580_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2019-02-28",
+       "plot": "תכנית 20 - וויד ניצח את גולדן סטייט, כריס פול מגיע ל-9,000 אס' וסן אנטוניו מאבדת גובה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/38/1c/381c7e4b-86eb-44db-aff2-b4e570adaafc/280220191402_hsp390580_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן, בי, איי, 21.02.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/912813.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/aa/ff/aaffdf30-88b3-434a-b5aa-6094a5a7bf24/210220191604_hsp390579_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-02-21",
+       "plot": "תכנית 19 - סיכום אולסטאר 2019 ולקראת הישורת האחרונה בעונה הסדירה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/aa/ff/aaffdf30-88b3-434a-b5aa-6094a5a7bf24/210220191604_hsp390579_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 14.02.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/910329.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/be/7e/be7e8cad-a9bd-4059-a066-13f0da6268a7/HSP390578_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2019-02-14",
+       "plot": "תכנית 18 - כל מה שצריך לדעת לקראת אולסטאר 2019, דייויס שוב בלב הסערה ומארק גאסול מתאקלם בקנדה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/be/7e/be7e8cad-a9bd-4059-a066-13f0da6268a7/HSP390578_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 07.02.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/907532.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d7/9c/d79cbc3a-995a-4f3f-a201-07c48cc1f8e4/070220191907_hsp390577x_,1100k,350k,550k,800k,1600k,.mp4.csmil/master.m3u8",
+       "date": "2019-02-07",
+       "plot": "תכנית 17 - הטרייד הגדול בין פילדלפיה לקליפרס, איך השפיעה החזרה של קאזינס על הווריירס והשילוב בין פורזינגיס לדונצ'יץ'",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d7/9c/d79cbc3a-995a-4f3f-a201-07c48cc1f8e4/070220191907_hsp390577x_,1100k,350k,550k,800k,1600k,.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 31.01.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/905727.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/bf/34/bf34a6c3-593d-4b63-85ad-4c1596587f39/310120191907_hsp390576_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2019-01-31",
+       "plot": "תכנית 16 - צומת הדרכים של אנטוני דייויס, כריס פול חזר לפרקט וברנדון אינגרם לוקח את המושכות בלייקרס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/bf/34/bf34a6c3-593d-4b63-85ad-4c1596587f39/310120191907_hsp390576_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2018/19"
+      }
+     ]
+    },
+    {
+     "name": "מגזין ה-NBA - 2017/18",
+     "channels": [
+      {
+       "name": "מגזין אן. בי. איי, 14.06.18 - תכנית 33",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/838659.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/18/e9/18e9fdba-746d-41a1-9773-2c3b9305689f/140620181503_hsp351303_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-06-14",
+       "plot": "תכנית 33 - שלב הסיכומים: גולדן סטייט חוגגת אליפות נוספת, המצטיינים של סדרת הגמר, ולאן יעבור לברון?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/18/e9/18e9fdba-746d-41a1-9773-2c3b9305689f/140620181503_hsp351303_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 07.06.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/837184.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/27/bc/27bc9cb5-81c0-4c22-84ab-39a867b4be11/070620181503_hsp351302_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2018-06-07",
+       "plot": "תכנית 32 - הווריורס מתקרבים לאליפות נוספת, האקס פקטור של סדרת הגמר והאם שאראס בשל לאמן ב-NBA?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/27/bc/27bc9cb5-81c0-4c22-84ab-39a867b4be11/070620181503_hsp351302_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 31.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/835097.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/68/6c/686c81a0-f0de-475b-8cc0-5597541ef0aa/310520182311_hsp351301_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-31",
+       "plot": "תכנית 31 - סיכום הדרמות בגמרים האיזוריים ולקראת עוד פרק בטרילוגיה בין הווריורס לקליבלנד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/68/6c/686c81a0-f0de-475b-8cc0-5597541ef0aa/310520182311_hsp351301_,160,110,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 24.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/833342.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/58/ac/58ac5dca-b8b0-4024-8407-ea667a73f14d/240520181503_hsp351300_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-24",
+       "plot": "תכנית 30 - בוסטון ממשיכה לשמור על הבית, לברון שוב עם הגב לקיר ונורת האזהרה של גולדן סטייט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/58/ac/58ac5dca-b8b0-4024-8407-ea667a73f14d/240520181503_hsp351300_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 17.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/831753.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e5/f4/e5f4d845-7fa3-4f13-a9f0-17fae6535c26/170520181503_hsp351299_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-17",
+       "plot": "תכנית 29 - פלייאוף רותח במזרח ובמערב, המועמדים של המגזין לנבחרי העונה וציטוטי השבוע. אל תחמיצו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e5/f4/e5f4d845-7fa3-4f13-a9f0-17fae6535c26/170520181503_hsp351299_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 10.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/828908.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/10/b6/10b645dd-5160-4191-b917-506561da9c8e/100520181604_hsp351298_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-10",
+       "plot": "תכנית 28 - מגזין חגיגי עם אורח מיוחד: אמארה סטודמאייר מנתח את הסדרות שהיו ומדבר על אלה שעוד יהיו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/10/b6/10b645dd-5160-4191-b917-506561da9c8e/100520181604_hsp351298_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן.בי.איי 03.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/824818.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/02/45/0245be96-dcde-457e-bc0f-2032cf1d0780/030520181604_hsp351297_,80,35,55,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-03",
+       "plot": "תכנית 27 - לברון וקליבלנד גנבו את הביתיות לטורונטו, למרות החיסורים, בוסטון מסתדרת ללא הפצועים וקרי חזר בזמן",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/02/45/0245be96-dcde-457e-bc0f-2032cf1d0780/030520181604_hsp351297_,80,35,55,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 26.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/818841.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5f/dd/5fdd6470-f369-483f-a476-07f8d3b13f14/260420181604_hsp351296_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-26",
+       "plot": "תכנית 26 - לברון מחמם מנועים בפלייאוף, פילדלפיה בחצי גמר המזרח לראשונה מ-2012 והאם ג'ינובילי יפרוש?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5f/dd/5fdd6470-f369-483f-a476-07f8d3b13f14/260420181604_hsp351296_,160,35,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 12.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/812776.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/84/b1/84b16b33-aaf2-422e-b9df-23ee43bcf272/120420181907_hsp351295_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-12",
+       "plot": "תכנית 25 - תכנית מיוחדת לקראת תחילת סדרות הפלייאוף ב-NBA",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/84/b1/84b16b33-aaf2-422e-b9df-23ee43bcf272/120420181907_hsp351295_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 29.03.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/804298.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e4/1c/e41c0135-ab28-4e3d-b198-8a159deba0f0/290320181907_hsp351294_,110,55,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-03-29",
+       "plot": "תכנית 24 - יוסטון ממשיכה לשבור שיאים, הקאמבק של פורלץ ומכת הפציעות של גולדן סטייט ממשיכה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e4/1c/e41c0135-ab28-4e3d-b198-8a159deba0f0/290320181907_hsp351294_,110,55,160,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 22.03.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/801735.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/07/b5/07b55207-8c02-41d7-b9ac-35da78050528/220320181503_hsp351293_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-03-22",
+       "plot": "תכנית 23 - מצבו של טיירון לו בקליבלנד, ה-MVP השבועי, ציטוטי השבוע ורגע היסטורי מרגש",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/07/b5/07b55207-8c02-41d7-b9ac-35da78050528/220320181503_hsp351293_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 15.03.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/799090.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/01/e6/01e6d398-3084-4017-add6-717789b009c5/150320181503_hsp351292_,55,35,160,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "2018-03-15",
+       "plot": "תכנית 22 - הדומיננטיות של הקליפרס נמשכת, נורה אדומה בסן אנטוניו וההצטיינות של עמרי כספי בניצחון על הלייקרס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/01/e6/01e6d398-3084-4017-add6-717789b009c5/150320181503_hsp351292_,55,35,160,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 08.03.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/795334.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c0/c9/c0c96314-1cdf-4670-a87d-3719ae9d6149/080320181503_hsp351291_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-03-08",
+       "plot": "תכנית 21 - לילארד מתבגר בפורטלנד, דטרויט מתרחקת מהפלייאוף ובראיינט כיכב גם על השטיח האדום",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c0/c9/c0c96314-1cdf-4670-a87d-3719ae9d6149/080320181503_hsp351291_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 01.03.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/792496.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6a/94/6a94d305-a9cf-4c70-ad53-d926aaa38cac/010320181503_hsp351290_,55,160,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2018-03-01",
+       "plot": "תכנית 20 - ספיישל פורים: אנתוני דייויס בכושר שיא, יוסטון לא עוצרת והפריחה המחודשת של ווייד במיאמי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6a/94/6a94d305-a9cf-4c70-ad53-d926aaa38cac/010320181503_hsp351290_,55,160,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. אי, 22.02.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/789757.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/98/c0/98c04174-4d2a-4118-b4d9-2eae97f00780/220220181503_hsp351289_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "2018-02-22",
+       "plot": "תכנית 19 - סיכום אולסטאר 2018 ולקראת חזרת הליגה בשבת",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/98/c0/98c04174-4d2a-4118-b4d9-2eae97f00780/220220181503_hsp351289_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי.איי, 15.02.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/787013.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/cf/22/cf220f1d-3d16-4644-be13-73f072f44fd5/150220181907_hsp351288_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-02-15",
+       "plot": "תכנית 18 - מתיחת הפנים שקליבלנד עברה, יוסטון בלתי ניתנת לעצירה והכנות אחרונות למשחק האולסטאר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/cf/22/cf220f1d-3d16-4644-be13-73f072f44fd5/150220181907_hsp351288_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 08.02.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/785126.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/91/12/91122b36-0d63-497b-8868-f2c984476081/080220181806_hsp351287_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2018-02-08",
+       "plot": "תכנית 17 - נורת האזהרה של קליבלנד, גריפין פורח בדטרויט, הפציעה הקשה של פורזינגיס והחודש המושלם של יוקיץ'",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/91/12/91122b36-0d63-497b-8868-f2c984476081/080220181806_hsp351287_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 01.02.18 - תכנית 16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/782171.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0a/e0/0ae07f2e-38bf-45a8-943e-04bbd169416e/010220181503_hsp351286_,80,55,110,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-02-01",
+       "plot": "תכנית 16 - הטרייד המפתיע של גריפין, חודש ינואר המוצלח של פורטלנד וההכנות האחרונות לאולסטאר ה-NBA",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0a/e0/0ae07f2e-38bf-45a8-943e-04bbd169416e/010220181503_hsp351286_,80,55,110,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 25.01.18 - תכנית 15",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/780362.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/de/7f/de7f4f92-0544-457b-8178-6530aa7809c6/250120181503_hsp351285x_,80,110,55,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2018-01-25",
+       "plot": "תכנית 15 - לברון ג'יימס עם ציון דרך נוסף, ההתרופפות בבוסטון ממשיכה ובוגדנוביץ' סגר חודש מוצלח ביותר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/de/7f/de7f4f92-0544-457b-8178-6530aa7809c6/250120181503_hsp351285x_,80,110,55,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 18.01.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/775346.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f0/97/f0973468-89cd-4258-a98c-f602eaeb931b/180120181907_hsp351284_,110,35,80,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "2018-01-18",
+       "plot": "תכנית 14 - גולדן סטייט הייתה גדולה על קליבלנד, ההצגה של אנתוני דייויס נגד בוסטון ואיך יסתדר פופוביץ' ללא לנארד?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f0/97/f0973468-89cd-4258-a98c-f602eaeb931b/180120181907_hsp351284_,110,35,80,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2017/18"
+      }
+     ]
+    },
+    {
+     "name": "מגזין ה-NBA - 2016/17",
+     "channels": [
+      {
+       "name": "מגזין אן. בי. איי, 14.06.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/714743.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b9/3f/b93f8e6b-3d79-411f-aa54-1b12c1e80867/140620171705_hsp305844_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-06-14",
+       "plot": "תכנית 34 - גולדן סטייט אלופת ה-NBA: כל הפרשנויות והניתוחים של סדרת הגמר",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b9/3f/b93f8e6b-3d79-411f-aa54-1b12c1e80867/140620171705_hsp305844_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 08.06.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/713266.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8a/43/8a438a9f-4db5-4701-9802-63a5e78be121/080620171604_hsp305843_vod_,160,80,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-06-08",
+       "plot": "תכנית 33 - גולדן סטייט במרחק נגיעה מהאליפות, קווין דוראנט בלתי ניתן לעצירה ובהיכל התהילה עושים כבוד לרוברט הורי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8a/43/8a438a9f-4db5-4701-9802-63a5e78be121/080620171604_hsp305843_vod_,160,80,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 01.06.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/711647.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8c/63/8c63bc52-d125-4ae3-84fd-8e9ce06ceb1a/010620171503_hsp305842_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-06-01",
+       "plot": "תכנית 32 - סדרת הגמר של הליגה הטובה בעולם יוצאת לדרך, מה לשאקיל יש לומר על לברון וסיפורי השבוע ב-NBA",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8c/63/8c63bc52-d125-4ae3-84fd-8e9ce06ceb1a/010620171503_hsp305842_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 25.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/710293.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/a3/caa3a3d2-dd34-4d1d-841a-d88e7303e97f/250520171503_hsp305841_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-25",
+       "plot": "תכנית 31 - סיכום סדרת גמר המערב, סיפורי השבוע, הרשימה הסופית של מצטייני העונה ומי יהיה ה-MVP של השבוע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ca/a3/caa3a3d2-dd34-4d1d-841a-d88e7303e97f/250520171503_hsp305841_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 17.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/708484.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/bf/3a/bf3a6370-d56a-45cc-b5b8-35da64f72a62/170520171604_hsp305840_,110,80,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-17",
+       "plot": "תכנית 30 - פופוביץ' רותח על הווריורס, תומאס מול אירווינג ופינת ציטוטי השבוע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/bf/3a/bf3a6370-d56a-45cc-b5b8-35da64f72a62/170520171604_hsp305840_,110,80,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 11.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/707023.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a6/eb/a6eb1d9d-c9c9-484b-8c91-998973181678/110520171806_hsp305839_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-11",
+       "plot": "תכנית 29 - לברון וקליבלנד נכנסים למאני טיים בגדול, האקס פקטור של בוסטון והאם פורזינגיס יעזוב את הניקס?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a6/eb/a6eb1d9d-c9c9-484b-8c91-998973181678/110520171806_hsp305839_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן, בי, איי, 04.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/705360.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/fb/3a/fb3a2bef-ca13-4e5f-8997-42dbbc1d8a8e/040520171503_hsp305838_,80,160,55,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-04",
+       "plot": "תכנית 28 - סיכום ביניים של סדרות רבע הגמר, המופע של תומאס והשיא החדש של לברון ג'יימס",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/fb/3a/fb3a2bef-ca13-4e5f-8997-42dbbc1d8a8e/040520171503_hsp305838_,80,160,55,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 27.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/703661.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/9e/0a/9e0adcbc-216e-4129-8fa0-f5a3484cfd4b/270420171604_hsp305837_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-27",
+       "plot": "תכנית 27 - סיכום ביניים לסדרות הסיבוב ה-1 בפלייאוף, סוף העונה של ווסטברוק והבחירות למאמן וחמישיית העונה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/9e/0a/9e0adcbc-216e-4129-8fa0-f5a3484cfd4b/270420171604_hsp305837_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 20.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/701887.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/de/a1/dea1da3a-eb51-4b0b-8e0a-919eb8b8f34c/200420171806_hsp305836_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-20",
+       "plot": "תכנית 26 - התחלה ברגל שמאל לבוסטון בפלייאוף, גולדן סטייט לא עוצרת ויוסטון לא סופרת את ווסטברוק ואוקלהומה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/de/a1/dea1da3a-eb51-4b0b-8e0a-919eb8b8f34c/200420171806_hsp305836_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 13.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/700312.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/10/cc/10cc9f98-466c-42d8-bec1-9b897eb04d11/130420171503_hsp305835_,55,160,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-13",
+       "plot": "תכנית 25 - סיכום העונה הסדירה, הכנות אחרונות לקראת הפלייאוף, מבול של סלים וציטוטי השבוע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/10/cc/10cc9f98-466c-42d8-bec1-9b897eb04d11/130420171503_hsp305835_,55,160,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 06.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/698690.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a7/4a/a74aeca7-8916-4e76-8e1c-b7d237a402bb/HSP305834_,80,110,55,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-06",
+       "plot": "תכנית 24 - העונה המטורפת של ראסל ווסטברוק, לברון משדר עסקים כרגיל וציטוטי השבוע בליגה הטובה בעולם",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a7/4a/a74aeca7-8916-4e76-8e1c-b7d237a402bb/HSP305834_,80,110,55,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 30.03.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/696819.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/af/fe/affed50a-2a38-4294-9494-db9bee1d20b7/300320171604_hsp305833_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "2017-03-30",
+       "plot": "תכנית 23 - גולדן סטייט חוזרת לדרוס את הליגה, הקרב על הכרטיס לפלייאוף בין פורטלנד ולדנבר וההשעיה של ג'ואקים נואה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/af/fe/affed50a-2a38-4294-9494-db9bee1d20b7/300320171604_hsp305833_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "המגזין: קרב אגרוף, ועומרי כספי משתלב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/695111.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5a/17/5a17d8d7-f841-4a81-a462-d7f9508bf3c8/230320171503_hsp305832_,80,160,55,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 22 - ווסטברוק לא סופר את קרי, כספי בוחר במינסוטה,קרב אגרופים בין איבקה לרובין לופז",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5a/17/5a17d8d7-f841-4a81-a462-d7f9508bf3c8/230320171503_hsp305832_,80,160,55,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 16.03.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/693144.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f2/44/f24405ef-8c05-402d-a624-395167cf8e25/160320171503_hsp305831_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "2017-03-16",
+       "plot": "תכנית 21 - כריס פול חוזר לעניינים, כספי החלים מהפציעה בכף היד ומי היחיד במינו לברון או ג'ורדן?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f2/44/f24405ef-8c05-402d-a624-395167cf8e25/160320171503_hsp305831_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 09.03.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/691666.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/ac/c6ace609-6c71-40f7-a204-6875658e3d77/110320171705_hsp305830_1_,110,35,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-03-09",
+       "plot": "תכנית 20 - דירק נוביצקי מגיע ל-30,000 נקודות,  קוואי לנארד בעונת שיא והתלות של הווריירס בדוראנט",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/ac/c6ace609-6c71-40f7-a204-6875658e3d77/110320171705_hsp305830_1_,110,35,160,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 02.03.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/689425.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/76/9e/769e309e-6ca1-4339-b727-5bd4ebeb1897/020320171907_hsp305829_vod_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-03-02",
+       "plot": "תכנית 19 - צוות המומחים עושים סדר לסיום חלון העברות, ההיט התחממו בזמן ואיך תשפיע הפציעה של דוראנט על הווריירס?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/76/9e/769e309e-6ca1-4339-b727-5bd4ebeb1897/020320171907_hsp305829_vod_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 23.02.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/687370.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ed/33/ed33fbbf-b4b3-4f70-b6ab-4c3ef07fdf0c/230220171604_hsp305828_,35,160,110,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "2017-02-23",
+       "plot": "תכנית 18 - סיכום סופ\"ש האולסטאר, ווסטברוק ודוראנט חזרו לשתף פעולה והמעבר של כספי וקאזינס לניו אורלינס",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ed/33/ed33fbbf-b4b3-4f70-b6ab-4c3ef07fdf0c/230220171604_hsp305828_,35,160,110,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 16.02.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/685249.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4c/58/4c587aea-e6cb-4c80-8cfb-4a05006a337b/160220171604_hsp305827_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-02-16",
+       "plot": "תכנית 17 - הכנות לאולסטאר, דורנאט ו-ווסטברוק ראש בראש, סיפורי השבוע, סאגת צ'ארלס אוקלי וה-MVP של חצי העונה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4c/58/4c587aea-e6cb-4c80-8cfb-4a05006a337b/160220171604_hsp305827_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 09.02.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/683385.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d9/59/d959cde5-6b72-4dc9-ba07-cdc3c640e85d/090220171503_hsp305826_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-02-09",
+       "plot": "תכנית 16 - ינואר מאיר פנים לקליבלנד, המחווה המרגשת של בוסטון לפול פירס ומיהו שיאן העברות הטכניות?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d9/59/d959cde5-6b72-4dc9-ba07-cdc3c640e85d/090220171503_hsp305826_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      },
+      {
+       "name": "מגזין אן. בי. איי, 02.02.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/681113.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/76/de/76de2764-593d-4610-bacd-ecbd1b55f6bf/020220171806_hsp305825_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-02-02",
+       "plot": "תכנית 15 - בארלקי ולברון ג'יימס מתעמתים, הארדן ווסטברוק קורעים את הליגה וה-NBA בצל סערת גזירות טראמפ",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/76/de/76de2764-593d-4610-bacd-ecbd1b55f6bf/020220171806_hsp305825_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2016/17"
+      }
+     ]
+    },
+    {
+     "name": "מגזין ה-NBA - 2015/16",
+     "channels": [
+      {
+       "name": "מגזין אן.בי.איי, 23.06.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/617911.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d6/de/d6de94eb-8f4c-452a-b591-d193e42ca974/230620161604_hsp250123_vod_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-06-23",
+       "plot": "תכנית 32 - תכנית סיום העונה: כל המספרים המשוגעים מאחורי האליפות ההיסטורית של קליבלנד ולברון ג'יימס",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d6/de/d6de94eb-8f4c-452a-b591-d193e42ca974/230620161604_hsp250123_vod_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 16.06.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/615972.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/72/a3/72a36b5c-8195-4a1b-93e1-daa507f52a93/160620161503_hsp250122_vod_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-06-16",
+       "plot": "תכנית 31 - לברון ג'יימס וקיירי אירווינג במשחק לפנתאון החזירו את הסדרה לקליבלנד למשחק מספר 6",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/72/a3/72a36b5c-8195-4a1b-93e1-daa507f52a93/160620161503_hsp250122_vod_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 09.06.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/614038.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/83/c1/83c112ad-0da0-47bc-a665-197ad4f74a73/090620161604_hsp250121_vod_,55,160,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-06-09",
+       "plot": "תכנית 30 - קליבלנד חוזרת לחיים בסדרת הגמר, הורנסק ממונה למאמן הניקס ולמה דיקמבה מוטומבו קרע את שימי?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/83/c1/83c112ad-0da0-47bc-a665-197ad4f74a73/090620161604_hsp250121_vod_,55,160,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 02.06.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/612259.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/70/3e/703efe7e-9bd0-4503-9ac0-4adf7db235ff/020620161705_hsp250120_vod_,55,80,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-06-02",
+       "plot": "תכנית 29 - לקראת הגמר הלילה, הפרשנים מסכמים את סדרות חצי הגמר ונותנים את התחזית שלהם מי תסיים כאלופה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/70/3e/703efe7e-9bd0-4503-9ac0-4adf7db235ff/020620161705_hsp250120_vod_,55,80,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 26.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/610470.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/eb/bd/ebbd8426-cc9a-47ca-8595-883047b02bcd/260520161705_hsp250119_vod_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-26",
+       "plot": "תכנית 28 - האם אנחנו עדים לסדרת הגמר הכי מרתקת שהייתה במערב?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/eb/bd/ebbd8426-cc9a-47ca-8595-883047b02bcd/260520161705_hsp250119_vod_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 05.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/606240.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4f/58/4f586095-40fb-4c66-989b-a136561b0fae/100520161010_nba magazine_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-05",
+       "plot": "תכנית 27 - הפרידה מקובי בראיינט, הג'וב החדש של לברון ג'יימס וכל הזוויות מכל סדרות הפלייאוף",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4f/58/4f586095-40fb-4c66-989b-a136561b0fae/100520161010_nba magazine_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 21.04.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/601755.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f5/eb/f5eb179a-b8f3-4e18-9132-e11d75062317/HSP250116_VOD_,110,180,55,80,70,0k.mp4.csmil/master.m3u8",
+       "date": "2016-04-21",
+       "plot": "תכנית 26 - סיכום משחקי הפלייאוף עד עכשיו, על ההחתמות החדשות בליגה וכל הסיפורים החמים של השבוע החולף",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f5/eb/f5eb179a-b8f3-4e18-9132-e11d75062317/HSP250116_VOD_,110,180,55,80,70,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 14.04.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/600328.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/cf/c8cf8be2-84ec-42b6-aec4-8544d112aa75/140420161907_hsp250115_vod_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-04-14",
+       "plot": "תכנית 25 - סיכום העונה הסדירה, על הקריירה של קובי, כל התחזיות לקראת הפלייאוף ועל העונה ההיסטורית של גולדן סטייט",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/cf/c8cf8be2-84ec-42b6-aec4-8544d112aa75/140420161907_hsp250115_vod_,160,35,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 07.04.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/597294.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f1/ef/f1efc6c8-0f23-45e5-b8da-da9f65ce281c/070420161705_hsp250114_vod_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-04-07",
+       "plot": "תכנית 24 - ירידה קלה ביכולת של קרי, ווסטברוק קרוב לשיא, סיפורי השבוע, מתיחות 1 באפריל וציטוטי השבוע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f1/ef/f1efc6c8-0f23-45e5-b8da-da9f65ce281c/070420161705_hsp250114_vod_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 31.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/595743.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/cc/74/cc7429eb-d203-45b9-9b55-0b211274a4f1/310320161604_hsp250113_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-31",
+       "plot": "תכנית 23 - השבוע המעולה של קליי תומפסון, כספי בכושר טוב וכל הניתוחים לקראת הפלייאוף הקרב ובא",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/cc/74/cc7429eb-d203-45b9-9b55-0b211274a4f1/310320161604_hsp250113_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 24.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/594376.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/40/bb/40bb02a0-5d58-464a-b843-af93226f7b41/240320161604_hsp250112_vod_,55,80,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-24",
+       "plot": "תכנית 22 - ניתוח המשחק בין הספרס לווריורס, השבוע שעבר על כספי ומה קורה עם לברון והקאבס",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/40/bb/40bb02a0-5d58-464a-b843-af93226f7b41/240320161604_hsp250112_vod_,55,80,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 17.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/592657.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/7f/e5/7fe5582e-913d-417e-8b72-85f1c2ce076b/170320162311_hsp250111_vod_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-17",
+       "plot": "תכנית 21 - נייט רובינסון חתם בהפועל ת\"א, ציטוטי השבוע, הקבוצה של כספי מתפרקת ועוד המון הפתעות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/7f/e5/7fe5582e-913d-417e-8b72-85f1c2ce076b/170320162311_hsp250111_vod_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 10.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/590300.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/95/12/95126f30-de44-4e77-ab97-a3a0c6ab3eb1/100320161604_hsp250110_vod_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-10",
+       "plot": "תכנית 20 - סטף קרי וגולדן סטייט משגעים את הליגה, קליבלנד לא מצליחה להמריא ווויטסייד מככב מהספסל במיאמי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/95/12/95126f30-de44-4e77-ab97-a3a0c6ab3eb1/100320161604_hsp250110_vod_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 03.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/588326.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/23/f2/23f295b4-9f74-4f4d-bb4f-7cce5d117c30/030320162109_nba_magazin_030316_,55,110,35,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-03",
+       "plot": "תכנית 19 - השבוע הלא ייאמן של סטף קרי, כספי חוזר לכושר לאט לאט והטריידים המעניינים של השבוע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/23/f2/23f295b4-9f74-4f4d-bb4f-7cce5d117c30/030320162109_nba_magazin_030316_,55,110,35,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 25.02.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/586611.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c2/03/c203417e-4ef6-4e5f-8af5-be8a9c485e5a/250220161806_hsp250108_,55,160,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-02-25",
+       "plot": "תכנית 18 - דמיאן לילארד עושה עבודה גדולה בפורטלנד, על שבוע השיא של אנתוני דייויס וקליבלנד נפרדת מאחד השחקנים האהובים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c2/03/c203417e-4ef6-4e5f-8af5-be8a9c485e5a/250220161806_hsp250108_,55,160,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 18.02.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/585454.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/19/ca/19ca3aee-3698-45c5-8f0e-0530341ef35b/180220161705_hsp250107_vod_,110,55,35,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-02-18",
+       "plot": "תכנית 17 - סופ\"ש האולסטאר כבר מאחורינו, סיפורי השבוע, הפרסומת החדשה של גריפין וה-MVP של השבוע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/19/ca/19ca3aee-3698-45c5-8f0e-0530341ef35b/180220161705_hsp250107_vod_,110,55,35,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 11.02.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/582673.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/87/55/875572d6-03a8-4f3d-b60e-2af41d2cfb6a/130220162109_magazin_nba_130216_,110,80,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-02-11",
+       "plot": "תכנית 16 - דוראנט את ווסטברוק, הצמד הכי יעיל באן בי איי, לקראת סופ\"ש אולסטאר משוגע - כל הדיווחים והאירועים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/87/55/875572d6-03a8-4f3d-b60e-2af41d2cfb6a/130220162109_magazin_nba_130216_,110,80,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 04.02.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/579338.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f3/5f/f35fe8ea-72af-454d-9e4d-64d291c7b7d8/040220161806_hsp250105vod_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-02-04",
+       "plot": "תכנית 15 -  לברון וקליבלנד תופסים גובה, כספי וסקרמנטו ברצף הפסדים והאולסטאר בטורונטו מתקרב",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f3/5f/f35fe8ea-72af-454d-9e4d-64d291c7b7d8/040220161806_hsp250105vod_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן בי איי, 28.01.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/577416.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/77/50/7750f670-38c2-498f-8b49-84fe1777456f/280120162109_magazin_nba_280116_,55,80,160,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-01-28",
+       "plot": "תכנית 14 - מגזין בסימן פיטורי דיוויד בלאט, וגם: גולדן סטייט מוכיחה שהיא עדיין ההצגה הכי טובה בליגה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/77/50/7750f670-38c2-498f-8b49-84fe1777456f/280120162109_magazin_nba_280116_,55,80,160,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      },
+      {
+       "name": "מגזין אן.בי.איי, 21.01.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/575581.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/34/de/34de1ac5-4f25-4fd2-a71b-327284590979/2101162049_magazin_nba_210116_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-01-21",
+       "plot": "תכנית 13 - ניתוח התבוסה של הקאבס לווריורס, דטרויט נותנת כבוד לבן וואלאס והסיבות למה גולדן סטייט ממשיכה לשבור שיאים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/34/de/34de1ac5-4f25-4fd2-a71b-327284590979/2101162049_magazin_nba_210116_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "מגזין ה-NBA - 2015/16"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

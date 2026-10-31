@@ -1,0 +1,2011 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - 2022/23",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11130",
+   "series_id": "11130",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1297911.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:12",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "דרמטי ומתוק: מכבי זכתה באליפות ע\"ח הפועל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1297911.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DERBY_SAL_G3_HANAFA_130623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DERBY_SAL_G3_HANAFA_130623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=44",
+       "season": ""
+      },
+      {
+       "name": "אש בעיניים: הפועל מחצה ב-38 הפרש את מכבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1297386.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_MTA_G2_110623_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_MTA_G2_110623_NEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=440036&",
+       "season": ""
+      },
+      {
+       "name": "ניצחון מאליפות: מכבי גברה על הפועל בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1296665.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBY_SAL_080623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBY_SAL_080623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=439782&p",
+       "season": ""
+      },
+      {
+       "name": "דרבי בגמר: הפועל ת\"א ניצחה 68:77 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1295442.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_030623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_030623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=439336&pos",
+       "season": ""
+      },
+      {
+       "name": "עם 18 שלשות: מכבי ת\"א בגמר הפליאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1295156.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_020623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_020623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=439273&pos",
+       "season": ""
+      },
+      {
+       "name": "רקדה על החומות: הפועל ת\"א הביסה את י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1294787.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_310523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_310523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=439079&pos",
+       "season": ""
+      },
+      {
+       "name": "ניצחון מהגמר: מכבי ת\"א גברה 76:90 על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1294535.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_300523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_300523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=438970&poster",
+       "season": ""
+      },
+      {
+       "name": "יש חצי גמר: הפועל ירושלים ניצחה בהרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1294113.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_280523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_280523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=438813&pos",
+       "season": ""
+      },
+      {
+       "name": "עמדה בלחץ: הפועל י-ם עלתה ל-1:2 מול הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1293280.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_240523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_240523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=438522&poster",
+       "season": ""
+      },
+      {
+       "name": "הלך לה קשה: מכבי ת\"א השלימה סוויפ על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1293194.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_240523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_240523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=438521&poster=",
+       "season": ""
+      },
+      {
+       "name": "הפועל ת\"א השלימה סוויפ ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1292900.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_230523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_230523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=438380&pos",
+       "season": ""
+      },
+      {
+       "name": "רגלנד התפוצץ, חולון השלימה סוויפ על גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1292640.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_220523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_220523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=438296&poster=h",
+       "season": ""
+      },
+      {
+       "name": "פתחה את הסדרה: הרצליה קבעה 1:1 מול י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1292407.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERZELIYA_JERUSALEM/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERZELIYA_JERUSALEM/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=438181&p",
+       "season": ""
+      },
+      {
+       "name": "הלך קשה: מכבי ת\"א עלתה ל-0:2 מול ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1292324.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_maccabi_210523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_maccabi_210523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=438179&poster",
+       "season": ""
+      },
+      {
+       "name": "ספידי סמית' הוביל את ירושלים ל-0:1 על הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1291526.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_SAL_180523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_SAL_180523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=437922&po",
+       "season": ""
+      },
+      {
+       "name": "סמוך על שון: 27 נק' לדוסון, חולון עלתה ל-0:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1291501.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_SAL_180523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_SAL_180523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=437923&p",
+       "season": ""
+      },
+      {
+       "name": "ללא מכשולים: מכבי ת\"א עלתה ל-0:1 על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1291194.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_170523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_170523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=437825",
+       "season": ""
+      },
+      {
+       "name": "עם חצי שני גדול: הפועל ב-0:1 מול נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1291229.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_SAL_170523_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_SAL_170523_1/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=437824&p",
+       "season": ""
+      },
+      {
+       "name": "כאן האלופה: חולון דרסה ועלתה ל-0:1 גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1290734.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_150523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_150523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11301%26Vi=437654&poste",
+       "season": ""
+      },
+      {
+       "name": "מוכנה לפלייאוף: ב\"ש ניצחה 94:102 את אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1289013.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_EILAT/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_EILAT/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11295%26Vi=437104&poster=htt",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - פלייאוף",
+     "channels": [
+      {
+       "name": "דרמטי ומתוק: מכבי זכתה באליפות ע\"ח הפועל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1297911.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DERBY_SAL_G3_HANAFA_130623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DERBY_SAL_G3_HANAFA_130623/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "אש בעיניים: הפועל מחצה ב-38 הפרש את מכבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1297386.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_MTA_G2_110623_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_MTA_G2_110623_NEW/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "ניצחון מאליפות: מכבי גברה על הפועל בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1296665.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBY_SAL_080623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBY_SAL_080623/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "דרבי בגמר: הפועל ת\"א ניצחה 68:77 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1295442.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_030623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_030623/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "עם 18 שלשות: מכבי ת\"א בגמר הפליאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1295156.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_020623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_020623/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "רקדה על החומות: הפועל ת\"א הביסה את י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1294787.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_310523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_310523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "ניצחון מהגמר: מכבי ת\"א גברה 76:90 על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1294535.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_300523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_300523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "יש חצי גמר: הפועל ירושלים ניצחה בהרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1294113.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_280523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_280523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "עמדה בלחץ: הפועל י-ם עלתה ל-1:2 מול הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1293280.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_240523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_240523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "הלך לה קשה: מכבי ת\"א השלימה סוויפ על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1293194.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_240523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_240523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "הפועל ת\"א השלימה סוויפ ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1292900.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_230523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_230523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "רגלנד התפוצץ, חולון השלימה סוויפ על גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1292640.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_220523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_220523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "פתחה את הסדרה: הרצליה קבעה 1:1 מול י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1292407.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERZELIYA_JERUSALEM/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERZELIYA_JERUSALEM/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "הלך קשה: מכבי ת\"א עלתה ל-0:2 מול ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1292324.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_maccabi_210523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_maccabi_210523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "ספידי סמית' הוביל את ירושלים ל-0:1 על הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1291526.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_SAL_180523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_SAL_180523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "סמוך על שון: 27 נק' לדוסון, חולון עלתה ל-0:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1291501.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_SAL_180523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_SAL_180523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "ללא מכשולים: מכבי ת\"א עלתה ל-0:1 על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1291194.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_170523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_170523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "עם חצי שני גדול: הפועל ב-0:1 מול נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1291229.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_SAL_170523_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_SAL_170523_1/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      },
+      {
+       "name": "כאן האלופה: חולון דרסה ועלתה ל-0:1 גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1290734.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_150523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_150523/HLS/playlist.m3u8",
+       "season": "2022/23 - פלייאוף"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 27",
+     "channels": [
+      {
+       "name": "מוכנה לפלייאוף: ב\"ש ניצחה 94:102 את אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1289013.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_EILAT/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_EILAT/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 27"
+      },
+      {
+       "name": "גלבוע נפרדה מהליגה עם הפסד להפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1288665.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelB-CureLaserHaifavsHapoelGilboaGalil_168356242178/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelB-CureLaserHaifavsHapoelGilboaGalil_168356242178/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 27"
+      },
+      {
+       "name": "17 לסמית', הפועל י-ם ניצחה את מכבי בקלאסיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1288452.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_MTA_SAL_070523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_MTA_SAL_070523/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 27"
+      },
+      {
+       "name": "שיא עונתי לגינת, הפועל ת\"א חזרה לנצח מול נ\"צ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1288437.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelVeganFriendlyTelAvivvsIroniHaiMotorsNessZiona_168348851238/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelVeganFriendlyTelAvivvsIroniHaiMotorsNessZiona_168348851238/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 27"
+      },
+      {
+       "name": "24 נק' לדוסון , 84:90 להפועל חולון על גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1287860.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GALIL_050523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GALIL_050523/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 27"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 26",
+     "channels": [
+      {
+       "name": "היקי וג'ונס בלטו, הפועל חיפה ניצחה את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1287666.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_kyrat_ata_hapoel_haifa/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_kyrat_ata_hapoel_haifa/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 26"
+      },
+      {
+       "name": "מאוחר מדי: גלבוע ניצחה את הפועל ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1287665.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GILBOA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GILBOA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 26"
+      },
+      {
+       "name": "עצרה את הרצף: 86:99 לאילת על הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1286740.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelYossiAvrahamiEilatvsBneiHerzliya_168296388043/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelYossiAvrahamiEilatvsBneiHerzliya_168296388043/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 26"
+      },
+      {
+       "name": "רגלנד הצטיין, חולון הביסה את נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1286484.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_300423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_300423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 26"
+      },
+      {
+       "name": "המקום השני נפתח: י-ם ניצחה 76:85 את הפועל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1286167.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_SAL_290423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_SAL_290423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 26"
+      },
+      {
+       "name": "עצירה מפתיעה: מכבי ת\"א נכנעה לגליל בבית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1283405.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_180423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_180423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 26"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 25",
+     "channels": [
+      {
+       "name": "בתום מותחן: חולון ניצחה את הפועל אחרי הארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1284871.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_230423_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_230423_1/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 25"
+      },
+      {
+       "name": "הבטיחה מקום 3: ירושלים גברה על גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1284760.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_SAL_230423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_SAL_230423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 25"
+      },
+      {
+       "name": "אחרי 7 שנים: גלבוע/גליל ירדה ללאומית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1284825.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelYossiAvrahamiEilatvsHapoelGilboaGalil_1_168227804533/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelYossiAvrahamiEilatvsHapoelGilboaGalil_1_168227804533/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 25"
+      },
+      {
+       "name": "הבטיחה פלייאוף: הרצליה ניצחה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1284815.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BneiHerzliyavsHapoelB-CureLaserHaifa_168227594412/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BneiHerzliyavsHapoelB-CureLaserHaifa_168227594412/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 25"
+      },
+      {
+       "name": "הכנה אחרונה למונאקו: מכבי גברה על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1283987.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NES_MACCABI_200423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NES_MACCABI_200423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 25"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 24",
+     "channels": [
+      {
+       "name": "ובמקום הראשון: 82:89 למכבי ת\"א בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1290381.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_140523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_140523/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 24"
+      },
+      {
+       "name": "אחרי כ-3 חודשים: הפועל חיפה גברה על אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1282914.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelB-CureLaserHaifavsHapoelYossiAvrahamiEilat_168167122331/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelB-CureLaserHaifavsHapoelYossiAvrahamiEilat_168167122331/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 24"
+      },
+      {
+       "name": "בתום דרמה: גלבוע/גליל נכנעה 93:91 לקריית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1282938.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGilboaGalilvsIroniTaxonKiryatAta_1_168167356493/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGilboaGalilvsIroniTaxonKiryatAta_1_168167356493/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 24"
+      },
+      {
+       "name": "לפני אא\"ק: הפועל ירושלים גברה על הפועל חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1282635.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HOLON_SAL_150423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HOLON_SAL_150423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 24"
+      },
+      {
+       "name": "תצוגה נהדרת: 85:94 לגליל עליון על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1282352.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_GALIL_VS_NZ/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_GALIL_VS_NZ/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 24"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 23",
+     "channels": [
+      {
+       "name": "ירושלים המשיכה לדהור גם בנס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1287455.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_030523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_030523/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 23"
+      },
+      {
+       "name": "קרובה לפלייאוף: הרצליה ניצחה את גלבוע גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1281364.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERZELIYA_GILBOA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERZELIYA_GILBOA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 23"
+      },
+      {
+       "name": "בתום דרמה: קרית אתא ניצחה את אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1281318.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KYRAT_ATA_EILAT/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KYRAT_ATA_EILAT/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 23"
+      },
+      {
+       "name": "היה צמוד: מכבי ת\"א ניצחה את חולון בבית העליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1281104.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_NEW_090423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_NEW_090423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 23"
+      },
+      {
+       "name": "קרובה לפלייאוף: ב\"ש ניצחה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1281087.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_BS_VS_HAIFA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_BS_VS_HAIFA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 23"
+      },
+      {
+       "name": "בתום דרמה: הפועל ת\"א ניצחה את גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1280834.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_080423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_080423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 23"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 22",
+     "channels": [
+      {
+       "name": "קלאסיקו צהוב: מכבי ת\"א ניצחה את י-ם בארנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1279554.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_020423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_020423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 22"
+      },
+      {
+       "name": "למרות שניצחה: ב\"ש תשחק בפלייאוף התחתון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1279886.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_BS_VS_GILBOA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_BS_VS_GILBOA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 22"
+      },
+      {
+       "name": "חזרה למסלול: 66:77 לבני הרצליה על קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1279891.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HERZLIYA_VS_ATA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HERZLIYA_VS_ATA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 22"
+      },
+      {
+       "name": "בתום דרמה: נס ציונה ניצחה ועלתה לפליאוף העליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1279892.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HAIFA__VS_NZ/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HAIFA__VS_NZ/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 22"
+      },
+      {
+       "name": "ממשיכה לרוץ: הפועל ת\"א ניצחה גם באילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1279507.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_EILAT_020423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_EILAT_020423/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 22"
+      },
+      {
+       "name": "רגלנד כיכב, הפועל חולון גברה על גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1266451.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_120223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_120223/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 22"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 21",
+     "channels": [
+      {
+       "name": "בדרך למעלה: 72:79 לאילת אצל גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1277964.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_EILAT_270323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_EILAT_270323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 21"
+      },
+      {
+       "name": "הליגה בורחת לה: גלבוע/גליל הפסידה לאתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1277979.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGilboaGalilvsIroniTaxonKiryatAta_167994224648/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGilboaGalilvsIroniTaxonKiryatAta_167994224648/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 21"
+      },
+      {
+       "name": "המוליכה גברה על האלופה: מכבי ת\"א ניצחה בחולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1277759.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_260323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_260323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 21"
+      },
+      {
+       "name": "ה-13 ברצף: ניצחון דרמטי להפועל ירושלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1277805.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_260323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_260323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 21"
+      },
+      {
+       "name": "חצי שני מרשים: הפועל ת\"א ניצחה את הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1277549.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_250323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_250323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 21"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 20",
+     "channels": [
+      {
+       "name": "השלישי ברצף: הפועל אילת הפתיעה את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1276199.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EILAT_HOLON_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EILAT_HOLON_1/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 20"
+      },
+      {
+       "name": "בלי תקלות: מכבי ת\"א הביסה את גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1276242.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_190323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_190323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 20"
+      },
+      {
+       "name": "ירושלים קלעה 17 שלשות ב-107:65 על קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1275870.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JERUSLAM_SAL_180323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JERUSLAM_SAL_180323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 20"
+      },
+      {
+       "name": "הפועל ת\"א חזרה מפיגור וניצחה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1275535.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_hta_sal_170323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_hta_sal_170323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 20"
+      },
+      {
+       "name": "בתום הארכה: בני הרצליה גברה 92:96 על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1264841.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELIYA_060223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELIYA_060223/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 20"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 19",
+     "channels": [
+      {
+       "name": "הלך לה קשה: מכבי ת\"א ניצחה 84:91 את נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1274374.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_SAL_130323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_SAL_130323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 19"
+      },
+      {
+       "name": "תקווה מחודשת: 74:79 לגלבוע על בני הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1274473.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GILBOAA_130323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GILBOAA_130323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 19"
+      },
+      {
+       "name": "קליבלנד הרשים, הפועל אילת ניצחה את הפועל חיפה ברוממה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1274195.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HHAIFA_VS_EILAT/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HHAIFA_VS_EILAT/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 19"
+      },
+      {
+       "name": "לא עוצרת: הפועל ירושלים ניצחה את ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1273878.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_110323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_110323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 19"
+      },
+      {
+       "name": "נמנעה ממבוכה: הפועל ת\"א ניצחה את גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1273847.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_110323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_110323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 19"
+      },
+      {
+       "name": "התאוששה: חולון ניצחה 73:88 את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1273567.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_100323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_100323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 19"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 18",
+     "channels": [
+      {
+       "name": "הפועל ב\"ש חזרה לנצח אחרי 73:89 על בני הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1272592.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelAltshulerShahamBeerShevaDimonavsBneiHerzliya_167813188296/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelAltshulerShahamBeerShevaDimonavsBneiHerzliya_167813188296/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 18"
+      },
+      {
+       "name": "24 נק' לגריפין, הפועל אילת ניצחה 74:85 את גלבוע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1272593.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelYossiAvrahamiEilatvsHapoelGilboaGalil_167813170287/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelYossiAvrahamiEilatvsHapoelGilboaGalil_167813170287/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 18"
+      },
+      {
+       "name": "בלי תקלות: מכבי ת\"א הביסה את גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1272208.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_SAL_050323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_SAL_050323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 18"
+      },
+      {
+       "name": "75:78 דרמטי לקרית אתא על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1272356.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESS_KIRYAT_ATA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESS_KIRYAT_ATA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 18"
+      },
+      {
+       "name": "לוהטת: הפועל ירושלים לא עצרה מול הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1271935.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_040323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_040323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 18"
+      },
+      {
+       "name": "חולון הביסה את הפועל חיפה, משחק ענק לרגלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1271578.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_HHAIFA_SAL_030323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_HHAIFA_SAL_030323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 18"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 17",
+     "channels": [
+      {
+       "name": "כולל שיא מועדון: י-ם המשיכה בחגיגות נגד חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1268470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JARUSLAM_SAL_190223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JARUSLAM_SAL_190223/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 17"
+      },
+      {
+       "name": "הוציאה עצבים: מכבי ת\"א הביסה את בני הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1268425.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HER_MTA_190223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HER_MTA_190223/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 17"
+      },
+      {
+       "name": "הפועל ת\"א ניצחה בב\"ש אחרי הארכה ודרמה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1268398.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_190223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_190223/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 17"
+      },
+      {
+       "name": "בלי תקלות: קרית אתא ניצחה את אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1268181.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KRYAT_ATA_EILAT_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KRYAT_ATA_EILAT_NEW/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 17"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 16",
+     "channels": [
+      {
+       "name": "לא עוצרת: ניצחון 14 רצוף להפועל ירושלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1278267.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_SAL_280323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_SAL_280323/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 16"
+      },
+      {
+       "name": "גמבל בלט, בני הרצליה גברה 81:91 על הפועל אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1266421.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelYossiAvrahamiEilatvsBneiHerzliya-GameHighlights_16762306126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelYossiAvrahamiEilatvsBneiHerzliya-GameHighlights_16762306126/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 16"
+      },
+      {
+       "name": "גליל עליון חזרה מפיגור 13 לניצחון על קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1264856.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GALIL_ELIUN_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GALIL_ELIUN_NEW/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 16"
+      },
+      {
+       "name": "ברחה בסיום: מכבי ת\"א ניצחה 68:81 את ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1264628.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BALDWIN_SIVSUV/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BALDWIN_SIVSUV/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 16"
+      },
+      {
+       "name": "כאן האלופה: 24 לדוסון, חולון ניצחה את הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1263268.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_040223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_040223/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 16"
+      },
+      {
+       "name": "אחרי 11 הפסדים: גלבוע גברה על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1263235.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GILBOAA_040223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GILBOAA_040223/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 16"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 15",
+     "channels": [
+      {
+       "name": "ניצחון 4 ברציפות: גליל עליון הרשימה בהרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1261870.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HERZLYIA_VS_GALIL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HERZLYIA_VS_GALIL/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 15"
+      },
+      {
+       "name": "ערב שלשות נהדר למכבי ת\"א בקרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1261471.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ATA_MTA_SAL_290123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ATA_MTA_SAL_290123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 15"
+      },
+      {
+       "name": "הפועל ת\"א שרדה מותחן גדול בנס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1261551.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NASATZ_HTA_290123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NASATZ_HTA_290123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 15"
+      },
+      {
+       "name": "אפיאני הפציץ ב-77:93 של ב\"ש על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1261588.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HHAIFA_VS_BS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_HHAIFA_VS_BS/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 15"
+      },
+      {
+       "name": "ג'ונסון בלט, חולון ניצחה את גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1261214.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_GILBOA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_GILBOA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 15"
+      },
+      {
+       "name": "דרום אדום: הפועל י-ם הביסה את אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1261145.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_280123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_280123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 15"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 14",
+     "channels": [
+      {
+       "name": "עמוק בתחתית: גלבוע נכנעה 89:78 לגליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1259735.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GALIL_230123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GALIL_230123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 14"
+      },
+      {
+       "name": "הבטיח וקיים: הפועל ניצחה את מכבי בתום דרמה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1259446.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_220123_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_220123_1/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 14"
+      },
+      {
+       "name": "י-ם חזרה מפיגור גדול וגברה על הרצליה בהארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1259121.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_210123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_210123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 14"
+      },
+      {
+       "name": "במעמד צד אחד: חולון פירקה את נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1259122.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_NZ_VS_HOLON/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_NZ_VS_HOLON/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 14"
+      },
+      {
+       "name": "השינוי לא עזר: בוסקאליה הפסיד בבכורה באילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1259125.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_BS_VS_EILAT/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_BS_VS_EILAT/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 14"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 13",
+     "channels": [
+      {
+       "name": "אפיאני הכריע, 95:96 דרמטי לב\"ש על קריית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1255605.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IroniTaxonKiryatAtavsHapoelAltshulerShahamBeerShevaDimonaGameHighlights_167328850038/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IroniTaxonKiryatAtavsHapoelAltshulerShahamBeerShevaDimonaGameHighlights_167328850038/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 13"
+      },
+      {
+       "name": "בתום 2 הארכות: מכבי ניצחה 104:108 את הפ' חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1255386.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_NEW_080123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_SAL_NEW_080123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 13"
+      },
+      {
+       "name": "מושקוביץ' להט, גליל עליון ניצחה 83:89 את י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1255323.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_080123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_080123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 13"
+      },
+      {
+       "name": "הפועל ת\"א חזרה מפיגור גדול וניצחה בגלבוע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1255092.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGilboaGalilvsHapoelVeganFriendlyTelAviv_1_167312393059/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGilboaGalilvsHapoelVeganFriendlyTelAviv_1_167312393059/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 13"
+      },
+      {
+       "name": "הוקר ובאב כיכבו, הרצליה ניצחה את הפועל חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1255067.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_070123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_070123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 13"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 12",
+     "channels": [
+      {
+       "name": "הפסד 11 ברצף: הפועל חיפה הובסה ע\"י בני הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1276874.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_HAIFA_HERTZELIA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_HAIFA_HERTZELIA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 12"
+      },
+      {
+       "name": "קאמבק גדול להפועל ת\"א מול קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1266372.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_120223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_120223/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 12"
+      },
+      {
+       "name": "האריס חזר, חולון ניצחה 77:92 את הפועל ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1253378.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_010123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_010123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 12"
+      },
+      {
+       "name": "לא נעים: מכבי ת\"א הביסה את אילת ב-52 הפרש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1253347.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_010123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_010123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 12"
+      },
+      {
+       "name": "רבע אחד הספיק: הפועל י-ם ניצחה את גלבוע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1253119.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GILBOA_JER_311222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GILBOA_JER_311222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 12"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 11",
+     "channels": [
+      {
+       "name": "בתום דרמה: הפועל ת\"א ניצחה 77:80 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1251845.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_261222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_261222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 11"
+      },
+      {
+       "name": "קמפ וכהן בלטו, הרצליה גברה 70:82 על גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1251879.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERTZELIA_GILBOA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERTZELIA_GILBOA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 11"
+      },
+      {
+       "name": "טיול בצפון: מכבי ת\"א הביסה 67:96 את גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1251641.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_251222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_251222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 11"
+      },
+      {
+       "name": "ג'ונסון הצטיין בניצחון של חולון על קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1251414.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_ATA_VS_HOLON/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_ATA_VS_HOLON/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 11"
+      },
+      {
+       "name": "אלן הוביל עם 26, הפועל חיפה ניצחה באילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1251416.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_EILAT_VS_HAIFA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_EILAT_VS_HAIFA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 11"
+      },
+      {
+       "name": "אפיאני להט עם 33, ב\"ש הדפה קאמבק של נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1251084.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bash_231222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bash_231222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 11"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 10",
+     "channels": [
+      {
+       "name": "הרצליה הביסה את הפועל ת\"א ב-28 הפרש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1253182.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELIYA_HTA_311222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELIYA_HTA_311222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 10"
+      },
+      {
+       "name": "מכבי חזרה לנצח בליגה עם 60:77 על גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1250143.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_NEW_191222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_NEW_191222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 10"
+      },
+      {
+       "name": "התפרקות: 74:98 לקריית אתא על אילת בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1250088.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EILAT_ATA_191222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EILAT_ATA_191222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 10"
+      },
+      {
+       "name": "קופר כיכב, נס ציונה גברה 80:93 על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1249470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOELHAIFA_171222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOELHAIFA_171222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 10"
+      },
+      {
+       "name": "תצוגה גדולה: גליל עליון הביסה 66:86 את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1249385.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_SAL_171222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_SAL_171222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 10"
+      },
+      {
+       "name": "הפתעה בדרום: הפועל ב\"ש גברה על ירושלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1249119.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 10"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 9",
+     "channels": [
+      {
+       "name": "הפועל חולון ניצחה את אילת, 28 לאריק גרין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1248105.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Holon_vs_Eilat_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Holon_vs_Eilat_2/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 9"
+      },
+      {
+       "name": "בתום דרמה: הפועל חיפה ניצחה את גלבוע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1247714.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_HAIFA_GALIL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_HAIFA_GALIL/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 9"
+      },
+      {
+       "name": "עצרה את הסחף: גליל עליון ניצחה את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1247734.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KIRYAT_ATA_GALIL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KIRYAT_ATA_GALIL/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 9"
+      },
+      {
+       "name": "הפתעה בהיכל: מכבי ת\"א הפסידה 93:98 להרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1247366.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_101222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_101222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 9"
+      },
+      {
+       "name": "אונואקו בלט, הפועל ת\"א גברה 83:95 על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1247343.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_101222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_101222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 9"
+      },
+      {
+       "name": "לאחר שתי הארכות: נס ציונה ניצחה את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1247003.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_nestziona_091222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_nestziona_091222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 9"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 8",
+     "channels": [
+      {
+       "name": "חזרה למסלול: מכבי ת\"א הביסה את הפועל ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1245925.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACABI_BASH_SAL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACABI_BASH_SAL/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 8"
+      },
+      {
+       "name": "ממשיכה לצלול: הרצליה הפסידה בבית לאילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1245704.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_Herzliya_vs_eilat/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_Herzliya_vs_eilat/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 8"
+      },
+      {
+       "name": "ממשיכה בכושר הנפלא: י-ם ניצחה את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1245435.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_ATA_031222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_ATA_031222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 8"
+      },
+      {
+       "name": "הפועל ת\"א ניצחה בחולון אחרי 5 וחצי שנים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1245076.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_021222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_021222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 8"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 7",
+     "channels": [
+      {
+       "name": "בתום דרמה: חולון ניצחה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1252303.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_281222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_281222/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 7"
+      },
+      {
+       "name": "דרום אדום: ב\"ש גברה 70:79 על אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1244058.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_EILAT_VS_BS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_EILAT_VS_BS/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 7"
+      },
+      {
+       "name": "נמנעה מקריסה: 76:81 לקרית אתא על גלבוע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1244059.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_ATA_VS_GILBOA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_ATA_VS_GILBOA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 7"
+      },
+      {
+       "name": "הצהרת כוונות: הפועל י-ם גברה על מכבי ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1243698.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_271122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_271122/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 7"
+      },
+      {
+       "name": "הוציאה עצבים: הפועל ת\"א דרסה את גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1243367.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_261122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_261122/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 7"
+      },
+      {
+       "name": "ממשיכה לשקוע: בני הרצליה הפסידה לנס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1243018.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_NZ_HERTZLYIA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_NZ_HERTZLYIA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 7"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 6",
+     "channels": [
+      {
+       "name": "ב\"ש חזרה מפיגור 13 וניצחה בהרצליה אחרי דרמה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1241922.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_hertzeliya_211122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_hertzeliya_211122/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 6"
+      },
+      {
+       "name": "לאקומט בלט בבכורה, אילת גברה על גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1241920.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GILBOA_EILAT_211122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GILBOA_EILAT_211122/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 6"
+      },
+      {
+       "name": "הכי יפה בעיר: מכבי גברה על הפועל בדרבי דרמטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1241550.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_201122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_201122/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 6"
+      },
+      {
+       "name": "החמישי ברצף: ירושלים הרשימה מול גליל עליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1241248.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_JER_GALIL_191122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_JER_GALIL_191122/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 6"
+      },
+      {
+       "name": "רגלנד וגרין הצטיינו, חולון ניצחה את נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1241204.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GREEN_HOLON_SYNC/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GREEN_HOLON_SYNC/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 6"
+      },
+      {
+       "name": "23 נק' לבריסקר, קרית אתא הביסה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1240949.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IroniTaxonKiryatAtavsHapoelB-CureLaserHaifa_166877977233/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IroniTaxonKiryatAtavsHapoelB-CureLaserHaifa_166877977233/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 6"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 5",
+     "channels": [
+      {
+       "name": "קופר כיכב, 70:93 לנס ציונה על קריית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1238053.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_NZ_VS_ATA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSAL_NZ_VS_ATA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 5"
+      },
+      {
+       "name": "לוהטת: הפועל ת\"א ניצחה 81:86 את גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1237724.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelFriendlyTelAvivvsHapoelGilboaGalil_166776760916/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelFriendlyTelAvivvsHapoelGilboaGalil_166776760916/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 5"
+      },
+      {
+       "name": "נשארה מושלמת: מכבי ת\"א הביסה את הפועל אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1237674.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_EILAT_061122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_EILAT_061122/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 5"
+      },
+      {
+       "name": "רנדלוף בלט, הפועל י-ם גברה על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1237675.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_061122_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_061122_2/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 5"
+      },
+      {
+       "name": "31 נק' להאדסון, 89:95 לגליל עליון על בני הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1237323.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TKA_GALIL_HERZELIYA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TKA_GALIL_HERZELIYA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 5"
+      },
+      {
+       "name": "גרין להט, חולון ניצחה בחוץ 94:101 את ב\"ש/דימונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1237375.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bash_sal_051122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bash_sal_051122/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 5"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 4",
+     "channels": [
+      {
+       "name": "גלבוע/גליל הביסה 80:93 את הפועל ב\"ש/דימונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1235960.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GILBOA_BASH_311022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GILBOA_BASH_311022/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 4"
+      },
+      {
+       "name": "שואו טיים: מכבי ת\"א הביסה 78:98 את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1235787.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_HOLON_301022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_HOLON_301022/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 4"
+      },
+      {
+       "name": "שלשת ניצחון להיקי, הפועל חיפה גברה על הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1235655.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELIYA_301022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELIYA_301022/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 4"
+      },
+      {
+       "name": "בראון להט, הפועל ת\"א נותרה מושלמת בליגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1235374.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_TA_KYRAT_ATA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_TA_KYRAT_ATA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 4"
+      },
+      {
+       "name": "טיול של שישי: 68:82 להפועל י-ם על הפועל אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1235020.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_281022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_281022/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 4"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 3",
+     "channels": [
+      {
+       "name": "שוב רוקדת: 85:102 להפועל ת\"א על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1254264.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelVeganFriendlyTelAvivvsIroniHaiMotorsNessZiona_167285861987/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelVeganFriendlyTelAvivvsIroniHaiMotorsNessZiona_167285861987/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 3"
+      },
+      {
+       "name": "טיול בכרמל: מכבי ת\"א הביסה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1253878.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_MACCABI_SAL_030123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_MACCABI_SAL_030123/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 3"
+      },
+      {
+       "name": "הראשון לעונה: הפועל י-ם גברה על גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1233948.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJR_GALIL_241022NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJR_GALIL_241022NEW/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 3"
+      },
+      {
+       "name": "בתום דרמה אדירה: ב\"ש/דימונה גברה על אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1233944.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_ATTA_241022NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_ATTA_241022NEW/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 3"
+      },
+      {
+       "name": "הפסד ראשון לעונה: חולון נכנעה להרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1233654.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HOLON_231022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HOLON_231022/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 3"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 2",
+     "channels": [
+      {
+       "name": "ממשיכה להתחבר: חולון חגגה על גלבוע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1231960.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_GILBOA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_GILBOA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 2"
+      },
+      {
+       "name": "קופר שוב שבר את שיא האסיסטים בניצחון נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1231893.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESS_EILAT/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESS_EILAT/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 2"
+      },
+      {
+       "name": "מושלמת: הפועל ת\"א ניצחה 73:87 את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1231600.jpg",
+       "url": "https://playbyplay.sport5.co.il/?GameID=127451&FLNum=20",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://playbyplay.sport5.co.il/?GameID=127451&FLNum=20",
+       "season": "2022/23 - מחזור 2"
+      },
+      {
+       "name": "במעמד צד אחד: בני הרצליה התפוצצה על ירושלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1231485.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERZELIA_151022_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERZELIA_151022_1/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 2"
+      },
+      {
+       "name": "מוכנה לפנר: מכבי ת\"א הביסה את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1230205.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_111022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_111022/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 2"
+      }
+     ]
+    },
+    {
+     "name": "2022/23 - מחזור 1",
+     "channels": [
+      {
+       "name": "סיפתח מוצלח: קרית אתא ניצחה את הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1229504.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KIRYATATA_HERZELIYA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KIRYATATA_HERZELIYA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 1"
+      },
+      {
+       "name": "אפסון בלט, הפועל חיפה ניצחה את ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1229497.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_HAPOEL_HAIFA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_HAPOEL_HAIFA/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 1"
+      },
+      {
+       "name": "טירוף: 115:117 ענק לגלבוע על גליל בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1229494.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_derbi_galil_new/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_derbi_galil_new/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 1"
+      },
+      {
+       "name": "מרטין בלט, מכבי ת\"א פתחה ברגל ימין את הליגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1229465.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_081022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_081022/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 1"
+      },
+      {
+       "name": "ככה פותחים עונה: ניצחון דרמטי לחולון על י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1229130.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJR_HOLON_071022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJR_HOLON_071022/HLS/playlist.m3u8",
+       "season": "2022/23 - מחזור 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

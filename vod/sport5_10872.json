@@ -1,0 +1,101 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - לתפארת מדינת ישראל",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10872",
+   "series_id": "10872",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1191017.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "לתפארת מדינת ישראל: אבדיה ובוזגלו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1191017.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/xtO7SmOvGm/App/HSP542478_AVDIJA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/xtO7SmOvGm/App/HSP542478_AVDIJA_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sp",
+       "season": ""
+      },
+      {
+       "name": "לתפארת מדינת ישראל: ברקוביץ' ושלח",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1191015.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/7aJRcE6lhC/App/HSP542471_BERKO_SELACH_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/7aJRcE6lhC/App/HSP542471_BERKO_SELACH_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://",
+       "season": ""
+      },
+      {
+       "name": "לתפארת מדינת ישראל: סולומון ושלף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1191022.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/iYBTREvotJ/App/HSP542474_SOLOMON_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/iYBTREvotJ/App/HSP542474_SOLOMON_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "לתפארת מדינת ישראל: מזרחי ואמסלם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1191016.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/9pCnhvZZSi/App/HSP542473_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/9pCnhvZZSi/App/HSP542473_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co",
+       "season": ""
+      },
+      {
+       "name": "לתפארת מדינת ישראל: שרצקי וסהר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1191020.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/C218pzfYIw/App/HSP542476_IZI_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/C218pzfYIw/App/HSP542476_IZI_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport",
+       "season": ""
+      },
+      {
+       "name": "לתפארת מדינת ישראל: אשרם ונבו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1191019.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/8YYAi7vcdX/App/HSP542477_ASHRAM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/8YYAi7vcdX/App/HSP542477_ASHRAM_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sp",
+       "season": ""
+      },
+      {
+       "name": "לתפארת מדינת ישראל: אנדיוני ומאיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1191021.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/9RoNc7FMPN/App/HSP542475_ANDYONI_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/9RoNc7FMPN/App/HSP542475_ANDYONI_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "לתפארת מדינת ישראל: גורבנקו ואילדיס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1191018.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/V0jxOPgzNG/App/HSP542472_GORBENKO_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/V0jxOPgzNG/App/HSP542472_GORBENKO_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2066 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - יציע העיתונות",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "2770",
+   "series_id": "2770",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1796211.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:01",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 28.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1796211.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740637/HLS/playlist.m3u8",
+       "date": "2026-10-28",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740637/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=565603&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 26.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1795408.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740636/HLS/playlist.m3u8",
+       "date": "2026-10-26",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740636/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=565365&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 22.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1793253.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740634/HLS/playlist.m3u8",
+       "date": "2026-10-22",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740634/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=564866&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 19.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1791559.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740633/HLS/playlist.m3u8",
+       "date": "2026-10-19",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740633/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=564435&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 18.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1791154.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740632/HLS/playlist.m3u8",
+       "date": "2026-10-18",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740632/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=564341&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 16.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1789539.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740631/HLS/playlist.m3u8",
+       "date": "2026-10-16",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740631/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=563993&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 11.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1787638.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740629/HLS/playlist.m3u8",
+       "date": "2026-10-11",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740629/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=563507&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 07.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1785614.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740628/HLS/playlist.m3u8",
+       "date": "2026-10-07",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740628/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=563022&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 06.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1785346.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740626/HLS/playlist.m3u8",
+       "date": "2026-10-06",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740626/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=562925&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 05.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1784867.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740625/HLS/playlist.m3u8",
+       "date": "2026-10-05",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=562801&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 29.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1781751.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740623/HLS/playlist.m3u8",
+       "date": "2026-09-29",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=562200&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 28.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1781290.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740622/HLS/playlist.m3u8",
+       "date": "2026-09-28",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740622/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=562089&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 23.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1779270.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740620/HLS/playlist.m3u8",
+       "date": "2026-09-23",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740620/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=561572&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 22.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1778910.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YATZIA_220926/HLS/playlist.m3u8",
+       "date": "2026-09-22",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/YATZIA_220926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=561471&poster=http",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 16.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1776830.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740617/HLS/playlist.m3u8",
+       "date": "2026-09-16",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740617/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=560969&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1775956.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP745630/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP745630/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=560765&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 06.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1772829.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740615/HLS/playlist.m3u8",
+       "date": "2026-09-06",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740615/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=560031&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 06.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1772173.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740614X/HLS/playlist.m3u8",
+       "date": "2026-09-06",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740614X/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=559913&poster=https:/",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 03.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1771064.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740613/HLS/playlist.m3u8",
+       "date": "2026-09-03",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740613/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=559629&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יציע העיתונות, 02.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1770581.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740612/HLS/playlist.m3u8",
+       "date": "2026-09-02",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740612/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=559512&poster=https://",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2026/27",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 28.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1796211.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740637/HLS/playlist.m3u8",
+       "date": "2026-10-28",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740637/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 26.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1795408.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740636/HLS/playlist.m3u8",
+       "date": "2026-10-26",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740636/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 22.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1793253.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740634/HLS/playlist.m3u8",
+       "date": "2026-10-22",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740634/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 19.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1791559.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740633/HLS/playlist.m3u8",
+       "date": "2026-10-19",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740633/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 18.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1791154.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740632/HLS/playlist.m3u8",
+       "date": "2026-10-18",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740632/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 16.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1789539.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740631/HLS/playlist.m3u8",
+       "date": "2026-10-16",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740631/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 11.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1787638.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740629/HLS/playlist.m3u8",
+       "date": "2026-10-11",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740629/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 07.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1785614.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740628/HLS/playlist.m3u8",
+       "date": "2026-10-07",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740628/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 06.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1785346.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740626/HLS/playlist.m3u8",
+       "date": "2026-10-06",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740626/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 05.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1784867.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740625/HLS/playlist.m3u8",
+       "date": "2026-10-05",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740625/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 29.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1781751.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740623/HLS/playlist.m3u8",
+       "date": "2026-09-29",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740623/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 28.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1781290.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740622/HLS/playlist.m3u8",
+       "date": "2026-09-28",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740622/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 23.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1779270.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740620/HLS/playlist.m3u8",
+       "date": "2026-09-23",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740620/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 22.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1778910.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YATZIA_220926/HLS/playlist.m3u8",
+       "date": "2026-09-22",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YATZIA_220926/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 16.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1776830.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740617/HLS/playlist.m3u8",
+       "date": "2026-09-16",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740617/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1775956.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP745630/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP745630/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 06.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1772829.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740615/HLS/playlist.m3u8",
+       "date": "2026-09-06",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740615/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 06.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1772173.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740614X/HLS/playlist.m3u8",
+       "date": "2026-09-06",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740614X/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 03.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1771064.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740613/HLS/playlist.m3u8",
+       "date": "2026-09-03",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740613/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
+      {
+       "name": "יציע העיתונות, 02.09.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1770581.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740612/HLS/playlist.m3u8",
+       "date": "2026-09-02",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740612/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2024/25",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 11.06.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1566309.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676888/HLS/playlist.m3u8",
+       "date": "2025-06-11",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676888/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 05.06.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1563709.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676886/HLS/playlist.m3u8",
+       "date": "2025-06-05",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676886/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 04.06.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1563223.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676885/HLS/playlist.m3u8",
+       "date": "2025-06-04",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676885/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 26.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1560338.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676883/HLS/playlist.m3u8",
+       "date": "2025-05-26",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676883/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 25.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1559935.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676882/HLS/playlist.m3u8",
+       "date": "2025-05-25",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676882/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 22.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1558591.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676881/HLS/playlist.m3u8",
+       "date": "2025-05-22",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676881/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 21.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1558252.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676880/HLS/playlist.m3u8",
+       "date": "2025-05-21",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676880/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 19.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1557422.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_YATZIA_190525/HLS/playlist.m3u8",
+       "date": "2025-05-19",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_YATZIA_190525/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 18.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1556892.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676878/HLS/playlist.m3u8",
+       "date": "2025-05-18",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676878/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 15.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1556083.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676876/HLS/playlist.m3u8",
+       "date": "2025-05-15",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676876/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 14.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1555711.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676875/HLS/playlist.m3u8",
+       "date": "2025-05-14",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676875/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 12.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1554995.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676874/HLS/playlist.m3u8",
+       "date": "2025-05-12",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676874/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 11.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1554519.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676873/HLS/playlist.m3u8",
+       "date": "2025-05-11",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676873/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 05.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1549928.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_YTIZA_050525/HLS/playlist.m3u8",
+       "date": "2025-05-05",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_YTIZA_050525/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 04.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1549512.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_YATZIA_040525/HLS/playlist.m3u8",
+       "date": "2025-05-04",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_YATZIA_040525/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 28.04.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1547189.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YATZIA_FULL_280425/HLS/playlist.m3u8",
+       "date": "2025-04-28",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YATZIA_FULL_280425/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 27.04.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1546723.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676869/HLS/playlist.m3u8",
+       "date": "2025-04-27",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676869/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 24.04.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1545439.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676868/HLS/playlist.m3u8",
+       "date": "2025-04-24",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676868/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 21.04.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1544440.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_YAZTIA_210425/HLS/playlist.m3u8",
+       "date": "2025-04-21",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FULL_YAZTIA_210425/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      },
+      {
+       "name": "יציע העיתונות, 20.4.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1543914.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_FULL_YATZIA_200425/HLS/playlist.m3u8",
+       "date": "2025-04-20",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_FULL_YATZIA_200425/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2024/25"
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2023/24",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 11.07.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1415118.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599799/HLS/playlist.m3u8",
+       "date": "2024-07-11",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599799/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 07.07.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1413532.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599797/HLS/playlist.m3u8",
+       "date": "2024-07-07",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599797/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 03.07.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1412123.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599795/HLS/playlist.m3u8",
+       "date": "2024-07-03",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599795/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 13.06.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1403753.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YATZIA_130624/HLS/playlist.m3u8",
+       "date": "2024-06-13",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YATZIA_130624/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 09.06.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1402485.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599792/HLS/playlist.m3u8",
+       "date": "2024-06-09",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599792/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 06.06.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1401684.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599791/HLS/playlist.m3u8",
+       "date": "2024-06-06",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599791/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 05.06.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1401301.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599790/HLS/playlist.m3u8",
+       "date": "2024-06-05",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599790/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 02.06.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1400236.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599788/HLS/playlist.m3u8",
+       "date": "2024-06-02",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599788/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 30.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1399241.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599787/HLS/playlist.m3u8",
+       "date": "2024-05-30",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599787/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 27.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1397947.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599785/HLS/playlist.m3u8",
+       "date": "2024-05-27",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599785/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 26.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1397709.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599784/HLS/playlist.m3u8",
+       "date": "2024-05-26",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599784/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 22.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1395966.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599782/HLS/playlist.m3u8",
+       "date": "2024-05-22",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599782/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 20.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1395162.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599781/HLS/playlist.m3u8",
+       "date": "2024-05-20",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599781/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 19.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1394851.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599780/HLS/playlist.m3u8",
+       "date": "2024-05-19",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599780/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 16.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1393274.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599778/HLS/playlist.m3u8",
+       "date": "2024-05-16",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599778/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 09.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1391251.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599777/HLS/playlist.m3u8",
+       "date": "2024-05-09",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599777/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 06.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1389915.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599776/HLS/playlist.m3u8",
+       "date": "2024-05-06",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599776/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 02.05.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1388271.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599775/HLS/playlist.m3u8",
+       "date": "2024-05-02",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599775/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 27.04.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1386264.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599605/HLS/playlist.m3u8",
+       "date": "2024-04-27",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599605/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      },
+      {
+       "name": "יציע העיתונות, 25.04.24",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1385411.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599774/HLS/playlist.m3u8",
+       "date": "2024-04-25",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP599774/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2023/24"
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2022/23",
+     "channels": [
+      {
+       "name": "עד לפעם הבאה: יציע העיתונות - תכנית סיום העונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1300219.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556838/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556838/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 19.06.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1299396.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556837/HLS/playlist.m3u8",
+       "date": "2023-06-19",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556837/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 15.06.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1298593.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556836/HLS/playlist.m3u8",
+       "date": "2023-06-15",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556836/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 12.06.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1297704.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556835/HLS/playlist.m3u8",
+       "date": "2023-06-12",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556835/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 08.06.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1296729.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556834/HLS/playlist.m3u8",
+       "date": "2023-06-08",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556834/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 05.06.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1296019.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556833/HLS/playlist.m3u8",
+       "date": "2023-06-05",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556833/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 01.06.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1295125.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556832/HLS/playlist.m3u8",
+       "date": "2023-06-01",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556832/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 29.05.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1294367.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556831/HLS/playlist.m3u8",
+       "date": "2023-05-29",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556831/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "אבו פאני ב'יציע העיתונות' - התכנית המלאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1291581.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556829/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556829/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 15.05.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1290814.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556828_1/HLS/playlist.m3u8",
+       "date": "2023-05-15",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556828_1/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 11.05.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1289835.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556827/HLS/playlist.m3u8",
+       "date": "2023-05-11",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556827/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 08.05.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1288870.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556826/HLS/playlist.m3u8",
+       "date": "2023-05-08",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556826/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 04.05.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1287832.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556825/HLS/playlist.m3u8",
+       "date": "2023-05-04",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556825/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 01.05.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1286878.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556824/HLS/playlist.m3u8",
+       "date": "2023-05-01",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556824/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 27.04.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1285884.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556823/HLS/playlist.m3u8",
+       "date": "2023-04-27",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556823/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 20.04.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1284090.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556822/HLS/playlist.m3u8",
+       "date": "2023-04-20",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556822/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 13.04.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1282345.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556821/HLS/playlist.m3u8",
+       "date": "2023-04-13",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556821/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 10.04.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1281490.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556820/HLS/playlist.m3u8",
+       "date": "2023-04-10",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556820/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 03.04.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1279918.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556819/HLS/playlist.m3u8",
+       "date": "2023-04-03",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556819/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      },
+      {
+       "name": "יציע העיתונות, 31.03.23",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1278875.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556818/HLS/playlist.m3u8",
+       "date": "2023-03-31",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP556818/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2022/23"
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2017/18",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 11.06.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/838237.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7e/94/7e94fa4c-7c82-412f-8845-cf252c51791a/120620180101_hsp343862_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-06-11",
+       "plot": "חלום הדאבל חי: חולון ניצחה את י-ם ועלתה לגמר, אי הוודאות שסובב סביב בית\"ר ורפאל נדאל מלך החימר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7e/94/7e94fa4c-7c82-412f-8845-cf252c51791a/120620180101_hsp343862_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 07.06.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/837575.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/17/79/1779ddd4-b182-4b5a-b8ab-d71da98d4fb6/080620180202_hsp343861_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2018-06-07",
+       "plot": "חולון העפילה לפיינל פור והודיעה על חזרת גלן רייס ואיך היה ניתן למנוע את המבוכה בסאגת ארגנטינה?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/17/79/1779ddd4-b182-4b5a-b8ab-d71da98d4fb6/080620180202_hsp343861_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 04.06.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/835616.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/02/86/02860faa-5a8f-4b17-8417-e74fefdc1d77/050620180101_hsp343860_,55,110,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-06-04",
+       "plot": "מועמדות זוארץ נפסלה בגלל שלא עבר \"צינון\", בעקבות הדרבי, משחקי הפיינל פור יפוצלו והשואו טיים של סטף קרי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/02/86/02860faa-5a8f-4b17-8417-e74fefdc1d77/050620180101_hsp343860_,55,110,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 31.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/835101.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/43/75/43756912-a6e1-4821-8fac-6e52b0f45fa8/010620182109_hsp343859x_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-31",
+       "plot": "תכנית 80 - הפתעות בפלייאוף הכדורסל, ההחלטה האמיצה של זידאן ושערוריית הכרטיסים למשחק מול ארגנטינה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/43/75/43756912-a6e1-4821-8fac-6e52b0f45fa8/010620182109_hsp343859x_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 28.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/834151.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/97/c3/97c3f52e-aa11-4c08-8d02-92c2b01485b3/290520180101_hsp343858_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-28",
+       "plot": "תכנית 79 - לוזון חתם בבית\"ר, ראדי מחפש בית, המלך ג'יימס שולט בענף והשושלת של ריאל מדריד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/97/c3/97c3f52e-aa11-4c08-8d02-92c2b01485b3/290520180101_hsp343858_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 24.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/833674.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/01/de/01de3c9f-b886-4c5d-bab7-543a46c7ff13/250520180101_hsp343857_,55,110,80,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-24",
+       "plot": "תכנית 78 - הסכם חדש מתגבש בין ארגון השחקנים למנהלת, האם שכטר החתמה טובה למכבי ת\"א ובעיית האיצטדיונים בארץ",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/01/de/01de3c9f-b886-4c5d-bab7-543a46c7ff13/250520180101_hsp343857_,55,110,80,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 21.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/832825.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f9/d2/f9d27995-9da6-4d00-abf8-21ce419e2581/220520180808_hsp343856_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-21",
+       "plot": "תכנית 77 - טפירו באולפן על שביתת השחקנים, סיכום עונה בכדורגל, ארגנטינה תתארח בטדי וחדרה חוזרת לליגת העל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f9/d2/f9d27995-9da6-4d00-abf8-21ce419e2581/220520180808_hsp343856_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 17.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/832293.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a4/f6/a4f6f55d-a987-483e-b96a-1967f8921842/180520180202_hsp343854_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-17",
+       "plot": "תכנית 76 - אוהדי בית\"ר הפגינו מול ביתו של טביב, כמה עולה החגיגה של ארנטינה ומסי בארץ הקודש והמורשת שג'ורדי קרויף משאיר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a4/f6/a4f6f55d-a987-483e-b96a-1967f8921842/180520180202_hsp343854_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 14.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/831125.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/7a/287ab9e7-9279-4a85-99a5-b56031360024/150520180101_hsp343853_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-14",
+       "plot": "תכנית 75 - הבלאגן שחוגג בבית\"ר ירושלים, ברק יצחקי פרש מכדורגל והמלפפונים החמים של ליגת העל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/7a/287ab9e7-9279-4a85-99a5-b56031360024/150520180101_hsp343853_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 10.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/829167.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7a/fc/7afce17c-8054-41c3-843d-fa912d3fe4c9/110520180101_hsp343852_,110,80,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-10",
+       "plot": "תכנית 74 - הבעיה המנטלית של מכבי ת\"א, טביב מול הכוכבים בבית\"ר וחוק השבות - גרסת הפרקט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7a/fc/7afce17c-8054-41c3-843d-fa912d3fe4c9/110520180101_hsp343852_,110,80,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 07.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/828199.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a2/04/a2048760-23b1-4409-95f6-645b44ed9c3a/080520180404_hsp343851xxxx_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-07",
+       "plot": "תכנית 73 - אליפות שלישית לב\"ש, טירוף הג'ירומאניה, גמר גביע המדינה ומי \"יזכה\" לאמן מול ארגנטינה ומסי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a2/04/a2048760-23b1-4409-95f6-645b44ed9c3a/080520180404_hsp343851xxxx_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 03.05.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/826325.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/cd/fb/cdfb2a61-b92a-482e-8569-35ad131b49e0/040520180101_hsp343850_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-05-03",
+       "plot": "תכנית 72 - מכבי ניצחה בדרבי התל אביבי ועלתה לפסגה, ההזדמנות האחרונה של בית\"ר במאבקי האליפות וסכסוך העבודה בכדורסל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/cd/fb/cdfb2a61-b92a-482e-8569-35ad131b49e0/040520180101_hsp343850_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 30.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/822103.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/59/dc/59dcf35c-1893-4fe3-af3e-1a3d4a42df2a/010520180202_hsp343849_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-30",
+       "plot": "תכנית 71 - בית\"ר חטפה רביעייה מנתניה, הסכסוך במשפחת לוזון, אליפות אירופה בג'ודו וג'ורדי איבד את הראש",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/59/dc/59dcf35c-1893-4fe3-af3e-1a3d4a42df2a/010520180202_hsp343849_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 26.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/820319.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/87/e0/87e01d29-55fe-48cf-87f0-0ebc8b89ccf2/270420180101_hsp343848_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-26",
+       "plot": "תכנית 70 - אלי טביב במתקפה על האלופה, מוחמד סלאח לא עוצר והמשמעות של אירוח אליפות אירופה בג'ודו בת\"א",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/87/e0/87e01d29-55fe-48cf-87f0-0ebc8b89ccf2/270420180101_hsp343848_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 23.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/817326.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6b/db/6bdb29cd-1b1b-42a5-8d4c-221bfba967ae/240420180303_hsp343847_,55,80,160,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-23",
+       "plot": "תכנית 69 - בית\"ר ניצחה את הפועל חיפה, הפער חזר ל-4 נקודות. המשבר של מכבי ת\"א ו20 שנה למשחק השרוכים",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6b/db/6bdb29cd-1b1b-42a5-8d4c-221bfba967ae/240420180303_hsp343847_,55,80,160,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 16.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/816009.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c7/a9/c7a96a68-b7a5-4536-a7fe-3252032f0151/170420180202_hsp343846_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-16",
+       "plot": "תכנית 68 - קובי רפואה מסכם את העונה של הפועל ת\"א בלאומית ושכטר ממשיך להתייבש על הספסל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c7/a9/c7a96a68-b7a5-4536-a7fe-3252032f0151/170420180202_hsp343846_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 12.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/813058.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8e/c8/8ec83641-c9af-4625-b8cd-002bb2d8b88c/130420180202_hsp343845_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-12",
+       "plot": "תכנית 67 - המחאות נגד החוק הרוסי, סיכום הרבע הדרמטי באלופות וההשלכות שיהיו לצעד של מכבי ת\"א בכדורסל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8e/c8/8ec83641-c9af-4625-b8cd-002bb2d8b88c/130420180202_hsp343845_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 09.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/810159.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/70/d3/70d3b5a8-10a4-4d44-9be3-bde3f9a6d371/100420180303_hsp343844_,80,35,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-09",
+       "plot": "תכנית 66 - ב\"ש בדרך לאליפות שלישית אחרי ניצחון על מכבי ת\"א, גלן רייס נזרק מחולון ודורון ג'מצ'י בראיון נרחב על ההחלטה של מכבי ת\"א",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/70/d3/70d3b5a8-10a4-4d44-9be3-bde3f9a6d371/100420180303_hsp343844_,80,35,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 02.04.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/805342.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/81/3e/813ef8e7-4ce1-409a-a63b-b333d384aadd/030420180606_hsp343843_,55,110,35,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2018-04-02",
+       "plot": "תכנית 64 - הדרבי של ת\"א שוב אדום, בית\"ר מתקרבת לדאבל, מי יחליף את ג'ורדי ומי ימצמץ ראשון בפרשת מיכאל אוחנה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/81/3e/813ef8e7-4ce1-409a-a63b-b333d384aadd/030420180606_hsp343843_,55,110,35,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      },
+      {
+       "name": "יציע העיתונות, 29.03.18",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/804588.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/40/72/40725534-147a-4fc8-9f64-05daa2223c41/300320180404_hsp343842_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "2018-03-29",
+       "plot": "תכנית 63 - אלי אוחנה בראיון טלוויזיוני ראשון בתור נציג הבעלים של בית\"ר י-ם",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/40/72/40725534-147a-4fc8-9f64-05daa2223c41/300320180404_hsp343842_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2017/18"
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2019/20",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 16.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1005294.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3DY65F74zZ/App/HSP424796_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-16",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3DY65F74zZ/App/HSP424796_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 12.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1004750.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/jxJfXqa9Gp/App/HSP424795_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-12",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/jxJfXqa9Gp/App/HSP424795_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 09.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1003810.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/sRAvVmdPMT/App/HSP424794_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-09",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/sRAvVmdPMT/App/HSP424794_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 05.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1003047.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/gS4O1Aoyb7/App/HSP424793_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-05",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/gS4O1Aoyb7/App/HSP424793_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 27.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1001308.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/k01WjphlYZ/App/HSP424792_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-27",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/k01WjphlYZ/App/HSP424792_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 24.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1000316.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/Px61EV9MaT/App/HSP424791_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-24",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/Px61EV9MaT/App/HSP424791_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 20.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/999371.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/OcVENzeoyJ/App/HSP424790_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-20",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/OcVENzeoyJ/App/HSP424790_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 17.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/998599.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3weuKbDc6D/App/HSP424789_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-17",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/3weuKbDc6D/App/HSP424789_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 13.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/997812.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/IWa6noRrLo/App/HSP424788_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-13",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/IWa6noRrLo/App/HSP424788_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 10.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/996940.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/ooiICVnF86/App/HSP424787_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-10",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/ooiICVnF86/App/HSP424787_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 06.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/995960.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/NZddQwAnRg/App/HSP424786_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-06",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/NZddQwAnRg/App/HSP424786_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 03.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/995016.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8SgHLqlIPv/App/HSP424785_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-03",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8SgHLqlIPv/App/HSP424785_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 30.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/994370.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/j8WhK2wOtd/App/HSP442288_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-30",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/j8WhK2wOtd/App/HSP442288_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 27.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/993130.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/eItphUWv5M/App/HSP424783_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-27",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/eItphUWv5M/App/HSP424783_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 23.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/992239.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/jO4noa8n7X/App/HSP424782_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-23",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/jO4noa8n7X/App/HSP424782_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 20.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/991243.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/cld9PwqEy3/App/HSP424781_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-20",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/cld9PwqEy3/App/HSP424781_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 16.01.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/990443.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/zacUX5ZjyY/App/HSP424780_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-01-16",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/zacUX5ZjyY/App/HSP424780_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 13.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/989370.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/s2vV5qj05J/App/HSP424779_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-13",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/s2vV5qj05J/App/HSP424779_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 09.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/988729.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/4EjhVfj5mx/App/HSP424778_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-09",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/4EjhVfj5mx/App/HSP424778_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      },
+      {
+       "name": "יציע העיתונות, 06.01.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/987693.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/5eyubqZ9k1/App/HSP424777_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-01-06",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/5eyubqZ9k1/App/HSP424777_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2019/20"
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2018/19",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 20.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/941930.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ilvmsetENG/App/HSP412550_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-06-20",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/ilvmsetENG/App/HSP412550_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 17.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/941038.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/eDXKaSsdnZ/App/HSP412549_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-06-17",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/eDXKaSsdnZ/App/HSP412549_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 13.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/940397.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/3CgKUCk6lL/App/HSP412548_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-06-13",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/3CgKUCk6lL/App/HSP412548_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 10.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/939620.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/k0t8RfsEVu/App/HSP412547_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-06-10",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/k0t8RfsEVu/App/HSP412547_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 07.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/938926.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/vMmTZTsGZn/App/HSP412546_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-06-07",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/vMmTZTsGZn/App/HSP412546_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 03.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/938122.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/45/e5/45e571b2-68d1-4fab-87f8-1da978350d15/040620190012_hsp412545_,55,80,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "2019-06-03",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/45/e5/45e571b2-68d1-4fab-87f8-1da978350d15/040620190012_hsp412545_,55,80,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 30.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/937743.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/86/01/860176ab-9040-4121-9bb6-6f90a743fd77/010620191806_hsp412544_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-30",
+       "plot": "תכנית 14 - הדילמה של אלונה ברקת,  צומת הדרכים של סטודמאייר והצרות באיגוד הכדוריד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/86/01/860176ab-9040-4121-9bb6-6f90a743fd77/010620191806_hsp412544_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 27.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/935748.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b2/be/b2beb179-f625-48e3-a19e-80cf8ca64733/280520190101_hsp412543_,80,55,160,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-27",
+       "plot": "תכנית 13 - העונה המאכזבת של הפועל ב\"ש, מכבי ת\"א שוב ניצחה בדרבי והתקרבה לפיינל פור וסוגיית יו\"ר ההתאחדות לכדורגל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b2/be/b2beb179-f625-48e3-a19e-80cf8ca64733/280520190101_hsp412543_,80,55,160,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 23.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/934935.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/48/e2/48e22b3b-abdb-4e41-a880-4d81cad09344/250520191907_hsp412542_,55,80,160,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2019-03-23",
+       "plot": "תכנית 12 - מכבי ת\"א דרסה את הפועל ת\"א במשחק הראשון, הדרישה של רגב וסמוטריץ' לא לשחק בשבת והאם דאבור אשם?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/48/e2/48e22b3b-abdb-4e41-a880-4d81cad09344/250520191907_hsp412542_,55,80,160,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 20.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/934054.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3b/ed/3bed0e00-d652-42ae-9be4-6d82a57fb81c/210520190101_hsp412541_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-20",
+       "plot": "תכנית 11 - דרושים אוהדים לקבוצות ליגת העל, גריזמן והחברים נחתו בישראל ואולימפיאקוס של בלאט לא הופיעה לדרבי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3b/ed/3bed0e00-d652-42ae-9be4-6d82a57fb81c/210520190101_hsp412541_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 16.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/933418.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a6/19/a619aa57-090c-4938-ad27-79231d8ecccb/180520191907_hsp412540_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-16",
+       "plot": "תכנית 10 - המרדף אחרי יוסי אבוקסיס, הירידה האכזרית של הרצליה המשבר בענף השייט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a6/19/a619aa57-090c-4938-ad27-79231d8ecccb/180520191907_hsp412540_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 13.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/932473.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ec/1b/ec1b1a95-8ed6-42b8-bd86-279fca2bdcbe/HSP412539_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-13",
+       "plot": "תכנית 9 - הסערה סביב הדרבי התל אביבי, ההתגרות של שכטר באדומים, הירידה של פ\"ת וזכרונות מהאירווויזיון",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ec/1b/ec1b1a95-8ed6-42b8-bd86-279fca2bdcbe/HSP412539_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 06.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/930773.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fb/09/fb092165-7c40-46af-afc9-8f730bd08572/070520190707_hsp412538_,110,80,55,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-06",
+       "plot": "תכנית 8 - הניצחון של מכבי חיפה על ב\"ש, הבלאגן בק\"ש ומה העתיד צופן לסכנין?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fb/09/fb092165-7c40-46af-afc9-8f730bd08572/070520190707_hsp412538_,110,80,55,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 02.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/929954.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/89/db/89db720a-8220-4ef4-aa00-2b7e4f36490d/030520190101_hsp412537_,110,35,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-02",
+       "plot": "תכנית 7 - המהפכה של חוגג, הפרידה מיוסי בניון והפיתרון לפלונטר בליגת העל בכדורסל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/89/db/89db720a-8220-4ef4-aa00-2b7e4f36490d/030520190101_hsp412537_,110,35,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 29.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/929143.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/75/02/7502fe9f-5ad2-4737-b6f6-5f6c54370b12/300420190707_hsp412536_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-29",
+       "plot": "תכנית 6 - מאבקי ההישרדות בליגת העל, העתיד של עמרי כספי, מחאת המעודדות בארה\"ב ויואב כץ התארח באולפן",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/75/02/7502fe9f-5ad2-4737-b6f6-5f6c54370b12/300420190707_hsp412536_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 22.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/927628.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/20/f9/20f9e85a-e018-484d-9c12-134cb0d6722f/230420190303_hsp412535_,1600k,800k,350k,1100k,550k,.mp4.csmil/master.m3u8",
+       "date": "2019-04-22",
+       "plot": "תכנית 5 - המעורבות של אלונה בב\"ש, התואר של 'תיכון חדש', קלינגר חזר לאימוני בית\"ר והקשר בין יובה לפ.ס.ז'",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/20/f9/20f9e85a-e018-484d-9c12-134cb0d6722f/230420190303_hsp412535_,1600k,800k,350k,1100k,550k,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 18.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/927240.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/85/ff/85ff06fa-3f2b-474c-a794-d5637e1b6ede/210420191907_hsp412534_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-18",
+       "plot": "תכנית 4 - התלות של גווארדיולה במסי, פיפ\"א ממשיכה במאבק מול הפועל ת\"א ומתי סופסוף יפתח איצטדיון בלומפילד?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/85/ff/85ff06fa-3f2b-474c-a794-d5637e1b6ede/210420191907_hsp412534_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 15.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/926114.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/12/7e/127e385a-d852-43cc-b945-ecc315a03293/160420190202_hsp412533_,80,55,160,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-15",
+       "plot": "תכנית 3 - הדילמה של אלונה ברקת, יואב כץ סוגר 15 שנה בהפועל חיפה ורפי דהן גורר את ראיוס לבית המשפט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/12/7e/127e385a-d852-43cc-b945-ecc315a03293/160420190202_hsp412533_,80,55,160,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 11.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/925406.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/dd/bf/ddbf67ff-e175-4c39-8ee3-4aa48cea3728/120420190404_hsp412532_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-11",
+       "plot": "תכנית 2 - בניון הודיע על פרישה בתום העונה, הלקח של אלונה ברקת מהבחירות והאם צריך בכלל שר ספורט?",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/dd/bf/ddbf67ff-e175-4c39-8ee3-4aa48cea3728/120420190404_hsp412532_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      },
+      {
+       "name": "יציע העיתונות, 08.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/924579.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/04/a5/04a5443a-4266-43ce-8294-d19166393148/090420190101_hsp412531_,550k,350k,1600k,1100k,800k,.mp4.csmil/master.m3u8",
+       "date": "2019-04-08",
+       "plot": "תכנית 1 - היציע חוזר למתכונת המוכרת עם הנושאים החמים מהארץ ומהעולם",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/04/a5/04a5443a-4266-43ce-8294-d19166393148/090420190101_hsp412531_,550k,350k,1600k,1100k,800k,.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2018/19"
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2016/17",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 15.06.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/715229.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d7/99/d799ff23-5c0e-4273-addd-26df11725717/160620170303_hsp324411_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-06-15",
+       "plot": "תכנית סיום העונה - הפועל י-ם אלופה, הפיצוץ בין בלאט ומכבי ועונת המלפפונים בעיצומה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d7/99/d799ff23-5c0e-4273-addd-26df11725717/160620170303_hsp324411_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 12.06.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/714483.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/3b/c63bca6f-03ad-4859-91b0-114cd2ac817e/130620170404_hsp324410x_,55,110,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2017-06-12",
+       "plot": "תכנית 79 - סיכום הפיינל פור בכדורסל, אלישע לוי והטעויות, אוהדי כפ\"ס זועמים ותרבות הספורט בישראל",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c6/3b/c63bca6f-03ad-4859-91b0-114cd2ac817e/130620170404_hsp324410x_,55,110,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 08.06.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/713687.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/71/ab/71ab5cb6-b4f3-4620-8788-dddbf796b912/100620171806_hsp324409_,55,35,80,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "2017-06-08",
+       "plot": "תכנית 78 - ירושלים בפיינל פור אחרי מהפך על נהריה, מכבי ת\"א מחכה לבלאט והמינוי המוזר של סכנין",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/71/ab/71ab5cb6-b4f3-4620-8788-dddbf796b912/100620171806_hsp324409_,55,35,80,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 05.06.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/712746.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/83/4d/834d6853-8c2d-4271-9777-c0c33af2c495/060620170606_hsp324408_,35,80,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-06-05",
+       "plot": "תכנית 77 - הפועל י-ם עדיין בחיים, הכסא של שמעון מזרחי מתפנה וריאל של זידאן כובשת את אירופה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/83/4d/834d6853-8c2d-4271-9777-c0c33af2c495/060620170606_hsp324408_,35,80,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 01.06.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/712057.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/26/5b/265b5f52-2447-47d0-9562-a7fbf18e43f0/020620170202_hsp324407_,55,160,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "2017-06-01",
+       "plot": "תכנית 76 - הצהובים פורחים תחת שיבק, אירופה מתכוננת לגמר האלופות ונבחרת ישראל מחכה למולדובה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/26/5b/265b5f52-2447-47d0-9562-a7fbf18e43f0/020620170202_hsp324407_,55,160,35,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 29.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/711334.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5d/31/5d31da03-e475-4c36-a06e-00e5a620f2fc/300520170202_hsp324406_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-29",
+       "plot": "תכנית 75 - אי הוודאות במכבי ת\"א, הפועל י-ם על סף הדחה כבר ברבע הגמר וסאגת אלון מזרחי בבני יהודה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5d/31/5d31da03-e475-4c36-a06e-00e5a620f2fc/300520170202_hsp324406_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 25.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/710608.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/08/6b/086b0b40-3c2a-4f90-9864-2b9f72b2eff9/260520170606_hsp324405_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-25",
+       "plot": "תכנית 74 - בני יהודה מחזיקת גביע המדינה אחרי 36 שנים, איינבינדר חתם בב\"ש והמאמן החדש של הפועל ת\"א",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/08/6b/086b0b40-3c2a-4f90-9864-2b9f72b2eff9/260520170606_hsp324405_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 22.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/709785.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f3/3c/f33ce7d4-d694-48f7-925b-a809fa3d2ccf/230520170101_hsp324404_sub00_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-22",
+       "plot": "תכנית 73 - הסגל של אלישע לוי, אובראדוביץ' שוב בגג העולם, האליפות של זידאן וריאל ושחקן העונה של הפאנל",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f3/3c/f33ce7d4-d694-48f7-925b-a809fa3d2ccf/230520170101_hsp324404_sub00_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 18.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/708841.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/0a/40/0a40e0c5-8695-4eb4-a327-1504fead6c6f/190520170101_hsp324403_vod00_,55,160,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-18",
+       "plot": "תכנית 72 - האלימות במגרשים, הראיון של בוזגלו וההכנות לפיינל פור של היורוליג",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/0a/40/0a40e0c5-8695-4eb4-a327-1504fead6c6f/190520170101_hsp324403_vod00_,55,160,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 15.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/708215.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/61/f1/61f18d80-a2a8-448d-b738-b8d842a31376/160520170303_hsp324402_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-15",
+       "plot": "תכנית 71 - הנהלת מכבי ת\"א תקיים מחר ישיבת חירום, בגאצקיס ככל הנראה יפוטר וסאגת \"מסע ההלוייה\" של מכבי ת\"א להפועל",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/61/f1/61f18d80-a2a8-448d-b738-b8d842a31376/160520170303_hsp324402_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 11.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/707363.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5b/6b/5b6b1df0-6574-4c16-93d0-e9d478cff7f8/130520171806_hsp324401_,55,35,80,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-11",
+       "plot": "תכנית 70 - ויצמן יער יגיעו לקרבות ההכרעה בפלייאוף התחתון, סיגרס שוב מנצח את מכבי ת\"א והניצחון הגדול של עופר עיני",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5b/6b/5b6b1df0-6574-4c16-93d0-e9d478cff7f8/130520171806_hsp324401_,55,35,80,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 08.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/706485.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d9/ff/d9ffa002-b688-44b9-88a1-f2955c6caa02/090520170202_hsp324400x_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-08",
+       "plot": "תכנית 69 - סערת הפועל ת\"א וטוטו תמוז במושבה, חגיגות האליפות של הפועל ב\"ש ומכבי חיפה סוגרת עוד עונה כושלת",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d9/ff/d9ffa002-b688-44b9-88a1-f2955c6caa02/090520170202_hsp324400x_,160,80,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 04.05.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/706241.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8b/51/8b512cef-050c-470c-afdf-5def31ea6c7a/050520170202_hsp324399_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2017-05-04",
+       "plot": "תכנית 68 - שעון החול של הפועל ת\"א דוחק, אוהדי מכבי מצילים את הקבוצה וגל נבו טובע ותובע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8b/51/8b512cef-050c-470c-afdf-5def31ea6c7a/050520170202_hsp324399_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 27.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/704134.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5a/2d/5a2d018d-adc3-4e06-ad58-5b8408bc53fd/290420171705_hsp324398_vod_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-27",
+       "plot": "תכנית 67 - ניסן יחזקאל התפטר מבני יהודה, הפציעה הקשה של מאור בוזגלו והבאלאגן בדוחא",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5a/2d/5a2d018d-adc3-4e06-ad58-5b8408bc53fd/290420171705_hsp324398_vod_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 24.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/703040.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4c/bf/4cbfe9f7-6f64-42d4-8230-9d4d2790d20e/250420170202_hsp324397x_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-24",
+       "plot": "תכנית 66 - הפועל ת\"א התקרבה לאשקלון, כפ\"ס בדרך ללאומית, סאגת בגאצקיס במכבי ת\"א והקלאסיקו הגדול בספרד",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4c/bf/4cbfe9f7-6f64-42d4-8230-9d4d2790d20e/250420170202_hsp324397x_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 20.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/702263.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/fc/9a/fc9adb06-1c92-40fa-b2bd-536e249bea5a/HSP324396_VOD_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-20",
+       "plot": "תכנית 65 - עתידו של בגאצקיס, פלייאוף תחתון תחת חקירה, הבטן של סרינה ואפטר בארסה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/fc/9a/fc9adb06-1c92-40fa-b2bd-536e249bea5a/HSP324396_VOD_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 11.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/700661.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a0/3e/a03e3f1e-b9cd-45f7-885a-8b1266edeb3f/140420170404_hsp324395_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-11",
+       "plot": "תכנית 64 - פליקס נעים הוא המאמן ה-33 בליגת העל השנה, סאגת ריצ'ארד האוול נסגרה ומה היה קורה אם מסי היה נפצע בפיצוץ האוטובוס?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a0/3e/a03e3f1e-b9cd-45f7-885a-8b1266edeb3f/140420170404_hsp324395_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 06.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/699010.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/32/a7/32a71876-9b10-473b-b73c-0192c07521dc/070420170202_hsp324394_vod_,110,35,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-06",
+       "plot": "תכנית 63 - שחקני אשקלון השביתו את האימון, מיץ' גולדהאר נגד העירייה, חמישי בלי מכבי ת\"א ביורוליג ומסי נגד רונאלדו",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/32/a7/32a71876-9b10-473b-b73c-0192c07521dc/070420170202_hsp324394_vod_,110,35,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 03.04.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/698028.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/88/0f/880f68d0-0302-43a3-b3d1-d9f1e49db955/040420170303_hsp324393_vod_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "2017-04-03",
+       "plot": "תכנית 62 - הרכש הכושל של ג'ורדי קרויף בינואר, ניצחון לטביב על אוהדי בית\"ר והרכש המרשים של הפועל י-ם",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/88/0f/880f68d0-0302-43a3-b3d1-d9f1e49db955/040420170303_hsp324393_vod_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      },
+      {
+       "name": "יציע העיתונות, 30.03.17",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/697144.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/3f/ea3f06af-6736-4ee5-b252-fd73aa769364/010420171705_hsp324392_vod_,55,110,80,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2017-03-30",
+       "plot": "תכנית 61 - האם בית\"ר תרד מהדשא בעקבות קריאות גזעניות, כל התחזיות למשחק העונה בי ב\"ש ולמכבי ת\"א ועוד הפסד למכבי ת\"א ביורוליג",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/3f/ea3f06af-6736-4ee5-b252-fd73aa769364/010420171705_hsp324392_vod_,55,110,80,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2016/17"
+      }
+     ]
+    },
+    {
+     "name": "יציע העיתונות - 2015/16",
+     "channels": [
+      {
+       "name": "יציע העיתונות, 06.06.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/613484.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/2b/4b/2b4b8ea7-1f40-4da5-b5b8-e224b1424397/070620161010_yatzia_060616_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-06-06",
+       "plot": "תוכנית 78 - על ההפסד של מכבי בחצי וההעפלה של ירושלים לגמר ויצחק פרי, יו'ר מכבי ראשל''צ, מתארח באולפן",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/2b/4b/2b4b8ea7-1f40-4da5-b5b8-e224b1424397/070620161010_yatzia_060616_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 02.06.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/612454.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e4/11/e4116fcf-1911-4a09-a8f5-0d604b23157c/030620160202_yatzia_020616_,80,160,55,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-06-02",
+       "plot": "תכנית 77 - האם משתלם לזהבי לעבור לשחק בסין, האם  הצעד של בלאט נכון ולקראת הפיינל פור של הכדורסל הישראלי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/e4/11/e4116fcf-1911-4a09-a8f5-0d604b23157c/030620160202_yatzia_020616_,80,160,55,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 30.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/611591.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/41/b5/41b51fa0-4899-40dd-8f93-8c01877150b6/310520160202_yatzia_300516_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-30",
+       "plot": "תכנית 76 - נבחרת ישראל מתכוננת למשחק נגד סרביה, פלייאוף הכדורסל בשתי סדרות מותחות ושערוריית היועמ\"ש",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/41/b5/41b51fa0-4899-40dd-8f93-8c01877150b6/310520160202_yatzia_300516_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 26.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/610825.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/4a/8e/4a8ee01e-25e6-4cdd-8b4d-fc467d82c5d1/270520160202_yatzia_260516_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-26",
+       "plot": "תכנית 75 - לאן ומדוע עוזב יוסי בניון, המופע של ערן זהבי, אלישע יוצא לדרך וירושלים בדרך לפיינל פור",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/4a/8e/4a8ee01e-25e6-4cdd-8b4d-fc467d82c5d1/270520160202_yatzia_260516_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 23.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/609529.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1b/24/1b247ef2-2f77-4905-80e6-1f0d61d53d17/240520160202_yetzia_230516_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-23",
+       "plot": "תכנית 74 - המדינה חוגגת אליפות עם ב\"ש, האם חיפה בגמר הגביע את חרפת ה-0:6 וגם: קוריף יודע איך להחזיר למכבי את האליפות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1b/24/1b247ef2-2f77-4905-80e6-1f0d61d53d17/240520160202_yetzia_230516_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 19.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/608687.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/aa/02/aa020817-3072-4da2-82a5-42879885bf6e/200520160303_yatzia_190516_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-19",
+       "plot": "תכנית 73 - האם הלחץ בכלל אצל ב\"ש במאבק עלה אליפות? תצוגת הענק של רובינסון והאם מדליה בריו ריאלית בשביל גל נבו?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/aa/02/aa020817-3072-4da2-82a5-42879885bf6e/200520160303_yatzia_190516_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 16.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/607793.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1b/cf/1bcfa772-e402-4dd2-b7f4-f1798826c5ed/170520160202_yatzia_160516_,35,80,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-16",
+       "plot": "תכנית 72 - דרמות גדולות בתחתית - עכו נפרדת מליגת העל, נס ציונה יורדת בכדורסל, היציע שואל: למה שחקני כדורגל לא יוצאים מהארון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1b/cf/1bcfa772-e402-4dd2-b7f4-f1798826c5ed/170520160202_yatzia_160516_,35,80,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 09.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/606251.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ac/9c/ac9cdb8c-9cad-45f1-978f-827de203f81d/YATZIA_NEW_090516_,80,55,160,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-09",
+       "plot": "תכנית 71 - ב\"ש קרובה צעד מאליפות, מכבי מעדה מול רעננה, השינויים הצפויים בליגת העל, סאגת המאמן הזר ועתידו של רוני לוי בכרמל",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ac/9c/ac9cdb8c-9cad-45f1-978f-827de203f81d/YATZIA_NEW_090516_,80,55,160,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 05.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/605494.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/30/5c/305ccc85-d514-43eb-af54-2b83c7090005/060520160202_yatzia_050516_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-05",
+       "plot": "תכנית 70 - הכדורגל הספרדי משתלט על המפעלים האירופיים, מנהלת הליגה נגד טאגה והבעלים החדש של נתניה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/30/5c/305ccc85-d514-43eb-af54-2b83c7090005/060520160202_yatzia_050516_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 02.05.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/604545.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/87/4c/874c4cb0-674c-49ab-b0d5-5ac28ffb6005/030520160404_yazia_020516_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-05-02",
+       "plot": "תכנית 69 - האם אנחנו עדים לסדר עולמיח דש באנגליה? למה לבוס אין פתרונות התקפיים ובית משפט המחזוי הכריז מלחמה על הכדורגל הישראלי",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/87/4c/874c4cb0-674c-49ab-b0d5-5ac28ffb6005/030520160404_yazia_020516_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 21.04.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/602105.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/0e/0f/0e0f51b2-7784-44f3-b57a-a00a5a3a201f/220420160303_yatzia_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-04-21",
+       "plot": "תכנית 67 - ההתנהלות של שחקני מכבי בחצי הגמר, המינוי של אלישע, מבזק אירופי והחיוכים בחיפה אחרי הנצחון על ב\"ש",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/0e/0f/0e0f51b2-7784-44f3-b57a-a00a5a3a201f/220420160303_yatzia_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 14.04.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/600285.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d3/d4/d3d477d3-c427-4004-97b9-faa3d086344e/150420160303_yatzia_140416_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-04-14",
+       "plot": "תכנית 65 - דרוקר פוטר ממכבי ראשל''צ, על הדרמות באלופות והליגה האירופית ועל הפרישה של קובי בריאנט",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d3/d4/d3d477d3-c427-4004-97b9-faa3d086344e/150420160303_yatzia_140416_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 11.04.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/599295.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/61/f5/61f5f381-55b3-4340-8fa0-e6c76a36d705/120420160808_yatzia_110416_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "2016-04-11",
+       "plot": "תכנית 64 - האם ערן זהבי הוא גדול השחקנים הישראלים? למה אצילי סירב לשחק מול מכבי ומה יותר גדול? שבירת השיא של שיקגו או לסטר אלופה?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/61/f5/61f5f381-55b3-4340-8fa0-e6c76a36d705/120420160808_yatzia_110416_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 07.04.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/597632.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a2/3c/a23c6a7c-e5e0-4859-8e83-590173f36d5f/080420160101_yatzia_070416_,110,35,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-04-07",
+       "plot": "תכנית 63 -  מטפלים באלימות במגרשים, למה השופטים תמיד בעד בארסה ומי מאחורי ההחתמות הגדולות במכבי?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a2/3c/a23c6a7c-e5e0-4859-8e83-590173f36d5f/080420160101_yatzia_070416_,110,35,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 04.04.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/596818.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/fc/f5/fcf516fe-9922-4693-95fe-2d88f758b1a7/050420160606_hsp235124_vod_,110,55,80,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-04-04",
+       "plot": "תכנית 62 - מופע פרטי של בן שהר בטדי, רובינסון מתגלה כבלוף? המתח בין משיח לצוברי מגיע לשיאים חדשים ודני פרנקו על הגל",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/fc/f5/fcf516fe-9922-4693-95fe-2d88f758b1a7/050420160606_hsp235124_vod_,110,55,80,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 31.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/596074.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8a/c6/8ac64727-faea-4ef5-ac88-a80179b1185f/010420160202_yatzia_310316_,80,160,55,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-31",
+       "plot": "תכנית 61 - בני סכנין נענשה בשני משחקי רדיוס, הקרב בין משיח לצוברי, מצבה של מכבי נתניה והטופ 16 של היורוליג",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8a/c6/8ac64727-faea-4ef5-ac88-a80179b1185f/010420160202_yatzia_310316_,80,160,55,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 28.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/595214.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b5/2c/b52c0fbb-f514-47bb-993c-ca350f296a61/290320160202_yatzia_280316_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-28",
+       "plot": "תכנית 60 - נתניה ממשיכה להתפורר, מחפשים מאמן חדש לנבחרת ולמה שיפוץ בלומפילד מיותר?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b5/2c/b52c0fbb-f514-47bb-993c-ca350f296a61/290320160202_yatzia_280316_,35,80,55,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 24.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/594726.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c4/51/c451deb1-abe7-427b-811b-780f0daf86ed/250320160303_yatzia_240316_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-24",
+       "plot": "תכנית 59 - היציע מתאבל על קרויף, אוסידון דיבר על הצרות בנתניה, האם הנבחרת הראתה ניצוצות ומה נסגר עם אצילי?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c4/51/c451deb1-abe7-427b-811b-780f0daf86ed/250320160303_yatzia_240316_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 21.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/593862.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/75/7d/757dcaa0-8457-4f61-ab11-4a33aa54ff89/220320160202_yatzia_210316_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-21",
+       "plot": "תכנית 58 - ועד האיתור של היציע הקשתה על רן בן שמעון, האם ירושלים הופכת למכבי ולמה זהבי לא הצטרך לנבחרת בקרואטיה?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/75/7d/757dcaa0-8457-4f61-ab11-4a33aa54ff89/220320160202_yatzia_210316_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      },
+      {
+       "name": "יציע העיתונות, 17.03.16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/592896.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c5/c1/c5c1ebf0-4503-4e12-9f8a-56f87d3267a7/180320160202_yatzia_170316_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "2016-03-17",
+       "plot": "תכנית 57 - אוחנה על המאמן הבא של הנבחרת,  האם פפ ניצל בזכות הגול בתוספת הזמן והכל על הבלאגן בנתניה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c5/c1/c5c1ebf0-4503-4e12-9f8a-56f87d3267a7/180320160202_yatzia_170316_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "יציע העיתונות - 2015/16"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

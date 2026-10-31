@@ -1,0 +1,61 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - 90 על 90",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10077",
+   "series_id": "10077",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1009101.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "ללקק את האצבעות: הגולים מדקה 31 עד 40",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1009101.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV/jYDglWFekz/App/NM_VTR_90GOALS_31-40_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV/jYDglWFekz/App/NM_VTR_90GOALS_31-40_1_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "מסי, רונאלדיניו ושבצ'נקו: השערים מדקה 21 ל-30",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1008173.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/SX8IcEej3k/App/NM_VTR_90GOALS_21-30_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/SX8IcEej3k/App/NM_VTR_90GOALS_21-30_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vo",
+       "season": ""
+      },
+      {
+       "name": "קסם של ברגקאמפ ומספרת מ-30 מ': דקות 20 - 11",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1007799.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV/5y7ilcb7X0/App/NM_VTR_90GOALS_11-20_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV/5y7ilcb7X0/App/NM_VTR_90GOALS_11-20_1_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "התחלנו: השערים הכי יפים מדקה 1 עד 10",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1007620.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV/XZaDGoHNPn/App/NM_VTR_90GOALS_01-10_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV/XZaDGoHNPn/App/NM_VTR_90GOALS_01-10_2_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

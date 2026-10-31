@@ -1,0 +1,1821 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - טוקיו 2020",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10551",
+   "series_id": "10551",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1117156.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "היסטוריה: התרגיל שהעניק זהב לדולגופיאט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1117156.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/r6oaC6BROV/App/TARGILPODIUMSU_162783284895_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/r6oaC6BROV/App/TARGILPODIUMSU_162783284895_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=ht",
+       "season": ""
+      },
+      {
+       "name": "טקס הנעילה: לינוי אשרם נכנסת עם הדגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1119549.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/wT7rASkFP0/App/NM_LINOY_TEKES_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/wT7rASkFP0/App/NM_LINOY_TEKES_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://",
+       "season": ""
+      },
+      {
+       "name": "צמרמורת: התקווה שוב הושמעה בטוקיו ! ! !",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1119141.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/6to66gQPpo/App/VTR_ASHRAM_PODUIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/6to66gQPpo/App/VTR_ASHRAM_PODUIM_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.",
+       "season": ""
+      },
+      {
+       "name": "האשרם של ישראל: כל הדרך עד למדליית הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1119140.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hmsfzCksQj/App/VTR_ASHRAM_ALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hmsfzCksQj/App/VTR_ASHRAM_ALL_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spo",
+       "season": ""
+      },
+      {
+       "name": "מלכת ישראל: התרגיל שהבטיח את הזהב לאשרם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1119137.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/mlMB01LRO4/App/VTR_ASHRAM_SERET_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/mlMB01LRO4/App/VTR_ASHRAM_SERET_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "הופעה מכובדת: כל תרגילי זליקמן בגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1119113.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2I54fVpqXY/App/ALL_ZELIKMAN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2I54fVpqXY/App/ALL_ZELIKMAN_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport",
+       "season": ""
+      },
+      {
+       "name": "ענקית: תרגיל מדהים ללינוי אשרם באלות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1119104.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9HJSBEY53F/App/VTR_ASHRAM_ALOT_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9HJSBEY53F/App/VTR_ASHRAM_ALOT_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sp",
+       "season": ""
+      },
+      {
+       "name": "לאחר תרגיל הכדור אשרם נותרה במקום הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1119093.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/oD7APBze18/App/linoy_ashram_2_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/oD7APBze18/App/linoy_ashram_2_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://",
+       "season": ""
+      },
+      {
+       "name": "התחלנו: ביצוע נהדר לאשרם בתרגיל החישוק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1119079.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8tNh9i9u9h/App/linoy_ashram_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8tNh9i9u9h/App/linoy_ashram_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vo",
+       "season": ""
+      },
+      {
+       "name": "נבחרת ישראל עלתה לגמר בזכות ביצוע נפלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1119035.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/b0j2gdJoZh/App/hitamlut_team_alut_hisuhk_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/b0j2gdJoZh/App/hitamlut_team_alut_hisuhk_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referr",
+       "season": ""
+      },
+      {
+       "name": "תרגיל כדור נהדר לנבחרת ההתעמלות האמנותית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1119028.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HyGhrqqGa8/App/hitamlut_team_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HyGhrqqGa8/App/hitamlut_team_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "סלפטר הובילה, אך נעצרה 4 ק\"מ לסיום המרתון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1119025.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ygQ8YO0SoB/App/marathon_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ygQ8YO0SoB/App/marathon_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sp",
+       "season": ""
+      },
+      {
+       "name": "טובות השתיים: זליקמן עלתה לגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1118882.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/7EniCxCddN/App/NICOLE_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/7EniCxCddN/App/NICOLE_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.",
+       "season": ""
+      },
+      {
+       "name": "עמדה במשימה בגדול: אשרם עלתה לגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1118880.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/kshjau9M9l/App/LINOY_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/kshjau9M9l/App/LINOY_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "יפן מתרגשת לקראת הקלאסיקו הגדול בקראטה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1118868.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/nSSZlIHfwK/App/item_karate_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/nSSZlIHfwK/App/item_karate_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod",
+       "season": ""
+      },
+      {
+       "name": "הישג עצום: רודיטי סיים במקום ה-4 במים הפתוחים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1118437.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/KGvUkkxGTn/App/NM_VTR_OPEN_SWIM_NEW_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/KGvUkkxGTn/App/NM_VTR_OPEN_SWIM_NEW_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=ht",
+       "season": ""
+      },
+      {
+       "name": "בונד ודונאטלו סיימו במקום ה-11 בתחרות היחידים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1118244.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/IYexgOeMCl/App/ashly_bond_040821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/IYexgOeMCl/App/ashly_bond_040821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.",
+       "season": ""
+      },
+      {
+       "name": "הופעה אדירה לבאיולין טפרי, חסן קטפה את הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1117624.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/tk8b39IcIs/App/NM_TEFERI_5000FINAL_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/tk8b39IcIs/App/NM_TEFERI_5000FINAL_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=htt",
+       "season": ""
+      },
+      {
+       "name": "בלכר ובובריצקי סיימו במקום ה-16 בתרגיל החופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1117611.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/iLoep57ADe/App/NM_BLECHER_BUBRITZKY_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/iLoep57ADe/App/NM_BLECHER_BUBRITZKY_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=ht",
+       "season": ""
+      },
+      {
+       "name": "קליפ זהב: היום ההיסטורי של דולגופיאט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1117437.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2DwydLB8GO/App/VTR_CLIP_DOLGOPYAT_010821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2DwydLB8GO/App/VTR_CLIP_DOLGOPYAT_010821_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=http",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - ישראלים בטוקיו",
+     "channels": [
+      {
+       "name": "היסטוריה: התרגיל שהעניק זהב לדולגופיאט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1117156.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/r6oaC6BROV/App/TARGILPODIUMSU_162783284895_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/r6oaC6BROV/App/TARGILPODIUMSU_162783284895_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "טקס הנעילה: לינוי אשרם נכנסת עם הדגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1119549.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/wT7rASkFP0/App/NM_LINOY_TEKES_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/wT7rASkFP0/App/NM_LINOY_TEKES_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "צמרמורת: התקווה שוב הושמעה בטוקיו ! ! !",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1119141.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/6to66gQPpo/App/VTR_ASHRAM_PODUIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/6to66gQPpo/App/VTR_ASHRAM_PODUIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "האשרם של ישראל: כל הדרך עד למדליית הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1119140.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hmsfzCksQj/App/VTR_ASHRAM_ALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hmsfzCksQj/App/VTR_ASHRAM_ALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "מלכת ישראל: התרגיל שהבטיח את הזהב לאשרם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1119137.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/mlMB01LRO4/App/VTR_ASHRAM_SERET_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/mlMB01LRO4/App/VTR_ASHRAM_SERET_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "הופעה מכובדת: כל תרגילי זליקמן בגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1119113.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2I54fVpqXY/App/ALL_ZELIKMAN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2I54fVpqXY/App/ALL_ZELIKMAN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "ענקית: תרגיל מדהים ללינוי אשרם באלות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1119104.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9HJSBEY53F/App/VTR_ASHRAM_ALOT_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9HJSBEY53F/App/VTR_ASHRAM_ALOT_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "לאחר תרגיל הכדור אשרם נותרה במקום הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1119093.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/oD7APBze18/App/linoy_ashram_2_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/oD7APBze18/App/linoy_ashram_2_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "התחלנו: ביצוע נהדר לאשרם בתרגיל החישוק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1119079.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8tNh9i9u9h/App/linoy_ashram_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8tNh9i9u9h/App/linoy_ashram_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "נבחרת ישראל עלתה לגמר בזכות ביצוע נפלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1119035.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/b0j2gdJoZh/App/hitamlut_team_alut_hisuhk_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/b0j2gdJoZh/App/hitamlut_team_alut_hisuhk_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "תרגיל כדור נהדר לנבחרת ההתעמלות האמנותית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1119028.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HyGhrqqGa8/App/hitamlut_team_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HyGhrqqGa8/App/hitamlut_team_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "סלפטר הובילה, אך נעצרה 4 ק\"מ לסיום המרתון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1119025.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ygQ8YO0SoB/App/marathon_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ygQ8YO0SoB/App/marathon_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "טובות השתיים: זליקמן עלתה לגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1118882.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/7EniCxCddN/App/NICOLE_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/7EniCxCddN/App/NICOLE_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "עמדה במשימה בגדול: אשרם עלתה לגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1118880.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/kshjau9M9l/App/LINOY_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/kshjau9M9l/App/LINOY_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "יפן מתרגשת לקראת הקלאסיקו הגדול בקראטה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1118868.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/nSSZlIHfwK/App/item_karate_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/nSSZlIHfwK/App/item_karate_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "הישג עצום: רודיטי סיים במקום ה-4 במים הפתוחים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1118437.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/KGvUkkxGTn/App/NM_VTR_OPEN_SWIM_NEW_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/KGvUkkxGTn/App/NM_VTR_OPEN_SWIM_NEW_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "בונד ודונאטלו סיימו במקום ה-11 בתחרות היחידים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1118244.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/IYexgOeMCl/App/ashly_bond_040821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/IYexgOeMCl/App/ashly_bond_040821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "הופעה אדירה לבאיולין טפרי, חסן קטפה את הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1117624.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/tk8b39IcIs/App/NM_TEFERI_5000FINAL_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/tk8b39IcIs/App/NM_TEFERI_5000FINAL_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "בלכר ובובריצקי סיימו במקום ה-16 בתרגיל החופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1117611.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/iLoep57ADe/App/NM_BLECHER_BUBRITZKY_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/iLoep57ADe/App/NM_BLECHER_BUBRITZKY_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      },
+      {
+       "name": "קליפ זהב: היום ההיסטורי של דולגופיאט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1117437.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2DwydLB8GO/App/VTR_CLIP_DOLGOPYAT_010821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2DwydLB8GO/App/VTR_CLIP_DOLGOPYAT_010821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ישראלים בטוקיו"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - אתלטיקה",
+     "channels": [
+      {
+       "name": "טפרי סיים במקום ה-13 במרתון, זהב לקיפצ'וגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1119412.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/TswmQZJNrs/App/NM_VTR_TAK_MARATHON_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/TswmQZJNrs/App/NM_VTR_TAK_MARATHON_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "סלפטר הובילה, אך נעצרה 4 ק\"מ לסיום המרתון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1119025.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ygQ8YO0SoB/App/marathon_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ygQ8YO0SoB/App/marathon_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "פער של מאית השנייה: איטליה זכתה בזהב ב-4X100",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1118933.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/3GA4t9eL8K/App/NM_4X100M_060821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/3GA4t9eL8K/App/NM_4X100M_060821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "גארדינר קטף את הזהב ב-400 מטרים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1118598.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Ujbs6uU31m/App/NM_400_MEN_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Ujbs6uU31m/App/NM_400_MEN_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "הפתעה במשוכות: פארצ'מנט הג'מייקני זכה בזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1118457.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/7ffMsvqr0c/App/NM_VTR_GMAR110_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/7ffMsvqr0c/App/NM_VTR_GMAR110_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "מהפך ענק בסוף: דה גראס קטף את הזהב ב-200 מ'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1118271.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/F5hUJVN4lR/App/200_METER_040821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/F5hUJVN4lR/App/200_METER_040821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "שווה זהב: שיא עולם למקלפלין ב-400 משוכות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1118103.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/A2QfCk1otq/App/sydney_mclaughlin_world_record_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/A2QfCk1otq/App/sydney_mclaughlin_world_record_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "האישה המהירה בעולם: תומפסון זכתה ב-200 מ'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1117952.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/6bZF3eTfrt/App/NM_GMAR_200M_WOMEN_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/6bZF3eTfrt/App/NM_GMAR_200M_WOMEN_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "מהפך ענק: זהב למיאמבו הגרמניה בקפיצה לרוחק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1117775.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/wTBMLgfUTp/App/NM_TAK_LONG_JUMP_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/wTBMLgfUTp/App/NM_TAK_LONG_JUMP_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "שיא עולם מדהים לורהולם ב-400 מ' משוכות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1117773.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9A6HxEo7mZ/App/NM_400_MENS_WD_HURDELS_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9A6HxEo7mZ/App/NM_400_MENS_WD_HURDELS_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "הופעה אדירה לבאיולין טפרי, חסן קטפה את הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1117624.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/tk8b39IcIs/App/NM_TEFERI_5000FINAL_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/tk8b39IcIs/App/NM_TEFERI_5000FINAL_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "שיא אירופי לג'ייקובס שקטף את הזהב ב-100 מטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1117298.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Eb33a1CBO1/App/VTR_100M_GAVARIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Eb33a1CBO1/App/VTR_100M_GAVARIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "היסטוריה במשולשת: רוחאס קבעה שיא עולם חדש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1117286.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ml67Ab05nj/App/NM_ROJAS_WR_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ml67Ab05nj/App/NM_ROJAS_WR_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "הגיעה במאני טיים: כל הקפיצות של מיננקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1117259.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/rKtSzqLhrg/App/ALL_MINENKO_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/rKtSzqLhrg/App/ALL_MINENKO_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "מטורף: זהב ושיא אולימפי לאליין תומפסון ב-100 מ'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1116841.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/V8wmX4gkXs/App/NM_VTR_GMAR_100_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/V8wmX4gkXs/App/NM_VTR_GMAR_100_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "שוב במעמד השיא: מיננקו עלתה לגמר המשולשת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1116490.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/lzS4JNirxX/App/MINENKO_ALL_JUMPS_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/lzS4JNirxX/App/MINENKO_ALL_JUMPS_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "בארגה הדהים את שיאן העולם בגמר ה-10,000",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1116527.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/5KBAPN45Y5/App/10K_RUN_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/5KBAPN45Y5/App/10K_RUN_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      },
+      {
+       "name": "הישג אדיר: טפרי העפילה לגמר ה-5,000 מ'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1116498.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/3kDSaaC69y/App/TAFERI_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/3kDSaaC69y/App/TAFERI_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אתלטיקה"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - שחייה",
+     "channels": [
+      {
+       "name": "גמר 800 מטר חופשי - נשים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1121254.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2xVZaXV2iC/App/WOMAN_800_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2xVZaXV2iC/App/WOMAN_800_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר: 400 מטר מעורב - נשים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1121253.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/pN26rg24QQ/App/WOMAN_400_MEORAV_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/pN26rg24QQ/App/WOMAN_400_MEORAV_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר 4X200 מטר חופשי - נשים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1121252.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Vk6KPujlna/App/WOMAN_4X200_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Vk6KPujlna/App/WOMAN_4X200_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר 200 מטר פרפר - נשים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1121251.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/sLKoWuzsqJ/App/WOMAN_200_PARPAR_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/sLKoWuzsqJ/App/WOMAN_200_PARPAR_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר 200 מטר גב - נשים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1121250.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/xnn8uVdKLy/App/WOMAN_200_GAV_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/xnn8uVdKLy/App/WOMAN_200_GAV_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר 4X200 מטר חופשי - נשים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1121249.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/XUPQulZib6/App/WOMAN_4X200_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/XUPQulZib6/App/WOMAN_4X200_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר 1500 מטר חופשי - גברים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1121248.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Kz2ouLOsqj/App/MANS_1500_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Kz2ouLOsqj/App/MANS_1500_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר 400 מטר חופשי - גברים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1121247.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HqJTFDd3z9/App/MANS_400_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HqJTFDd3z9/App/MANS_400_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר 800 מטר חופשי - גברים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1121246.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/m16FUjCksA/App/MAN_800_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/m16FUjCksA/App/MAN_800_FREE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר 200 מטר חזה - גברים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1121245.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/bS1CWD3BJT/App/MAN_200_HAZE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/bS1CWD3BJT/App/MAN_200_HAZE_150821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "עם שיא עולם חדש: זהב לארה\"ב ב-100X4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1117039.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/3PcMkw1670/App/4_4_100_MEROAV_MEN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/3PcMkw1670/App/4_4_100_MEROAV_MEN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "הישג ענק: שיא אולימפי וזהב לדרסל ב-50 מ' חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1117018.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/GwIAuLK8WI/App/SWIM_50M_DERSSEL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/GwIAuLK8WI/App/SWIM_50M_DERSSEL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גמר אולימפי היסטורי לשליחים של ישראל בריכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1116710.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/U7v87uwiaL/App/SHLICHIM_4X200_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/U7v87uwiaL/App/SHLICHIM_4X200_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "דרסל ניפץ שיא עולם מדהים ב-100 מ' פרפר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1116625.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/KL3z5a8qgG/App/100_PARPAR_310721X_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/KL3z5a8qgG/App/100_PARPAR_310721X_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "נשארה עם המחמאות: ברזילי הודחה בחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1116330.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ASVf4wsZUB/App/barzelay_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ASVf4wsZUB/App/barzelay_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "שונמייקר קבעה שיא עולם אדיר ב-200 מטר חזה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1116302.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/N165PHMWQb/App/200_nashim_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/N165PHMWQb/App/200_nashim_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "עם שיא אולימפי: דרסל זכה בזהב ב-100 מ' חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1115896.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/tu1eZzF3hA/App/NM_VTR_SWIM_M100_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/tu1eZzF3hA/App/NM_VTR_SWIM_M100_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "שיא אישי לגל כהן גרומי ב-200 מטר חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1115733.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/zI4ZMZ25HB/App/gal_cohen_swim_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/zI4ZMZ25HB/App/gal_cohen_swim_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "גורבנקו סיימה אחרונה ב-200 מ' חזה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1115725.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/5AwAeLFET0/App/gorbenko_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/5AwAeLFET0/App/gorbenko_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      },
+      {
+       "name": "לא הספיק לחצי: אנדי מורז קבעה שיא ישראלי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1115724.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/aOwSWz9gha/App/muraz_swim_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/aOwSWz9gha/App/muraz_swim_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - ג'ודו",
+     "channels": [
+      {
+       "name": "גדולים: רגע הענקת המדליות לנבחרת על הפודיום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1116824.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/AltN2nzpwI/App/NM_VTR_PODUM_JUDO_310721_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/AltN2nzpwI/App/NM_VTR_PODUM_JUDO_310721_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "יש מדליה! הניצחון שהעניק לישראל את הארד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1116783.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/xuJv3ds7sK/App/NM_VTR_ARAD_NELSON_LEVY_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/xuJv3ds7sK/App/NM_VTR_ARAD_NELSON_LEVY_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "עם המון לב: הניצחון השלישי של פלצ'יק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1116782.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/1UlVm4GTfK/App/NM_VTR_ARAD_PALCHIC_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/1UlVm4GTfK/App/NM_VTR_ARAD_PALCHIC_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "רגע המהפך: הניצחון השני של הרשקו בקרב על הארד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1116776.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/0TLGh5szf1/App/NM_VTR_ARAD_HERSHKO_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/0TLGh5szf1/App/NM_VTR_ARAD_HERSHKO_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "כך הכל התחיל: הניצחון הראשון של שגיא מוקי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1116773.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Og7p5B5Nk1/App/NM_VTR_ARAD_MUKI_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Og7p5B5Nk1/App/NM_VTR_ARAD_MUKI_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "יופי תמנע: הניצחון שסידר לישראל קרב על הארד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1116729.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8F6smHrtVZ/App/TIMNA_NICHOMIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8F6smHrtVZ/App/TIMNA_NICHOMIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "צמוד ודרמטי: ההפסד המכריע של ישראל לצרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1116708.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/aoBxl0rbGi/App/SHARIR_3_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/aoBxl0rbGi/App/SHARIR_3_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "עוד פגישה: ששון שוב נכנע לרינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1116688.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/wNDJogBXb2/App/SASSON_VS_RINER_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/wNDJogBXb2/App/SASSON_VS_RINER_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "בא חם: פלצ'יק ניצח באיפון תוך 29 שניות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1116677.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/LEDKFmW3lF/App/NM_PALCHIK_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/LEDKFmW3lF/App/NM_PALCHIK_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "עמדה בלחץ: שריר סידרה ניצחון על איטליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1116662.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/a8xi1xISJi/App/NM_SHRIR2_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/a8xi1xISJi/App/NM_SHRIR2_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "פרס ניחומים: טדי רינר זכה בארד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1116445.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/O9VjthlYdd/App/RINER_BRONZE_MEDAL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/O9VjthlYdd/App/RINER_BRONZE_MEDAL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "הענק נפל: טדי רינר הפסיד כבר ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1116410.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Crrr9yaqPg/App/riner_lose_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Crrr9yaqPg/App/riner_lose_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "רז הרשקו הפסידה בשמינית הגמר והודחה מטוקיו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1116351.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/oVsiK3FaAu/App/hershko_shminit_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/oVsiK3FaAu/App/hershko_shminit_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "לאחר קרב ענק: טדי רינר הדיח את אורי ששון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1116326.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/G56xGWj4Wf/App/sasson_riner_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/G56xGWj4Wf/App/sasson_riner_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "המלך חזר למזרן: רינר עלה לסיבוב ה-2 עם איפון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1116314.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HO8RxWQQB9/App/judo_riner_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HO8RxWQQB9/App/judo_riner_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "לחיצת יד ואיפון: הרשקו גברה על יריבתה הסעודית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1116343.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/5qImeoJ99b/App/hershko_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/5qImeoJ99b/App/hershko_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "סמדג'ה לפלצ'יק: \"נתת לו את הקרב\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1116010.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/BKcqp8PxXA/App/NM_VTR_ATZABIM_PALCHICK_290721_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/BKcqp8PxXA/App/NM_VTR_ATZABIM_PALCHICK_290721_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "נשר לניחומים: פלצ'יק הפסיד ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1115922.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/JV04lPNNyi/App/NM_VTR_PALCHICK_2_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/JV04lPNNyi/App/NM_VTR_PALCHICK_2_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "הרגע הגדול שלה: איפון אדיר ללניר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1115892.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9JMZdngmy8/App/NM_VTR_LANIR_1_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9JMZdngmy8/App/NM_VTR_LANIR_1_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      },
+      {
+       "name": "קוכמן סיים את דרכו בטוקיו לאחר הפסד בשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1115593.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/DeT3xx9xLE/App/NM_VTR_KOCHMAN_2_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/DeT3xx9xLE/App/NM_VTR_KOCHMAN_2_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ג'ודו"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)",
+     "channels": [
+      {
+       "name": "פרצו בבכי: הרוסיות שוב הפסידו את הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1119449.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Hd8EJNaTLb/App/NM_VTR_RUSIA_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Hd8EJNaTLb/App/NM_VTR_RUSIA_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "לצלילי בריטני: התרגיל המשולב של הנבחרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1119436.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Sqn3Rdahqo/App/NM_VTR_HITAMLOT_HISHUK_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Sqn3Rdahqo/App/NM_VTR_HITAMLOT_HISHUK_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "נהננו: תרגיל הכדורים של נבחרת ישראל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1119420.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/axsknMRweZ/App/NM_VTR_HITAMLOT_KADUR_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/axsknMRweZ/App/NM_VTR_HITAMLOT_KADUR_080821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "צמרמורת: התקווה שוב הושמעה בטוקיו ! ! !",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1119141.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/6to66gQPpo/App/VTR_ASHRAM_PODUIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/6to66gQPpo/App/VTR_ASHRAM_PODUIM_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "האשרם של ישראל: כל הדרך עד למדליית הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1119140.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hmsfzCksQj/App/VTR_ASHRAM_ALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hmsfzCksQj/App/VTR_ASHRAM_ALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "מלכת ישראל: התרגיל שהבטיח את הזהב לאשרם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1119137.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/mlMB01LRO4/App/VTR_ASHRAM_SERET_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/mlMB01LRO4/App/VTR_ASHRAM_SERET_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "ענקית: תרגיל מדהים ללינוי אשרם באלות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1119104.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9HJSBEY53F/App/VTR_ASHRAM_ALOT_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9HJSBEY53F/App/VTR_ASHRAM_ALOT_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "לאחר תרגיל הכדור אשרם נותרה במקום הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1119093.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/oD7APBze18/App/linoy_ashram_2_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/oD7APBze18/App/linoy_ashram_2_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "הופעה מכובדת: כל תרגילי זליקמן בגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1119113.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2I54fVpqXY/App/ALL_ZELIKMAN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2I54fVpqXY/App/ALL_ZELIKMAN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "התחלנו: ביצוע נהדר לאשרם בתרגיל החישוק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1119079.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8tNh9i9u9h/App/linoy_ashram_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8tNh9i9u9h/App/linoy_ashram_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "נבחרת ישראל עלתה לגמר בזכות ביצוע נפלא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1119035.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/b0j2gdJoZh/App/hitamlut_team_alut_hisuhk_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/b0j2gdJoZh/App/hitamlut_team_alut_hisuhk_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "תרגיל כדור נהדר לנבחרת ההתעמלות האמנותית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1119028.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HyGhrqqGa8/App/hitamlut_team_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/HyGhrqqGa8/App/hitamlut_team_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "טובות השתיים: זליקמן עלתה לגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1118882.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/7EniCxCddN/App/NICOLE_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/7EniCxCddN/App/NICOLE_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "עמדה במשימה בגדול: אשרם עלתה לגמר הקרב רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1118880.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/kshjau9M9l/App/LINOY_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/kshjau9M9l/App/LINOY_ALL_080621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "לינוי אשרם הפילה את החישוק בתרגיל הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1118813.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9f11zuXjkU/App/NM_VTR_TAK_HISHOK_LINOY_ASHRAM_060821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/9f11zuXjkU/App/NM_VTR_TAK_HISHOK_LINOY_ASHRAM_060821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "התאוששה בזמן: תרגיל נהדר לאשרם בכדור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1118828.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/di4sgqp5iP/App/NM_ASHRAM_2_060821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/di4sgqp5iP/App/NM_ASHRAM_2_060821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "נקי מטעויות: תרגיל החישוק של זליקמן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1118804.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/aHkjQeRh0W/App/NM_VTR_NIKOL_060821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/aHkjQeRh0W/App/NM_VTR_NIKOL_060821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "חזרה לחייך: סימון ביילס בגמר תרגיל הקורה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1117881.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/DfVO2Gmaxb/App/NM_BILES_KORA_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/DfVO2Gmaxb/App/NM_BILES_KORA_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "קליפ זהב: היום ההיסטורי של דולגופיאט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1117437.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2DwydLB8GO/App/VTR_CLIP_DOLGOPYAT_010821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2DwydLB8GO/App/VTR_CLIP_DOLGOPYAT_010821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      },
+      {
+       "name": "היורש: האשימוטו זכה בזהב אחרי דרמת ענק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1115770.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/zMssUaIAYR/App/hasimutu_japan_gold_medal_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/zMssUaIAYR/App/hasimutu_japan_gold_medal_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - התעמלות (מכשירים ואומנותית)"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - אופניים",
+     "channels": [
+      {
+       "name": "קורע: שברו שיא עולם והתרסקו בחגיגות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1117871.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hPcF3743DJ/App/britan_cycling_crash_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hPcF3743DJ/App/britan_cycling_crash_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אופניים"
+      },
+      {
+       "name": "הופעה גדולה: מקום 24 לשפירא באופני כביש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1114738.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/imbr8mtfdT/App/SHAPIRA_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/imbr8mtfdT/App/SHAPIRA_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - אופניים"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - בייסבול/סופטבול",
+     "channels": [
+      {
+       "name": "זה נגמר: נבחרת הבייסבול הודחה מטוקיו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1117957.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/o0U7QXD2Af/App/NM_TAK_BASEBALL_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/o0U7QXD2Af/App/NM_TAK_BASEBALL_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - בייסבול/סופטבול"
+      },
+      {
+       "name": "לא כוחות: נבחרת הבייסבול הפסידה לדרום קוריאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1117515.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/vpAHiJFgzd/App/NM_BASEBALL_020721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/vpAHiJFgzd/App/NM_BASEBALL_020721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - בייסבול/סופטבול"
+      },
+      {
+       "name": "ארה\"ב הייתה גדולה על נבחרת הבייסבול של ישראל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1116533.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ygarcTn5zH/App/BASEBALL_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ygarcTn5zH/App/BASEBALL_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - בייסבול/סופטבול"
+      },
+      {
+       "name": "בתום דרמה: ישראל הפסידה 6:5 לדרום קוריאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1116107.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/b5CH7O2JSm/App/NM_VTR_TAK_BASEBALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/b5CH7O2JSm/App/NM_VTR_TAK_BASEBALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - בייסבול/סופטבול"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - היאבקות (איגרוף, טאקוונדו, היאבקות, קראטה)",
+     "channels": [
+      {
+       "name": "נכנסה להיסטוריה: סמברג זכתה במדליית הארד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1114464.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/JqtSnBvKPD/App/samberg_arad_with_madalya_240721_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/JqtSnBvKPD/App/samberg_arad_with_madalya_240721_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - היאבקות (איגרוף, טאקוונדו, היאבקות, קראטה)"
+      },
+      {
+       "name": "ברגל ימין: הניצחון של סמברג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1114302.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/5zrOdylcNI/App/SEMBERG_NO_SOUND_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/5zrOdylcNI/App/SEMBERG_NO_SOUND_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - היאבקות (איגרוף, טאקוונדו, היאבקות, קראטה)"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - טניס (טניס שולחן, טניס, בדמינטון)",
+     "channels": [
+      {
+       "name": "מהפך והדחה דרמטית: זברב הפתיע את ג'וקוביץ'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1116478.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/FJTlrab1L6/App/DJOKOVIC_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/FJTlrab1L6/App/DJOKOVIC_300721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - טניס (טניס שולחן, טניס, בדמינטון)"
+      },
+      {
+       "name": "מדליקת הלפיד בחוץ: אוסקה הודחה מטוקיו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1115314.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ZquCEwEPha/App/OSAKA_270721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/ZquCEwEPha/App/OSAKA_270721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - טניס (טניס שולחן, טניס, בדמינטון)"
+      },
+      {
+       "name": "ניצחון ענק: זילברמן גבר על המדורג 15 בעולם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1114375.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/s3xdkE0XDD/App/VTR_TAK_ZILBERMAN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/s3xdkE0XDD/App/VTR_TAK_ZILBERMAN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - טניס (טניס שולחן, טניס, בדמינטון)"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - ירי תחרותי (קשתות וירי)",
+     "channels": [
+      {
+       "name": "הקשת איתי שני ספג הפסד דרמטי - והודח",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1116631.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/dkmDD8q6Ya/App/ITAY_SHANY_21721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/dkmDD8q6Ya/App/ITAY_SHANY_21721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ירי תחרותי (קשתות וירי)"
+      },
+      {
+       "name": "לאחר דרמה בקשתות: איתי שני העפיל לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1115570.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/bszSdL8Jop/App/NM_VTR_KESHET_ITAY_SHANI_2_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/bszSdL8Jop/App/NM_VTR_KESHET_ITAY_SHANI_2_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - ירי תחרותי (קשתות וירי)"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - כדורגל",
+     "channels": [
+      {
+       "name": "רישארליסון כיכב, ברזיל עלתה לרבע מהפסגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1115723.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/eSyN9SExEY/App/brazil_ksa_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/eSyN9SExEY/App/brazil_ksa_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורגל"
+      },
+      {
+       "name": "שלושער לז'יניאק, צרפת ניצחה 3:4 את דרא\"פ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1114764.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Blwam5WQmn/App/france_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Blwam5WQmn/App/france_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורגל"
+      },
+      {
+       "name": "שער נהדר לקובו, יפן ניצחה 0:1 את דרום אפריקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1113945.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/gd6ax9Bdt3/App/japan_south_africa_football_2207_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/gd6ax9Bdt3/App/japan_south_africa_football_2207_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורגל"
+      },
+      {
+       "name": "רוקדת על המגרש: ברזיל ניצחה 2:4 את גרמניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1113943.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/FN7bqmC757/App/TAK_BRAZIL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/FN7bqmC757/App/TAK_BRAZIL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורגל"
+      },
+      {
+       "name": "אוסטרליה גברה 0:2 על ארגנטינה במחזור הפתיחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1113938.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/r70y9WskDb/App/aus_arg_football_2207_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/r70y9WskDb/App/aus_arg_football_2207_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורגל"
+      },
+      {
+       "name": "תוך 6 דקות על המגרש: דומביה, קשר נתניה הורחק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1113906.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hFO05nIPwh/App/dombia_red_card_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/hFO05nIPwh/App/dombia_red_card_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורגל"
+      },
+      {
+       "name": "פתיחה מוחצת: מקסיקו הביסה 1:4 את צרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1113898.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/CMDvEEKk0v/App/mexico_france_football_2207_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/CMDvEEKk0v/App/mexico_france_football_2207_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורגל"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - כדורסל (5v5, 3v3)",
+     "channels": [
+      {
+       "name": "סופרמן: דוראנט הוביל את ארה\"ב לזכיה רביעית ברצף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1119061.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/mlm18NFCMe/App/usa_france_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/mlm18NFCMe/App/usa_france_070821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "על הגג: צרפת בגמר ע\"ח דונצ'יץ' וסלובניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1118662.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/cvdXQY4R3R/App/NM_TAK_SLOVANIA_FRANCE_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/cvdXQY4R3R/App/NM_TAK_SLOVANIA_FRANCE_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "התעוררה בזמן: רבע 3 ענק נתן לארה\"ב כרטיס לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1118507.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/da0Na1JSRI/App/NM_VTR_TAK_USA_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/da0Na1JSRI/App/NM_VTR_TAK_USA_050821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "צרפת גברה על איטליה בדרך לחצי הגמר בטוקיו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1117903.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/D9us6I2XoO/App/NM_SAL_FRANCE_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/D9us6I2XoO/App/NM_SAL_FRANCE_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "התעוררה בחצי השני: ארה\"ב ניצחה את ספרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1117817.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8UDiUZLbpF/App/NM_TAK_USA_SPAIN_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8UDiUZLbpF/App/NM_TAK_USA_SPAIN_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "קרוב למדליה: דונצ'יץ' חגג על גרמניה ועלה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1117765.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/lsIxcrtfOl/App/NM_TAK_SLOVANIA_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/lsIxcrtfOl/App/NM_TAK_SLOVANIA_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "ארה\"ב ברבע הגמר אחרי 84:119 על צ'כיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1116846.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/KaU7msIk2t/App/NM_VTR_TAK_USA_SAL_NEW_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/KaU7msIk2t/App/NM_VTR_TAK_USA_SAL_NEW_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "עלתה לרבע הגמר: ספרד גברה 71:81 על ארגנטינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1116137.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2eG0auQBPq/App/N_VTR_SPAIN_VS_ARGENTINA_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/2eG0auQBPq/App/N_VTR_SPAIN_VS_ARGENTINA_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "25 לדונצ'יץ' בהצגה של סלובניה מול יפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1115962.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Ezf0Z5FJSC/App/NM_VTR_TAK_SLOVENIA_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Ezf0Z5FJSC/App/NM_VTR_TAK_SLOVENIA_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "צרפת הייתה גדולה על צ'כיה וגינזבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1115778.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/I4Oeb8pnrr/App/CHECH_FRANCE_SAL_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/I4Oeb8pnrr/App/CHECH_FRANCE_SAL_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "הולידיי לערוץ הספורט: \"תהמרו עלינו לזהב\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1115649.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/dN0q5Ds1FA/App/NM_VTR_DANIEL_SY_USA_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/dN0q5Ds1FA/App/NM_VTR_DANIEL_SY_USA_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "בהילוך ראשון: ארצות הברית חגגה על איראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1115610.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/NLTl3jzCK7/App/NM_VTR_TAK_USA_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/NLTl3jzCK7/App/NM_VTR_TAK_USA_280721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "ואגנר ופויטמן בלטו, גרמניה ניצחה 92:99 את ניגריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1115607.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8A6mP1q33x/App/GerNig_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/8A6mP1q33x/App/GerNig_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "רוביו כיכב עם 20 נק', ספרד ניצחה 77:88 את יפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1115196.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/gj5oOfJ9dA/App/NM_TAK_SPAIN_BASKETBALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/gj5oOfJ9dA/App/NM_TAK_SPAIN_BASKETBALL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "לא מהעולם הזה: המופע של דונצ'יץ' מול ארגנטינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1115036.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/81f9dja3YG/App/SLOVENIA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/81f9dja3YG/App/SLOVENIA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      },
+      {
+       "name": "בתום דרמה: נבחרת צרפת הדהימה את הדרים טים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1114811.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/TlxswCiw6i/App/SAL_USA_X_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/TlxswCiw6i/App/SAL_USA_X_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - כדורסל (5v5, 3v3)"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - שחייה צורנית",
+     "channels": [
+      {
+       "name": "בלכר ובובריצקי בתרגיל הטכני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1117918.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/E2EvRkUIfx/App/MN_ISRAEL_ARTISTIC_SWIM_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/E2EvRkUIfx/App/MN_ISRAEL_ARTISTIC_SWIM_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה צורנית"
+      },
+      {
+       "name": "בלכר ובובריצקי סיימו במקום ה-16 בתרגיל החופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1117611.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/iLoep57ADe/App/NM_BLECHER_BUBRITZKY_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/iLoep57ADe/App/NM_BLECHER_BUBRITZKY_020821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שחייה צורנית"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - רכיבה על סוסים",
+     "channels": [
+      {
+       "name": "בונד ודונאטלו סיימו במקום ה-11 בתחרות היחידים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1118244.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/IYexgOeMCl/App/ashly_bond_040821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/IYexgOeMCl/App/ashly_bond_040821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - רכיבה על סוסים"
+      },
+      {
+       "name": "פתיחה טובה: אשלי בונד העפילה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1117925.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/DS1SK0ZQ6l/App/NM_SUSIM_ASHLEE_BOND_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/DS1SK0ZQ6l/App/NM_SUSIM_ASHLEE_BOND_030821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - רכיבה על סוסים"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - שייט",
+     "channels": [
+      {
+       "name": "כ\"כ קרוב: כהן סיים ראשון ופספס מדליה בנקודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1116751.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/V85sQKNp79/App/NM_SHAIT_YOAV_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/V85sQKNp79/App/NM_SHAIT_YOAV_310721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שייט"
+      },
+      {
+       "name": "לפני השיוט האחרון: יואב כהן איבד סיכוי למדליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1115982.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/zerI31Ad9q/App/NM_VTR_YOAV_COHEN_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/zerI31Ad9q/App/NM_VTR_YOAV_COHEN_290721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - שייט"
+      }
+     ]
+    },
+    {
+     "name": "טוקיו 2020 - הכירו את הספורטאים הישראליים",
+     "channels": [
+      {
+       "name": "חולמים על מדליה: הגולשים מוכנים לטוקיו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1113637.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/LoCj6Uas1p/App/NM_VTR_ITEM_SHAIT_200721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/LoCj6Uas1p/App/NM_VTR_ITEM_SHAIT_200721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את לינוי אשרם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1113335.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/pIQsiM66uV/App/HCP000046052_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/pIQsiM66uV/App/HCP000046052_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את אלכס שטילוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1113345.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/r5KeC1wb3L/App/NM_VTR_ID_SHATILOV_190721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/r5KeC1wb3L/App/NM_VTR_ID_SHATILOV_190721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את אבישי סמברג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1113344.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/cg5BPo4kki/App/AVISHAG_SAMBERG_ID_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/cg5BPo4kki/App/AVISHAG_SAMBERG_ID_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את פיטר פלצ'יק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1113334.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/uHOvjilea5/App/HCP000046051_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/uHOvjilea5/App/HCP000046051_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את חנה מיננקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1113340.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/EQd3brly2p/App/ID_MINENKO_190721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/EQd3brly2p/App/ID_MINENKO_190721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את ברוך שמאילוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1113343.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/SmPbP4GMJJ/App/ID_SHMAILOV_190821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/SmPbP4GMJJ/App/ID_SHMAILOV_190821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "המשלחת שלנו לטוקיו: קבלו את נבחרת השחייה האומנותית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1113342.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/s2BSBB6Z9h/App/ID_ARTISTIC_SWIM_190721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/s2BSBB6Z9h/App/ID_ARTISTIC_SWIM_190721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את תמנע נלסון לוי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1113341.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Eeek23FHo6/App/ID_NELSON_LEVY_190721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Eeek23FHo6/App/ID_NELSON_LEVY_190721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "המשלחת שלנו לטוקיו: קבלו את נבחרת הבייסבול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1113337.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Bh0SqHGZtD/App/HCP000046004_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/Bh0SqHGZtD/App/HCP000046004_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את יואב כהן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1113336.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/MLZpiDbLTx/App/HCP000046053_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/MLZpiDbLTx/App/HCP000046053_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      },
+      {
+       "name": "הנבחרת שלנו לטוקיו: קבלו את אנסטסיה גורבנקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1110747.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/dDF4LBzVuV/App/NM_VTR_ZEHUT_OLYMIC_060721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/dDF4LBzVuV/App/NM_VTR_ZEHUT_OLYMIC_060721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "טוקיו 2020 - הכירו את הספורטאים הישראליים"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

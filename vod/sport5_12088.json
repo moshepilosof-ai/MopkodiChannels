@@ -1,0 +1,676 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - הפועל ת\"א ביורוליג",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "12088",
+   "series_id": "12088",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
+   "plot": "",
+   "updated": "2026-10-31 02:45",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "רצף הניצחונות נעצר: הפועל תל אביב נכנעה לדובאי בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=565765&p",
+       "season": ""
+      },
+      {
+       "name": "ניצחון ענק: 88:118 להפועל ת\"א על אנאדולו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1795991.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_281026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_281026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=565493&poster=",
+       "season": ""
+      },
+      {
+       "name": "קאמבק אדיר: 81:90 גדול להפועל ת\"א על וירטוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1792488.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_2110261_17926063089/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_2110261_17926063089/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26V",
+       "season": ""
+      },
+      {
+       "name": "הצהרת כוונות! ניצחון ענק להפועל ת\"א על פאו בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1789757.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_161026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_161026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=564008&poster",
+       "season": ""
+      },
+      {
+       "name": "חזרה לנצח: הפועל ת\"א הביסה את בשיקטאש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1788797.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_141026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_141026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=563749&pos",
+       "season": ""
+      },
+      {
+       "name": "30 נק' של בלייקני לא הספיקו, הפועל ת\"א הפסידה לוולנסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1786014.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_VAL1_081026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_VAL1_081026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=563059&poste",
+       "season": ""
+      },
+      {
+       "name": "עם המון אופי: הפועל ת''א גברה 98:102 על ריאל מדריד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1782266.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_011026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_011026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=562304&poster=",
+       "season": ""
+      },
+      {
+       "name": "בראיינט כיכב, הפועל ת''א השיגה ניצחון דרמטי מול הכוכב האדום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1781632.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_290926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_290926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=562112&post",
+       "season": ""
+      },
+      {
+       "name": "למרות שחזרה מ-18 הפרש: הפועל ת''א נכנעה לבאיירן מינכן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1779573.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_BAYREN_2409361_17902734317/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_BAYREN_2409361_17902734317/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12",
+       "season": ""
+      },
+      {
+       "name": "ריאל ניצחה 81:87 והדיחה את הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1712885.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_RMA_070526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_RMA_070526/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12261%26Vi=543652&poster",
+       "season": ""
+      },
+      {
+       "name": "מסרבת להיכנע: הפועל חזרה ל-2:1 בסדרה מול ריאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1711810.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_050526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_050526/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12261%26Vi=543398&poster=",
+       "season": ""
+      },
+      {
+       "name": "הפועל ת\"א הובסה מול ריאל וירדה ל-2:0 בסדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1709644.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_010526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_010526/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12261%26Vi=543027&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "פספסה צ'אנס: 0:1 לריאל על הפועל ת\"א בסדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1708789.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_290426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_290426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12261%26Vi=542705&poster=",
+       "season": ""
+      },
+      {
+       "name": "רחוק מהבית: הפועל ת\"א הובסה נגד מונאקו וסיימה שישית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1703206.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_MONCO_170426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_MONCO_170426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=540533&post",
+       "season": ""
+      },
+      {
+       "name": "הבטיחה פלייאוף: הפועל גברה על מכבי בדרבי יורוליג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1701332.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_120426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_120426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=539956&poste",
+       "season": ""
+      },
+      {
+       "name": "הפלייאוף בסכנה? הפועל ת\"א הפסידה לאולימפיאקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1698653.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_090426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_090426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=539580&poster=",
+       "season": ""
+      },
+      {
+       "name": "עם רבע רביעי ענק: הפועל ת\"א גברה על פנאתינאיקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1693965.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_020426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_020426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=539025&poster",
+       "season": ""
+      },
+      {
+       "name": "מסתבכת: הפועל ת\"א הובכה עם 118:109 נגד באסקוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1692318.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_270326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_270326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=538507&poster=",
+       "season": ""
+      },
+      {
+       "name": "הפועל ת\"א הפסידה לריאל וירדה למקום ה-5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1691229.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_240326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_240326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=538148&post",
+       "season": ""
+      },
+      {
+       "name": "ניצחון גדול להפועל ת\"א על ברצלונה במאבק על הפלייאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1687110.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_130326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_130326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=537150&post",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "הפועל ת\"א ביורוליג - 2025/26",
+     "channels": [
+      {
+       "name": "ריאל ניצחה 81:87 והדיחה את הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1712885.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_RMA_070526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_RMA_070526/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "מסרבת להיכנע: הפועל חזרה ל-2:1 בסדרה מול ריאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1711810.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_050526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_050526/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "הפועל ת\"א הובסה מול ריאל וירדה ל-2:0 בסדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1709644.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_010526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_010526/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "פספסה צ'אנס: 0:1 לריאל על הפועל ת\"א בסדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1708789.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_290426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_290426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "רחוק מהבית: הפועל ת\"א הובסה נגד מונאקו וסיימה שישית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1703206.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_MONCO_170426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_MONCO_170426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "הבטיחה פלייאוף: הפועל גברה על מכבי בדרבי יורוליג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1701332.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_120426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_120426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "הפלייאוף בסכנה? הפועל ת\"א הפסידה לאולימפיאקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1698653.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_090426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_090426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "עם רבע רביעי ענק: הפועל ת\"א גברה על פנאתינאיקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1693965.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_020426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_020426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "מסתבכת: הפועל ת\"א הובכה עם 118:109 נגד באסקוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1692318.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_270326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_270326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "הפועל ת\"א הפסידה לריאל וירדה למקום ה-5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1691229.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_240326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_240326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "ניצחון גדול להפועל ת\"א על ברצלונה במאבק על הפלייאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1687110.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_130326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_130326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "עם מחצית היסטורית: הפועל ת\"א הביסה את וירטוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1689439.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_BOL_190326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_BOL_190326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "מרגישה בבית: 82:93 להפועל ת\"א מול פריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1688307.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_170326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_170326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "חזרה לנצח: הפועל ת\"א גברה 86:92 על מילאנו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1681212.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_MILANO_260226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_MILANO_260226/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "5 רצוף: הפועל ת\"א הפסידה 93:82 לז'לגיריס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1675056.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_130226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_130226/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "רביעי רצוף: הפועל ת\"א ספגה הפסד מול ולנסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1671151.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_050226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_050226/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "התפרקות: הפועל ת\"א הפסידה 79:64 לבאיירן מינכן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1667431.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_290126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_290126/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "קריסה: הפועל איבדה יתרון 27 בהפסד לפרטיזן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1664300.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_230126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_230126/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "מג`יק ג`ונס: הפועל ת\"א גברה על אנדולו אפס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1662807.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_200126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_200126/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "התעוררה בזמן: הפועל ת\"א גברה על וילרבאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1660970.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL1_176859842974/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL1_176859842974/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26"
+      }
+     ]
+    },
+    {
+     "name": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - פלייאוף",
+     "channels": [
+      {
+       "name": "ריאל ניצחה 81:87 והדיחה את הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1712885.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_RMA_070526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_RMA_070526/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - פלייאוף"
+      },
+      {
+       "name": "מסרבת להיכנע: הפועל חזרה ל-2:1 בסדרה מול ריאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1711810.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_050526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_050526/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - פלייאוף"
+      },
+      {
+       "name": "הפועל ת\"א הובסה מול ריאל וירדה ל-2:0 בסדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1709644.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_010526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_010526/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - פלייאוף"
+      },
+      {
+       "name": "פספסה צ'אנס: 0:1 לריאל על הפועל ת\"א בסדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1708789.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_290426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_290426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - פלייאוף"
+      }
+     ]
+    },
+    {
+     "name": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה",
+     "channels": [
+      {
+       "name": "רחוק מהבית: הפועל ת\"א הובסה נגד מונאקו וסיימה שישית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1703206.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_MONCO_170426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_MONCO_170426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "הבטיחה פלייאוף: הפועל גברה על מכבי בדרבי יורוליג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1701332.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_120426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_120426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "הפלייאוף בסכנה? הפועל ת\"א הפסידה לאולימפיאקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1698653.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_090426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_090426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "עם רבע רביעי ענק: הפועל ת\"א גברה על פנאתינאיקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1693965.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_020426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_020426/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "מסתבכת: הפועל ת\"א הובכה עם 118:109 נגד באסקוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1692318.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_270326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_270326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "הפועל ת\"א הפסידה לריאל וירדה למקום ה-5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1691229.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_240326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_240326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "ניצחון גדול להפועל ת\"א על ברצלונה במאבק על הפלייאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1687110.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_130326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_130326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "עם מחצית היסטורית: הפועל ת\"א הביסה את וירטוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1689439.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_BOL_190326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_BOL_190326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "מרגישה בבית: 82:93 להפועל ת\"א מול פריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1688307.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_170326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_170326/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "חזרה לנצח: הפועל ת\"א גברה 86:92 על מילאנו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1681212.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_MILANO_260226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_MILANO_260226/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "5 רצוף: הפועל ת\"א הפסידה 93:82 לז'לגיריס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1675056.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_130226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_130226/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "רביעי רצוף: הפועל ת\"א ספגה הפסד מול ולנסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1671151.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_050226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_050226/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "התפרקות: הפועל ת\"א הפסידה 79:64 לבאיירן מינכן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1667431.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_290126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_290126/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "קריסה: הפועל איבדה יתרון 27 בהפסד לפרטיזן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1664300.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_230126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_230126/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "מג`יק ג`ונס: הפועל ת\"א גברה על אנדולו אפס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1662807.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_200126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_200126/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "התעוררה בזמן: הפועל ת\"א גברה על וילרבאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1660970.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL1_176859842974/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL1_176859842974/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "הרגישה בבית: הפועל ת\"א פירקה 60:85 את דובאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1655716.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_DUBAI_060126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_DUBAI_060126/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "הפועל ת\"א חזרה לנצח ותישאר בפסגת היורוליג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1649252.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_231225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_231225/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "כשלה באואקה: הפועל ת''א הפסידה פנאתינייקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1646921.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_SAL2222_181225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_SAL2222_181225/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      },
+      {
+       "name": "ברייאנט כיכב: הפועל ניצחה 78:84 את הכוכב האדום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1646152.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_161225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_161225/HLS/playlist.m3u8",
+       "season": "הפועל ת\"א ביורוליג - 2025/26 - 2025/26 - עונה סדירה"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

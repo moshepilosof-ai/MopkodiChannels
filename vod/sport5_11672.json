@@ -1,0 +1,1626 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - אולימפיאדת פריז 2024",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11672",
+   "series_id": "11672",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1434696.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:08",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "אלוף חדש: טולה שבר שיא אולימפי, טפרי במקום ה-26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1434696.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MARATON_100824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MARATON_100824/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=480330&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "מרתון לכולם: המסלול, הישראלים והקונספט המיוחד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1434596.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_MARATHON_090824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_MARATHON_090824/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=480306&p",
+       "season": ""
+      },
+      {
+       "name": "בנג`מין זכה בזהב ב-400 מטר משוכות, וורהולם עם הכסף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1434411.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/400_HURDLES_GEVA_16x9_09082024_195531/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/400_HURDLES_GEVA_16x9_09082024_195531/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677",
+       "season": ""
+      },
+      {
+       "name": "ארה\"ב פסלה, קנדה זכתה בזהב ב-4X100 גברים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1434317.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_GRASSE_GEVA_16x9_09082024_175627/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_GRASSE_GEVA_16x9_09082024_175627/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%2",
+       "season": ""
+      },
+      {
+       "name": "שיא אולימפי לפאולינו, שזכתה בזהב ב-400 מטר נשים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1434345.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PAULINO_GEVA_16x9_09082024_181310/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/PAULINO_GEVA_16x9_09082024_181310/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26V",
+       "season": ""
+      },
+      {
+       "name": "נבחרת השליחות של ארה\"ב זכתה בזהב ב-4X100",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1434323.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/100X4NASHIM_GEVA_16x9_09082024_174502/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/100X4NASHIM_GEVA_16x9_09082024_174502/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677",
+       "season": ""
+      },
+      {
+       "name": "זהב לטבוגו, ליילס רק במקום השלישי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1433709.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Letsile_Tebogo_with_a_Finish_from_Mens_200m_Final_16x9_08082024_184042_17231424833/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Letsile_Tebogo_with_a_Finish_from_Mens_200m_Final_16x9_08082024_184042_17231424833/HLS/playlist.m3u8&live=Fals",
+       "season": ""
+      },
+      {
+       "name": "הימם את עולם האתלטיקה: קול הוקר ניצח בריצת 1500 מטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1432356.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOCKER_GEVA_NEW_16x9_06082024_190749/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HOCKER_GEVA_NEW_16x9_06082024_190749/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%",
+       "season": ""
+      },
+      {
+       "name": "בלסינג אפריפה לא עלה לחצי הגמר ב-200 מטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1431873.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_AFRIFAH_060824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_AFRIFAH_060824/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=479889&poster=",
+       "season": ""
+      },
+      {
+       "name": "אפריפה סיים במקום ה-5 במוקדמות 200 מ`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1431433.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_afriffa_050824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_afriffa_050824/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=479764&poster",
+       "season": ""
+      },
+      {
+       "name": "שיא עולם חדש: דופלנטיס קפץ 6.25 מטרים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1431531.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/new_duplantis/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/new_duplantis/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=479762&poster=http",
+       "season": ""
+      },
+      {
+       "name": "הכי צמוד: ליילס זכה בזהב אחרי ניצחון ב-5 אלפיות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1430813.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_100M_FINAL_040824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_100M_FINAL_040824/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=479670&post",
+       "season": ""
+      },
+      {
+       "name": "בתרגיל ענק: ליו יאנג הסיני זכה בזהב בגמר הטבעות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1430465.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Mens_Rings_Final_16x9_04082024_144111_172278252082/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Mens_Rings_Final_16x9_04082024_144111_172278252082/HLS/playlist.m3u8&live=False&referrer=",
+       "season": ""
+      },
+      {
+       "name": "קיילנ נמור זכתה בזהב בגמר המקבילים המדורגים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1430468.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Womens_Uneven_Bars_Final_16x9_04082024_150234_172278378266/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Womens_Uneven_Bars_Final_16x9_04082024_150234_172278378266/HLS/playlist.m3u8&live=False&r",
+       "season": ""
+      },
+      {
+       "name": "עוד זהב לקרלוס יולו הפיליפני - הפעם בשולחן הקפיצות!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1430469.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Mens_Vault_Final_16x9_04082024_152559_17227852234/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Mens_Vault_Final_16x9_04082024_152559_17227852234/HLS/playlist.m3u8&live=False&referrer=h",
+       "season": ""
+      },
+      {
+       "name": "מהוצ`יך, שיאנית העולם, זכתה בזהב בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1430764.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MAHUCHIKH_16x9_04082024_190646/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MAHUCHIKH_16x9_04082024_190646/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=4",
+       "season": ""
+      },
+      {
+       "name": "כוח מתפרץ אדיר: ריצות הספרינט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1410829.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HCP000067776/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HCP000067776/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=474326&poster=https",
+       "season": ""
+      },
+      {
+       "name": "איך זה יראה באולימפיאדה? ריצת 10,000 מטר באליפות אירופה מלפני כחודש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1425427.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/10000europerun/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/10000europerun/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11677%26Vi=478916&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "השלימה דאבל: שויסטרום זכתה ב-50 מטר חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1430526.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Sarah_Sjoestroem_Gold_Medal_Moments_from_Womens_50m_Freestyle_Final_16x9_04082024_164100_172278966669/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Sarah_Sjoestroem_Gold_Medal_Moments_from_Womens_50m_Freestyle_Final_16x9_04082024_164100_172278966669/HLS/play",
+       "season": ""
+      },
+      {
+       "name": "אחרי 64 שנים: ארה\"ב עם הכסף בשליחים, סין עם הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1430543.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zhanle_Pan_Short_Gold_Medal_Moments_from_Mens_4_x_100m_Medley_Relay_Final_16x9_04082024_173603_172279303795/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Zhanle_Pan_Short_Gold_Medal_Moments_from_Mens_4_x_100m_Medley_Relay_Final_16x9_04082024_173603_172279303795/HL",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - אתלטיקה",
+     "channels": [
+      {
+       "name": "אלוף חדש: טולה שבר שיא אולימפי, טפרי במקום ה-26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1434696.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MARATON_100824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MARATON_100824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "מרתון לכולם: המסלול, הישראלים והקונספט המיוחד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1434596.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_MARATHON_090824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_MARATHON_090824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "בנג`מין זכה בזהב ב-400 מטר משוכות, וורהולם עם הכסף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1434411.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/400_HURDLES_GEVA_16x9_09082024_195531/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/400_HURDLES_GEVA_16x9_09082024_195531/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "ארה\"ב פסלה, קנדה זכתה בזהב ב-4X100 גברים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1434317.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_GRASSE_GEVA_16x9_09082024_175627/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_GRASSE_GEVA_16x9_09082024_175627/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "שיא אולימפי לפאולינו, שזכתה בזהב ב-400 מטר נשים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1434345.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PAULINO_GEVA_16x9_09082024_181310/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PAULINO_GEVA_16x9_09082024_181310/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "נבחרת השליחות של ארה\"ב זכתה בזהב ב-4X100",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1434323.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/100X4NASHIM_GEVA_16x9_09082024_174502/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/100X4NASHIM_GEVA_16x9_09082024_174502/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "זהב לטבוגו, ליילס רק במקום השלישי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1433709.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Letsile_Tebogo_with_a_Finish_from_Mens_200m_Final_16x9_08082024_184042_17231424833/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Letsile_Tebogo_with_a_Finish_from_Mens_200m_Final_16x9_08082024_184042_17231424833/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "הימם את עולם האתלטיקה: קול הוקר ניצח בריצת 1500 מטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1432356.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOCKER_GEVA_NEW_16x9_06082024_190749/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOCKER_GEVA_NEW_16x9_06082024_190749/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "בלסינג אפריפה לא עלה לחצי הגמר ב-200 מטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1431873.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_AFRIFAH_060824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_AFRIFAH_060824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "אפריפה סיים במקום ה-5 במוקדמות 200 מ`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1431433.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_afriffa_050824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_afriffa_050824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "שיא עולם חדש: דופלנטיס קפץ 6.25 מטרים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1431531.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/new_duplantis/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/new_duplantis/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "הכי צמוד: ליילס זכה בזהב אחרי ניצחון ב-5 אלפיות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1430813.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_100M_FINAL_040824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_100M_FINAL_040824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "בתרגיל ענק: ליו יאנג הסיני זכה בזהב בגמר הטבעות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1430465.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Mens_Rings_Final_16x9_04082024_144111_172278252082/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Mens_Rings_Final_16x9_04082024_144111_172278252082/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "קיילנ נמור זכתה בזהב בגמר המקבילים המדורגים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1430468.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Womens_Uneven_Bars_Final_16x9_04082024_150234_172278378266/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Womens_Uneven_Bars_Final_16x9_04082024_150234_172278378266/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "עוד זהב לקרלוס יולו הפיליפני - הפעם בשולחן הקפיצות!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1430469.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Mens_Vault_Final_16x9_04082024_152559_17227852234/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Game_Highlights_from_Mens_Vault_Final_16x9_04082024_152559_17227852234/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "מהוצ`יך, שיאנית העולם, זכתה בזהב בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1430764.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MAHUCHIKH_16x9_04082024_190646/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MAHUCHIKH_16x9_04082024_190646/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "כוח מתפרץ אדיר: ריצות הספרינט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1410829.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HCP000067776/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HCP000067776/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      },
+      {
+       "name": "איך זה יראה באולימפיאדה? ריצת 10,000 מטר באליפות אירופה מלפני כחודש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1425427.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/10000europerun/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/10000europerun/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אתלטיקה"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - שחייה",
+     "channels": [
+      {
+       "name": "השלימה דאבל: שויסטרום זכתה ב-50 מטר חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1430526.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Sarah_Sjoestroem_Gold_Medal_Moments_from_Womens_50m_Freestyle_Final_16x9_04082024_164100_172278966669/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Sarah_Sjoestroem_Gold_Medal_Moments_from_Womens_50m_Freestyle_Final_16x9_04082024_164100_172278966669/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "אחרי 64 שנים: ארה\"ב עם הכסף בשליחים, סין עם הזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1430543.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zhanle_Pan_Short_Gold_Medal_Moments_from_Mens_4_x_100m_Medley_Relay_Final_16x9_04082024_173603_172279303795/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zhanle_Pan_Short_Gold_Medal_Moments_from_Mens_4_x_100m_Medley_Relay_Final_16x9_04082024_173603_172279303795/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "שיא עולם מדהים לארה\"ב ב-4X100 מעורב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1430636.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Womens_4_x_100m_Medley_Relay_Final_-_Heat_Highlight_16x9_04082024_175924_172279441189/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Womens_4_x_100m_Medley_Relay_Final_-_Heat_Highlight_16x9_04082024_175924_172279441189/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "גורבנקו עלתה לחצי, פולונסקי הודחה ב-200 מ` מעורב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1428656.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GORBENKO_POLONSKI_020824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GORBENKO_POLONSKI_020824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "אביב ברזילי לא העפילה לחצי גמר 200 מטר גב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1427670.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BARZILI_MISHE_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BARZILI_MISHE_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "הישג אדיר: חירותי הבטיח חצי גמר ב-50 חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1427705.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SWIM_HARUTI_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SWIM_HARUTI_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "קרטאבי סיים 18 והודח מאולימפיאדת פריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1427717.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SWIM_MARTIN_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SWIM_MARTIN_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "הישג נהדר: פולונסקי עלה לחצי גמר 200 מעורב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1427723.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/R_POLONSKY_Highlights_1x1_01082024_101236_172250720696/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/R_POLONSKY_Highlights_1x1_01082024_101236_172250720696/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "התחלה טובה: גורבנקו העפילה לחצי גמר 200 מטר גב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1427672.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Anastasia_Gorbenko_with_a_Full_Heat_from_Womens_200m_Backstroke_-_Heat_3_16x9_01082024_091844_17225039614/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Anastasia_Gorbenko_with_a_Full_Heat_from_Womens_200m_Backstroke_-_Heat_3_16x9_01082024_091844_17225039614/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "שיא עולם ראשון: פאן ז'אנלה קבע שיא עולם בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1427457.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zhanle_Pan_whit_a_Top_World_Records_from_Mens_100m_Freestyle_Final_16x9_31072024_210117_172245971426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zhanle_Pan_whit_a_Top_World_Records_from_Mens_100m_Freestyle_Final_16x9_31072024_210117_172245971426/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "שיא אולימפי וזהב למרשאן ב-200 מטר פרפר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1427220.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LENO_MARSAN_SWIM_GOLD/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LENO_MARSAN_SWIM_GOLD/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "נבחרת השליחים סיימה במקום ה-9 בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1426504.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FINAL_MISCHE_SHLIHIM_300724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FINAL_MISCHE_SHLIHIM_300724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "נבחרת השליחים עלתה לגמר ב-4X200 מטר חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1426049.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Mens_4_x_200m_Freestyle_Relay_-_Heat_2_-_Heat_Highlight_16x9_30072024_122845_172234256419/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Mens_4_x_200m_Freestyle_Relay_-_Heat_2_-_Heat_Highlight_16x9_30072024_122845_172234256419/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "שיא אולימפי חדש! אוקלהן זכתה בזהב ב-200 מ` חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1425647.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/New_Video_16x9_29072024_200618/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/New_Video_16x9_29072024_200618/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "הזהב שלו: תומאס צ`קון זכה ב-100 מ` גב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1425629.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CECCON_16x9_29072024_193818/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CECCON_16x9_29072024_193818/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "הראשון בקריירה: דויד פופוביץ` זכה בזהב ב-200 מ` חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1425602.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/200_final_16x9_29072024_185441/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/200_final_16x9_29072024_185441/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "בגיל 17: זהב אולימפי ראשון לסאמר מקינטוש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1425598.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/S_McINTOSH_with_a_Spectacular_Finish_16x9_29072024_184505_172227873507/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/S_McINTOSH_with_a_Spectacular_Finish_16x9_29072024_184505_172227873507/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "ברגל ימין: גורבנקו עם משחה טוב ב-100 חזה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1424412.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/A_GORBENKO_with_a_Spectacular_Full_Heat_16x9_28072024_094854_172216014637/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/A_GORBENKO_with_a_Spectacular_Full_Heat_16x9_28072024_094854_172216014637/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "מרשים: דניס לוקטב העפיל לחצי הגמר ב-200 חופשי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1424385.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LOKTEV_SWIM_16x9_28072024_091543/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LOKTEV_SWIM_16x9_28072024_091543/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      },
+      {
+       "name": "רון פולונסקי הודח בחצי גמר 100 מ' חזה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1424036.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/POLANSKY_SEMIFINAL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/POLANSKY_SEMIFINAL/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שחייה"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - ג`ודו",
+     "channels": [
+      {
+       "name": "בתום דרמה: ישראל עלתה לשמינית הגמר בנבחרות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1429282.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISRAEL_JUDO/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISRAEL_JUDO/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "יש מדליה! רז הרשקו זכתה במדליית הכסף בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1428950.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_JUDO_HARSHKO2_020824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_JUDO_HARSHKO2_020824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "בתוך 15 שניות: רז הרשקו העפילה לגמר הג'ודו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1428879.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RAZ_WIN_IPON_020824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RAZ_WIN_IPON_020824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "רחוקה ניצחון ממדליה: רז הרשקו עלתה לחצי הגמר בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1428695.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/QU_HRESHKO_FINISH/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/QU_HRESHKO_FINISH/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "מרוקו הביסה 0:4 את ארצות הברית ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1428921.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Morocco_vs_United_States_of_America_-_Game_Highlights_16x9_02082024_151454_172261174224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Morocco_vs_United_States_of_America_-_Game_Highlights_16x9_02082024_151454_172261174224/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "מדהימה: רז הרשקו ניצחה ועלתה לרבע הגמר בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1428647.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HERSHKO_SHMINIT/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HERSHKO_SHMINIT/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "גאווה ישראלית! ענבר לניר זכתה בכסף בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1428106.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LANIR_MEDAL_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LANIR_MEDAL_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "נכנס לספרי ההיסטוריה: פלצ`יק זכה בארד בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1428026.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PALTCHIKMEDAL_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PALTCHIKMEDAL_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "יש מדליה: ענבר לניר עלתה לגמר ותנסה לזכות בזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1427993.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LANIR_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LANIR_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "עלה לקרב על הארד: פיטר פלצ'יק ניצח בבית הניחומים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1427954.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PALCHIKIPPON_172252173459/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PALCHIKIPPON_172252173459/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "ב-23 שניות: ענבר לניר ניצחה והעפילה לחצי הגמר!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1427730.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LANIR_R_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LANIR_R_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "פלצ`יק גבר על יריבו הצרפתי והעפיל לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1427683.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PITER2_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PITER2_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "ברגל ימין: פלצ`יק ניצח באיפון ועלה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1427625.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PITER1_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PITER1_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "ריתוק מושלם: ענבר לניר העפילה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1427688.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LANIR1_010824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LANIR1_010824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "התחלה מצוינת: גושן גברה באיפון על יריבתה הטורקית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1426762.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GOSHEN_310724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GOSHEN_310724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "מוקי הודח בשמינית הגמר באיפון ע\"י יריב קוראני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1426041.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MUKI_KRAV_2_300724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MUKI_KRAV_2_300724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "שריר קופחה? ההפסד של הג'ודאית לאלופת העולם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1425998.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHARIR_JUDO_300724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHARIR_JUDO_300724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "לאחר קרב עיקש: בוטבול הודח מול אלוף העולם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1425309.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BUTBUL_290724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BUTBUL_290724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "תמנע נלסון לוי הודחה בשמינית הגמר מול אלופת העולם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1425384.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BUTBUL_290724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BUTBUL_290724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      },
+      {
+       "name": "ייצגה בכבוד: פרימו הודחה אחרי קרב בבית הניחומים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1424744.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PRIMO_NIHUMIM_280724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PRIMO_NIHUMIM_280724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - ג`ודו"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - כדורגל",
+     "channels": [
+      {
+       "name": "הזהב שלה: 3:5 ענק לספרד על צרפת בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1434428.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_OLYIMPI_SPAIN_090824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_OLYIMPI_SPAIN_090824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "ספרד ניצחה 1:2 את מרוקו ועלתה לגמר האולימפיאדה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1431400.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Morocco_vs_Spain_-_Game_Highlights_16x9_05082024_182107_172288209287/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Morocco_vs_Spain_-_Game_Highlights_16x9_05082024_182107_172288209287/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "צמד לפרמין, ספרד הביסה 0:3 את יפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1428985.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Japan_vs_Spain_-_Game_Highlights_16x9_02082024_170743_172261852756/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Japan_vs_Spain_-_Game_Highlights_16x9_02082024_170743_172261852756/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "סוף הדרך: האולימפית הפסידה 1:0 ליפן והודחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1426528.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_TZEIRA_300724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_TZEIRA_300724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "הרשת לא הפסיקה לזוז: כל השערים עד כה בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1425545.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/all_goals_bites_16x9_29072024_155843/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/all_goals_bites_16x9_29072024_155843/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "ספרד ניצחה 1:3 ועלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1423783.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Dominican_Republic_vs_Spain_-_Game_Highlights_16x9_27072024_152218_17220937947/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Dominican_Republic_vs_Spain_-_Game_Highlights_16x9_27072024_152218_17220937947/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "הראשון בפריז: ארגנטינה ניצחה 1:3 את עיראק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1423781.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Argentina_vs_Iraq_-_Game_Highlights_16x9_27072024_152057_172209367473/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Argentina_vs_Iraq_-_Game_Highlights_16x9_27072024_152057_172209367473/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "החלום מתרחק: ישראל הפסידה 4:2 לפרגוואי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1423951.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_TZEIRA_NEW_270724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_TZEIRA_NEW_270724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "בונמטי כיכבה: ספרד גברה 1:2 על יפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1422554.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Spain_vs_Japan_-_Game_Highlights_16x9_25072024_170328_172192705427/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Spain_vs_Japan_-_Game_Highlights_16x9_25072024_170328_172192705427/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "נמנעה ממבוכה: 1:2 לספרד מול אוזבקיסטן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1421368.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Uzbekistan_vs_Spain_-_Game_Highlights_16x9_24072024_153825_172183554661/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Uzbekistan_vs_Spain_-_Game_Highlights_16x9_24072024_153825_172183554661/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "סקנדל היסטורי: 1:2 למרוקו על ארגנטינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1421587.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ARGNTINA_240724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ARGNTINA_240724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "יפן הביסה 0:5 את פרגוואי בבית הישראלי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1421716.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JAPAN_240724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JAPAN_240724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "לקאזט כבש, צרפת ניצחה 0:3 את ארה\"ב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1421844.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_FRANCE_USA_16x9_24072024_212019/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_FRANCE_USA_16x9_24072024_212019/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "האולימפית סיימה ב-1:1 במשחק הפתיחה מול מאלי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1421795.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISREAL75_240724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISREAL75_240724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      },
+      {
+       "name": "מכוונים לפודיום: הנבחרת האולימפית מוכנה לפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1421040.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_NIVHERET_230724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_NIVHERET_230724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורגל"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - התעמלות",
+     "channels": [
+      {
+       "name": "מרגש! רגע ההכרזה על מדליית הכסף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1434852.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MEDAL_ISRAEL_100824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MEDAL_ISRAEL_100824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "תרגיל החישוק של נבחרת ישראל בהתעמלות אומנותית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1434811.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/OMANUTIT_1_HISUK_100824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/OMANUTIT_1_HISUK_100824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "התרגיל שהביא לישראל מדליית כסף בהתעמלות אומנותית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1435349.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KADUR_SERET_ISRAEL_100824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KADUR_SERET_ISRAEL_100824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "מפתיחה מבטיחה לסיום מרגש: הגמר של אטמנוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1434592.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_ATAMANOV_090824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_ATAMANOV_090824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "מדהימה: דריה אטמנוב סיימה 5 בגמר הקרב-רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1434248.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ATAMANOV_ALL_090824_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ATAMANOV_ALL_090824_1/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "מדהימה: התרגילים של דריה שהעפילה לגמר אולימפי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1433468.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DARIA_4_DRILIS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DARIA_4_DRILIS/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "נפלה מהקורה: סימון ביילס איכזבה ונותרה מחוץ לפודיום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1431084.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BILES_16x9_05082024_112338/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BILES_16x9_05082024_112338/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "שליטה מוחלטת: ביילס זכתה בזהב בקפיצות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1429697.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BILES_PODIUM_GEVA_16x9_03082024_154352/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BILES_PODIUM_GEVA_16x9_03082024_154352/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "אגדה ישראלית: כסף לדולגופיאט בגמר תרגיל הקרקע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1429634.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DOLGOPIAT_GROUND_2_030824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DOLGOPIAT_GROUND_2_030824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "היא לא מהעולם הזה: זהב לביילס בקרב-רב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1428187.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SIMONE_BILES_16x9_01082024_190739/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SIMONE_BILES_16x9_01082024_190739/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "סגרה מעגל: ביילס הובילה את ארה\"ב לזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1426411.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BILES_ALL_DRILLS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BILES_ALL_DRILLS/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "הכי דרמטי שיש: זהב ליפן בהתעמלות מכשירים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1425596.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/JAPAN_WINS_GOLD_2907/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/JAPAN_WINS_GOLD_2907/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "לנשים בלבד: הכירו את ההתעמלות האומנותית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1410767.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HCP000067770/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HCP000067770/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "הופעה מכובדת: ליהיא רז שיפרה את תוצאותיה מטוקיו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1424528.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RAZ_ALL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RAZ_ALL/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "יספיק לגמר? תרגיל הקרקע של דולגופיאט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1423470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ARTIUM_DOLGOPIYAT_16x9_27072024_103708/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ARTIUM_DOLGOPIYAT_16x9_27072024_103708/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "סימון ביילס על מזרן ההתעמלות בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1422524.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/bails/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/bails/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      },
+      {
+       "name": "ליהיא רז מתאמנת בפעם הראשונה בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1422517.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/raz/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/raz/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - התעמלות"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - כדורסל",
+     "channels": [
+      {
+       "name": "סרביה זכתה בארד אחרי 83:93 על גרמניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1434756.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Germany_vs_Serbia_-_Game_Highlights_16x9_10082024_110016_172328768195/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Germany_vs_Serbia_-_Game_Highlights_16x9_10082024_110016_172328768195/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "דרים טים:ארה\"ב גברה על צרפת וזכתה בזהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1435275.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_United_States_of_America_-_Game_Highlights_16x9_10082024_212322_172332502902/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_United_States_of_America_-_Game_Highlights_16x9_10082024_212322_172332502902/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "בתום דרמה: צרפת ניצחה את גרמניה בדרך לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1433655.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_Germany_-_Game_Highlights_16x9_08082024_174138_172313893753/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_Germany_-_Game_Highlights_16x9_08082024_174138_172313893753/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "קאמבק ענק לארה\"ב מול סרביה סידר לה כרטיס לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1433937.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_USA_SERBIA_080824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_USA_SERBIA_080824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "יאבוסלה כיכב, צרפת עלתה לחצי אחרי 73:82 על קנדה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1432272.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_Canada_-_Game_Highlights_16x9_06082024_181612_17229682118/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_Canada_-_Game_Highlights_16x9_06082024_181612_17229682118/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "ארה\"ב הביסה את ברזיל ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1432590.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/United_States_of_America_Highlights_vs_Brazil_16x9_06082024_211548_172297896764/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/United_States_of_America_Highlights_vs_Brazil_16x9_06082024_211548_172297896764/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "סרביה חזרה מ-24 הפרש מול אוסטרליה וניצחה 90:95",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1432058.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Serbia_vs_Australia_-_Game_Highlights_16x9_06082024_144639_172295566224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Serbia_vs_Australia_-_Game_Highlights_16x9_06082024_144639_172295566224/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "לראשונה בהיסטוריה: גרמניה בחצי ע\"ח יוון ויאניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1431864.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Germany_vs_Greece_-_Game_Highlights_16x9_06082024_104837_172294136578/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Germany_vs_Greece_-_Game_Highlights_16x9_06082024_104837_172294136578/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "טיול לרבע: 83:104 לארה\"ב על פורטו ריקו, אדוורדס הוביל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1429909.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Puerto_Rico_vs_United_States_of_America_-_Game_Highlights_16x9_03082024_170407_172270469776/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Puerto_Rico_vs_United_States_of_America_-_Game_Highlights_16x9_03082024_170407_172270469776/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "אל` אירופה בחוץ: ספרד נכנעה לקנדה והודחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1428983.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Canada_vs_Spain_-_Game_Highlights_16x9_02082024_172340_172261949168/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Canada_vs_Spain_-_Game_Highlights_16x9_02082024_172340_172261949168/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "16 לואגנר, גרמניה הביסה 71:85 את צרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1429197.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_Germany_-_Game_Highlights_16x9_02082024_204859_172263179857/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_Germany_-_Game_Highlights_16x9_02082024_204859_172263179857/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "קאבוקלו כיכב, ברזיל הביסה 84:102 את יפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1428744.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Japan_vs_Brazil_-_Game_Highlights_16x9_02082024_105017_172259589636/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Japan_vs_Brazil_-_Game_Highlights_16x9_02082024_105017_172259589636/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "נותרה מושלמת: קנדה ניצחה 83:93 את אוסטרליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1426177.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Canada_vs_Australia_-_Game_Highlights_16x9_30072024_132204_172234574299/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Canada_vs_Australia_-_Game_Highlights_16x9_30072024_132204_172234574299/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "דאבל דאבל לאלדמה, 77:84 לספרד על יוון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1426021.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Spain_vs_Greece_-_Game_Highlights_16x9_30072024_105737_172233709661/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Spain_vs_Greece_-_Game_Highlights_16x9_30072024_105737_172233709661/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "פתחה חזק: 84:110 לארה\"ב על סרביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1424891.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_USA_SERBIA_280724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_USA_SERBIA_280724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "צרפת חזרה מפיגור דו ספרתי וגברה על ברזיל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1423872.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_from_France_vs_Brazil_16x9_27072024_173250_172210160411/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_from_France_vs_Brazil_16x9_27072024_173250_172210160411/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "בלי קושי רב מדי, גרמניה טיילה מול יפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1423731.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Germany_vs_Japan_-_Game_Highlights_16x9_27072024_132833_172208694966/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Germany_vs_Japan_-_Game_Highlights_16x9_27072024_132833_172208694966/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      },
+      {
+       "name": "התחלה חזקה: אוסטרליה ניצחה 80:92 ספרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1423503.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Australia_vs_Spain_-_Game_Highlights_16x9_27072024_110536_172207836356/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Australia_vs_Spain_-_Game_Highlights_16x9_27072024_110536_172207836356/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדורסל"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - אופניים",
+     "channels": [
+      {
+       "name": "מהמקום ה-1: מיכאל יעקבלב העפיל לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1434910.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_yaakovlov_100824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_yaakovlov_100824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אופניים"
+      },
+      {
+       "name": "מיכאל יעקובלב הודח בשלב שמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1432840.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_yakovlev_070824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_yakovlev_070824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אופניים"
+      },
+      {
+       "name": "לאחר פנצ`ר: זלצמן סיים 29 במירוץ האופניים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1425490.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_OFANAYIM_290724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_OFANAYIM_290724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - אופניים"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - בדמינטון",
+     "channels": [
+      {
+       "name": "בטעם מתוק: מישה זילברמן נפרד מפריז עם ניצחון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1426727.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_Misha_Zilberman_vs_Prince_Dahal_16x9_31072024_081453_17224137136/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_Misha_Zilberman_vs_Prince_Dahal_16x9_31072024_081453_17224137136/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - בדמינטון"
+      },
+      {
+       "name": "מישה זילברמן הפסיד את המשחק הראשון מול יריב אירי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1425452.jpg",
+       "url": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/2/1425452.jpg&useAkamai=true",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/2/1425452.jpg&useAkamai=true",
+       "season": "אולימפיאדת פריז 2024 - בדמינטון"
+      },
+      {
+       "name": "קורע: סנופ דוג מפרשן בדמינטון באולימפיאדה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1425445.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SNOOP_RAP/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SNOOP_RAP/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - בדמינטון"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - גלישת גלים",
+     "channels": [
+      {
+       "name": "אדירה: ענת לליאור עלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1425199.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LELIOR_GOOD_16x9_28072024_032154/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LELIOR_GOOD_16x9_28072024_032154/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - גלישת גלים"
+      },
+      {
+       "name": "ליליאור לא העפילה אוטומטית לסיבוב השלישי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1424225.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LELIOR_GOOD_16x9_28072024_032154/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LELIOR_GOOD_16x9_28072024_032154/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - גלישת גלים"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - טניס",
+     "channels": [
+      {
+       "name": "החל החסר בפאזל: ג'וקוביץ' זכה בזהב!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1430880.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_GMAR_TENNIS_040824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_GMAR_TENNIS_040824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - טניס"
+      },
+      {
+       "name": "השיג הכל: ג`וקוביץ זכה במדליית הזהב!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1430423.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DJOALC_040824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DJOALC_040824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - טניס"
+      },
+      {
+       "name": "איגה שביונטק הפסידה והודחה מהאולימפיאדה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1427906.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Iga_Swiatek_vs_Diane_Parry_-_Match_Highlights_16x9_01082024_123114_172251548941/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Iga_Swiatek_vs_Diane_Parry_-_Match_Highlights_16x9_01082024_123114_172251548941/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - טניס"
+      },
+      {
+       "name": "דילג לרבע הגמר: אלקארס ניצח 0:2 את ספיולין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1427021.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_from_R_Safiullin_vs_C_Alcaraz_16x9_31072024_144819_172243731154/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_from_R_Safiullin_vs_C_Alcaraz_16x9_31072024_144819_172243731154/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - טניס"
+      },
+      {
+       "name": "ג`וקוביץ` עלה לרבע גמר טורניר הטניס בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1426962.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_from_N_Djokovic_vs_D_Koepfer_16x9_31072024_120319_172242746449/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_from_N_Djokovic_vs_D_Koepfer_16x9_31072024_120319_172242746449/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - טניס"
+      },
+      {
+       "name": "בפעם האחרונה: ג`וקוביץ` ניצח את נדאל ועלה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1425500.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/R_NADAL_Highlights_vs_N_Djokovic_16x9_29072024_135943_172226162007/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/R_NADAL_Highlights_vs_N_Djokovic_16x9_29072024_135943_172226162007/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - טניס"
+      },
+      {
+       "name": "מפגש ענקים בפתח: נדאל יפגוש את ג`וקוביץ`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1424878.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/R_NADAL_Highlights_vs_M_Fucsovics_16x9_28072024_164214_172218494422/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/R_NADAL_Highlights_vs_M_Fucsovics_16x9_28072024_164214_172218494422/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - טניס"
+      },
+      {
+       "name": "בהליכה: נדאל ואלקרס עלו לשמינית הגמר בזוגות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1424006.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_from_M_Gonzalez_and_A_Molteni_vs_C_Alcaraz_and_R_Nadal_16x9_27072024_193443_172210892659/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Top_Plays_from_M_Gonzalez_and_A_Molteni_vs_C_Alcaraz_and_R_Nadal_16x9_27072024_193443_172210892659/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - טניס"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - כדוריד",
+     "channels": [
+      {
+       "name": "הולנד גברה על אנגולה 31:34",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1422505.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Netherlands_vs_Angola_-_Game_Highlights_16x9_25072024_104129_172190453723/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Netherlands_vs_Angola_-_Game_Highlights_16x9_25072024_104129_172190453723/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדוריד"
+      },
+      {
+       "name": "נבחרת כדוריד הנשים של דנמרק הביסה את סלובניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1422530.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Slovenia_vs_Denmark_-_Game_Highlights_16x9_25072024_083755_1_172189709191/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Slovenia_vs_Denmark_-_Game_Highlights_16x9_25072024_083755_1_172189709191/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - כדוריד"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - שיט",
+     "channels": [
+      {
+       "name": "אלוף אולימפי חדש! תום ראובני זכה במדלית זהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1429486.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_REUVENI_GMAR_030824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_REUVENI_GMAR_030824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שיט"
+      },
+      {
+       "name": "עוד מדלית כסף לישראל! השיוט של שרון קנטור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1429471.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KANTOR_PUDIOM_030824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KANTOR_PUDIOM_030824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שיט"
+      },
+      {
+       "name": "מדליה נוספת לישראל! תום ראובני עלה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1429437.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_REUVENI_030824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_REUVENI_030824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שיט"
+      },
+      {
+       "name": "יש מדליה! שרון קנטור העפילה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1429435.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_KANTOR_030824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_KANTOR_030824/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שיט"
+      },
+      {
+       "name": "חזק בצמרת: קנטור במקום השני הכללי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1426206.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KANTOR_FULL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KANTOR_FULL/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שיט"
+      },
+      {
+       "name": "יום מוצלח: ראובני במקום השלישי הכללי בסוף היום השני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1426200.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REUVENI_300724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REUVENI_300724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - שיט"
+      }
+     ]
+    },
+    {
+     "name": "אולימפיאדת פריז 2024 - רוגבי",
+     "channels": [
+      {
+       "name": "פיג'י הפכה בדקות הסיום ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1422676.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RUGBY_FIJI_250724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RUGBY_FIJI_250724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - רוגבי"
+      },
+      {
+       "name": "הפתעה: ד.אפריקה גברה על ניו זילנד ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1422653.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RUGBY_NEWZEALAND_250724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RUGBY_NEWZEALAND_250724/HLS/playlist.m3u8",
+       "season": "אולימפיאדת פריז 2024 - רוגבי"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

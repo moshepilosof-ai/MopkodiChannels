@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - אוסקר גלוך בליגה האוסטרית",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11211",
+   "series_id": "11211",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1517962.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:08",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "גול לאוסקר: זלצבורג ניצחה 0:1 את אוסטריה וינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1517962.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GLOUKH_220225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GLOUKH_220225/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=498161&poster=",
+       "season": ""
+      },
+      {
+       "name": "אוסקר החמיץ פנדל, 2:2 בין זלצבורג לראפיד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1481383.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/gloch_071224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/gloch_071224/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=490712&poster=https",
+       "season": ""
+      },
+      {
+       "name": "המשבר בליגה נמשך: זלצבורג ספגה 2:0 מלינץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1471120.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBUR_101124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBUR_101124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=488411&pos",
+       "season": ""
+      },
+      {
+       "name": "המשבר נמשך: 90 דק' לגלוך, זלצבורג סיימה בתיקו עם טירול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1452072.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MAALAHIM_GLOUKH_220924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MAALAHIM_GLOUKH_220924/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=484154&po",
+       "season": ""
+      },
+      {
+       "name": "ממשיך במומנטום: גלוך עלה כמחליף ובישל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1437759.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GLUCH_170824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GLUCH_170824/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=480990&poste",
+       "season": ""
+      },
+      {
+       "name": "גלוך כבש והקדיש את השער לחברו, זלצבורג ניצחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1371853.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GLOCH_170324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GLOCH_170324/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=464700&poste",
+       "season": ""
+      },
+      {
+       "name": "68 דקות לגלוך, 0:1 לזלצבורג על לאסק לינץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1369416.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_ZALSBURG_090324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_ZALSBURG_090324/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=46383",
+       "season": ""
+      },
+      {
+       "name": "45 דקות לגלוך: זלצבורג ניצחה 0:2 את טירול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1329029.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_041123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_041123/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=452158&po",
+       "season": ""
+      },
+      {
+       "name": "בישול מדהים: זלצבורג וגלוך הביסו את אלטאך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1327660.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GLUCH_281023/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GLUCH_281023/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=451639&poste",
+       "season": ""
+      },
+      {
+       "name": "שער ענק לאוסקר, זלצבורג ניצחה 0:4 את לוסטנאו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1322217.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SALZBURG_300923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SALZBURG_300923/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=449535&poste",
+       "season": ""
+      },
+      {
+       "name": "גול מחוץ לרחבה: 2:2 בין זלצבורג לשטורם גראץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1318927.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/VO_TAK_STU_RBS_160923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/VO_TAK_STU_RBS_160923/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=448391&pos",
+       "season": ""
+      },
+      {
+       "name": "גלוך כבש, זלצבורג הביסה 1:5 את הארטברג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1312317.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_200823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_200823/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=445912&po",
+       "season": ""
+      },
+      {
+       "name": "השפיע הרבה: גלוך וזלצבורג עם ניצחון שלישי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1310839.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OSCAR_130823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OSCAR_130823/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=445327&poster=h",
+       "season": ""
+      },
+      {
+       "name": "הלך חלק: 0:3 לזלצבורג וגלוך נגד טירול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1309351.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_060823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_060823/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=444778&po",
+       "season": ""
+      },
+      {
+       "name": "28 דק' לגלוך, זלצבורג גברה 0:2 על אלטאך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1307591.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SALZBURG_ALTACH/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SALZBURG_ALTACH/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=444079&poste",
+       "season": ""
+      },
+      {
+       "name": "73 דק' לגלוך, זלצבורג גברה 1:2 על ראפיד וינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1288369.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_OSCAR_070523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_OSCAR_070523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=436856&poste",
+       "season": ""
+      },
+      {
+       "name": "20 דקות לגלוך, 0:2 לזלצבורג על גראץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1284801.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_zaltsbutg_230423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_zaltsbutg_230423/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=435577&post",
+       "season": ""
+      },
+      {
+       "name": "90 דקות לגלוך, רק 0:0 לזלצבורג מול לאסק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1282821.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GLOCH_160423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GLOCH_160423/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=434915&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "גלוך כבש, 3:3 דרמטי לזלצבורג מול אוסטריה וינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1281007.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_090423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_090423/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=434283&po",
+       "season": ""
+      },
+      {
+       "name": "הגיע בגדול: שער בכורה מרהיב לגלוך בזלצבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1279458.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_020423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_020423/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11211%26Vi=433748&po",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

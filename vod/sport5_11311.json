@@ -1,0 +1,111 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - רולאן גרוס - 2023",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11311",
+   "series_id": "11311",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1296681.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תגן על התואר? שביונטק עלתה לגמר בצרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1296681.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Swiatek_rolland_garros/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Swiatek_rolland_garros/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11311%26Vi=439852&po",
+       "season": ""
+      },
+      {
+       "name": "קאמבק ענק: מוחובה עלתה לגמר הרולאן גארוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1296682.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Muchova_Roland_Garros_080623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Muchova_Roland_Garros_080623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11311%26Vi=439",
+       "season": ""
+      },
+      {
+       "name": "זברב עלה לרבע ברולאן גארוס אחרי 0:3 קליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1295988.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ZVEREV_ROLAND_GAROS_060623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ZVEREV_ROLAND_GAROS_060623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11311%26Vi=4",
+       "season": ""
+      },
+      {
+       "name": "לאחר 5 מערכות ו-4 שעות: רונה עלה לרבע גמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1295972.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RUNE_ROLLAND_GARROS_050623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/RUNE_ROLLAND_GARROS_050623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11311%26Vi=43956",
+       "season": ""
+      },
+      {
+       "name": "עמד במשימה: אלקרס הביס ועלה לרבע בצרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1295663.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ALCARAZ_ROLLAND_GARROS_040623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ALCARAZ_ROLLAND_GARROS_040623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11311%26Vi=43",
+       "season": ""
+      },
+      {
+       "name": "בקלות: ג'וקוביץ' שייט לרבע גמר הרולאן גארוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1295637.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DJOKOVIC_ROLLAND_GARROS_040623/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DJOKOVIC_ROLLAND_GARROS_040623/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11311%26Vi=4",
+       "season": ""
+      },
+      {
+       "name": "ג'וקוביץ' ניצח 0:3 בדרך לסיבוב השלישי בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1294969.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DjokovicadvancesatRolandGarroswithwinoverFucsovics_168562741832/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DjokovicadvancesatRolandGarroswithwinoverFucsovics_168562741832/HLS/playlist.m3u8&live=False&referrer=https://",
+       "season": ""
+      },
+      {
+       "name": "אלקרס ניצח 1:3 ועלה לסיבוב השלישי בפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1294735.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/AlcarazbeatsDanieloverfoursets_168555326909/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/AlcarazbeatsDanieloverfoursets_168555326909/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "בקלות: ג'וקוביץ' דילג לסיבוב הבא ברולאן גארוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1294259.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DJOKOVIC_ROLAND_GARROS_290523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DJOKOVIC_ROLAND_GARROS_290523/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11311%26Vi=43",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

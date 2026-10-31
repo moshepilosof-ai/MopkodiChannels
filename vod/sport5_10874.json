@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - גיימינג אפטר דארק",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10874",
+   "series_id": "10874",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1207795.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "גיימינג אפטר דארק - פרק 8",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1207795.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546688/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546688/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=408587&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "טעם מהילדות: קרב הסופר מריו בין עודד, עידו ומאיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1207811.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YASMIN_GAMING/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/YASMIN_GAMING/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=408590&poster=http",
+       "season": ""
+      },
+      {
+       "name": "מי ביקש את התמונה? הסלפי של קיציס וג'וקוביץ'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1207808.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KITZIS_GAMING/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/KITZIS_GAMING/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=408588&poster=http",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - פרק 7",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1203626.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546687/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546687/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=405354&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "דרור גלוברמן הגיע והציב רף גבוה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1203640.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_GLOBERMAN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_GLOBERMAN/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=405360&poster=h",
+       "season": ""
+      },
+      {
+       "name": "שיעור בכושר: מירי נבו נגד עידו רוזנבלום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1203639.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_MIRI_NEVO/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_MIRI_NEVO/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=405358&poster=h",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - פרק 6",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1201897.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546686/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546686/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=404755&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "כשנמרוד הראל השאיר את עידו ועודד בפה פעור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1201903.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NIMROD_HAREL_GAMING/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NIMROD_HAREL_GAMING/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=404763&poste",
+       "season": ""
+      },
+      {
+       "name": "ככה נראית תבוסה: כשסמברג הגיעה לעידו ועודד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1201899.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SEMBERG_GAMING/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SEMBERG_GAMING/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=404757&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - פרק 5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1197556.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546685/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546685/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=403343&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "תחרות הריקוד בין עלמה זק, עידו ועודד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1197579.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_ALMA_ZAK/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_ALMA_ZAK/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=403356&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "בית ספר לפיפ\"א: קנדיל מתעלל בעידו ועודד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1197578.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_KANDIL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_KANDIL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=403354&poster=http",
+       "season": ""
+      },
+      {
+       "name": "כשרון מבוזבז: צביקה הדר קורע את הכביש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1197577.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_ZVIKA_HADAR/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/GAMING_ZVIKA_HADAR/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=403353&poster",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - רוי ניסני מפגין ביצועים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1195713.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/M9dKOOQJMV/App/ROY_NISSANY__,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/M9dKOOQJMV/App/ROY_NISSANY__,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - רותם ישראל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1195707.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/lufE7upWDW/App/ROTEM_ISRAEL_GAMING_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/lufE7upWDW/App/ROTEM_ISRAEL_GAMING_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - ברמן ועידו בקרב פנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1195706.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/X88I74Qb3y/App/TAL_BERMAN_GAMING_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/X88I74Qb3y/App/TAL_BERMAN_GAMING_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - פרק 4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1195685.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546684/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546684/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=402710&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - פרק 3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1193678.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546683/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546683/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=402068&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - שרון עידו ועודד מתכוננים לאולימפיאדה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1193846.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/L1omNACIs4/App/GAMING_SHARON_PERRY_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/L1omNACIs4/App/GAMING_SHARON_PERRY_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod",
+       "season": ""
+      },
+      {
+       "name": "גיימינג אפטר דארק - פרק 2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1191959.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546682/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP546682/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10874%26Vi=401453&poster=https://",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

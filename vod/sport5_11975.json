@@ -1,0 +1,581 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - מונדיאל המועדונים",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11975",
+   "series_id": "11975",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1576871.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:05",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "צ'לסי זכתה במונדיאל המועדונים אחרי ניצחון על פ.ס.ז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1576871.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_CHELSEA_PSG_130725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_CHELSEA_PSG_130725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11980%26Vi=512308&pos",
+       "season": ""
+      },
+      {
+       "name": "עלתה לגמר: פ.ס.ז הביסה 0:4 גדול את ריאל מדריד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1575188.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_090725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_090725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11979%26Vi=511956&poster",
+       "season": ""
+      },
+      {
+       "name": "ז'ואאו פדרו כיכב, צ`לסי בגמר מונדיאל המועדונים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1574590.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA75_080725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA75_080725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11979%26Vi=511838&post",
+       "season": ""
+      },
+      {
+       "name": "הכל מהכל: ריאל בחצי לאחר 2:3 ענק על דורטמונד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1573448.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_050725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_050725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11978%26Vi=511560&poster",
+       "season": ""
+      },
+      {
+       "name": "דואה כבש, פ.ס.ז' ניצחה את באיירן ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1573341.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_050725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_050725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11978%26Vi=511559&poster=",
+       "season": ""
+      },
+      {
+       "name": "תודות לשער עצמי בדקה ה-83: צ`לסי בחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1573236.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_chelsea_palmeiras/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_chelsea_palmeiras/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11978%26Vi=511558&pos",
+       "season": ""
+      },
+      {
+       "name": "סיפור האגדות נמשך: פלומיננסה עלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1573238.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_FLU_HILAL_040725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_FLU_HILAL_040725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11978%26Vi=511557&poste",
+       "season": ""
+      },
+      {
+       "name": "תפגוש את ריאל: דורטמונד ניצחה 1:2 את מונטריי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1572049.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DORTMUND_020725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DORTMUND_020725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11977%26Vi=511206&po",
+       "season": ""
+      },
+      {
+       "name": "ריאל מדריד עלתה שלב אחרי ניצחון חשוב על יובנטוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1572005.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_010725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_010725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11977%26Vi=511205&poster",
+       "season": ""
+      },
+      {
+       "name": "פשוט מדהים: 3:4 ענק לאל הילאל שהדיחה את סיטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1571626.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_HILAL_010725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_HILAL_010725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11977%26Vi=511178&",
+       "season": ""
+      },
+      {
+       "name": "בלתי יאמן: פלומיננזה הדיחה את אינטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1571553.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_300625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_300625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11977%26Vi=511104&poste",
+       "season": ""
+      },
+      {
+       "name": "חד וחלק: פ.ס.ז' הביסה 0:4 את אינטר מיאמי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1571146.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_290625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_290625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11977%26Vi=510983&poster=",
+       "season": ""
+      },
+      {
+       "name": "צמד לקיין, באיירן הביסה את פלמנגו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1571197.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYERN_290625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYERN_290625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11977%26Vi=510984&post",
+       "season": ""
+      },
+      {
+       "name": "לאחר הארכה: צ`לסי ברבע הגמר עם 1:4 על בנפיקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1570880.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA_FULL_280625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA_FULL_280625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11977%26Vi=510943&p",
+       "season": ""
+      },
+      {
+       "name": "העולה הראשונה לרבע: פלמייראס גברה על בוטאפוגו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1570769.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PALMEIRAS_280625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PALMEIRAS_280625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11977%26Vi=510941&post",
+       "season": ""
+      },
+      {
+       "name": "ריאל הביסה 0:3 את זלצבורג וגלוך, שהודחו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1570478.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_SALZBURG_270625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_SALZBURG_270625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11976%26Vi=5108",
+       "season": ""
+      },
+      {
+       "name": "תצוגת תכלית: 2:5 ענק לסיטי על יובנטוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1570400.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JUVENTUS_CITY_260625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JUVENTUS_CITY_260625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11976%26Vi=510832&",
+       "season": ""
+      },
+      {
+       "name": "הכרטיס האחרון: 0:2 לאל הילאל על פאצ'וקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1570481.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_AL_HILAL_270625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_AL_HILAL_270625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11976%26Vi=51083",
+       "season": ""
+      },
+      {
+       "name": "דלאפ כבש, צ'לסי ניצחה 0:3 ועלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1569759.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CHELSEA_250625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CHELSEA_250625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11976%26Vi=510600&pos",
+       "season": ""
+      },
+      {
+       "name": "עלתה לפסגת הבית: בנפיקה ניצחה את באיירן מינכן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1569689.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BENEFICA75_240625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BENEFICA75_240625/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11976%26Vi=510599&",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל המועדונים - חצי גמר",
+     "channels": [
+      {
+       "name": "עלתה לגמר: פ.ס.ז הביסה 0:4 גדול את ריאל מדריד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1575188.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_090725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_090725/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - חצי גמר"
+      },
+      {
+       "name": "ז'ואאו פדרו כיכב, צ`לסי בגמר מונדיאל המועדונים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1574590.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA75_080725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA75_080725/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - חצי גמר"
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל המועדונים - רבע גמר",
+     "channels": [
+      {
+       "name": "הכל מהכל: ריאל בחצי לאחר 2:3 ענק על דורטמונד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1573448.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_050725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_050725/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - רבע גמר"
+      },
+      {
+       "name": "דואה כבש, פ.ס.ז' ניצחה את באיירן ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1573341.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_050725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_050725/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - רבע גמר"
+      },
+      {
+       "name": "תודות לשער עצמי בדקה ה-83: צ`לסי בחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1573236.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_chelsea_palmeiras/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_chelsea_palmeiras/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - רבע גמר"
+      },
+      {
+       "name": "סיפור האגדות נמשך: פלומיננסה עלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1573238.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_FLU_HILAL_040725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_FLU_HILAL_040725/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - רבע גמר"
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל המועדונים - שמינית גמר",
+     "channels": [
+      {
+       "name": "תפגוש את ריאל: דורטמונד ניצחה 1:2 את מונטריי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1572049.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DORTMUND_020725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DORTMUND_020725/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שמינית גמר"
+      },
+      {
+       "name": "ריאל מדריד עלתה שלב אחרי ניצחון חשוב על יובנטוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1572005.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_010725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_010725/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שמינית גמר"
+      },
+      {
+       "name": "פשוט מדהים: 3:4 ענק לאל הילאל שהדיחה את סיטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1571626.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_HILAL_010725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_HILAL_010725/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שמינית גמר"
+      },
+      {
+       "name": "בלתי יאמן: פלומיננזה הדיחה את אינטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1571553.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_300625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_300625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שמינית גמר"
+      },
+      {
+       "name": "חד וחלק: פ.ס.ז' הביסה 0:4 את אינטר מיאמי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1571146.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_290625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_290625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שמינית גמר"
+      },
+      {
+       "name": "צמד לקיין, באיירן הביסה את פלמנגו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1571197.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYERN_290625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYERN_290625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שמינית גמר"
+      },
+      {
+       "name": "לאחר הארכה: צ`לסי ברבע הגמר עם 1:4 על בנפיקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1570880.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA_FULL_280625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA_FULL_280625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שמינית גמר"
+      },
+      {
+       "name": "העולה הראשונה לרבע: פלמייראס גברה על בוטאפוגו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1570769.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PALMEIRAS_280625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PALMEIRAS_280625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שמינית גמר"
+      }
+     ]
+    },
+    {
+     "name": "מונדיאל המועדונים - שלב הבתים",
+     "channels": [
+      {
+       "name": "ריאל הביסה 0:3 את זלצבורג וגלוך, שהודחו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1570478.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_SALZBURG_270625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_SALZBURG_270625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "תצוגת תכלית: 2:5 ענק לסיטי על יובנטוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1570400.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JUVENTUS_CITY_260625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JUVENTUS_CITY_260625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "הכרטיס האחרון: 0:2 לאל הילאל על פאצ'וקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1570481.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_AL_HILAL_270625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_AL_HILAL_270625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "דלאפ כבש, צ'לסי ניצחה 0:3 ועלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1569759.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CHELSEA_250625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CHELSEA_250625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "עלתה לפסגת הבית: בנפיקה ניצחה את באיירן מינכן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1569689.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BENEFICA75_240625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BENEFICA75_240625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "באיירן מחכה: פלמנגו בשמינית לאחר תיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1569761.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FLAMENGO_250625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FLAMENGO_250625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "אינטר מיאמי איבדה יתרון כפול וסיימה ב-2:2 מול פלמייראס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1569502.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MIAMI_240625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MIAMI_240625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "פ.ס.ז' עלתה לפסגת הבית אחרי ניצחון על סיאטל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1569430.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_230625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_230625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "למרות הניצחון: אתלטיקו הודחה ממונדיאל המועדונים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1569432.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATHLETHICO_230625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATHLETHICO_230625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "4:4 משוגע ודרמטי בין פורטו לאל אהלי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1569511.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTO_240625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTO_240625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "65 דקות לגלוך, 0:0 לזלצבורג מול אל הילאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1569177.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_220625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SALZBURG_220625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "הצגה: מנצ'סטר סיטי פירקה 0:6 את אל עין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1569165.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_230625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_230625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "הראשון של אלונסון: 1:3 לריאל על פאצ`וקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1569035.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_REAL_220625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_REAL_220625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "צמד אדיר ליילדיז ב-1:4 הגדול של יובה על וידאד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1568990.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_JUVE_220625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_JUVE_220625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "ריבר פלייט ומונטריי נפרדו בתיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1568766.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Monterrey_River/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Monterrey_River/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "עמוק בתוספת: אינטר ניצחה 1:2 את אורווה היפנית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1568726.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_INTER_URAWA_220625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_INTER_URAWA_220625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "מהפך ענק של פלומיננסה על אולסאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1568769.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FLUMINENSE_ULSAN_220625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FLUMINENSE_ULSAN_220625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "בלינגהאם כבש ב-3:4 של דורטמונד על מאמלודי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1568671.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SUNDOWNS_DORTMUND_220625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SUNDOWNS_DORTMUND_220625/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "היה לוהט: 1:2 קשה לבאיירן על בוקה ג`וניורס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1568635.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bayren_boca_2106251_175049068824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bayren_boca_2106251_175049068824/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      },
+      {
+       "name": "פשוט מדהים: 1:3 גדול לפלמנגו על צ`לסי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1568639.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA_2006251_175045016087/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHELSEA_2006251_175045016087/HLS/playlist.m3u8",
+       "season": "מונדיאל המועדונים - שלב הבתים"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - יש מצב בשישי",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11543",
+   "series_id": "11543",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1793436.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:04",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "יש מצב בשישי, 23.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1793436.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP750423/HLS/playlist.m3u8",
+       "date": "2026-10-23",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP750423/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=564883&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 16.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1789686.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_MAZAV_161026/HLS/playlist.m3u8",
+       "date": "2026-10-16",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_MAZAV_161026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=564001&poster=",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי חוזרת בעונה חדשה!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786343.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP750421/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP750421/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=563248&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 01.05.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1709575.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701734/HLS/playlist.m3u8",
+       "date": "2026-05-01",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701734/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=543070&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 17.04.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1703120.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_YASH_MAZAV_170426/HLS/playlist.m3u8",
+       "date": "2026-04-17",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_YASH_MAZAV_170426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=540534&post",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 10.04.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1699105.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7017311_177584940924/HLS/playlist.m3u8",
+       "date": "2026-04-10",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7017311_177584940924/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=539833&p",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 13.02.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1675060.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701726/HLS/playlist.m3u8",
+       "date": "2026-02-13",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=534551&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 06.02.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1671512.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701725/HLS/playlist.m3u8",
+       "date": "2026-02-06",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701725/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=533782&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 23.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1664250.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7017231_176918997312/HLS/playlist.m3u8",
+       "date": "2026-01-23",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7017231_176918997312/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=532143&p",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 16.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1660569.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_160126/HLS/playlist.m3u8",
+       "date": "2026-01-16",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_160126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=531332&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 09.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1657480.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701721/HLS/playlist.m3u8",
+       "date": "2026-01-09",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701721/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=530558&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 26.12.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1644227.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701719/HLS/playlist.m3u8",
+       "date": "2025-12-26",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701719/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=529123&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 12.12.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1644227.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701717/HLS/playlist.m3u8",
+       "date": "2025-12-12",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701717/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=527640&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 31.10.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1622116.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701713/HLS/playlist.m3u8",
+       "date": "2025-10-31",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701713/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=523503&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 24.10",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1556108.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701712/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701712/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=522767&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 16.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1556108.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_YESH_MAZAV_160525/HLS/playlist.m3u8",
+       "date": "2025-05-16",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_YESH_MAZAV_160525/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=506230&post",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 02.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1548150.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP654056/HLS/playlist.m3u8",
+       "date": "2025-05-02",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP654056/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=504818&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי 25.4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1545540.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP654055/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP654055/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=504209&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יש מצב, 11.04.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1539109.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_MATZAV_110425/HLS/playlist.m3u8",
+       "date": "2025-04-11",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_MATZAV_110425/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=503023&poster",
+       "season": ""
+      },
+      {
+       "name": "יש מצב בשישי, 04.04.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1535665.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/yesh_matzev_full/HLS/playlist.m3u8",
+       "date": "2025-04-04",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/yesh_matzev_full/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11544%26Vi=502248&poster=h",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "יש מצב בשישי - יש מצב בשישי",
+     "channels": [
+      {
+       "name": "יש מצב בשישי, 23.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1793436.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP750423/HLS/playlist.m3u8",
+       "date": "2026-10-23",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP750423/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 16.10.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1789686.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_MAZAV_161026/HLS/playlist.m3u8",
+       "date": "2026-10-16",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_MAZAV_161026/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי חוזרת בעונה חדשה!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786343.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP750421/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP750421/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 01.05.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1709575.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701734/HLS/playlist.m3u8",
+       "date": "2026-05-01",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701734/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 17.04.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1703120.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_YASH_MAZAV_170426/HLS/playlist.m3u8",
+       "date": "2026-04-17",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_YASH_MAZAV_170426/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 10.04.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1699105.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7017311_177584940924/HLS/playlist.m3u8",
+       "date": "2026-04-10",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7017311_177584940924/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 13.02.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1675060.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701726/HLS/playlist.m3u8",
+       "date": "2026-02-13",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701726/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 06.02.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1671512.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701725/HLS/playlist.m3u8",
+       "date": "2026-02-06",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701725/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 23.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1664250.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7017231_176918997312/HLS/playlist.m3u8",
+       "date": "2026-01-23",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP7017231_176918997312/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 16.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1660569.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_160126/HLS/playlist.m3u8",
+       "date": "2026-01-16",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_160126/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 09.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1657480.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701721/HLS/playlist.m3u8",
+       "date": "2026-01-09",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701721/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 26.12.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1644227.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701719/HLS/playlist.m3u8",
+       "date": "2025-12-26",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701719/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 12.12.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1644227.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701717/HLS/playlist.m3u8",
+       "date": "2025-12-12",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701717/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 31.10.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1622116.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701713/HLS/playlist.m3u8",
+       "date": "2025-10-31",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701713/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 24.10",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1556108.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701712/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP701712/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 16.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1556108.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_YESH_MAZAV_160525/HLS/playlist.m3u8",
+       "date": "2025-05-16",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_YESH_MAZAV_160525/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 02.05.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1548150.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP654056/HLS/playlist.m3u8",
+       "date": "2025-05-02",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP654056/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי 25.4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1545540.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP654055/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP654055/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב, 11.04.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1539109.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_MATZAV_110425/HLS/playlist.m3u8",
+       "date": "2025-04-11",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YESH_MATZAV_110425/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      },
+      {
+       "name": "יש מצב בשישי, 04.04.25",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1535665.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/yesh_matzev_full/HLS/playlist.m3u8",
+       "date": "2025-04-04",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/yesh_matzev_full/HLS/playlist.m3u8",
+       "season": "יש מצב בשישי - יש מצב בשישי"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,631 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - ארץ הכדורסל",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "9680",
+   "series_id": "9680",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1720878.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:08",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "ארץ הכדורסל, 18.05.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1720878.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP733730/HLS/playlist.m3u8",
+       "date": "2026-05-18",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP733730/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12140%26Vi=544993&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 06.05.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1712791.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ERETZ_SAL_060526/HLS/playlist.m3u8",
+       "date": "2026-05-06",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ERETZ_SAL_060526/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12140%26Vi=543710&poster=h",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 28.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1667212.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705603/HLS/playlist.m3u8",
+       "date": "2026-01-28",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705603/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12140%26Vi=532838&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 14.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1667212.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705602/HLS/playlist.m3u8",
+       "date": "2026-01-14",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705602/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12140%26Vi=532839&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 07.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1656394.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705600/HLS/playlist.m3u8",
+       "date": "2026-01-07",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705600/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12140%26Vi=530455&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 09.03.22",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1175896.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/RAzblpiaqm/App/HSP527368_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2022-03-09",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/RAzblpiaqm/App/HSP527368_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 26.01.22",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1163191.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/d6G9gNX549/App/HSP527361_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2022-01-26",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/d6G9gNX549/App/HSP527361_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 06.01.22",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1157326.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Pd8TyxHWqn/App/HSP513748_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2022-01-06",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Pd8TyxHWqn/App/HSP513748_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 15.12.21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1151548.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/eAeJ35NakF/App/HSP513745_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2021-12-15",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/eAeJ35NakF/App/HSP513745_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 09.12.21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1149762.jpeg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/nF8HUCcu13/App/ERETZ_SAL_PGM4_081221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2021-12-09",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/nF8HUCcu13/App/ERETZ_SAL_PGM4_081221_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 24.11.21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1145276.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/eyzmeI6VMn/App/HSP513742_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2021-11-24",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/eyzmeI6VMn/App/HSP513742_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 18.11.21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1144744.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/jyHUP4ldJP/App/HSP513741_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2021-11-18",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/jyHUP4ldJP/App/HSP513741_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 15.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1004908.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/Xfln1PsnDl/App/HSP435559_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-15",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/Xfln1PsnDl/App/HSP435559_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 08.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1003350.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/m77d95EUX5/App/HSP435558_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-08",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/m77d95EUX5/App/HSP435558_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 01.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1001630.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/6VYWslONCA/App/HSP435557_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-01",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/6VYWslONCA/App/HSP435557_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 23.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/999815.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/ZY2tJYbElw/App/HSP435556_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-23",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/ZY2tJYbElw/App/HSP435556_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 09.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/996403.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/lyPNClqn4y/App/HSP435554_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-09",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/lyPNClqn4y/App/HSP435554_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל 02.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/994507.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/s5B24B67mu/App/HSP435553_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-02",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/s5B24B67mu/App/HSP435553_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 26.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/992665.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/yRphj9zKXr/App/HSP435552_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-26",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/yRphj9zKXr/App/HSP435552_1_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?",
+       "season": ""
+      },
+      {
+       "name": "ארץ הכדורסל, 12.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/988877.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7EWClseSIB/App/HSP435550_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-12",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7EWClseSIB/App/HSP435550_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "ארץ הכדורסל - עונת 20256/26",
+     "channels": [
+      {
+       "name": "ארץ הכדורסל, 18.05.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1720878.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP733730/HLS/playlist.m3u8",
+       "date": "2026-05-18",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP733730/HLS/playlist.m3u8",
+       "season": "ארץ הכדורסל - עונת 20256/26"
+      },
+      {
+       "name": "ארץ הכדורסל, 06.05.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1712791.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ERETZ_SAL_060526/HLS/playlist.m3u8",
+       "date": "2026-05-06",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ERETZ_SAL_060526/HLS/playlist.m3u8",
+       "season": "ארץ הכדורסל - עונת 20256/26"
+      },
+      {
+       "name": "ארץ הכדורסל, 28.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1667212.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705603/HLS/playlist.m3u8",
+       "date": "2026-01-28",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705603/HLS/playlist.m3u8",
+       "season": "ארץ הכדורסל - עונת 20256/26"
+      },
+      {
+       "name": "ארץ הכדורסל, 14.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1667212.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705602/HLS/playlist.m3u8",
+       "date": "2026-01-14",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705602/HLS/playlist.m3u8",
+       "season": "ארץ הכדורסל - עונת 20256/26"
+      },
+      {
+       "name": "ארץ הכדורסל, 07.01.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1656394.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705600/HLS/playlist.m3u8",
+       "date": "2026-01-07",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP705600/HLS/playlist.m3u8",
+       "season": "ארץ הכדורסל - עונת 20256/26"
+      }
+     ]
+    },
+    {
+     "name": "ארץ הכדורסל - עונה 3",
+     "channels": [
+      {
+       "name": "ארץ הכדורסל, 09.03.22",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1175896.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/RAzblpiaqm/App/HSP527368_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2022-03-09",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/RAzblpiaqm/App/HSP527368_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 3"
+      },
+      {
+       "name": "ארץ הכדורסל, 26.01.22",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1163191.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/d6G9gNX549/App/HSP527361_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2022-01-26",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/d6G9gNX549/App/HSP527361_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 3"
+      },
+      {
+       "name": "ארץ הכדורסל, 06.01.22",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1157326.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Pd8TyxHWqn/App/HSP513748_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2022-01-06",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Pd8TyxHWqn/App/HSP513748_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 3"
+      },
+      {
+       "name": "ארץ הכדורסל, 15.12.21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1151548.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/eAeJ35NakF/App/HSP513745_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2021-12-15",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/eAeJ35NakF/App/HSP513745_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 3"
+      },
+      {
+       "name": "ארץ הכדורסל, 09.12.21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1149762.jpeg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/nF8HUCcu13/App/ERETZ_SAL_PGM4_081221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2021-12-09",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/nF8HUCcu13/App/ERETZ_SAL_PGM4_081221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 3"
+      },
+      {
+       "name": "ארץ הכדורסל, 24.11.21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1145276.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/eyzmeI6VMn/App/HSP513742_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2021-11-24",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/eyzmeI6VMn/App/HSP513742_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 3"
+      },
+      {
+       "name": "ארץ הכדורסל, 18.11.21",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1144744.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/jyHUP4ldJP/App/HSP513741_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2021-11-18",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/jyHUP4ldJP/App/HSP513741_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "ארץ הכדורסל - עונה 2",
+     "channels": [
+      {
+       "name": "ארץ הכדורסל, 15.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1004908.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/Xfln1PsnDl/App/HSP435559_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-15",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/Xfln1PsnDl/App/HSP435559_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 08.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1003350.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/m77d95EUX5/App/HSP435558_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-08",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/m77d95EUX5/App/HSP435558_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 01.03.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1001630.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/6VYWslONCA/App/HSP435557_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-03-01",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/6VYWslONCA/App/HSP435557_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 23.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/999815.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/ZY2tJYbElw/App/HSP435556_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-23",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/ZY2tJYbElw/App/HSP435556_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 09.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/996403.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/lyPNClqn4y/App/HSP435554_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-09",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/lyPNClqn4y/App/HSP435554_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל 02.02.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/994507.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/s5B24B67mu/App/HSP435553_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-02-02",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/s5B24B67mu/App/HSP435553_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 26.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/992665.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/yRphj9zKXr/App/HSP435552_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-26",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/yRphj9zKXr/App/HSP435552_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 12.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/988877.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7EWClseSIB/App/HSP435550_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-12",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7EWClseSIB/App/HSP435550_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 05.01.20",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/987116.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/wIjvrELad0/App/HSP435549_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2020-01-05",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/wIjvrELad0/App/HSP435549_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 08.12.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/979663.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/LtByKUmbOy/App/HSP435545_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-12-08",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/LtByKUmbOy/App/HSP435545_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 24.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/976005.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9DU6OL5R0o/App/HSP435543_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-24",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9DU6OL5R0o/App/HSP435543_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 16.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/974273.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/enrnNfm0HH/App/HSP435542_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-16",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/enrnNfm0HH/App/HSP435542_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      },
+      {
+       "name": "ארץ הכדורסל, 10.11.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/972671.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/p62OeYq8Zv/App/HSP435541_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "2019-11-10",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/p62OeYq8Zv/App/HSP435541_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "ארץ הכדורסל - עונה 1",
+     "channels": [
+      {
+       "name": "ארץ הכדורסל, 03.06.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/937936.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6f/7c/6f7c38fd-2645-498a-91da-a8664d2aad13/030620190012_hsp408035_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "2019-06-03",
+       "plot": "תכנית 14 - הנוער של מכבי ת\"א השלימו אליפות 4 ברציפות, כל הסיכומים והנבחרים מהלאומית ואפי בירנבוים סוגר עונה בסטייל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6f/7c/6f7c38fd-2645-498a-91da-a8664d2aad13/030620190012_hsp408035_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 26.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/935220.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/29/13/29137199-7734-4d48-98c1-ed6fb1adde46/260520191301_hsp408034_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-26",
+       "plot": "תכנית 13 - מכבי חיפה חוזרת לליגת העל, בנוער - מכבי רחוקה ניצחון מאליפות ואפי יוצא לטיול בעיר היין",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/29/13/29137199-7734-4d48-98c1-ed6fb1adde46/260520191301_hsp408034_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 19.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/933534.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/62/63/6263851d-e434-4c78-b987-42ba43b6a1af/190520191301_hsp408033_,55,110,35,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-19",
+       "plot": "תכנית 12 - גליל מחזירה את הסדרה לכפר בלום, מכבי ת\"א (נוער) נלחמת באריות אירופה ואפי יצא להביא את השקט לשדרות",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/62/63/6263851d-e434-4c78-b987-42ba43b6a1af/190520191301_hsp408033_,55,110,35,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 12.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/931783.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f4/ac/f4ac5c21-6804-4a92-9f44-a81ac8e4aa2d/120520191503_hsp408032_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-12",
+       "plot": "תכנית 11 - הפלייאוף בליגה הלאומית בנק' רתיחה, מכבי ת\"א (נוער) העפילה לגמר ואפי יצא לבדוק מה סוד הקסם של האקדמייה בכפ\"ס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f4/ac/f4ac5c21-6804-4a92-9f44-a81ac8e4aa2d/120520191503_hsp408032_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 06.05.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/930320.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4d/f9/4df9fb86-7689-4f2a-ae1d-e35aa64cfa86/050520191806_hsp408031_,110,55,80,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-05-06",
+       "plot": "תכנית 10 - מכבי חיפה השלימה סוויפ מרשים בדרך לגמר, גיל בני נפרד מרעננה וגליל עליון רוכבת על המומנטום",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4d/f9/4df9fb86-7689-4f2a-ae1d-e35aa64cfa86/050520191806_hsp408031_,110,55,80,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 29.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/928927.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/82/fc/82fca8bd-d8f8-46c4-8c29-5009a9fe9c20/280420191402_hsp408030_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-29",
+       "plot": "תכנית 9 - תכנית שכולה חגיגה של גביעים, מצעד המהלכים השבועי ואפי בירנבוים יצא לעמק חפר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/82/fc/82fca8bd-d8f8-46c4-8c29-5009a9fe9c20/280420191402_hsp408030_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 14.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/925770.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c1/f3/c1f35dd7-cdba-4436-b15e-e496904708df/140420191402_hsp408028_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-14",
+       "plot": "תכנית 8 - דם, יזע ודמעות במשחקי הפלייאוף של הליגה הלאומית ואפי בירנבוים מגיע לתיכון \"חדש\"",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c1/f3/c1f35dd7-cdba-4436-b15e-e496904708df/140420191402_hsp408028_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 08.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/924357.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5d/c1/5dc1d328-3015-43f4-b700-6c247c7dea70/070420191402_hsp408027_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "2019-04-08",
+       "plot": "תכנית 7 - ימים של הכרעות: סדרות הפלייאוף בלאומית יוצאות לדרך ואפי בירנבוים יצא לכפר בלום",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5d/c1/5dc1d328-3015-43f4-b700-6c247c7dea70/070420191402_hsp408027_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 01.04.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/922651.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c0/ae/c0aeffcc-ccb8-4952-a1b4-b075ada1958c/310320191806_hsp408026_1_,1600k,1100k,550k,350k,800k,.mp4.csmil/master.m3u8",
+       "date": "2019-04-01",
+       "plot": "תכנית 6 - גיל אמיתי בראיון מיוחד, סדרות חצי גמר ליגת העל לנוער ואפי יצא צפונה למסע בגליל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c0/ae/c0aeffcc-ccb8-4952-a1b4-b075ada1958c/310320191806_hsp408026_1_,1600k,1100k,550k,350k,800k,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 24.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/920617.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d8/2d/d82dc0ad-bfa3-4eef-a592-0cd6fed18578/240320191301_hsp408025_,800k,550k,350k,1100k,1600k,.mp4.csmil/master.m3u8",
+       "date": "2019-03-24",
+       "plot": "תכנית 5 - אבי סוכר מוביל את אשקלון לפלייאוף הלאומית, אפיק ניסים מספר על החיים בליגה השנייה והמשחק המצוין בין רעננה ועפולה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d8/2d/d82dc0ad-bfa3-4eef-a592-0cd6fed18578/240320191301_hsp408025_,800k,550k,350k,1100k,1600k,.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 18.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/919326.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/60/cf/60cf1dcc-4b00-404a-b322-e88179727533/180320192008_hsp408024_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-03-18",
+       "plot": "תכנית 4 - הווינר שוט של זיו בן צבי, גוני יזראעלי עושה הכל בכפר בלום וכבר חושב על העתיד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/60/cf/60cf1dcc-4b00-404a-b322-e88179727533/180320192008_hsp408024_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 11.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/917046.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3c/49/3c49c9f7-5dec-45d8-99dd-d4aac2289e47/100320191503_hsp408023_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "2019-03-11",
+       "plot": "תכנית 3 - אשקלון ויבנה במאבק על הפלייאוף, ראשל\"צ קרובה להבטיח את המקום ה-1 בליגת הנוער ואפי יצא לפגוש את ילדי הדרום",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3c/49/3c49c9f7-5dec-45d8-99dd-d4aac2289e47/100320191503_hsp408023_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "ארץ הכדורסל, 04.03.19",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/915237.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f7/50/f750c607-c87e-4fdf-adf0-fd29d887d4f3/030320191503_hsp408022_,80,35,55,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "2019-03-04",
+       "plot": "תכנית 2 - הקרבות על הפלייאוף בלאומית, אפי בירנבוים יצא לבקר בעוספייה וגיל בני מספר על העונה שלו כשחקן מוביל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f7/50/f750c607-c87e-4fdf-adf0-fd29d887d4f3/030320191503_hsp408022_,80,35,55,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      },
+      {
+       "name": "מגזין כחול-לבן שכולו כדורסל ישראלי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/917314.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4b/9d/4b9dff11-ac0f-4fb1-8715-7e1511e4de4f/110320191010_hsp408021_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תכנית 1 - מגזין חדש שכולו כדורסל כחול-לבן. נתקד בכדורסלן הישראלי, בפנים, בשמות ובעתיד של הכדורסל הישראלי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4b/9d/4b9dff11-ac0f-4fb1-8715-7e1511e4de4f/110320191010_hsp408021_,110,80,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "ארץ הכדורסל - עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

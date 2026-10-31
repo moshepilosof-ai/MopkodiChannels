@@ -1,0 +1,2561 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - גביע המדינה בכדורגל",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "9993",
+   "series_id": "9993",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1151995.jpg",
+   "plot": "",
+   "updated": "2026-10-31 02:46",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "היא בשמינית: 0:2 לקרית שמונה בטייבה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1151995.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/gwhKk6Zo4p/App/kash_171221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/gwhKk6Zo4p/App/kash_171221_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.",
+       "season": ""
+      },
+      {
+       "name": "ענק: שער אדיר של ערן לוי הדיח את כפר קאסם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1151985.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Abf4vmR6tn/App/kfar_kasem_171221_new_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Abf4vmR6tn/App/kfar_kasem_171221_new_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "נתניה גברה על הפועל פ\"ת ועלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1151786.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/xIId4kFvax/App/NM_HPT_NATANYA_161221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/xIId4kFvax/App/NM_HPT_NATANYA_161221_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "לאחר פנדלים: הפועל חיפה גברה על הפועל כפ\"ס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1151805.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/tz68Ni7fTM/App/TAK_HHAIFA_161221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/tz68Ni7fTM/App/TAK_HHAIFA_161221_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "א.ס אשדוד עלתה לשלב הבא עם 0:2 על כפר מנדא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1151763.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/6YdBHtyrbX/App/TAK_ADUMIM_ASHDOD_161221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/6YdBHtyrbX/App/TAK_ADUMIM_ASHDOD_161221_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https:",
+       "season": ""
+      },
+      {
+       "name": "לאחר הארכה: בני יהודה ניצחה 1:2 את נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1137956.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/JoAf4Gz948/App/TAK_BNEY_261021_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/JoAf4Gz948/App/TAK_BNEY_261021_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spo",
+       "season": ""
+      },
+      {
+       "name": "חצי מספרת לדאבור, אחי נצרת ניצחה 0:2 את רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1137950.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/8EC2LL1zYO/App/TAK_RAANANA_261021_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/8EC2LL1zYO/App/TAK_RAANANA_261021_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.",
+       "season": ""
+      },
+      {
+       "name": "עמוק בהארכה: בית\"ר ת\"א ביצעה מהפך נגד הפ' ר\"ג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1137955.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/f3HlKUwFrW/App/TAK_RAG_261021_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/f3HlKUwFrW/App/TAK_RAG_261021_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spor",
+       "season": ""
+      },
+      {
+       "name": "לילה צהוב: 1:2 דרמטי וסוער למכבי על הפועל בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1102199.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/y8Nmm3ruNN/App/NM_TAK_GAVIA_FULL_020621_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/y8Nmm3ruNN/App/NM_TAK_GAVIA_FULL_020621_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https:",
+       "season": ""
+      },
+      {
+       "name": "בתום דו קרב פנדלים ארוך: הפועל ת\"א עלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1098553.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/wO2nPJcyGq/App/NM_VTR_TAK_HAPOEL_BEITAR_190521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/wO2nPJcyGq/App/NM_VTR_TAK_HAPOEL_BEITAR_190521_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer",
+       "season": ""
+      },
+      {
+       "name": "מכבי ת\"א מחכה בחצי: 1:4 למכבי חיפה על עפולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1092030.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/0dW7VyXFkS/App/TAK_HAIFA_GAVIA_220421_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/0dW7VyXFkS/App/TAK_HAIFA_GAVIA_220421_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://",
+       "season": ""
+      },
+      {
+       "name": "סינדרלה בסטייל: 0:4 מוחץ לבית\"ר ת\"א בדוחא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1091689.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/YtDUv9pS0q/App/NM_VTR_SACHNIN_210421_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/YtDUv9pS0q/App/NM_VTR_SACHNIN_210421_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "מי אם לא הוא: שער ניצחון לדור פרץ באשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1091684.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/3wtwoIizXR/App/NM_TAK_MTA_210421_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/3wtwoIizXR/App/NM_TAK_MTA_210421_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "החתימה כרטיס: הפועל ת\"א ניצחה 0:1 את כפר שלם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1091449.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/hFiIc7MFSR/App/NM_TAK_HTA_SHALEM_200421_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/hFiIc7MFSR/App/NM_TAK_HTA_SHALEM_200421_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https:",
+       "season": ""
+      },
+      {
+       "name": "אצילי השלים מהפך עם צמד גדול, חיפה ברבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1083147.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/Mdgr4L5HTM/App/NM_HAIFA_MPT_170321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/Mdgr4L5HTM/App/NM_HAIFA_MPT_170321_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod",
+       "season": ""
+      },
+      {
+       "name": "גם הגביע הלך: אשדוד הדיחה את בית\"ר ירושלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1083070.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/1dWT4y7F1v/App/TAK_BEITAR_170321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/1dWT4y7F1v/App/TAK_BEITAR_170321_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "הפתעה: עפולה מהלאומית הביסה 0:3 את כפ\"ס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1083101.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/wuP0Cu7xJf/App/NM_VTR_KFAS_AFULA_170321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/wuP0Cu7xJf/App/NM_VTR_KFAS_AFULA_170321_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https:",
+       "season": ""
+      },
+      {
+       "name": "דרמת גביע: 2:3 מרתק למכבי ת\"א על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1082834.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/1UlkzhzZMY/App/VTR_TAK_MACCABI_TLV_160321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/1UlkzhzZMY/App/VTR_TAK_MACCABI_TLV_160321_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=http",
+       "season": ""
+      },
+      {
+       "name": "פנדל גבולי ושער עצמי: הפועל עברה את נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1082758.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/ntSA53khlm/App/NM_TAK_NATANYA_160321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/ntSA53khlm/App/NM_TAK_NATANYA_160321_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "לא הלך פשוט: סכנין הזיעה ועברה את נורדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1082733.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/lGrsc9R0vT/App/VTR_TAK_SACHNIN_160321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/lGrsc9R0vT/App/VTR_TAK_SACHNIN_160321_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2025/26",
+     "channels": [
+      {
+       "name": "מכבי ת\"א ניצחה 2:3 את מכבי חיפה ועלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1702348.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_HAIFA_GAVIA_150426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_HAIFA_GAVIA_150426/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "בתום דרמה: הפועל ב\"ש עלתה לגמר גביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1698631.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIA_BASH_BNEI_090426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIA_BASH_BNEI_090426/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "עם קאמבק ברבע האחרון: בני הרצליה הדיחה את העמק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1676493.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EMEK_HARZLIYA_SAL_160226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EMEK_HARZLIYA_SAL_160226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "חגיגת שער: מכבי ת\"א פירקה את יפו ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1671094.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_YFFO1_050226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_YFFO1_050226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "סנסציית ענק בגביע: בני יהודה הדיחה את בית”ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1670550.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_040226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_040226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "שידור חוזר: הפועל ב\"ש ניצחה את ריינה ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1670613.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_0402261_177023520741/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_0402261_177023520741/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "עמדה במשימה: מכבי חיפה גברה 0:2 על כפר קאסם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1670009.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_KASEM_030226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_KASEM_030226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "הושלמה התמונה: קאסם גברה על כפ\"ס ועלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1660114.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASEM_150126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASEM_150126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "בדרמה ענקית: מכבי ת\"א עלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1659686.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBY_140126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBY_140126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "בכל החזיתות: בית\"ר י-ם הדיחה את ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1659522.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_140126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_140126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "ברגע האחרון: מכבי חיפה גברה 0:1 על רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1659606.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_140126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_140126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "עם גול גדול של כנעאן: הפועל ב\"ש הדיחה את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1659102.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_130126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_130126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "הפתעה ענקית: מכבי נתניה הודחה מהגביע על ידי יפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1659064.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NATANYA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NATANYA/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "צמד לחאילי: בני ריינה ניצחה 1:2 את הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1659070.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PAT_130126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PAT_130126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "אחרי פנדלים: בני יהודה גברה על מכבי הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1659111.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BNEY_130126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BNEY_130126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "שער מחצי מגרש לאצילי, בית\"ר עלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1651070.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_271225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_271225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "בקושי: 1:2 להפועל ב\"ש על שדרות בדרך לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1650872.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_271225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_271225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "חוזרת לעצמה? 0:5 גדול למכבי ת\"א על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1650756.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_75_271225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_75_271225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "חגיגת שערים: מכבי חיפה הביסה 1:8 את אחי נצרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1650694.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MHAIFA_271225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MHAIFA_271225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      },
+      {
+       "name": "לא כוחות: 0:6 גדול לנתניה על בני יפו בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1650333.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_261225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2024/25",
+     "channels": [
+      {
+       "name": "מחזיקת הגביע: הפועל ב''ש ניצחה 0:2 את בית''ר י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1561281.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_JER_FINAL1_290525/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_JER_FINAL1_290525/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "חגיגה בדרך לגמר: 1:5 ענק לב\"ש על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1544728.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_BASH_NEW_220425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_BASH_NEW_220425/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "חמסה: בית\"ר הביסה את ריינה ועלתה לגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1538689.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIA_BJER_REINA_MAY_LO_LSHGAA_100425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIA_BJER_REINA_MAY_LO_LSHGAA_100425/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "שועה כיכב: בית\"ר חגגה נגד סכנין בדרך לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1535441.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_NEW_030425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_NEW_030425/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "צמד לביטון: הפועל ב\"ש העפילה לחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1520298.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GAVIA_270225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GAVIA_270225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "ממשיכה במסע: הפועל ת\"א גברה על ר\"ג בדרך לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1519393.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_RAG_250225_75/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_RAG_250225_75/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "העולה הראשונה לחצי: ריינה גברה 1:3 על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1519372.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_RAG_250225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_RAG_250225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "הפועל ת\"א ניצחה 1:2 את הפועל חיפה בדרך לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1499984.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA1_160125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA1_160125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "מטורף: שישיה לדרור, ר\"ג ניצחה 0:7 את רמה\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1500027.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RAG_RAMASH_160125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RAG_RAMASH_160125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "איבדה תואר: מכבי ת\"א הודחה ע\"י ריינה מהגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1499611.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_150125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_150125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "אשדוד גברה על נורדיה בדרך לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1499464.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NORDIA_150125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NORDIA_150125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "ב\"ש חגגה על חדרה ועלתה לרבע גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1499507.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_150125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_150125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "עמדה במשימה: בית\"ר ברבע הגמר אחרי 0:1 על עכו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1498969.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BITER_140125_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BITER_140125_1/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "אחרי דו קרב פנדלים: בני סכנין העפילה לרבע גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1499073.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MPAT_140125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MPAT_140125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "אזולאי הכריע: מכבי חיפה ניצחה את נתניה ועלתה לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1499045.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_140125_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_140125_NEW/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "בהילוך ראשון: מכבי חיפה עלתה לשלב הבא בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1490951.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_301224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_301224/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "עשתה את שלה: נתניה גברה 0:2 על פאחם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1490585.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FAHEM_291224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FAHEM_291224/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "דרמה גדולה: בית\"ר גברה על קריית ים בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1490714.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_291224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_291224/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "בקלילות: מכבי ת\"א גברה 0:3 על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1490211.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_GAVIA_281224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_GAVIA_281224/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      },
+      {
+       "name": "המחזיקה בשלב הבא: 0:2 למכבי פ\"ת על ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1490103.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPT_GAVIA_281224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPT_GAVIA_281224/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2024/25"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2023/24",
+     "channels": [
+      {
+       "name": "לאחר 72 שנים: מכבי פ\"ת מחזיקת גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1399082.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_GAVIAFULL_300524/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_GAVIAFULL_300524/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "בקלות: מכבי פ\"ת הביסה בדרך לגמר גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1387138.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NOF_GALIL_300424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NOF_GALIL_300424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "עם שער ניצחון בדקה ה-122: ב\"ש עלתה לגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1384849.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GAVIA_240424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GAVIA_240424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "נתניה הדיחה את מכבי חיפה ועלתה לחצי גמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1377046.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_030424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_030424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "ב\"ש עלתה לחצי הגמר לאחר 0:1 על הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1376981.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BASH_HPAT_030424_80/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BASH_HPAT_030424_80/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "מכבי פ''ת העפילה לחצי הגמר אחרי 2:4 על מכבי ת''א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1376709.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA3_020424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA3_020424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "נוף הגליל ניצחה 0:2 את ק''ש והעפילה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1376624.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_GAVIA_020424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_GAVIA_020424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "מכבי פ\"ת הביסה 0:3 את הפועל חיפה בדרך לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1368015.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_FULLTAK_HHAIFA_MPT_050324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_FULLTAK_HHAIFA_MPT_050324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "לאחר הארכה: מכבי נתניה העפילה ע\"ח הפועל י-ם לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1367969.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_FULL_TAK_NATANYA_JER_050324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_FULL_TAK_NATANYA_JER_050324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "1:3 לנוף הגליל על ראשל\"צ בדרך לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1367967.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_NOF_HAGLIL_RISHON_050324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_NOF_HAGLIL_RISHON_050324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "ק\"ש ניצחה את כפר קנא עלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1358946.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_GAVIA_090224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_GAVIA_090224/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "בתום דרמת ענק: 3:6 למכבי חיפה על כפ\"ס בהארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1354329.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KAFAS_HAIFA_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KAFAS_HAIFA_280124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "בשלב הבא: מכבי ת\"א גברה 0:2 על  הפועל חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1354101.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HADERA_MACCABI_280124_new2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HADERA_MACCABI_280124_new2/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "נוף הגליל הביסה את הפועל הרצליה בדרך לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1354091.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZLIYA_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZLIYA_280124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "פאחם גברה 0:2 על  אתא ביאליק והמשיכה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1354096.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_UMELFAHEM_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_UMELFAHEM_280124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "בדקה ה-91: ראשל\"צ עם גול דרמטי עלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1354100.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DIMONA_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DIMONA_280124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "כוכב נולד: חזן עם צמד בהארכה העניק ניצחון למכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1353687.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPAT_GAVIA_270124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPAT_GAVIA_270124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "בא בזמן: חטואל כבש בדקה ה-87 והדיח את בית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1353646.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GAVIA_270124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GAVIA_270124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "מחצית הספיקה: הפועל פ\"ת גברה 2:4 על בני ריינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1353508.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REINE_HPAT_GAVIA_270124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REINE_HPAT_GAVIA_270124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      },
+      {
+       "name": "למה לא: הפועל י-ם הדיחה את הפועל ת\"א מהגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1353437.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HTA_GAVIA_270124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HTA_GAVIA_270124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2022/23",
+     "channels": [
+      {
+       "name": "לאחר 14 שנים: בית\"ר י-ם זכתה בגביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1293009.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FINAL_JER__230523_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FINAL_JER__230523_1/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "שבחי ירושלים: בית\"ר בגמר אחרי דרמת ענק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1287396.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_030523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_030523/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "יהלומים: נתניה עלתה לגמר גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1287062.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_020523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_020523/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "סימנה וי: 1:2 למכבי ת\"א בדרך לחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1271163.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_010323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_010323/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "חולמת בגדול: בית\"ר י-ם עלתה לחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1271112.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_010323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_010323/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "בתום משחק מטורף: נתניה הדיחה את חיפה מהגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1270853.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIAA_HAIFA_NATNYA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIAA_HAIFA_NATNYA/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "שער ענק לכנעאן, אשדוד בחצי ע\"ח הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1270814.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_ashdod_280223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_ashdod_280223/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "רגל בחצי: בית\"ר י-ם הביסה 0:4 את עפולה בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1262419.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_NEW_010223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_NEW_010223/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "צעד ענק לגומלין: מכבי ת\"א ניצחה 0:4 את פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1262475.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACABI_PETACH/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACABI_PETACH/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "יוכרע בסמי עופר: 2:2 קיצבי בין נתניה למכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1262139.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_CUP_310123_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_CUP_310123_2/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "הכל פתוח: הפועל פ\"ת ומ.ס אשדוד נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1262096.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_310123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_310123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "בית\"ר מחכה: עפולה חגגה על כפ\"ס בדרך לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1254586.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KFAS_AFULA_050123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KFAS_AFULA_050123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "רקדה בדרך לרבע: 1:5 למכבי על הפועל בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1254309.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_HAIFA_040123_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_HAIFA_040123_NEW/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "לאחר 18 שנה: הפועל פ\"ת ברבע הגמר ע\"ח ריינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1254283.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REENA_040123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REENA_040123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "מכבי פ\"ת ניצחה 1:2 את נס ציונה ועלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1254269.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NESS_75_040123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NESS_75_040123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "כל שער בצבע: מכבי ת\"א הביסה 0:5 את סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1253980.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTAREGEL_030123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTAREGEL_030123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "בתום דו קרב פנדלים: בית\"ר עלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1253996.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_030123_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_030123_2/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "גנדלמן שוב כבש, נתניה עלתה ע\"ח אחי נצרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1253951.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_VTR_NATZRAT_030123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_VTR_NATZRAT_030123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "כנעאן דייק מהנקודה, אשדוד ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1253948.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAMASH_030123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAMASH_030123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      },
+      {
+       "name": "אבו פאני סיים מהלך נהדר, חיפה עלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1248041.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_NOF_GALIL_121222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_NOF_GALIL_121222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - עונת 2021/2022",
+     "channels": [
+      {
+       "name": "בפעם ה-3 בהיסטוריה: ב\"ש מחזיקת גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1196604.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_GAVIA_FULL_140522/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_GAVIA_FULL_140522/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "מהפך ששווה גמר: 1:3 אדיר לב\"ש על מכבי ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1187419.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/ujR8edXPZD/App/NM_VTR_TAK_GAVIA_200422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/ujR8edXPZD/App/NM_VTR_TAK_GAVIA_200422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "נוגעת בתואר: מכבי חיפה גברה 0:2 על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1187086.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/PR1ekd3GZt/App/NM_DERBI_HAIFA_GAVIA_190422_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/PR1ekd3GZt/App/NM_DERBI_HAIFA_GAVIA_190422_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "טיילה לחצי הגמר: מכבי ת\"א הביסה 0:4 את יפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1174259.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/pBHhtCqzgI/App/NM_TAK_MACCABI_030322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/pBHhtCqzgI/App/NM_TAK_MACCABI_030322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "המהפך הושלם: 0:2 לב\"ש על פ\"ת בדרך לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1174061.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/rDS058olF9/App/NM_VTR_TAK_BASH_MPT_020322_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/rDS058olF9/App/NM_VTR_TAK_BASH_MPT_020322_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "ניצחון כפול: 0:1 להפועל חיפה על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1174016.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/9r3Oi7se82/App/NM_HHAIFA_BNEY_020322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/9r3Oi7se82/App/NM_HHAIFA_BNEY_020322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "החתימה כרטיס: מכבי חיפה העפילה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1173725.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/BZ8yBBnDDF/App/NM_TAK_HAIFA_FULL_010322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/BZ8yBBnDDF/App/NM_TAK_HAIFA_FULL_010322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "מקדמה לגומלין: 0:1 להפועל חיפה מול בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1164685.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/B42FxqaxiC/App/NM_TAK_BNEY_HHAIFA_010222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/B42FxqaxiC/App/NM_TAK_BNEY_HHAIFA_010222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "ב\"ש הסתבכה: מכבי פ\"ת הפתיעה בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1164721.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/2Li1fBoatx/App/TAK_MPAT_BASH_010222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/2Li1fBoatx/App/TAK_MPAT_BASH_010222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "ללא תקלות: מכבי ת\"א גברה 0:2 על מכבי יפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1164957.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/tdQ4el9m04/App/TAK_MACABI_YAFFO_FULL_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/tdQ4el9m04/App/TAK_MACABI_YAFFO_FULL_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "מקדמה גדולה: 0:2 למכבי חיפה על הפועל חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1165023.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/XKVodgrntX/App/nm_tak_haifa_020222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/XKVodgrntX/App/nm_tak_haifa_020222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "חיפה מחכה ברבע: חדרה חגגה עם 0:3 על סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1159693.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/ct90FZTPPa/App/NM_TAK_HADERA_130121_new_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/ct90FZTPPa/App/NM_TAK_HADERA_130121_new_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "רקדה לרבע הגמר: 0:4 גדול למכבי חיפה על בית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1159298.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/MT42tEWeoN/App/NM_BEITAR_FULL_120122_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/MT42tEWeoN/App/NM_BEITAR_FULL_120122_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "בדקה ה-120: ב\"ש עלתה לרבע על חשבון נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1159300.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/LwmUk255S5/App/TAK_NATYA_BASH_GAVIA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/LwmUk255S5/App/TAK_NATYA_BASH_GAVIA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "אחרי 2:2 נהדר: מכבי ת\"א הדיחה את ק\"ש בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1159098.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/4n6DYhJ9IC/App/NM_KASH_MTA_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/4n6DYhJ9IC/App/NM_KASH_MTA_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "הפועל חיפה שרדה מותחן נגד אום אל פאחם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1159091.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/OjSt4VRnSA/App/NM_FAEHM_HHAIFA_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/OjSt4VRnSA/App/NM_FAEHM_HHAIFA_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "אוהבת את הגביע: 0:2 לבני יהודה על שעריים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1159000.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/JTFcw25BLi/App/NM_BNEY_SHAARAIM_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/JTFcw25BLi/App/NM_BNEY_SHAARAIM_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "יש סינדרלה: יפו ברבע אחרי פנדלים מול אדומים אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1159029.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/593Mkbhps2/App/NM_ASHDOD_YAFO_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/593Mkbhps2/App/NM_ASHDOD_YAFO_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      },
+      {
+       "name": "בתום הארכה: 2:3 למכבי פ\"ת על אחי נצרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1159021.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PhyGb9unBS/App/NM_AHY_MPAT_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PhyGb9unBS/App/NM_AHY_MPAT_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - חצי הגמר",
+     "channels": [
+      {
+       "name": "מכבי ת\"א ניצחה 2:3 את מכבי חיפה ועלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1702348.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_HAIFA_GAVIA_150426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_HAIFA_GAVIA_150426/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - חצי הגמר"
+      },
+      {
+       "name": "בתום דרמה: הפועל ב\"ש עלתה לגמר גביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1698631.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIA_BASH_BNEI_090426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIA_BASH_BNEI_090426/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - חצי הגמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - רבע גמר",
+     "channels": [
+      {
+       "name": "עם קאמבק ברבע האחרון: בני הרצליה הדיחה את העמק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1676493.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EMEK_HARZLIYA_SAL_160226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EMEK_HARZLIYA_SAL_160226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - רבע גמר"
+      },
+      {
+       "name": "חגיגת שער: מכבי ת\"א פירקה את יפו ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1671094.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_YFFO1_050226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_YFFO1_050226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - רבע גמר"
+      },
+      {
+       "name": "סנסציית ענק בגביע: בני יהודה הדיחה את בית”ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1670550.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_040226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_040226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - רבע גמר"
+      },
+      {
+       "name": "שידור חוזר: הפועל ב\"ש ניצחה את ריינה ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1670613.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_0402261_177023520741/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_0402261_177023520741/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - רבע גמר"
+      },
+      {
+       "name": "עמדה במשימה: מכבי חיפה גברה 0:2 על כפר קאסם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1670009.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_KASEM_030226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_KASEM_030226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - רבע גמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר",
+     "channels": [
+      {
+       "name": "הושלמה התמונה: קאסם גברה על כפ\"ס ועלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1660114.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASEM_150126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASEM_150126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר"
+      },
+      {
+       "name": "בדרמה ענקית: מכבי ת\"א עלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1659686.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBY_140126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBY_140126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר"
+      },
+      {
+       "name": "בכל החזיתות: בית\"ר י-ם הדיחה את ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1659522.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_140126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_140126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר"
+      },
+      {
+       "name": "ברגע האחרון: מכבי חיפה גברה 0:1 על רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1659606.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_140126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_140126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר"
+      },
+      {
+       "name": "עם גול גדול של כנעאן: הפועל ב\"ש הדיחה את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1659102.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_130126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_130126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר"
+      },
+      {
+       "name": "הפתעה ענקית: מכבי נתניה הודחה מהגביע על ידי יפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1659064.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NATANYA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NATANYA/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר"
+      },
+      {
+       "name": "צמד לחאילי: בני ריינה ניצחה 1:2 את הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1659070.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PAT_130126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PAT_130126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר"
+      },
+      {
+       "name": "אחרי פנדלים: בני יהודה גברה על מכבי הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1659111.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BNEY_130126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BNEY_130126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - שמינית הגמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים",
+     "channels": [
+      {
+       "name": "שער מחצי מגרש לאצילי, בית\"ר עלתה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1651070.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_271225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_271225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "בקושי: 1:2 להפועל ב\"ש על שדרות בדרך לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1650872.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_271225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_271225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "חוזרת לעצמה? 0:5 גדול למכבי ת\"א על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1650756.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_75_271225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_75_271225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "חגיגת שערים: מכבי חיפה הביסה 1:8 את אחי נצרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1650694.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MHAIFA_271225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MHAIFA_271225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "לא כוחות: 0:6 גדול לנתניה על בני יפו בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1650333.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_261225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "בהילוך ראשון: הפועל י-ם עלתה לשלב הבא בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1650329.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_261225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "בתום דרמת ענק: ק\"ש ניצחה את ר\"ג ועלתה שלב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1650334.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_261225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "ללא בעיות: הרצליה הביסה את מ.כ כפ\"ס בגביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1650298.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HARZLIYA_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HARZLIYA_261225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "עברה את המשוכה: כפ\"ס גברה על דימונה בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1650287.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DIMONA_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DIMONA_261225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "קאסם ביצעה מהפך על חולון ועלתה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1650286.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASSAM_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASSAM_261225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "סיבוב ח`: בני ריינה ניצחה 0:1 את כפר שלם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1650284.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REINA_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REINA_261225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "עשתה את שלה: הפועל ת\"א ניצחה 0:3 את אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1649997.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_GAVIA_251225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_GAVIA_251225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "עלתה שלב: בני יהודה ניצחה 1:2 את קריית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1649967.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BENI_YEHUDA_251225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BENI_YEHUDA_251225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "מנעה מבוכה: הפועל פ\"ת ניצחה 1:2 את כרמיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1649969.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPAT_251225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPAT_251225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "יש לנו סינדרלה? יפו הפתיעה את סכנין בדוחא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1649959.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_251225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_251225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "בתום דרמה אדירה: רעננה ניצחה 8:9 בפנדלים את קריית גת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1649995.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RANANA_251225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RANANA_251225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "לא יאמן: שדרות הדיחה את חדרה בניצחון 3:4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1621417.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HADERA_DIMONA_291025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HADERA_DIMONA_291025/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      },
+      {
+       "name": "מוליכת הלאומית הודחה: דימונה גברה על מכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1621424.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DIMONA_291025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DIMONA_291025/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2025/26 - 2025/26 - סיבובים מוקדמים"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - חצי גמר",
+     "channels": [
+      {
+       "name": "בקלות: מכבי פ\"ת הביסה בדרך לגמר גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1387138.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NOF_GALIL_300424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NOF_GALIL_300424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - חצי גמר"
+      },
+      {
+       "name": "עם שער ניצחון בדקה ה-122: ב\"ש עלתה לגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1384849.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GAVIA_240424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GAVIA_240424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - חצי גמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - רבע גמר",
+     "channels": [
+      {
+       "name": "נתניה הדיחה את מכבי חיפה ועלתה לחצי גמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1377046.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_030424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_030424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - רבע גמר"
+      },
+      {
+       "name": "ב\"ש עלתה לחצי הגמר לאחר 0:1 על הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1376981.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BASH_HPAT_030424_80/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BASH_HPAT_030424_80/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - רבע גמר"
+      },
+      {
+       "name": "מכבי פ''ת העפילה לחצי הגמר אחרי 2:4 על מכבי ת''א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1376709.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA3_020424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA3_020424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - רבע גמר"
+      },
+      {
+       "name": "נוף הגליל ניצחה 0:2 את ק''ש והעפילה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1376624.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_GAVIA_020424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_GAVIA_020424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - רבע גמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - שמינית גמר",
+     "channels": [
+      {
+       "name": "מכבי פ\"ת הביסה 0:3 את הפועל חיפה בדרך לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1368015.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_FULLTAK_HHAIFA_MPT_050324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_FULLTAK_HHAIFA_MPT_050324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - שמינית גמר"
+      },
+      {
+       "name": "לאחר הארכה: מכבי נתניה העפילה ע\"ח הפועל י-ם לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1367969.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_FULL_TAK_NATANYA_JER_050324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_FULL_TAK_NATANYA_JER_050324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - שמינית גמר"
+      },
+      {
+       "name": "1:3 לנוף הגליל על ראשל\"צ בדרך לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1367967.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_NOF_HAGLIL_RISHON_050324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_NOF_HAGLIL_RISHON_050324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - שמינית גמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'",
+     "channels": [
+      {
+       "name": "ק\"ש ניצחה את כפר קנא עלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1358946.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_GAVIA_090224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_GAVIA_090224/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "בתום דרמת ענק: 3:6 למכבי חיפה על כפ\"ס בהארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1354329.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KAFAS_HAIFA_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KAFAS_HAIFA_280124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "בשלב הבא: מכבי ת\"א גברה 0:2 על  הפועל חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1354101.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HADERA_MACCABI_280124_new2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HADERA_MACCABI_280124_new2/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "נוף הגליל הביסה את הפועל הרצליה בדרך לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1354091.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZLIYA_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZLIYA_280124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "פאחם גברה 0:2 על  אתא ביאליק והמשיכה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1354096.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_UMELFAHEM_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_UMELFAHEM_280124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "בדקה ה-91: ראשל\"צ עם גול דרמטי עלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1354100.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DIMONA_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DIMONA_280124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "כוכב נולד: חזן עם צמד בהארכה העניק ניצחון למכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1353687.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPAT_GAVIA_270124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPAT_GAVIA_270124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "בא בזמן: חטואל כבש בדקה ה-87 והדיח את בית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1353646.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GAVIA_270124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_GAVIA_270124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "מחצית הספיקה: הפועל פ\"ת גברה 2:4 על בני ריינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1353508.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REINE_HPAT_GAVIA_270124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REINE_HPAT_GAVIA_270124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "למה לא: הפועל י-ם הדיחה את הפועל ת\"א מהגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1353437.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HTA_GAVIA_270124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HTA_GAVIA_270124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "בקושי: 1:2 למכבי נתניה על כפר קאסם בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1353174.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_260124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_260124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "טבריה היממה את אשדוד עם 0:2 גדול בגביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1353173.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_260124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_260124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "סנסציה: רמה\"ש הדיחה את בני סכנין מהגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1353191.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_260124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_260124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "הלך קשה: הפועל חיפה בשמינית אחרי דו קרב פנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1352832.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ASHD_HHAIFA_250124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ASHD_HHAIFA_250124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "ברשצקי כבש: בני יהודה עלתה לשמינית גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1352799.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_250124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_250124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      },
+      {
+       "name": "מהפך: צמד של גיל יצחק העניק ליפו מקום בשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1352806.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_NATZRAT_YAFFO_250124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_NATZRAT_YAFFO_250124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב ח'"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7",
+     "channels": [
+      {
+       "name": "שביעייה אדירה: רמה''ש הביסה 0:7 את עפולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1346603.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RAMASH_AFULA_100124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RAMASH_AFULA_100124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "מכבי אתא ביאליק ניצחה 1:3 את נשר ועלתה שלב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1346622.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NESHER_ATA_100124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NESHER_ATA_100124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "חגיגת שערים: הפ' הרצליה ניצחה 2:4 את עמישב פ''ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1346611.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HHERTZ_AMISHAV_100124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HHERTZ_AMISHAV_100124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "עירוני אשדוד הביסה 0:3 את חולון ועלתה שלב בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1346607.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_ASHDOD_100124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_ASHDOD_100124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "הפתעה: כפר כנא מליגה א' הדיחה את מכבי הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1346616.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MHERTZ_KANA_100124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MHERTZ_KANA_100124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "הצגה: מכבי יבנה הביסה 0:4 את שפרעם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1346180.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHFARAM_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHFARAM_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "דימונה וקלינגר הביסו 1:6 את בית\"ר נהריה בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1346089.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_NAHARIA_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_NAHARIA_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "בדקה ה-92: יפו ניצחה 1:2 את רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1346207.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_YAFFO_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_YAFFO_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "ללא תקלות: הפועל ר''ג הביסה 0:5 את מחנה יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1346196.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "אחי נצרת ניצחה 0:1 את טירת הכרמל ועלתה שלב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1346097.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NATZERET_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NATZERET_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "בשלב הבא: ראשל''צ ניצחה 0:2 את נורדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1346211.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHONLZION_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHONLZION_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "עירוני ק''ש ניצחה 0:4 את באקה ועלתה שלב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1346209.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "בפנדלים: כפר קאסם הדיחה את נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1346230.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESZIONA_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESZIONA_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      },
+      {
+       "name": "בדקה ה-90: נוף הגליל ניצחה 1:2 את עכו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1346226.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NOF_GALIL_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NOF_GALIL_090124/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2023/24 - 2023/24 - סיבוב 7"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - חצי גמר",
+     "channels": [
+      {
+       "name": "שבחי ירושלים: בית\"ר בגמר אחרי דרמת ענק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1287396.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_030523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_030523/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - חצי גמר"
+      },
+      {
+       "name": "יהלומים: נתניה עלתה לגמר גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1287062.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_020523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_020523/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - חצי גמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - גומלין רבע הגמר",
+     "channels": [
+      {
+       "name": "סימנה וי: 1:2 למכבי ת\"א בדרך לחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1271163.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_010323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_010323/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - גומלין רבע הגמר"
+      },
+      {
+       "name": "חולמת בגדול: בית\"ר י-ם עלתה לחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1271112.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_010323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_010323/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - גומלין רבע הגמר"
+      },
+      {
+       "name": "בתום משחק מטורף: נתניה הדיחה את חיפה מהגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1270853.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIAA_HAIFA_NATNYA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAVIAA_HAIFA_NATNYA/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - גומלין רבע הגמר"
+      },
+      {
+       "name": "שער ענק לכנעאן, אשדוד בחצי ע\"ח הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1270814.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_ashdod_280223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_ashdod_280223/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - גומלין רבע הגמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - רבע גמר",
+     "channels": [
+      {
+       "name": "רגל בחצי: בית\"ר י-ם הביסה 0:4 את עפולה בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1262419.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_NEW_010223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_NEW_010223/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - רבע גמר"
+      },
+      {
+       "name": "צעד ענק לגומלין: מכבי ת\"א ניצחה 0:4 את פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1262475.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACABI_PETACH/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACABI_PETACH/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - רבע גמר"
+      },
+      {
+       "name": "יוכרע בסמי עופר: 2:2 קיצבי בין נתניה למכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1262139.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_CUP_310123_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_CUP_310123_2/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - רבע גמר"
+      },
+      {
+       "name": "הכל פתוח: הפועל פ\"ת ומ.ס אשדוד נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1262096.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_310123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_310123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - רבע גמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר",
+     "channels": [
+      {
+       "name": "בית\"ר מחכה: עפולה חגגה על כפ\"ס בדרך לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1254586.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KFAS_AFULA_050123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KFAS_AFULA_050123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר"
+      },
+      {
+       "name": "רקדה בדרך לרבע: 1:5 למכבי על הפועל בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1254309.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_HAIFA_040123_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_HAIFA_040123_NEW/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר"
+      },
+      {
+       "name": "לאחר 18 שנה: הפועל פ\"ת ברבע הגמר ע\"ח ריינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1254283.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REENA_040123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REENA_040123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר"
+      },
+      {
+       "name": "מכבי פ\"ת ניצחה 1:2 את נס ציונה ועלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1254269.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NESS_75_040123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NESS_75_040123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר"
+      },
+      {
+       "name": "כל שער בצבע: מכבי ת\"א הביסה 0:5 את סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1253980.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTAREGEL_030123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTAREGEL_030123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר"
+      },
+      {
+       "name": "בתום דו קרב פנדלים: בית\"ר עלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1253996.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_030123_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_030123_2/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר"
+      },
+      {
+       "name": "גנדלמן שוב כבש, נתניה עלתה ע\"ח אחי נצרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1253951.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_VTR_NATZRAT_030123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_VTR_NATZRAT_030123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר"
+      },
+      {
+       "name": "כנעאן דייק מהנקודה, אשדוד ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1253948.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAMASH_030123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAMASH_030123/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - שמינית הגמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'",
+     "channels": [
+      {
+       "name": "אבו פאני סיים מהלך נהדר, חיפה עלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1248041.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_NOF_GALIL_121222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_NOF_GALIL_121222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "כבר בסיבוב ח': הפועל ת\"א הודחה מגביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1248080.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_AFULA_121222_FULL_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_AFULA_121222_FULL_2/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "שלשוער לבזיע ב-1:5 של נצרת על צופי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1248092.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ACHI_121222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ACHI_121222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "מכבי פ\"ת הפתיעה את הפועל י-ם בדרך לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1248075.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_MACPT_121222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_MACPT_121222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "צמד לבוזגלו, נס ציונה גברה 2:3 על הפועל עכו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1248091.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AKKO_121222_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AKKO_121222_NEW/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "מחזיקת הגביע בחוץ: 1:2 ומהפך לאשדוד על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1248066.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_121222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_121222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "בלי תקלות: ריינה הביסה 0:3 את ראשל\"צ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1248090.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RISHON_121222_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RISHON_121222_NEW/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "פתיחה חלקה: רמה\"ש ניצחה 0:2 את ירמיהו חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1248095.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAMHASH_121222_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAMHASH_121222_NEW/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "שלושער למלמד, 0:3 לבני סכנין מול קלנסוואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1247925.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_SACHNIN_121222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_SACHNIN_121222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "בקושי: הפועל חיפה ניצחה את שפרעם בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1247943.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_HAIFA_121222_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_HAIFA_121222_NEW/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "הלך קשה: הפועל פ\"ת ניצחה 2:3 את טירה בהארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1247928.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HAPOEL_PAT_121222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HAPOEL_PAT_121222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "טבריה בשמינית לאחר 1:2 על אדומים אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1247679.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ADOMIM_ASHDODD_111222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ADOMIM_ASHDODD_111222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "שער ניצחון נהדר לזהבי בקאמבק של מכבי ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1247716.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACCABI_111222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACCABI_111222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "חד וחלק: בית\"ר ירושלים הביסה 0:4 את כפר קאסם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1247676.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR75_111222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR75_111222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "בשלב הבא: נתניה שרדה דרמת פנדלים בק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1247751.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_111222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_111222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      },
+      {
+       "name": "הפתעה ראשונה בגביע: כפ\"ס הדיחה את חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1247721.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HADERA_111222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HADERA_111222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורגל - 2022/23 - 2022/23 - סיבוב ח'"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - חצי גמר גביע המדינה",
+     "channels": [
+      {
+       "name": "מהפך ששווה גמר: 1:3 אדיר לב\"ש על מכבי ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1187419.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/ujR8edXPZD/App/NM_VTR_TAK_GAVIA_200422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/ujR8edXPZD/App/NM_VTR_TAK_GAVIA_200422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - חצי גמר גביע המדינה"
+      },
+      {
+       "name": "נוגעת בתואר: מכבי חיפה גברה 0:2 על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1187086.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/PR1ekd3GZt/App/NM_DERBI_HAIFA_GAVIA_190422_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/PR1ekd3GZt/App/NM_DERBI_HAIFA_GAVIA_190422_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - חצי גמר גביע המדינה"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה",
+     "channels": [
+      {
+       "name": "טיילה לחצי הגמר: מכבי ת\"א הביסה 0:4 את יפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1174259.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/pBHhtCqzgI/App/NM_TAK_MACCABI_030322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/pBHhtCqzgI/App/NM_TAK_MACCABI_030322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה"
+      },
+      {
+       "name": "המהפך הושלם: 0:2 לב\"ש על פ\"ת בדרך לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1174061.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/rDS058olF9/App/NM_VTR_TAK_BASH_MPT_020322_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/rDS058olF9/App/NM_VTR_TAK_BASH_MPT_020322_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה"
+      },
+      {
+       "name": "ניצחון כפול: 0:1 להפועל חיפה על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1174016.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/9r3Oi7se82/App/NM_HHAIFA_BNEY_020322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/9r3Oi7se82/App/NM_HHAIFA_BNEY_020322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה"
+      },
+      {
+       "name": "החתימה כרטיס: מכבי חיפה העפילה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1173725.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/BZ8yBBnDDF/App/NM_TAK_HAIFA_FULL_010322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/BZ8yBBnDDF/App/NM_TAK_HAIFA_FULL_010322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה"
+      },
+      {
+       "name": "מקדמה לגומלין: 0:1 להפועל חיפה מול בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1164685.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/B42FxqaxiC/App/NM_TAK_BNEY_HHAIFA_010222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/B42FxqaxiC/App/NM_TAK_BNEY_HHAIFA_010222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה"
+      },
+      {
+       "name": "ב\"ש הסתבכה: מכבי פ\"ת הפתיעה בגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1164721.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/2Li1fBoatx/App/TAK_MPAT_BASH_010222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/2Li1fBoatx/App/TAK_MPAT_BASH_010222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה"
+      },
+      {
+       "name": "ללא תקלות: מכבי ת\"א גברה 0:2 על מכבי יפו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1164957.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/tdQ4el9m04/App/TAK_MACABI_YAFFO_FULL_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/tdQ4el9m04/App/TAK_MACABI_YAFFO_FULL_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה"
+      },
+      {
+       "name": "מקדמה גדולה: 0:2 למכבי חיפה על הפועל חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1165023.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/XKVodgrntX/App/nm_tak_haifa_020222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/XKVodgrntX/App/nm_tak_haifa_020222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - רבע גמר גביע המדינה"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה",
+     "channels": [
+      {
+       "name": "חיפה מחכה ברבע: חדרה חגגה עם 0:3 על סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1159693.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/ct90FZTPPa/App/NM_TAK_HADERA_130121_new_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/ct90FZTPPa/App/NM_TAK_HADERA_130121_new_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה"
+      },
+      {
+       "name": "רקדה לרבע הגמר: 0:4 גדול למכבי חיפה על בית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1159298.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/MT42tEWeoN/App/NM_BEITAR_FULL_120122_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/MT42tEWeoN/App/NM_BEITAR_FULL_120122_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה"
+      },
+      {
+       "name": "בדקה ה-120: ב\"ש עלתה לרבע על חשבון נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1159300.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/LwmUk255S5/App/TAK_NATYA_BASH_GAVIA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/LwmUk255S5/App/TAK_NATYA_BASH_GAVIA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה"
+      },
+      {
+       "name": "אחרי 2:2 נהדר: מכבי ת\"א הדיחה את ק\"ש בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1159098.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/4n6DYhJ9IC/App/NM_KASH_MTA_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/4n6DYhJ9IC/App/NM_KASH_MTA_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה"
+      },
+      {
+       "name": "הפועל חיפה שרדה מותחן נגד אום אל פאחם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1159091.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/OjSt4VRnSA/App/NM_FAEHM_HHAIFA_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/OjSt4VRnSA/App/NM_FAEHM_HHAIFA_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה"
+      },
+      {
+       "name": "אוהבת את הגביע: 0:2 לבני יהודה על שעריים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1159000.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/JTFcw25BLi/App/NM_BNEY_SHAARAIM_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/JTFcw25BLi/App/NM_BNEY_SHAARAIM_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה"
+      },
+      {
+       "name": "יש סינדרלה: יפו ברבע אחרי פנדלים מול אדומים אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1159029.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/593Mkbhps2/App/NM_ASHDOD_YAFO_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/593Mkbhps2/App/NM_ASHDOD_YAFO_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה"
+      },
+      {
+       "name": "בתום הארכה: 2:3 למכבי פ\"ת על אחי נצרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1159021.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PhyGb9unBS/App/NM_AHY_MPAT_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PhyGb9unBS/App/NM_AHY_MPAT_110122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורגל - עונת 2021/2022 - עונת 2021/2022 - שמינית גמר גביע המדינה"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

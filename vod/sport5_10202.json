@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - מהלכי דני אבדיה",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10202",
+   "series_id": "10202",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1796752.jpg",
+   "plot": "",
+   "updated": "2026-10-31 02:44",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "אבדיה ובוזר כיכבו: ממפיס גברה על פורטלנד 103:124",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1796752.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MEMPOR_0146_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MEMPOR_0146_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=565645&p",
+       "season": ""
+      },
+      {
+       "name": "דני אבדיה נגד הלייקרס - מבחן רציני ראשון #מעקבדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1795765.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP754633_MAAKAVDIJA281026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP754633_MAAKAVDIJA281026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=56551",
+       "season": ""
+      },
+      {
+       "name": "דני אבדיה כיכב, פורטלנד נותרה מושלמת מול הלייקרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795699.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.c",
+       "season": ""
+      },
+      {
+       "name": "26 נק' לאבדיה בניצחון על סקרמנטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1793534.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AVDIJA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AVDIJA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=564888&poster=https:/",
+       "season": ""
+      },
+      {
+       "name": "דאבל דאבל לדני אבדיה ב-83:124 הענק על פיניקס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1792786.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsPhoenixSuns_179264431376/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsPhoenixSuns_179264431376/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      },
+      {
+       "name": "12 נק' לאבדיה: פורטלנד הפסידה לגולדן סטייט בניסוי כלים האחרון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1789844.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsGoldenStateWarriors_179221269134/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsGoldenStateWarriors_179221269134/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.",
+       "season": ""
+      },
+      {
+       "name": "מתחמם לעונה: 26 נק' לאבדיה בניצחון פורטלנד על סקרמנטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1788508.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsSacramentoKings_179195314005/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsSacramentoKings_179195314005/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.i",
+       "season": ""
+      },
+      {
+       "name": "אבדיה קלע 9 נקודות, פורטלנד מחצה את לונדון ליונס בהכנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1787972.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PORTLAND_DENNY_131026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/PORTLAND_DENNY_131026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=563537&pos",
+       "season": ""
+      },
+      {
+       "name": "סוף הדרך: דני אבדיה ופורטלנד הודחו ע\"י סן אנטוניו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1708246.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_POR_SAN_290426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_POR_SAN_290426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=542697&pos",
+       "season": ""
+      },
+      {
+       "name": "26 נק` לאבדיה: הפסד מאכזב לפורטלנד מול הספרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1707237.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_POR_SAN4_260426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_POR_SAN4_260426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=542414&po",
+       "season": ""
+      },
+      {
+       "name": "30 נק' בבכורה של דני בפלייאוף בהפסד לספרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1704544.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_spurs_g1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_spurs_g1/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=540838&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "היסטוריה! אבדיה קלע 41 נק' ועלה עם פורטלנד לפלייאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1702037.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PHX_POR_150426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PHX_POR_150426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=540186&pos",
+       "season": ""
+      },
+      {
+       "name": "26 נק', 8 ריב' ו-7 אס' לאבדיה בניצחון פורטלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1694104.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_pelicas_april26/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_pelicas_april26/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=539101&po",
+       "season": ""
+      },
+      {
+       "name": "חג שמח: אבדיה כיכב בניצחון 104:114 על הקליפרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1693652.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLAClippers_177502285212/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLAClippers_177502285212/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc",
+       "season": ""
+      },
+      {
+       "name": "20 נקודות לאבדיה בהפסד פורטלנד לדאלאס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1692397.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/AvdijaMAVS1_177467550235/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/AvdijaMAVS1_177467550235/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=538510&",
+       "season": ""
+      },
+      {
+       "name": "שוב בלט: 18 נק` לדני אבדיה מול מילווקי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1691599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsMilwaukeeBucks_1_177450245797/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsMilwaukeeBucks_1_177450245797/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.",
+       "season": ""
+      },
+      {
+       "name": "אבדיה הוביל את פורטלנד נגד הקליפרס בדרך למקום השמיני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1689878.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPointsAssistsvsMinnesotaTimberwolves_177406720612/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPointsAssistsvsMinnesotaTimberwolves_177406720612/HLS/playlist.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "אולסטאר: משחק מצוין לדני בניצחון על אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1689172.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsIndianaPacers_177389506476/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsIndianaPacers_177389506476/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/",
+       "season": ""
+      },
+      {
+       "name": "18 נק' ו-6 ריב' לאבדיה מול ברוקלין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1688092.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AVDIJA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AVDIJA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=537485&poster=https:/",
+       "season": ""
+      },
+      {
+       "name": "היסטוריה בכחול לבן: פורטלנד של אבדיה ניצחה את ברוקלין של וולף ושרף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1688119.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_POR_BKN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_POR_BKN/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=537447&poster=https:",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - כתבות מתוך חדשות הספורט",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "9887",
+   "series_id": "9887",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1795536.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:01",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "חולמים בגדול: דני אבדיה ופורטלנד מעלים את רף הציפיות אחרי פתיחה נהדרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1795536.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_PORTLAND1_179312012758/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_PORTLAND1_179312012758/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=56542",
+       "season": ""
+      },
+      {
+       "name": "רוח חדשה בפורטלנד: אבדיה, לילארד ומוראנט סיפקו הצהרת כוונות עם ניצחון מוחץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1794326.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_PORTLAND/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_PORTLAND/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=565135&poster=https",
+       "season": ""
+      },
+      {
+       "name": "כבר לא רוקי:בן שרף פותח עונה שנייה ב-NBA",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1794324.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_SARAF/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_SARAF/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=565139&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "עונת ה-NBA נפתחה בסערה: לברון ופילדלפיה רשמו ניצחון גדול על הניקס בערב חלוקת הטבעת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1794322.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_MODAI_KNICKS1_179291875749/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_MODAI_KNICKS1_179291875749/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=5",
+       "season": ""
+      },
+      {
+       "name": "הפרשה נמשכת: אנשי עירוני טבריה הופיעו לדיון בנוגע להארכת מעצר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1794308.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_TVERIA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_TVERIA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=565137&poster=https:/",
+       "season": ""
+      },
+      {
+       "name": "המחזור השמיני בפתח:",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1794316.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_KATAVIM/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_KATAVIM/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=565136&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "בצל ההפגנות בצרפת: יונתן כהן מתכוננן למשחק הגדול בליגת האלופות | פ.ס.ז' - ברצלונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1794320.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/YONA_KATAVA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/YONA_KATAVA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=565134&poster=https:/",
+       "season": ""
+      },
+      {
+       "name": "הקרע בקהילה האדומה: הערב שחשף את הדיסוננס הגדול בהפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1791611.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_HAPOEL_URI_191026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_HAPOEL_URI_191026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=564457&pos",
+       "season": ""
+      },
+      {
+       "name": "מתכוננים לבחירות 2026 עם איתי שכטר והמועמדים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1791156.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_BCHIROT_181026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_BCHIROT_181026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=564342&poster",
+       "season": ""
+      },
+      {
+       "name": "שרק ימשיך להרוס לנו את שעות השינה: אבדיה התארח בפודסקאסט של דריימונד גרין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1788183.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_DENNY_PODCAST_GREEN_121026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_DENNY_PODCAST_GREEN_121026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26V",
+       "season": ""
+      },
+      {
+       "name": "זמן לפרוח: סיפור הסינדרלה של נדים וראסנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1788603.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_WARASNA_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_WARASNA_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563783&pos",
+       "season": ""
+      },
+      {
+       "name": "ראיון בלעדי עם ג'ייסון לוין, מבעלי מכבי ת''א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1788601.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_LEVIN_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_LEVIN_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563781&poste",
+       "season": ""
+      },
+      {
+       "name": "חוזרים מהפגרה: הכתבים של ערוץ הספורט מכינים אתכם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1788595.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_KATAVIM_081026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_KATAVIM_081026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563779&pos",
+       "season": ""
+      },
+      {
+       "name": "שנייה בעולם: כרם פרימו זכתה במדליית כסף באליפות בבאקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1788593.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_PRIMO_081026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_PRIMO_081026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563778&poste",
+       "season": ""
+      },
+      {
+       "name": "פוצ'י-גיבורים: טורניר הפוצ'יוולי המיוחד להנצחת הנופלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1785625.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_FOCHIVOLLY_071026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_FOCHIVOLLY_071026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563027&",
+       "season": ""
+      },
+      {
+       "name": "משפחת קוץ לנצח: 3 שנים לשבעה באוקטובר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1785627.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_KOTZ_071026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_KOTZ_071026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563026&poster",
+       "season": ""
+      },
+      {
+       "name": "קריירה הוליוודית: מסי נפרד מהנבחרת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1785629.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_MESSI_071026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_MESSI_071026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563025&poste",
+       "season": ""
+      },
+      {
+       "name": "שלוש שנים לשבת השחורה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1785623.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_TEKES_071026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_TEKES_071026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563024&poste",
+       "season": ""
+      },
+      {
+       "name": "לקום מהמשבר: בני הנוער ששבו לעשות ספורט בעוטף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1784940.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_OTEF_051026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_OTEF_051026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=562831&poster",
+       "season": ""
+      },
+      {
+       "name": "\"נמשיך בדרכנו\": יו'ר ההתאחדות שינו זוארץ לאחר החלון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1784935.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_SHINO_051026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_SHINO_051026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=562830&poste",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

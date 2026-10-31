@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - UFC",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "9857",
+   "series_id": "9857",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1213503.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:08",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "כבר לא רק האח של: הכירו את מוחמד אוסמן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1213503.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/usman_knockout/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/usman_knockout/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9857%26Vi=410725&poster=http",
+       "season": ""
+      },
+      {
+       "name": "מחווה לאנדרטייקר: הכניסה של אדסניה לקרב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1205689.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/adesanya_undertaker/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/adesanya_undertaker/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9857%26Vi=407789&poster",
+       "season": ""
+      },
+      {
+       "name": "על הבמה הגדולה: ניצחון ראשון לנתן לוי ב-UFC",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1190082.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/L2zK5iRfgM/App/NATHAN_LEVY_UFC_1ST_WIN_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/L2zK5iRfgM/App/NATHAN_LEVY_UFC_1ST_WIN_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https:/",
+       "season": ""
+      },
+      {
+       "name": "בבעיטה מסובבת: הנוק אאוט של בהאמונדס | UFC",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1122361.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Lw9imz2bIZ/App/ufc_Ignacio_Bahamondes_Knocks_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Lw9imz2bIZ/App/ufc_Ignacio_Bahamondes_Knocks_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=h",
+       "season": ""
+      },
+      {
+       "name": "מחצ'ב ניצח בחניקה את מויסס בקרב המרכזי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1112962.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/gMUGtGUdj7/App/UFC_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/gMUGtGUdj7/App/UFC_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/?",
+       "season": ""
+      },
+      {
+       "name": "בסיבוב ה-1: פורייה גבר על מקגרגור ששבר את רגלו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1111513.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/09mNJVjYBT/App/MCGREGOR_PORIER_110721_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV11/09mNJVjYBT/App/MCGREGOR_PORIER_110721_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https:/",
+       "season": ""
+      },
+      {
+       "name": "הלך על הרגל: השיטה בה פורייה הכניע את קונור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1069581.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/dSAhfx0aEO/App/PORIER_6_KICKS_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/dSAhfx0aEO/App/PORIER_6_KICKS_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spor",
+       "season": ""
+      },
+      {
+       "name": "פורייה הדהים בנוקאאוט את מקגרגור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1069232.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/0kdsZcKU7c/App/poirier_vs_conor_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/0kdsZcKU7c/App/poirier_vs_conor_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sp",
+       "season": ""
+      },
+      {
+       "name": "עובר בגנים: בן דודו של חאביב ניצח בבכורה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1068450.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/nmHfYwIXz6/App/UmarNurmagomedov_161116419388_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/nmHfYwIXz6/App/UmarNurmagomedov_161116419388_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=h",
+       "season": ""
+      },
+      {
+       "name": "הקרב שסידר לנתן לוי חוזה ב-UFC",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1052141.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/SflXsfdzBw/App/natanlevy_160506973685_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/SflXsfdzBw/App/natanlevy_160506973685_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://",
+       "season": ""
+      },
+      {
+       "name": "UFC: יאנז גנב את ההצגה עם נוקאאוט מהאגדות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1049593.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/ek5cjkEZJI/App/yanez_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/ek5cjkEZJI/App/yanez_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.co.il/",
+       "season": ""
+      },
+      {
+       "name": "נפרד בדמעות: חאביב הכניע את ג'ייצ'י ופרש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1047865.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/xQQ27FvbTA/App/NM_TAK_UFC_NURMAGOMADOV_241020_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/xQQ27FvbTA/App/NM_TAK_UFC_NURMAGOMADOV_241020_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=",
+       "season": ""
+      },
+      {
+       "name": "UFC: אורטגה חזר והביס את \"הזומבי\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1046567.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/5xM1sACjl8/App/ortega_ufc_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/5xM1sACjl8/App/ortega_ufc_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.c",
+       "season": ""
+      },
+      {
+       "name": "בעיטה מסובבת באוויר: נוק-אאוט משוגע ב-UFC",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1045121.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PiMU6pdtne/App/ImpaKasanganayvsJoaquinBuckley-FightHighlights_160239368052_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PiMU6pdtne/App/ImpaKasanganayvsJoaquinBuckley-FightHighlights_160239368052_,400,700,1100,1800,.mp4.csmil/mas",
+       "season": ""
+      },
+      {
+       "name": "בלי רחמים: אוברים ניצח את סקאי בקרב המרכזי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1038322.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV/R69j6Wwwgo/App/tak_oberim_ufc_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV/R69j6Wwwgo/App/tak_oberim_ufc_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport",
+       "season": ""
+      },
+      {
+       "name": "כיבוי אורות: האגרוף שסיפק את הנוק-אאוט של השנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1018268.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PRR0lCTNDG/App/ufc_ko_wow_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PRR0lCTNDG/App/ufc_ko_wow_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport5.c",
+       "season": ""
+      },
+      {
+       "name": "אף אחת לא יכולה עליה: נונייז שוב זכתה בחגורה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1018265.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Gf7NZytEIY/App/tak_ufc_nunez_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/Gf7NZytEIY/App/tak_ufc_nunez_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.sport",
+       "season": ""
+      },
+      {
+       "name": "הוק שוט: טישיירה הפיל את סמית' בסיבוב ה-5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1013990.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/enpBPkRV3S/App/smithglover_158943247477_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/enpBPkRV3S/App/smithglover_158943247477_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https:",
+       "season": ""
+      },
+      {
+       "name": "חודש לפני הקרב: חאביב ופרגוסון בטראש טוק חריף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1003108.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/s9y6xzoUb1/App/ferguson_khabib_new_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/s9y6xzoUb1/App/ferguson_khabib_new_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod",
+       "season": ""
+      },
+      {
+       "name": "קרב ענקים: הוקר ניצח את פלדר בניו זילנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/999980.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/BZZ5ECtQgu/App/NM_VTR_UFC_MAINFIGHT_230220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/BZZ5ECtQgu/App/NM_VTR_UFC_MAINFIGHT_230220_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=htt",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

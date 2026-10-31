@@ -1,0 +1,151 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - אגדה מקומית",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11886",
+   "series_id": "11886",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1547610.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:07",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "אגדה מקומית - שלמה שרף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1547610.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676773/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676773/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504578&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - ארטיום דולגופיאט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1547615.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676786/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676786/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504591&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - יעל ארד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1547238.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676785/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676785/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504590&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - איציק ויסוקר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1549556.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676784/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676784/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504589&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - אורנה אוסטפלד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1547240.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676783/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676783/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504588&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - עודד מכנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1547242.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676782/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676782/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504587&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - אברהם קליין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1547244.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676781/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676781/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504586&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - בועז ינאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1547246.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676780/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676780/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504585&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - יוסי מזרחי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1547248.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676779/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676779/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504584&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - שלומית ניר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1547249.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676778/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676778/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504583&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - אריק זאבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1547251.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676777/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676777/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504582&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - אריה מליניאק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1547253.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676776/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676776/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504581&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אגדה מקומית - שמעון אמסלם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1547255.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676775/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP676775/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11886%26Vi=504580&poster=https://",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

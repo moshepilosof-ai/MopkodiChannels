@@ -1,0 +1,1246 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - גביע המדינה בכדורסל",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "3792",
+   "series_id": "3792",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1677916.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:04",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "בפעם ה-47:  מכבי ת\"א זכתה בגביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1677916.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CUP_FINAL_190226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CUP_FINAL_190226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12162%26Vi=535044&post",
+       "season": ""
+      },
+      {
+       "name": "מכבי ת\"א בגמר אחרי 85:94 על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1675975.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_SAL_150226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_SAL_150226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12162%26Vi=534647&p",
+       "season": ""
+      },
+      {
+       "name": "בתום משחק התקפי חריג: בני הרצליה עלתה לחצי גמר גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1669619.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_020226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_020226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12162%26Vi=533283&po",
+       "season": ""
+      },
+      {
+       "name": "לראשונה בתולדותיה: הפועל העמק בחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1669001.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAEMEK_010226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAEMEK_010226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12162%26Vi=533125&post",
+       "season": ""
+      },
+      {
+       "name": "מכבי ת\"א הביסה את אתא ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1669155.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_010226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_010226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12162%26Vi=533123&poster",
+       "season": ""
+      },
+      {
+       "name": "גדולה עליה: הפועל י-ם גברה על הפועל ת\"א ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1668415.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_310126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_310126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12162%26Vi=532966&pos",
+       "season": ""
+      },
+      {
+       "name": "בפעם ה-46: מכבי ת\"א מחזיקת גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1514179.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_MTA_GMAR_130225_BLI_HANAFA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_MTA_GMAR_130225_BLI_HANAFA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11796",
+       "season": ""
+      },
+      {
+       "name": "דרבי משוגע: מכבי גברה על הפועל בתום דרמה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1512728.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_SAL_100225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_SAL_100225/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11796%26Vi=496989&",
+       "season": ""
+      },
+      {
+       "name": "בתום דרמה אדירה: הפועל י-ם עלתה לגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1512097.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JERUSALEM_090225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JERUSALEM_090225/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11796%26Vi=496951&p",
+       "season": ""
+      },
+      {
+       "name": "מכבי ת\"א גברה על נס ציונה בדרך לחצי הגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1501932.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTASAL_200125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTASAL_200125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11796%26Vi=494847&post",
+       "season": ""
+      },
+      {
+       "name": "טיול וחצי: 50:86 להפועל ת\"א על מכבי ר\"ג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1501516.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_190125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_190125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11796%26Vi=494730&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "הלך קשה: ירושלים גברה 96:99 על ב\"ש ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1501403.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_190125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_190125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11796%26Vi=494729&po",
+       "season": ""
+      },
+      {
+       "name": "העולה הראשונה: הרצליה גברה על חולון ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1500907.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_180125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_180125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11796%26Vi=494585&poster=h",
+       "season": ""
+      },
+      {
+       "name": "הפועל י-ם זכתה בגביע המדינה לאחר ניצחון על מכבי ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1393469.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_GAVIA_SAL_HANAFA_160524/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_GAVIA_SAL_HANAFA_160524/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11567%26Vi",
+       "season": ""
+      },
+      {
+       "name": "הגמר מתקרב: מכבי ת\"א הביסה את קריית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1391305.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_100524/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_100524/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11567%26Vi=469783&pos",
+       "season": ""
+      },
+      {
+       "name": "שלשה גדולה לזוסמן, הפועל י-ם בגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1391086.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_BASH_SAL_090524/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_BASH_SAL_090524/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11567%26Vi=469707&p",
+       "season": ""
+      },
+      {
+       "name": "המומנטום נמשך: מכבי ת\"א הביסה 72:104 את ר\"ג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1376370.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_GAVIA_010424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_GAVIA_010424/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11567%26Vi=466116&",
+       "season": ""
+      },
+      {
+       "name": "לראשונה אי פעם: קרית אתא בחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1375906.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATA_SAL_310324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATA_SAL_310324/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11567%26Vi=465995&poster",
+       "season": ""
+      },
+      {
+       "name": "קבוצת גביע: י-ם גברה על הפועל ת\"א ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1375786.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_310324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_310324/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11567%26Vi=465994&poster",
+       "season": ""
+      },
+      {
+       "name": "הפתעה בגביע: ב\"ש/דימונה הדיחה את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1375442.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_GAVIA_300324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_GAVIA_300324/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11567%26Vi=46589",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2025/26",
+     "channels": [
+      {
+       "name": "בפעם ה-47:  מכבי ת\"א זכתה בגביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1677916.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CUP_FINAL_190226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CUP_FINAL_190226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2025/26"
+      },
+      {
+       "name": "מכבי ת\"א בגמר אחרי 85:94 על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1675975.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_SAL_150226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GAVIA_SAL_150226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2025/26"
+      },
+      {
+       "name": "בתום משחק התקפי חריג: בני הרצליה עלתה לחצי גמר גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1669619.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_020226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_020226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2025/26"
+      },
+      {
+       "name": "לראשונה בתולדותיה: הפועל העמק בחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1669001.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAEMEK_010226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAEMEK_010226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2025/26"
+      },
+      {
+       "name": "מכבי ת\"א הביסה את אתא ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1669155.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_010226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_010226/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2025/26"
+      },
+      {
+       "name": "גדולה עליה: הפועל י-ם גברה על הפועל ת\"א ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1668415.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_310126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_310126/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2025/26"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2024/25",
+     "channels": [
+      {
+       "name": "בפעם ה-46: מכבי ת\"א מחזיקת גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1514179.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_MTA_GMAR_130225_BLI_HANAFA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_MTA_GMAR_130225_BLI_HANAFA/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2024/25"
+      },
+      {
+       "name": "דרבי משוגע: מכבי גברה על הפועל בתום דרמה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1512728.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_SAL_100225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_SAL_100225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2024/25"
+      },
+      {
+       "name": "בתום דרמה אדירה: הפועל י-ם עלתה לגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1512097.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JERUSALEM_090225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JERUSALEM_090225/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2024/25"
+      },
+      {
+       "name": "מכבי ת\"א גברה על נס ציונה בדרך לחצי הגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1501932.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTASAL_200125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTASAL_200125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2024/25"
+      },
+      {
+       "name": "טיול וחצי: 50:86 להפועל ת\"א על מכבי ר\"ג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1501516.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_190125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_190125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2024/25"
+      },
+      {
+       "name": "הלך קשה: ירושלים גברה 96:99 על ב\"ש ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1501403.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_190125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_SAL_190125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2024/25"
+      },
+      {
+       "name": "העולה הראשונה: הרצליה גברה על חולון ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1500907.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_180125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_180125/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2024/25"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2023/24",
+     "channels": [
+      {
+       "name": "הפועל י-ם זכתה בגביע המדינה לאחר ניצחון על מכבי ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1393469.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_GAVIA_SAL_HANAFA_160524/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_GAVIA_SAL_HANAFA_160524/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "הגמר מתקרב: מכבי ת\"א הביסה את קריית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1391305.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_100524/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_100524/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "שלשה גדולה לזוסמן, הפועל י-ם בגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1391086.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_BASH_SAL_090524/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_BASH_SAL_090524/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "המומנטום נמשך: מכבי ת\"א הביסה 72:104 את ר\"ג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1376370.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_GAVIA_010424/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_GAVIA_010424/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "לראשונה אי פעם: קרית אתא בחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1375906.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATA_SAL_310324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATA_SAL_310324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "קבוצת גביע: י-ם גברה על הפועל ת\"א ועלתה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1375786.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_310324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_310324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "הפתעה בגביע: ב\"ש/דימונה הדיחה את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1375442.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_GAVIA_300324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_GAVIA_300324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "חזרה מפיגור דו-ספרתי: ירושלים ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1374592.jpg",
+       "url": "https://www.sport5.co.il/articles.aspx?FolderID=415&docID=465639",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://www.sport5.co.il/articles.aspx?FolderID=415&docID=465639",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "נקמה מתוקה: הפועל חולון ברבע גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1374594.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_270324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_270324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "מיינסי ושגב כיכבו, נס ציונה ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1374596.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NESS_AFULA_270324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NESS_AFULA_270324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "קרית אתא טיילה בדרך לרבע הגמר נגד אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1374604.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ATA_270324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ATA_270324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      },
+      {
+       "name": "ניצחון אדיר לב\"ש על הרצליה בדרך לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1374600.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERTZLIA_270324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HERTZLIA_270324/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2023/24"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2022/23",
+     "channels": [
+      {
+       "name": "קלאסיקו וגביע אדום: י-ם ניצחה את מכבי ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1267680.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_HANAFA_NEW_160223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_HANAFA_NEW_160223/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2022/23"
+      },
+      {
+       "name": "בראון חזר והצטיין, מכבי ת\"א בגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1266704.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_NESS_SAL_130223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_NESS_SAL_130223/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2022/23"
+      },
+      {
+       "name": "ירושלים בגמר אחרי קאמבק גדול ברבע האחרון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1266791.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_GAVIA_130222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_GAVIA_130222/HLS/playlist.m3u8",
+       "season": "גביע המדינה בכדורסל - 2022/23"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2021/22",
+     "channels": [
+      {
+       "name": "אחר 27 שנים: בני הרצליה מחזיקת גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1169399.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/8B8Vj4y2il/App/NM_TAK_GMAR_GAVIA_SAL_170222_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/8B8Vj4y2il/App/NM_TAK_GMAR_GAVIA_SAL_170222_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2021/22"
+      },
+      {
+       "name": "העיר אדומה: הפועל גברה על מכבי והעפילה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1168547.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/1GidSevTLR/App/NM_DERBI_SAL_140222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/1GidSevTLR/App/NM_DERBI_SAL_140222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2021/22"
+      },
+      {
+       "name": "הצגה בדרך לגמר: 63:83 לבני הרצליה על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1168096.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/rUJcNUUFme/App/NM_HOLON_HERZ_130222_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/rUJcNUUFme/App/NM_HOLON_HERZ_130222_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2021/22"
+      },
+      {
+       "name": "בכל החזיתות: הפועל ת\"א הביסה את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1165855.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/erT7NtZLt9/App/NM_VTR_HTA_JER_050222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/erT7NtZLt9/App/NM_VTR_HTA_JER_050222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2021/22"
+      },
+      {
+       "name": "באב ודוסון כיכבו, הרצליה בחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1165324.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/RLI6jFrI1X/App/NM_VTR_NESS_030222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/RLI6jFrI1X/App/NM_VTR_NESS_030222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2021/22"
+      },
+      {
+       "name": "אחרי 2 הארכות: הפועל חולון עלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1160501.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/K0Zhhx6NLB/App/NM_VTR_HOLON_HHAIFA_160122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/K0Zhhx6NLB/App/NM_VTR_HOLON_HHAIFA_160122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2021/22"
+      },
+      {
+       "name": "ההצגה הגדולה של אונואקו מול הפועל ת\"א בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1239614.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/8B8Vj4y2il/App/NM_TAK_GMAR_GAVIA_SAL_170222_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/8B8Vj4y2il/App/NM_TAK_GMAR_GAVIA_SAL_170222_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2021/22"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2020/21",
+     "channels": [
+      {
+       "name": "מכבי ת\"א גברה על ראשל\"צ וזכתה בגביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1100663.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/1uGjxbJcaa/App/GMAR_GAVIA_HANAFA_270521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/1uGjxbJcaa/App/GMAR_GAVIA_HANAFA_270521_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "נדיר: מכבי מחקה פיגור 17 מול חולון בדרך לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1073978.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/kXLiBpuvZn/App/TAK_MACABI_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/kXLiBpuvZn/App/TAK_MACABI_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "תהיה מחזיקה חדשה: ראשל\"צ גברה על י-ם בחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1073911.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/ePv9uKrLs6/App/tak_jer_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/ePv9uKrLs6/App/tak_jer_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "ירושלים בחצי הגמר אחרי 65:80 על גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1065142.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/BBPZJJIiLq/App/NM_GLIBOA_JER_SAL_040121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/BBPZJJIiLq/App/NM_GLIBOA_JER_SAL_040121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "ז'יז'יץ' כיכב עם 26, מכבי ניצחה את הפועל בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1064901.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/bLdYHQN6TD/App/NM_MTA_HTA_SAL_030120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/bLdYHQN6TD/App/NM_MTA_HTA_SAL_030120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "ראשל\"צ גברה על נ\"צ והבטיחה מקום בחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1064828.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/qQZ8MZHiRJ/App/NM_TAK_NESS_TZIEONA_SAL_030121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/qQZ8MZHiRJ/App/NM_TAK_NESS_TZIEONA_SAL_030121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "בלי תקלות: חולון בחצי הגמר ע\"ח מכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1064624.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/m04QwY7H6Y/App/NM_TAK_HAIFA_HOLON_020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/m04QwY7H6Y/App/NM_TAK_HAIFA_HOLON_020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "ווילבקין סחף את מכבי ת\"א לרבע גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1059954.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/DptCEdjjqQ/App/NM_VTR_MACCABI_SAL_131220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/DptCEdjjqQ/App/NM_VTR_MACCABI_SAL_131220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "הלך קשה: מכבי ת\"א ניצלה מהדחה באשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1051890.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/7pWjE6pj2r/App/NM_VTR_TAK_MACCABI_SAL_091120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/7pWjE6pj2r/App/NM_VTR_TAK_MACCABI_SAL_091120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      },
+      {
+       "name": "דרמת גביע: הפועל ת\"א שרדה מותחן מול ר\"ג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1050946.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/6eR6A0XTKT/App/NM_TAK_RAG_HTA_051120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/6eR6A0XTKT/App/NM_TAK_RAG_HTA_051120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2020/21"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2019/20",
+     "channels": [
+      {
+       "name": "שוב שלה: ירושלים זכתה בגביע בתום גמר אדיר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/997582.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/f8zZiFk6Wu/App/NM_TAK_GMAR_JER_NAHARYA_HANAFA_130220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/f8zZiFk6Wu/App/NM_TAK_GMAR_JER_NAHARYA_HANAFA_130220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2019/20"
+      },
+      {
+       "name": "במעמד צד אחד: י-ם הביסה את ראשל\"צ ועלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/996872.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/j0qyHlxahA/App/NM_VTR_TAK_RISHON_JER_100220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/j0qyHlxahA/App/NM_VTR_TAK_RISHON_JER_100220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2019/20"
+      },
+      {
+       "name": "היסטוריה: נהריה בגמר אחרי 86:91 על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/996794.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/kuos0F0ARE/App/NM_VTR_TAK_NES_100220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/kuos0F0ARE/App/NM_VTR_TAK_NES_100220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2019/20"
+      },
+      {
+       "name": "לב של מחזיקה: י-ם הדיחה את מכבי ת\"א בהיכל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/976299.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/0rbr9HsXWc/App/NM_VTR_MTA_JER_251119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/0rbr9HsXWc/App/NM_VTR_MTA_JER_251119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2019/20"
+      },
+      {
+       "name": "הפתעה בגביע: בני הרצליה הדיחה את מכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/973065.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8EQSgqaYPE/App/NM_BNEY_HAIFA_1111_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8EQSgqaYPE/App/NM_BNEY_HAIFA_1111_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2019/20"
+      },
+      {
+       "name": "נס ציונה ברבע הגמר אחרי 69:81 על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/972839.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/UieB9i2wNf/App/NM_TAK_NESS_TZIONA_101119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/UieB9i2wNf/App/NM_TAK_NESS_TZIONA_101119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2019/20"
+      },
+      {
+       "name": "בתום דרמה: 80:82 לראשל\"צ על אליצור יבנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/972834.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/6RYhBQjzk8/App/NM_TAK_YAVNE_101119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/6RYhBQjzk8/App/NM_TAK_YAVNE_101119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2019/20"
+      },
+      {
+       "name": "מכבי ת\"א ברבע הגמר עם 76:97 על אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/972715.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7IrnYEVSjg/App/NM_VTR_TAK_EILAT_MACCABI_101119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7IrnYEVSjg/App/NM_VTR_TAK_EILAT_MACCABI_101119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2019/20"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2018/19",
+     "channels": [
+      {
+       "name": "שוב שלה: ירושלים מחזיקת הגביע בפעם ה-5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/910294.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/34/c3/34c39a0c-991f-42b7-83b5-6129e4e5f650/140220192311_nm_vtr_gmar gavia_hanafa_sal140219_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האדומים מהבירה החזירו את התואר אחרי 11 שנה בזכות 67:82 גדול על ראשל\"צ בגמר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/34/c3/34c39a0c-991f-42b7-83b5-6129e4e5f650/140220192311_nm_vtr_gmar gavia_hanafa_sal140219_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "ראשל\"צ ניצחה את הפועל ת\"א בדרך לגמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/908488.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/22/cc/22cc07fa-d3d8-4513-8802-a2c5ffc386fe/110220192008_nm_tak_hapoel_110219_,160,110,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סימפסון והמילטון בלטו, הכתומים יקבלו הזדמנות נוספת לזכות בתואר אחרי 2 הפסדים במעמד הגמר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/22/cc/22cc07fa-d3d8-4513-8802-a2c5ffc386fe/110220192008_nm_tak_hapoel_110219_,160,110,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "סנסציה: מכבי ת\"א הודחה כבר ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/896959.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5e/8f/5e8f2482-f4b2-4abd-8bfc-a2acafd59b44/301220182311_nm_vtr_tak_rishon_vs_maccabi_301218_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לאחר תשע הופעות רצופות בגמר, הצהובים ספגו 88:77 מראשל\"צ. ווילבקין הורחק",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5e/8f/5e8f2482-f4b2-4abd-8bfc-a2acafd59b44/301220182311_nm_vtr_tak_rishon_vs_maccabi_301218_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "גלבוע חזרה מפיגור דו ספרתי, אך נכנעה לי-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/896905.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e0/75/e0756d00-612f-450a-b12d-a85ca9886212/301220182109_nm_vtr_tak_gilboa_vs_jer_301218_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "המארחת כבר חזרה מפיגור של 14 נק', אך חניכיו של קטש התעשתו ברבע ה-4 וניצחו 83:89 בגן נר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e0/75/e0756d00-612f-450a-b12d-a85ca9886212/301220182109_nm_vtr_tak_gilboa_vs_jer_301218_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "חולון דרסה את אילת ועלתה לחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/896663.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3a/6a/3a6aeec4-9f38-49db-8507-b61061547965/301220180012_nm_vtr_tak_eilat_vs_holon_291218_,160,80,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הסגולים התעללו בחניכיו של דרוקר ב-71:97 באולם בגין. 19 לשון ג'ונס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3a/6a/3a6aeec4-9f38-49db-8507-b61061547965/301220180012_nm_vtr_tak_eilat_vs_holon_291218_,160,80,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "בתום מותחן אדיר: הפועל ת\"א גברה על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/896649.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/1b/ee/1beedf20-80fc-452e-8b66-fb7a65ddd299/291220182311_nm_vtr_tak_bash_vs_hapoel_sal_291218_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שלשה של גרשוני כפתה הארכה, אך ברון החטיא עם הבאזר ב-94:95 ושלח את פרנקו לחצי הגמר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/1b/ee/1beedf20-80fc-452e-8b66-fb7a65ddd299/291220182311_nm_vtr_tak_bash_vs_hapoel_sal_291218_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "תצא לדרך חדשה? הפועל ת\"א דרסה את אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/894656.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/af/c6/afc6b681-e865-48fe-984d-d770b2d2af60/251220182210_nm_vtr_tak_ashdod_hapoel_sal_gavia_new_251218_,1600k,1100k,800k,550k,350k,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האדומים דרסו את חניכיו האומללים של גרינברג 73:101 ויפגשו ברבע הגמר את ב\"ש",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/af/c6/afc6b681-e865-48fe-984d-d770b2d2af60/251220182210_nm_vtr_tak_ashdod_hapoel_sal_gavia_new_251218_,1600k,1100k,800k,550k,350k,.mp4.csmil/master.m",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "סימפסון הרשים בבכורה, ראשל\"צ דילגה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/894432.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6b/f2/6bf23926-7520-4304-997f-8e7e5f4a6503/241220182210_nm_tak_rishon_241218_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "66:98 לכתומים על נהריה., הרכש החדש סיים עם 15 נק'",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6b/f2/6bf23926-7520-4304-997f-8e7e5f4a6503/241220182210_nm_tak_rishon_241218_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "סוויינג להט עם 31 נק', ב\"ש הדיחה את נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/894269.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f8/a7/f8a7cb09-fefb-4a67-942b-1e38075f9a46/231220182311_nm_vtr_tak_bash_sal_new_231218_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה של רמי הדר עשתה צעד נוסף לשחזור חצי הגמר בעונה שעברה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f8/a7/f8a7cb09-fefb-4a67-942b-1e38075f9a46/231220182311_nm_vtr_tak_bash_sal_new_231218_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      },
+      {
+       "name": "גם בגביע: אילת הרשימה עם 86:97 בהרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/894245.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/66/cd/66cddb8f-7568-4fdf-8341-1f22aa3584db/231220182210_nm_vtr_hertzelya_231218_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה של דרוקר המשיכה במוממנטום המצויין והבטיחה מקום ברבע הגמר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/66/cd/66cddb8f-7568-4fdf-8341-1f22aa3584db/231220182210_nm_vtr_hertzelya_231218_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2018/19"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2017/18",
+     "channels": [
+      {
+       "name": "בתום מותחן אדיר: חולון זכתה בגביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/787087.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d2/88/d2886e15-cbcc-4ced-af95-9bf977e6a98e/160220180101_nm_vtr_gavia_sal_new_2_150218_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סל ניצחון ענק של גלן רייס ג'וניור העניק 84:86 לסגולים, שזכו בגביע השני בתולדותיהם",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d2/88/d2886e15-cbcc-4ced-af95-9bf977e6a98e/160220180101_nm_vtr_gavia_sal_new_2_150218_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2017/18"
+      },
+      {
+       "name": "הצגה של רייס, חולון הדיחה את ירושלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/786298.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3d/97/3d97d752-1557-41da-becd-a64cbd4e1463/120220182311_nm_tak_jer_holon_120218_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "תצוגה נפלאה של גלן רייס ג'וניור שלחה את חולון למפגש מול מכבי ת\"א בגמר הגביע",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3d/97/3d97d752-1557-41da-becd-a64cbd4e1463/120220182311_nm_tak_jer_holon_120218_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2017/18"
+      },
+      {
+       "name": "בתום מותחן: מכבי ת\"א בגמר, 73:76 על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/786228.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/81/fd/81fde19c-1325-4337-8892-3a2a4344d6cd/120220182008_nm_tak_maccabi_ashdod_120218_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בתום משחק רותח ומלא בעצבים מכבי ת\"א העפילה לגמר הגביע אחרי ניצחון דחוק על אשדוד. ספאחיה קילל והורחק",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/81/fd/81fde19c-1325-4337-8892-3a2a4344d6cd/120220182008_nm_tak_maccabi_ashdod_120218_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2017/18"
+      },
+      {
+       "name": "מכבי ת\"א בחצי הגמר אחרי ניצחון בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/769671.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5f/fb/5ffb52a3-c437-4cd6-93d7-8123b7a1a290/311220172311_nm_tak_maccabi_hapoel_311217_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצהובים לא התקשו לגבור על היריבה העירונית בדרך לשלב הבא. 5 שחקנים של מכבי קלעו בספרות כפולות",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5f/fb/5ffb52a3-c437-4cd6-93d7-8123b7a1a290/311220172311_nm_tak_maccabi_hapoel_311217_,55,160,35,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2017/18"
+      },
+      {
+       "name": "י-ם בחצי הגמר עם 62:79 בב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/769626.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/71/74/71749789-151c-4b18-ad9d-6cb2041045dd/311220172109_nm_tak_jer_bash_311217_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הירושלמים לא התקשו מול היריבה מהלאומית והעפילה לשלב הבא אחרי 62:79 על ב\"ש. 17 נק' לדייסון, 16 נק' לרוברטס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/71/74/71749789-151c-4b18-ad9d-6cb2041045dd/311220172109_nm_tak_jer_bash_311217_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2017/18"
+      },
+      {
+       "name": "עפולה באקספרס: הפועל ת\"א טיילה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/745447.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/94/40/9440d44c-5016-4b18-847c-c1eb948f9faf/181020172109_nm_tak_hapoel_afula_181017_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האדומים לא התקשתה מול הקבוצה מליגת המשנה ורשמה ניצחון קליל. גינת קלע 18 למנצחת",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/94/40/9440d44c-5016-4b18-847c-c1eb948f9faf/181020172109_nm_tak_hapoel_afula_181017_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2017/18"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2016/17",
+     "channels": [
+      {
+       "name": "לא עוצרת: חולון העפילה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/672552.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/07/33/0733c3f7-47fa-4d6b-84a3-b463fad8d22e/030120172109_nm_vtr_tak_bash_sal_holon_030117_,160,80,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "חניכיו של שמיר המשיכו את להרשים ב-80:88 מול באר שבע. ווייאט להט עם 29 נקודות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/07/33/0733c3f7-47fa-4d6b-84a3-b463fad8d22e/030120172109_nm_vtr_tak_bash_sal_holon_030117_,160,80,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "הדאנק שעשה פוסטר למצעד שלם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/672719.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/91/4c/914c842c-1de8-43a9-866f-97ae636bee7e/040120171212_nm_vtr_top10_gavia_sal_040117_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "קינזי התעלל בלאומי, יפתח זיו הפתיע עם חסימה גדולה ו-וויל גרייבס הראה יכולות אחרות",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/91/4c/914c842c-1de8-43a9-866f-97ae636bee7e/040120171212_nm_vtr_top10_gavia_sal_040117_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "מכבי ניצלה ממבוכה בדרך לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/672277.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/91/4c/914c842c-1de8-43a9-866f-97ae636bee7e/040120171212_nm_vtr_top10_gavia_sal_040117_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עירוני נס ציונה כבר הובילה ב-7 נקודות אך איבדה ריכוז לקראת הסיום והפסידה 75:73",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/91/4c/914c842c-1de8-43a9-866f-97ae636bee7e/040120171212_nm_vtr_top10_gavia_sal_040117_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "צעד לחצי: 90:95 לאשדוד על חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/672061.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/24/69/2469f54b-0721-4e31-b925-8f398221f30a/010120172311_nm_vtr_tak_ashdod_haifa_sal_010117_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "יואינג כיכב אצל הצהובים שרושמים הופעה שניה ברציפות בחצי גמר גביע המדינה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/24/69/2469f54b-0721-4e31-b925-8f398221f30a/010120172311_nm_vtr_tak_ashdod_haifa_sal_010117_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "דייסון קבר דאנק ענק, ירושלים בחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/671746.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/dd/ea/ddeaf43f-46d1-48d7-91c4-7ae56d451b32/311220162109_nm_vtr_tak_jer_sal_311216_,35,80,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "היכולת לא הרקיעה אבל זה הספיק לקבוצה של פיאנג'יאני ל-56:68 על הרצליה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/dd/ea/ddeaf43f-46d1-48d7-91c4-7ae56d451b32/311220162109_nm_vtr_tak_jer_sal_311216_,35,80,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "גם בכדורסל: הפועל ב\"ש הגיעה לטופ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/668704.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/06/d0/06d0805d-baa4-447f-8aa9-0741e7f474b1/201220161402_nm_vtr_top10_gavia_sal_201216_new_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ג'ף אלן קבר את ראשל\"צ, קאליף וואייט לא עוצר גם מול 3 שחקני הגנה ואייברסון קיבל מנה מאריק גריפין",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/06/d0/06d0805d-baa4-447f-8aa9-0741e7f474b1/201220161402_nm_vtr_top10_gavia_sal_201216_new_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "ווייאט שוב להט, חולון דרסה את אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/668456.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e2/b9/e2b990ab-143f-4180-acb5-1d7d237e9f4a/191220162210_nm_vtr_tak_holon_eilat_sal_191216_,35,110,80,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ווייאט סיים עם 29 נק' ו-9 אס' בדרך לניצחון קליל על הדרומיים. הסגולים ייפגשו את ב\"ש מהלאומית בשלב הבא",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/e2/b9/e2b990ab-143f-4180-acb5-1d7d237e9f4a/191220162210_nm_vtr_tak_holon_eilat_sal_191216_,35,110,80,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "מכבי שרדה מותחן אדיר מול גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/668169.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c1/51/c1514559-6def-4ad2-8fbc-6ac0f29386be/181220162311_nm_vtr_maccabi_gilboa_181216_,80,110,55,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סיגרס החטיא הפעם ווינר שוט. הצהובים נשמו לרווחה עם 76:77 בסיום",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c1/51/c1514559-6def-4ad2-8fbc-6ac0f29386be/181220162311_nm_vtr_maccabi_gilboa_181216_,80,110,55,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "סנסציה בגביע: ב\"ש העיפה את האלופה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/668191.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/1a/42/1a423b22-1de4-4b30-b36b-9e4a215a685e/181220162109_nm_vo_bash_rishon_181216_,160,35,110,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה מהלאומית קבעה את אחת ההפתעות הגדולות במפעל עם 96:104 אל מכבי ראשל\"צ",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1a/42/1a423b22-1de4-4b30-b36b-9e4a215a685e/181220162109_nm_vo_bash_rishon_181216_,160,35,110,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "באה בדרייב: ירושלים ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/667782.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/63/2d/632dc258-ecb1-4f87-916a-638531d9e78d/171220162210_nm_vtr_tak_hapoel_sal_171626/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "סטודמאייר שוב הצטיין, הירושלמים גברו 74:78 את הפועל ת\"א ועלו לשלב הבא בגביע",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/63/2d/632dc258-ecb1-4f87-916a-638531d9e78d/171220162210_nm_vtr_tak_hapoel_sal_171626_,1100k,800k,350k,1600k,550k,.mp4&Type=",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "רק כמעט: רחובות מתחה את הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/667736.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/6d/a7/6da7ccb9-3e95-4642-8033-65285f736208/171220162109_nm_vtr_tak_hrtzeliya_rehovot_sal_171626_,160,80,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "זה היה קרוב, אבל אלילת המזל הייתה עם הקבוצה מהשרון שניצהח ברגע האחרון 63:65 את הקבוצה מהלאומית",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/6d/a7/6da7ccb9-3e95-4642-8033-65285f736208/171220162109_nm_vtr_tak_hrtzeliya_rehovot_sal_171626_,160,80,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "הפועל מחצה ב-40 נק' ועלתה לשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/645489.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/9e/e8/9ee840b4-3c35-452b-856b-54c017799267/071020160012_tak_hapoel_rag_061016_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצגה של האדומים הובילה ל-54:94 מוחץ על הפועל ר\"ג/גבעתיים",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/9e/e8/9ee840b4-3c35-452b-856b-54c017799267/071020160012_tak_hapoel_rag_061016_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      },
+      {
+       "name": "לא כוחות: י-ם טיילה מול מגדל העמק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/645242.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a2/37/a237ce2e-4f1f-42bc-8bb5-64ada95ae420/051020162210_jer_051016_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי הזכייה בגביע ווינר, ירושלים לא התקשתה הערב מול מגדל העמק. טימור וג'ונס הצטיינו בדרך לשלב הבא",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a2/37/a237ce2e-4f1f-42bc-8bb5-64ada95ae420/051020162210_jer_051016_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2016/17"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2015/16",
+     "channels": [
+      {
+       "name": "האלופה בגמר הגביע: ניצחון קל לאשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/590913.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/86/9f/869f8a42-e5a5-4a77-a36d-194d7e6bf169/140320162109_ashdod_tak_140316_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "50:69 לבנות של עדן ענבר על בנות הרצליה, בדרך לקרב על התואר מול מכבי רמת חן",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/86/9f/869f8a42-e5a5-4a77-a36d-194d7e6bf169/140320162109_ashdod_tak_140316_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "רמת חן דהרה לגמר גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/590879.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/16/60/1660ed91-dcf5-4a7a-b59f-aaa62d6cb9c5/140320161907_ramat_hen_holon_140316_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מוליכת הליגה דרסה 70:92 את אליצור חולון. 25 נקודות לתורנטון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/16/60/1660ed91-dcf5-4a7a-b59f-aaa62d6cb9c5/140320161907_ramat_hen_holon_140316_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "אוהדי מכבי נטשו את היציע ברבע ה-1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/585019.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/e7/ffe7b134-31da-49fd-8020-bccc7d8c18ad/180220162109_maccabi_fans_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "כחלק ממחאת העלאת מחירי המנויים לעונה הבאה, הגרעין הקשה של אוהדי מכבי קם ממושביו",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/e7/ffe7b134-31da-49fd-8020-bccc7d8c18ad/180220162109_maccabi_fans_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "היסטוריה לאשדוד או גביע 43 למכבי?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/584934.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b7/e1/b7e1c188-6594-403d-84eb-eb7bdda5ca18/180220161301_clip_final_cup_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אשדוד הפתיעה את הצהובים פעמיים העונה, בפעם השלישית זה עלול להגמר בגביע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b7/e1/b7e1c188-6594-403d-84eb-eb7bdda5ca18/180220161301_clip_final_cup_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "נגמר בכעס: צביקה מול טבק ב-1989",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/584907.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3d/12/3d122ea3-aa48-4d79-b836-35519e0e7af6/180220161212_tzvika_sherf_180216_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שרף, אז מאמן מכבי תל אביב, הפסיד לספליט בגמר האירופי. מה גרם לו להתרגז?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3d/12/3d122ea3-aa48-4d79-b836-35519e0e7af6/180220161212_tzvika_sherf_180216_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "הצגה של הישראלים, מכבי תל אביב בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/584389.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a5/49/a549ad7a-cdfb-40d0-83ca-8b9ae1c97dd9/160220160012_maccabi-nes_tak_gavia_150216_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצהובים פיגרו לאורך דקות ארוכות, אבל אוחיון ומקל סחפו אותם ל-66:81 על נס ציונה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a5/49/a549ad7a-cdfb-40d0-83ca-8b9ae1c97dd9/160220160012_maccabi-nes_tak_gavia_150216_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "2 הארכות במשחק משוגע: אשדוד בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/584321.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3c/a3/3ca362c4-2437-4ea6-9062-0481e298d72a/150220162109_rishon_asdod_tak_gavia_150215_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי רכבת הרים בהיכל, הקבוצה של צביקה שרף עלתה לקרב על התואר עם 82:84 על ראשל\"צ",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3c/a3/3ca362c4-2437-4ea6-9062-0481e298d72a/150220162109_rishon_asdod_tak_gavia_150215_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "נס ציונה העפילה לחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/572611.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/bb/64/bb64e5d5-b769-4ee6-b643-739f3e490b6e/1001162139_n_vo_givataim_100116 copy_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סיפור הסינדרלה של הפועל רמת גן/גבעתיים הסתיים לאחר הפסד 78:91 לנס ציונה מליגת העל.",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/bb/64/bb64e5d5-b769-4ee6-b643-739f3e490b6e/1001162139_n_vo_givataim_100116 copy_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "ראשל\"צ בחצי אחרי דרמה וסל על הבאזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/572276.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a7/1c/a71c46e0-4e0a-4177-8777-43e40c17c0fe/0901162036_tak_hertzeliya_rishon_090116_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ליונס שבר לבני הרצליה את הלב ב-77:78 ברבע גמר הגביע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a7/1c/a71c46e0-4e0a-4177-8777-43e40c17c0fe/0901162036_tak_hertzeliya_rishon_090116_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "ניצלה: מכבי בחצי עם 70:73 על חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/572397.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/43/5e/435e99af-a1ec-4fb4-9c9a-d3cc96da4358/0901162342_tak_haifa_maccabi_sal_090116_new_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שלשה של רוצ'סטי 0.4 שניות לסיום הצילה את הצהובים מהדחה ברבע הגמר",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/43/5e/435e99af-a1ec-4fb4-9c9a-d3cc96da4358/0901162342_tak_haifa_maccabi_sal_090116_new_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "כמו יין: טפירו גבר על הפועל עם הבאזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/568617.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/10/b2102ec2-552a-4287-b149-245b78898a55/2412152108_hapoel_gat_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סל ניצחון של הגארד בן ה-40 קבע 82:83 לקרית גת על הפועל ת\"א",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/10/b2102ec2-552a-4287-b149-245b78898a55/2412152108_hapoel_gat_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "והיה לו גם זמן לכדורסל: פניני כיכב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/568433.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/2c/90/2c90b64c-6688-4532-8e3b-f63501b90b5b/2312152332_tak_macabi_sal_231215_,35,55,80,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פורוורד מכבי ת\"א קלע 19 נקודות בניצחון 61:83 על גלבוע/גליל בדרך לרבע גמר הגביע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/2c/90/2c90b64c-6688-4532-8e3b-f63501b90b5b/2312152332_tak_macabi_sal_231215_,35,55,80,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "Bad גיא: פניני הושיט יד לעזרה ו...",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/568418.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/49/22/492253c4-3e6e-423b-80dc-82e3bd43e2cf/2312152222_pnini_231215_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פורוורד מכבי ת\"א  \"כיכב\" במשחק מול גלבוע/גליל",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/49/22/492253c4-3e6e-423b-80dc-82e3bd43e2cf/2312152222_pnini_231215_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "NBA בנהריה: דאנק אדיר של בראון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/568406.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d1/6c/d16c1569-de5c-4c45-8588-839bcd00dde9/2312152126_naharia_dunk_231215_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ביצוע שלא היה מבייש אפילו את הגדולים באמריקה, הפורוורד של הקבוצה הצפונית ברגע לפנתיאון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d1/6c/d16c1569-de5c-4c45-8588-839bcd00dde9/2312152126_naharia_dunk_231215_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "האקס צלף 36 נק', והדיח את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/551506.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/8c/b08c5b37-1765-4af0-a3e0-7dc6b7ebd1cd/0810152150_holon_081015_,110,80,55,35,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצגה גדולה של יועד בן יוסף סחפה את הפועל ר\"ג/גבעתיים לניצחון ענק בסיבוב הראשו של גביע המדינה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/8c/b08c5b37-1765-4af0-a3e0-7dc6b7ebd1cd/0810152150_holon_081015_,110,80,55,35,140,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

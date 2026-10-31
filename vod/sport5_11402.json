@@ -1,0 +1,181 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - ליגה א'",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11402",
+   "series_id": "11402",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1486741.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "הפועל מגדל העמק ניצחה 1:3 את הפועל בית שאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1486741.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEIT_SHEAN_201224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEIT_SHEAN_201224/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=491998&",
+       "season": ""
+      },
+      {
+       "name": "הפתעת ענק: א.ס אשדוד הביסה 0:3 את מכבי יבנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1486740.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_YAVNE_201224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_YAVNE_201224/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=491997&poste",
+       "season": ""
+      },
+      {
+       "name": "תצוגת תכלית: עירוני אשדוד ניצחה 0:3 את לוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1483897.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_1_131224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_1_131224/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=491344&poste",
+       "season": ""
+      },
+      {
+       "name": "קורסת: מכבי יבנה הובסה 3:0 מול מודיעין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1483899.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MODIEIN_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MODIEIN_1/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=491343&poster=http",
+       "season": ""
+      },
+      {
+       "name": "דוהרת ללאומית: קריית ים הביסה 0:3 את בית שאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1483901.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KIRYATYAMM/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KIRYATYAMM/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=491341&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "חגיגת שערים: עירוני אשדוד ניצחה 2:5 את א.ס בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1468927.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBY_ASHDOD/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBY_ASHDOD/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=487984&poster=h",
+       "season": ""
+      },
+      {
+       "name": "תצוגת תכלית: יבנה הביסה 1:4 את אזור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1458178.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_YAVNE_091024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_YAVNE_091024/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=485563&poster=h",
+       "season": ""
+      },
+      {
+       "name": "בתוספת הזמן: מ.כ ירושלים ניצחה 0:1 את עירוני אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1453692.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_270924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_270924/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=484579&poster=",
+       "season": ""
+      },
+      {
+       "name": "חלוקת נקודות: שעריים וקריית מלאכי נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1453688.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHAARAIM_270924_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SHAARAIM_270924_1/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=484578&pos",
+       "season": ""
+      },
+      {
+       "name": "חלוקת נקודות: הרצליה ולוד נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1451067.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LOD_200924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LOD_200924/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=484027&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "עם רגע ויראלי: 1:1 בין דימונה ליבנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1445312.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DIMONA_YAVNE/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DIMONA_YAVNE/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=482779&poster=h",
+       "season": ""
+      },
+      {
+       "name": "חלוקת נקודות: אשדוד וחולון נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1445308.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_ASHDODO/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_ASHDODO/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=482776&poster=",
+       "season": ""
+      },
+      {
+       "name": "מ.ס טירה הביסה 0:3 את הפועל כפר כנא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1371107.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIRAKANA_150324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIRAKANA_150324/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=464537&poste",
+       "season": ""
+      },
+      {
+       "name": "דרמה בסיום: אחי נצרת סחטה 1:1 עם הפועל רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1371110.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AHIRANANA_150324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AHIRANANA_150324/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=464535&post",
+       "season": ""
+      },
+      {
+       "name": "עם בעיטות חופשיות אדירות: דימונה וא.ס אשדוד נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1371102.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASDODIMONA_150324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASDODIMONA_150324/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=464534&pos",
+       "season": ""
+      },
+      {
+       "name": "בוזורגי כבש: אחי נצרת ניצחה 0:1 את קריית ים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1317466.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NAZERETH_080923/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NAZERETH_080923/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11402%26Vi=447845&po",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,436 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - אליפות אפריקה 2024",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11520",
+   "series_id": "11520",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1359762.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "כנגד כל הסיכויים: חוף השנהב אלופת אפריקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1359762.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AFRICA_110224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AFRICA_110224/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11533%26Vi=461307&post",
+       "season": ""
+      },
+      {
+       "name": "ניגריה עלתה לגמר אחרי ניצחון בפנדלים על דר' אפריקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1358438.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIGARIA_070224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIGARIA_070224/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11530%26Vi=460952&poster",
+       "season": ""
+      },
+      {
+       "name": "המארחת בגמר: חוף השנהב גברה 0:1 על קונגו DR",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1358471.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOF_SHNAV_070224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOF_SHNAV_070224/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11530%26Vi=460951&post",
+       "season": ""
+      },
+      {
+       "name": "קייפ ורדה עלתה לרבע אחרי 0:1 דרמטי על מאוריטניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1354545.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CAPE_290124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CAPE_290124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11525%26Vi=460012&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "דרמטי: שער בתוספת הזמן שלח את גינאה לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1354235.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_GUINEA_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_GUINEA_280124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11525%26Vi=459893&",
+       "season": ""
+      },
+      {
+       "name": "הרפוב' של קונגו הדהימה את מצרים ועלתה לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1354291.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EGYPT_CONGO_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EGYPT_CONGO_280124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11525%26Vi=459892&po",
+       "season": ""
+      },
+      {
+       "name": "גרנט בחוץ: זמביה הפסידה למרוקו והודחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1352401.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ZAMBIA_240124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ZAMBIA_240124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=459486&poster=",
+       "season": ""
+      },
+      {
+       "name": "סק כבש ומאנה החמיץ מול שער ריק, 0:2 לסנגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1351897.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SENEGAL_230124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SENEGAL_230124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=459414&poster",
+       "season": ""
+      },
+      {
+       "name": "עשתה את העבודה: 0:1 לניגריה על גינאה ביסאו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1351546.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GNB_NGA_220124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GNB_NGA_220124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=459296&poster=",
+       "season": ""
+      },
+      {
+       "name": "פשיטת רגל: חוף השנהב הושפלה ובסכנת הדחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1351522.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_EQG_CIV_220124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_EQG_CIV_220124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=459295&poster=",
+       "season": ""
+      },
+      {
+       "name": "הפתעה באליפות אפריקה: ר.ד קונגו סחטה 1:1 ממרוקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1350908.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MOROCCO_210124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MOROCCO_210124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=459186&poster",
+       "season": ""
+      },
+      {
+       "name": "זמביה של אברהם גרנט סחטה 1:1 מול טנזניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1351053.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_ZAMBIA_210124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_ZAMBIA_210124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=459185&poster",
+       "season": ""
+      },
+      {
+       "name": "קטן גדול: ניגריה ניצחה 0:1 את חוף השנהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1349887.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOF_NIGRIA_180124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOF_NIGRIA_180124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=458948&pos",
+       "season": ""
+      },
+      {
+       "name": "גינאה המשוונית ניצחה 2:4 את גינאה ביסאו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1349879.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_GINEA_180124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_GINEA_180124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=458947&poste",
+       "season": ""
+      },
+      {
+       "name": "לא יעזור בית דין: צפו בהפסד דרום אפריקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1349008.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MALI_160124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MALI_160124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=458694&poster",
+       "season": ""
+      },
+      {
+       "name": "נמיביה עשתה היסטוריה עם ניצחון דרמטי על טוניסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1349007.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TUNISE_160124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TUNISE_160124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=458693&poster=",
+       "season": ""
+      },
+      {
+       "name": "טראורה כבש, בורקינה פאסו ניצחה 0:1 את מאוריטניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1349006.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BURKINA_FASUO_160124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BURKINA_FASUO_160124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=458692&",
+       "season": ""
+      },
+      {
+       "name": "9 לדקות לסק, סנגל הביסה 0:3 את גמביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1348419.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_senegal_150124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_senegal_150124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=458624&poster",
+       "season": ""
+      },
+      {
+       "name": "איכזבה כבר בפתיחה: רק 1:1 לקמרון עם גינאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1348452.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CAMERON_150124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CAMERON_150124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=458623&poster",
+       "season": ""
+      },
+      {
+       "name": "אוסימן כבש: 1:1 בין ניגריה לגינאה המשוונית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1347913.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIGERIA_140124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIGERIA_140124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11521%26Vi=458498&poster",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "אליפות אפריקה 2024 - חצי גמר",
+     "channels": [
+      {
+       "name": "ניגריה עלתה לגמר אחרי ניצחון בפנדלים על דר' אפריקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1358438.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIGARIA_070224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIGARIA_070224/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - חצי גמר"
+      },
+      {
+       "name": "המארחת בגמר: חוף השנהב גברה 0:1 על קונגו DR",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1358471.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOF_SHNAV_070224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOF_SHNAV_070224/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - חצי גמר"
+      }
+     ]
+    },
+    {
+     "name": "אליפות אפריקה 2024 - שמינית גמר",
+     "channels": [
+      {
+       "name": "קייפ ורדה עלתה לרבע אחרי 0:1 דרמטי על מאוריטניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1354545.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CAPE_290124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CAPE_290124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שמינית גמר"
+      },
+      {
+       "name": "דרמטי: שער בתוספת הזמן שלח את גינאה לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1354235.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_GUINEA_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_GUINEA_280124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שמינית גמר"
+      },
+      {
+       "name": "הרפוב' של קונגו הדהימה את מצרים ועלתה לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1354291.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EGYPT_CONGO_280124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EGYPT_CONGO_280124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שמינית גמר"
+      }
+     ]
+    },
+    {
+     "name": "אליפות אפריקה 2024 - שלב הבתים",
+     "channels": [
+      {
+       "name": "גרנט בחוץ: זמביה הפסידה למרוקו והודחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1352401.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ZAMBIA_240124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ZAMBIA_240124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "סק כבש ומאנה החמיץ מול שער ריק, 0:2 לסנגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1351897.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SENEGAL_230124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SENEGAL_230124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "עשתה את העבודה: 0:1 לניגריה על גינאה ביסאו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1351546.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GNB_NGA_220124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GNB_NGA_220124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "פשיטת רגל: חוף השנהב הושפלה ובסכנת הדחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1351522.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_EQG_CIV_220124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_EQG_CIV_220124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "הפתעה באליפות אפריקה: ר.ד קונגו סחטה 1:1 ממרוקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1350908.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MOROCCO_210124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MOROCCO_210124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "זמביה של אברהם גרנט סחטה 1:1 מול טנזניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1351053.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_ZAMBIA_210124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_ZAMBIA_210124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "קטן גדול: ניגריה ניצחה 0:1 את חוף השנהב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1349887.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOF_NIGRIA_180124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOF_NIGRIA_180124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "גינאה המשוונית ניצחה 2:4 את גינאה ביסאו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1349879.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_GINEA_180124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_GINEA_180124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "לא יעזור בית דין: צפו בהפסד דרום אפריקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1349008.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MALI_160124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MALI_160124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "נמיביה עשתה היסטוריה עם ניצחון דרמטי על טוניסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1349007.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TUNISE_160124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TUNISE_160124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "טראורה כבש, בורקינה פאסו ניצחה 0:1 את מאוריטניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1349006.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BURKINA_FASUO_160124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BURKINA_FASUO_160124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "9 לדקות לסק, סנגל הביסה 0:3 את גמביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1348419.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_senegal_150124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_senegal_150124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "איכזבה כבר בפתיחה: רק 1:1 לקמרון עם גינאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1348452.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CAMERON_150124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CAMERON_150124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "אוסימן כבש: 1:1 בין ניגריה לגינאה המשוונית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1347913.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIGERIA_140124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NIGERIA_140124/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      },
+      {
+       "name": "התחלנו: 0:2 לחוף השנהב על גינאה ביסאו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1347848.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_IVORYC_GINEAB/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_IVORYC_GINEAB/HLS/playlist.m3u8",
+       "season": "אליפות אפריקה 2024 - שלב הבתים"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

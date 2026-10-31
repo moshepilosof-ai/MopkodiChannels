@@ -1,0 +1,1341 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - ווימבלדון",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "11981",
+   "series_id": "11981",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1743744.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:07",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "בלתי נגמר: ג'וקוביץ' העפיל לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1743744.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_DJOKOVIC_050726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_DJOKOVIC_050726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12323%26Vi=551144&",
+       "season": ""
+      },
+      {
+       "name": "הפתעה בווימבלדון: אוסאקה הדיחה את סבאלנקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1743775.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SABALENKA_050726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SABALENKA_050726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12323%26Vi=551143&p",
+       "season": ""
+      },
+      {
+       "name": "בלתי ניתן לעצירה: סינר זכה בווימבלדון בפעם ה-2 ברציפות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1746727.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FINAL_WIMBELDON_HANAFA_120726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FINAL_WIMBELDON_HANAFA_120726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%",
+       "season": ""
+      },
+      {
+       "name": "לראשונה בקריירה שלה: לינדה נוסקובה היא אלופת ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1746123.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_WIMBELDON_W_110726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_WIMBELDON_W_110726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551721",
+       "season": ""
+      },
+      {
+       "name": "בפעם השנייה ברציפות: גיא ששון ושותפו זכו באליפות זוגות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745987.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SASON_110726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SASON_110726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551849&poste",
+       "season": ""
+      },
+      {
+       "name": "זברב ניצח ועלה לגמר ווימבלדון ראשון בקריירה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1745755.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERY_ZVEREV/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/FERY_ZVEREV/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551635&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "חד וחלק: סינר ניצח 0:3 את ג'וקוביץ' והעפיל לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745757.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINER_100726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINER_100726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551634&poster=h",
+       "season": ""
+      },
+      {
+       "name": "מוצ'ובה ניצחה את גוף ועלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745457.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GOFF_090726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GOFF_090726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551625&post",
+       "season": ""
+      },
+      {
+       "name": "נוסקובה העפילה לגמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1745455.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSTIUK_090726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSTIUK_090726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551626&p",
+       "season": ""
+      },
+      {
+       "name": "זברב ניצח 0:3 והעפיל לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1745089.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_080726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_080726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551478&post",
+       "season": ""
+      },
+      {
+       "name": "ממשיך לככב: 0:3 נוסף לסינר שעולה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1744606.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_070726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551375&poster=",
+       "season": ""
+      },
+      {
+       "name": "במשחק נהדר: מוצובה ניצחה את אוסקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1744791.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OSAKA_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OSAKA_070726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551378&poster=h",
+       "season": ""
+      },
+      {
+       "name": "בפעם הראשונה: קוקו גוף עלתה לחצי הגמר הראשון שלה בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1744604.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAUFF_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAUFF_070726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12331%26Vi=551377&poster=h",
+       "season": ""
+      },
+      {
+       "name": "זברב העפיל לרבע הגמר לאחר 1:3 על להצ'קה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1744789.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_070726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12324%26Vi=551336&post",
+       "season": ""
+      },
+      {
+       "name": "בכושר שיא: קובולי ניצח את דה מינור ועלה לרבע גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1744137.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_MINOR_TAK_060726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_MINOR_TAK_060726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12324%26Vi=551235&poste",
+       "season": ""
+      },
+      {
+       "name": "הפתעת הטורניר: פרי ניצח 2:3 את דימיטרוב ועלה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1744242.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERII_TAK_060726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/FERII_TAK_060726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12324%26Vi=551237&poster=h",
+       "season": ""
+      },
+      {
+       "name": "מוקדם מהצפוי: איגה שוויונטק הודחה כבר בסיבוב ה-3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1743248.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_shiwtek_eala/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_shiwtek_eala/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12324%26Vi=551082&poster=h",
+       "season": ""
+      },
+      {
+       "name": "דרמה משוגעת: פורטוגל ניצחה 1:2 את קרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1742682.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?V",
+       "season": ""
+      },
+      {
+       "name": "מוכיחה למה היא האלופה: שביונטק עלתה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1742360.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PLISKOVA_SWIATEK_020726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PLISKOVA_SWIATEK_020726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12324%26Vi=55082",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2026",
+     "channels": [
+      {
+       "name": "בלתי נגמר: ג'וקוביץ' העפיל לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1743744.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_DJOKOVIC_050726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_DJOKOVIC_050726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "הפתעה בווימבלדון: אוסאקה הדיחה את סבאלנקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1743775.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SABALENKA_050726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SABALENKA_050726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "בלתי ניתן לעצירה: סינר זכה בווימבלדון בפעם ה-2 ברציפות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1746727.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FINAL_WIMBELDON_HANAFA_120726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FINAL_WIMBELDON_HANAFA_120726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "לראשונה בקריירה שלה: לינדה נוסקובה היא אלופת ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1746123.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_WIMBELDON_W_110726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_WIMBELDON_W_110726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "בפעם השנייה ברציפות: גיא ששון ושותפו זכו באליפות זוגות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745987.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SASON_110726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SASON_110726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "זברב ניצח ועלה לגמר ווימבלדון ראשון בקריירה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1745755.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERY_ZVEREV/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERY_ZVEREV/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "חד וחלק: סינר ניצח 0:3 את ג'וקוביץ' והעפיל לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745757.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINER_100726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINER_100726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "מוצ'ובה ניצחה את גוף ועלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745457.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GOFF_090726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GOFF_090726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "נוסקובה העפילה לגמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1745455.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSTIUK_090726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSTIUK_090726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "סנסצית ענק: פרי המדורג 114 ניצח ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1745091.jpg",
+       "url": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/1/1745091.jpg&useAkamai=true",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/1/1745091.jpg&useAkamai=true",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "זברב ניצח 0:3 והעפיל לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1745089.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_080726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_080726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "ממשיך לככב: 0:3 נוסף לסינר שעולה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1744606.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_070726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "במשחק נהדר: מוצובה ניצחה את אוסקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1744791.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OSAKA_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OSAKA_070726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "בפעם הראשונה: קוקו גוף עלתה לחצי הגמר הראשון שלה בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1744604.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAUFF_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAUFF_070726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "זברב העפיל לרבע הגמר לאחר 1:3 על להצ'קה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1744789.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_070726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "בכושר שיא: קובולי ניצח את דה מינור ועלה לרבע גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1744137.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_MINOR_TAK_060726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_MINOR_TAK_060726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "הפתעת הטורניר: פרי ניצח 2:3 את דימיטרוב ועלה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1744242.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERII_TAK_060726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERII_TAK_060726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "מוקדם מהצפוי: איגה שוויונטק הודחה כבר בסיבוב ה-3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1743248.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_shiwtek_eala/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_shiwtek_eala/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "דרמה משוגעת: פורטוגל ניצחה 1:2 את קרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1742682.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      },
+      {
+       "name": "מוכיחה למה היא האלופה: שביונטק עלתה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1742360.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PLISKOVA_SWIATEK_020726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PLISKOVA_SWIATEK_020726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2025",
+     "channels": [
+      {
+       "name": "הראשון שלו: סינר גבר על אלקרס וזכה בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1576750.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WUMBALDON_FINAL_130725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WUMBALDON_FINAL_130725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "עם 0:6 0:6 בגמר: שוויונטק אלופת ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1576225.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WIMBLADON_FINAL_NASHIM_120725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WIMBLADON_FINAL_NASHIM_120725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "סינר גבר 3:6, 3:6, 4:6 על ג'וקוביץ' ועלה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1576008.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DJOKOVIC_110725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DJOKOVIC_110725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "אלקרס גבר על פריץ ועלה לגמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1576054.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ALCARAZ_110725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ALCARAZ_110725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "הפתעה: אניסימובה הדיחה את סבאלנקה ועלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1575545.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sabalenka2_175216727445/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sabalenka2_175216727445/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "בקלות: שוויונטק דרסה את בנצ'יץ' והעפילה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1575550.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_iga/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_iga/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "סינר מחכה: ג'וקוביץ' גבר על קובולי ב-4 מערכות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1575133.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DJOKOVIC_090725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DJOKOVIC_090725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "בקלות: סינר גברה 0:3 על שלטון ועלה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1575092.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sinner2_17520812925/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sinner2_17520812925/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "לראשונה בקריירה: שוויונטק העפילה לחצי גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1574982.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_switek/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_switek/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "בנצ'יץ' הפתיעה את אנדרייבה ועלתה לחצי גמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1575082.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bencic/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bencic/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "טיול נעים: אלקרס דרס את נורי בדרך לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1574525.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ALC_080725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ALC_080725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "לאחר משחק קשה: סאבלנקה עלתה לחצי גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1574406.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SAB_080725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SAB_080725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "לראשונה בקריירה: פריץ בחצי גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1574395.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_FRITZ/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_FRITZ/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "סינר עלה לרבע הגמר לאחר פציעת דימיטרוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1574118.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SINNER_070725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SINNER_070725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "ג`וקוביץ` ניצח את דה מינור ועלה לרבע גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1574057.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKNOVAK_175190608784/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKNOVAK_175190608784/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "ברבע הגמר: אלקרס ניצח 1:3 את רובלב בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1573893.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ALCARAZTAKFIX_175183559586/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ALCARAZTAKFIX_175183559586/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "פריץ עלה לרבע הגמר, תומפסון נפצע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1573750.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKFRITZ_175181818319/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKFRITZ_175181818319/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "סבלנקה גברה בקלות על מרטנס ועלתה לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1573819.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sabalenka1_175182857067/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sabalenka1_175182857067/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "תוך פחות משעתיים: ג`וקוביץ` עלה לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1573383.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DJOKOVIC_050725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DJOKOVIC_050725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      },
+      {
+       "name": "בליגה משלו: סינר עלה בקלילות לשמינית הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1573283.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_050725_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_050725_NEW/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים",
+     "channels": [
+      {
+       "name": "בלתי ניתן לעצירה: סינר זכה בווימבלדון בפעם ה-2 ברציפות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1746727.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FINAL_WIMBELDON_HANAFA_120726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FINAL_WIMBELDON_HANAFA_120726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "לראשונה בקריירה שלה: לינדה נוסקובה היא אלופת ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1746123.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_WIMBELDON_W_110726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_WIMBELDON_W_110726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "בפעם השנייה ברציפות: גיא ששון ושותפו זכו באליפות זוגות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745987.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SASON_110726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SASON_110726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "זברב ניצח ועלה לגמר ווימבלדון ראשון בקריירה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1745755.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERY_ZVEREV/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERY_ZVEREV/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "חד וחלק: סינר ניצח 0:3 את ג'וקוביץ' והעפיל לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745757.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINER_100726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINER_100726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "מוצ'ובה ניצחה את גוף ועלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1745457.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GOFF_090726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GOFF_090726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "נוסקובה העפילה לגמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1745455.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSTIUK_090726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSTIUK_090726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "סנסצית ענק: פרי המדורג 114 ניצח ברבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1745091.jpg",
+       "url": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/1/1745091.jpg&useAkamai=true",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/1/1745091.jpg&useAkamai=true",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "זברב ניצח 0:3 והעפיל לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1745089.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_080726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_080726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "ממשיך לככב: 0:3 נוסף לסינר שעולה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1744606.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_070726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "במשחק נהדר: מוצובה ניצחה את אוסקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1744791.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OSAKA_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_OSAKA_070726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      },
+      {
+       "name": "בפעם הראשונה: קוקו גוף עלתה לחצי הגמר הראשון שלה בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1744604.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAUFF_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAUFF_070726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים אחרונים"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים",
+     "channels": [
+      {
+       "name": "זברב העפיל לרבע הגמר לאחר 1:3 על להצ'קה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1744789.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_070726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ZVEREV_070726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "בכושר שיא: קובולי ניצח את דה מינור ועלה לרבע גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1744137.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_MINOR_TAK_060726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DE_MINOR_TAK_060726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "הפתעת הטורניר: פרי ניצח 2:3 את דימיטרוב ועלה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1744242.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERII_TAK_060726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FERII_TAK_060726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "מוקדם מהצפוי: איגה שוויונטק הודחה כבר בסיבוב ה-3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1743248.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_shiwtek_eala/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_shiwtek_eala/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "דרמה משוגעת: פורטוגל ניצחה 1:2 את קרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1742682.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/PortugalvsCroatia-GameHighlights_17830647280/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "מוכיחה למה היא האלופה: שביונטק עלתה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1742360.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PLISKOVA_SWIATEK_020726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PLISKOVA_SWIATEK_020726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "פעמיים בשובר שיוויון: סינר ניצח 0:3 מול בורגס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1741892.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_SINNER_010726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_SINNER_010726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "סבאלנקה העפילה לסיבוב השלישי בווימבלדון לאחר 0:2 על קבלר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1741886.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SABALENKA_KESSLER_010726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SABALENKA_KESSLER_010726/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "קאמבק לא מוצלח: סרינה סיימה את דרכה בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1741726.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_serena_joint/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_serena_joint/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "דקות הסיום בהפסד הדרמטי של שלטון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1741437.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SHELTON_END/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SHELTON_END/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "בשובר שיוויון: זברב העפיל לסיבוב השני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1741515.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BLOCKX_ZVEREV_300626/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_BLOCKX_ZVEREV_300626/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "בדמעות: שוויונטק רשמה 1:2 מול טאוסנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1741508.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IGA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IGA/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "ניצחון קליל: פריץ' ניצח 0:3 ועלה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1741423.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_FRITZ_DUSAN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_FRITZ_DUSAN/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "נמנע ממבוכה: סינר גבר על המדורג 50 והעפיל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1740822.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_NIRO_290626/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER_NIRO_290626/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "ג'וקוביץ' התקשה אבל גבר 1:3 על וו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1741254.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_djoko/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_djoko/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "סבאלנקה ניצחה והעפילה לסיבוב 2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1740934.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SABALENKA_TAK_290626/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SABALENKA_TAK_290626/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      },
+      {
+       "name": "הדרמה התחילה: רובלב הודח מול מדורג 132",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1740775.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RUBLEV_OUT1_17827428528/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RUBLEV_OUT1_17827428528/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2026 - 2026 - סיבובים ראשונים"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2025 - 2025 - גמר",
+     "channels": [
+      {
+       "name": "הראשון שלו: סינר גבר על אלקרס וזכה בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1576750.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WUMBALDON_FINAL_130725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WUMBALDON_FINAL_130725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - גמר"
+      },
+      {
+       "name": "עם 0:6 0:6 בגמר: שוויונטק אלופת ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1576225.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WIMBLADON_FINAL_NASHIM_120725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WIMBLADON_FINAL_NASHIM_120725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - גמר"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2025 - 2025 - חצי גמר",
+     "channels": [
+      {
+       "name": "סינר גבר 3:6, 3:6, 4:6 על ג'וקוביץ' ועלה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1576008.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DJOKOVIC_110725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DJOKOVIC_110725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - חצי גמר"
+      },
+      {
+       "name": "אלקרס גבר על פריץ ועלה לגמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1576054.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ALCARAZ_110725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ALCARAZ_110725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - חצי גמר"
+      },
+      {
+       "name": "הפתעה: אניסימובה הדיחה את סבאלנקה ועלתה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1575545.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sabalenka2_175216727445/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sabalenka2_175216727445/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - חצי גמר"
+      },
+      {
+       "name": "בקלות: שוויונטק דרסה את בנצ'יץ' והעפילה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1575550.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_iga/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_iga/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - חצי גמר"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2025 - 2025 - רבע גמר",
+     "channels": [
+      {
+       "name": "סינר מחכה: ג'וקוביץ' גבר על קובולי ב-4 מערכות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1575133.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DJOKOVIC_090725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DJOKOVIC_090725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - רבע גמר"
+      },
+      {
+       "name": "בקלות: סינר גברה 0:3 על שלטון ועלה לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1575092.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sinner2_17520812925/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sinner2_17520812925/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - רבע גמר"
+      },
+      {
+       "name": "לראשונה בקריירה: שוויונטק העפילה לחצי גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1574982.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_switek/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_switek/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - רבע גמר"
+      },
+      {
+       "name": "בנצ'יץ' הפתיעה את אנדרייבה ועלתה לחצי גמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1575082.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bencic/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_bencic/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - רבע גמר"
+      },
+      {
+       "name": "טיול נעים: אלקרס דרס את נורי בדרך לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1574525.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ALC_080725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ALC_080725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - רבע גמר"
+      },
+      {
+       "name": "לאחר משחק קשה: סאבלנקה עלתה לחצי גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1574406.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SAB_080725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SAB_080725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - רבע גמר"
+      },
+      {
+       "name": "לראשונה בקריירה: פריץ בחצי גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1574395.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_FRITZ/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_FRITZ/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - רבע גמר"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2025 - 2025 - שמינית הגמר",
+     "channels": [
+      {
+       "name": "סינר עלה לרבע הגמר לאחר פציעת דימיטרוב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1574118.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SINNER_070725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SINNER_070725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - שמינית הגמר"
+      },
+      {
+       "name": "ג`וקוביץ` ניצח את דה מינור ועלה לרבע גמר ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1574057.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKNOVAK_175190608784/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKNOVAK_175190608784/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - שמינית הגמר"
+      },
+      {
+       "name": "ברבע הגמר: אלקרס ניצח 1:3 את רובלב בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1573893.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ALCARAZTAKFIX_175183559586/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ALCARAZTAKFIX_175183559586/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - שמינית הגמר"
+      },
+      {
+       "name": "פריץ עלה לרבע הגמר, תומפסון נפצע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1573750.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKFRITZ_175181818319/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKFRITZ_175181818319/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - שמינית הגמר"
+      },
+      {
+       "name": "סבלנקה גברה בקלות על מרטנס ועלתה לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1573819.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sabalenka1_175182857067/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_sabalenka1_175182857067/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - שמינית הגמר"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2025 - 2025 - סיבוב שני",
+     "channels": [
+      {
+       "name": "המדורגת 11 בעולם, מריה ריבאקינה עלתה לסיבוב השלישי בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1572824.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RIVAKINA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RIVAKINA/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "בלי בעיות: ג'וקוביץ' עלה לסיבוב השלישי בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1572739.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/djokovic_tak/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/djokovic_tak/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "חלק: סינר עם ניצון קל 0:3 נגד ווקיץ'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1572967.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/sinner_tak/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/sinner_tak/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "תלך עד הסוף? שווינטק בסיבוב השלישי בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1572826.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SWIATEK_TAK/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SWIATEK_TAK/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "הפתעה: צ'יליץ' הדיח את דרייפר ועלה לסיבוב ה-3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1572893.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CILIC/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CILIC/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "ממשיכה קדימה: אנדרבה עלתה לסיבוב השלישי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1572754.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ANDREVA_030725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ANDREVA_030725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "ללא תקלות: אלקרס ניצח ועלה לסיבוב השלישי בווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1572352.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKALCARAZ_175148086272/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKALCARAZ_175148086272/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "המסע ממשיך: סבלנקה גברה 0:2 על בוזקובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1572259.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSABALENKA_175146957358/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKSABALENKA_175146957358/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "נורי ניצח את טיאפו ב-4 מערכות והעפיל לסיבוב ה-3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1572315.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tiafo_nory/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tiafo_nory/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      },
+      {
+       "name": "רדוקאנו גברה על וונדרוסובה ועלתה שלב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1572418.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKRADUCANU_175148686594/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAKRADUCANU_175148686594/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבוב שני"
+      }
+     ]
+    },
+    {
+     "name": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים",
+     "channels": [
+      {
+       "name": "ג`וקוביץ` ניצח את מולר ועלה לשלב הבא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1572051.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NovakDjokovic_Highlights_Wimbledon2025_17514336073/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NovakDjokovic_Highlights_Wimbledon2025_17514336073/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "סינר הביס את נארדי בסיבוב הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1571789.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SINNER/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "קרצי`קובה ניצחה את אאלה בסיבוב הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1571818.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KREJCIKOVA_010725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KREJCIKOVA_010725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "ג'סיקה פגולה, המדורגת שלישית בעולם, הודחה בסיבוב הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1571772.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/pegula_lose/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/pegula_lose/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "גוף הודחה בסיבוב הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1572007.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_COCO/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_COCO/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "שווינטק הביסה את קודרמטובה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1571900.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SWIATEK/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SWIATEK/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "בתום משחק ענק: אלקארס גבר על פוניני, המדורג 138",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1571649.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_ALCARAZ_300625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_ALCARAZ_300625/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "חארי הפתיע את רונה כבר בסיבוב הראשון של הטורניר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1571664.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_RUUNE_300625/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_RUUNE_300625/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "משום מקום: מדבדב הודח אחרי הפסד 1:3 לבונזי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1571662.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MEDVEDEV/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MEDVEDEV/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "עוד הפתעה בלונדון: זברב הודח בסיבוב הראשון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1571996.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ZVEREV_010725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ZVEREV_010725/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      },
+      {
+       "name": "בקלילות: סבלנקה עלתה לסיבוב ה-2 של ווימבלדון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1571666.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SABALENKA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SABALENKA/HLS/playlist.m3u8",
+       "season": "ווימבלדון - 2025 - 2025 - סיבובים ראשונים"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,836 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - ליגת האומות",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "8578",
+   "series_id": "8578",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1783437.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:04",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "תחושת החמצה: דור פרץ כבש, רק 1:1 מול אירלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1783437.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NIVHERET_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NIVHERET_041026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=562581&poster",
+       "season": ""
+      },
+      {
+       "name": "פורטוגל ברבע אחרי 1:2 ומהפך על נורווגיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1783490.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PORTUGAL_NORWAY_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PORTUGAL_NORWAY_041026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=562576",
+       "season": ""
+      },
+      {
+       "name": "שלוש נקודות: 1:2 להולנד על סרביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1783494.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLLAND_SERBIA_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLLAND_SERBIA_041026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=562579&",
+       "season": ""
+      },
+      {
+       "name": "ממשיכה לאכזב: 0:0 לגרמניה מול יוון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1783501.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GREECE_GERMANY_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GREECE_GERMANY_041026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=562578&",
+       "season": ""
+      },
+      {
+       "name": "הוילונד הכריע: 0:1 לדנמרק על ווילס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1783505.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_WALES_DENMARK_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_WALES_DENMARK_041026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=562577&p",
+       "season": ""
+      },
+      {
+       "name": "לא מצאה את הרשת: 0:0 בין ישראל לקוסובו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1782345.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISR_KOS_011026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISR_KOS_011026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=562305&poster",
+       "season": ""
+      },
+      {
+       "name": "ווירץ ובישוף כבשו, 0:2 לגרמניה מול סרביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1782376.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GERMANY_0110261_179088889126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GERMANY_0110261_179088889126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370",
+       "season": ""
+      },
+      {
+       "name": "בלי רונאלדו: פורטוגל ניצחה 2:4 את דנמרק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1782370.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_DENEMARK_0110261_179088895105/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_DENEMARK_0110261_179088895105/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=1237",
+       "season": ""
+      },
+      {
+       "name": "עוד תיקו דרמטי: 2:2 בין הולנד ליוון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1782368.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GREECE_0110261_179088895131/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GREECE_0110261_179088895131/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%",
+       "season": ""
+      },
+      {
+       "name": "שער ניצחון לנקו וויליאמס, 1:2 לוויילס מול נורבגיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1782366.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NORWAY_0110261_179088895158/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NORWAY_0110261_179088895158/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%",
+       "season": ""
+      },
+      {
+       "name": "בצל המחאות: אוסטריה חזרה מפיגור כפול ל-2:2 מול אירלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1782362.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_IRE_AUS_0110261_179088889097/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_IRE_AUS_0110261_179088889097/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370",
+       "season": ""
+      },
+      {
+       "name": "מביך ומשפיל! אירלנד ניצחה 0:3 את נבחרת ישראל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1780778.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISRAEL_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISRAEL_270926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561862&post",
+       "season": ""
+      },
+      {
+       "name": "שמרה על פסגת הבית: אוסטריה ניצחה 1:3 את קוסובו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1780667.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_AUSTRIA_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_AUSTRIA_270926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561859&p",
+       "season": ""
+      },
+      {
+       "name": "צמד גדול למירדינק: הולנד ניצחה 1:2 את סרביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1780669.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SERBIA_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SERBIA_270926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561857&post",
+       "season": ""
+      },
+      {
+       "name": "דנמרק גברה 0:2 על ווילס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1780636.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DEN_WALES_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DEN_WALES_270926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561854&poste",
+       "season": ""
+      },
+      {
+       "name": "עוד שברון לב: נבחרת ישראל הפסידה לאוסטריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1779681.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_240926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561604&po",
+       "season": ""
+      },
+      {
+       "name": "שער דרמטי לגאקפו, הולנד וגרמניה נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1779761.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_HOLLAND_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_HOLLAND_240926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561600&p",
+       "season": ""
+      },
+      {
+       "name": "בבכורה של ז'סוס: 0:1 לפורטוגל על ויילס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1779759.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_PORTUGAL_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_PORTUGAL_240926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561599&",
+       "season": ""
+      },
+      {
+       "name": "שער ניצחון למוריצ'י, 0:1 לקוסובו על אירלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1779744.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSOVO_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSOVO_240926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561598&po",
+       "season": ""
+      },
+      {
+       "name": "צמד להולאנד, 2:3 לנורבגיה על דנמרק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1779753.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NORWAY_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NORWAY_240926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561591&po",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "ליגת האומות - 2026",
+     "channels": [
+      {
+       "name": "תחושת החמצה: דור פרץ כבש, רק 1:1 מול אירלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1783437.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NIVHERET_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NIVHERET_041026/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "פורטוגל ברבע אחרי 1:2 ומהפך על נורווגיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1783490.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PORTUGAL_NORWAY_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PORTUGAL_NORWAY_041026/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "שלוש נקודות: 1:2 להולנד על סרביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1783494.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLLAND_SERBIA_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLLAND_SERBIA_041026/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "ממשיכה לאכזב: 0:0 לגרמניה מול יוון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1783501.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GREECE_GERMANY_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GREECE_GERMANY_041026/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "הוילונד הכריע: 0:1 לדנמרק על ווילס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1783505.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_WALES_DENMARK_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_WALES_DENMARK_041026/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "לא מצאה את הרשת: 0:0 בין ישראל לקוסובו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1782345.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISR_KOS_011026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISR_KOS_011026/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "ווירץ ובישוף כבשו, 0:2 לגרמניה מול סרביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1782376.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GERMANY_0110261_179088889126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GERMANY_0110261_179088889126/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "בלי רונאלדו: פורטוגל ניצחה 2:4 את דנמרק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1782370.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_DENEMARK_0110261_179088895105/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_DENEMARK_0110261_179088895105/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "עוד תיקו דרמטי: 2:2 בין הולנד ליוון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1782368.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GREECE_0110261_179088895131/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_GREECE_0110261_179088895131/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "שער ניצחון לנקו וויליאמס, 1:2 לוויילס מול נורבגיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1782366.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NORWAY_0110261_179088895158/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NORWAY_0110261_179088895158/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "בצל המחאות: אוסטריה חזרה מפיגור כפול ל-2:2 מול אירלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1782362.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_IRE_AUS_0110261_179088889097/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_IRE_AUS_0110261_179088889097/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "מביך ומשפיל! אירלנד ניצחה 0:3 את נבחרת ישראל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1780778.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISRAEL_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ISRAEL_270926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "שמרה על פסגת הבית: אוסטריה ניצחה 1:3 את קוסובו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1780667.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_AUSTRIA_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_AUSTRIA_270926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "צמד גדול למירדינק: הולנד ניצחה 1:2 את סרביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1780669.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SERBIA_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SERBIA_270926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "דנמרק גברה 0:2 על ווילס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1780636.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DEN_WALES_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DEN_WALES_270926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "עוד שברון לב: נבחרת ישראל הפסידה לאוסטריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1779681.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_240926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "שער דרמטי לגאקפו, הולנד וגרמניה נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1779761.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_HOLLAND_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_HOLLAND_240926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "בבכורה של ז'סוס: 0:1 לפורטוגל על ויילס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1779759.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_PORTUGAL_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_PORTUGAL_240926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "שער ניצחון למוריצ'י, 0:1 לקוסובו על אירלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1779744.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSOVO_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_KOSOVO_240926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "צמד להולאנד, 2:3 לנורבגיה על דנמרק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1779753.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NORWAY_240926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_NORWAY_240926/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האומות - 2020",
+     "channels": [
+      {
+       "name": "איטליה ניצחה את בלגיה וסיימה שלישית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1133660.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/WXquO2TKKL/App/NM_VO_TAK_ITALY_101021_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/WXquO2TKKL/App/NM_VO_TAK_ITALY_101021_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "זכתה בכרטיס לחצי: איטליה ניצחה את בוסניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1053775.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/k3vmzTy7oG/App/N_VO_BOSNIA_181120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/k3vmzTy7oG/App/N_VO_BOSNIA_181120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "בקלילות: אנגליה הביסה 0:4 את איסלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1053774.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/7r9zfYvnL1/App/N_VO_ENGLAND_181120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/7r9zfYvnL1/App/N_VO_ENGLAND_181120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "כובשת בצרורות: 2:4 לבלגיה על דנמרק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1053772.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/05er0EMXXc/App/N_VO_BELGIUM_181120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/05er0EMXXc/App/N_VO_BELGIUM_181120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "הבריק: סולומון כבש, ישראל ניצחה את סקוטלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1053728.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/1pMKXY6JNp/App/NM_VTR_TAK_NIVHERET_181120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/1pMKXY6JNp/App/NM_VTR_TAK_NIVHERET_181120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "מי תעצור אותה? 2:4 לצרפת על שבדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1053504.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/OgeYXjWEbO/App/NM_VTR_GOALS_FRANCE_171120_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/OgeYXjWEbO/App/NM_VTR_GOALS_FRANCE_171120_1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "תבוסה היסטורית: ספרד רמסה 0:6 את גרמניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1053506.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/h1smAXgZ37/App/NM_VTR_GOALS_SPAIN_171120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/h1smAXgZ37/App/NM_VTR_GOALS_SPAIN_171120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "מהפך דרמטי: 2:3 לפורטוגל על קרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1053508.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/ersjifA8pu/App/NM_VTR_GOALS_CROATIA_PORTUGAL_171120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/ersjifA8pu/App/NM_VTR_GOALS_CROATIA_PORTUGAL_171120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "קיארטנסון כבש, אך איסלנד הפסידה בדקה ה-92",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1053085.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/9wMedV3swQ/App/N_VO_DENEMARK_151120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/9wMedV3swQ/App/N_VO_DENEMARK_151120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "ראשונה בבית: איטליה ניצחה 0:2 את פולין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1053084.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/u6QznF6Lcs/App/NM_TAK_ITALY_151120_160547675828_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/u6QznF6Lcs/App/NM_TAK_ITALY_151120_160547675828_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "תצוגת תכלית: בלגיה הרשימה מול אנגליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1053082.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/aqlXz922AX/App/NM_TAK_BELGIA_151120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/aqlXz922AX/App/NM_TAK_BELGIA_151120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "בקצב גבוה: 2:3 נהדר לטורקיה על רוסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1053081.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV5/BiDTQfAntn/App/z1jvd4tlW1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV5/BiDTQfAntn/App/z1jvd4tlW1_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "ווינאלדום כיכב ב-1:3 של הולנד על בוסניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1053080.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV5/5YISpLhz7d/App/jGWl7740hm_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV5/5YISpLhz7d/App/jGWl7740hm_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "חסרת מחץ: הנבחרת הפסידה 1:0 בצ'כיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1053074.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/1No7zhyXjQ/App/NM_VTR_TAK_NIVHERET_151120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/1No7zhyXjQ/App/NM_VTR_TAK_NIVHERET_151120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "גולאסו לסאנה ב-1:3 של גרמניה על אוקראינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1052847.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/Va53QoJtAJ/App/NM_GERMANYV_141120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/Va53QoJtAJ/App/NM_GERMANYV_141120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "כאן אלופת העולם: צרפת ניצחה את פורטוגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1052846.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/8lUz0yfKl9/App/NM_PORTOGAL_141120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/8lUz0yfKl9/App/NM_PORTOGAL_141120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "קורה לגדולים ביותר: ראמוס החמיץ 2 פנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1052845.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/h3MZj8CVsm/App/NM_SPAIN_141120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/h3MZj8CVsm/App/NM_SPAIN_141120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "נקודות ראשונות: שבדיה ניצחה את קרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1052848.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/1YfUcRY3vK/App/NM_CROATYA_141120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/1YfUcRY3vK/App/NM_CROATYA_141120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "אמבפה הכריע, 1:2 מרשים לצרפת בקרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1045909.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/UW5UkK5lxV/App/N_VO_CROATIYA_141020_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/UW5UkK5lxV/App/N_VO_CROATIYA_141020_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      },
+      {
+       "name": "חלוקת נקודות: 1:1 לאיטליה מול הולנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1045926.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/YSQBR6aSYF/App/N_VO_ITALY_141020_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/YSQBR6aSYF/App/N_VO_ITALY_141020_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - 2020"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האומות - שלב הבתים",
+     "channels": [
+      {
+       "name": "שבדיה ניצחה את רוסיה ועלתה לפלייאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/878047.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/19/5c/195cd59c-c3af-4a56-ba2d-a0ff45d7cd03/211120180012_nm_vo_tak_sweden_201118_,800k,550k,1600k,1100k,350k,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/19/5c/195cd59c-c3af-4a56-ba2d-a0ff45d7cd03/211120180012_nm_vo_tak_sweden_201118_,800k,550k,1600k,1100k,350k,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "נותרה בדרג הראשון: פולין סחטה תיקו בפורטוגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/878044.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4d/8e/4d8e877d-e22e-4169-9893-50e886b3ffa2/201120182311_nm_vtr_tak_portugal_201118_,350k,1600k,550k,1100k,800k,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4d/8e/4d8e877d-e22e-4169-9893-50e886b3ffa2/201120182311_nm_vtr_tak_portugal_201118_,350k,1600k,550k,1100k,800k,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "עלתה בסטייל: סרביה בפלייאוף אחרי 1:4 על ליטא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/878055.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ad/17/ad170a7b-05d8-40ef-b6c4-2196f096ab56/211120180012_nn_vo_tak_serbia_201118_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ad/17/ad170a7b-05d8-40ef-b6c4-2196f096ab56/211120180012_nn_vo_tak_serbia_201118_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "כמה קרוב, ככה רחוק: ישראל הפסידה בסקוטלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/878019.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6c/3b/6c3bfd35-198e-4aaa-9957-16cf03c17d40/201120182311_nm_vtr_tak_nivheret_201118_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6c/3b/6c3bfd35-198e-4aaa-9957-16cf03c17d40/201120182311_nm_vtr_tak_nivheret_201118_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "שיא השפל: יוון הובכה בבית ע\"י אסטוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/877527.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/34/82/34821ede-eb5b-46f2-8cca-8b1b7b04af71/181120182311_nm_vtr_tak_greece_estonia_181118_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/34/82/34821ede-eb5b-46f2-8cca-8b1b7b04af71/181120182311_nm_vtr_tak_greece_estonia_181118_,35,110,55,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "0:2 להונגריה על פינלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/877531.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0e/d4/0ed454b7-8f73-4e59-a3bb-0b7789a956e5/191120180012_nm_vtr_tak_hungary_finland_181118_,55,80,110,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0e/d4/0ed454b7-8f73-4e59-a3bb-0b7789a956e5/191120180012_nm_vtr_tak_hungary_finland_181118_,55,80,110,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "מהפך אדיר ו-2:5 מטורף לשווייץ על בלגיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/877523.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/59/74/5974a211-e86b-4d48-9e94-d19104330522/181120182311_nm_vtr_tak_switzerland_belgium_181118_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/59/74/5974a211-e86b-4d48-9e94-d19104330522/181120182311_nm_vtr_tak_switzerland_belgium_181118_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "בדקה ה-93: 1:2 לאוסטריה על צפון אירלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/877494.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/73/e3/73e3895a-a5ea-4c78-bf72-c69816098b96/181120182109_nm_vo_tak_austria_181118_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/73/e3/73e3895a-a5ea-4c78-bf72-c69816098b96/181120182109_nm_vo_tak_austria_181118_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "אנגליה בחצי הגמר אחרי 1:2 דרמטי על קרואטיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/877441.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8d/0b/8d0bcd9e-eac6-455f-b612-fff5bacc9f66/181120181806_nm_tak_england_181118_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8d/0b/8d0bcd9e-eac6-455f-b612-fff5bacc9f66/181120181806_nm_tak_england_181118_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "ישראל התכונני: ההצגה של סקוטלנד באלבניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/877266.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d9/a4/d9a44b7e-9b9c-49a4-ae3b-b665b5e69d82/171120182311_nm_vtr_tak_scotland_albania_80_171118_,1600k,800k,550k,1100k,350k,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d9/a4/d9a44b7e-9b9c-49a4-ae3b-b665b5e69d82/171120182311_nm_vtr_tak_scotland_albania_80_171118_,1600k,800k,550k,1100k,350k,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "בדקה ה-90: בולגריה מנעה מקפריסין ורב\"ש ניצחון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/877077.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/27/bb/27bb6e36-d704-413c-8643-762c64cdb710/171120180012_nm_tak_kafrisin_bulgaria_161118_,1600k,1100k,550k,350k,800k,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/27/bb/27bb6e36-d704-413c-8643-762c64cdb710/171120180012_nm_tak_kafrisin_bulgaria_161118_,1600k,1100k,550k,350k,800k,.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "דנמרק עלתה לפלייאוף אחרי 1:2 בווילס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/877068.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/be/1d/be1db5ba-dec9-4a28-9541-168b7d362971/171120180012_nm_tak_wales_denemark_161118_,110,80,55,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/be/1d/be1db5ba-dec9-4a28-9541-168b7d362971/171120180012_nm_tak_wales_denemark_161118_,110,80,55,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "הכתום חוזר: הולנד הרשימה נגד אלופת העולם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/877049.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/35/2b/352b94ca-f904-436d-b38d-e2b7c0d2bf9b/161120182311_nm_vtr_tak_holand_france_161118_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/35/2b/352b94ca-f904-436d-b38d-e2b7c0d2bf9b/161120182311_nm_vtr_tak_holand_france_161118_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "הכל פתוח: 2:3 דרמטי לקרואטיה על ספרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/876902.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/26/2d/262d583a-657b-4214-bd15-c4070029b9ab/161120180101_nm_tak_england_coratia_151118_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/26/2d/262d583a-657b-4214-bd15-c4070029b9ab/161120180101_nm_tak_england_coratia_151118_,160,55,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "קרובה לעליה: 0:2 לבלגיה על איסלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/876887.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7c/d3/7cd38579-181b-4a84-9576-9a6ea7db8c7a/161120180101_nm_tak_belguim_iceland_151118_,55,160,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7c/d3/7cd38579-181b-4a84-9576-9a6ea7db8c7a/161120180101_nm_tak_belguim_iceland_151118_,55,160,35,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "מדהים: אנגליה ניצחה 2:3 בספרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/869092.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a7/c3/a7c37775-ae54-4cdb-a66b-1c5aa3b80be0/151020182311_nm_vtr_tak_spain_151018_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a7/c3/a7c37775-ae54-4cdb-a66b-1c5aa3b80be0/151020182311_nm_vtr_tak_spain_151018_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "איסלנד ספגה 2:1 ביתי משוויץ וירדה לדרג ב'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/869096.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/18/63/1863ff0a-9c8d-4792-8b26-7c7de48c4f4b/151020182311_nm_vtr_tak_iceland_151018_,55,80,110,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/18/63/1863ff0a-9c8d-4792-8b26-7c7de48c4f4b/151020182311_nm_vtr_tak_iceland_151018_,55,80,110,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "צמד של דז'קו השאיר את בוסניה בראשות הבית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/869098.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c4/fb/c4fb8fb4-9cfd-4eb4-8c2a-68750fad2d97/161020180012_nm_vtr_tak_bosnia_151018_,110,160,80,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c4/fb/c4fb8fb4-9cfd-4eb4-8c2a-68750fad2d97/161020180012_nm_vtr_tak_bosnia_151018_,110,160,80,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "חולמת: 0:2 לישראל על אלבניה בדרך למקום ה-1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/868851.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7c/ed/7ceddfea-df50-4070-9136-82a3f4bc696f/141020182311_nm_israel_141018_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7c/ed/7ceddfea-df50-4070-9136-82a3f4bc696f/141020182311_nm_israel_141018_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      },
+      {
+       "name": "תאמאש הורחק, רומניה חילצה נקודה מסרביה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/868734.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7a/51/7a51afa6-6c75-460b-af31-3b7417334891/141020181907_nm_romania_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7a/51/7a51afa6-6c75-460b-af31-3b7417334891/141020181907_nm_romania_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האומות - שלב הבתים"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

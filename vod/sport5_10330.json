@@ -1,0 +1,221 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - מוקדמות מונדיאל 2022",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10330",
+   "series_id": "10330",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1198450.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "ניצחון ממונדיאל: אוקראינה גברה 1:3 על סקוטלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1198450.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_UKRAINE_010622/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_UKRAINE_010622/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10330%26Vi=403621&poster",
+       "season": ""
+      },
+      {
+       "name": "השיגה את הכרטיס: 0:2 לפולין על שבדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1181490.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/0XeJ37es3z/App/NM_VTR_TAK_SWEDEN_POLAND_290322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/0XeJ37es3z/App/NM_VTR_TAK_SWEDEN_POLAND_290322_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer",
+       "season": ""
+      },
+      {
+       "name": "היא בקטאר: פרננדש כבש צמד, פורטוגל במונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1181485.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/UBXnapQr1y/App/NM_VTR_TAK_PORTUGAL_MAC_290322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/UBXnapQr1y/App/NM_VTR_TAK_PORTUGAL_MAC_290322_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=",
+       "season": ""
+      },
+      {
+       "name": "1:3 לפורטוגל על טורקיה בדרך לגמר הפלייאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1180270.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/I67l7oqe62/App/NM_PORTUGAL_240322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/I67l7oqe62/App/NM_PORTUGAL_240322_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.",
+       "season": ""
+      },
+      {
+       "name": "הלם: צ. מקדוניה הדיחה את איטליה בדקה ה-93!",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1180238.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/iYqXr2O3cE/App/NM_ITALY_240322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/iYqXr2O3cE/App/NM_ITALY_240322_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spo",
+       "season": ""
+      },
+      {
+       "name": "מאוחר ומתוק: שבדיה הדיחה את צ'כיה בהארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1180273.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/vr91Pp5BWu/App/NM_SWEEDWN_240322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/vr91Pp5BWu/App/NM_SWEEDWN_240322_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "כשהוא בא לנבחרת: בייל סחף את ווילס לגמר הפלייאוף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1180272.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/m9KyC7zber/App/NM_WALES_240322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/m9KyC7zber/App/NM_WALES_240322_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.spo",
+       "season": ""
+      },
+      {
+       "name": "המקום ה-3 הושג: 2:3 לישראל על איי פארו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1143094.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/1hZZQJ6Ptq/App/NM_VTR_ISRAEL_FAROE_NEW_151121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/1hZZQJ6Ptq/App/NM_VTR_ISRAEL_FAROE_NEW_151121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=",
+       "season": ""
+      },
+      {
+       "name": "הכל עשר: 0:10 לאנגליה בדרך למונדיאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1143102.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/oV4OdcIzpd/App/NM_VTR_ENGLAND_SAN_MARINO_151121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/oV4OdcIzpd/App/NM_VTR_ENGLAND_SAN_MARINO_151121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referre",
+       "season": ""
+      },
+      {
+       "name": "אלופת אירופה בצרות: איטליה מעדה בצפון אירלנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1143108.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/erfGr7mhV2/App/NM_VTR_NIR_ITALY_NEW_151121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/erfGr7mhV2/App/NM_VTR_NIR_ITALY_NEW_151121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=htt",
+       "season": ""
+      },
+      {
+       "name": "היא בקטאר: 0:4 גדול לשוויץ על בולגריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1143106.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/KmydzdeDOq/App/N_VO_SWITZERLAND_151121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/KmydzdeDOq/App/N_VO_SWITZERLAND_151121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https:/",
+       "season": ""
+      },
+      {
+       "name": "בדקה ה-90: סרביה במונדיאל על חשבון פורטוגל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1142842.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/25ve37mm2i/App/NM_VTR_PORTUGAL_SERBIA_141121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/25ve37mm2i/App/NM_VTR_PORTUGAL_SERBIA_141121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=h",
+       "season": ""
+      },
+      {
+       "name": "בקרוב בקטאר: ניצחון דרמטי לספרד על שבדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1142846.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/V2nSVmzBmH/App/NM_VTR_SPAIN_SWEDEN_141121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/V2nSVmzBmH/App/NM_VTR_SPAIN_SWEDEN_141121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=http",
+       "season": ""
+      },
+      {
+       "name": "צמד לגונדואן, גרמניה הביסה 1:4 את ארמניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1142785.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/nOXf3tzlDF/App/NM_VTR_ARMENIA_GERMANY_141121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/nOXf3tzlDF/App/NM_VTR_ARMENIA_GERMANY_141121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=h",
+       "season": ""
+      },
+      {
+       "name": "רביעייה לאמבפה, צרפת חגגה עם 0:8 על קזחסטן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1142555.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/A6JcYR5f7u/App/NM_VTR_FRANCE_KAZACHSTAN_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/A6JcYR5f7u/App/NM_VTR_FRANCE_KAZACHSTAN_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer",
+       "season": ""
+      },
+      {
+       "name": "בלגיה העפילה למונדיאל עם 1:3 על אסטוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1142581.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/ovjOI3AOif/App/NM_VTR_BELGIUM_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/ovjOI3AOif/App/NM_VTR_BELGIUM_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://v",
+       "season": ""
+      },
+      {
+       "name": "הולנד איבדה יתרון כפול וסיימה ב-2:2 נגד מונטנגרו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1142585.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/GspaeSVbr2/App/NM_VTR_NETHERLANDS_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/GspaeSVbr2/App/NM_VTR_NETHERLANDS_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https",
+       "season": ""
+      },
+      {
+       "name": "ב-10 שחקנים: פינלנד ניצחה 1:3 את בוסניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1142577.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/BvNav5B6dt/App/NM_VTR_BOSNIA_FINLAND_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/BvNav5B6dt/App/NM_VTR_BOSNIA_FINLAND_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=ht",
+       "season": ""
+      },
+      {
+       "name": "צמד לראמזי, ווילס הביסה 1:5 את בלארוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1142587.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/utEIskXCFD/App/NM_VTR_WALSE_BELARUS_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/utEIskXCFD/App/NM_VTR_WALSE_BELARUS_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=htt",
+       "season": ""
+      },
+      {
+       "name": "3 בישולים ליילמאז: טורקיה הביסה את גיברלטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1142534.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/LAzACcyQDQ/App/NM_VTR_TURKEY_GIBRALTAR_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/LAzACcyQDQ/App/NM_VTR_TURKEY_GIBRALTAR_131121_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

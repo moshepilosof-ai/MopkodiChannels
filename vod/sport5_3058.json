@@ -1,0 +1,3121 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - גביע הטוטו",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "3058",
+   "series_id": "3058",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1753464.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:06",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "ממשיכה להיראות רע: מכבי חיפה נכנעה 3:0 לק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1753464.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_KASH_280726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HAIFA_KASH_280726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3058%26Vi=554595&poste",
+       "season": ""
+      },
+      {
+       "name": "שבוע מוצלח: הפועל חיפה גברה 1:3 על טבריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1753436.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_TOTO_280726/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_TOTO_280726/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3058%26Vi=554594&pos",
+       "season": ""
+      },
+      {
+       "name": "הפועל ת\"א ניצחה 2:3 בדרבי וזכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796516.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_TOTO_291026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GMAR_TOTO_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=565640&post",
+       "season": ""
+      },
+      {
+       "name": "בית\"ר גברה על הפועל ר\"ג בדו קרב פנדלים לאחר 3:3 אדיר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1762910.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_180826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_180826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=556673&poster=",
+       "season": ""
+      },
+      {
+       "name": "לא מוכנה לליגה: מכבי חיפה הפסידה 0:1 להפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1762918.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_170826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_170826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=556672&poste",
+       "season": ""
+      },
+      {
+       "name": "מכבי ת\"א גברה 0:1 על נתניה ועלתה לגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1762543.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NETANYA_MTA_160826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_NETANYA_MTA_160826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=556532&pos",
+       "season": ""
+      },
+      {
+       "name": "בתום דרמה גדולה: הפועל ת\"א בגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1762540.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_KASH_HTA_160826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_KASH_HTA_160826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=556531&poster",
+       "season": ""
+      },
+      {
+       "name": "לא חזרה מאירופה: ב\"ש הובסה עם הרכב משני נגד הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1761959.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAIFA_BASH_150826_80/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAIFA_BASH_150826_80/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=556400&",
+       "season": ""
+      },
+      {
+       "name": "סכנין גברה על הפועל פ\"ת וסיימה במקום ה-13 בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1761946.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_HPAT_150826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_HPAT_150826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=556399&p",
+       "season": ""
+      },
+      {
+       "name": "מכבי פ\"ת חגגה על טבריה וסיימה במקום ה-11 בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1761952.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TVERIA_MPT_150826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TVERIA_MPT_150826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=556398&pos",
+       "season": ""
+      },
+      {
+       "name": "סיימה בטעם טוב: מכבי חיפה ניצחה 0:1 את בני סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1759449.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAIFA_TOTO_080826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAIFA_TOTO_080826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=555707&pos",
+       "season": ""
+      },
+      {
+       "name": "ק\"ש גברה על הפועל חיפה ועלתה לחצי גמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1759459.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_TOTO_080826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_TOTO_080826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=555706&post",
+       "season": ""
+      },
+      {
+       "name": "נשארה בתמונת חצי הגמר: 0:2 לנתניה על הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1757529.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_050826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_050826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=555401&poster",
+       "season": ""
+      },
+      {
+       "name": "בדקה ה-95: הפועל ר\"ג סחטה 2:2 נגד הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1757561.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMGAN_050826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMGAN_050826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=555400&poster=",
+       "season": ""
+      },
+      {
+       "name": "חגיגת שערים: 2:4 למכבי חיפה על עירוני טבריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1757092.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MHAIFA_040826_FULL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MHAIFA_040826_FULL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=555344",
+       "season": ""
+      },
+      {
+       "name": "אוגריסה כבש, עירוני ק''ש ניצחה 0:1 את סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1757044.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASH_NEW_040826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASH_NEW_040826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=555343&po",
+       "season": ""
+      },
+      {
+       "name": "נגד האקס: הפועל י-ם גברה על מכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1756311.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_020826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_020826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=555110&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "קצב מסחרר: 2:3 לר\"ג על נתניה, חזיזה בישל בבכורה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1756345.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NATANYA_75_020826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NATANYA_75_020826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=555109&",
+       "season": ""
+      },
+      {
+       "name": "דרמה אדירה בסיום: הפועל חיפה גברה על בני סכנין 1:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1755930.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SACHNIN_010826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SACHNIN_010826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=554993&pos",
+       "season": ""
+      },
+      {
+       "name": "6 מ-6: קריית שמונה ניצחה את עירוני טבריה 0:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1755924.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_TVERIYA_010826/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_TVERIYA_010826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12339%26Vi=554992&pos",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2025/26",
+     "channels": [
+      {
+       "name": "בפעם ה-4 בהיסטוריה: בית\"ר י-ם זכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1621199.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HANAFA_GMAR_TOTO_281025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HANAFA_GMAR_TOTO_281025/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "הפועל מחכה לה: בית\"ר י-ם עלתה לגמר הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1589389.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_180828/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_180828/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "צמד לשכר: מכבי חיפה הפסידה לריינה בטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1589016.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_170825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_170825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "מכבי ת\"א ניצחה את הפועל י-ם וסיימה 5 בטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1589018.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACABI_JER_170825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACABI_JER_170825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "עלתה לגמר: הפועל ת\"א ניצחה את הפועל ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1588484.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOTO_BASH_HTA75_160825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOTO_BASH_HTA75_160825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "מכבי נתניה גברה 0:1 על הפועל ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1588532.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOTO_NTANYA_160825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOTO_NTANYA_160825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "אחרי דו קרב פנדלים: בני סכנין ניצחה את מ.ס אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1588519.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOTO_ASHDOD_160825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOTO_ASHDOD_160825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "מותחן מהסרטים: הפועל פ\"ת גברה על טבריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1588510.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOTO_HPTAH_160825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOTO_HPTAH_160825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "עם שער בדקה ה-93: קרית שמונה ניצחה 1:2 את טבריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1586460.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASH_100825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASH_100825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "חגיגה של שערים: בני ריינה ניצחה 2:4 את סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1586462.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REINEH_100825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REINEH_100825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "הפועל ת\"א גברה על אשדוד והעפילה לחצי גמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1585984.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_TOTO_0908225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_TOTO_0908225/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "0:4 גדול להפועל י-ם על נתניה לא הספיק לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1585982.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_TOTO_090825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_TOTO_090825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "מחצית אדירה: מכבי נתניה ניצחה 0:3 את הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1584740.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_050825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_050825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "הפועל פ\"ת ניצחה 0:3 את מ.ס. אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1584703.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_050825/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_050825/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "זיקרי כבש, הפועל חיפה גברה על בני סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1583004.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_300725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_300725/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "מהפך של ריינה קבע 1:2 נגד הפועל ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1583002.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASH_300725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_KASH_300725/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "צמד לטוריאל: הפועל ת\"א הביסה את הפועל י-ם 0:3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1582604.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_290725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_290725/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "אחרי שפיגרה בדקה ה-85: מכבי נתניה גברה 2:3 על הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1582602.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPTH_TOTO_290725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPTH_TOTO_290725/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "משוגע: הפועל חיפה הפכה מ-3:0 ל-3:4 מול בני ריינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1581923.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAINE_TOTO_270725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAINE_TOTO_270725/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      },
+      {
+       "name": "טבריה כפתה 1:1 מבני סכנין בתוספת הזמן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1581909.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACKHNIN_270725/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACKHNIN_270725/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2025/26"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2024/25",
+     "channels": [
+      {
+       "name": "הגביע שלה: מכבי ת\"א גברה 1:3 על מכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1489054.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GMAR_TOTO_251224_11/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GMAR_TOTO_251224_11/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "הצגה: בית''ר י-ם הביסה 1:4 את מכבי פ''ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1438531.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MPT_FULL_190824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MPT_FULL_190824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "בגמר גביע הטוטו: מכבי ת\"א ניצחה 1:2 את סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1438166.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_180824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_180824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "על הבאזר: טבריה ניצחה 2:3 את באר שבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1438136.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_FULL_BASH_180824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_FULL_BASH_180824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "חגיגת שערים: מ.ס אשדוד ניצחה 2:4 את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1438116.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_180824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_180824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "הפועל י-ם גברה על ריינה בפנדלים וסיימה 11 בטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1437712.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REINE_170824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REINE_170824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "חדרה גברה על ק\"ש וסיימה במקום ה-9 בטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1437656.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HADERA_170824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HADERA_170824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "סבע בא: חיפה הפכה וניצחה 1:2, צמד לקשר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1437742.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MHAIFA_170824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MHAIFA_170824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "אבו פרחי כבש: ריינה ניצחה 0:2 את ק''ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1435706.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REINA_110824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REINA_110824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "אלפרד כבש, ק\"ש ניצחה 1:2 את סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1433096.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_070824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_070824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "הפועל חיפה כפתה 1:1 בדקה ה-93 מול טבריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1433094.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TVERIA_070824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TVERIA_070824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "הפועל חדרה ניצחה 0:2 את מ.ס אשדוד בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1432361.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_060824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_060824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "0:2 גדול לבית\"ר בדרבי הירושלמי בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1432343.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_060824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_060824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "ניצחון בכורה: סכנין ניצחה את ריינה 1:2 בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1430736.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SAHNIN_REINA_040824_75/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SAHNIN_REINA_040824_75/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "דרמטי: ק\"ש השוותה בדקה ה-96 וכפתה 1:1 נגד הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1430740.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HHAIFA_KASH_040824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HHAIFA_KASH_040824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "מהפך מרשים: אשדוד גברה 3:4 על בית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1429982.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BITER_TOTO_030824_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BITER_TOTO_030824_1/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "מושלמת בטוטו: 1:2 לנתניה על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1429984.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_TOTO_030824/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_TOTO_030824/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "שער בכורה לדיסטלפלד ב-2:4 של הפועל י-ם על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1424946.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HJER_280724_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HJER_280724_1/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "שלושער לזלאטנוביץ' ב-2:5 של נתניה על חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1424948.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HEDERA_NATANYA_280724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HEDERA_NATANYA_280724/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      },
+      {
+       "name": "חלוקת נקודות: 2:2 בין הפועל חיפה לסכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1424952.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAIFA_SACHNIN_280724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAIFA_SACHNIN_280724/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2024/25"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2023/24",
+     "channels": [
+      {
+       "name": "בתום דו קרב פנדלים: מכבי ת\"א זכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1352317.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_TOTO_250124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_TOTO_250124/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "הפועל פ\"ת ניצחה את ריינה: שער דרמטי לבאסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1312640.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_210823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_210823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "מכבי ת\"א חגגה 1:5 על סכנין בדרך לגמר הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1312414.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SACHNIN_200823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SACHNIN_200823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "צמד לאזולאי, נתניה הביסה 1:4 את ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1312389.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_75_NATANYA_BASH_200823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_75_NATANYA_BASH_200823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "שער ובישול לחלאילי, מכבי חיפה בגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1312087.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPAT_MHAIFA_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPAT_MHAIFA_190823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "בדקה ה-97: 0:1 דרמטי להפועל על בית\"ר בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1312131.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBI_JER_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBI_JER_190823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "שער בכורה לצ'יבוטה, 3:5 להפועל ת\"א על חדרה בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1312056.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_TLV_HEDERA_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_TLV_HEDERA_190823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "הפועל חיפה גברה על אשדוד בתום דו קרב פנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1312077.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HHAIFA_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HHAIFA_190823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "בן שהר כיכב בניצחון מכבי פ\"ת נגד הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1310625.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_120823_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_120823_2/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "בריהון כבש: מ.ס אשדוד גברה על הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1310622.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_PATH_120823_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_PATH_120823_2/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "טיפת מזל: אשדוד גברה 0:1 על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1309749.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_080823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_080823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "בדקה ה-96: מכבי פ\"ת ניצחה 1:2 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1309737.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MPAT_080823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MPAT_080823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "עדיין מושלמת בטוטו: 1:2 לסכנין מול חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1309337.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_HEDERA_060823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_HEDERA_060823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "פנדל מפוקפק קבע 1:1 בין הפועל ת\"א להפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1309047.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_050823_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_050823_2/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "מרשימה בטוטו: 0:2 להפועל ירושלים נגד אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1309078.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_RAGAL_080523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_RAGAL_080523/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "בדקה ה-95: בני ריינה השוותה מול הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1309046.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_050823_3/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_050823_3/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "חדרה גברה 1:2 על הפועל חיפה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1308427.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HADERA_020823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HADERA_020823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "מסירות חלודה: תיקו בין בני ריינה לנתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1308443.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_REINA_NATANYA_020823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_REINA_NATANYA_020823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "מכבי פ\"ת סחטה נקודה מאשדוד בדקה ה-84",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1308216.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ASH_MPAT_010823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ASH_MPAT_010823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      },
+      {
+       "name": "1:5 גדול להפועל י-ם על הפועל פ\"ת בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1308215.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_010823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_010823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2022/23",
+     "channels": [
+      {
+       "name": "חיכתה מספיק: מכבי נתניה זכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1258243.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_toto_180123_hanafa/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_toto_180123_hanafa/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "הרוש כבש והציל 3 פנדלים בדרך לגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1246887.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_FULL_081222_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_FULL_081222_1/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "קלי קלות: מכבי חיפה גברה 1:4 על סכנין בטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1246890.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FULL_MHAIFA_TOTO_081222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FULL_MHAIFA_TOTO_081222/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "ג'ראפי הורחק, אשדוד ספגה 1:0 מריינה בטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1246798.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDUD_TOTO_081222_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDUD_TOTO_081222_1/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "עולה ראשונה לגמר: נתניה גברה על חדרה בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1246516.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_071222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NATANYA_071222/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "מכבי ת\"א גברה 0:2 על הפועל י-ם וסיימה 7 בטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1246492.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_maccabi_new_071222_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_maccabi_new_071222_1/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "שבירו כבש ובישל, ק\"ש גברה 1:3 על בית\"ר י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1246485.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_071222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEITAR_071222/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "מבול של שערים: 4:5 ענק לנס ציונה על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1246470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_071222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_071222/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "שער גדול קבע: 0:1 לבית\"ר על הפועל בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1225762.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_220922_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_220922_2/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "אוז'בולט כבש, הפועל ת\"א ניצחה 1:2 את בית\"ר י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1214866.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_130822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_130822/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "שער יפה לטוגי ב-0:2 של הפועל י-ם על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1214874.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_130822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_130822/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "פדידה כבש, חדרה גברה 1:3 על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1214860.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_130822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HHAIFA_130822/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "שני בישולים לקהת ב-1:2 של ק\"ש על בני ריינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1214857.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REYNA_130822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REYNA_130822/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "ברוכה הבאה: ריינה ניצחה 1:3 את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1212586.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REYNE_030822_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REYNE_030822_1/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "שער יפה לבוראר, הפועל חדרה גברה 1:2 על סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1212577.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SACHNIN_030822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SACHNIN_030822/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "חילו ומלמד כבשו ב-0:2 של סכנין על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1211942.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_310722_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_310722_1/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "הפועל חדרה גברה על ק\"ש בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1211950.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_HADERA_310722_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_HADERA_310722_1/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "פתחה ברגל ימין: הפועל ניצחה 1:3 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1211569.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPOEL_JER_300722_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPOEL_JER_300722_2/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      },
+      {
+       "name": "בפנדלים: נתניה הדיחה את מכבי ת\"א מגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1208135.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_NEW_140722/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_NEW_140722/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2022/23"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2020/21",
+     "channels": [
+      {
+       "name": "בתום דו קרב פנדלם: סכנין גברה על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1122413.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/jO5MHcvaCV/App/NM_TOTO_ASHDOD_SACHNIN_210821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/jO5MHcvaCV/App/NM_TOTO_ASHDOD_SACHNIN_210821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "סיימה במקום ה-9: 0:2 לנתניה מול חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1122410.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PWasrY4lPA/App/TAK_NETANYA_HADERA_NEW_210821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/PWasrY4lPA/App/TAK_NETANYA_HADERA_NEW_210821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "טעות ביזארית לברטקוס ב-0:3 של פ\"ת על ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1122278.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/fhzx0z9p7v/App/NM_TOTO_KASH_MPT_210821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/fhzx0z9p7v/App/NM_TOTO_KASH_MPT_210821_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "מכבי ת\"א זכתה בגביע הטוטו, שער נהדר לביטון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1035407.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/qn8Cy6rdS7/App/NM_VTR_MACCABI_NEWWW_220820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/qn8Cy6rdS7/App/NM_VTR_MACCABI_NEWWW_220820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "יש כרטיס לגמר: סכנין סחטה 1:1 בק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1034171.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/5NXtRFueeh/App/NM_TAK_KASH_SACHNIN_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/5NXtRFueeh/App/NM_TAK_KASH_SACHNIN_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "הדרבי הראשון ירוק: מכבי חיפה ניצחה את הפועל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1034121.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/FcduzDHaVg/App/NM_TAK_HAIFA_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/FcduzDHaVg/App/NM_TAK_HAIFA_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "0:3 מרשים לבני יהודה על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1034077.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/2dN179k0Fg/App/NM_TAK_HAPOEL_BNEY_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/2dN179k0Fg/App/NM_TAK_HAPOEL_BNEY_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "יריית הפתיחה: 0:2 לבית\"ר י-ם באשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1034081.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/TFQKLVnJ7M/App/NM_VTR_TAK_BEITAR_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/TFQKLVnJ7M/App/NM_VTR_TAK_BEITAR_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "פרייטר בישל בבכורה, 0:1 לנתניה על חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1033846.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/uMjRSt4UGd/App/NM_TAK_HADERA_NATANYA_150820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/uMjRSt4UGd/App/NM_TAK_HADERA_NATANYA_150820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "הרשימה: 1:4 לכפ\"ס על מכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1033847.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/HCJsTEmi5z/App/NM_TAK_MPT_KAFS_150820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/HCJsTEmi5z/App/NM_TAK_MPT_KAFS_150820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "הפסד ראשון בעידן בכר: סכנין ניצחה את חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1033178.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/h2f7wirqeY/App/NM_TAK_SACHNIN_M_HAIFA_120820_FULL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/h2f7wirqeY/App/NM_TAK_SACHNIN_M_HAIFA_120820_FULL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "2:2 נהדר בין הפועל חיפה וק\"ש, שער גדול לסרדל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1033170.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/n6rTrj8vfA/App/SARDAL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/n6rTrj8vfA/App/SARDAL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "דגני פגש את האקסית, 0:0 בין בית\"ר להפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1032965.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/h1a2nV857C/App/NM_VTR_TAK_BEITAR_1108202_159717704168_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/h1a2nV857C/App/NM_VTR_TAK_BEITAR_1108202_159717704168_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "אינברום הכריע: מכבי פ\"ת גברה על נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1032940.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/EFOMfWVFtG/App/NM_VTR_TAK_NATANYA_PAT_110820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/EFOMfWVFtG/App/NM_VTR_TAK_NATANYA_PAT_110820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "רביעייה נדירה ליחזקאל, 1:5 לאשדוד על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1032924.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/ESR3MdpJKa/App/NM_VTR_TAK_BNEY_110820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/ESR3MdpJKa/App/NM_VTR_TAK_BNEY_110820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "פתיחה חלקה: חיפה ניצחה בק\"ש בבכורה של בכר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1032474.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/251F2L0JBh/App/NM_TAK_HAIFA_80_090820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/251F2L0JBh/App/NM_TAK_HAIFA_80_090820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "טוב שבאתם: שער גדול לשאמי ב-0:2 של סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1032448.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/OgQdGrpMgM/App/NM_VTR_TAK_HAIFA_SACHNIN_080920_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/OgQdGrpMgM/App/NM_VTR_TAK_HAIFA_SACHNIN_080920_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "יהלום: שער ו-2 בישולים למלדה ב-0:3 של נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1032182.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/CfOflr7jiL/App/NM_VTR_TAK_NATANYA1_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/CfOflr7jiL/App/NM_VTR_TAK_NATANYA1_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "גומה כבש בבכורה המחודשת, 1:1 בין חדרה לפ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1032178.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/jTslzzjtyt/App/NM_MPT_HADERA_080820_FULL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/jTslzzjtyt/App/NM_MPT_HADERA_080820_FULL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      },
+      {
+       "name": "החמצה ענק לבני יהודה ב-0:0 מול בית\"ר י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1032126.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/fhpCpn3yPa/App/NM_TAK_BEITAR_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/fhpCpn3yPa/App/NM_TAK_BEITAR_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2019/20",
+     "channels": [
+      {
+       "name": "אחרי 9 שנים: בית\"ר י-ם זכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/962348.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/dbddWYeCdJ/App/NM_VTR_TOTTO_TAK_HANAFA_240919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/dbddWYeCdJ/App/NM_VTR_TOTTO_TAK_HANAFA_240919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "מכבי מחכה: בית\"ר בגמר אחרי 1:3 על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/953946.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/mxPPPmXdZ2/App/NM_VTR_TAK_BEITAR_180819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/mxPPPmXdZ2/App/NM_VTR_TAK_BEITAR_180819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "ברטקוס טעה בגדול, מכבי בגמר גביע טוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/953898.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/qtXH5xlUuR/App/F9GOALMACCABI_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/qtXH5xlUuR/App/F9GOALMACCABI_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "הקיץ העגום נמשך: הפסד חמישי רצוף להפועל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/954187.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/RqZE9FLvNM/App/NM_VTR_HTA_KAFAS_190819_85_3_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/RqZE9FLvNM/App/NM_VTR_HTA_KAFAS_190819_85_3_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "לפני מאלמו: בני יהודה הפסידה לאשדוד בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/954153.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/t4k0nd7JvG/App/NM_VTR_TAK_ASHDOD_190819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/t4k0nd7JvG/App/NM_VTR_TAK_ASHDOD_190819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "מאיר כבש בתוספת הזמן, חיפה במקום השביעי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/953737.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/74Ac0LHVD5/App/NM_VTR_TAK_MHAIFA_170819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/74Ac0LHVD5/App/NM_VTR_TAK_MHAIFA_170819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "נמני כבש, רעננה ניצחה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/953738.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/MM6wDyeJN9/App/NM_VTR_TAK_RAANANA_170819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/MM6wDyeJN9/App/NM_VTR_TAK_RAANANA_170819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "אג'ידה הדף, חדרה ניצחה את נס ציונה בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/953739.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/rDrNAGvj78/App/NM_VTR_TAK_HADERA_170819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/rDrNAGvj78/App/NM_VTR_TAK_HADERA_170819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "לא מוכנה לליגה: הפסד 4 ברציפות להפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/952690.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/BnzM2T74xu/App/NM_TAK_HAPOEL_120819_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/BnzM2T74xu/App/NM_TAK_HAPOEL_120819_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "מוכנה לליגה: אשדוד דרסה 1:4 את רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/952712.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/g79GNWVHwj/App/NM_VTR_TAK_RAANANNA_ASHDOD_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/g79GNWVHwj/App/NM_VTR_TAK_RAANANNA_ASHDOD_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "ב\"ש מחכה: בית\"ר בחצי הגמר עם 1:1 מול אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/951712.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/Q6aQ1DgRRb/App/NM_BEITAR_070819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/Q6aQ1DgRRb/App/NM_BEITAR_070819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "המאמן, העוזר והקפטן הורחקו: 0:0 לרעננה ונס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/951465.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KGFm3RleaI/App/NM_VTR_NASATZ_RAANANA_060819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KGFm3RleaI/App/NM_VTR_NASATZ_RAANANA_060819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "מבצע מרהיב הכריע: בית\"ר גברה על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/951208.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/c6Bn5PUoVt/App/NM_TAK_HAPOEL_TLV_040819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/c6Bn5PUoVt/App/NM_TAK_HAPOEL_TLV_040819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "מבצע מרהיב הכריע: בית\"ר גברה על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/951070.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/c6Bn5PUoVt/App/NM_TAK_HAPOEL_TLV_040819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/c6Bn5PUoVt/App/NM_TAK_HAPOEL_TLV_040819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "מ.ס. אשדוד ונס ציונה נפרדו בתיקו 1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/950804.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/OF2trCkrMW/App/NM_TAK_ASHDOD_NES_ZIEONA_03081119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/OF2trCkrMW/App/NM_TAK_ASHDOD_NES_ZIEONA_03081119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "וירטואוז: אוחנה כבש, בית\"ר ניצחה את רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/950337.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/8gBG3b5WsK/App/NM_TAK_VTR_BEITAR_310719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/8gBG3b5WsK/App/NM_TAK_VTR_BEITAR_310719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "מהפך: אשדוד חזרה מ-2:0 ל-2:3 מול הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/950025.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/hp1Tg9V7aw/App/NM_TAK_ASHDOD_300719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/hp1Tg9V7aw/App/NM_TAK_ASHDOD_300719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "התחלה מתוקה: 1:2 דרמטי לבית\"ר על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/949604.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/A8nVl6FamF/App/NM_VTR_TAK_BEITAR_90_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/A8nVl6FamF/App/NM_VTR_TAK_BEITAR_90_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "מחיר הטעויות: הפועל ת\"א הפסידה 2:1 לרעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/949354.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/gj92QoALye/App/NM_VTR_HTA_RAANANA_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/gj92QoALye/App/NM_VTR_HTA_RAANANA_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      },
+      {
+       "name": "חדרה השלימה מהפך וניצחה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/952719.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/Gv4WTxhYBE/App/NM_VTR_HHAIFA_HADERA_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/Gv4WTxhYBE/App/NM_VTR_HHAIFA_HADERA_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2018/19",
+     "channels": [
+      {
+       "name": "2:3 למכבי חיפה בדרבי בדרך לגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/857549.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0b/c1/0bc1bd09-4b89-4104-9cde-29c13f7dea2e/200820182311_nm_tak_derbi_haifa_200818_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הדרבי של חיפה הסתיים בדו קרב פנדלים בסיומו הירוקים העפילו לגמר גביע הטוטו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0b/c1/0bc1bd09-4b89-4104-9cde-29c13f7dea2e/200820182311_nm_tak_derbi_haifa_200818_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "העיר שלה: מכבי ת\"א חגגה עם 1:4 גדול בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/857322.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ee/2e/ee2ed780-cc0b-4272-8c00-61fbc12f8368/190820182311_nm_vtr_tak_derbi_190818_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצהובים העפילו בסטייל לגמר גביע הטוטו. שחר פיבן, אופואדו ויונתן כהן עם צמד כבשו למכבי, עאבד רק איזן זמנית",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ee/2e/ee2ed780-cc0b-4272-8c00-61fbc12f8368/190820182311_nm_vtr_tak_derbi_190818_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "ניצחון ראשון להפועל חדרה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/857073.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/72/43/72435bfb-5665-40f4-9451-f3404fac9dd0/NM_VTR_TAK_ASHDOD_HADERA_180818_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בישול ושער של חטיב ביטלו יתרון מוקדם של חן עזריאל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/72/43/72435bfb-5665-40f4-9451-f3404fac9dd0/NM_VTR_TAK_ASHDOD_HADERA_180818_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "הפועל רעננה הנחילה לק\"ש הפסד נוסף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/857040.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4b/98/4b989457-a1d0-4c08-9f5b-bf88ac667981/NM_VTR_TAK_RAANANA_KASH_180818_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה של סילבס סיימה את דרכה בגביע הטוטו ללא אף ניצחון. יואב תומר הכריע בדקה ה-55",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4b/98/4b989457-a1d0-4c08-9f5b-bf88ac667981/NM_VTR_TAK_RAANANA_KASH_180818_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "סכנין גברה על בני יהודה בדו קרב פנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/857063.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/98/b8/98b86fb9-49c8-46f7-8dc8-23b6263a713d/NM_VTR_TAK_BNEY_SACHNIN_180818_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בני בן זקן צפה מהיציע בשחקניו מסיימים במקום ה-9 בגביע הטוטו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/98/b8/98b86fb9-49c8-46f7-8dc8-23b6263a713d/NM_VTR_TAK_BNEY_SACHNIN_180818_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "שבוע לפתיחת הליגה: מכבי פ\"ת חגגה על בית\"ר  י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/857088.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f5/f1/f5f1a0be-a879-4f2c-8ff9-5a38bf93d43e/NM_VTR_TAK_BEITAR_MPT_180818_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עידן חוגג בבירה נפתח עם הפסד למלאבסים. קניוק, דנינו וסולומון כבשו, ורד צימק בשער נהדר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f5/f1/f5f1a0be-a879-4f2c-8ff9-5a38bf93d43e/NM_VTR_TAK_BEITAR_MPT_180818_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "דרך חדשה? ניצחון ראשון לב\"ש מזה כחודש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/857294.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5d/95/5d95cf66-a413-48dc-b77c-195c5c75653c/190820182109_nm_vtr_tak_bash_vs_natanya_190818_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האלופה השיגה ניצחון אחרי שורת ההפסדים במסגרות האירופיות. מלמד וגדיר כבשו לב\"ש, סבע רק צימק",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5d/95/5d95cf66-a413-48dc-b77c-195c5c75653c/190820182109_nm_vtr_tak_bash_vs_natanya_190818_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "שער בזק של אורמוש העניק ניצחון לרעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/855965.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/33/c9/33c92e36-e680-4bfb-a3e5-2297ffb07532/120820182311_nm_tak_ranana_120818_,110,55,35,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקרואטי 0:1 לקורצקי במשחק לפרוטוקול בלבד מול מכבי פ\"ת",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/33/c9/33c92e36-e680-4bfb-a3e5-2297ffb07532/120820182311_nm_tak_ranana_120818_,110,55,35,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "נתניה קופחה והודחה אחרי 1:1 מול סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/855966.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/64/00/6400ee97-9ae8-483d-b384-44142cf57342/120820182210_nm_vo_natanya_120818_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "2 פנדלים ברורים לא נשרקו ליהלומיים שסיימו את דרכם בגביע הטוטו. מוגרבי דייק בפנדל, אברהם איזן",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/64/00/6400ee97-9ae8-483d-b384-44142cf57342/120820182210_nm_vo_natanya_120818_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "מופע פרידה? שער ובישול להאסלביינק מול חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/855692.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e1/62/e1620f9b-e5ff-4738-8984-1b2129190639/110820182210_nm_vtr_hedera_110818_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בצל השמועות על מעבר לב\"ש, ההולנדי העניק ניצחון בכורה לסילבס בגביע הטוטו עם 0:2 מול העולה החדשה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e1/62/e1620f9b-e5ff-4738-8984-1b2129190639/110820182210_nm_vtr_hedera_110818_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "חגיגת שערים: 3:3 בין בני יהודה לאשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/855693.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a0/48/a04832fd-5113-47ac-815e-772dcb613ff9/110820182210_nm_vtr_beni_110818_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שועה מחק יתרון מהיר של עמית ביטון, הבראן וביטון קבעו את תוצאת המשחק. שתי הקבוצות סיימו את דרכן במפעל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a0/48/a04832fd-5113-47ac-815e-772dcb613ff9/110820182210_nm_vtr_beni_110818_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "הצגה באדום: 0:3 להפועל ת\"א באשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/855104.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/52/65/52650480-8677-435a-9c91-409cba6d8d3a/080820182210_nm_vtr_tak_toto_ashdod_hapoel_080818_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לקס, עאבד ודמארי כבשו. האדומים עלו לחצי הגמר וצפויים לפגוש את מכבי ת\"א לדרבי תל אביבי לוהט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/52/65/52650480-8677-435a-9c91-409cba6d8d3a/080820182210_nm_vtr_tak_toto_ashdod_hapoel_080818_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "מכבי פ\"ת הודחה אחרי תיקו מול בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/855080.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/71/56/715651ad-89a1-4da6-b990-11f09ff900cb/080820182109_nm_tak_mpt_080818_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "חניכיו של אלישע לוי נראו רע מול ב-0:0 מול הכתומים",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/71/56/715651ad-89a1-4da6-b990-11f09ff900cb/080820182109_nm_tak_mpt_080818_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "חיפה דרסה 0:4 את חדרה, 3 בישולים לעוואד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/854879.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3a/01/3a01385e-c55e-4657-ae18-9e92285eddc9/070820182311_nm_vtr_tak_hedera_mhaifa_070818_,80,160,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הירוקים שמרו על סיכוי לעלות לחצי הגמר במידה ונתניה לא תנצח את בני יהודה. רוקאביצה, דוס סנטוס, אזולאי ווייסמן כבשו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3a/01/3a01385e-c55e-4657-ae18-9e92285eddc9/070820182311_nm_vtr_tak_hedera_mhaifa_070818_,80,160,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "זועבי טעה, סכנין ניצחה את ק\"ש ב-10 שחקנים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/854843.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/42/3f/423ff259-a578-43d6-80a3-d789168a983f/070820182109_nm_vtr_tak_kash_sachnin_070818_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עלי עותמאן ניצל מיקום לא טוב של שוער הצפוניים וקבע 0:1 לקבוצה מהמגזר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/42/3f/423ff259-a578-43d6-80a3-d789168a983f/070820182109_nm_vtr_tak_kash_sachnin_070818_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "הפועל ת\"א ומכבי פ\"ת נפרדו ב-1:1 סוער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/854537.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a2/f1/a2f1eeb6-360b-4dd6-bdf5-e4b5f4d1fa04/050820182311_nm_vtr_tak_hapoel_050818_,35,55,160,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סולומון העלה ליתרון, לפני שעאבד השווה עם שער בכורה באדום. ספורי, פירס ושיש הורחקו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a2/f1/a2f1eeb6-360b-4dd6-bdf5-e4b5f4d1fa04/050820182311_nm_vtr_tak_hapoel_050818_,35,55,160,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "ניצחון ירוק ראשון: מכבי חיפה גברה 2:3 על ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/854286.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a8/51/a851388a-1cdc-415d-8582-f8ed2d23a83b/040820182311_nm_vtr_tak_m_haifa_kash_040818_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עופרי ארד כבש דקה לאחר שנכנס והעניק לירוקים 3 נק' ראשונות בעונת 2018/19",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a8/51/a851388a-1cdc-415d-8582-f8ed2d23a83b/040820182311_nm_vtr_tak_m_haifa_kash_040818_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "בני יהודה ניצחה 2:4 את רעננה במשחק רב אירועים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/854226.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c2/9f/c29fdb43-acc5-47f4-a80f-252bb7022cf7/040820182109_nm_vtr_trk_bney_raanana_040818_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הכתומים השיגו ניצחון ראשון בגביע הטוטו. צ'יבוטה כבש, זובאס וניקוליץ' הורחקו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c2/9f/c29fdb43-acc5-47f4-a80f-252bb7022cf7/040820182109_nm_vtr_trk_bney_raanana_040818_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "סבע הכריע: מהפך גדול לנתניה מול חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/854220.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/37/df/37dfee2f-646a-4b4c-a0c8-d6ac2e08aeef/040820182109_nm_vtr_tak_natanya_haderea_040818_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "היהלומים חזרו מפיגור 0:2 לניצחון 2:3, החלוץ התכבד בצמד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/37/df/37dfee2f-646a-4b4c-a0c8-d6ac2e08aeef/040820182109_nm_vtr_tak_natanya_haderea_040818_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      },
+      {
+       "name": "דמארי כבש וסידר להפועל ת\"א ניצחון נוסף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/853699.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/99/3a/993ada09-da88-4534-8900-18726fb69dc0/010820182210_nm_vtr_hapoel_010818_,35,55,160,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "החלוץ נכנס כמחליף והבקיע את השער המכריע ב-1:2 על רעננה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/99/3a/993ada09-da88-4534-8900-18726fb69dc0/010820182210_nm_vtr_hapoel_010818_,35,55,160,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2017/18",
+     "channels": [
+      {
+       "name": "בפעם החמישית: מכבי ת\"א זכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/763370.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4a/6b/4a6bfe86-bfaa-40e0-84a2-9d8b73efd6a5/141220172311_nm_macabbi_tlv_gvia_141217_,160,35,55,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "קיארטנסון עלה מהספסל והעניק 0:1 על ב\"ש. הצהובים קטפו את הזכיה החמישית שלהם בגביע הטוטו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4a/6b/4a6bfe86-bfaa-40e0-84a2-9d8b73efd6a5/141220172311_nm_macabbi_tlv_gvia_141217_,160,35,55,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "דיבר במגרש: אוחנה שלח את ב\"ש לגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/758785.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/77/51/7751de82-b6d6-4b9a-bf99-5bbc05861222/301120172311_nm_tak_bash_toto_301117_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקשר הניח בצד את השבוע הסוער שעבר עליו והכריע עם שער ניצחון מול מכבי חיפה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/77/51/7751de82-b6d6-4b9a-bf99-5bbc05861222/301120172311_nm_tak_bash_toto_301117_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "מכבי ת\"א בגמר גביע הטוטו אחרי 0:2 על ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/758517.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fc/a6/fca69422-6b0d-4fd9-88ef-309e107ea845/291120172210_nm_maccabi_regel_291117_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "יצחקי ושוינפלד כבשו לראשונה בזירה המקומית. הצהובים ימתינו בגמר למנצחת בין הפועל ב\"ש למכבי חיפה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fc/a6/fca69422-6b0d-4fd9-88ef-309e107ea845/291120172210_nm_maccabi_regel_291117_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "חד וחלק: 0:3 למכבי ת\"א על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/747535.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/77/28776c86-5b52-4d22-b519-d100d53b0c95/NM_TAK_MACCABI_BNEY_231017_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עטר, בלקמן וריקן השתתפו בחגיגה, בלילתי ופיליפנקה הורחקו, בלקמן וגבאי החמיצו מהנקודה הלבנה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/77/28776c86-5b52-4d22-b519-d100d53b0c95/NM_TAK_MACCABI_BNEY_231017_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "ק\"ש בחצי הגמר אחרי 0:1 על בית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/747343.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/62/41/6241aa26-3ee0-4a7a-928d-2ed8eec1ced9/251020172311_nm_tak_kash_251017_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שובל גוזלן כבש, בית\"ר שיתפה 6 זרים שלא כחוק וצפויה להיענש",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/62/41/6241aa26-3ee0-4a7a-928d-2ed8eec1ced9/251020172311_nm_tak_kash_251017_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "ראדי שלח את ב\"ש לחצי גמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/742757.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/60/be/60be52e4-338d-4aad-b588-c9e29fd7594b/071020172311_nm_tak_mpt_bash_071017_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האלופה נחלצה מפיגור מול מכבי פ\"ת במושבה והבטיחה לעצמה את הכרטיס לחצי הגמר. בריק כבש ראשון, בן שהר וראדי הפכו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/60/be/60be52e4-338d-4aad-b588-c9e29fd7594b/071020172311_nm_tak_mpt_bash_071017_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "בני יהודה ברבע גמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/740675.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/73/d0/73d0d5cd-bca0-4986-a07f-b15a275c11aa/270920172109_nm_vtr_tak_toto_270917_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הזהובים גברו על רעננה ושריינו לעצמם מפגש מול מכבי ת\"א ברבע הגמר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/73/d0/73d0d5cd-bca0-4986-a07f-b15a275c11aa/270920172109_nm_vtr_tak_toto_270917_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "רוחות של שינוי? 1:4 למכבי חיפה בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/726412.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/b7/9d/b79d0647-0559-43ba-8f0a-3f93c9d72b87/080820172311_nm_vtr_tak_toto_derbi_haifa_080817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "הירוקים נהנו מחיסרון מספרי מוקדם של הפועל חיפה, צמדים לרוקאביצה ורועי קהת",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/b7/9d/b79d0647-0559-43ba-8f0a-3f93c9d72b87/080820172311_nm_vtr_tak_toto_derbi_haifa_080817_,35,110,80,55,160,0k.mp4&Type=vo",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "ב\"ש ברבע הגמר אחרי 0:2 מול אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/726354.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/e7/1c/e71cbd91-9e47-4f42-9a09-b219934b1d47/080820172109_nm_vtr_tak_bash_080817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "מליקסון וראדי כבשו בפנדלים, האלופה עלתה לשלב הבא",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/e7/1c/e71cbd91-9e47-4f42-9a09-b219934b1d47/080820172109_nm_vtr_tak_bash_080817_,35,80,55,160,110,0k.mp4&Type=vod&ShowRecomm",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "הפועל עכו גברה 1:2 על בני סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/726380.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/af/c6/afc66903-2afe-4974-8986-7fd35dd116b2/080820172109_nm_tak_akko_080817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "אל קרנוואי כיכב עם שער ובישול וקירב את דורה לרבע הגמר, האדומים מהמגזר סיימו את דרכם",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/af/c6/afc66903-2afe-4974-8986-7fd35dd116b2/080820172109_nm_tak_akko_080817_,55,110,35,160,80,0k.mp4&Type=vod&ShowRecommende",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "1:1 בין בני סכנין להפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/725508.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/f4/a2/f4a2c7bb-f612-404f-8dbb-1d96cf96bd4a/050820172109_nm_tak_sachnin_h_haifa_050817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "שתי הקבוצות עדיין ללא ניצחון בגביע הטוטו, שער נהדר לכליבאת",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/f4/a2/f4a2c7bb-f612-404f-8dbb-1d96cf96bd4a/050820172109_nm_tak_sachnin_h_haifa_050817_,350k,1600k,1100k,800k,550k,.mp4&Type",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "עדיין לא זה: תיקו מאכזב לחיפה מול ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/725550.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/79/b2/79b2d47b-cce9-471f-8aa8-2f180bc8d8b3/050820172311_nm_tak_haifa_kash_050817_1/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "הירוקים לא הצליחו לכבוש ב-0:0 מול חניכיו של סילבס. קאיו ערך בכורה",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/79/b2/79b2d47b-cce9-471f-8aa8-2f180bc8d8b3/050820172311_nm_tak_haifa_kash_050817_1_,110,80,160,35,55,0k.mp4&Type=vod&ShowRe",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "סכנין חילצה 1:1 מול קרית שמונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/724881.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/2c/ec/2cec5e75-6f73-4c5b-b8c4-508b5f0c7cc8/020820172109_n_vtr_tak_sachnin_020817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "גביע הטוטו: גנטוס איזן בדקה ה-79. גוזלן כבש ראשון",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/2c/ec/2cec5e75-6f73-4c5b-b8c4-508b5f0c7cc8/020820172109_n_vtr_tak_sachnin_020817_,350k,1600k,1100k,550k,800k,.mp4&Type=vod&",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "ברגל שמאל: הפועל חיפה הפסידה לעכו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/724905.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/7b/c5/7bc54388-e3bc-446b-97cb-56089dddb1d4/020820172210_nm_tak_akko_h_haifa_020817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "סאם אלישע (62') הכריע, חניכיו של קלינגר נוצחו והציגו יכולת חלשה",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/7b/c5/7bc54388-e3bc-446b-97cb-56089dddb1d4/020820172210_nm_tak_akko_h_haifa_020817_,550k,350k,800k,1600k,1100k,.mp4&Type=vo",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "אדיר: פ\"ת הפכה מ-2:0 ל-2:3 מול נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/724929.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/ab/53/ab534fee-e10e-4b2f-986c-c4b23fb51205/030820170012_nm_tak_mpt_020817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "אבידור קבע מהפך גדול בדקה ה-95. דני עמוס נפצע והוחלף",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/ab/53/ab534fee-e10e-4b2f-986c-c4b23fb51205/030820170012_nm_tak_mpt_020817_,350k,800k,1100k,1600k,550k,.mp4&Type=vod&ShowRec",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "צמד לעטר, 1:4 גדול לחיפה אצל סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/724010.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/58/fb/58fb20ff-9069-4487-b877-b16071061ec1/010820172109_nm_tak_toto_sachnin_haifa_minhelet_290717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "הירוקים פתחו עונה עם ניצחון מוחץ על סכנין. עטר צמד, ורמוט וקינן כבשו לחיפאים, בדארנה צימק זמנית",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/58/fb/58fb20ff-9069-4487-b877-b16071061ec1/010820172109_nm_tak_toto_sachnin_haifa_minhelet_290717_,35,160,110,80,55,0k.mp4&",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "פתיחה חלקה: 0:1 לפ\"ת על רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/724055.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/d2/96/d296f65f-fa29-4526-bae9-1061eb00b8ae/300720171010_nm_tak_toto_raanana_pat_minhelet_290717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "החלוץ הגינאי של מכבי פ\"ת סומא כבש כבר בבכורה שלו במדי המלאבס מבישול נפלא של יובל אבידור",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/d2/96/d296f65f-fa29-4526-bae9-1061eb00b8ae/300720171010_nm_tak_toto_raanana_pat_minhelet_290717_,550k,1600k,800k,1100k,350k",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "גדיר ופקהארט חגגו, עוד ניצחון לב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/724084.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/e4/76/e4761350-9b12-4e18-a01f-675dcde553e4/300720171010_nm_tak_toto_bash_ashkelon_minhelet_290717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "צמד לחלוץ הישראלי והרכש הצ'כי רשם בישול בבכורה ב-0:3 על אשקלון בטוטו",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/e4/76/e4761350-9b12-4e18-a01f-675dcde553e4/300720171010_nm_tak_toto_bash_ashkelon_minhelet_290717_,350k,1600k,800k,550k,110",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "חזרה לחייך: 1:3 לבית\"ר על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/724285.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/d9/4b/d94bb16f-be78-4610-b264-6a25c07686ff/310720171604_nm_vtr_tak_beitar_300717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "צמד של וראן ועוד אחד של בניון העניקו למימר ניצחון בכורה העונה. אל חמיד איזן זמנית מהנקודה הלבנה",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/d9/4b/d94bb16f-be78-4610-b264-6a25c07686ff/310720171604_nm_vtr_tak_beitar_300717_,800k,350k,1600k,550k,1100k,.mp4&Type=vod&",
+       "season": "גביע הטוטו - 2017/18"
+      },
+      {
+       "name": "עם המחליפים: 0:2 למכבי על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/724318.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/52/50/5250f350-7616-4129-a72a-ee4ca1722ba1/310720171604_nm_vtr_tak_maccabi_300717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "אבי ריקן ושגיב יחזקאל כבשו לזכות הצהובים שעלו עם המחליפים מול בני יהודה",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/52/50/5250f350-7616-4129-a72a-ee4ca1722ba1/310720171604_nm_vtr_tak_maccabi_300717_,1100k,800k,350k,550k,1600k,.mp4&Type=vod",
+       "season": "גביע הטוטו - 2017/18"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים",
+     "channels": [
+      {
+       "name": "בתום דו קרב פנדלים: מכבי ת\"א זכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1352317.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_TOTO_250124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GMAR_TOTO_250124/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים"
+      },
+      {
+       "name": "הפועל פ\"ת ניצחה את ריינה: שער דרמטי לבאסיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1312640.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_210823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_210823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים"
+      },
+      {
+       "name": "מכבי ת\"א חגגה 1:5 על סכנין בדרך לגמר הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1312414.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SACHNIN_200823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SACHNIN_200823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים"
+      },
+      {
+       "name": "צמד לאזולאי, נתניה הביסה 1:4 את ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1312389.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_75_NATANYA_BASH_200823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_75_NATANYA_BASH_200823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים"
+      },
+      {
+       "name": "שער ובישול לחלאילי, מכבי חיפה בגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1312087.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPAT_MHAIFA_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPAT_MHAIFA_190823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים"
+      },
+      {
+       "name": "בדקה ה-97: 0:1 דרמטי להפועל על בית\"ר בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1312131.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBI_JER_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBI_JER_190823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים"
+      },
+      {
+       "name": "שער בכורה לצ'יבוטה, 3:5 להפועל ת\"א על חדרה בפנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1312056.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_TLV_HEDERA_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAPOEL_TLV_HEDERA_190823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים"
+      },
+      {
+       "name": "הפועל חיפה גברה על אשדוד בתום דו קרב פנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1312077.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HHAIFA_190823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HHAIFA_190823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלבים סופיים"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים",
+     "channels": [
+      {
+       "name": "בן שהר כיכב בניצחון מכבי פ\"ת נגד הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1310625.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_120823_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_120823_2/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "בריהון כבש: מ.ס אשדוד גברה על הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1310622.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_PATH_120823_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_PATH_120823_2/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "טיפת מזל: אשדוד גברה 0:1 על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1309749.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_080823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_080823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "בדקה ה-96: מכבי פ\"ת ניצחה 1:2 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1309737.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MPAT_080823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MPAT_080823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "עדיין מושלמת בטוטו: 1:2 לסכנין מול חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1309337.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_HEDERA_060823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SACHNIN_HEDERA_060823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "פנדל מפוקפק קבע 1:1 בין הפועל ת\"א להפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1309047.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_050823_2/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_050823_2/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "מרשימה בטוטו: 0:2 להפועל ירושלים נגד אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1309078.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_RAGAL_080523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_RAGAL_080523/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "בדקה ה-95: בני ריינה השוותה מול הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1309046.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_050823_3/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_050823_3/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "חדרה גברה 1:2 על הפועל חיפה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1308427.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HADERA_020823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HADERA_020823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "מסירות חלודה: תיקו בין בני ריינה לנתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1308443.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_REINA_NATANYA_020823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_REINA_NATANYA_020823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "מכבי פ\"ת סחטה נקודה מאשדוד בדקה ה-84",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1308216.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ASH_MPAT_010823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ASH_MPAT_010823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "1:5 גדול להפועל י-ם על הפועל פ\"ת בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1308215.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_010823/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_010823/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "נתניה פתחה את גביע הטוטו בניצחון על חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1307807.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_300723/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_300723/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "נקודת פתיחה: הפועל י-ם והפועל ת\"א נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1307569.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HAPOEL_290723/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HAPOEL_290723/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "החמצות ענק ואווירה סוערת: 0:0 בדרבי של פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1307589.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBI_PAT_290723/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DERBI_PAT_290723/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      },
+      {
+       "name": "דור חוגי העניק ניצחון 0:1 לסכנין על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1307542.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_SACHNIN_290723/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_SACHNIN_290723/HLS/playlist.m3u8",
+       "season": "גביע הטוטו - 2023/24 - 2023/24 - שלב בתים"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים",
+     "channels": [
+      {
+       "name": "מכבי ת\"א זכתה בגביע הטוטו, שער נהדר לביטון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1035407.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/qn8Cy6rdS7/App/NM_VTR_MACCABI_NEWWW_220820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/qn8Cy6rdS7/App/NM_VTR_MACCABI_NEWWW_220820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "יש כרטיס לגמר: סכנין סחטה 1:1 בק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1034171.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/5NXtRFueeh/App/NM_TAK_KASH_SACHNIN_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/5NXtRFueeh/App/NM_TAK_KASH_SACHNIN_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "הדרבי הראשון ירוק: מכבי חיפה ניצחה את הפועל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1034121.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/FcduzDHaVg/App/NM_TAK_HAIFA_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/FcduzDHaVg/App/NM_TAK_HAIFA_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "0:3 מרשים לבני יהודה על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1034077.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/2dN179k0Fg/App/NM_TAK_HAPOEL_BNEY_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/2dN179k0Fg/App/NM_TAK_HAPOEL_BNEY_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "יריית הפתיחה: 0:2 לבית\"ר י-ם באשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1034081.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/TFQKLVnJ7M/App/NM_VTR_TAK_BEITAR_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/TFQKLVnJ7M/App/NM_VTR_TAK_BEITAR_160820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "פרייטר בישל בבכורה, 0:1 לנתניה על חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1033846.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/uMjRSt4UGd/App/NM_TAK_HADERA_NATANYA_150820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/uMjRSt4UGd/App/NM_TAK_HADERA_NATANYA_150820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "הרשימה: 1:4 לכפ\"ס על מכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1033847.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/HCJsTEmi5z/App/NM_TAK_MPT_KAFS_150820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/HCJsTEmi5z/App/NM_TAK_MPT_KAFS_150820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "הפסד ראשון בעידן בכר: סכנין ניצחה את חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1033178.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/h2f7wirqeY/App/NM_TAK_SACHNIN_M_HAIFA_120820_FULL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/h2f7wirqeY/App/NM_TAK_SACHNIN_M_HAIFA_120820_FULL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "2:2 נהדר בין הפועל חיפה וק\"ש, שער גדול לסרדל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1033170.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/n6rTrj8vfA/App/SARDAL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/n6rTrj8vfA/App/SARDAL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "דגני פגש את האקסית, 0:0 בין בית\"ר להפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1032965.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/h1a2nV857C/App/NM_VTR_TAK_BEITAR_1108202_159717704168_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/h1a2nV857C/App/NM_VTR_TAK_BEITAR_1108202_159717704168_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "אינברום הכריע: מכבי פ\"ת גברה על נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1032940.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/EFOMfWVFtG/App/NM_VTR_TAK_NATANYA_PAT_110820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/EFOMfWVFtG/App/NM_VTR_TAK_NATANYA_PAT_110820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "רביעייה נדירה ליחזקאל, 1:5 לאשדוד על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1032924.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/ESR3MdpJKa/App/NM_VTR_TAK_BNEY_110820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/ESR3MdpJKa/App/NM_VTR_TAK_BNEY_110820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "פתיחה חלקה: חיפה ניצחה בק\"ש בבכורה של בכר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1032474.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/251F2L0JBh/App/NM_TAK_HAIFA_80_090820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/251F2L0JBh/App/NM_TAK_HAIFA_80_090820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "טוב שבאתם: שער גדול לשאמי ב-0:2 של סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1032448.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/OgQdGrpMgM/App/NM_VTR_TAK_HAIFA_SACHNIN_080920_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/OgQdGrpMgM/App/NM_VTR_TAK_HAIFA_SACHNIN_080920_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "יהלום: שער ו-2 בישולים למלדה ב-0:3 של נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1032182.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/CfOflr7jiL/App/NM_VTR_TAK_NATANYA1_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/CfOflr7jiL/App/NM_VTR_TAK_NATANYA1_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "גומה כבש בבכורה המחודשת, 1:1 בין חדרה לפ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1032178.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/jTslzzjtyt/App/NM_MPT_HADERA_080820_FULL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/jTslzzjtyt/App/NM_MPT_HADERA_080820_FULL_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "החמצה ענק לבני יהודה ב-0:0 מול בית\"ר י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1032126.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/fhpCpn3yPa/App/NM_TAK_BEITAR_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/fhpCpn3yPa/App/NM_TAK_BEITAR_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      },
+      {
+       "name": "אלטמן הכריע, הפועל פתחה את העונה ברגל ימין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1032129.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/ZLEsPWRxzI/App/NM_TAK_ASHDOD_HTA_80_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/ZLEsPWRxzI/App/NM_TAK_ASHDOD_HTA_80_080820_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2020/21 - 2020/21 - שלב הבתים"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2019/20 - 2019/20 - חצי הגמר",
+     "channels": [
+      {
+       "name": "אחרי 9 שנים: בית\"ר י-ם זכתה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/962348.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/dbddWYeCdJ/App/NM_VTR_TOTTO_TAK_HANAFA_240919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/dbddWYeCdJ/App/NM_VTR_TOTTO_TAK_HANAFA_240919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - חצי הגמר"
+      },
+      {
+       "name": "מכבי מחכה: בית\"ר בגמר אחרי 1:3 על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/953946.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/mxPPPmXdZ2/App/NM_VTR_TAK_BEITAR_180819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/mxPPPmXdZ2/App/NM_VTR_TAK_BEITAR_180819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - חצי הגמר"
+      },
+      {
+       "name": "ברטקוס טעה בגדול, מכבי בגמר גביע טוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/953898.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/qtXH5xlUuR/App/F9GOALMACCABI_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/qtXH5xlUuR/App/F9GOALMACCABI_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - חצי הגמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2019/20 - 2019/20 - בית 2",
+     "channels": [
+      {
+       "name": "לא מוכנה לליגה: הפסד 4 ברציפות להפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/952690.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/BnzM2T74xu/App/NM_TAK_HAPOEL_120819_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/BnzM2T74xu/App/NM_TAK_HAPOEL_120819_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "מוכנה לליגה: אשדוד דרסה 1:4 את רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/952712.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/g79GNWVHwj/App/NM_VTR_TAK_RAANANNA_ASHDOD_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/g79GNWVHwj/App/NM_VTR_TAK_RAANANNA_ASHDOD_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "ב\"ש מחכה: בית\"ר בחצי הגמר עם 1:1 מול אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/951712.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/Q6aQ1DgRRb/App/NM_BEITAR_070819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/Q6aQ1DgRRb/App/NM_BEITAR_070819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "המאמן, העוזר והקפטן הורחקו: 0:0 לרעננה ונס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/951465.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KGFm3RleaI/App/NM_VTR_NASATZ_RAANANA_060819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/KGFm3RleaI/App/NM_VTR_NASATZ_RAANANA_060819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "מבצע מרהיב הכריע: בית\"ר גברה על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/951208.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/c6Bn5PUoVt/App/NM_TAK_HAPOEL_TLV_040819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/c6Bn5PUoVt/App/NM_TAK_HAPOEL_TLV_040819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "מבצע מרהיב הכריע: בית\"ר גברה על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/951070.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/c6Bn5PUoVt/App/NM_TAK_HAPOEL_TLV_040819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/c6Bn5PUoVt/App/NM_TAK_HAPOEL_TLV_040819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "מ.ס. אשדוד ונס ציונה נפרדו בתיקו 1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/950804.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/OF2trCkrMW/App/NM_TAK_ASHDOD_NES_ZIEONA_03081119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/OF2trCkrMW/App/NM_TAK_ASHDOD_NES_ZIEONA_03081119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "וירטואוז: אוחנה כבש, בית\"ר ניצחה את רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/950337.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/8gBG3b5WsK/App/NM_TAK_VTR_BEITAR_310719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/8gBG3b5WsK/App/NM_TAK_VTR_BEITAR_310719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "מהפך: אשדוד חזרה מ-2:0 ל-2:3 מול הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/950025.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/hp1Tg9V7aw/App/NM_TAK_ASHDOD_300719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/hp1Tg9V7aw/App/NM_TAK_ASHDOD_300719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "התחלה מתוקה: 1:2 דרמטי לבית\"ר על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/949604.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/A8nVl6FamF/App/NM_VTR_TAK_BEITAR_90_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/A8nVl6FamF/App/NM_VTR_TAK_BEITAR_90_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      },
+      {
+       "name": "מחיר הטעויות: הפועל ת\"א הפסידה 2:1 לרעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/949354.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/gj92QoALye/App/NM_VTR_HTA_RAANANA_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/gj92QoALye/App/NM_VTR_HTA_RAANANA_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 2"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2019/20 - 2019/20 - בית 1",
+     "channels": [
+      {
+       "name": "חדרה השלימה מהפך וניצחה את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/952719.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/Gv4WTxhYBE/App/NM_VTR_HHAIFA_HADERA_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/Gv4WTxhYBE/App/NM_VTR_HHAIFA_HADERA_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "שלושער אדיר של שרידן שלח את ק\"ש לחצי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/952674.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/jrx962svCO/App/NM_VTR_GOALS_KASH_KAFAS_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/jrx962svCO/App/NM_VTR_GOALS_KASH_KAFAS_120819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "בוזגלו שוב כבש ב-1:1 של הפועל חיפה מול כפ\"ס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/951680.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/zJuKY4kfMN/App/NM_VTR_KAFAS_HHAIFA_070819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/zJuKY4kfMN/App/NM_VTR_KAFAS_HHAIFA_070819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "שיוויון דרמטי לחדרה מול מכבי נתניה בטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/951481.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/iNSKKKF1wv/App/NM_VTR_TAK_NATANYA_060819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/iNSKKKF1wv/App/NM_VTR_TAK_NATANYA_060819_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "חגיגת שערים: 1:4 להפועל חיפה מול ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/951079.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/TaEpWPOPxz/App/NM_VTR_TAK_HHAIFA_KASH_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/TaEpWPOPxz/App/NM_VTR_TAK_HHAIFA_KASH_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "קניקובסקי הכריע, מכבי נתניה ניצחה 0:1 את כפ\"ס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/950861.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/8Hq6GnpkxL/App/NM_TAK_NATANYA_KFAS_030819_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/8Hq6GnpkxL/App/NM_TAK_NATANYA_KFAS_030819_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "לוסיו כבש בתוספת, 2:2 דרמטי בין כפ\"ס לחדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/950328.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/2c9RSyhiVY/App/NM_VTR_KFAS_HADERA_310719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/2c9RSyhiVY/App/NM_VTR_KFAS_HADERA_310719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "אלמוג כהן החמיץ פנדל, נתניה ספגה 2:1 בק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/950294.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/i1E8IzEXjz/App/NM_VTR_KASH_NETANYA_310719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/i1E8IzEXjz/App/NM_VTR_KASH_NETANYA_310719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "אדניי ושרידן כבשו, ק\"ש ניצחה 1:2 את חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/949568.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/mlCRxrLGb8/App/NM_VTR_TAK_HADERA_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/mlCRxrLGb8/App/NM_VTR_TAK_HADERA_280719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      },
+      {
+       "name": "סיפתח מוצלח: נתניה גברה 0:2 על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/949338.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/O8CryVYGMo/App/NM_VTR_NETANYA_HHAIFA_NEW_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV2/O8CryVYGMo/App/NM_VTR_NETANYA_HHAIFA_NEW_270719_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2019/20 - 2019/20 - בית 1"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2018/19 - 2018/19 - חצי הגמר",
+     "channels": [
+      {
+       "name": "2:3 למכבי חיפה בדרבי בדרך לגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/857549.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0b/c1/0bc1bd09-4b89-4104-9cde-29c13f7dea2e/200820182311_nm_tak_derbi_haifa_200818_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הדרבי של חיפה הסתיים בדו קרב פנדלים בסיומו הירוקים העפילו לגמר גביע הטוטו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0b/c1/0bc1bd09-4b89-4104-9cde-29c13f7dea2e/200820182311_nm_tak_derbi_haifa_200818_,110,55,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - חצי הגמר"
+      },
+      {
+       "name": "העיר שלה: מכבי ת\"א חגגה עם 1:4 גדול בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/857322.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ee/2e/ee2ed780-cc0b-4272-8c00-61fbc12f8368/190820182311_nm_vtr_tak_derbi_190818_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצהובים העפילו בסטייל לגמר גביע הטוטו. שחר פיבן, אופואדו ויונתן כהן עם צמד כבשו למכבי, עאבד רק איזן זמנית",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ee/2e/ee2ed780-cc0b-4272-8c00-61fbc12f8368/190820182311_nm_vtr_tak_derbi_190818_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - חצי הגמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2018/19 - 2018/19 - משחקי הדירוג",
+     "channels": [
+      {
+       "name": "ניצחון ראשון להפועל חדרה בגביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/857073.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/72/43/72435bfb-5665-40f4-9451-f3404fac9dd0/NM_VTR_TAK_ASHDOD_HADERA_180818_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בישול ושער של חטיב ביטלו יתרון מוקדם של חן עזריאל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/72/43/72435bfb-5665-40f4-9451-f3404fac9dd0/NM_VTR_TAK_ASHDOD_HADERA_180818_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - משחקי הדירוג"
+      },
+      {
+       "name": "הפועל רעננה הנחילה לק\"ש הפסד נוסף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/857040.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4b/98/4b989457-a1d0-4c08-9f5b-bf88ac667981/NM_VTR_TAK_RAANANA_KASH_180818_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה של סילבס סיימה את דרכה בגביע הטוטו ללא אף ניצחון. יואב תומר הכריע בדקה ה-55",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4b/98/4b989457-a1d0-4c08-9f5b-bf88ac667981/NM_VTR_TAK_RAANANA_KASH_180818_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - משחקי הדירוג"
+      },
+      {
+       "name": "סכנין גברה על בני יהודה בדו קרב פנדלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/857063.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/98/b8/98b86fb9-49c8-46f7-8dc8-23b6263a713d/NM_VTR_TAK_BNEY_SACHNIN_180818_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בני בן זקן צפה מהיציע בשחקניו מסיימים במקום ה-9 בגביע הטוטו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/98/b8/98b86fb9-49c8-46f7-8dc8-23b6263a713d/NM_VTR_TAK_BNEY_SACHNIN_180818_,35,80,110,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - משחקי הדירוג"
+      },
+      {
+       "name": "שבוע לפתיחת הליגה: מכבי פ\"ת חגגה על בית\"ר  י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/857088.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f5/f1/f5f1a0be-a879-4f2c-8ff9-5a38bf93d43e/NM_VTR_TAK_BEITAR_MPT_180818_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עידן חוגג בבירה נפתח עם הפסד למלאבסים. קניוק, דנינו וסולומון כבשו, ורד צימק בשער נהדר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f5/f1/f5f1a0be-a879-4f2c-8ff9-5a38bf93d43e/NM_VTR_TAK_BEITAR_MPT_180818_,80,35,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - משחקי הדירוג"
+      },
+      {
+       "name": "דרך חדשה? ניצחון ראשון לב\"ש מזה כחודש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/857294.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5d/95/5d95cf66-a413-48dc-b77c-195c5c75653c/190820182109_nm_vtr_tak_bash_vs_natanya_190818_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האלופה השיגה ניצחון אחרי שורת ההפסדים במסגרות האירופיות. מלמד וגדיר כבשו לב\"ש, סבע רק צימק",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5d/95/5d95cf66-a413-48dc-b77c-195c5c75653c/190820182109_nm_vtr_tak_bash_vs_natanya_190818_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - משחקי הדירוג"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 5",
+     "channels": [
+      {
+       "name": "חגיגת שערים: 3:3 בין בני יהודה לאשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/855693.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a0/48/a04832fd-5113-47ac-815e-772dcb613ff9/110820182210_nm_vtr_beni_110818_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שועה מחק יתרון מהיר של עמית ביטון, הבראן וביטון קבעו את תוצאת המשחק. שתי הקבוצות סיימו את דרכן במפעל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a0/48/a04832fd-5113-47ac-815e-772dcb613ff9/110820182210_nm_vtr_beni_110818_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 5"
+      },
+      {
+       "name": "מופע פרידה? שער ובישול להאסלביינק מול חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/855692.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e1/62/e1620f9b-e5ff-4738-8984-1b2129190639/110820182210_nm_vtr_hedera_110818_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בצל השמועות על מעבר לב\"ש, ההולנדי העניק ניצחון בכורה לסילבס בגביע הטוטו עם 0:2 מול העולה החדשה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e1/62/e1620f9b-e5ff-4738-8984-1b2129190639/110820182210_nm_vtr_hedera_110818_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 5"
+      },
+      {
+       "name": "שער בזק של אורמוש העניק ניצחון לרעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/855965.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/33/c9/33c92e36-e680-4bfb-a3e5-2297ffb07532/120820182311_nm_tak_ranana_120818_,110,55,35,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקרואטי 0:1 לקורצקי במשחק לפרוטוקול בלבד מול מכבי פ\"ת",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/33/c9/33c92e36-e680-4bfb-a3e5-2297ffb07532/120820182311_nm_tak_ranana_120818_,110,55,35,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 5"
+      },
+      {
+       "name": "נתניה קופחה והודחה אחרי 1:1 מול סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/855966.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/64/00/6400ee97-9ae8-483d-b384-44142cf57342/120820182210_nm_vo_natanya_120818_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "2 פנדלים ברורים לא נשרקו ליהלומיים שסיימו את דרכם בגביע הטוטו. מוגרבי דייק בפנדל, אברהם איזן",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/64/00/6400ee97-9ae8-483d-b384-44142cf57342/120820182210_nm_vo_natanya_120818_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 5"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 4",
+     "channels": [
+      {
+       "name": "נתניה קופחה והודחה אחרי 1:1 מול סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/855966.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/64/00/6400ee97-9ae8-483d-b384-44142cf57342/120820182210_nm_vo_natanya_120818_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "2 פנדלים ברורים לא נשרקו ליהלומיים שסיימו את דרכם בגביע הטוטו. מוגרבי דייק בפנדל, אברהם איזן",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/64/00/6400ee97-9ae8-483d-b384-44142cf57342/120820182210_nm_vo_natanya_120818_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 4"
+      },
+      {
+       "name": "מופע פרידה? שער ובישול להאסלביינק מול חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/855692.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e1/62/e1620f9b-e5ff-4738-8984-1b2129190639/110820182210_nm_vtr_hedera_110818_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בצל השמועות על מעבר לב\"ש, ההולנדי העניק ניצחון בכורה לסילבס בגביע הטוטו עם 0:2 מול העולה החדשה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e1/62/e1620f9b-e5ff-4738-8984-1b2129190639/110820182210_nm_vtr_hedera_110818_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 4"
+      },
+      {
+       "name": "חגיגת שערים: 3:3 בין בני יהודה לאשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/855693.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a0/48/a04832fd-5113-47ac-815e-772dcb613ff9/110820182210_nm_vtr_beni_110818_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שועה מחק יתרון מהיר של עמית ביטון, הבראן וביטון קבעו את תוצאת המשחק. שתי הקבוצות סיימו את דרכן במפעל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a0/48/a04832fd-5113-47ac-815e-772dcb613ff9/110820182210_nm_vtr_beni_110818_,160,55,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 4"
+      },
+      {
+       "name": "הצגה באדום: 0:3 להפועל ת\"א באשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/855104.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/52/65/52650480-8677-435a-9c91-409cba6d8d3a/080820182210_nm_vtr_tak_toto_ashdod_hapoel_080818_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "לקס, עאבד ודמארי כבשו. האדומים עלו לחצי הגמר וצפויים לפגוש את מכבי ת\"א לדרבי תל אביבי לוהט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/52/65/52650480-8677-435a-9c91-409cba6d8d3a/080820182210_nm_vtr_tak_toto_ashdod_hapoel_080818_,55,110,160,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 4"
+      },
+      {
+       "name": "מכבי פ\"ת הודחה אחרי תיקו מול בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/855080.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/71/56/715651ad-89a1-4da6-b990-11f09ff900cb/080820182109_nm_tak_mpt_080818_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "חניכיו של אלישע לוי נראו רע מול ב-0:0 מול הכתומים",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/71/56/715651ad-89a1-4da6-b990-11f09ff900cb/080820182109_nm_tak_mpt_080818_,35,160,55,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 4"
+      },
+      {
+       "name": "חיפה דרסה 0:4 את חדרה, 3 בישולים לעוואד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/854879.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3a/01/3a01385e-c55e-4657-ae18-9e92285eddc9/070820182311_nm_vtr_tak_hedera_mhaifa_070818_,80,160,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הירוקים שמרו על סיכוי לעלות לחצי הגמר במידה ונתניה לא תנצח את בני יהודה. רוקאביצה, דוס סנטוס, אזולאי ווייסמן כבשו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3a/01/3a01385e-c55e-4657-ae18-9e92285eddc9/070820182311_nm_vtr_tak_hedera_mhaifa_070818_,80,160,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 4"
+      },
+      {
+       "name": "זועבי טעה, סכנין ניצחה את ק\"ש ב-10 שחקנים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/854843.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/42/3f/423ff259-a578-43d6-80a3-d789168a983f/070820182109_nm_vtr_tak_kash_sachnin_070818_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עלי עותמאן ניצל מיקום לא טוב של שוער הצפוניים וקבע 0:1 לקבוצה מהמגזר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/42/3f/423ff259-a578-43d6-80a3-d789168a983f/070820182109_nm_vtr_tak_kash_sachnin_070818_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 4"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 3",
+     "channels": [
+      {
+       "name": "הפועל ת\"א ומכבי פ\"ת נפרדו ב-1:1 סוער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/854537.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a2/f1/a2f1eeb6-360b-4dd6-bdf5-e4b5f4d1fa04/050820182311_nm_vtr_tak_hapoel_050818_,35,55,160,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סולומון העלה ליתרון, לפני שעאבד השווה עם שער בכורה באדום. ספורי, פירס ושיש הורחקו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a2/f1/a2f1eeb6-360b-4dd6-bdf5-e4b5f4d1fa04/050820182311_nm_vtr_tak_hapoel_050818_,35,55,160,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 3"
+      },
+      {
+       "name": "ניצחון ירוק ראשון: מכבי חיפה גברה 2:3 על ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/854286.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a8/51/a851388a-1cdc-415d-8582-f8ed2d23a83b/040820182311_nm_vtr_tak_m_haifa_kash_040818_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עופרי ארד כבש דקה לאחר שנכנס והעניק לירוקים 3 נק' ראשונות בעונת 2018/19",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/a8/51/a851388a-1cdc-415d-8582-f8ed2d23a83b/040820182311_nm_vtr_tak_m_haifa_kash_040818_,55,35,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 3"
+      },
+      {
+       "name": "בני יהודה ניצחה 2:4 את רעננה במשחק רב אירועים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/854226.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c2/9f/c29fdb43-acc5-47f4-a80f-252bb7022cf7/040820182109_nm_vtr_trk_bney_raanana_040818_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הכתומים השיגו ניצחון ראשון בגביע הטוטו. צ'יבוטה כבש, זובאס וניקוליץ' הורחקו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c2/9f/c29fdb43-acc5-47f4-a80f-252bb7022cf7/040820182109_nm_vtr_trk_bney_raanana_040818_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 3"
+      },
+      {
+       "name": "סבע הכריע: מהפך גדול לנתניה מול חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/854220.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/37/df/37dfee2f-646a-4b4c-a0c8-d6ac2e08aeef/040820182109_nm_vtr_tak_natanya_haderea_040818_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "היהלומים חזרו מפיגור 0:2 לניצחון 2:3, החלוץ התכבד בצמד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/37/df/37dfee2f-646a-4b4c-a0c8-d6ac2e08aeef/040820182109_nm_vtr_tak_natanya_haderea_040818_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 3"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 2",
+     "channels": [
+      {
+       "name": "דמארי כבש וסידר להפועל ת\"א ניצחון נוסף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/853699.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/99/3a/993ada09-da88-4534-8900-18726fb69dc0/010820182210_nm_vtr_hapoel_010818_,35,55,160,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "החלוץ נכנס כמחליף והבקיע את השער המכריע ב-1:2 על רעננה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/99/3a/993ada09-da88-4534-8900-18726fb69dc0/010820182210_nm_vtr_hapoel_010818_,35,55,160,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 2"
+      },
+      {
+       "name": "בכורה מוצלחת לאלישע לוי: 0:3 למכבי פ\"ת על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/853664.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ad/28/ad284e66-dd10-4610-8a12-337279dbff72/010820182109_nm_vtr_mpt_010818_new1_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "טבילת אש מוצלחת למאמן במלאבס. כהן, בנבנישתי וסיבוק כבשו<BR>",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ad/28/ad284e66-dd10-4610-8a12-337279dbff72/010820182109_nm_vtr_mpt_010818_new1_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 2"
+      },
+      {
+       "name": "עדיין ללא ניצחון: 1:1 למכבי חיפה עם סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/853510.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7a/f0/7af09d40-564c-407e-97ce-59bc916979c5/310720182311_nm_vtr_tak_sahnin_haifa_310718_new_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האורחים עדיין מחפשים ניצחון בכורה העונה אחרי 1:1 בדוחא. בכורה למנדז'ק בירוק",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7a/f0/7af09d40-564c-407e-97ce-59bc916979c5/310720182311_nm_vtr_tak_sahnin_haifa_310718_new_,80,110,160,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 2"
+      },
+      {
+       "name": "מסתדרת בלי ערן לוי: 1:3 לנתניה  על ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/853447.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b5/a1/b5a1a07d-82a0-40c8-9772-14bec8554c17/310720182109_nm_vtr_tak_kash_natanya_310718_new_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "החניכים של דראפיץ' וברדה לא התקשו מול ק\"ש וניצחה משערים של מלדה, סבע וקוגבניה. אבוחצירה כבש מנגד",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b5/a1/b5a1a07d-82a0-40c8-9772-14bec8554c17/310720182109_nm_vtr_tak_kash_natanya_310718_new_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 2"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 1",
+     "channels": [
+      {
+       "name": "מוכנות לליגה? 0:0 בין אשדוד לרעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/853091.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b4/f5/b4f5a357-bfcf-4263-be7a-040c5a2b2bfd/290720182311_nm_vtr_ashdod_290718_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מילבסקי ערך בכורה על הקווים, טום בן זקן פונה באלונקה, ג'רפי בלט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b4/f5/b4f5a357-bfcf-4263-be7a-040c5a2b2bfd/290720182311_nm_vtr_ashdod_290718_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 1"
+      },
+      {
+       "name": "פתחה בסערה: 0:4 להפועל ת\"א על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/853041.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d8/7d/d87dcd72-d002-4f64-9027-d171238c4092/290720182109_nm_hapoel_full_game_290718_,35,80,55,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "דמארי בישל בבכורה המחודשת, האדומים הרשימו במשחקם הראשון בגביע הטוטו. צמד לזיקרי, פירסמן ועגייב הוסיפו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d8/7d/d87dcd72-d002-4f64-9027-d171238c4092/290720182109_nm_hapoel_full_game_290718_,35,80,55,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 1"
+      },
+      {
+       "name": "בהילוך ראשון: מכבי ת\"א גברה על בית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/853070.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0b/6a/0b6aecd2-25eb-4b44-bff7-d316104d1b20/290720182311_nm_vtr_maccabi_290718_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שוינפלד שלח את הצהובים לחצי גמר גביע הטוטו אחרי 0:1 על המחליפים והצעירים של בית\"ר. שכטר ערך בכורה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0b/6a/0b6aecd2-25eb-4b44-bff7-d316104d1b20/290720182311_nm_vtr_maccabi_290718_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 1"
+      },
+      {
+       "name": "לאחר פנדלים: הפועל חיפה זכתה באלוף האלופים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/852858.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/47/9b/479bb766-52d9-4721-b828-6062321cdd18/280720182311_nm_vtr_tak_bash_hhaifa_280718_,160,110,80,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי 1:1 בתום 90 דקות, חניכיו של קלינגר עמדו בלחץ וניצחו 4:5 בדו קרב מהנקודה לבנה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/47/9b/479bb766-52d9-4721-b828-6062321cdd18/280720182311_nm_vtr_tak_bash_hhaifa_280718_,160,110,80,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 1"
+      },
+      {
+       "name": "בדקה ה-92: ערן לוי שיגר טיל מ-30 מטר לרשת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/852782.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/77/ba/77ba2b38-ba98-41ce-a7ab-bc842b295a90/280720182109_nm_vtr_tak_haifa_natanya_280718_,110,35,80,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "על אף שלא פתח בהרכב, הקשר של נתניה הוכיח לדראפיץ' וברדה מה הוא שווה כשקבע 1:1 מול מכבי חיפה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/77/ba/77ba2b38-ba98-41ce-a7ab-bc842b295a90/280720182109_nm_vtr_tak_haifa_natanya_280718_,110,35,80,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 1"
+      },
+      {
+       "name": "עדיין חלודות: תיקו בין סכנין לחדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/852826.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4a/1b/4a1bf332-82e6-4a40-966f-7fe5d2dc8998/280720182109_nm_vtr_sachnin_280718_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "העולה החדשה השיגה נקודה ב-0:0 מול הקבוצה מהמגזר בדוחא",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/4a/1b/4a1bf332-82e6-4a40-966f-7fe5d2dc8998/280720182109_nm_vtr_sachnin_280718_,80,35,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2018/19 - 2018/19 - מחזור 1"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2017/18 - 2017/18 - חצי גמר",
+     "channels": [
+      {
+       "name": "דיבר במגרש: אוחנה שלח את ב\"ש לגמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/758785.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/77/51/7751de82-b6d6-4b9a-bf99-5bbc05861222/301120172311_nm_tak_bash_toto_301117_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקשר הניח בצד את השבוע הסוער שעבר עליו והכריע עם שער ניצחון מול מכבי חיפה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/77/51/7751de82-b6d6-4b9a-bf99-5bbc05861222/301120172311_nm_tak_bash_toto_301117_,160,55,35,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - חצי גמר"
+      },
+      {
+       "name": "מכבי ת\"א בגמר גביע הטוטו אחרי 0:2 על ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/758517.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fc/a6/fca69422-6b0d-4fd9-88ef-309e107ea845/291120172210_nm_maccabi_regel_291117_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "יצחקי ושוינפלד כבשו לראשונה בזירה המקומית. הצהובים ימתינו בגמר למנצחת בין הפועל ב\"ש למכבי חיפה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/fc/a6/fca69422-6b0d-4fd9-88ef-309e107ea845/291120172210_nm_maccabi_regel_291117_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - חצי גמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2017/18 - 2017/18 - רבע גמר",
+     "channels": [
+      {
+       "name": "חד וחלק: 0:3 למכבי ת\"א על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/747535.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/77/28776c86-5b52-4d22-b519-d100d53b0c95/NM_TAK_MACCABI_BNEY_231017_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "עטר, בלקמן וריקן השתתפו בחגיגה, בלילתי ופיליפנקה הורחקו, בלקמן וגבאי החמיצו מהנקודה הלבנה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/28/77/28776c86-5b52-4d22-b519-d100d53b0c95/NM_TAK_MACCABI_BNEY_231017_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - רבע גמר"
+      },
+      {
+       "name": "ק\"ש בחצי הגמר אחרי 0:1 על בית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/747343.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/62/41/6241aa26-3ee0-4a7a-928d-2ed8eec1ced9/251020172311_nm_tak_kash_251017_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שובל גוזלן כבש, בית\"ר שיתפה 6 זרים שלא כחוק וצפויה להיענש",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/62/41/6241aa26-3ee0-4a7a-928d-2ed8eec1ced9/251020172311_nm_tak_kash_251017_,55,110,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - רבע גמר"
+      },
+      {
+       "name": "ראדי שלח את ב\"ש לחצי גמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/742757.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/60/be/60be52e4-338d-4aad-b588-c9e29fd7594b/071020172311_nm_tak_mpt_bash_071017_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "האלופה נחלצה מפיגור מול מכבי פ\"ת במושבה והבטיחה לעצמה את הכרטיס לחצי הגמר. בריק כבש ראשון, בן שהר וראדי הפכו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/60/be/60be52e4-338d-4aad-b588-c9e29fd7594b/071020172311_nm_tak_mpt_bash_071017_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - רבע גמר"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 3",
+     "channels": [
+      {
+       "name": "בני יהודה ברבע גמר גביע הטוטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/740675.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/73/d0/73d0d5cd-bca0-4986-a07f-b15a275c11aa/270920172109_nm_vtr_tak_toto_270917_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הזהובים גברו על רעננה ושריינו לעצמם מפגש מול מכבי ת\"א ברבע הגמר",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/73/d0/73d0d5cd-bca0-4986-a07f-b15a275c11aa/270920172109_nm_vtr_tak_toto_270917_,160,55,80,35,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 3"
+      },
+      {
+       "name": "רוחות של שינוי? 1:4 למכבי חיפה בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/726412.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/b7/9d/b79d0647-0559-43ba-8f0a-3f93c9d72b87/080820172311_nm_vtr_tak_toto_derbi_haifa_080817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "הירוקים נהנו מחיסרון מספרי מוקדם של הפועל חיפה, צמדים לרוקאביצה ורועי קהת",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/b7/9d/b79d0647-0559-43ba-8f0a-3f93c9d72b87/080820172311_nm_vtr_tak_toto_derbi_haifa_080817_,35,110,80,55,160,0k.mp4&Type=vo",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 3"
+      },
+      {
+       "name": "ב\"ש ברבע הגמר אחרי 0:2 מול אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/726354.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/e7/1c/e71cbd91-9e47-4f42-9a09-b219934b1d47/080820172109_nm_vtr_tak_bash_080817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "מליקסון וראדי כבשו בפנדלים, האלופה עלתה לשלב הבא",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/e7/1c/e71cbd91-9e47-4f42-9a09-b219934b1d47/080820172109_nm_vtr_tak_bash_080817_,35,80,55,160,110,0k.mp4&Type=vod&ShowRecomm",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 3"
+      },
+      {
+       "name": "הפועל עכו גברה 1:2 על בני סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/726380.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/af/c6/afc66903-2afe-4974-8986-7fd35dd116b2/080820172109_nm_tak_akko_080817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "אל קרנוואי כיכב עם שער ובישול וקירב את דורה לרבע הגמר, האדומים מהמגזר סיימו את דרכם",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/af/c6/afc66903-2afe-4974-8986-7fd35dd116b2/080820172109_nm_tak_akko_080817_,55,110,35,160,80,0k.mp4&Type=vod&ShowRecommende",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 3"
+      },
+      {
+       "name": "1:1 בין בני סכנין להפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/725508.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/f4/a2/f4a2c7bb-f612-404f-8dbb-1d96cf96bd4a/050820172109_nm_tak_sachnin_h_haifa_050817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "שתי הקבוצות עדיין ללא ניצחון בגביע הטוטו, שער נהדר לכליבאת",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/f4/a2/f4a2c7bb-f612-404f-8dbb-1d96cf96bd4a/050820172109_nm_tak_sachnin_h_haifa_050817_,350k,1600k,1100k,800k,550k,.mp4&Type",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 3"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 2",
+     "channels": [
+      {
+       "name": "עדיין לא זה: תיקו מאכזב לחיפה מול ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/725550.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/79/b2/79b2d47b-cce9-471f-8aa8-2f180bc8d8b3/050820172311_nm_tak_haifa_kash_050817_1/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "הירוקים לא הצליחו לכבוש ב-0:0 מול חניכיו של סילבס. קאיו ערך בכורה",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/79/b2/79b2d47b-cce9-471f-8aa8-2f180bc8d8b3/050820172311_nm_tak_haifa_kash_050817_1_,110,80,160,35,55,0k.mp4&Type=vod&ShowRe",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 2"
+      },
+      {
+       "name": "סכנין חילצה 1:1 מול קרית שמונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/724881.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/2c/ec/2cec5e75-6f73-4c5b-b8c4-508b5f0c7cc8/020820172109_n_vtr_tak_sachnin_020817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "גביע הטוטו: גנטוס איזן בדקה ה-79. גוזלן כבש ראשון",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/2c/ec/2cec5e75-6f73-4c5b-b8c4-508b5f0c7cc8/020820172109_n_vtr_tak_sachnin_020817_,350k,1600k,1100k,550k,800k,.mp4&Type=vod&",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 2"
+      },
+      {
+       "name": "ברגל שמאל: הפועל חיפה הפסידה לעכו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/724905.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/7b/c5/7bc54388-e3bc-446b-97cb-56089dddb1d4/020820172210_nm_tak_akko_h_haifa_020817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "סאם אלישע (62') הכריע, חניכיו של קלינגר נוצחו והציגו יכולת חלשה",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/7b/c5/7bc54388-e3bc-446b-97cb-56089dddb1d4/020820172210_nm_tak_akko_h_haifa_020817_,550k,350k,800k,1600k,1100k,.mp4&Type=vo",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 2"
+      },
+      {
+       "name": "אדיר: פ\"ת הפכה מ-2:0 ל-2:3 מול נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/724929.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/ab/53/ab534fee-e10e-4b2f-986c-c4b23fb51205/030820170012_nm_tak_mpt_020817/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "אבידור קבע מהפך גדול בדקה ה-95. דני עמוס נפצע והוחלף",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/ab/53/ab534fee-e10e-4b2f-986c-c4b23fb51205/030820170012_nm_tak_mpt_020817_,350k,800k,1100k,1600k,550k,.mp4&Type=vod&ShowRec",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 2"
+      }
+     ]
+    },
+    {
+     "name": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 1",
+     "channels": [
+      {
+       "name": "צמד לעטר, 1:4 גדול לחיפה אצל סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/724010.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/58/fb/58fb20ff-9069-4487-b877-b16071061ec1/010820172109_nm_tak_toto_sachnin_haifa_minhelet_290717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "הירוקים פתחו עונה עם ניצחון מוחץ על סכנין. עטר צמד, ורמוט וקינן כבשו לחיפאים, בדארנה צימק זמנית",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/58/fb/58fb20ff-9069-4487-b877-b16071061ec1/010820172109_nm_tak_toto_sachnin_haifa_minhelet_290717_,35,160,110,80,55,0k.mp4&",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 1"
+      },
+      {
+       "name": "פתיחה חלקה: 0:1 לפ\"ת על רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/724055.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/d2/96/d296f65f-fa29-4526-bae9-1061eb00b8ae/300720171010_nm_tak_toto_raanana_pat_minhelet_290717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "החלוץ הגינאי של מכבי פ\"ת סומא כבש כבר בבכורה שלו במדי המלאבס מבישול נפלא של יובל אבידור",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/d2/96/d296f65f-fa29-4526-bae9-1061eb00b8ae/300720171010_nm_tak_toto_raanana_pat_minhelet_290717_,550k,1600k,800k,1100k,350k",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 1"
+      },
+      {
+       "name": "גדיר ופקהארט חגגו, עוד ניצחון לב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/724084.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/e4/76/e4761350-9b12-4e18-a01f-675dcde553e4/300720171010_nm_tak_toto_bash_ashkelon_minhelet_290717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "צמד לחלוץ הישראלי והרכש הצ'כי רשם בישול בבכורה ב-0:3 על אשקלון בטוטו",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/e4/76/e4761350-9b12-4e18-a01f-675dcde553e4/300720171010_nm_tak_toto_bash_ashkelon_minhelet_290717_,350k,1600k,800k,550k,110",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 1"
+      },
+      {
+       "name": "חזרה לחייך: 1:3 לבית\"ר על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/724285.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/d9/4b/d94bb16f-be78-4610-b264-6a25c07686ff/310720171604_nm_vtr_tak_beitar_300717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "צמד של וראן ועוד אחד של בניון העניקו למימר ניצחון בכורה העונה. אל חמיד איזן זמנית מהנקודה הלבנה",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/d9/4b/d94bb16f-be78-4610-b264-6a25c07686ff/310720171604_nm_vtr_tak_beitar_300717_,800k,350k,1600k,550k,1100k,.mp4&Type=vod&",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 1"
+      },
+      {
+       "name": "עם המחליפים: 0:2 למכבי על בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/724318.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/52/50/5250f350-7616-4129-a72a-ee4ca1722ba1/310720171604_nm_vtr_tak_maccabi_300717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "אבי ריקן ושגיב יחזקאל כבשו לזכות הצהובים שעלו עם המחליפים מול בני יהודה",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/52/50/5250f350-7616-4129-a72a-ee4ca1722ba1/310720171604_nm_vtr_tak_maccabi_300717_,1100k,800k,350k,550k,1600k,.mp4&Type=vod",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 1"
+      },
+      {
+       "name": "ק\"ש הביסה 0:4 את הפועל עכו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/724314.jpg",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/3b/44/3b4419c9-d891-41e7-80de-1ad9ea545252/310720171604_nm_tak_akko_300717/chunklist_b1600000.m3u8",
+       "date": "",
+       "plot": "הפועל עכו פתחה את העונה עם תבוסה ביתית לק\"ש. קוויאר, גוזלן, האסלביינק ורותם חטואל כבשו לזכות האורחים",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/3b/44/3b4419c9-d891-41e7-80de-1ad9ea545252/310720171604_nm_tak_akko_300717_,1600k,1100k,350k,800k,550k,.mp4&Type=vod&ShowRe",
+       "season": "גביע הטוטו - 2017/18 - 2017/18 - מחזור 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - כתבות מתוך אולפן האלופות",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "10367",
+   "series_id": "10367",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1191305.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:10",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "הקשר בין ריאל לרוקי: במדריד מאמינים במהפך",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1191305.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/VPAKeUMbnp/App/ITEM_ARBEL_MADRID_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/VPAKeUMbnp/App/ITEM_ARBEL_MADRID_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https://vod.s",
+       "season": ""
+      },
+      {
+       "name": "לא בגלל הכדורגל: זינצ'נקו הפך לסמל לאומי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1175933.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/6SEPolLzUr/App/NM_ITEM_OLEKASNDER_090322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/6SEPolLzUr/App/NM_ITEM_OLEKASNDER_090322_,400,700,1100,1800,.mp4.csmil/master.m3u8&live=False&referrer=https",
+       "season": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

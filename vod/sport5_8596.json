@@ -1,0 +1,1601 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - ליגת האלופות בכדורסל",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "8596",
+   "series_id": "8596",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1688903.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:08",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "סיום עגום: חולון נכנעה 102:92 ללה מאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1688903.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VO_TAK_HOLON_180326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VO_TAK_HOLON_180326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=537601&po",
+       "season": ""
+      },
+      {
+       "name": "עוד הפסד: חולון נכנעה 87:74 לגלא וירה למאזן 0:5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1685810.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_NEW_100326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_NEW_100326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=536828&p",
+       "season": ""
+      },
+      {
+       "name": "בתום קמפיין מאכזב, חולון הפסידה לריטאס והודחה מה-BCL",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1673816.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_100226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_100226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=534183&poste",
+       "season": ""
+      },
+      {
+       "name": "רגל וחצי בחוץ: חולון ספגה הפסד מגלאטסראי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1670556.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_040226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_040226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=533481&poster=h",
+       "season": ""
+      },
+      {
+       "name": "ברגל שמאל: ריטאס וילנה הביסה את הפועל חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1662822.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_200126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_200126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=531783&poster=h",
+       "season": ""
+      },
+      {
+       "name": "הזוי: חולון ניצחה את טרפאני שנותרה עם שחקן אחד על הפרקט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1655572.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_2_060126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_2_060126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=530238&pos",
+       "season": ""
+      },
+      {
+       "name": "בני הרצליה ניצחה 86:94 את טנריפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1646150.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HARZLIYA_SAL_161225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HARZLIYA_SAL_161225/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=528063&p",
+       "season": ""
+      },
+      {
+       "name": "סל ניצחון לסטיוארט, הרצליה הודחה מה-BCL",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1642652.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELYA_091225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELYA_091225/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=527369&p",
+       "season": ""
+      },
+      {
+       "name": "על הבאזר: סל ניצחון לבדאלונה נגד חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1631535.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_BAD_191125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_BAD_191125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=525339&post",
+       "season": ""
+      },
+      {
+       "name": "זלמנסון החטיא על הבאזר, חולון הפסידה לשולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1623938.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_HOLON_041125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_HOLON_041125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=523891&poster=h",
+       "season": ""
+      },
+      {
+       "name": "24 למקריי, 92:103 להפועל חולון על שולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1618113.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_221025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_221025/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=522494&poster=h",
+       "season": ""
+      },
+      {
+       "name": "הפועל חולון הובסה 81:65 מול בדאלונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1612684.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_141025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_141025/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=521756&post",
+       "season": ""
+      },
+      {
+       "name": "מנפורד להט: חולון פתחה קמפיין ברגל ימין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1610813.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_081025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_081025/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=521273&poste",
+       "season": ""
+      },
+      {
+       "name": "הרצליה איבדה יתרון דו ספרתי והפסידה לטופאש בורסה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1610881.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_TAK_HERZELIYA_081025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_TAK_HERZELIYA_081025/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12093%26Vi=521272&",
+       "season": ""
+      },
+      {
+       "name": "סוף הדרך: חולון הפסידה לפטקים ספור והודחה מה-BCL",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1503769.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_220125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_220125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11763%26Vi=495092&poste",
+       "season": ""
+      },
+      {
+       "name": "בדרך ל-1000: רונאלדו כבש צמד באל נסאר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1502280.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CR7-GOALS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/CR7-GOALS/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11763%26Vi=495024&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "פספוס ענק: מכבי ר\"ג הודחה מאירופה לאחר הפסד דרמטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1502352.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RAG_SAL_210125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RAG_SAL_210125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11763%26Vi=494977&poster=",
+       "season": ""
+      },
+      {
+       "name": "מכבי ר\"ג ניצחה את סומבטהיי וכפתה משחק מכריע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1499597.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAG_150125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAG_150125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11763%26Vi=494371&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "קבעה משחק מכריע: חולון גברה על פטקים 62:65",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1498957.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_SAL_140125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_SAL_140125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11763%26Vi=494318&poste",
+       "season": ""
+      },
+      {
+       "name": "פספוס: חולון נכנעה לאחר יתרון משמעותי ונקלעה לפיגור בסדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1494889.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_070125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_070125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=11763%26Vi=493652&poste",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "ליגת האלופות בכדורסל - 2025/26",
+     "channels": [
+      {
+       "name": "סיום עגום: חולון נכנעה 102:92 ללה מאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1688903.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VO_TAK_HOLON_180326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VO_TAK_HOLON_180326/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "עוד הפסד: חולון נכנעה 87:74 לגלא וירה למאזן 0:5",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1685810.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_NEW_100326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_NEW_100326/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "בתום קמפיין מאכזב, חולון הפסידה לריטאס והודחה מה-BCL",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1673816.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_100226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_100226/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "רגל וחצי בחוץ: חולון ספגה הפסד מגלאטסראי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1670556.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_040226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_040226/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "ברגל שמאל: ריטאס וילנה הביסה את הפועל חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1662822.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_200126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_200126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "הזוי: חולון ניצחה את טרפאני שנותרה עם שחקן אחד על הפרקט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1655572.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_2_060126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_2_060126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "בני הרצליה ניצחה 86:94 את טנריפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1646150.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HARZLIYA_SAL_161225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HARZLIYA_SAL_161225/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "סל ניצחון לסטיוארט, הרצליה הודחה מה-BCL",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1642652.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELYA_091225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERTZELYA_091225/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "על הבאזר: סל ניצחון לבדאלונה נגד חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1631535.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_BAD_191125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_BAD_191125/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "זלמנסון החטיא על הבאזר, חולון הפסידה לשולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1623938.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_HOLON_041125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_HOLON_041125/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "24 למקריי, 92:103 להפועל חולון על שולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1618113.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_221025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_221025/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "הפועל חולון הובסה 81:65 מול בדאלונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1612684.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_141025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_141025/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "מנפורד להט: חולון פתחה קמפיין ברגל ימין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1610813.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_081025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_081025/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      },
+      {
+       "name": "הרצליה איבדה יתרון דו ספרתי והפסידה לטופאש בורסה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1610881.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_TAK_HERZELIYA_081025/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_TAK_HERZELIYA_081025/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2025/26"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האלופות בכדורסל - 2024/25",
+     "channels": [
+      {
+       "name": "סוף הדרך: חולון הפסידה לפטקים ספור והודחה מה-BCL",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1503769.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_220125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_220125/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "בדרך ל-1000: רונאלדו כבש צמד באל נסאר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1502280.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CR7-GOALS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CR7-GOALS/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "פספוס ענק: מכבי ר\"ג הודחה מאירופה לאחר הפסד דרמטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1502352.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RAG_SAL_210125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_RAG_SAL_210125/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "מכבי ר\"ג ניצחה את סומבטהיי וכפתה משחק מכריע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1499597.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAG_150125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAG_150125/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "קבעה משחק מכריע: חולון גברה על פטקים 62:65",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1498957.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_SAL_140125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_SAL_140125/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "פספוס: חולון נכנעה לאחר יתרון משמעותי ונקלעה לפיגור בסדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1494889.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_070125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_070125/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "עלתה לפליי אין: למרות הפסד לנאנטר חולון סיימה שלישית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1486183.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_181224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_181224/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "בשלב הבא: רמת גן גברה 93:94 על ריגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1485816.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_171224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_171224/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "בשן ועין: 69:71 ענק לחולון על וירצבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1479479.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_031224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_031224/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "בינגהאם ואדאמס הובילו את חולון לניצחון על איגוקאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1469519.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_061124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_061124/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "רק כמעט: מכבי ר\"ג הפסידה 86:78 לבון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1466284.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_SAL_301024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAMTGAN_SAL_301024/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "ניצחון בכורה: 82:92 לחולון על איגוקאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1462774.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HOLON_221024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HOLON_221024/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "ניצחון בכורה: מכבי ר\"ג גברה 78:71 על ריגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1460063.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAG_151024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAG_151024/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "ללא ניצחון: הפועל חולון 76:70 הפסידה לנאנטר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1457947.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_081024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_081024/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "רמת גן חזרה לאירופה עם הפסד 80:71 לאא\"ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1455287.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAMAT_GAN_011024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAMAT_GAN_011024/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      },
+      {
+       "name": "למרות הקאמבק: חולון הפסידה 85:76 לווירצבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1455285.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_011024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_011024/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2024/25"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האלופות בכדורסל - 2023/24",
+     "channels": [
+      {
+       "name": "בראש מורם: חולון ניצחה אך הודחה מה-BCL",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1372843.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_200324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_200324/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "אכזבה: הפועל י-ם הפסידה לקרשיאקה והודחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1372528.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_BCL_190324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_BCL_190324/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "חולון ניצחה אך הסתבכה במאבק על העלייה לרבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1370593.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_130324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_SAL_130324/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "הסתבכה: הפועל י-ם הפסידה 76:61 לפריסטרי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1370635.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_SAL_130324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HJER_SAL_130324/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "עוד לא נגמר: י-ם הפסידה 95:92 לטנריפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1368612.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_jer_060324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_jer_060324/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "לפנתיאון: חולון גברה על א.א.ק בתום 3 הארכות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1368131.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HOLON_050324/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HOLON_050324/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "מסתבכת: חולון הפסידה 74:65 לפרומיתאס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1358134.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_060224/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_060224/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "מארס טורקי: 74:83 להפועל י-ם על קרשיאקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1355654.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_310124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_310124/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "הגיעה לטופ 16: 68:79 מרשים לחולון על אא\"ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1354900.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_300124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_300124/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "על הבאזר: סמית עם העניק ניצחון להפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1352308.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_240124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_240124/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "הפועל חולון גברה על אוסטנד ועלתה לטופ 16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1348988.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_SAL_160124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_SAL_160124/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "חולון הפסידה 71:61 לאוסטנד, ההכרעה במשחק השלישי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1346254.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_090124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_090124/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "צעד חשוב: חולון ניצחה 70:80 את אוסטנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1343946.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_SAL_030124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_SAL_030124/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "רנדולף כיכב: הפועל ירושלים ניצחה 68:97 את בנפיקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1340082.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_SAL_201223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_SAL_201223/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "הפסד כואב: חולון הפסידה 75:74 לבורסאספור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1340215.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_201223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_201223/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "הפועל ירושלים גברה על פאוק ועלתה לטופ 16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1338212.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPOEL_JER_131223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPOEL_JER_131223/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "הסתבכה: חולון נכנעה 72:65 לטלקום בון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1336452.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_061223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_061223/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "בדרך לשלב הבא: י-ם עם 70:85 על גלאטסראיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1335017.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_301123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_301123/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "בפסגת הבית: חולון ניצחה 74:93 את בורסאספור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1334666.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_291123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_291123/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      },
+      {
+       "name": "הקאמבק לא הספיק: חולון הפסידה 82:72 לבראוגן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1333163.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_221123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_221123/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2023/24"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האלופות בכדורסל - 2022/23",
+     "channels": [
+      {
+       "name": "רק כמעט: הפועל י-ם הפסידה 77:70 לבון בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1290411.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_140523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_140523/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "כמה אופי: ירושלים בגמר אחרי מותחן ענק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1289818.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_120523/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HJER_120523/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "מופע ששווה פיינל פור: ירושלים פירקה את א.א.ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1283702.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_NEW_190423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_NEW_190423/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "בתום משחק אלים וסוער: י-ם הפסידה באתונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1281795.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JARUSLEM_SAL_120423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JARUSLEM_SAL_120423/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "צעד ראשון: הפועל י-ם ניצחה את א.א.ק אתונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1280133.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JERU_AEK_040423/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JERU_AEK_040423/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "21 להאריס בבכורה, חולון הפסידה לשטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1275071.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_150323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_150323/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "י-ם ניצחה את חולון, שנשרה מליגת האלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1272882.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_HJER_SAL_070323/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_HJER_SAL_070323/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "מתקרבת להדחה: הפועל חולון הפסידה גם לדיז'ון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1265414.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_DIJON/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_DIJON/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "קאמבק גדול: ניצחון דרמטי לירושלים באלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1265089.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JERUSLAM_SAL_070223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JERUSLAM_SAL_070223/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "דרבי הישראליות: 63:65 דרמטי לירושלים על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1262449.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_010223/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_010223/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "עמדה במשימה: חולון ניצחה ועלתה לטופ 16",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1255919.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_100123/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_100123/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "הרצליה הודחה מאירופה למרות הצגה של קמפ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1250708.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERZLIYA_211222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HERZLIYA_211222/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "עלתה לטופ 16: הפועל י-ם ניצחה את דרושפאקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1250411.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_201222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_201222/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "תשחק בפליי אין: חולון הפסידה לאוסטנד באלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1250450.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_201222/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_201222/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "צעד גדול לפליי-אין: ירושלים ניצחה את באקן ברס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1244667.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_JER_301122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_JER_301122/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1242528.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_231122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_231122/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "כולל סל ניצחון: הפועל י-ם גברה על באקן ברס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1236200.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_011122/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_SAL_011122/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "ערב שלשות אדיר: חולון גברה על גלאטסראיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1234505.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_261022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HOLON_261022/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "קשה ומתוק: 67:69 לירושלים על דרושאפקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1228381.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_JER_NEW_031022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_JER_NEW_031022/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      },
+      {
+       "name": "גרין בלט בבכורה, חולון ניצחה בפולין אחרי הארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1228383.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_031022/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HOLON_031022/HLS/playlist.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2022/23"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האלופות בכדורסל - 2021/22",
+     "channels": [
+      {
+       "name": "תם המסע: חולון הפסידה וסיימה במקום ה-4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1192124.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/0vkGHqTzqj/App/TAK_HOLON_080522_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/0vkGHqTzqj/App/TAK_HOLON_080522_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "בתום דרמה: הפועל חולון נכנעה לטנריפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1191541.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/AfmqAJ8gUY/App/NM_TAK_HOLON_TENERIFE_060522_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/AfmqAJ8gUY/App/NM_TAK_HOLON_TENERIFE_060522_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "היסטוריה: חולון בפיינל פור של ליגת האלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1185279.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/svQR0KzBI5/App/NM_TAK_HOLON_140422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/svQR0KzBI5/App/NM_TAK_HOLON_140422_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "הישג נהדר: קאמבק גדול לחולון בדרך לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1179929.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/mLk3jNS54p/App/NM_VTR_TAK_HULON_SAL_230322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/mLk3jNS54p/App/NM_VTR_TAK_HULON_SAL_230322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "בתום מותחן: חולון השיגה ניצחון יקר בלודוויגסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1177822.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/IB6jQ1595U/App/NM_VTR_HOLON_160322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/IB6jQ1595U/App/NM_VTR_HOLON_160322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "בתום דרמה: חולון ספגה 74:71 מול גלאטסראיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1176181.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/th7L55sGhN/App/tak_holon_100322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/th7L55sGhN/App/tak_holon_100322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "במאזן חיובי: חולון ניצחה 89:98 את גלאטסראיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1175623.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/Cv3Cs7EzW7/App/NM_TAK_HOLON_080322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/Cv3Cs7EzW7/App/NM_TAK_HOLON_080322_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "מגי כיכב בבכורה והוביל את חולון לניצחון באלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1166918.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/GU3H6ALQlu/App/NM_HOLON_SAL_090222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/GU3H6ALQlu/App/NM_HOLON_SAL_090222_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "חולון פתחה את שלב הטופ 16 בהפסד לדיז'ון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1164760.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/M7GqiROdcP/App/NM_TAK_HOLON_01022_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/M7GqiROdcP/App/NM_TAK_HOLON_01022_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "אכזבה גדולה: הפועל י-ם הפסידה והודחה מאירופה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1163423.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/vvShyCIMPq/App/NM_VTR_TAK_JER_270122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/vvShyCIMPq/App/NM_VTR_TAK_JER_270122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "בתום דרמה: שלשת ניצחון לפרומיתיי על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1162902.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/NKYxIIj0rR/App/NM_VTR_TAK_JER_250122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/NKYxIIj0rR/App/NM_VTR_TAK_JER_250122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "קבוצה עם אופי: חולון ניצחה את בשיקטאש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1161259.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/V3qA3jymMu/App/TAK_HOLON_190122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/V3qA3jymMu/App/TAK_HOLON_190122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "תצוגת תכלית: הפועל י-ם מחצה את פרומיתיי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1159408.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/r74RuO68Dk/App/NM_VTR_TK_JER_120122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/r74RuO68Dk/App/NM_VTR_TK_JER_120122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "בבכורה של גודס: קאמבק ענק לחולון על בשיקטאש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1159304.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/KTcRKxqegm/App/NM_HOLON_SAL_120122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/KTcRKxqegm/App/NM_HOLON_SAL_120122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "לאחר הארכה: י-ם השיגה את הביתיות נגד מנרסה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1157472.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/6yk3FkUY6Y/App/NM_VTR_TAK_JER_060122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/6yk3FkUY6Y/App/NM_VTR_TAK_JER_060122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "דרמטי וכואב: חולון הפסידה לבשיקטאש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1157308.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/0rshNLmxMX/App/NM_VTR_HOLON_050122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/0rshNLmxMX/App/NM_VTR_HOLON_050122_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "נתראה בשלב הבא: חולון ניצחה את ברינדיסי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1153515.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/GlRzs7Xp6T/App/tak_sal_holon_221221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/GlRzs7Xp6T/App/tak_sal_holon_221221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "הראתה אופי: חולון ניצחה את דרושפאקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1151558.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/siAdATVaXj/App/TAKZIR_HOLON_ALUFOT_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/siAdATVaXj/App/TAKZIR_HOLON_ALUFOT_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "הצגה בטורקיה: ירושלים הביסה וחזרה לתמונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1148893.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/xJJE1nrpK8/App/NM_TAK_JER_061221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/xJJE1nrpK8/App/NM_TAK_JER_061221_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      },
+      {
+       "name": "הפועל חולון נכנעה לקלוז' אחרי הארכה שנייה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1143617.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/3ffDsTPxnI/App/NM_VTR_TAK_HOLON_171121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV4/3ffDsTPxnI/App/NM_VTR_TAK_HOLON_171121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2021/22"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האלופות בכדורסל - 2020/21",
+     "channels": [
+      {
+       "name": "כמה אופי: ניצחון דרמטי לחולון בדרך לטופ 8",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1086360.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/Wbm4QrA6Hu/App/TAK_HOLON_310321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/Wbm4QrA6Hu/App/TAK_HOLON_310321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "פשוט מרשימה: חולון ניצחה את טופאש באלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1080751.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/6Botgw8Z4p/App/NM_TAK_HOLON_090321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/6Botgw8Z4p/App/NM_TAK_HOLON_090321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "פניני קלע בקלאץ', ניצחון דרמטי לחולון באיטליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1079262.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/MalQhPvw9D/App/NM_TAK_HOLON_030321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/MalQhPvw9D/App/NM_TAK_HOLON_030321_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "בתום דרמה: י-ם הודחה מליגת האלופות של פיב\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1069870.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/DlTTtwFKfA/App/NM_VTR_TAK_JER_260121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/DlTTtwFKfA/App/NM_VTR_TAK_JER_260121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "הישג נהדר: חולון בשלב הבא אחרי ניצחון בשולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1068456.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/nbfurUYDE9/App/NM_VTR_TAK_HOLON_200121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/nbfurUYDE9/App/NM_VTR_TAK_HOLON_200121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "י-ם איבדה יתרון של 19 נק' והפסידה לטורק טלקום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1067107.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/Pg5fl2Q2Rd/App/NM_VTR_TAK_JER_130121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/Pg5fl2Q2Rd/App/NM_VTR_TAK_JER_130121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "עדיין בתמונה: חולון ניצחה את א.א.ק אתונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1065355.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/GdlxlNXya0/App/NM_VTR_TAK_HOLON_050121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/GdlxlNXya0/App/NM_VTR_TAK_HOLON_050121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "שיפרה עמדות: ניצחון חשוב לירושלים בבוסניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1062676.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/fSYC6AGiE7/App/NM_VTR_JER_SAL_241220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/fSYC6AGiE7/App/NM_VTR_JER_SAL_241220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "הצגה של בריימו לא עזרה: י-ם הפסידה לאיגוקאה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1062068.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/t86JJf3FC1/App/NM_TAK_JER_221220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/t86JJf3FC1/App/NM_TAK_JER_221220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "עדיין בתמונה: ניצחון יקר לחולון במינסק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1060348.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/N3ketIgqqL/App/NM_HOLON_new_151220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/N3ketIgqqL/App/NM_HOLON_new_151220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "20 נק' של מגי לא הספיקו: חולון הפסידה למינסק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1053496.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/QPy7HFmtgi/App/NM_VTR_TAK_HOLON_MINSK_171120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/QPy7HFmtgi/App/NM_VTR_TAK_HOLON_MINSK_171120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "קאמבק וניצחון בכורה: 75:81 לי-ם על לימוז'",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1052301.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/9yvrv8jLBb/App/NM_TAK_JER_111120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/9yvrv8jLBb/App/NM_TAK_JER_111120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "ניצחון ראשון באירופה: 63:73 לחולון על שולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1052073.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/XXZ7byCaa3/App/NM_TAK_HOLON_CHOLET_101120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/XXZ7byCaa3/App/NM_TAK_HOLON_CHOLET_101120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      },
+      {
+       "name": "הפסד דרמטי לחולון באתונה, 30 נקודות ללנגפורד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1050583.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/yDpymwNO8I/App/NM_VTR_TAK_AEK_HULON_041120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV2/yDpymwNO8I/App/NM_VTR_TAK_AEK_HULON_041120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2020/21"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האלופות בכדורסל - 2019/20",
+     "channels": [
+      {
+       "name": "מול יציעים ריקים: י-ם עלתה ל-0:1 מול פריסטרי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1002478.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/DAypbhJzoH/App/NM_VTR_TAK_JER_040320_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/DAypbhJzoH/App/NM_VTR_TAK_JER_040320_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "סגרה בסטייל: הפועל י-ם ניצחה באנטוורפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/995469.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/0MTLOen29J/App/NM_VTR_JER_050220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/0MTLOen29J/App/NM_VTR_JER_050220_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "חגיגה בארנה: ירושלים הבטיחה מקום בשמינית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/991684.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/Jg31x09BmT/App/NM_TAK_JER_220120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV1/Jg31x09BmT/App/NM_TAK_JER_220120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "יש סיכוי: פניני הוביל את חולון לניצחון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/988034.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/Hce1KWSKjn/App/NM_HOLON_080120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/Hce1KWSKjn/App/NM_HOLON_080120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "איבדה את הפסגה: י-ם נכנעה 91:78 לאא\"ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/982492.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/6m54OJp4Wh/App/NM_VTR_TAK_JER_181219_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/6m54OJp4Wh/App/NM_VTR_TAK_JER_181219_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "המפעל שלה: 72:94 לי-ם על אנטוורפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/978720.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/JRdKF7Tkru/App/NM_VTR_TAK_JER_041219_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/JRdKF7Tkru/App/NM_VTR_TAK_JER_041219_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "ג'רלס להט, 92:94 לססארי על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/974914.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/5QNjqpcQyV/App/NM_VTR_HOLON_191119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/5QNjqpcQyV/App/NM_VTR_HOLON_191119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "כבר לא מושלמת: ירושלים הפסידה 81:75 בצרפת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/973254.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/j1ujyRju0T/App/NM_TAK_JER_121119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/j1ujyRju0T/App/NM_TAK_JER_121119_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "עלתה להתקפה: ניצחון ראשון לחולון באירופה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/969798.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/ScRIkQ990Q/App/NM_VTR_TAK_HOLON_291019_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/ScRIkQ990Q/App/NM_VTR_TAK_HOLON_291019_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "עדיין מושלמת: 78:85 לירושלים על אא\"ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/968189.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7th9vE952i/App/NM_VTR_TAK_JER_231019_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7th9vE952i/App/NM_VTR_TAK_JER_231019_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "סיפתח מרשים להפועל ירושלים באירופה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/966698.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7aFvBn6l3j/App/NM_VTR_TAK_JER_161019_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/7aFvBn6l3j/App/NM_VTR_TAK_JER_161019_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      },
+      {
+       "name": "חולון פתחה את העונה האירופית עם הפסד דרמטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/966391.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9fTUWQGgiZ/App/NM_VTR_HOLON_101519_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9fTUWQGgiZ/App/NM_VTR_HOLON_101519_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2019/20"
+      }
+     ]
+    },
+    {
+     "name": "ליגת האלופות בכדורסל - 2018/19",
+     "channels": [
+      {
+       "name": "הכל יוכרע בגומלין: ניצחון קטן לי-ם על טנריף",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/921447.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/56/06/560691e3-4bc4-4e34-917f-7d03558ee324/NM_VTR_JER_SAL_270319_,800k,350k,550k,1100k,1600k,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/56/06/560691e3-4bc4-4e34-917f-7d03558ee324/NM_VTR_JER_SAL_270319_,800k,350k,550k,1100k,1600k,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "י-ם ניצחה בדיז'ון וסיימה במקום השני בבית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/907345.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/92/63/92631398-fc75-4da4-aea3-13033b9ca556/060220192311_nm_vtr_tak_jer_060219_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/92/63/92631398-fc75-4da4-aea3-13033b9ca556/060220192311_nm_vtr_tak_jer_060219_,80,160,110,35,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "חולון הודחה מליגת האלופות ונשרה ליורופקאפ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/907067.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/37/d0/37d07928-8326-46e6-8751-4dc3fe804c88/050220192311_nm_vtr_tak_holon_050219_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/37/d0/37d07928-8326-46e6-8751-4dc3fe804c88/050220192311_nm_vtr_tak_holon_050219_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "אמארה כיכב עם דאבל-דאבל, י-ם הביסה בארנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/901653.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/9a/d8/9ad82501-d11d-4f4c-9da2-1062b2bb70be/150120192311_tak_jer_sal_150119_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/9a/d8/9ad82501-d11d-4f4c-9da2-1062b2bb70be/150120192311_tak_jer_sal_150119_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "טבעה ביוון: חולון הפסידה 92:77 מול פאוק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/898931.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b8/25/b825a575-4e9c-40cf-8107-311ee4737f3c/080120192109_nm_vtr_tak_paok_vs_holon_080119_,110,35,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/b8/25/b825a575-4e9c-40cf-8107-311ee4737f3c/080120192109_nm_vtr_tak_paok_vs_holon_080119_,110,35,160,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "וואייט החטיא על הבאזר, חולון הפסידה לוונציה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/891021.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e6/bf/e6bf8667-0790-449f-b962-a60e02cf752a/181220182311_nm_vtr_tak_holon_sal_181218_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e6/bf/e6bf8667-0790-449f-b962-a60e02cf752a/181220182311_nm_vtr_tak_holon_sal_181218_,35,160,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "טיילה בליטא: ירושלים חזרה לנצח באירופה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/890996.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/de/09/de09255a-add1-4874-aa45-2647764ef5f1/181220182008_nm_vtr_tak_jer_181218_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/de/09/de09255a-add1-4874-aa45-2647764ef5f1/181220182008_nm_vtr_tak_jer_181218_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "הפסד בית ראשון לירושלים בליגת האלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/886198.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/2f/d7/2fd77a98-0a9f-4bfc-8a1e-c361b888716a/111220182210_nm_tak_jer_sal_111218_,800k,350k,1600k,1100k,550k,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/2f/d7/2fd77a98-0a9f-4bfc-8a1e-c361b888716a/111220182210_nm_tak_jer_sal_111218_,800k,350k,1600k,1100k,550k,.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "סיבוב בהצטיינות: 72:86 לירושלים מול דיז'ון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/877992.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e4/81/e481c080-c3f1-40ee-90a5-88f945ee5bcd/201120182210_nm_vtr_jer_201118_,110,80,160,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e4/81/e481c080-c3f1-40ee-90a5-88f945ee5bcd/201120182210_nm_vtr_jer_201118_,110,80,160,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "ממשיכה לדהור: ניצחון מרשים לי-ם בבאמברג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/876621.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d0/19/d019cbaf-62bc-454e-8936-8e1759cd7868/NM_VTR_TAK_JER_BAMBERG_New141118_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d0/19/d019cbaf-62bc-454e-8936-8e1759cd7868/NM_VTR_TAK_JER_BAMBERG_New141118_,80,160,110,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "במעמד צד אחד: הפועל חולון הובסה בטנריפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/874617.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/90/4b/904be263-9f3f-4435-a45e-77e1a120dce7/061120182311_nm_vtr_tak_holon_tenerife_sal_061118_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/90/4b/904be263-9f3f-4435-a45e-77e1a120dce7/061120182311_nm_vtr_tak_holon_tenerife_sal_061118_,110,160,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "הצגה: י-ם הביסה ב-30 הפרש את פואנלבראדה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/872974.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0f/96/0f96560f-d10f-47aa-a35d-44b81cb2782d/311020182311_nm_vtr_tak_jer_sal_311018_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0f/96/0f96560f-d10f-47aa-a35d-44b81cb2782d/311020182311_nm_vtr_tak_jer_sal_311018_,55,160,80,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "התעוררה בסוף: ניצחון שלישי לחולון באלופות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/872760.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d5/d5/d5d56fca-06cb-41d4-874b-a0715097e88b/NM_TAK_HOLON_SAL_301018_,55,110,35,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d5/d5/d5d56fca-06cb-41d4-874b-a0715097e88b/NM_TAK_HOLON_SAL_301018_,55,110,35,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "הפסד ראשון לי-ם בליגת האלופות, 101:89 לאנטוורפן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/871304.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/93/6d/936d2f4e-83e1-4eca-9edf-9f67536ee811/241020182311_nm_vtr_tak_jer_241018_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/93/6d/936d2f4e-83e1-4eca-9edf-9f67536ee811/241020182311_nm_vtr_tak_jer_241018_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "בתום 2 הארכות: הפועל חולון נכנעה לוונציה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/869553.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/83/25/83255a80-e6bd-42d5-b812-da81f6645a99/181020180012_nm_vtr_holon_171018_,55,35,160,80,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/83/25/83255a80-e6bd-42d5-b812-da81f6645a99/181020180012_nm_vtr_holon_171018_,55,35,160,80,110,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "2 מ-2: הפועל ירושלים ניצחה גם את ליטקבליס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/869292.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c4/cd/c4cdc71b-adb8-4c86-b583-83f550fb9b29/161020182210_nm_vtr_tak_jer_161018_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/c4/cd/c4cdc71b-adb8-4c86-b583-83f550fb9b29/161020182210_nm_vtr_tak_jer_161018_,35,160,80,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "הרשימה בבכורה: מהפך גדול לירושלים באתונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/867960.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e9/1c/e91cadb0-e2b2-4f87-aa8a-40f093baf21d/101020182109_nm_vtr_tak_jer_101018_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e9/1c/e91cadb0-e2b2-4f87-aa8a-40f093baf21d/101020182109_nm_vtr_tak_jer_101018_,110,160,55,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      },
+      {
+       "name": "טיילה בפתיחה: חולון הביסה את פריבור",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/867979.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/01/1e/011e9fc1-b31c-4990-ad89-9c498ec513e9/101020182210_nm_holon_101018_,55,80,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/01/1e/011e9fc1-b31c-4990-ad89-9c498ec513e9/101020182210_nm_holon_101018_,55,80,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת האלופות בכדורסל - 2018/19"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

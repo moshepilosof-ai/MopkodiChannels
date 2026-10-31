@@ -1,0 +1,791 @@
+{
+ "categories": [
+  {
+   "name": "ספורט 5 - גביע ווינר",
+   "type": "vod",
+   "source": "sport5",
+   "program_url": "5360",
+   "series_id": "5360",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1783309.jpg",
+   "plot": "",
+   "updated": "2026-10-31 03:04",
+   "sub_categories": [
+    {
+     "name": "פרקים",
+     "channels": [
+      {
+       "name": "חוזרת לקצב: מכבי ת\"א הביסה 71:88 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1783309.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_JER_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_JER_041026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=562580&poster=",
+       "season": ""
+      },
+      {
+       "name": "אחרי משחק צמוד במיוחד: הפועל חולון גברה על עירוני אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1781900.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Holon_EILAT_Highlights/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Holon_EILAT_Highlights/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=562202&po",
+       "season": ""
+      },
+      {
+       "name": "קמרון הנרי כיכב, העמק הביסה את מכבי ראשל''צ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1781535.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EMEK_RISHON/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EMEK_RISHON/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=562103&poster=ht",
+       "season": ""
+      },
+      {
+       "name": "16 נק` לפריס לי: נס ציונה גברה על גליל עליון והעפילה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1781174.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESSZIONA_280926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESSZIONA_280926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=561984&post",
+       "season": ""
+      },
+      {
+       "name": "לא אותה ליגה: מכבי ת\"א פירקה 61:109 את אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1780634.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_270926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=561861&pos",
+       "season": ""
+      },
+      {
+       "name": "ברוכה השבה: 55:75 לאילת על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1780625.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EILAT_ASHDOD_2709261_179052997766/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EILAT_ASHDOD_2709261_179052997766/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362",
+       "season": ""
+      },
+      {
+       "name": "קריגנטון ואודיאסי בלטו: הפועל ת\"א גברה 67:85 על הפועל ב\"ש/דימונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1780282.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_SAL_260926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_SAL_260926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=561725&poster",
+       "season": ""
+      },
+      {
+       "name": "משחק מצוין ללופטון, הפועל ירושלים מחצה את בני הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1780352.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HYR_HRTZ_250926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HYR_HRTZ_250926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=561724&poste",
+       "season": ""
+      },
+      {
+       "name": "24 נק` להאריס: הפועל חולון ניצחה את ר\"ג בתום משחק צמוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1779213.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLON_RAMATGAN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLON_RAMATGAN/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=561468&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "אתא ניצחה את העמק והעפילה לרבע הגמר לאחר קאמבק אדיר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1779215.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Gilboa_Ata/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Gilboa_Ata/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=561469&poster=https:/",
+       "season": ""
+      },
+      {
+       "name": "משחק ענק לקאביל, הפועל ב''ש/דימונה גברה על מכבי ראשל'צ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1778869.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RISHON_220926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RISHON_220926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=561401&post",
+       "season": ""
+      },
+      {
+       "name": "גליל עליון חזרה מפיגור דו ספרתי והביסה את הפועל העמק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1778112.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGalilElionvsHapoelGilboaGalil-GameHighlights_178984727277/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGalilElionvsHapoelGilboaGalil-GameHighlights_178984727277/HLS/playlist.m3u8&live=False&referrer=https://",
+       "season": ""
+      },
+      {
+       "name": "השיגה את הכרטיס: הפועל ירושלים ברבע גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1777434.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_BASH_180926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_BASH_180926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=561109&poste",
+       "season": ""
+      },
+      {
+       "name": "אחרי משחק צמוד: ניצחון דרמטי לראשל''צ על אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1775861.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MaccabiRisonLeZionvsIRONIEILAT-GameHighlightsmp4_178941691482/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MaccabiRisonLeZionvsIRONIEILAT-GameHighlightsmp4_178941691482/HLS/playlist.m3u8&live=False&referrer=https://vo",
+       "season": ""
+      },
+      {
+       "name": "נס ציונה גברה על חולון ועלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1774128.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IroniNessZionavsHapoelHolon-GameHighlights_178906376879/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/IroniNessZionavsHapoelHolon-GameHighlights_178906376879/HLS/playlist.m3u8&live=False&referrer=https://vod.spor",
+       "season": ""
+      },
+      {
+       "name": "לופטון להט, הפועל ירושלים הביסה את אשדוד בגביע הווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1773162.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_080926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_080926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26Vi=560085&post",
+       "season": ""
+      },
+      {
+       "name": "בפעם ה-7 בתולדותיה: הפועל י-ם זכתה בגביע ווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1626014.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GMAR_HTA_JER_SAL_HANAFA_081125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/GMAR_HTA_JER_SAL_HANAFA_081125/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12076%26Vi=5",
+       "season": ""
+      },
+      {
+       "name": "בלייקני להט: הפועל ת\"א גברה על ב\"ש ועלתה לחצי גמר גביע ווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1606216.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_SAL_250925/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_SAL_250925/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12076%26Vi=520204&",
+       "season": ""
+      },
+      {
+       "name": "משגב בלט: העמק גברה על חולון ועלתה לחצי גמר גביע ווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1606124.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_250925/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_250925/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12076%26Vi=520203&poste",
+       "season": ""
+      },
+      {
+       "name": "עלתה לחצי: הפועל י-ם גברה על בני הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1605778.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_240925/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_240925/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12076%26Vi=520124&poster",
+       "season": ""
+      }
+     ]
+    },
+    {
+     "name": "גביע ווינר - 2026/27",
+     "channels": [
+      {
+       "name": "חוזרת לקצב: מכבי ת\"א הביסה 71:88 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1783309.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_JER_041026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_JER_041026/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "אחרי משחק צמוד במיוחד: הפועל חולון גברה על עירוני אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1781900.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Holon_EILAT_Highlights/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Holon_EILAT_Highlights/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "קמרון הנרי כיכב, העמק הביסה את מכבי ראשל''צ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1781535.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EMEK_RISHON/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EMEK_RISHON/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "16 נק` לפריס לי: נס ציונה גברה על גליל עליון והעפילה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1781174.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESSZIONA_280926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESSZIONA_280926/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "לא אותה ליגה: מכבי ת\"א פירקה 61:109 את אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1780634.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_270926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_270926/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "ברוכה השבה: 55:75 לאילת על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1780625.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EILAT_ASHDOD_2709261_179052997766/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_EILAT_ASHDOD_2709261_179052997766/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "קריגנטון ואודיאסי בלטו: הפועל ת\"א גברה 67:85 על הפועל ב\"ש/דימונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1780282.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_SAL_260926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_SAL_260926/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "משחק מצוין ללופטון, הפועל ירושלים מחצה את בני הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1780352.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HYR_HRTZ_250926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HYR_HRTZ_250926/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "24 נק` להאריס: הפועל חולון ניצחה את ר\"ג בתום משחק צמוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1779213.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLON_RAMATGAN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLON_RAMATGAN/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "אתא ניצחה את העמק והעפילה לרבע הגמר לאחר קאמבק אדיר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1779215.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Gilboa_Ata/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Gilboa_Ata/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "משחק ענק לקאביל, הפועל ב''ש/דימונה גברה על מכבי ראשל'צ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1778869.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RISHON_220926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RISHON_220926/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "גליל עליון חזרה מפיגור דו ספרתי והביסה את הפועל העמק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1778112.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGalilElionvsHapoelGilboaGalil-GameHighlights_178984727277/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HapoelGalilElionvsHapoelGilboaGalil-GameHighlights_178984727277/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "השיגה את הכרטיס: הפועל ירושלים ברבע גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1777434.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_BASH_180926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HJER_BASH_180926/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "אחרי משחק צמוד: ניצחון דרמטי לראשל''צ על אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1775861.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MaccabiRisonLeZionvsIRONIEILAT-GameHighlightsmp4_178941691482/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MaccabiRisonLeZionvsIRONIEILAT-GameHighlightsmp4_178941691482/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "נס ציונה גברה על חולון ועלתה לרבע הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1774128.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IroniNessZionavsHapoelHolon-GameHighlights_178906376879/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/IroniNessZionavsHapoelHolon-GameHighlights_178906376879/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
+      {
+       "name": "לופטון להט, הפועל ירושלים הביסה את אשדוד בגביע הווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1773162.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_080926/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ASHDOD_080926/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      }
+     ]
+    },
+    {
+     "name": "גביע ווינר - 25\\2024",
+     "channels": [
+      {
+       "name": "הראשון לעונה: מכבי ת\"א זכתה בגביע ווינר בפעם ה-11",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1473646.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GAVIA_SAL_171124/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GAVIA_SAL_171124/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "טיול: מכבי ת\"א הביסה את קריית אתא 67:94",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1452737.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACCABI_SAL_240924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MACCABI_SAL_240924/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "חולון גברה 68:81 על נס ציונה ועלתה לחצי גמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1452440.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_230924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_230924/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "גם היא בחוץ: י-ם הפסידה 83:79 להרצליה והודחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1452086.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_220924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JER_220924/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "הרצליה גברה על הפועל חיפה, תפגוש ברבע את ירושלים",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1450830.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_herzelia/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_herzelia/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "הפועל י-ם ניצחה 66:75 את גליל עליון, שהודחה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1450317.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JLM_SAL_180924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JLM_SAL_180924/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "הבטיחה מקום 1: חולון ניצחה את קריית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1449709.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_170924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_170924/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "משחק הפכפך: 80:90 להפועל י-ם על גלבוע/גליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1448953.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_150924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_150924/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "מיטרו-לונג הצטיין, חולון ניצחה את עפולה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1446557.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_090924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_090924/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "המשיכה בשלה: 66:85 לקרית אתא על באר שבע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1446438.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KIRYATATAvsHapoelBeerSheva-BneiShimon-GameHighlights_172590445887/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KIRYATATAvsHapoelBeerSheva-BneiShimon-GameHighlights_172590445887/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "סניד בלט: הרצליה גברה 79:84 על נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1446133.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/netanya_herzliya/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/netanya_herzliya/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      },
+      {
+       "name": "חזרה בסערה: גלבוע\\גליל טיילה עם 66:85 נגד נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1446023.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GILBOA_080924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GILBOA_080924/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 25\\2024"
+      }
+     ]
+    },
+    {
+     "name": "גביע ווינר - 2019/20",
+     "channels": [
+      {
+       "name": "גביע ווינר של י-ם אחרי 83:84 דרמטי על מכבי ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/963304.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8i6DL8IVQM/App/NM_VTR_TAK_WINN1ER_CUP_280919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/8i6DL8IVQM/App/NM_VTR_TAK_WINN1ER_CUP_280919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2019/20"
+      },
+      {
+       "name": "ירושלים מחכה: מכבי ת\"א ניצחה 65:76 את נהריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/962876.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9nPzz02cnY/App/NM_VTR_MACCABI_NAHARIYA__260919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/9nPzz02cnY/App/NM_VTR_MACCABI_NAHARIYA__260919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2019/20"
+      },
+      {
+       "name": "י-ם גברה על נס ציונה בדרך לגמר גביע ווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/962839.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/JikTEdwv9u/App/NM_VTR_JER_NESS_260919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/JikTEdwv9u/App/NM_VTR_JER_NESS_260919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2019/20"
+      },
+      {
+       "name": "כספי כיכב, מכבי ניצחה את הפועל בדרבי התל אביבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/962375.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/Rqwd7g4FXf/App/NM_VTR_TAK_DERBI_240919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/Rqwd7g4FXf/App/NM_VTR_TAK_DERBI_240919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2019/20"
+      },
+      {
+       "name": "נהריה גברה על חולון 77:88 ועלתה לחצי הגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/962298.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/rNvGHKRAX2/App/NM_VTR_TAK_HOLON_2409199_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/rNvGHKRAX2/App/NM_VTR_TAK_HOLON_2409199_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2019/20"
+      },
+      {
+       "name": "מתחילה להתחבר: הפועל י-ם הביסה את ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/962103.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/2h3IMnh7EI/App/NM_VTR_TAK_JER_230919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/2h3IMnh7EI/App/NM_VTR_TAK_JER_230919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2019/20"
+      },
+      {
+       "name": "לימונד להט, נס ציונה עלתה לחצי ע\"ח אילת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/962047.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/bw9EDzcLvd/App/NM_VTR_TAK_EILAT_230919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/bw9EDzcLvd/App/NM_VTR_TAK_EILAT_230919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2019/20"
+      },
+      {
+       "name": "יש דרבי: הפועל ת\"א הביסה 92:111 את אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/961255.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/1Py8oxmDJA/App/NM_TAK_HTA_ASHDOD_SAL_200919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV1/1Py8oxmDJA/App/NM_TAK_HTA_ASHDOD_SAL_200919_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2019/20"
+      }
+     ]
+    },
+    {
+     "name": "גביע ווינר - 2017/18",
+     "channels": [
+      {
+       "name": "יאנג סחף את נהריה לגמר גביע ווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/742109.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f7/9a/f79ac298-69c4-4230-af1a-c33de33bf6ab/031020172311_nm_tak_galil_nahariya_031017_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f7/9a/f79ac298-69c4-4230-af1a-c33de33bf6ab/031020172311_nm_tak_galil_nahariya_031017_,80,110,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2017/18"
+      },
+      {
+       "name": "בקלות: מכבי ת\"א טיילה לגמר גביע ווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/742066.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/43/1a/431a0314-27de-466c-9583-686d4c24536f/031020172109_nm_vtr_tak_maccabi_sal_new_031017_,110,55,160,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/43/1a/431a0314-27de-466c-9583-686d4c24536f/031020172109_nm_vtr_tak_maccabi_sal_new_031017_,110,55,160,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2017/18"
+      }
+     ]
+    },
+    {
+     "name": "גביע ווינר - 2016/17",
+     "channels": [
+      {
+       "name": "מכבי חטפה, ירושלים זכתה בגביע ווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/644493.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/7a/0e/7a0e222d-fcef-4c26-8ed2-3503c48b2504/011020162210_tak_jer_maccabi_sal_hanafa_011016_,35,80,160,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/7a/0e/7a0e222d-fcef-4c26-8ed2-3503c48b2504/011020162210_tak_jer_maccabi_sal_hanafa_011016_,35,80,160,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2016/17"
+      },
+      {
+       "name": "מרשימה: מכבי דרסה את נהריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/644066.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/26/0a/260a6ea5-c14a-4f4c-a892-af1a3872d4aa/290920162210_tak_maccabi_sal_290916_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/26/0a/260a6ea5-c14a-4f4c-a892-af1a3872d4aa/290920162210_tak_maccabi_sal_290916_,110,160,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2016/17"
+      },
+      {
+       "name": "ירושלים בגמר לאחר הצגה של ג'רלס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/644000.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/71/a0/71a038bb-af55-4f8b-8ae7-c4f1b42cff41/290920162008_tak_jer_sal_290916_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/71/a0/71a038bb-af55-4f8b-8ae7-c4f1b42cff41/290920162008_tak_jer_sal_290916_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2016/17"
+      },
+      {
+       "name": "ברגל ימין: 53:65 לי-ם על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/643431.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f7/01/f701c10f-52cc-4ad8-b842-2a3d1dac4267/270920162210_tak_hapjer_vs_hta_good_270916_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f7/01/f701c10f-52cc-4ad8-b842-2a3d1dac4267/270920162210_tak_hapjer_vs_hta_good_270916_,80,55,35,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2016/17"
+      },
+      {
+       "name": "בקושי: מכבי ת\"א גברה על הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/643396.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/76/fc/76fc8957-0446-452b-9615-c65a1c59304a/270920161907_tak_maccabi_ertzelia_sal_270916_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/76/fc/76fc8957-0446-452b-9615-c65a1c59304a/270920161907_tak_maccabi_ertzelia_sal_270916_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2016/17"
+      },
+      {
+       "name": "האלופה כאן: 68:79 לראשל\"צ על חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/643141.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/8f/ae/8fae9ba9-3bb4-4536-aacc-dcc7b78de12d/260920162008_tak_rishon_haifa_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/8f/ae/8fae9ba9-3bb4-4536-aacc-dcc7b78de12d/260920162008_tak_rishon_haifa_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2016/17"
+      }
+     ]
+    },
+    {
+     "name": "גביע ווינר - 2015/16",
+     "channels": [
+      {
+       "name": "הצגה לסמית', מכבי זכתה בגביע ווינר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/549624.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e4/ba/e4ba4e30-7786-4217-b0b2-8747f03694f7/2809152301_maccabi_eilat_280915_,110,55,80,140,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/e4/ba/e4ba4e30-7786-4217-b0b2-8747f03694f7/2809152301_maccabi_eilat_280915_,110,55,80,140,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "אילת בגמר, 83:91 על הפועל תל אביב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/549295.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/95/cd/95cdb741-8b1a-49ec-a18b-d84231bcca17/2609152325_eylat_vs_hapoel_sal_260915_,110,140,35,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/95/cd/95cdb741-8b1a-49ec-a18b-d84231bcca17/2609152325_eylat_vs_hapoel_sal_260915_,110,140,35,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "רוצ'סטי להט, מכבי ת\"א העפילה לגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/549222.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/76/9f/769f56dc-267b-4717-a98d-2cecc56823cc/1611152009_macabbi_vs_rishon_sal_260915_,80,110,55,35,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/76/9f/769f56dc-267b-4717-a98d-2cecc56823cc/1611152009_macabbi_vs_rishon_sal_260915_,80,110,55,35,140,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "כבר בכושר: 75:83 לאילת על חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/548937.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/82/bb/82bb7417-98a2-4511-8117-9f1a318e12bd/2509151615_eilat_haifa_250915_,140,35,110,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/82/bb/82bb7417-98a2-4511-8117-9f1a318e12bd/2509151615_eilat_haifa_250915_,140,35,110,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "שוב מאיימת: 54:84 למכבי על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/548753.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/bb/77/bb7791f5-f02e-429a-a077-ee9246bd2a98/2409151959_maccabi_nesziona_240915_,35,140,80,110,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/bb/77/bb7791f5-f02e-429a-a077-ee9246bd2a98/2409151959_maccabi_nesziona_240915_,35,140,80,110,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "חולון נכנעה בחנוכה 80:65 לראשון לציון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/548836.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/5b/ea5bad86-976f-4ae5-ae9d-cf016ce2b56a/2409152319_tak_holon_240915_,80,35,55,140,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ea/5b/ea5bad86-976f-4ae5-ae9d-cf016ce2b56a/2409152319_tak_holon_240915_,80,35,55,140,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "כך מעודדות מכבי ת\"א פותחות עונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/548693.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5e/76/5e767706-0e28-4e84-aec0-734fd2a44c4f/2409151251_maccabi cheerleaders auditions_,55,35,140,110,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5e/76/5e767706-0e28-4e84-aec0-734fd2a44c4f/2409151251_maccabi cheerleaders auditions_,55,35,140,110,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "נראה רע: גרייבס נפצע וזעק מכאב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/545685.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/fc/0b/fc0b5527-ebc8-414e-87c4-bc0949688601/0809152151_n_vo_hapoel_sal_080915_,55,110,140,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/fc/0b/fc0b5527-ebc8-414e-87c4-bc0949688601/0809152151_n_vo_hapoel_sal_080915_,55,110,140,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "הצצה לעולמו של שופט NBA",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/544304.jpg",
+       "url": "https://rgevod.akamaized.net/vodedge/_definst_/mp4:rge/video/delivery/aa/e5/aae56ee1-9369-4bda-9620-9f651f6d9931/0109152224_item_crawford_010915_550k.mp4/chunklist_b55000.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/aa/e5/aae56ee1-9369-4bda-9620-9f651f6d9931/0109152224_item_crawford_010915_,550k,350k,800k,1100k,1400k,.mp4&Type=vod&ShowRe",
+       "season": "גביע ווינר - 2015/16"
+      },
+      {
+       "name": "רוצ'סטי בישראל: \"מתרגש להיות פה\"",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/541920.jpg",
+       "url": "https://rgevod.akamaized.net/vodedge/_definst_/mp4:rge/video/delivery/7f/99/7f995efa-0030-4070-942d-7af3113cada3/2308151212_nehita_rochesti_230815_550k.mp4/chunklist_b55000.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/7f/99/7f995efa-0030-4070-942d-7af3113cada3/2308151212_nehita_rochesti_230815_,550k,1400k,800k,350k,1100k,.mp4&Type=vod&Show",
+       "season": "גביע ווינר - 2015/16"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
