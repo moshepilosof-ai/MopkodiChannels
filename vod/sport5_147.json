@@ -8,7 +8,7 @@
    "series_id": "147",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797066.jpg",
    "plot": "",
-   "updated": "2026-10-31 11:01",
+   "updated": "2026-10-31 20:56",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -41,6 +41,36 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_NYKPHI_0018_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565811&pos",
+       "season": ""
+      },
+      {
+       "name": "0:3 להפועל ת\"א על ק\"ש בנוער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1797322.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_NOAR_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_NOAR_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565816&post",
+       "season": ""
+      },
+      {
+       "name": "שמרה על הנקודות בבית: 1:3 לראשל\"צ על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1797327.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RISHON_NOAR_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RISHON_NOAR_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565815&p",
+       "season": ""
+      },
+      {
+       "name": "0:1 להפועל ב\"ש על מכבי נתניה בנוער",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1797342.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NOAR_BASH_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NOAR_BASH_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565814&pos",
        "season": ""
       },
       {
@@ -181,36 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_BARDA_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565647&poster=http",
-       "season": ""
-      },
-      {
-       "name": "קני מילר: \"היו טעויות אישיות של שחקנים\"",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1796597.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_KENNY_MILLER_291026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/SY_KENNY_MILLER_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565646&post",
-       "season": ""
-      },
-      {
-       "name": "מלדון הוביל את ריאל לניצחון גדול על פנר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1796669.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/real_fener_26/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/real_fener_26/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565638&poster=https:",
-       "season": ""
-      },
-      {
-       "name": "הכוכב האדום התפוצצה עם 73:103 על באיירן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1796660.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/zvezda_bayern_tak_work/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/zvezda_bayern_tak_work/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565637&post",
        "season": ""
       }
      ]

@@ -6,16 +6,46 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1290945",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291135",
    "plot": "",
-   "updated": "2026-10-31 11:56",
+   "updated": "2026-10-31 21:52",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר ליגה איטלקית מתוקן: פרוזינונה – לצ'ה 1:5",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1290945",
+       "name": "תקציר: מנצ'סטר סיטי – ברייטון 1:0",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291135",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115015/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1985663/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מנצ'סטר יונייטד הפסידה 2:0 לצ'לסי, שער יפה לרוג'רס ופאלמר הוסיף",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291103",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114942/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1985491/",
+       "season": ""
+      },
+      {
+       "name": "צפו בשערים: צ'לסי – מנצ'סטר יונייטד 0:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291103",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114929/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1985467/",
+       "season": ""
+      },
+      {
+       "name": "צפו: גאנדלמן פתח לראשונה העונה, לצ'ה הובסה 5:1 על ידי פרוזינונה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290945",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114702/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -71,36 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/video/1983002/",
-       "season": ""
-      },
-      {
-       "name": "צפו: ניקו פאס כיכב עם שער ובישול במהפך הדרמטי של קומו מול טורינו",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290731",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114075/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1982936/",
-       "season": ""
-      },
-      {
-       "name": "צפו: רומא חגגה 2:4 דרמטי על קליארי עם שני שערים בדקות האחרונות",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290727",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114069/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/1982929/",
-       "season": ""
-      },
-      {
-       "name": "צפו: לאציו חגגה עם 2:6 מדהים מול ססואולו ועלתה לפסגת הליגה האיטלקית",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290721",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114038/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1982891/",
        "season": ""
       }
      ]
