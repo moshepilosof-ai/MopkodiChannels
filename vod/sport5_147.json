@@ -6,13 +6,43 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797066.jpg",
    "plot": "",
-   "updated": "2026-10-31 02:22",
+   "updated": "2026-10-31 11:01",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "מנת השף: קרי ניצח על קאמבק מטורף נגד לוקה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797066.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALGSW_0023_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALGSW_0023_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565812&pos",
+       "season": ""
+      },
+      {
+       "name": "דגל לבן: פלאג ודאלאס חגגו, הפסד ראשון ליוסטון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1797062.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_HOUDAL_0021_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_HOUDAL_0021_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565804&pos",
+       "season": ""
+      },
+      {
+       "name": "המלך אמר: לברון כיכב בניצחון פילי על הניקס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1797063.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_NYKPHI_0018_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_NYKPHI_0018_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565811&pos",
+       "season": ""
+      },
       {
        "name": "רצף הניצחונות נעצר: הפועל תל אביב נכנעה לדובאי בחוץ",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
@@ -181,36 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/zvezda_bayern_tak_work/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565637&post",
-       "season": ""
-      },
-      {
-       "name": "דאבל דאבל לשלושה שחקנים, 109:114 לפילדלפיה מול אינדיאנה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1796178.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHIIND_0135_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHIIND_0135_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565545&pos",
-       "season": ""
-      },
-      {
-       "name": "87:103 ללייקרס בדרבי מול הקליפרס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796183.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALLAC_0143_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALLAC_0143_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565544&pos",
-       "season": ""
-      },
-      {
-       "name": "פלאג ודאלאס הנחילו לת'אנדר הפסד בכורה העונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796206.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_OKCDAL_0142_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_OKCDAL_0142_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565543&pos",
        "season": ""
       }
      ]
