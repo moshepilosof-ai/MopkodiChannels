@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "10202",
    "series_id": "10202",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1796752.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
    "plot": "",
-   "updated": "2026-10-31 21:21",
+   "updated": "2026-11-01 12:18",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=565822&po",
+       "season": ""
+      },
       {
        "name": "אבדיה ובוזר כיכבו: ממפיס גברה על פורטלנד 103:124",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1796752.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AVDIJA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=537485&poster=https:/",
-       "season": ""
-      },
-      {
-       "name": "היסטוריה בכחול לבן: פורטלנד של אבדיה ניצחה את ברוקלין של וולף ושרף",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1688119.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_POR_BKN/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_POR_BKN/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=537447&poster=https:",
        "season": ""
       }
      ]

@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "4985",
    "series_id": "4985",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797066.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
    "plot": "",
-   "updated": "2026-10-31 21:29",
+   "updated": "2026-11-01 12:26",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=565822&po",
+       "season": ""
+      },
       {
        "name": "מנת השף: קרי ניצח על קאמבק מטורף נגד לוקה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797066.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376",
        "season": ""
-      },
-      {
-       "name": "דני אבדיה כיכב, פורטלנד נותרה מושלמת מול הלייקרס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795699.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.c",
-       "season": ""
       }
      ]
     },
     {
      "name": "NBA - עונות",
      "channels": [
+      {
+       "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
+       "season": "NBA - עונות"
+      },
       {
        "name": "מנת השף: קרי ניצח על קאמבק מטורף נגד לוקה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797066.jpg",
@@ -406,16 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
-       "season": "NBA - עונות"
-      },
-      {
-       "name": "דני אבדיה כיכב, פורטלנד נותרה מושלמת מול הלייקרס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795699.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8",
        "season": "NBA - עונות"
       }
      ]
@@ -629,6 +629,16 @@
      "name": "NBA - עונות - עונות - 2026/27",
      "channels": [
       {
+       "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27"
+      },
+      {
        "name": "מנת השף: קרי ניצח על קאמבק מטורף נגד לוקה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797066.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALGSW_0023_RAW/HLS/playlist.m3u8",
@@ -816,16 +826,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27"
-      },
-      {
-       "name": "דני אבדיה כיכב, פורטלנד נותרה מושלמת מול הלייקרס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795699.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8",
        "season": "NBA - עונות - עונות - 2026/27"
       }
      ]
@@ -2884,6 +2884,16 @@
      "name": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "מנת השף: קרי ניצח על קאמבק מטורף נגד לוקה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797066.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALGSW_0023_RAW/HLS/playlist.m3u8",
@@ -3071,16 +3081,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "דני אבדיה כיכב, פורטלנד נותרה מושלמת מול הלייקרס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795699.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsLosAngelesLakers_2_179316840006/HLS/playlist.m3u8",
        "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]

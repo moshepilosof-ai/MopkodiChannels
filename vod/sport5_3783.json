@@ -6,13 +6,53 @@
    "source": "sport5",
    "program_url": "3783",
    "series_id": "3783",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795204.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1797191.jpg",
    "plot": "",
-   "updated": "2026-10-31 21:21",
+   "updated": "2026-11-01 12:18",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "בתום דרמה גדולה: בית\"ר וק\"ש נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1797191.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12391%26Vi=565821&post",
+       "season": ""
+      },
+      {
+       "name": "משחק שני ללא ניצחון: נתניה שמטה יתרון נגד הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1797470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12391%26Vi=565820&pos",
+       "season": ""
+      },
+      {
+       "name": "ממשיכה לשקוע: הפועל פ\"ת נכנעה להפועל חיפה בסמי עופר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797406.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12391%26Vi=565819&poster=",
+       "season": ""
+      },
+      {
+       "name": "אחרי שני ניצחונות: טבריה עצרה את סכנין בדוחא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1797404.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12391%26Vi=565818&poster=",
+       "season": ""
+      },
       {
        "name": "הצגה גדולה של האלופה: 2:5 לב\"ש על מכבי חיפה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795204.jpg",
@@ -172,52 +212,52 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAKHNIN_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12374%26Vi=563213&po",
        "season": ""
-      },
-      {
-       "name": "שערים אדירים לאווסו ואלטמן, 1:3 להפועל ת\"א מול ק\"ש",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1786776.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_HTA_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_HTA_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12374%26Vi=563211&poste",
-       "season": ""
-      },
-      {
-       "name": "דרמטי במיוחד: הפועל חיפה גברה 1:2 על מכבי פ\"ת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1786782.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_MPT_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_MPT_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12374%26Vi=563208&pos",
-       "season": ""
-      },
-      {
-       "name": "בתוספת הזמן: מכבי נתניה חילצה 1:1 מול הפועל פ\"ת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1786780.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPT_NETANIA_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPT_NETANIA_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12374%26Vi=563209&po",
-       "season": ""
-      },
-      {
-       "name": "ויקטור ופורסון סידרו להפועל ב\"ש 0:2 מול עירוני טבריה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1786764.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIBERIAS_BASH_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIBERIAS_BASH_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12374%26Vi=563210&",
-       "season": ""
       }
      ]
     },
     {
      "name": "ליגת העל - 2026/27",
      "channels": [
+      {
+       "name": "בתום דרמה גדולה: בית\"ר וק\"ש נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1797191.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27"
+      },
+      {
+       "name": "משחק שני ללא ניצחון: נתניה שמטה יתרון נגד הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1797470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27"
+      },
+      {
+       "name": "ממשיכה לשקוע: הפועל פ\"ת נכנעה להפועל חיפה בסמי עופר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797406.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27"
+      },
+      {
+       "name": "אחרי שני ניצחונות: טבריה עצרה את סכנין בדוחא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1797404.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27"
+      },
       {
        "name": "הצגה גדולה של האלופה: 2:5 לב\"ש על מכבי חיפה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795204.jpg",
@@ -376,46 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAKHNIN_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27"
-      },
-      {
-       "name": "שערים אדירים לאווסו ואלטמן, 1:3 להפועל ת\"א מול ק\"ש",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1786776.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_HTA_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_HTA_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27"
-      },
-      {
-       "name": "דרמטי במיוחד: הפועל חיפה גברה 1:2 על מכבי פ\"ת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1786782.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_MPT_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_MPT_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27"
-      },
-      {
-       "name": "בתוספת הזמן: מכבי נתניה חילצה 1:1 מול הפועל פ\"ת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1786780.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPT_NETANIA_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPT_NETANIA_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27"
-      },
-      {
-       "name": "ויקטור ופורסון סידרו להפועל ב\"ש 0:2 מול עירוני טבריה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1786764.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIBERIAS_BASH_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIBERIAS_BASH_101026/HLS/playlist.m3u8",
        "season": "ליגת העל - 2026/27"
       }
      ]
@@ -2474,6 +2474,46 @@
      "name": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "בתום דרמה גדולה: בית\"ר וק\"ש נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1797191.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "משחק שני ללא ניצחון: נתניה שמטה יתרון נגד הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1797470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "ממשיכה לשקוע: הפועל פ\"ת נכנעה להפועל חיפה בסמי עופר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797406.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "אחרי שני ניצחונות: טבריה עצרה את סכנין בדוחא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1797404.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "הצגה גדולה של האלופה: 2:5 לב\"ש על מכבי חיפה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795204.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEER_SHEVA_HAIFA_261026/HLS/playlist.m3u8",
@@ -2631,46 +2671,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAKHNIN_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "שערים אדירים לאווסו ואלטמן, 1:3 להפועל ת\"א מול ק\"ש",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1786776.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_HTA_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_HTA_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "דרמטי במיוחד: הפועל חיפה גברה 1:2 על מכבי פ\"ת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1786782.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_MPT_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_MPT_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "בתוספת הזמן: מכבי נתניה חילצה 1:1 מול הפועל פ\"ת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1786780.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPT_NETANIA_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPT_NETANIA_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "ויקטור ופורסון סידרו להפועל ב\"ש 0:2 מול עירוני טבריה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1786764.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIBERIAS_BASH_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIBERIAS_BASH_101026/HLS/playlist.m3u8",
        "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
@@ -8242,6 +8242,51 @@
        "page": "",
        "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/a0/00/a000253c-0d70-46cf-9859-3534519f1a08/250220172109_nm_vtr_tak_haifa_ashdod_250217_,550k,1600k,800k,350k,1100k,.mp4&Typ",
        "season": "ליגת העל - 2016/17 - 2016/17 - העונה הסדירה"
+      }
+     ]
+    },
+    {
+     "name": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 9",
+     "channels": [
+      {
+       "name": "בתום דרמה גדולה: בית\"ר וק\"ש נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1797191.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 9"
+      },
+      {
+       "name": "משחק שני ללא ניצחון: נתניה שמטה יתרון נגד הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1797470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 9"
+      },
+      {
+       "name": "ממשיכה לשקוע: הפועל פ\"ת נכנעה להפועל חיפה בסמי עופר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797406.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 9"
+      },
+      {
+       "name": "אחרי שני ניצחונות: טבריה עצרה את סכנין בדוחא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1797404.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 9"
       }
      ]
     },

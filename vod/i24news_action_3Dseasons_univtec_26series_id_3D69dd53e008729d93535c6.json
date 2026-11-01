@@ -8,11 +8,21 @@
    "series_id": "action_3Dseasons_univtec_26series_id_3D69dd53e008729d93535c6",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/4090689c-635c-41e7-8c42-159e8c1be034.jpeg",
    "plot": "סופשבוע עם דניאל רוט אבנרי",
-   "updated": "2026-10-31 20:55",
+   "updated": "2026-11-01 11:51",
    "sub_categories": [
     {
      "name": "אוקטובר 2026",
      "channels": [
+      {
+       "name": "סופשבוע 31-10-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70506316233.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/26b4a254-e496-4740-807d-ab716b74e060/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/26b4a254-e496-4740-807d-ab716b74e060/hls/master.m3u8",
+       "season": "אוקטובר 2026"
+      },
       {
        "name": "סופשבוע  24-10-26",
        "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70255819572.jpg",

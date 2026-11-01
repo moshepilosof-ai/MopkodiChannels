@@ -8,14 +8,24 @@
    "series_id": "280",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27de40a62849461f852704b291dc0d4c/version/16/width/800/height/1200/quality/90",
    "plot": "מהדורת השבת של חדשות 13",
-   "updated": "2026-10-31 20:51",
+   "updated": "2026-11-01 11:48",
    "sub_categories": [
     {
      "name": "התוכניות המלאות",
      "channels": [
       {
+       "name": "מהדורת השבת 31.10.26 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/094fe5e70eed4f27b5afe2d6fee0581a/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ad7l8n67/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-10-31",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ad7l8n67===",
+       "season": "התוכניות המלאות"
+      },
+      {
        "name": "מהדורת השבת 24.10.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ffac5dbc20547a9bf71abf72c39786c/version/3/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ffac5dbc20547a9bf71abf72c39786c/version/4/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ax7b511h/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-24",
        "plot": "",
@@ -25,7 +35,7 @@
       },
       {
        "name": "מהדורת השבת 17.10.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05139744ca6c422a9a8c200385381a18/version/6/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05139744ca6c422a9a8c200385381a18/version/7/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0u6ssjgy/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-17",
        "plot": "",
@@ -35,7 +45,7 @@
       },
       {
        "name": "מהדורת השבת 10.10.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa6edd82d3c54bce9d5748142d71a154/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa6edd82d3c54bce9d5748142d71a154/version/8/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tlhk5tku/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-10",
        "plot": "",
@@ -45,7 +55,7 @@
       },
       {
        "name": "מהדורת השבת 03.10.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e8a02a9000f4085aa549f745b35dc97/version/9/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e8a02a9000f4085aa549f745b35dc97/version/10/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jiv5674t/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-03",
        "plot": "",
@@ -55,7 +65,7 @@
       },
       {
        "name": "מהדורת השבת 26.09.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cdf888b9636c4faebf4bec23e43c2a92/version/11/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cdf888b9636c4faebf4bec23e43c2a92/version/12/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2ctklngy/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-26",
        "plot": "",
@@ -65,7 +75,7 @@
       },
       {
        "name": "מהדורת השבת 19.09.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfc5860e76944f9caf99bd2957dce39a/version/13/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfc5860e76944f9caf99bd2957dce39a/version/14/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_caqpt349/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-19",
        "plot": "",
@@ -75,7 +85,7 @@
       },
       {
        "name": "מהדורת השבת 05.09.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9473e0b9df9c440ba29e0fec91e1a64c/version/15/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9473e0b9df9c440ba29e0fec91e1a64c/version/16/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t86jmp3n/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-05",
        "plot": "",
@@ -85,7 +95,7 @@
       },
       {
        "name": "מהדורת השבת 29.08.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d7ef90c138b4bb98c400fa07ee95a88/version/17/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d7ef90c138b4bb98c400fa07ee95a88/version/18/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pnj0fxhm/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-29",
        "plot": "",
@@ -95,7 +105,7 @@
       },
       {
        "name": "מהדורת השבת 22.08.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27c95fecd9b54ebd9ae1b3d1e64f3c14/version/19/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27c95fecd9b54ebd9ae1b3d1e64f3c14/version/20/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o33lhcwf/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-22",
        "plot": "",
@@ -105,7 +115,7 @@
       },
       {
        "name": "מהדורת השבת 15.08.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f46446b900b3454bae6020902523add2/version/21/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f46446b900b3454bae6020902523add2/version/22/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nrza8v9c/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-15",
        "plot": "",
@@ -115,7 +125,7 @@
       },
       {
        "name": "מהדורת השבת 08.08.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f982747dcc14a36927978ce267abe46/version/22/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f982747dcc14a36927978ce267abe46/version/23/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j7y3iani/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-08",
        "plot": "",
@@ -125,7 +135,7 @@
       },
       {
        "name": "מהדורת השבת 01.08.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/503a7f36483b496087fb7f9466bede76/version/24/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/503a7f36483b496087fb7f9466bede76/version/25/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0dtxdoql/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-01",
        "plot": "",
@@ -135,7 +145,7 @@
       },
       {
        "name": "מהדורת השבת 25.07.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ef748cdcbe24d3cb30f8e7cc9ca910c/version/28/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ef748cdcbe24d3cb30f8e7cc9ca910c/version/29/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_scmt9yz0/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-25",
        "plot": "",
@@ -145,7 +155,7 @@
       },
       {
        "name": "מהדורת השבת 18.07.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fa45d735b2f465b8b74f1785378425b/version/30/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fa45d735b2f465b8b74f1785378425b/version/31/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aeofbsvf/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-18",
        "plot": "",
@@ -155,7 +165,7 @@
       },
       {
        "name": "מהדורת השבת 11.07.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b447ffabe297428d9d4fa801c2e815a3/version/32/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b447ffabe297428d9d4fa801c2e815a3/version/33/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rl9yzvf1/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-11",
        "plot": "",
@@ -165,7 +175,7 @@
       },
       {
        "name": "מהדורת השבת 04.07.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d9653a8388345f68410efad2631b2a7/version/34/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5d9653a8388345f68410efad2631b2a7/version/35/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tjw29fss/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-04",
        "plot": "",
@@ -175,7 +185,7 @@
       },
       {
        "name": "מהדורת השבת 27.06.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1dfbee2d651447ebaa006625bd31d218/version/37/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1dfbee2d651447ebaa006625bd31d218/version/38/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j3c8axte/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-27",
        "plot": "",
@@ -185,7 +195,7 @@
       },
       {
        "name": "מהדורת השבת 20.06.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/677fcf65515d40a0a1c62c0001864dbb/version/39/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/677fcf65515d40a0a1c62c0001864dbb/version/40/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n81m13r4/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-20",
        "plot": "",
@@ -195,7 +205,7 @@
       },
       {
        "name": "מהדורת השבת 13.06.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2b6fcc593cb40e9881ea566f54a0a30/version/42/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2b6fcc593cb40e9881ea566f54a0a30/version/43/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_00gj5hja/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-13",
        "plot": "",
@@ -205,7 +215,7 @@
       },
       {
        "name": "מהדורת השבת 06.06.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d92d6646a71347e485f13ede9ded79de/version/44/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d92d6646a71347e485f13ede9ded79de/version/45/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v7wvbtlw/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-06",
        "plot": "",
@@ -215,7 +225,7 @@
       },
       {
        "name": "מהדורת השבת 30.05.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7ffbad71b2ce43409a94c8cb7ac43a47/version/46/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7ffbad71b2ce43409a94c8cb7ac43a47/version/47/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_95bevzje/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-30",
        "plot": "",
@@ -225,7 +235,7 @@
       },
       {
        "name": "מהדורת השבת 23.05.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fce1678e07c94ad18f60e0d9d1a98155/version/47/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fce1678e07c94ad18f60e0d9d1a98155/version/48/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zelc3xzv/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-23",
        "plot": "",
@@ -235,7 +245,7 @@
       },
       {
        "name": "מהדורת השבת 16.05.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/870059871d2448a0a0723747987e60da/version/49/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/870059871d2448a0a0723747987e60da/version/50/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x9f8je31/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-16",
        "plot": "",
@@ -245,7 +255,7 @@
       },
       {
        "name": "מהדורת השבת 09.05.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f374bced04c480c9931458b781acda5/version/51/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f374bced04c480c9931458b781acda5/version/52/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pkrqmpeu/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-09",
        "plot": "",
@@ -255,7 +265,7 @@
       },
       {
        "name": "מהדורת השבת 02.05.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4ff7378c7984ebd9cb6ec8bc5e37331/version/53/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4ff7378c7984ebd9cb6ec8bc5e37331/version/54/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h1tyvp4n/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-02",
        "plot": "",
@@ -265,7 +275,7 @@
       },
       {
        "name": "מהדורת השבת 25.04.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80ca64ca352e47b4855bfb5a22bcf55e/version/53/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80ca64ca352e47b4855bfb5a22bcf55e/version/54/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c9sidcto/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-25",
        "plot": "",
@@ -275,7 +285,7 @@
       },
       {
        "name": "מהדורת השבת 18.04.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fc8281c2f7940b4826a2a188039a885/version/54/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fc8281c2f7940b4826a2a188039a885/version/55/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nogvd2xq/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-18",
        "plot": "",
@@ -285,7 +295,7 @@
       },
       {
        "name": "מהדורת השבת 11.04.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51395b395eb34e17bdb98ee05864d06c/version/55/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51395b395eb34e17bdb98ee05864d06c/version/56/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bgo15u7f/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-11",
        "plot": "",
@@ -295,7 +305,7 @@
       },
       {
        "name": "מהדורת השבת 04.04.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6f48330c7654f01b834c622a4b6d3e0/version/55/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6f48330c7654f01b834c622a4b6d3e0/version/56/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5pocklqv/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-04",
        "plot": "",
@@ -305,7 +315,7 @@
       },
       {
        "name": "מהדורת השבת 28.03.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b0a4ddf325814d01b77f3a282d866769/version/56/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b0a4ddf325814d01b77f3a282d866769/version/57/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pjkjp1bi/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-28",
        "plot": "",
@@ -315,7 +325,7 @@
       },
       {
        "name": "אזור בחירה 25.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d97a743ced9e4838bdaa71aa28488a13/version/57/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d97a743ced9e4838bdaa71aa28488a13/version/58/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_22s3i3xn/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-25",
        "plot": "",
@@ -325,7 +335,7 @@
       },
       {
        "name": "מהדורת השבת 21.03.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34c7239cfc474c4ea44eb46659f3c4e1/version/57/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34c7239cfc474c4ea44eb46659f3c4e1/version/58/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y6tmpsk2/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-21",
        "plot": "",
@@ -335,7 +345,7 @@
       },
       {
        "name": "מהדורת השבת 14.02.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e081854cbe74c2cb6134a7c37ec6427/version/59/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e081854cbe74c2cb6134a7c37ec6427/version/60/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ui6xr7ce/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-15",
        "plot": "",
@@ -345,7 +355,7 @@
       },
       {
        "name": "מהדורת השבת 07.03.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df17745fb2914ca0a18f6e2c0512ae71/version/60/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df17745fb2914ca0a18f6e2c0512ae71/version/61/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4tgy9qll/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-07",
        "plot": "",
@@ -355,7 +365,7 @@
       },
       {
        "name": "מהדורת השבת 28.02.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3743e44998b847caabf046d951d427af/version/68/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3743e44998b847caabf046d951d427af/version/69/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d73uiuqd/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-01",
        "plot": "",
@@ -365,7 +375,7 @@
       },
       {
        "name": "מהדורת השבת 21.02.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8d3465de9cd540df918b303a01acbb88/version/65/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8d3465de9cd540df918b303a01acbb88/version/66/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wmglxdyd/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-21",
        "plot": "",
@@ -375,7 +385,7 @@
       },
       {
        "name": "מהדורת השבת 14.01.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab46aed360c64227a75cb166bbee29a0/version/68/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab46aed360c64227a75cb166bbee29a0/version/69/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z60z88vy/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-14",
        "plot": "",
@@ -385,7 +395,7 @@
       },
       {
        "name": "מהדורת השבת 07.02.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/901d449b658749fb97bc535cd0a508ff/version/70/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/901d449b658749fb97bc535cd0a508ff/version/71/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fqyq07yt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-07",
        "plot": "",
@@ -395,7 +405,7 @@
       },
       {
        "name": "מהדורת השבת 31.01.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c08349c4f5444b592005c25b8d84d31/version/69/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c08349c4f5444b592005c25b8d84d31/version/70/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t3a87es2/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-31",
        "plot": "",
@@ -405,7 +415,7 @@
       },
       {
        "name": "מהדורת השבת 24.01.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a01417fb4013479fbc29b1be8f39f530/version/72/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a01417fb4013479fbc29b1be8f39f530/version/73/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g5c3mzde/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-24",
        "plot": "",
@@ -415,7 +425,7 @@
       },
       {
        "name": "מהדורת השבת 17.01.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7abbdb63441b4c29b8a08d4339e9211f/version/74/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7abbdb63441b4c29b8a08d4339e9211f/version/75/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tnqywr5b/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-17",
        "plot": "",
@@ -425,7 +435,7 @@
       },
       {
        "name": "מהדורת השבת 10.01.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b2ac6788d084bc68262f6a7530a475c/version/73/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b2ac6788d084bc68262f6a7530a475c/version/74/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yab8mqfw/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-10",
        "plot": "",
@@ -435,7 +445,7 @@
       },
       {
        "name": "מהדורת השבת 03.01.26 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d22fd93b38fb420cb95f3db2f0ed6d3d/version/75/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d22fd93b38fb420cb95f3db2f0ed6d3d/version/76/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_swlr8ytj/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-03",
        "plot": "",
@@ -445,7 +455,7 @@
       },
       {
        "name": "מהדורת השבת 27.12.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f23a5acac27140afba64e3e51b200997/version/77/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f23a5acac27140afba64e3e51b200997/version/78/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dvws936r/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-27",
        "plot": "",
@@ -455,7 +465,7 @@
       },
       {
        "name": "מהדורת השבת 20.10.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6abdd91e0f984e1e9dbacec3a62a1341/version/81/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6abdd91e0f984e1e9dbacec3a62a1341/version/82/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3us5juh1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-20",
        "plot": "",
@@ -465,7 +475,7 @@
       },
       {
        "name": "מהדורת השבת 13.12.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2944910727f34bcabace8c43fd4ee439/version/84/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2944910727f34bcabace8c43fd4ee439/version/85/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_10gwqlla/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-13",
        "plot": "",
@@ -475,7 +485,7 @@
       },
       {
        "name": "מהדורת השבת 06.12.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1631ee55d22a4294bc6308e4f27fd463/version/86/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1631ee55d22a4294bc6308e4f27fd463/version/87/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qlcqeyhf/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-06",
        "plot": "",
@@ -485,7 +495,7 @@
       },
       {
        "name": "מהדורת השבת 29.11.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e77b9d3d6f441b5a10122a498cdc3d0/version/87/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e77b9d3d6f441b5a10122a498cdc3d0/version/88/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m209aq4y/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-29",
        "plot": "",
@@ -495,7 +505,7 @@
       },
       {
        "name": "מהדורת השבת 22.11.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b26dfaf7513247d89a933bf89e777ab0/version/91/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b26dfaf7513247d89a933bf89e777ab0/version/92/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wfbyk9wg/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-22",
        "plot": "",
@@ -505,7 +515,7 @@
       },
       {
        "name": "מהדורת השבת 15.11.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b97ce5d579a49b792eb7bf9c5cc63bc/version/94/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b97ce5d579a49b792eb7bf9c5cc63bc/version/95/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b0cr3ph1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-15",
        "plot": "",
@@ -515,7 +525,7 @@
       },
       {
        "name": "מהדורת השבת 08.11.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07eebac46d1f4158b434c0c995ce45c3/version/96/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07eebac46d1f4158b434c0c995ce45c3/version/97/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o4zr4kqf/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-08",
        "plot": "",
@@ -525,7 +535,7 @@
       },
       {
        "name": "מהדורת השבת 01.11.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c69ec9142a764c58bf535a65fe8c0caf/version/101/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c69ec9142a764c58bf535a65fe8c0caf/version/102/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jgh1upn3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-01",
        "plot": "",
@@ -535,7 +545,7 @@
       },
       {
        "name": "מהדורת השבת 25.10.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fced93d48ca14aa784d99c9a51d6134a/version/108/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fced93d48ca14aa784d99c9a51d6134a/version/109/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_00dy24k2/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-25",
        "plot": "",
@@ -545,7 +555,7 @@
       },
       {
        "name": "מהדורת השבת 18.10.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/988116c98edc4e979b74910e24fd50ea/version/108/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/988116c98edc4e979b74910e24fd50ea/version/109/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_03lrhf7o/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-18",
        "plot": "",
@@ -555,7 +565,7 @@
       },
       {
        "name": "מהדורת השבת 11.10.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e7c60d31da5457fa53202ccd5c7c9cb/version/113/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e7c60d31da5457fa53202ccd5c7c9cb/version/114/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_we8fsymn/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-11",
        "plot": "",
@@ -565,7 +575,7 @@
       },
       {
        "name": "מהדורת השבת 04.10.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6738dfe4d87439fa91937c579318df0/version/118/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6738dfe4d87439fa91937c579318df0/version/119/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9fcbqudu/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-04",
        "plot": "",
@@ -575,7 +585,7 @@
       },
       {
        "name": "מהדורת השבת 27.09.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f7c8737d2ba47f898ebe6f3b90fd55c/version/121/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f7c8737d2ba47f898ebe6f3b90fd55c/version/122/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pfcd74d6/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-27",
        "plot": "",
@@ -585,7 +595,7 @@
       },
       {
        "name": "מהדורת השבת 20.09.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90d0d08a4f2d42aab40774ac1ad0c0f5/version/124/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90d0d08a4f2d42aab40774ac1ad0c0f5/version/125/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yzq6ywhr/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-20",
        "plot": "",
@@ -595,7 +605,7 @@
       },
       {
        "name": "מהדורת השבת 13.09.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da3b46db8cf14a9f841e6a93008a6926/version/127/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da3b46db8cf14a9f841e6a93008a6926/version/128/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sj8687gc/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-13",
        "plot": "",
@@ -605,7 +615,7 @@
       },
       {
        "name": "מהדורת השבת 06.09.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d766654220514c7ab91f8022ca87a266/version/134/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d766654220514c7ab91f8022ca87a266/version/135/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y07seycs/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-06",
        "plot": "",
@@ -615,7 +625,7 @@
       },
       {
        "name": "מהדורת השבת 30.08.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/473d85ba91394931a6eba3d38b177a29/version/144/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/473d85ba91394931a6eba3d38b177a29/version/145/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ze8yzwib/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-30",
        "plot": "",
@@ -625,7 +635,7 @@
       },
       {
        "name": "מהדורת השבת 23.08.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/728c7f06417a48a089c9b2412dde7758/version/143/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/728c7f06417a48a089c9b2412dde7758/version/144/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yjud3246/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-23",
        "plot": "",
@@ -635,7 +645,7 @@
       },
       {
        "name": "מהדורת השבת 16.08.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50e998f23be34a10acf569fd2197a17b/version/146/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50e998f23be34a10acf569fd2197a17b/version/147/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gblnqrxu/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-16",
        "plot": "",
@@ -645,7 +655,7 @@
       },
       {
        "name": "מהדורת השבת 02.08.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c29a6db1279455fb7a5146a110a796c/version/153/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c29a6db1279455fb7a5146a110a796c/version/154/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8h6ka56i/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-02",
        "plot": "",
@@ -655,7 +665,7 @@
       },
       {
        "name": "מהדורת השבת 26.07.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0347c93ba77e4604896de8f107f237dc/version/156/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0347c93ba77e4604896de8f107f237dc/version/157/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qkn1mpu5/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-26",
        "plot": "",
@@ -665,7 +675,7 @@
       },
       {
        "name": "מהדורת השבת 19.07.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4cde90d8273840c080f580ee1d3f82d1/version/160/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4cde90d8273840c080f580ee1d3f82d1/version/161/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_deye44qx/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-19",
        "plot": "",
@@ -675,7 +685,7 @@
       },
       {
        "name": "מהדורת השבת 12.07.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/adba2777d6ce4b9cb8336009f9c27a5c/version/162/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/adba2777d6ce4b9cb8336009f9c27a5c/version/163/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fj1c9c6r/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-12",
        "plot": "",
@@ -685,7 +695,7 @@
       },
       {
        "name": "מהדורת השבת 05.07.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7494ca5b6f8f423c9768b33182b87da5/version/165/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7494ca5b6f8f423c9768b33182b87da5/version/166/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nx83jm1f/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-05",
        "plot": "",
@@ -695,7 +705,7 @@
       },
       {
        "name": "מהדורת השבת 28.06.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84682b21b2e24942b702cac5baf4803d/version/167/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84682b21b2e24942b702cac5baf4803d/version/168/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oigyb4wh/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-28",
        "plot": "",
@@ -705,7 +715,7 @@
       },
       {
        "name": "מהדורת השבת 21.06.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8fbe2aadb4c04395a222479fb2e658f4/version/171/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8fbe2aadb4c04395a222479fb2e658f4/version/172/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nxszv69e/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-21",
        "plot": "",
@@ -715,7 +725,7 @@
       },
       {
        "name": "מהדורת השבת 14.06.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd94ff94e7eb48b880ebaf4444daebaa/version/173/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd94ff94e7eb48b880ebaf4444daebaa/version/174/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5beoigc2/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-14",
        "plot": "",
@@ -725,7 +735,7 @@
       },
       {
        "name": "מהדורת השבת 07.06.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7a6eb75c05e44861aa213511ebee7578/version/178/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7a6eb75c05e44861aa213511ebee7578/version/179/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8wh2oclc/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-07",
        "plot": "",
@@ -735,7 +745,7 @@
       },
       {
        "name": "מהדורת השבת 31.05.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9229a73280c045059d063db7297f9020/version/179/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9229a73280c045059d063db7297f9020/version/180/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v2a77cva/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-31",
        "plot": "",
@@ -745,7 +755,7 @@
       },
       {
        "name": "מהדורת השבת 24.05.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8bd5afc58854f90ac4f6ffe34d9d66f/version/182/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8bd5afc58854f90ac4f6ffe34d9d66f/version/183/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_izz47hah/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-24",
        "plot": "",
@@ -755,7 +765,7 @@
       },
       {
        "name": "מהדורת השבת 17.05.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95e4d66d28ed482c84d50c11abca7615/version/186/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95e4d66d28ed482c84d50c11abca7615/version/187/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qmojnrjk/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-17",
        "plot": "",
@@ -765,7 +775,7 @@
       },
       {
        "name": "מהדורת השבת 10.05.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92cf3d354eda4549bcd136c7b8c7a940/version/189/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92cf3d354eda4549bcd136c7b8c7a940/version/190/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fz8ejmwh/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-10",
        "plot": "",
@@ -775,7 +785,7 @@
       },
       {
        "name": "מהדורת השבת 03.05.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8913e3b931d04fa583398088280d94f0/version/191/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8913e3b931d04fa583398088280d94f0/version/192/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8k31xpt9/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-03",
        "plot": "",
@@ -785,7 +795,7 @@
       },
       {
        "name": "מהדורת השבת 26.04.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06e2b8c997df43568c926968fdc1fc5f/version/194/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06e2b8c997df43568c926968fdc1fc5f/version/195/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_es9xumxg/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-26",
        "plot": "",
@@ -795,7 +805,7 @@
       },
       {
        "name": "מהדורת השבת 19.04.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e20ad563b4b64c1e815fb95313eca459/version/200/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e20ad563b4b64c1e815fb95313eca459/version/201/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_81yx2nfr/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-19",
        "plot": "",
@@ -805,7 +815,7 @@
       },
       {
        "name": "מהדורת השבת 12.04.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/54784df5be7d44ec9c7a9be871510b03/version/207/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/54784df5be7d44ec9c7a9be871510b03/version/208/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9gkfug9h/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-13",
        "plot": "",
@@ -815,7 +825,7 @@
       },
       {
        "name": "מהדורת השבת 05.04.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc56a6d788944eb1b0ee733fb5f936c0/version/205/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc56a6d788944eb1b0ee733fb5f936c0/version/206/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k08nzfxb/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-05",
        "plot": "",
@@ -825,7 +835,7 @@
       },
       {
        "name": "מהדורת השבת 22.03.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79a9631f7dd54cc0a082ed23bfed2859/version/216/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79a9631f7dd54cc0a082ed23bfed2859/version/217/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hgi7ld6c/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-22",
        "plot": "",
@@ -835,7 +845,7 @@
       },
       {
        "name": "מהדורת השבת 15.03.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c063f6f6f0ca43f99d6df0787eaa31b1/version/222/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c063f6f6f0ca43f99d6df0787eaa31b1/version/223/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dk57rpmu/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-15",
        "plot": "",
@@ -845,7 +855,7 @@
       },
       {
        "name": "מהדורת השבת 08.03.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dd26bb67f81647a18e95006ac507f47a/version/222/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dd26bb67f81647a18e95006ac507f47a/version/223/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qk29r088/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-08",
        "plot": "",
@@ -855,7 +865,7 @@
       },
       {
        "name": "מהדורת השבת 22.02.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e69092ca971041938778c30d0766c080/version/232/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e69092ca971041938778c30d0766c080/version/233/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lenrsz8c/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-02-22",
        "plot": "",
@@ -865,7 +875,7 @@
       },
       {
        "name": "מהדורת השבת 15.02.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b78c30ded5a4ed2a1c8a7f1ffa08ee3/version/233/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b78c30ded5a4ed2a1c8a7f1ffa08ee3/version/234/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_arzw94kt/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-02-15",
        "plot": "",
@@ -875,7 +885,7 @@
       },
       {
        "name": "מהדורת השבת 08.02.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b63c4f76f6df4d99bf0f55985062dcf1/version/238/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b63c4f76f6df4d99bf0f55985062dcf1/version/239/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z0xbgi6u/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-02-08",
        "plot": "",
@@ -885,7 +895,7 @@
       },
       {
        "name": "מהדורת השבת 01.02.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b08f2caa83dc4def891d70121f79acab/version/240/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b08f2caa83dc4def891d70121f79acab/version/241/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_noevfr5o/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-02-01",
        "plot": "",
@@ -895,7 +905,7 @@
       },
       {
        "name": "מהדורת השבת 25.01.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/318d1d4f1c0948c08d55a2231bf1e65b/version/247/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/318d1d4f1c0948c08d55a2231bf1e65b/version/248/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8wmea4yx/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-01-26",
        "plot": "",
@@ -905,7 +915,7 @@
       },
       {
        "name": "מהדורת השבת 18.01.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecbebd5e9d534d999dfe99b71d77c7d2/version/251/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecbebd5e9d534d999dfe99b71d77c7d2/version/252/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tzmlu882/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-01-18",
        "plot": "",
@@ -915,7 +925,7 @@
       },
       {
        "name": "מהדורת השבת 11.01.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/535cd76a6fa0496c9a6ca2df6553355f/version/253/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/535cd76a6fa0496c9a6ca2df6553355f/version/254/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_goo54w7u/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-01-11",
        "plot": "",
@@ -925,7 +935,7 @@
       },
       {
        "name": "מהדורת השבת 04.01.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3bfbdad41bed46cc9686f01c4dd5e8b4/version/262/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3bfbdad41bed46cc9686f01c4dd5e8b4/version/263/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vqxd9vik/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-01-04",
        "plot": "",
@@ -935,7 +945,7 @@
       },
       {
        "name": "מהדורת השבת 28.12.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff3c5bbe8c164fffa53bf4fb908cc9bb/version/259/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff3c5bbe8c164fffa53bf4fb908cc9bb/version/260/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ng786nwq/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-28",
        "plot": "",
@@ -945,7 +955,7 @@
       },
       {
        "name": "מהדורת השבת 21.12.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b93f45eb810047179196740876837c05/version/260/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b93f45eb810047179196740876837c05/version/261/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tb4ott0y/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-21",
        "plot": "",
@@ -955,7 +965,7 @@
       },
       {
        "name": "מהדורת השבת 14.12.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c691aac4df74c63995e1e8ffd28d470/version/264/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c691aac4df74c63995e1e8ffd28d470/version/265/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cwoqlzs9/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-14",
        "plot": "",
@@ -965,7 +975,7 @@
       },
       {
        "name": "מהדורת השבת 07.12.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64f220098a3546d4a91100aa2d7bf488/version/267/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64f220098a3546d4a91100aa2d7bf488/version/268/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gnpbp7cm/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-07",
        "plot": "",
@@ -975,7 +985,7 @@
       },
       {
        "name": "מהדורת השבת 30.11.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8b41636008a469eb97a00554ac509fe/version/270/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8b41636008a469eb97a00554ac509fe/version/271/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xeq2l2en/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-30",
        "plot": "",
@@ -985,7 +995,7 @@
       },
       {
        "name": "מהדורת השבת 23.11.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc3efda2ebae4e0492427ccaa6954167/version/272/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc3efda2ebae4e0492427ccaa6954167/version/273/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hlco2ng8/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-23",
        "plot": "",
@@ -995,7 +1005,7 @@
       },
       {
        "name": "מהדורת השבת 16.11.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7988aac1d5b54ea9a8a18da6c430eee6/version/275/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7988aac1d5b54ea9a8a18da6c430eee6/version/276/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ywlchg87/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-16",
        "plot": "",
@@ -1005,7 +1015,7 @@
       },
       {
        "name": "מהדורת השבת 09.11.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b117abfd46434955899e431cd2953401/version/280/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b117abfd46434955899e431cd2953401/version/281/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7s2lsep5/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-09",
        "plot": "",
@@ -1015,7 +1025,7 @@
       },
       {
        "name": "מהדורת השבת 02.11.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2528119b977424d83e3758fa3b2c41e/version/284/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2528119b977424d83e3758fa3b2c41e/version/285/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uir3oe4e/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-02",
        "plot": "",
@@ -1025,7 +1035,7 @@
       },
       {
        "name": "מהדורת השבת 26.10.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbf0c875d9e3470c912a348ead6776de/version/286/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbf0c875d9e3470c912a348ead6776de/version/287/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ynrzc2bi/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-10-26",
        "plot": "",
@@ -1035,7 +1045,7 @@
       },
       {
        "name": "מהדורת השבת 19.10.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3da2d471c5bf4e8e9de2128f1d9e2779/version/288/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3da2d471c5bf4e8e9de2128f1d9e2779/version/289/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_slw2ufd8/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-10-19",
        "plot": "",
@@ -1045,7 +1055,7 @@
       },
       {
        "name": "המהדורה המרכזית 06.08.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/78acf3b9e1384093ac58f496b970210e/version/299/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/78acf3b9e1384093ac58f496b970210e/version/300/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2ixv8crc/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-10-12",
        "plot": "",
@@ -1055,7 +1065,7 @@
       },
       {
        "name": "מהדורת השבת 12.10.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d4dc572a73ba4b0e8ac37ac6c7898fc4/version/290/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d4dc572a73ba4b0e8ac37ac6c7898fc4/version/291/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_thtk1192/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-10-12",
        "plot": "",
@@ -1065,7 +1075,7 @@
       },
       {
        "name": "מהדורת השבת 05.10.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14743cff92b24f2db62aeefca9762400/version/302/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14743cff92b24f2db62aeefca9762400/version/303/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7sw2s659/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-10-06",
        "plot": "",
@@ -1075,7 +1085,7 @@
       },
       {
        "name": "מהדורת השבת 28.09.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b78203ea8b74cf6b1328fe85b4c2f39/version/302/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b78203ea8b74cf6b1328fe85b4c2f39/version/303/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hlb3gcg1/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-29",
        "plot": "",
@@ -1085,7 +1095,7 @@
       },
       {
        "name": "מהדורת השבת 21.09.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c664f67b1774b1bae721dbfb0806de0/version/308/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c664f67b1774b1bae721dbfb0806de0/version/309/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mql7oc25/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-21",
        "plot": "",
@@ -1095,7 +1105,7 @@
       },
       {
        "name": "מהדורת השבת 14.09.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2de163c4b1940d9a1720c44b6ecd42f/version/310/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2de163c4b1940d9a1720c44b6ecd42f/version/311/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vkat50f9/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-14",
        "plot": "",
@@ -1105,7 +1115,7 @@
       },
       {
        "name": "מהדורת השבת 07.09.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07fffa9e8beb4ae4825ce6630ba549e9/version/312/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07fffa9e8beb4ae4825ce6630ba549e9/version/313/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w4o246lf/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-08",
        "plot": "",
@@ -1115,7 +1125,7 @@
       },
       {
        "name": "מהדורת השבת 31.08.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73341e85ef7d41f889e333e7522f2acb/version/317/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73341e85ef7d41f889e333e7522f2acb/version/318/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_66916ahm/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-31",
        "plot": "",
@@ -1125,7 +1135,7 @@
       },
       {
        "name": "מהדורת השבת 24.08.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/65441ed826b243f1ad6db1af4e87966e/version/320/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/65441ed826b243f1ad6db1af4e87966e/version/321/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0pqnxgao/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-24",
        "plot": "",
@@ -1135,7 +1145,7 @@
       },
       {
        "name": "מהדורת השבת 17.08.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7455852fa6884f3396b168e782316fc7/version/327/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7455852fa6884f3396b168e782316fc7/version/328/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_szf3363z/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-17",
        "plot": "",
@@ -1145,7 +1155,7 @@
       },
       {
        "name": "מהדורת השבת 10.08.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/69e4367270e34baba737292625050df0/version/323/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/69e4367270e34baba737292625050df0/version/324/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3dt1kr9c/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-11",
        "plot": "",
@@ -1155,7 +1165,7 @@
       },
       {
        "name": "מהדורת השבת 03.08.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f82518335a06417a9d84d51a54983787/version/332/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f82518335a06417a9d84d51a54983787/version/333/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i4k6qhxs/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-03",
        "plot": "",
@@ -1165,7 +1175,7 @@
       },
       {
        "name": "מהדורת השבת 27.07.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f5081e1da43147ebb1d9defd6eb5e76b/version/339/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f5081e1da43147ebb1d9defd6eb5e76b/version/340/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7qwl1dvh/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-27",
        "plot": "",
@@ -1175,7 +1185,7 @@
       },
       {
        "name": "מהדורת השבת 20.07.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4e6740f9670645c1903274d05410c445/version/337/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4e6740f9670645c1903274d05410c445/version/338/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_my82egw6/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-20",
        "plot": "",
@@ -1185,7 +1195,7 @@
       },
       {
        "name": "מהדורת השבת 13.07.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f575c9b6bd4749e4a4c487170853d9a5/version/340/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f575c9b6bd4749e4a4c487170853d9a5/version/341/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p2w7jhug/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-14",
        "plot": "",
@@ -1195,7 +1205,7 @@
       },
       {
        "name": "מהדורת השבת 06.07.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbf2972c56834f569bf61ed00bfda4e0/version/341/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbf2972c56834f569bf61ed00bfda4e0/version/342/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gyx5xspr/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-06",
        "plot": "",
@@ -1205,7 +1215,7 @@
       },
       {
        "name": "מהדורת השבת 29.06.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a3e0464c58e496fa6cb46f515c2c90d/version/344/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a3e0464c58e496fa6cb46f515c2c90d/version/345/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ayy1u8rw/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-29",
        "plot": "",
@@ -1215,7 +1225,7 @@
       },
       {
        "name": "מהדורת השבת 22.06.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1179a2433d45453c8b96249d86916036/version/345/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1179a2433d45453c8b96249d86916036/version/346/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a7fi5qdk/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-22",
        "plot": "",
@@ -1225,7 +1235,7 @@
       },
       {
        "name": "מהדורת השבת 15.06.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c3a956d3e53140028ac80e4c9590cd2b/version/352/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c3a956d3e53140028ac80e4c9590cd2b/version/353/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2hvyvw83/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-15",
        "plot": "",
@@ -1235,7 +1245,7 @@
       },
       {
        "name": "מהדורת השבת 08.06.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db30b0d2663144a89c5b283874606f7c/version/353/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db30b0d2663144a89c5b283874606f7c/version/354/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a7rgmvrb/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-08",
        "plot": "",
@@ -1245,7 +1255,7 @@
       },
       {
        "name": "מהדורת השבת 01.06.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd9ee8f771544ab591810c8fd2087213/version/355/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd9ee8f771544ab591810c8fd2087213/version/356/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2zi7v4b7/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-01",
        "plot": "",
@@ -1255,7 +1265,7 @@
       },
       {
        "name": "מהדורת השבת 25.05.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5bc9ce2b3df34c988474dc22a10c64bc/version/362/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5bc9ce2b3df34c988474dc22a10c64bc/version/363/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gn56jb07/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-05-26",
        "plot": "",
@@ -1265,7 +1275,7 @@
       },
       {
        "name": "מהדורת השבת 18.05.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba695f4cade0441cb588e9cb8d4f863c/version/363/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba695f4cade0441cb588e9cb8d4f863c/version/364/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_06z47xui/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-05-19",
        "plot": "",
@@ -1275,7 +1285,7 @@
       },
       {
        "name": "מהדורת השבת 27.04.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2d685cb469c443ba0a62559d013fa1e/version/372/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d2d685cb469c443ba0a62559d013fa1e/version/373/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ntkaobsd/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-04-27",
        "plot": "",
@@ -1285,7 +1295,7 @@
       },
       {
        "name": "מהדורת השבת 20.04.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b8b9d24587645cda5e2f93460435080/version/377/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b8b9d24587645cda5e2f93460435080/version/378/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5fl4y8k6/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-04-20",
        "plot": "",
@@ -1295,7 +1305,7 @@
       },
       {
        "name": "מהדורת השבת 13.04.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e227a5a91544afe9fd8a01c7dc05278/version/378/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e227a5a91544afe9fd8a01c7dc05278/version/379/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o13pkxlq/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-04-14",
        "plot": "",
@@ -1305,7 +1315,7 @@
       },
       {
        "name": "מהדורת השבת 06.04.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/254fa124f26d4ead9ee9439e520eaa29/version/380/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/254fa124f26d4ead9ee9439e520eaa29/version/381/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_npvaoqv9/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-04-06",
        "plot": "",
@@ -1315,7 +1325,7 @@
       },
       {
        "name": "מהדורת השבת 30.03.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/301fa297becf4f15826f6616bbbe210e/version/384/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/301fa297becf4f15826f6616bbbe210e/version/385/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hs6zlt59/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-03-30",
        "plot": "",
@@ -1325,7 +1335,7 @@
       },
       {
        "name": "מהדורת השבת 23.03.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8eb66c28bf0642ca9967eb4c496b979d/version/385/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8eb66c28bf0642ca9967eb4c496b979d/version/386/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zy82gro7/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-03-23",
        "plot": "",
@@ -1335,7 +1345,7 @@
       },
       {
        "name": "מהדורת השבת 16.03.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6eb0c10f3006478c9b8a6a207b3f7f57/version/390/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6eb0c10f3006478c9b8a6a207b3f7f57/version/391/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_baqwart5/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-03-17",
        "plot": "",
@@ -1345,7 +1355,7 @@
       },
       {
        "name": "מהדורת השבת 09.03.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b4a853b8bdf4d6b953ea3abf081647c/version/392/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b4a853b8bdf4d6b953ea3abf081647c/version/393/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o0jgyf2j/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-03-09",
        "plot": "",
@@ -1355,7 +1365,7 @@
       },
       {
        "name": "מהדורת השבת 02.03.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e44f984d525b447e81561717df346e2b/version/392/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e44f984d525b447e81561717df346e2b/version/393/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nxy8vms7/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-03-02",
        "plot": "",
@@ -1365,7 +1375,7 @@
       },
       {
        "name": "מהדורת השבת 24.02.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7a68e632d99e42219cfddbcdc04f78d2/version/398/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7a68e632d99e42219cfddbcdc04f78d2/version/399/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mv13au70/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-02-24",
        "plot": "",
@@ -1375,7 +1385,7 @@
       },
       {
        "name": "מהדורת השבת 17.02.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21e042fa1a964b7f9605a8d7fc0e49d3/version/394/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21e042fa1a964b7f9605a8d7fc0e49d3/version/395/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kc8rrac8/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-02-17",
        "plot": "",
@@ -1385,7 +1395,7 @@
       },
       {
        "name": "מהדורת השבת 10.02.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dcdcd254faf4408ca54d0c6fde39744f/version/400/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dcdcd254faf4408ca54d0c6fde39744f/version/401/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fn4mfss9/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-02-10",
        "plot": "",
@@ -1395,7 +1405,7 @@
       },
       {
        "name": "מהדורת השבת 03.02.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc0ec2368bcb4a78b2766dbdb3be9b64/version/401/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc0ec2368bcb4a78b2766dbdb3be9b64/version/402/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_76llhqkb/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-02-03",
        "plot": "",
@@ -1405,7 +1415,7 @@
       },
       {
        "name": "מהדורת השבת 27.01.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7809b9b0348f4d5599c1399f06fbb74b/version/405/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7809b9b0348f4d5599c1399f06fbb74b/version/406/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g6htwjed/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-01-27",
        "plot": "",
@@ -1415,7 +1425,7 @@
       },
       {
        "name": "מהדורת השבת 20.01.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b2be4a3c16d4e2c94da09417408bf87/version/409/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b2be4a3c16d4e2c94da09417408bf87/version/410/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z09nbx57/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-01-20",
        "plot": "",
@@ -1425,7 +1435,7 @@
       },
       {
        "name": "מהדורת השבת 13.01.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f3364faa72e4bbd807fb95401cf2217/version/408/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f3364faa72e4bbd807fb95401cf2217/version/409/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cba68jbh/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-01-13",
        "plot": "",
@@ -1445,7 +1455,7 @@
       },
       {
        "name": "מהדורת השבת 30.12.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a26549a77da45eb8cbae103ed1cbdea/version/413/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a26549a77da45eb8cbae103ed1cbdea/version/414/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_07nu0zk0/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-12-31",
        "plot": "",
@@ -1505,7 +1515,7 @@
       },
       {
        "name": "מהדורת השבת 02.12.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2d3cc327445456a8321e50eb8dcfacf/version/425/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2d3cc327445456a8321e50eb8dcfacf/version/426/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n2p8p81k/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-12-03",
        "plot": "",
@@ -1515,7 +1525,7 @@
       },
       {
        "name": "מהדורת השבת 25.11.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/047e6dc6cde1418a9efdd077cb3a7731/version/423/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/047e6dc6cde1418a9efdd077cb3a7731/version/424/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ckyjs7w5/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-11-29",
        "plot": "",
@@ -1525,7 +1535,7 @@
       },
       {
        "name": "מהדורת השבת 18.11.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/434fe502c04448ebb1c9fb16491d8ec2/version/428/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/434fe502c04448ebb1c9fb16491d8ec2/version/429/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3vxvr5hx/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-11-19",
        "plot": "",
@@ -1535,7 +1545,7 @@
       },
       {
        "name": "מהדורת השבת 11.11.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f48a0a8610e249f88c4dd49b51d8aac1/version/427/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f48a0a8610e249f88c4dd49b51d8aac1/version/428/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_guh5xhta/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-11-12",
        "plot": "",
@@ -1545,7 +1555,7 @@
       },
       {
        "name": "מהדורת השבת 04.11.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f476077025ea4e0c8a0a8a5ac43abc85/version/429/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f476077025ea4e0c8a0a8a5ac43abc85/version/430/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i6bb8vqd/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-11-05",
        "plot": "",
@@ -1565,7 +1575,7 @@
       },
       {
        "name": "מהדורת השבת 22.10.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c42d05141c5b42bc856fdae0afc61e9b/version/438/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c42d05141c5b42bc856fdae0afc61e9b/version/439/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_93uqalkb/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-10-22",
        "plot": "",
@@ -1575,7 +1585,7 @@
       },
       {
        "name": "מהדורת השבת 30.09.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8dee1cdde39147e885b93d7c5f08a700/version/435/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8dee1cdde39147e885b93d7c5f08a700/version/436/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jgcfbtpz/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-30",
        "plot": "",
@@ -1585,7 +1595,7 @@
       },
       {
        "name": "מהדורת השבת 23.09.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58dd099856894477bdd4988f675f8af5/version/435/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58dd099856894477bdd4988f675f8af5/version/436/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_job14qjv/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-23",
        "plot": "",
@@ -1595,7 +1605,7 @@
       },
       {
        "name": "מהדורת השבת 16.09.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cb9a898891c43e986d4d6c93910baf5/version/441/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cb9a898891c43e986d4d6c93910baf5/version/442/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gkq7gh6y/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-16",
        "plot": "",
@@ -1605,7 +1615,7 @@
       },
       {
        "name": "מהדורת השבת 09.09.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/137052ba24994150bda9222ab744eff5/version/439/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/137052ba24994150bda9222ab744eff5/version/440/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eqonq7vb/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-09",
        "plot": "",
@@ -1615,7 +1625,7 @@
       },
       {
        "name": "מהדורת השבת 02.09.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41dac5016f6d4dec9c5bda819a3e6f68/version/444/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41dac5016f6d4dec9c5bda819a3e6f68/version/445/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xyafya47/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-02",
        "plot": "",
@@ -1635,7 +1645,7 @@
       },
       {
        "name": "מהדורת השבת 26.08.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9de43b2959a14b05b90239f9bd6b2f58/version/452/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9de43b2959a14b05b90239f9bd6b2f58/version/453/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_18djnwes/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-26",
        "plot": "",
@@ -1645,7 +1655,7 @@
       },
       {
        "name": "מהדורת השבת 19.08.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca749f220e75480982ae99c9e1206f25/version/447/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca749f220e75480982ae99c9e1206f25/version/448/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_683846vl/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-19",
        "plot": "",
@@ -1665,7 +1675,7 @@
       },
       {
        "name": "מהדורת השבת 12.08.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/45f1a0eb9cc64656a547a1eb8420c7ad/version/451/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/45f1a0eb9cc64656a547a1eb8420c7ad/version/452/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qkn9oxup/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-12",
        "plot": "",
@@ -1675,7 +1685,7 @@
       },
       {
        "name": "מהדורת השבת 05.08.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e4a90638548847e98d44e828d7516942/version/453/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e4a90638548847e98d44e828d7516942/version/454/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qihazeqg/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-05",
        "plot": "",
@@ -1685,7 +1695,7 @@
       },
       {
        "name": "מהדורת השבת 29.07.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34d336e409a94309a4c5113ad875146d/version/453/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34d336e409a94309a4c5113ad875146d/version/454/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jkgffwvj/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-29",
        "plot": "",
@@ -1695,7 +1705,7 @@
       },
       {
        "name": "מהדורת השבת 15.07.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be8cbbbf155e42fbb5f338625c11174d/version/455/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be8cbbbf155e42fbb5f338625c11174d/version/456/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qu6muaj9/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-15",
        "plot": "",
@@ -1705,7 +1715,7 @@
       },
       {
        "name": "מהדורת השבת 08.07.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/703c880b9f7e45df9ca7c5d5972edbbe/version/461/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/703c880b9f7e45df9ca7c5d5972edbbe/version/462/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z6mlpx6m/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-08",
        "plot": "",
@@ -1715,7 +1725,7 @@
       },
       {
        "name": "מהדורת השבת 01.07.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/419856e5a59d414cb1e3094bd406eb8b/version/461/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/419856e5a59d414cb1e3094bd406eb8b/version/462/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8pla6g97/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-01",
        "plot": "",
@@ -1725,7 +1735,7 @@
       },
       {
        "name": "מהדורת השבת 24.06.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/98ae33757390423ba6820f8e764ec1b9/version/461/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/98ae33757390423ba6820f8e764ec1b9/version/462/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3yn5u6b8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-24",
        "plot": "",
@@ -1735,7 +1745,7 @@
       },
       {
        "name": "מהדורת השבת 17.06.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb609d14c371490b960c58b36636a665/version/465/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb609d14c371490b960c58b36636a665/version/466/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qq2fju9c/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-17",
        "plot": "",
@@ -1765,7 +1775,7 @@
       },
       {
        "name": "מהדורת השבת 20.05.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57f944985a644646b0c125f29e040f09/version/474/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57f944985a644646b0c125f29e040f09/version/475/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e9zg7ut2/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-20",
        "plot": "",
@@ -1775,7 +1785,7 @@
       },
       {
        "name": "מהדורת השבת 06.05.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b59c33a81025418c82e2943afaa7294e/version/474/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b59c33a81025418c82e2943afaa7294e/version/475/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vbnay2v7/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-08",
        "plot": "",
@@ -1785,7 +1795,7 @@
       },
       {
        "name": "מהדורת השבת 29.04.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b608b8aa4ecc48328d37de8f726e6d29/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b608b8aa4ecc48328d37de8f726e6d29/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rbtq8r6x/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-29",
        "plot": "",
@@ -1805,7 +1815,7 @@
       },
       {
        "name": "מהדורת השבת 15.04.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b87d78eb20ad40c8a9180aecfc670068/version/481/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b87d78eb20ad40c8a9180aecfc670068/version/482/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kqpezfh5/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-22",
        "plot": "",
@@ -1815,7 +1825,7 @@
       },
       {
        "name": "מהדורת השבת 08.04.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d63e17080a374094824866681f2a0f6f/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d63e17080a374094824866681f2a0f6f/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n7fnuuuk/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-22",
        "plot": "",
@@ -1825,7 +1835,7 @@
       },
       {
        "name": "מהדורת השבת 22.04.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ef4df9125b04d69bd1d09e8c8dd813c/version/481/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ef4df9125b04d69bd1d09e8c8dd813c/version/482/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0m08vs78/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-22",
        "plot": "",
@@ -1835,7 +1845,7 @@
       },
       {
        "name": "מהדורת השבת 25.03.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b7d511e44c744e29d9d005b4c09a22f/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b7d511e44c744e29d9d005b4c09a22f/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l0ezj94f/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1845,7 +1855,7 @@
       },
       {
        "name": "מהדורת השבת 18.03.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/117ae690b27a460d9fdfaf0146ef201a/version/484/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/117ae690b27a460d9fdfaf0146ef201a/version/485/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gbpae7x0/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1855,7 +1865,7 @@
       },
       {
        "name": "מהדורת השבת 11.03.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b61f0754a474932ae8bfc70025df7a3/version/484/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b61f0754a474932ae8bfc70025df7a3/version/485/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ohwwxxge/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1865,7 +1875,7 @@
       },
       {
        "name": "מהדורת השבת 04.03.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7085cb648bf14132990ddcab47b45d46/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7085cb648bf14132990ddcab47b45d46/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rx0wtrh2/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1875,7 +1885,7 @@
       },
       {
        "name": "מהדורת השבת 25.02.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4472f985ff2407595a431bbf2fc56f2/version/484/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4472f985ff2407595a431bbf2fc56f2/version/485/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_41564lc6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1885,7 +1895,7 @@
       },
       {
        "name": "מהדורת השבת 18.02.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a7122b3765724d14ae0c61ca9dfb71ba/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a7122b3765724d14ae0c61ca9dfb71ba/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2h20cai9/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1895,7 +1905,7 @@
       },
       {
        "name": "מהדורת השבת 11.02.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80b252a2a9684921a1d6ac47f4785e8f/version/485/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80b252a2a9684921a1d6ac47f4785e8f/version/486/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j1vv2cno/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1905,7 +1915,7 @@
       },
       {
        "name": "מהדורת השבת 04.02.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/069c52ec8f404fe1aa51aeef1258d802/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/069c52ec8f404fe1aa51aeef1258d802/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6jb4bmq3/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1915,7 +1925,7 @@
       },
       {
        "name": "מהדורת השבת 28.01.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d90212f91314c8ea14a9d93e437dbf6/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d90212f91314c8ea14a9d93e437dbf6/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lv0qqqcf/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1925,7 +1935,7 @@
       },
       {
        "name": "מהדורת השבת 21.01.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1ce4da6eac84dd29c66d7a3b1a04cca/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1ce4da6eac84dd29c66d7a3b1a04cca/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oj0qhiyl/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1935,7 +1945,7 @@
       },
       {
        "name": "מהדורת השבת 14.01.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8929f4c6f0864f179cd630a3d24b7fc3/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8929f4c6f0864f179cd630a3d24b7fc3/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_crg127qa/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1945,7 +1955,7 @@
       },
       {
        "name": "מהדורת השבת 07.01.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e2530a5b1ea480e8ce849582669e5e9/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e2530a5b1ea480e8ce849582669e5e9/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mdncjbmq/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1955,7 +1965,7 @@
       },
       {
        "name": "מהדורת השבת 31.12.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/143f52b1a22945bfb6ab09b97fb27875/version/484/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/143f52b1a22945bfb6ab09b97fb27875/version/485/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g7c8mlge/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1965,7 +1975,7 @@
       },
       {
        "name": "מהדורת השבת 24.12.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/079e4a6e46d7474f943751a710aba483/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/079e4a6e46d7474f943751a710aba483/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ck0l6cyx/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1975,7 +1985,7 @@
       },
       {
        "name": "מהדורת השבת 17.12.22 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aedd530db2344a9896459364aec5f0a4/version/485/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aedd530db2344a9896459364aec5f0a4/version/486/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jbvhhjlv/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1985,7 +1995,7 @@
       },
       {
        "name": "מהדורת השבת 10.12.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e97ca1d80d314d1480a0e12239b447ce/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e97ca1d80d314d1480a0e12239b447ce/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_srk2xbcl/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1995,7 +2005,7 @@
       },
       {
        "name": "מהדורת השבת 03.12.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80f6155203e34457abdfd11b7d432ced/version/485/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80f6155203e34457abdfd11b7d432ced/version/486/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j8zf89q8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -2005,7 +2015,7 @@
       },
       {
        "name": "מהדורת השבת 26.11.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1392ca7b8a544eca9ad6dfa4369d88d6/version/484/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1392ca7b8a544eca9ad6dfa4369d88d6/version/485/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k7ui6ecl/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -2015,7 +2025,7 @@
       },
       {
        "name": "מהדורת השבת 19.11.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7fb4d553060c4411a3a4525f50a2fa86/version/484/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7fb4d553060c4411a3a4525f50a2fa86/version/485/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tf5nl0f7/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -2025,7 +2035,7 @@
       },
       {
        "name": "מהדורת השבת 12.11.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50fcead66d07481a9a23f475b59bc4de/version/484/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50fcead66d07481a9a23f475b59bc4de/version/485/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zznbs0ok/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -2035,7 +2045,7 @@
       },
       {
        "name": "מהדורת השבת 05.11.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c102bae4183248c097fa905d3e1f3405/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c102bae4183248c097fa905d3e1f3405/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bj694qli/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -2045,7 +2055,7 @@
       },
       {
        "name": "מהדורת השבת 29.10.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c696359cc7d440bfb9bd4e2dbc8cccdc/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c696359cc7d440bfb9bd4e2dbc8cccdc/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lwn6zgq8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -2055,7 +2065,7 @@
       },
       {
        "name": "מהדורת השבת 22.10.22 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a04a5ab465649dcafe020929f99e425/version/483/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a04a5ab465649dcafe020929f99e425/version/484/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_41utslpk/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -2125,7 +2135,7 @@
       },
       {
        "name": "מהדורת השבת 01.04.23 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4a623d393feb401f821aaa7e2829b42b/version/484/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4a623d393feb401f821aaa7e2829b42b/version/485/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q8nuhxu6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",

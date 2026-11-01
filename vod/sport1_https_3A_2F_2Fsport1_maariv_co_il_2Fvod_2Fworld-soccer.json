@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291135",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291185",
    "plot": "",
-   "updated": "2026-10-31 21:52",
+   "updated": "2026-11-01 12:51",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: מנצ'סטר סיטי – ברייטון 1:0",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291135",
+       "name": "תקציר: טוטנהאם – קריסטל פלאס 0:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291185",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115077/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1985919/",
+       "season": ""
+      },
+      {
+       "name": "צפו: באיירן מינכן הוליכה פעמיים אבל דורטמונד חילצה 2:2 דרמטי בקלאסיקר",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291161",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115082/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1985835/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מנצ'סטר סיטי ספגה הפסד שני ברציפות מול ברייטון המפתיעה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291135",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115015/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/serie-a/video/1983701/",
-       "season": ""
-      },
-      {
-       "name": "צפו: שני שערים עצמיים סידרו לאינטר 0:2 בחוץ מול ונציה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290828",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114356/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/1983688/",
-       "season": ""
-      },
-      {
-       "name": "צפו: גימראייש החמיץ בפנדלים, ארסנל הודחה מול קבוצה מהליגה הרביעית",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290734",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114079/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1983002/",
        "season": ""
       }
      ]
