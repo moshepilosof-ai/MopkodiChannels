@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fpremier-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fpremier-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291135",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291333",
    "plot": "",
-   "updated": "2026-11-01 12:51",
+   "updated": "2026-11-01 22:18",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: מנצ'סטר סיטי – ברייטון 1:0",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291135",
+       "name": "תקציר: ליברפול – ארסנל 1:0",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291333",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115407/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1986824/",
+       "season": ""
+      },
+      {
+       "name": "צפו: האברץ כבש, ארסנל ניצחה באנפילד לראשונה אחרי 14 שנה ועלתה לפסגה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291307",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115338/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1986690/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מנצ'סטר סיטי ספגה הפסד שני ברציפות מול ברייטון המפתיעה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291135",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115015/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/1979980/",
-       "season": ""
-      },
-      {
-       "name": "צפו: שני הבלמים של ארסנל נתנו לה 0:2 מול אברטון",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290206",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112625/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1979888/",
-       "season": ""
-      },
-      {
-       "name": "צפו: קונסה הבקיע שער בכורה והעלה את ארסנל ליתרון מול אברטון",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290206",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112614/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1979821/",
        "season": ""
       }
      ]

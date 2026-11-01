@@ -8,7 +8,7 @@
    "series_id": "4985",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
    "plot": "",
-   "updated": "2026-11-01 12:26",
+   "updated": "2026-11-01 21:52",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -2821,7 +2821,7 @@
       {
        "name": "בתוך הפרצוף: דאנק אדיר לליבינגסטון",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/615362.jpg",
-       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/e4/b6/e4b66499-629e-411e-a76b-661d74f6ad1b/140620160505_sal_livingston_140616/chunklist_b1600000.m3u8",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e4/b6/e4b66499-629e-411e-a76b-661d74f6ad1b/140620160505_sal_livingston_140616_,800k,1600k,550k,1100k,350k,.mp4.csmil/master.m3u8",
        "date": "",
        "plot": "גארד גולדן סטייט לא התחשב בריצ'רד ג'פרסון והכניס אותו לפוסטר",
        "page": "",
@@ -7111,7 +7111,7 @@
       {
        "name": "המופע של לברון וקיירי במשחק 5",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/615394.jpg",
-       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/a1/e6/a1e695fe-beaa-4d76-9ba8-30fa01e1abfa/140620160707_golden_state_vs_clevland_140616/chunklist_b1600000.m3u8",
+       "url": "https://rgevod.akamaized.net/vodedge/_definst_/mp4:rge/video/delivery/a1/e6/a1e695fe-beaa-4d76-9ba8-30fa01e1abfa/140620160707_golden_state_vs_clevland_140616_1100k.mp4/chunklist_b1100000.m3u8",
        "date": "",
        "plot": "כוכבי קליבלנד קלעו 41 נקודות כ\"א וכפו משחק 6 עם 97:112 על גולדן סטייט",
        "page": "",

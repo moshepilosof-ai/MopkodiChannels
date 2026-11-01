@@ -8,7 +8,7 @@
    "series_id": "231",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a81de17488946868d29b57b8dc80ea9/version/8/width/800/height/1200/quality/90",
    "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים והכי מתוייגים ברשת. מהיעדים הכי מתויירים בעולם ועד למקומות ששווה להגיע לקצה העולם בשבילם",
-   "updated": "2026-11-01 11:42",
+   "updated": "2026-11-01 21:12",
    "sub_categories": [
     {
      "name": "עונה 1",
@@ -449,8 +449,18 @@
      "name": "עונה 4",
      "channels": [
       {
+       "name": "הכי בעולם, עונה 4, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b23f680358b3454dbf822c92408f5bd3/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g1x2948i/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-01",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_g1x2948i===",
+       "season": "עונה 4"
+      },
+      {
        "name": "הכי בעולם, עונה 4, פרק 4",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c74ecb6582834861bc70c7c640f5254c/version/2/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c74ecb6582834861bc70c7c640f5254c/version/3/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xiiicw07/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-25",
        "plot": "",
@@ -460,7 +470,7 @@
       },
       {
        "name": "הכי בעולם, עונה 4, פרק 3",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a557a457338e4845b63d28042ef995e8/version/3/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a557a457338e4845b63d28042ef995e8/version/4/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3o9narmh/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-18",
        "plot": "",
@@ -470,7 +480,7 @@
       },
       {
        "name": "הכי בעולם, עונה 4, פרק 2: מילאנו",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e1ad73864f64549b157f1388439cb02/version/8/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e1ad73864f64549b157f1388439cb02/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kh3ju0x3/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-11",
        "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. והפעם - ירדן ממשיכה את מסעה לבירת העיצוב העולמית, מילאנו",
@@ -480,7 +490,7 @@
       },
       {
        "name": "הכי בעולם, עונה 4, פרק 1: מילאנו",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/edbb8f2e30a0491d93d7be9888d8580b/version/8/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/edbb8f2e30a0491d93d7be9888d8580b/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_piicszar/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-04",
        "plot": "ירדן הראל יוצאת בעקבות המקומות הכי מדוברים ומתויגים ברשת, יחד עם מדריכי טיולים, מומחים מכל התחומים, צלמי רשת ובלוגרים. והפעם - ירדן מגיעה לבירת העיצוב העולמית, מילאנו",

@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1797757.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1797785.jpg",
    "plot": "",
-   "updated": "2026-11-01 11:53",
+   "updated": "2026-11-01 21:23",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "דני אבדיה נגד יוטה - דורס באלגנטיות #מעקבדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1797785.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MAAKAVDIJA_011126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MAAKAVDIJA_011126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566010&poster=ht",
+       "season": ""
+      },
       {
        "name": "בכר: \"נעשתה עבודה בקיץ ואני אופטימי\"",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1797757.jpg",
@@ -21,6 +31,16 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MASAAT_HAIFA_011126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565990&poster=",
+       "season": ""
+      },
+      {
+       "name": "מבזק 5 באוויר, 1.11.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1797805.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MVZAK_011126/HLS/playlist.m3u8",
+       "date": "2026-11-01",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MVZAK_011126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565979&poster=https:/",
        "season": ""
       },
       {
@@ -191,26 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ACO_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565756&poster=ht",
-       "season": ""
-      },
-      {
-       "name": "חגיגת שערים: 2:3 גדול לאחי נצרת על כפר קאסם",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1796889.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AHI_301026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AHI_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565755&poster=ht",
-       "season": ""
-      },
-      {
-       "name": "חלוקת נקודות בין מכבי הרצליה לבני ריינה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796893.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REYNA_301026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REYNA_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=565754&poster=",
        "season": ""
       }
      ]

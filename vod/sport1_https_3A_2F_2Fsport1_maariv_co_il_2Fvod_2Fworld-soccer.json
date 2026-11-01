@@ -6,16 +6,56 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291185",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291351",
    "plot": "",
-   "updated": "2026-11-01 12:51",
+   "updated": "2026-11-01 22:18",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: טוטנהאם – קריסטל פלאס 0:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291185",
+       "name": "תקציר: לאציו – קליארי 1:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291351",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115336/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/serie-a/video/1986911/",
+       "season": ""
+      },
+      {
+       "name": "צפו: האברץ כבש, ארסנל ניצחה באנפילד לראשונה אחרי 14 שנה ועלתה לפסגה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291333",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115407/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1986824/",
+       "season": ""
+      },
+      {
+       "name": "צפו: האברץ כבש, ארסנל ניצחה באנפילד לראשונה אחרי 14 שנה ועלתה לפסגה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291307",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115338/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1986690/",
+       "season": ""
+      },
+      {
+       "name": "תקציר: מילאן – אינטר 1:3",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291182",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115230/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/serie-a/video/1986453/",
+       "season": ""
+      },
+      {
+       "name": "צפו: 30 דקות לענאן חלאילי, קריסטל פאלאס הפסידה 2:0 לטוטנהאם",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291185",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115077/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -61,46 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/1985467/",
-       "season": ""
-      },
-      {
-       "name": "צפו: גאנדלמן פתח לראשונה העונה, לצ'ה הובסה 5:1 על ידי פרוזינונה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290945",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114702/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/1984549/",
-       "season": ""
-      },
-      {
-       "name": "צפו: גאנדלמן פתח לראשונה העונה, לצ'ה הובסה 5:1 על ידי פרוזינונה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290945",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/1984460/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: אוליסה כיכב עם צמד, באיירן מינכן דרסה 1:6 את מגדבורג",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290862",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114390/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1983800/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: מילאן הופתעה בסן סירו ונכנעה 4:2 לבולוניה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290841",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114355/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/1983701/",
        "season": ""
       }
      ]

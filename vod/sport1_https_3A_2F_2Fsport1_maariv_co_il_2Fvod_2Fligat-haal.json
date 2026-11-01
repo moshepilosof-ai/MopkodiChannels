@@ -6,16 +6,76 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fligat-haal",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fligat-haal",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291144",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291353",
    "plot": "",
-   "updated": "2026-11-01 12:51",
+   "updated": "2026-11-01 22:17",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: מכבי נתניה – הפועל ירושלים 1:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291144",
+       "name": "צפו בשערים: מכבי פתח תקוה – הפועל באר שבע 4:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291353",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115448/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1986928/",
+       "season": ""
+      },
+      {
+       "name": "צפו: צמד נהדר לניב יהושע, הפועל ב\"ש חזרה מפיגור ל-2:4 מול מכבי פ\"ת",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291347",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115438/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1986909/",
+       "season": ""
+      },
+      {
+       "name": "צפו: צמד נהדר לניב יהושע, הפועל ב\"ש חזרה מפיגור ל-2:3 מול מכבי פ\"ת",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291327",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115428/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1986894/",
+       "season": ""
+      },
+      {
+       "name": "צפו: שערים אדירים ליהושע וחזן, מכבי פ\"ת הפכה ל-1:2 מול הפועל ב\"ש",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291338",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115411/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1986865/",
+       "season": ""
+      },
+      {
+       "name": "צפו: יהושע כבש שער מרהיב, חזן השיב עם טיל משלו והשווה ל-1:1 מול ב\"ש",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291327",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115398/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1986813/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ניב יהושע כבש שער מדהים מחצי מגרש מול האקסית מכבי פתח תקוה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291327",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115390/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1986804/",
+       "season": ""
+      },
+      {
+       "name": "צפו: איזק כבש והורחק, מכבי נתניה סיימה ב-1:1 מול הפועל ירושלים",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291144",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115076/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -41,66 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/israeli-soccer/ligat-haal/video/1985817/",
-       "season": ""
-      },
-      {
-       "name": "צפו: הפועל חיפה ניצחה 1:2 את הפועל פתח תקוה, תורג'מן וסבג כבשו",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291130",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115028/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1985807/",
-       "season": ""
-      },
-      {
-       "name": "תיקתקנו, 30.10",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291019",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114760/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1984887/",
-       "season": ""
-      },
-      {
-       "name": "צפו: הפועל תל אביב זכתה בגביע הטוטו אחרי 2:3 ענק מול מכבי תל אביב",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290970",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114725/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1984594/",
-       "season": ""
-      },
-      {
-       "name": "תיקתקנו, 29.10",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290899",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114533/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1984187/",
-       "season": ""
-      },
-      {
-       "name": "סיכום שבוע בכדורגל העולמי",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1284090",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4114408/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1983878/",
-       "season": ""
-      },
-      {
-       "name": "צפו: הפועל באר שבע רמסה 2:5 את מכבי חיפה בסמי עופר, צמד לזלאטנוביץ'",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290619",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113824/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1982313/",
        "season": ""
       }
      ]
