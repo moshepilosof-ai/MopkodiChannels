@@ -6,13 +6,53 @@
    "source": "sport5",
    "program_url": "4985",
    "series_id": "4985",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798368.jpg",
    "plot": "",
-   "updated": "2026-11-01 21:52",
+   "updated": "2026-11-02 12:44",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "משחק אדיר לדונצ'יץ', הלייקרס ניצחו את טורונטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798368.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LakersToronto/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LakersToronto/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=566106&poster=http",
+       "season": ""
+      },
+      {
+       "name": "בלי קרי: לנדבורג הוביל את הווריורס ל-112:124 על הקליפרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798366.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LACGSW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LACGSW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=566107&poster=https://www",
+       "season": ""
+      },
+      {
+       "name": "32 נק' לטייטום, הסלטיקס ניצחו באורלנדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798372.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOSORL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BOSORL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=566127&poster=https://www",
+       "season": ""
+      },
+      {
+       "name": "בלי הישראלים: ברוקלין השיגה ניצחון בכורה מול הפייסרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1798370.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BKNIND/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BKNIND/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=566105&poster=https://www",
+       "season": ""
+      },
       {
        "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
@@ -172,52 +212,52 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIAATL_0132_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=565537&p",
        "season": ""
-      },
-      {
-       "name": "קנינגהאם כיכב, דטרויט השיגה ניצחון דחוק על שארלוט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796186.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHADET_0134_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHADET_0134_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=565535&p",
-       "season": ""
-      },
-      {
-       "name": "29 נק' לוומבי בניצחון של ספרס על סקרמנטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1795731.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACSAS_0130_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACSAS_0130_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=565473&p",
-       "season": ""
-      },
-      {
-       "name": "אנתוני טאונס בלט בניצחון הניקס על דטרויט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795729.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNYK_0129_RAW1_17931614350/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNYK_0129_RAW1_17931614350/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%",
-       "season": ""
-      },
-      {
-       "name": "טייטום הוביל את בוסטון לניצחון דרמטי על ברוקלין",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795724.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376",
-       "season": ""
       }
      ]
     },
     {
      "name": "NBA - עונות",
      "channels": [
+      {
+       "name": "משחק אדיר לדונצ'יץ', הלייקרס ניצחו את טורונטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798368.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LakersToronto/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LakersToronto/HLS/playlist.m3u8",
+       "season": "NBA - עונות"
+      },
+      {
+       "name": "בלי קרי: לנדבורג הוביל את הווריורס ל-112:124 על הקליפרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798366.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LACGSW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LACGSW/HLS/playlist.m3u8",
+       "season": "NBA - עונות"
+      },
+      {
+       "name": "32 נק' לטייטום, הסלטיקס ניצחו באורלנדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798372.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOSORL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOSORL/HLS/playlist.m3u8",
+       "season": "NBA - עונות"
+      },
+      {
+       "name": "בלי הישראלים: ברוקלין השיגה ניצחון בכורה מול הפייסרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1798370.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BKNIND/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BKNIND/HLS/playlist.m3u8",
+       "season": "NBA - עונות"
+      },
       {
        "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
@@ -376,46 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIAATL_0132_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות"
-      },
-      {
-       "name": "קנינגהאם כיכב, דטרויט השיגה ניצחון דחוק על שארלוט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796186.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHADET_0134_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHADET_0134_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות"
-      },
-      {
-       "name": "29 נק' לוומבי בניצחון של ספרס על סקרמנטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1795731.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACSAS_0130_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACSAS_0130_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות"
-      },
-      {
-       "name": "אנתוני טאונס בלט בניצחון הניקס על דטרויט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795729.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNYK_0129_RAW1_17931614350/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNYK_0129_RAW1_17931614350/HLS/playlist.m3u8",
-       "season": "NBA - עונות"
-      },
-      {
-       "name": "טייטום הוביל את בוסטון לניצחון דרמטי על ברוקלין",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795724.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
        "season": "NBA - עונות"
       }
      ]
@@ -629,6 +629,46 @@
      "name": "NBA - עונות - עונות - 2026/27",
      "channels": [
       {
+       "name": "משחק אדיר לדונצ'יץ', הלייקרס ניצחו את טורונטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798368.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LakersToronto/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LakersToronto/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27"
+      },
+      {
+       "name": "בלי קרי: לנדבורג הוביל את הווריורס ל-112:124 על הקליפרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798366.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LACGSW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LACGSW/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27"
+      },
+      {
+       "name": "32 נק' לטייטום, הסלטיקס ניצחו באורלנדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798372.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOSORL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOSORL/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27"
+      },
+      {
+       "name": "בלי הישראלים: ברוקלין השיגה ניצחון בכורה מול הפייסרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1798370.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BKNIND/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BKNIND/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27"
+      },
+      {
        "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTLAND_311026/HLS/playlist.m3u8",
@@ -786,46 +826,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIAATL_0132_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27"
-      },
-      {
-       "name": "קנינגהאם כיכב, דטרויט השיגה ניצחון דחוק על שארלוט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796186.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHADET_0134_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHADET_0134_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27"
-      },
-      {
-       "name": "29 נק' לוומבי בניצחון של ספרס על סקרמנטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1795731.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACSAS_0130_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACSAS_0130_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27"
-      },
-      {
-       "name": "אנתוני טאונס בלט בניצחון הניקס על דטרויט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795729.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNYK_0129_RAW1_17931614350/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNYK_0129_RAW1_17931614350/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27"
-      },
-      {
-       "name": "טייטום הוביל את בוסטון לניצחון דרמטי על ברוקלין",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795724.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
        "season": "NBA - עונות - עונות - 2026/27"
       }
      ]
@@ -2821,7 +2821,7 @@
       {
        "name": "בתוך הפרצוף: דאנק אדיר לליבינגסטון",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/615362.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e4/b6/e4b66499-629e-411e-a76b-661d74f6ad1b/140620160505_sal_livingston_140616_,800k,1600k,550k,1100k,350k,.mp4.csmil/master.m3u8",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/e4/b6/e4b66499-629e-411e-a76b-661d74f6ad1b/140620160505_sal_livingston_140616/chunklist_b1600000.m3u8",
        "date": "",
        "plot": "גארד גולדן סטייט לא התחשב בריצ'רד ג'פרסון והכניס אותו לפוסטר",
        "page": "",
@@ -2883,6 +2883,46 @@
     {
      "name": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
+      {
+       "name": "משחק אדיר לדונצ'יץ', הלייקרס ניצחו את טורונטו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798368.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LakersToronto/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LakersToronto/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "בלי קרי: לנדבורג הוביל את הווריורס ל-112:124 על הקליפרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798366.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LACGSW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LACGSW/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "32 נק' לטייטום, הסלטיקס ניצחו באורלנדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798372.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOSORL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BOSORL/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "בלי הישראלים: ברוקלין השיגה ניצחון בכורה מול הפייסרס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1798370.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BKNIND/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BKNIND/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
+      },
       {
        "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
@@ -3041,46 +3081,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIAATL_0132_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "קנינגהאם כיכב, דטרויט השיגה ניצחון דחוק על שארלוט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1796186.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHADET_0134_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHADET_0134_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "29 נק' לוומבי בניצחון של ספרס על סקרמנטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1795731.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACSAS_0130_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACSAS_0130_RAW/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "אנתוני טאונס בלט בניצחון הניקס על דטרויט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795729.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNYK_0129_RAW1_17931614350/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNYK_0129_RAW1_17931614350/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "טייטום הוביל את בוסטון לניצחון דרמטי על ברוקלין",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795724.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNBOS_0128_RAW1_179316143474/HLS/playlist.m3u8",
        "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
@@ -7111,7 +7111,7 @@
       {
        "name": "המופע של לברון וקיירי במשחק 5",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/615394.jpg",
-       "url": "https://rgevod.akamaized.net/vodedge/_definst_/mp4:rge/video/delivery/a1/e6/a1e695fe-beaa-4d76-9ba8-30fa01e1abfa/140620160707_golden_state_vs_clevland_140616_1100k.mp4/chunklist_b1100000.m3u8",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/a1/e6/a1e695fe-beaa-4d76-9ba8-30fa01e1abfa/140620160707_golden_state_vs_clevland_140616/chunklist_b1600000.m3u8",
        "date": "",
        "plot": "כוכבי קליבלנד קלעו 41 נקודות כ\"א וכפו משחק 6 עם 97:112 על גולדן סטייט",
        "page": "",

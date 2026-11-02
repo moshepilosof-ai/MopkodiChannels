@@ -8,11 +8,41 @@
    "series_id": "6883b30e12bfcba32ae84279",
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/cf5d0c35-f004-4e86-b93b-81589a3f2707.jpg",
    "plot": "",
-   "updated": "2026-11-01 21:20",
+   "updated": "2026-11-02 12:05",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "После голосования: в студии «Событий дня» обсуждают партии и политические расклады - 29/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/6cf9f8ad-2a95-4407-bd32-11152df8663d.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/d46c69de-da43-43d9-8e15-b06f7a18a33a/hls/master.m3u8",
+       "date": "2026-10-29",
+       "plot": "В последнем часе программы «События дня» в студии обсуждают партии и политические расклады после голосования.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/d46c69de-da43-43d9-8e15-b06f7a18a33a/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "Послевыборная студия: обсуждение и реакции после голосования в Израиле - 28/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/83e5a287-e981-410b-a037-f4e43a9a6173.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/60c3e228-37af-4312-8178-73d9d21989ca/hls/master.m3u8",
+       "date": "2026-10-28",
+       "plot": "Последний час «Событий дня» посвящён послевыборному обсуждению в студии: в центре внимания реакции после голосования. В эфире студийный сплит-скрин с израильскими флагами и графикой распределения мандатов, в подписи — Леви Табачников, капитан резерва ЦАХАЛа.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/60c3e228-37af-4312-8178-73d9d21989ca/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "«Мекканский пакт» в Тегеране: в эфире разбор последней попытки - 26/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/dcf456ab-bd38-4bc9-b444-ea84a231946c.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/9d687524-e133-4c5b-8b79-1da1c7d4d3ba/hls/master.m3u8",
+       "date": "2026-10-26",
+       "plot": "В часе программы в 19:15 заявлен разбор Ильи на связи по Zoom: «Мекканский пакт» в Тегеране как последняя попытка. В лайн-апе также указана тема «Выборы – 2026: военные сценарии».",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/9d687524-e133-4c5b-8b79-1da1c7d4d3ba/hls/master.m3u8",
+       "season": ""
+      },
       {
        "name": "Нетаниягу опроверг сообщения, что Трамп остановил израильскую атаку на Иран - 22/10/2026",
        "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/250f234c-ae8d-4f19-acbc-82d550617aa2.jpg",

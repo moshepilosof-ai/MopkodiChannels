@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3968",
    "series_id": "3968",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1797713.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1798340.jpg",
    "plot": "",
-   "updated": "2026-11-01 22:05",
+   "updated": "2026-11-02 12:55",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "חדשות הספורט, 01.11.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1798340.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP755841/HLS/playlist.m3u8",
+       "date": "2026-11-01",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP755841/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3968%26Vi=566118&poster=https://w",
+       "season": ""
+      },
       {
        "name": "חדשות הספורט, 31.10.26",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1797713.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP749701/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3968%26Vi=562442&poster=https://w",
-       "season": ""
-      },
-      {
-       "name": "חדשות הספורט, 30.09.26",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1781988.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP745641/HLS/playlist.m3u8",
-       "date": "2026-09-30",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP745641/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3968%26Vi=562306&poster=https://w",
        "season": ""
       }
      ]
