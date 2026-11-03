@@ -6,13 +6,33 @@
    "source": "sport5",
    "program_url": "9887",
    "series_id": "9887",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1795536.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1798985.jpg",
    "plot": "",
-   "updated": "2026-11-03 01:46",
+   "updated": "2026-11-03 17:17",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "מלכת הענף: אבישג סמברג הודיעה על פרישה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1798985.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_SAMBERG_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_SAMBERG_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=566282&poster",
+       "season": ""
+      },
+      {
+       "name": "בדרך לעידן חדש? קימי אנטונלי שבר את שיאו של פטל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1798983.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_F1_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_F1_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=566281&poster=http",
+       "season": ""
+      },
       {
        "name": "חולמים בגדול: דני אבדיה ופורטלנד מעלים את רף הציפיות אחרי פתיחה נהדרת",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1795536.jpg",
@@ -191,26 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_TEKES_071026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563024&poste",
-       "season": ""
-      },
-      {
-       "name": "לקום מהמשבר: בני הנוער ששבו לעשות ספורט בעוטף",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1784940.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_OTEF_051026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_OTEF_051026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=562831&poster",
-       "season": ""
-      },
-      {
-       "name": "\"נמשיך בדרכנו\": יו'ר ההתאחדות שינו זוארץ לאחר החלון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1784935.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_SHINO_051026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_SHINO_051026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=562830&poste",
        "season": ""
       }
      ]

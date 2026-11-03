@@ -8,11 +8,21 @@
    "series_id": "action_3Dseasons_univtec_26series_id_3D69dd53db08729d93535c6",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/b99fcb26-67c9-44f9-a7b4-f1f1ae30e5c6.jpeg",
    "plot": "שרון גל – החדשות, הדעות והאנשים שמעצבים את המציאות. ישיר, חד וללא פילטרים – כל ערב בשבע.",
-   "updated": "2026-11-03 01:03",
+   "updated": "2026-11-03 16:31",
    "sub_categories": [
     {
      "name": "נובמבר 2026",
      "channels": [
+      {
+       "name": "7 שרון גל 01-11-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70595565160.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e33d6eb2-5b6f-4807-9d53-bc864a9838ca/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e33d6eb2-5b6f-4807-9d53-bc864a9838ca/hls/master.m3u8",
+       "season": "נובמבר 2026"
+      },
       {
        "name": "7 שרון גל 02-11-26",
        "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70573710242.jpg",

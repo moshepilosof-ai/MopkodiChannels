@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "10202",
    "series_id": "10202",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798839.jpg",
    "plot": "",
-   "updated": "2026-11-03 01:29",
+   "updated": "2026-11-03 16:59",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "ממשיך בשלו: דני עם שיא עונתי בניצחון על דנבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798839.jpg",
+       "url": "https://api.bynetcdn.com/Redirector/sport5/recap27_PORDEN_0169_RAW1_179368648684/HLS?tn=",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://api.bynetcdn.com/Redirector/sport5/recap27_PORDEN_0169_RAW1_179368648684/HLS?tn=&ts=1793687512&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=566220",
+       "season": ""
+      },
       {
        "name": "24 נק' לאבדיה, פורטלנד הביסה 90:112 את יוטה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1797599.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsIndianaPacers_177389506476/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/",
-       "season": ""
-      },
-      {
-       "name": "18 נק' ו-6 ריב' לאבדיה מול ברוקלין",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1688092.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AVDIJA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AVDIJA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=537485&poster=https:/",
        "season": ""
       }
      ]
