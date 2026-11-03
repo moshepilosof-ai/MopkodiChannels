@@ -6,13 +6,43 @@
    "source": "sport5",
    "program_url": "9775",
    "series_id": "9775",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798202.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798756.jpg",
    "plot": "",
-   "updated": "2026-11-02 12:55",
+   "updated": "2026-11-03 01:46",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "ממשיכה במומנטום: נס ציונה גברה על גליל עליון 74:82",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798756.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GALILELIONvsNESSZIONA-GameHighlights_179365154308/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/GALILELIONvsNESSZIONA-GameHighlights_179365154308/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.",
+       "season": ""
+      },
+      {
+       "name": "ניצחון בכורה: ב\"ש ניצחה את אשדוד 88:92",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798656.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HBS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HBS/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12388%26Vi=566109&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "ניצחון שני ברציפות: ראשון לציון גברו על חולון 70:78",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLONvsRISHONHighlights_179365394459/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLONvsRISHONHighlights_179365394459/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12388%",
+       "season": ""
+      },
       {
        "name": "המופע של מיציץ': הדרבי התל אביבי נצבע אדום",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798202.jpg",
@@ -172,42 +202,42 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8&live=False&referrer=https://vod.sp",
        "season": ""
-      },
-      {
-       "name": "עם רבע אחרון מצוין: 62:76 למכבי אשדוד מול נס ציונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1787891.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIASHDODvsNESSZIONA-GameHighlights_179183300136/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIASHDODvsNESSZIONA-GameHighlights_179183300136/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.",
-       "season": ""
-      },
-      {
-       "name": "ליף וקלארק בלטו: מכבי ת\"א פירקה את גליל עליון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1786850.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12373%26Vi=563212&poster",
-       "season": ""
-      },
-      {
-       "name": "אוטורו כיכב: הפועל ת\"א פתחה עם ניצחון על ב\"ש",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787387.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12373%26Vi=563385&pos",
-       "season": ""
       }
      ]
     },
     {
      "name": "ליגת העל בכדורסל - 2026/27",
      "channels": [
+      {
+       "name": "ממשיכה במומנטום: נס ציונה גברה על גליל עליון 74:82",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798756.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GALILELIONvsNESSZIONA-GameHighlights_179365154308/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GALILELIONvsNESSZIONA-GameHighlights_179365154308/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27"
+      },
+      {
+       "name": "ניצחון בכורה: ב\"ש ניצחה את אשדוד 88:92",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798656.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HBS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HBS/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27"
+      },
+      {
+       "name": "ניצחון שני ברציפות: ראשון לציון גברו על חולון 70:78",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLONvsRISHONHighlights_179365394459/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLONvsRISHONHighlights_179365394459/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27"
+      },
       {
        "name": "המופע של מיציץ': הדרבי התל אביבי נצבע אדום",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798202.jpg",
@@ -376,36 +406,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27"
-      },
-      {
-       "name": "עם רבע אחרון מצוין: 62:76 למכבי אשדוד מול נס ציונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1787891.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIASHDODvsNESSZIONA-GameHighlights_179183300136/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIASHDODvsNESSZIONA-GameHighlights_179183300136/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27"
-      },
-      {
-       "name": "ליף וקלארק בלטו: מכבי ת\"א פירקה את גליל עליון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1786850.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27"
-      },
-      {
-       "name": "אוטורו כיכב: הפועל ת\"א פתחה עם ניצחון על ב\"ש",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787387.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_111026/HLS/playlist.m3u8",
        "season": "ליגת העל בכדורסל - 2026/27"
       }
      ]
@@ -2259,6 +2259,36 @@
      "name": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "ממשיכה במומנטום: נס ציונה גברה על גליל עליון 74:82",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798756.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GALILELIONvsNESSZIONA-GameHighlights_179365154308/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GALILELIONvsNESSZIONA-GameHighlights_179365154308/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "ניצחון בכורה: ב\"ש ניצחה את אשדוד 88:92",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798656.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HBS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HBS/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "ניצחון שני ברציפות: ראשון לציון גברו על חולון 70:78",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLONvsRISHONHighlights_179365394459/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLONvsRISHONHighlights_179365394459/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "המופע של מיציץ': הדרבי התל אביבי נצבע אדום",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798202.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBY_SAL_011126/HLS/playlist.m3u8",
@@ -2426,36 +2456,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "עם רבע אחרון מצוין: 62:76 למכבי אשדוד מול נס ציונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1787891.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIASHDODvsNESSZIONA-GameHighlights_179183300136/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIASHDODvsNESSZIONA-GameHighlights_179183300136/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "ליף וקלארק בלטו: מכבי ת\"א פירקה את גליל עליון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1786850.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_101026/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "אוטורו כיכב: הפועל ת\"א פתחה עם ניצחון על ב\"ש",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787387.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_SAL_111026/HLS/playlist.m3u8",
        "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
@@ -6073,6 +6073,36 @@
     {
      "name": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 4",
      "channels": [
+      {
+       "name": "ממשיכה במומנטום: נס ציונה גברה על גליל עליון 74:82",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798756.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GALILELIONvsNESSZIONA-GameHighlights_179365154308/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/GALILELIONvsNESSZIONA-GameHighlights_179365154308/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 4"
+      },
+      {
+       "name": "ניצחון בכורה: ב\"ש ניצחה את אשדוד 88:92",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798656.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HBS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_HBS/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 4"
+      },
+      {
+       "name": "ניצחון שני ברציפות: ראשון לציון גברו על חולון 70:78",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLONvsRISHONHighlights_179365394459/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HOLONvsRISHONHighlights_179365394459/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 4"
+      },
       {
        "name": "המופע של מיציץ': הדרבי התל אביבי נצבע אדום",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1798202.jpg",

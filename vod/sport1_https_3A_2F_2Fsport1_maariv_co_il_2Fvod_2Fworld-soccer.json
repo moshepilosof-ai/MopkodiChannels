@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291296",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291517",
    "plot": "",
-   "updated": "2026-11-02 13:10",
+   "updated": "2026-11-03 01:59",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
+       "name": "תקציר: ססואולו – פיורנטינה 4:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291517",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115878/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/serie-a/video/1987864/",
+       "season": ""
+      },
+      {
        "name": "תקציר: יובנטוס – נאפולי 0:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291296",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291296",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115516/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/german-league/video/1985835/",
-       "season": ""
-      },
-      {
-       "name": "צפו: מנצ'סטר סיטי ספגה הפסד שני ברציפות מול ברייטון המפתיעה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291135",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115015/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1985663/",
        "season": ""
       }
      ]

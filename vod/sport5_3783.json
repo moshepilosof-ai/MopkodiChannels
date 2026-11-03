@@ -8,7 +8,7 @@
    "series_id": "3783",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798149.jpg",
    "plot": "",
-   "updated": "2026-11-02 12:37",
+   "updated": "2026-11-03 01:29",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -22207,6 +22207,71 @@
        "page": "",
        "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV3/S2E7SiqPLK/App/NM_VTR_TAK_RAANANA_NEW_110120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
        "season": "ליגת העל - 2019/20 - 2019/20 - העונה הסדירה - העונה הסדירה - מחזור 18"
+      }
+     ]
+    },
+    {
+     "name": "ליגת העל - 2019/20 - 2019/20 - העונה הסדירה - העונה הסדירה - מחזור 17",
+     "channels": [
+      {
+       "name": "לפנתיאון: 3:4 מטורף למכבי ת\"א על חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/987549.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/fpWweF8phA/App/NM_VTR_TAK_MACCABI_HAIFA_MACCABI_TEL_AVIV_060120_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/fpWweF8phA/App/NM_VTR_TAK_MACCABI_HAIFA_MACCABI_TEL_AVIV_060120_NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2019/20 - 2019/20 - העונה הסדירה - העונה הסדירה - מחזור 17"
+      },
+      {
+       "name": "בדרך למעלה: הפועל ת\"א ניצחה את ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/987267.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/w3LWxLOjfk/App/tak_hapoel_ta_new_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/w3LWxLOjfk/App/tak_hapoel_ta_new_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2019/20 - 2019/20 - העונה הסדירה - העונה הסדירה - מחזור 17"
+      },
+      {
+       "name": "עם מועמד לשער העונה: אשדוד הביסה את רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/987179.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/O9JGGXpIyl/App/NM_VTR_TAK_ASHDOD_RAANANA_1_050120NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/O9JGGXpIyl/App/NM_VTR_TAK_ASHDOD_RAANANA_1_050120NEW_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2019/20 - 2019/20 - העונה הסדירה - העונה הסדירה - מחזור 17"
+      },
+      {
+       "name": "צמדים לווארן וריאן, בית\"ר מעדה בטדי מול ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/986870.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/5hbRIfAXhr/App/NM_VTR_TAK_BEITAR_KASH_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/5hbRIfAXhr/App/NM_VTR_TAK_BEITAR_KASH_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2019/20 - 2019/20 - העונה הסדירה - העונה הסדירה - מחזור 17"
+      },
+      {
+       "name": "4 ברצף: הפועל חיפה הפסידה 2:0 לחדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/986842.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/7avZZf7qnH/App/NM_VTR_TAK_HHAIFA_HPAOEL_HADERA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/7avZZf7qnH/App/NM_VTR_TAK_HHAIFA_HPAOEL_HADERA_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2019/20 - 2019/20 - העונה הסדירה - העונה הסדירה - מחזור 17"
+      },
+      {
+       "name": "חזרה לנצח: מכבי נתניה גברה 1:2 על הפועל כפ\"ס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/986790.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/emdJIR1VVt/App/NM_VTR_TAK_KAFAS_NATANYA_040120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/PRV3/emdJIR1VVt/App/NM_VTR_TAK_KAFAS_NATANYA_040120_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2019/20 - 2019/20 - העונה הסדירה - העונה הסדירה - מחזור 17"
       }
      ]
     },

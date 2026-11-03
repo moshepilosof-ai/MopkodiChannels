@@ -8,19 +8,29 @@
    "series_id": "6883c64a45dda4180ff2dd77",
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/433ee3e6-bde8-4ab7-8d8e-a1011c28633b.jpg",
    "plot": ".",
-   "updated": "2026-11-02 12:05",
+   "updated": "2026-11-03 01:02",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "ВОЙНА С ИРАНОМ, ТРАМП И ВЫБОРЫ. ИНТЕРВЬЮ С ПРЕМЬЕР-МИНИСТРОМ ИЗРАИЛЯ. ОТ ШАБАТА ДО ШАБАТА. 22/08 - 22/08/2026",
-       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/ccf842b3-f7f1-481c-b082-7c52ce5a2c58.jpg",
-       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/acfa8978-f629-4da2-bafd-24394d42cf47/hls/master.m3u8",
-       "date": "2026-08-22",
+       "name": "ИРАН МОБИЛИЗУЕТ ПРОКСИ НА БЛИЖНЕМ ВОСТОКЕ. УДАСТСЯ ЛИ ИЗБЕЖАТЬ ВОЙНЫ? ОТ ШАБАТА ДО ШАБАТА. 28/08 - 29/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/ee9738d8-11b2-410e-9c76-05271e3385df.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/5b5f76a5-a5d1-4882-a781-7cab2509a0b2/hls/master.m3u8",
+       "date": "2026-08-29",
        "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
        "page": "",
-       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/acfa8978-f629-4da2-bafd-24394d42cf47/hls/master.m3u8",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/5b5f76a5-a5d1-4882-a781-7cab2509a0b2/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ПОЛИТИКИ ОТКАЗЫВАЮТСЯ САДИТЬСЯ ЗА СТОЛ ПЕРЕГОВОРОВ. ИЗРАИЛЬ НА ПОРОГЕ ПЕРЕВЫБОРОВ? СПЕЦЭФИР. 31/10 - 31/10/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/073bc5b1-b9e0-4898-874a-1ab9512636ad.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/09733589-25dc-47a1-8bf2-47779871607c/hls/master.m3u8",
+       "date": "2026-10-31",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире. \n\n*****\nНаш телеграм-канал\nhttps://t.me/israel_9\n\nНаш Инстаграм\nhttps://www.instagram.com/9tv.co.il/\n\nНаш Тик Ток\nwww.tiktok.com/@channel_9tv\n\nНаш Фейсбук\nhttps://www.facebook.com/9tvcoil\n\nПриложение 9 канала\nhttps://play.google.com/store/apps/details?id=co.pushapp.ninetv&hl=ru&gl=US\nhttps://apps.apple.com/il/app/9-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-channel-9/id1544061167\n\nНаш сайт\nhttp://9tv.co.il/\n\nТелеграм-канал Сергея Гранкина\nhttps://t.me/Sergey_Grankin2024\n\n#Новости",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/09733589-25dc-47a1-8bf2-47779871607c/hls/master.m3u8",
        "season": ""
       },
       {
@@ -94,16 +104,6 @@
        "season": ""
       },
       {
-       "name": "ИРАН МОБИЛИЗУЕТ ПРОКСИ НА БЛИЖНЕМ ВОСТОКЕ. УДАСТСЯ ЛИ ИЗБЕЖАТЬ ВОЙНЫ? ОТ ШАБАТА ДО ШАБАТА. 28/08 - 29/08/2026",
-       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/ee9738d8-11b2-410e-9c76-05271e3385df.jpg",
-       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/5b5f76a5-a5d1-4882-a781-7cab2509a0b2/hls/master.m3u8",
-       "date": "2026-08-29",
-       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
-       "page": "",
-       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/5b5f76a5-a5d1-4882-a781-7cab2509a0b2/hls/master.m3u8",
-       "season": ""
-      },
-      {
        "name": "Война с ХАМАСом  военные успехи Израиля или просто слова  ОТ ШАБАТА ДО ШАБАТА. ИЗРАИЛЬ. 31 мая 20 00 - 26/09/2025",
        "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/4316bfe3-8021-4c22-ad4d-8905af62c210.jpeg",
        "url": "https://channel9.vod.immergo.tv/channel9/transcoded/c3fb6dda-c2d8-4b24-ac7b-73852430a2a3/hls/master.m3u8",
@@ -111,6 +111,16 @@
        "plot": "От Шаббата до Шаббата",
        "page": "",
        "id": "https://channel9.vod.immergo.tv/channel9/transcoded/c3fb6dda-c2d8-4b24-ac7b-73852430a2a3/hls/master.m3u8",
+       "season": ""
+      },
+      {
+       "name": "ВОЙНА С ИРАНОМ, ТРАМП И ВЫБОРЫ. ИНТЕРВЬЮ С ПРЕМЬЕР-МИНИСТРОМ ИЗРАИЛЯ. ОТ ШАБАТА ДО ШАБАТА. 22/08 - 22/08/2026",
+       "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/ccf842b3-f7f1-481c-b082-7c52ce5a2c58.jpg",
+       "url": "https://channel9.vod.immergo.tv/channel9/transcoded/acfa8978-f629-4da2-bafd-24394d42cf47/hls/master.m3u8",
+       "date": "2026-08-22",
+       "plot": "Смотрите подробности об этих и других новостях каждый день на 9 канале в прямом эфире.",
+       "page": "",
+       "id": "https://channel9.vod.immergo.tv/channel9/transcoded/acfa8978-f629-4da2-bafd-24394d42cf47/hls/master.m3u8",
        "season": ""
       },
       {
