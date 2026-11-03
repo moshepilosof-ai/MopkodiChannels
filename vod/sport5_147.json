@@ -6,13 +6,33 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1798985.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1799158.jpg",
    "plot": "",
-   "updated": "2026-11-03 16:33",
+   "updated": "2026-11-03 22:49",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "צמד גדול לברטראקוב, גלאטסראיי ניצחה את שטוטגרט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1799158.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GALA_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GALA_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566286&poster=h",
+       "season": ""
+      },
+      {
+       "name": "קטן גדול: ספורטינג ליסבון גברה 0:1 על שחטאר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799160.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SHAKHTAR_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SHAKHTAR_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566285&post",
+       "season": ""
+      },
       {
        "name": "מלכת הענף: אבישג סמברג הודיעה על פרישה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1798985.jpg",
@@ -26,11 +46,11 @@
       {
        "name": "ממשיך בשלו: דני עם שיא עונתי בניצחון על דנבר",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798839.jpg",
-       "url": "https://api.bynetcdn.com/Redirector/sport5/recap27_PORDEN_0169_RAW1_179368648684/HLS?tn=",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsDenverNuggets_179369729432/HLS/playlist.m3u8",
        "date": "",
        "plot": "",
        "page": "",
-       "id": "https://watch.sport5.co.il?src=https://api.bynetcdn.com/Redirector/sport5/recap27_PORDEN_0169_RAW1_179368648684/HLS?tn=&ts=1793687512&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566220&p",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsDenverNuggets_179369729432/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/",
        "season": ""
       },
       {
@@ -191,26 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_OKCCLE_0158_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566205&pos",
-       "season": ""
-      },
-      {
-       "name": "לבד בפסגה: אשדוד ניצחה את בני יהודה 1:3",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798596.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NEW_ASHDOD_YEHUDA_021126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NEW_ASHDOD_YEHUDA_021126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=56",
-       "season": ""
-      },
-      {
-       "name": "ניצחון שלישי ברציפות: רעננה ניצחה 2:3 את קרית ים",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1798604.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAANANA_KYAM_021126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RAANANA_KYAM_021126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566113&",
        "season": ""
       }
      ]

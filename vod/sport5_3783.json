@@ -8,7 +8,7 @@
    "series_id": "3783",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798149.jpg",
    "plot": "",
-   "updated": "2026-11-03 16:59",
+   "updated": "2026-11-03 23:15",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -11177,6 +11177,41 @@
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HAIFA_260425/HLS/playlist.m3u8",
        "season": "ליגת העל - 2024/25 - 2024/25 - פלייאוף עליון - פלייאוף עליון - מחזור 6"
+      }
+     ]
+    },
+    {
+     "name": "ליגת העל - 2024/25 - 2024/25 - פלייאוף עליון - פלייאוף עליון - מחזור 5",
+     "channels": [
+      {
+       "name": "נתקלה בחומה: מכבי ת\"א ספגה 3:1 מול בית\"ר י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1544309.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_MTA_210425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_MTA_210425/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - פלייאוף עליון - פלייאוף עליון - מחזור 5"
+      },
+      {
+       "name": "שער עצמי הכריע, מכבי חיפה גברה על נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1543783.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_200425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_200425/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - פלייאוף עליון - פלייאוף עליון - מחזור 5"
+      },
+      {
+       "name": "עשתה את שלה: ב\"ש גברה 1:2 על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1543382.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_190425/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_190425/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - פלייאוף עליון - פלייאוף עליון - מחזור 5"
       }
      ]
     },
