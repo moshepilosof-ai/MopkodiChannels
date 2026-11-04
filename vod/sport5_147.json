@@ -6,13 +6,113 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1799158.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799657.jpg",
    "plot": "",
-   "updated": "2026-11-03 22:49",
+   "updated": "2026-11-04 22:17",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "בדקה ה-90: ריאל ניצחה 2:3 את אא\"ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799657.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_REAL_110426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_REAL_110426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566316&poster=h",
+       "season": ""
+      },
+      {
+       "name": "פנרבחצ'ה הדהימה את ליברפול 2:3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1799666.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIVERPOOL_0411261_179382181724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIVERPOOL_0411261_179382181724/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%2",
+       "season": ""
+      },
+      {
+       "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1799503.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_041126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_041126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566305&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "בליגה משלה: ברצלונה חגגה על אסטון וילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799314.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566291&poster=",
+       "season": ""
+      },
+      {
+       "name": "מהקשים שאפשר להשיג: באיירן ניצחה בחוץ את אתלטיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799284.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYREN_85_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYREN_85_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566292&pos",
+       "season": ""
+      },
+      {
+       "name": "מטורף! יונייטד חזרה מ-2:0 ל-2:3 דרמטי מול רומא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799304.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MANU_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MANU_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566290&poster=h",
+       "season": ""
+      },
+      {
+       "name": "הכירו את ריאל אוניון: המועדון שגורלה של משפחת אמרי נקשר עמו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1799536.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_EMERI_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_EMERI_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566424&poster",
+       "season": ""
+      },
+      {
+       "name": "אינטר חגגה על פיינורד עם 0:3 גדול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799307.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566288&poster=",
+       "season": ""
+      },
+      {
+       "name": "חלוקת נקודות בין ליל לבודו/גלימט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1799312.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566287&poster=",
+       "season": ""
+      },
+      {
+       "name": "הקבוצה הטובה בעולם: פ.ס.ז` פירקה 0:6 את ויאריאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799300.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566289&poster=ht",
+       "season": ""
+      },
       {
        "name": "צמד גדול לברטראקוב, גלאטסראיי ניצחה את שטוטגרט",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1799158.jpg",
@@ -31,6 +131,16 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SHAKHTAR_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566285&post",
+       "season": ""
+      },
+      {
+       "name": "חגיגת שערים: לאסק לינץ ניצחה 0:4 את סלובן ברטיסלבה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799310.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LASK_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LASK_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566284&poster=h",
        "season": ""
       },
       {
@@ -101,116 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIALAL_0172_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566217&pos",
-       "season": ""
-      },
-      {
-       "name": "סטף קרי הוביל את גולדן סטייט לניצחון דרמטי על פיניקס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1798897.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHXGSW_0170_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHXGSW_0170_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566215&pos",
-       "season": ""
-      },
-      {
-       "name": "טורונטו גברה 118:125 על הקליפרס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1798891.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_TORLAC_0171_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_TORLAC_0171_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566214&pos",
-       "season": ""
-      },
-      {
-       "name": "26 נק' לשנגון: יוסטון ניצחה בוסטון 93:109",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798889.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BOSHOU_0167_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BOSHOU_0167_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566213&pos",
-       "season": ""
-      },
-      {
-       "name": "115:100 לסקרמנטו בניצחון על דאלאס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1798887.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACDAL_0164_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SACDAL_0164_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566212&pos",
-       "season": ""
-      },
-      {
-       "name": "סן אנטוניו עם ניצחון גדול על יוטה 97:119",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1798885.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_UTASAS_0168_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_UTASAS_0168_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566211&pos",
-       "season": ""
-      },
-      {
-       "name": "ניו אורלינס גברה על ממפיס 135:134 בתום מותחן אדיר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1798881.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_NOPMEM_0165_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_NOPMEM_0165_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566210&pos",
-       "season": ""
-      },
-      {
-       "name": "לאמלו בול כיכב בניצחון מינסוטה על מילווקי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798879.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MILMIN_0166_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MILMIN_0166_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566209&pos",
-       "season": ""
-      },
-      {
-       "name": "שארלוט הובסה לדטרויט 124:91, 33 נק' לקאניגהאם",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1798877.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETCHA_0159_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETCHA_0159_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566208&pos",
-       "season": ""
-      },
-      {
-       "name": "אנתוני דייויס הוביל את וושינגטון לניצחון על אורלנדו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1798873.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_WASORL_0162_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_WASORL_0162_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566207&pos",
-       "season": ""
-      },
-      {
-       "name": "אטאלנטה גברה על אינדיאנה בתום משחק צמוד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1798875.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_ATLIND_0160_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_ATLIND_0160_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566206&pos",
-       "season": ""
-      },
-      {
-       "name": "43 נק' לשיי בניצחון אוקלהומה על קליבלנד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1798871.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_OKCCLE_0158_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_OKCCLE_0158_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566205&pos",
        "season": ""
       }
      ]

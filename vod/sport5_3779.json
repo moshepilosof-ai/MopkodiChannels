@@ -8,7 +8,7 @@
    "series_id": "3779",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1773316.jpg",
    "plot": "",
-   "updated": "2026-11-03 22:54",
+   "updated": "2026-11-04 22:24",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -64,6 +64,56 @@
        "season": ""
       },
       {
+       "name": "בדקה ה-90: ריאל ניצחה 2:3 את אא\"ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799657.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_REAL_110426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_REAL_110426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566316&poster",
+       "season": ""
+      },
+      {
+       "name": "פנרבחצ'ה הדהימה את ליברפול 2:3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1799666.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIVERPOOL_0411261_179382181724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIVERPOOL_0411261_179382181724/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363",
+       "season": ""
+      },
+      {
+       "name": "מהקשים שאפשר להשיג: באיירן ניצחה בחוץ את אתלטיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799284.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYREN_85_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYREN_85_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566292&p",
+       "season": ""
+      },
+      {
+       "name": "אינטר חגגה על פיינורד עם 0:3 גדול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799307.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566288&poste",
+       "season": ""
+      },
+      {
+       "name": "חלוקת נקודות בין ליל לבודו/גלימט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1799312.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566287&poste",
+       "season": ""
+      },
+      {
        "name": "צמד גדול לברטראקוב, גלאטסראיי ניצחה את שטוטגרט",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1799158.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GALA_031126/HLS/playlist.m3u8",
@@ -81,6 +131,46 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SHAKHTAR_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566285&po",
+       "season": ""
+      },
+      {
+       "name": "בליגה משלה: ברצלונה חגגה על אסטון וילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799314.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566291&poste",
+       "season": ""
+      },
+      {
+       "name": "מטורף! יונייטד חזרה מ-2:0 ל-2:3 דרמטי מול רומא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799304.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MANU_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MANU_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566290&poster",
+       "season": ""
+      },
+      {
+       "name": "הקבוצה הטובה בעולם: פ.ס.ז` פירקה 0:6 את ויאריאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799300.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566289&poster=",
+       "season": ""
+      },
+      {
+       "name": "חגיגת שערים: לאסק לינץ ניצחה 0:4 את סלובן ברטיסלבה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799310.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LASK_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LASK_031126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=566284&poster",
        "season": ""
       },
       {
@@ -122,96 +212,6 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/12-11N_VO_TAK_SPORTING_LISBON_211026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%",
        "season": ""
-      },
-      {
-       "name": "ממשיכה במומנטום החיובי: 1:3 לוילה על ויקינג",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1792673.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/12-09N_VO_TAK_ASTON_VILLA_211026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/12-09N_VO_TAK_ASTON_VILLA_211026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi",
-       "season": ""
-      },
-      {
-       "name": "0:3 גדול לברוז` על לאנס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1792680.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/12-13N_VO_TAK_LENS_211026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/12-13N_VO_TAK_LENS_211026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=564606",
-       "season": ""
-      },
-      {
-       "name": "בלתי נגמר: איסקו כבש והעניק ניצחון לבטיס על פיינורד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1792682.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/12-10N_VO_TAK_BATIS_211026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/12-10N_VO_TAK_BATIS_211026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=56460",
-       "season": ""
-      },
-      {
-       "name": "טבעה באגם: קומו רמסה 1:4 את מנצ`סטר יונייטד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1792486.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_COMO_80_211026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_COMO_80_211026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=564601&pos",
-       "season": ""
-      },
-      {
-       "name": "אוסימהן כבש מול האקסית: 2:4 לגלאטסראיי על ליל",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1792498.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/12-12N_VO_TAK_LILLE_211026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/12-12N_VO_TAK_LILLE_211026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=56459",
-       "season": ""
-      },
-      {
-       "name": "אסור לפספס! 2:4 מטורף לפ.ס.ז` על ברצלונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1792044.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_201026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=564452&poste",
-       "season": ""
-      },
-      {
-       "name": "שער ראשון לאלברז העונה, 1:1 לאתלטיקו מול שטוטגרט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1792056.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-08N_VO_TAK_ATLETICO_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/11-08N_VO_TAK_ATLETICO_201026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=56",
-       "season": ""
-      },
-      {
-       "name": "צמד למקטומיניי, 3:4 נהדר לנאפולי על בודה גלימט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1792054.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-06N_VO_TAK_NAPOLI_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/11-06N_VO_TAK_NAPOLI_201026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=5644",
-       "season": ""
-      },
-      {
-       "name": "חגיגה איטלקית: 0:4 לרומא על סלובן ברטיסלבה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1792060.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-05N_VO_TAK_ROME_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/11-05N_VO_TAK_ROME_201026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12363%26Vi=564446",
-       "season": ""
       }
      ]
     },
@@ -239,6 +239,56 @@
        "season": "ליגת האלופות - 2026/27"
       },
       {
+       "name": "בדקה ה-90: ריאל ניצחה 2:3 את אא\"ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799657.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_REAL_110426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_REAL_110426/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
+       "name": "פנרבחצ'ה הדהימה את ליברפול 2:3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1799666.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIVERPOOL_0411261_179382181724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIVERPOOL_0411261_179382181724/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
+       "name": "מהקשים שאפשר להשיג: באיירן ניצחה בחוץ את אתלטיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799284.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYREN_85_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYREN_85_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
+       "name": "אינטר חגגה על פיינורד עם 0:3 גדול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799307.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
+       "name": "חלוקת נקודות בין ליל לבודו/גלימט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1799312.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
        "name": "צמד גדול לברטראקוב, גלאטסראיי ניצחה את שטוטגרט",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1799158.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GALA_031126/HLS/playlist.m3u8",
@@ -256,6 +306,46 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SHAKHTAR_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
+       "name": "בליגה משלה: ברצלונה חגגה על אסטון וילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799314.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
+       "name": "מטורף! יונייטד חזרה מ-2:0 ל-2:3 דרמטי מול רומא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799304.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MANU_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MANU_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
+       "name": "הקבוצה הטובה בעולם: פ.ס.ז` פירקה 0:6 את ויאריאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799300.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27"
+      },
+      {
+       "name": "חגיגת שערים: לאסק לינץ ניצחה 0:4 את סלובן ברטיסלבה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799310.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LASK_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LASK_031126/HLS/playlist.m3u8",
        "season": "ליגת האלופות - 2026/27"
       },
       {
@@ -326,96 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/12-10N_VO_TAK_BATIS_211026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "טבעה באגם: קומו רמסה 1:4 את מנצ`סטר יונייטד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1792486.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_COMO_80_211026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_COMO_80_211026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "אוסימהן כבש מול האקסית: 2:4 לגלאטסראיי על ליל",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1792498.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/12-12N_VO_TAK_LILLE_211026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/12-12N_VO_TAK_LILLE_211026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "אסור לפספס! 2:4 מטורף לפ.ס.ז` על ברצלונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1792044.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "שער ראשון לאלברז העונה, 1:1 לאתלטיקו מול שטוטגרט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1792056.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-08N_VO_TAK_ATLETICO_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-08N_VO_TAK_ATLETICO_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "צמד למקטומיניי, 3:4 נהדר לנאפולי על בודה גלימט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1792054.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-06N_VO_TAK_NAPOLI_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-06N_VO_TAK_NAPOLI_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "חגיגה איטלקית: 0:4 לרומא על סלובן ברטיסלבה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1792060.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-05N_VO_TAK_ROME_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-05N_VO_TAK_ROME_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "טיל העניק לפ.ס.וו 0:1 קטן וחשוב על פורטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1792064.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-07N_VO_TAK_PORTO_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-07N_VO_TAK_PORTO_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "צמד לגיראסי: דורטמונד ניצחה 1:2 את סבאח",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1791882.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SABAC_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SABAC_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27"
-      },
-      {
-       "name": "עדיין ללא ניצחון באלופות: פנר סיימה ב-2:2 מול סלביה פראג",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1791894.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FENER_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FENER_201026/HLS/playlist.m3u8",
        "season": "ליגת האלופות - 2026/27"
       }
      ]
@@ -827,211 +827,6 @@
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LEVERKUSEN_110325/HLS/playlist.m3u8",
        "season": "ליגת האלופות - 2024/25"
-      }
-     ]
-    },
-    {
-     "name": "ליגת האלופות - 2023/24",
-     "channels": [
-      {
-       "name": "מפגשים מרתקים! הגרלת רבע גמר האלופות",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1371097.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CHAMPIOMS_DRAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/CHAMPIOMS_DRAW/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "בפעם ה-15: ריאל מדריד זוכה בליגת האלופות",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1399742.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HANAFA_FINAL_CHEMP_010624/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HANAFA_FINAL_CHEMP_010624/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "לילה לבן: ריאל בגמר לאחר 1:2 דרמטי מול באיירן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1390673.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ALUF_MADRID_080524_1/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ALUF_MADRID_080524_1/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "אמבפה בבית, דוטרמונד עלתה לגמר ליגת האלופות",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1390272.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSGF_070524/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSGF_070524/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "קטן וחשוב: 0:1 לדורטמונד על פ.ס.ז` בחצי הגמר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1387663.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DORT_PSG_010524/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_DORT_PSG_010524/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "2:2 נפלא בין באיירן לריאל מדריד במינכן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1387283.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MADRID_300424/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MADRID_300424/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "טירוף בגרמניה: דורטמונד העפילה לחצי הגמר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1381736.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DOURTMUND_160424/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DOURTMUND_160424/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "עם 1:4 על בארסה: פ.ס.ז' עלתה לחצי גמר האלופות",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1381753.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BARCA_160424_1/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BARCA_160424_1/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "עם שני מהפכים: ברצלונה ניצחה 2:3 את פ.ס.ז",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1379398.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_100424/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_100424/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "בישול ענק לגריזמן, אתלטיקו ניצחה 1:2 את דורטמונד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1379401.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DORTMOND_FULL_100424/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DORTMOND_FULL_100424/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "מהגדולים ביותר: 3:3 בלתי נשכח בין ריאל לסיטי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1378998.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MADRID_090424/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MADRID_090424/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "ההכרעה עוברת למינכן: 2:2 ענק בין ארסנל לבאיירן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1378991.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ARSENAL_BAYERN_090424/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ARSENAL_BAYERN_090424/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "אוהבת את הבית: דורטמונד עלתה לרבע הגמר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1370644.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSV_130324/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSV_130324/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "לאחר דו קרב פנדלים: אתלטיקו עלתה לרבע הגמר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1370663.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_130324/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_130324/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "בדרך לרבע הגמר: ברצלונה ניצחה 1:3 את נאפולי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1370377.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCELONA_120324/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCELONA_120324/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "לראשונה זה 14 שנים: ארסנל ברבע גמר האלופות",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1370408.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ARSENAL_120324/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ARSENAL_120324/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "ריאל עלתה לרבע הגמר לאחר 1:1 נגד לייפציג",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1368568.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MADRID_060324/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MADRID_060324/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "בהילוך שני: סיטי ניצחה 1:3 את קופנהאגן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1368573.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_COPENHAGEN_060324/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_COPENHAGEN_060324/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "אמבפה נצץ: פ.ס.ז` גברה על סוסיאדד ועלתה לרבע",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1368071.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_050324/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_050324/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
-      },
-      {
-       "name": "הגיע בזמן: צמד לקיין, 0:3 לבאיירן על לאציו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1368179.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYERN_050324/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYERN_050324/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24"
       }
      ]
     },
@@ -2679,6 +2474,56 @@
      "name": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה",
      "channels": [
       {
+       "name": "בדקה ה-90: ריאל ניצחה 2:3 את אא\"ק",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799657.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_REAL_110426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MN_TAK_REAL_110426/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
+       "name": "פנרבחצ'ה הדהימה את ליברפול 2:3",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1799666.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIVERPOOL_0411261_179382181724/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LIVERPOOL_0411261_179382181724/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
+       "name": "מהקשים שאפשר להשיג: באיירן ניצחה בחוץ את אתלטיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799284.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYREN_85_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYREN_85_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
+       "name": "אינטר חגגה על פיינורד עם 0:3 גדול",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1799307.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
+       "name": "חלוקת נקודות בין ליל לבודו/גלימט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1799312.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
        "name": "צמד גדול לברטראקוב, גלאטסראיי ניצחה את שטוטגרט",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1799158.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GALA_031126/HLS/playlist.m3u8",
@@ -2696,6 +2541,46 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SHAKHTAR_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
+       "name": "בליגה משלה: ברצלונה חגגה על אסטון וילה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799314.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
+       "name": "מטורף! יונייטד חזרה מ-2:0 ל-2:3 דרמטי מול רומא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1799304.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MANU_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MANU_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
+       "name": "הקבוצה הטובה בעולם: פ.ס.ז` פירקה 0:6 את ויאריאל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799300.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_031126/HLS/playlist.m3u8",
+       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
+      },
+      {
+       "name": "חגיגת שערים: לאסק לינץ ניצחה 0:4 את סלובן ברטיסלבה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1799310.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LASK_031126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LASK_031126/HLS/playlist.m3u8",
        "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
       },
       {
@@ -2786,96 +2671,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/12-12N_VO_TAK_LILLE_211026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "אסור לפספס! 2:4 מטורף לפ.ס.ז` על ברצלונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1792044.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "שער ראשון לאלברז העונה, 1:1 לאתלטיקו מול שטוטגרט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1792056.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-08N_VO_TAK_ATLETICO_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-08N_VO_TAK_ATLETICO_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "צמד למקטומיניי, 3:4 נהדר לנאפולי על בודה גלימט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1792054.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-06N_VO_TAK_NAPOLI_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-06N_VO_TAK_NAPOLI_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "חגיגה איטלקית: 0:4 לרומא על סלובן ברטיסלבה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1792060.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-05N_VO_TAK_ROME_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-05N_VO_TAK_ROME_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "טיל העניק לפ.ס.וו 0:1 קטן וחשוב על פורטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1792064.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-07N_VO_TAK_PORTO_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/11-07N_VO_TAK_PORTO_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "צמד לגיראסי: דורטמונד ניצחה 1:2 את סבאח",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1791882.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SABAC_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SABAC_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "עדיין ללא ניצחון באלופות: פנר סיימה ב-2:2 מול סלביה פראג",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1791894.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FENER_201026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_FENER_201026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "אלופה אמיתית: 2:4 לפריז סן-ז'רמן על סיטי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1789019.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_141026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_141026/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
-      },
-      {
-       "name": "בלתי שבירים: ריאל השלימה מהפך מטורף מול רומא",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1789025.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MADRID_1401026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MADRID_1401026/HLS/playlist.m3u8",
        "season": "ליגת האלופות - 2026/27 - 2026/27 - שלב הליגה"
       }
      ]
@@ -9656,191 +9451,6 @@
      ]
     },
     {
-     "name": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7",
-     "channels": [
-      {
-       "name": "בתום משחק משוגע: 2:4 לבארסה על סלביה פראג",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1663445.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SLAVIA_BARCA_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_SLAVIA_BARCA_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "צמד לקיין, 0:2 לבאיירן על סן-ז`ילואז וחלאיילי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1663447.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYERN_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BAYERN_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "שער ענק לסובוסלאי ב-0:3 של ליברפול במארסיי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1663448.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MRASILL_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MRASILL_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "קאיסדו הכריע בניצחון של צ`לסי על פאפוס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1663493.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_CHELSEA_PAFOS_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_CHELSEA_PAFOS_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "אתלטיקו שמטה יתרון וסיימה בתיקו עם גלאטסראיי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1663324.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ATLETICO_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ATLETICO_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "ניצחון חשוב להמשך: 0:2 ליובה על בנפיקה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1663451.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JUVENTUS_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_JUVENTUS_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "חגיגה של שערים: 2:3 לבילבאו מול אטלנטה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1663453.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATALANTA_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATALANTA_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "שומרת על הבית: 0:3 גדול לניוקאסל על פ.ס.וו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1663455.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NEWCASTLE_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NEWCASTLE_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "קרבאח הדהימה את פרנקפורט עם 2:3 בדקה ה-90",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1663322.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_QARBH_210126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_QARBH_210126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "מבול של שערים: ריאל מדריד פירקה את מונאקו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1662928.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MADRID_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MADRID_200126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "נשארה מושלמת: ארסנל ניצחה את אינטר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1662931.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_INTER_200126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "האלופה מעדה: פ.ס.ז` הפסידה 2:1 לספורטינג ליסבון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1663136.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LISBON_PSG_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_LISBON_PSG_200126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "ניצחון חשוב לטוטנהאם על דורטמונד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1662938.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TOT_DORT_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TOT_DORT_200126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "גלוך הבקיע לאייאקס ב-1:2 הדרמטי מול ויאריאל",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1662948.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AJAX_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_AJAX_200126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "סנסציית ענק: בודה גלימט ניצחה את סיטי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1662809.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_2001261_176893875079/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_CITY_2001261_176893875079/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "אולימפיאקוס גברה 0:2 על לברקוזן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1662956.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_OLYM_LEVER_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_OLYM_LEVER_200126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "10 שחקנים למשך 55 דק`: קופנהאגן גנבה תיקו מול נאפולי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1662961.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_COPENHAGEN_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_COPENHAGEN_200126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      },
-      {
-       "name": "76 דק' לגלזר, קייראט הובסה 4:1 מול ברוז`",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1662678.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KYRAT_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KYRAT_200126/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 7"
-      }
-     ]
-    },
-    {
      "name": "ליגת האלופות - 2025/26 - 2025/26 - שלב הליגה - שלב הליגה - מחזור 6",
      "channels": [
       {
@@ -12757,171 +12367,6 @@
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GOALS_SHAKTAR_281123/HLS/playlist.m3u8",
        "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 5"
-      }
-     ]
-    },
-    {
-     "name": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4",
-     "channels": [
-      {
-       "name": "גלוך מחוץ לאלופות: אינטר ניצחה 0:1 את זלצבורג",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1330066.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ZALZBORG_081123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ZALZBORG_081123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "ריאל מדריד ניצחה 0:3 גדול את בראגה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1330071.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_MADRID_081123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REAL_MADRID_081123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "תיקו מאכזב: נאפולי ואוניון ברלין נפרדו בחלוקת נק'",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1330012.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GOALS_RSO/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_GOALS_RSO/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "צמד לקיין, באיירן ניצחה 0:2 את גלאטסראיי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1330076.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BAYREN_091123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BAYREN_091123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "מנצ'סטר יונייטד הסתבכה: 3:4 אדיר לקופנהאגן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1330085.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CPH_MUN_081123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CPH_MUN_081123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "עלתה לשמינית: ארסנל ניצחה 0:2 את סביליה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1330084.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LEANS_091123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LEANS_091123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "לוק דה יונג הכריע: פ.ס.וו ניצחה את לאנס 0:1",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1330091.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LEANS_091123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LEANS_091123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "חגיגה באסקית: סוסיאדד פירקה את בנפיקה 1:3",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1330009.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GOLIM_SOS_BENFIKA_081123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GOLIM_SOS_BENFIKA_081123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "סיבכה את בית המוות: 1:2 גדול למילאן על פ.ס.ז'",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1329794.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_75MN_PSG_071123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_75MN_PSG_071123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "חולמת על המקום ה-3: הכוכב הפסידה 2:1 ללייפציג",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1329791.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REDSTAR80_071123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REDSTAR80_071123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "בשירות בכר והכוכב: 0:3 לסיטי על יאנג בויז",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1329793.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GOALS_MCITY_071123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_GOALS_MCITY_071123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "הפתעה ענקית: שחטאר גברה 0:1 על ברצלונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1329743.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_071123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BARCA_071123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "בית המוות: דורטמונד ניצחה 0:2 את ניוקאסל",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1329742.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DORTMUND_071123_1/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DORTMUND_071123_1/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "אימובילה כבש, לאציו ניצחה 0:1 את פיינורד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1329807.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LAZIO_071123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LAZIO_071123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "מתקרבת לשמינית: 0:2 לפורטו על אנטוורפן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1329809.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTO_071123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PORTO_071123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
-      },
-      {
-       "name": "וואו: 0:6 ענק לאתלטיקו מדריד על סלטיק",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1329805.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ATLETICO_071123/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_ATLETICO_071123/HLS/playlist.m3u8",
-       "season": "ליגת האלופות - 2023/24 - 2023/24 - שלב הבתים - שלב הבתים - מחזור 4"
       }
      ]
     },
@@ -20882,181 +20327,6 @@
        "page": "",
        "id": "https://sport5-vh.akamaihd.net/i/video/delivery/0d/1b/0d1b3405-02e0-45c3-b02e-766ec980978a/0511150132_arsenal_bayern_041115_,110,35,80,140,55,0k.mp4.csmil/master.m3u8",
        "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 4"
-      }
-     ]
-    },
-    {
-     "name": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3",
-     "channels": [
-      {
-       "name": "פודולסקי השלים מהפך לגלאטסראיי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/554306.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/7e/92/7e92ee1f-a962-48c4-bc34-acba51a18164/2210150035_tak_benfica_211015_,35,140,110,55,80,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הטורקים חזרו מפיגור ל-1:2 על בנפיקה ליסבון באיסטנבול, גם סלצ'וק אינאן כבש",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/7e/92/7e92ee1f-a962-48c4-bc34-acba51a18164/2210150035_tak_benfica_211015_,35,140,110,55,80,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "0:0 מאכזב בין יובנטוס לגלדבאך",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/554302.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/dd/b5/ddb56b87-0153-4959-af7e-887ee9f0e642/2210150007_tak_juve_mshgladbach_,55,80,35,110,140,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "באיחור של שני מחזורים, הגברת הזקנה הביאה את היכולת הלא משכנעת מהליגה גם לליגת האלופות",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/dd/b5/ddb56b87-0153-4959-af7e-887ee9f0e642/2210150007_tak_juve_mshgladbach_,55,80,35,110,140,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "זאבים זאבים: 0:2 לוולפסבורג על פ.ס.וו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/554300.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b9/34/b934884a-8210-41bf-8a6e-4481874c1c4f/2210150025_tak_wolfsburg_211015_,110,80,55,140,35,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "שערים של דוסט וקרוזה העניקו לגרמנים ניצחון ברור על היריבה מאיינדהובן",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b9/34/b934884a-8210-41bf-8a6e-4481874c1c4f/2210150025_tak_wolfsburg_211015_,110,80,55,140,35,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "מרסיאל חילץ נקודה ליונייטד במוסקבה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/554298.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5c/f6/5cf6d4d7-3c11-41f2-a97c-60e86de2a657/2110152354_tak_united_cska_,35,140,110,80,55,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הצרפתי בן ה-19 כבש את שערו החמישי בשדים האדומים וקבע 1:1 מול צסק\"א (בלי נאתכו)",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5c/f6/5cf6d4d7-3c11-41f2-a97c-60e86de2a657/2110152354_tak_united_cska_,35,140,110,80,55,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "איפה אתם? 0:0 רע בין פ.ס.ז' לריאל",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/554293.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/40/56/405640ae-dbd4-447b-ac4e-4d26f6eb270f/2110152353_tak_real_full_211015_,110,55,80,35,140,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הבטיחו המון, אבל לא קיימו: זלאטן ורונאלדו איכזבו בפארק דה פרינס",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/40/56/405640ae-dbd4-447b-ac4e-4d26f6eb270f/2110152353_tak_real_full_211015_,110,55,80,35,140,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "שער ניצחון לדה בריינה בדקה ה-91",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/554311.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/17/d2/17d25122-4db8-4f2a-8a3b-8cb6f1872667/2210150047_tak_city_211015_,140,35,110,80,55,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "סביליה כבר הובילה באתיחאד, אבל הבלגי השלים מהפך וקבע 1:2 לסיטי בתוספת הזמן",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/17/d2/17d25122-4db8-4f2a-8a3b-8cb6f1872667/2210150047_tak_city_211015_,140,35,110,80,55,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "אחד עם העקב, אחד בצ'יפ: 0:4 לאתלטיקו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/554284.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f7/af/f7af0ff2-feb3-49bf-9786-93afb9905f39/2210150043_tak_atletico_211015_,55,35,110,140,80,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "סאול ואוליבר סיפקו שערים גדולים בחגיגה של הקולצ'ונרוס מול אסטנה",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f7/af/f7af0ff2-feb3-49bf-9786-93afb9905f39/2210150043_tak_atletico_211015_,55,35,110,140,80,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "22 שערים בפחות מ-4 דקות",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/554208.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/84/07/8407835b-5e95-4da4-a059-0d2cbd996fea/2110151235_champion_goals_211015_,35,55,80,140,110,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "המשחק המשוגע בין לברקוזן לרומא, החזרה לחיים של ארסנל וההפסד של מכבי. כל השערים מעוד ערב אלופות מרתק",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/84/07/8407835b-5e95-4da4-a059-0d2cbd996fea/2110151235_champion_goals_211015_,35,55,80,140,110,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "נדיר: 4:4 משוגע בין לברקוזן לרומא",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/554140.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/86/b8/86b8ceb9-bfc3-4ad4-9054-97c8756d7624/2110150132_roma2_201015_,55,35,140,110,80,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "משחק השנה בליגת האלופות: הגרמנים הוליכו 0:2, אבל נקלעו לפיגור 4:2. זה לא נגמר שם...",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/86/b8/86b8ceb9-bfc3-4ad4-9054-97c8756d7624/2110150132_roma2_201015_,55,35,140,110,80,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "צמד של ראקיטיץ' קבע 0:2 לברצלונה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/554091.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/83/75/83757309-5fff-4b51-a1c4-8bf4d745d37f/2110150001_barca_201015_,35,55,80,110,140,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הקשר הקרואטי כבש צמד מול באטה בוריסוב וקירב את אלופת אירופה לשמינית הגמר",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/83/75/83757309-5fff-4b51-a1c4-8bf4d745d37f/2110150001_barca_201015_,35,55,80,110,140,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "עדיין כאן: 0:2 ענק לארסנל על באיירן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/554090.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/80/06/80068bf9-0090-4b08-b150-069e68c425e6/2110150003_bayren_201015_,110,80,35,140,55,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "אחרי שני הפסדים, התותחנים הרשימו מול מי שנחשבת לקבוצה הטובה בעולם",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/80/06/80068bf9-0090-4b08-b150-069e68c425e6/2110150003_bayren_201015_,110,80,35,140,55,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "0 מ-3: מכבי ת\"א הפסידה 2:0 בפורטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/554082.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/cd/7f/cd7f551b-ecd9-4df4-ae40-346fdb2011df/2110151003_tak_maccabi_porto_new_211015_,140,110,35,55,80,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "האלופה הישראלית נותרה \"על האפס\". אבובאקר ובראהימי הבקיעו",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/cd/7f/cd7f551b-ecd9-4df4-ae40-346fdb2011df/2110151003_tak_maccabi_porto_new_211015_,140,110,35,55,80,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "ממשיכה לזייף: רק 0:0 לצ'לסי בקייב",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/554092.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/9f/17/9f17e7b4-a8ea-422d-aa20-9b7faf92903d/2110150114_chelsea2_201015_,35,55,140,110,80,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "האלופה האנגלית עם 4 נקודות בלבד אחרי שלושה מחזורים",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/9f/17/9f17e7b4-a8ea-422d-aa20-9b7faf92903d/2110150114_chelsea2_201015_,35,55,140,110,80,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "0:1 לאולימפיאקוס אצל דינמו זאגרב",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/554094.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/97/b4/97b42bd7-91c9-42b1-9981-32bd3dafe5d4/2110150115_olympiacos2_201015_,110,80,140,35,55,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "אלופת יוון רשמה ניצחון שני ברציפות. בראון כבש שער דרמטי בדקה ה-79",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/97/b4/97b42bd7-91c9-42b1-9981-32bd3dafe5d4/2110150115_olympiacos2_201015_,110,80,140,35,55,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "שער ענק להולק, 1:3 לזניט על ליון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/554103.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e3/77/e377f1be-20d7-47b5-a966-82ee80c3ca9e/2110150119_zenit2_201015_,110,140,35,80,55,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "החלוץ הברזילאי סיפק ביצוע מרהיב וסידר לקבוצתו ניצחון שלישי ברצף",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/e3/77/e377f1be-20d7-47b5-a966-82ee80c3ca9e/2110150119_zenit2_201015_,110,140,35,80,55,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "קרובה לשמינית: 1:2 לוולנסיה על גנט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/554098.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/cc/5a/cc5a4028-a25b-4659-879b-71e344fcb5c4/2110150116_gent2_201015_,140,80,110,55,35,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "שער עצמי של מיטרוביץ' (72) סידר לעטלפים ניצחון שני במפעל",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/cc/5a/cc5a4028-a25b-4659-879b-71e344fcb5c4/2110150116_gent2_201015_,140,80,110,55,35,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
-      },
-      {
-       "name": "היה או לא היה? טל בן חיים דרש פנדל",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/554061.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/9d/f6/9df6de2c-ed59-49e2-be15-795bc9de50f6/2010152215_ben_haim_pendel_201015_,80,110,35,55,140,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "חלוץ מכבי תל אביב ספק הוכשל ברחבה על ידי ברונו מרטינס אינדי",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/9d/f6/9df6de2c-ed59-49e2-be15-795bc9de50f6/2010152215_ben_haim_pendel_201015_,80,110,35,55,140,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת האלופות - 2015/16 - 2015/16 - שלב הבתים - שלב הבתים - מחזור 3"
       }
      ]
     },

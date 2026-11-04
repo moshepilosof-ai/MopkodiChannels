@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fligat-haal",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fligat-haal",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291591",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291733",
    "plot": "",
-   "updated": "2026-11-03 23:48",
+   "updated": "2026-11-04 23:19",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
+       "name": "מאמן הפועל באר שבע רן קוז'וך מדבר לפני המשחק בליגה האירופית נגד אופי כרתים",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291733",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116349/hls/404x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1989217/",
+       "season": ""
+      },
+      {
+       "name": "שחקן הפועל באר שבע ניב יהושע מדבר לפני המשחק בליגה האירופית נגד אופי כרתים",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285947",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116346/hls/1278x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1989197/",
+       "season": ""
+      },
+      {
        "name": "סיכום כל שערי המחזור התשיעי בליגת העל",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291591",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291591",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116015/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/israeli-soccer/ligat-haal/video/1987737/",
-       "season": ""
-      },
-      {
-       "name": "צפו: מאיימבו נגח, צונאמי שגה והפועל ת\"א עלתה ליתרון מוקדם מול מכבי חיפ",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291485",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115819/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1987713/",
-       "season": ""
-      },
-      {
-       "name": "צפו: מדמון ופרץ חגגו, מכבי תל אביב הבקיעה שלישייה במחצית מול הפועל ר\"ג",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291479",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115791/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1987694/",
        "season": ""
       }
      ]

@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "12343",
    "series_id": "12343",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1798434.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1799503.jpg",
    "plot": "",
-   "updated": "2026-11-03 23:36",
+   "updated": "2026-11-04 23:08",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1799503.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_041126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_041126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=566305&poster=http",
+       "season": ""
+      },
       {
        "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1798434.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/INTER_GOLASA_310826/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=559361&poste",
-       "season": ""
-      },
-      {
-       "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1773869.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_100926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_100926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=560279&poster=http",
        "season": ""
       }
      ]
