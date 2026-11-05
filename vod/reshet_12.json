@@ -8,18 +8,14 @@
    "series_id": "12",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47b2caf8e5664172b080f73a31df7d53/version/3/width/800/height/1200/quality/90",
    "plot": "19 שורדים מפורסמים ואנונימיים בעונה הגדולה מכולן! מי יהיה השורד האחרון?",
-<<<<<<< Updated upstream
-   "updated": "2026-11-04 22:08",
-=======
-   "updated": "2026-11-04 23:22",
->>>>>>> Stashed changes
+   "updated": "2026-11-05 18:17",
    "sub_categories": [
     {
      "name": "עונה 8",
      "channels": [
       {
        "name": "הישרדות, עונה 8, פרק 5: אבי שושן בצרות",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f8f401ac0d3401d8a218ac229bcfb12/version/1/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f8f401ac0d3401d8a218ac229bcfb12/version/3/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qo3u7fjg/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-11-04",
        "plot": "אחרי הדרמה שכל המדינה דיברה עליה, אבי שושן מבין שהוא בבעיה. האם הוא יצליח לשלוף מהלך מבריק ולהציל את עצמו - והאם דווקא גל תמם תהיה זאת שתציל אותו? | \"הישרדות\", לצפייה ישירה",
@@ -29,7 +25,7 @@
       },
       {
        "name": "הישרדות, עונה 8, פרק 4: הקרב על השבת",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e67b85f6d5064d31b729e637b765552c/version/11/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e67b85f6d5064d31b729e637b765552c/version/12/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rjd12wym/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-31",
        "plot": "אף אחד לא ציפה לפיצוץ הזה על שמירת השבת. וגם: מה קורה בין לינור ושי חי? | \"הישרדות\", לצפייה ישירה",
@@ -39,7 +35,7 @@
       },
       {
        "name": "הישרדות, עונה 8, פרק 3: פרק הדחה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f57ad7ab61724c7baea6e0c97bde8fb5/version/13/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f57ad7ab61724c7baea6e0c97bde8fb5/version/14/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5smo0zoi/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-28",
        "plot": "לקראת מועצת השבט הראשונה, שי חי בטוח שהוא מנהל את העניינים. האם הוא צודק או שמחכה לו הפתעה? וגם: מי יהיה המודח? | \"הישרדות\", לצפייה ישירה",
@@ -49,7 +45,7 @@
       },
       {
        "name": "הישרדות, עונה 8, פרק 2: המשחק מתחיל!",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0dca3f5f573a4ad39d2079220bd201c3/version/15/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0dca3f5f573a4ad39d2079220bd201c3/version/16/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9im5qm2h/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-26",
        "plot": "אחרי הדרמה הגדולה בפרק הבכורה, השורדים מגיעים לאיים שלהם ומגלים שהטירוף לא מחכה אפילו דקה אחת | \"הישרדות\", לצפייה ישירה",
@@ -74,7 +70,7 @@
      "channels": [
       {
        "name": "הישרדות, עונה 7, פרק 47: אירוע הגמר בשידור חי!",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd45bdb82b744aeeb5f37ac202fc8a82/version/35/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd45bdb82b744aeeb5f37ac202fc8a82/version/36/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iru7trwz/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-06",
        "plot": "אור, ניצן או שי? מי מהם יזכה בתואר השורד האחרון ובפרס של מיליון שקלים? וגם: מי יזכה בתואר השורד האהוב של הקהל בבית? | הישרדות, לצפייה ישירה",

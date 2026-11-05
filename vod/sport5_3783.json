@@ -8,11 +8,7 @@
    "series_id": "3783",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798149.jpg",
    "plot": "",
-<<<<<<< Updated upstream
-   "updated": "2026-11-04 22:50",
-=======
-   "updated": "2026-11-05 00:01",
->>>>>>> Stashed changes
+   "updated": "2026-11-05 18:54",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -2471,6 +2467,211 @@
        "page": "",
        "id": "https://playern.sport5.co.il/vidclean/sportsvid/player.html?clipId=/delivery/a6/3f/a63fe2c8-ed17-49cd-a5b6-f9b453b25508/200820162210_tak_kash_ashdod_200816_,1600k,550k,1100k,350k,800k,.mp4&Type=vod&Sh",
        "season": "ליגת העל - 2016/17"
+      }
+     ]
+    },
+    {
+     "name": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה",
+     "channels": [
+      {
+       "name": "חמסה עליהם: 2:5 לב\"ש על מכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798149.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_011126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_011126/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "בתום דרמה גדולה: בית\"ר וק\"ש נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1797191.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "משחק שני ללא ניצחון: נתניה שמטה יתרון נגד הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1797470.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NETANYA_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "ממשיכה לשקוע: הפועל פ\"ת נכנעה להפועל חיפה בסמי עופר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1797406.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HPT_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "אחרי שני ניצחונות: טבריה עצרה את סכנין בדוחא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1797404.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ISO_TVERIA_311026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "הצגה גדולה של האלופה: 2:5 לב\"ש על מכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1795204.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEER_SHEVA_HAIFA_261026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BEER_SHEVA_HAIFA_261026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "פרקה עצבים: מכבי ת\"א הביסה 2:6 את הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1793889.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_HHAIFA_241026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_HHAIFA_241026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "שער נהדר לדאפה, הפועל ת\"א ניצחה 0:3 את הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1793865.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HTA_241026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HTA_241026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "מכבי נתניה ועירוני טבריה נפרדו ב-1:1 דרמטי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1793884.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIBERIAS_NATANIA_241026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TIBERIAS_NATANIA_241026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "חזרה לנצח: 1:2 למכבי פ\"ת על הפועל ר\"ג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1793874.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAG_MPT_241026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAG_MPT_241026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "גומס העניק לבני סכנין 0:1 על קריית שמונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1793869.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_SAKHNIN_2410266/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KASH_SAKHNIN_2410266/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "הכל חוץ משער: 0:0 קצבי בין בית''ר י-ם למכבי ת''א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1791429.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_191026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_191026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "צמד לזלאטונוביץ`: 1:2 לב\"ש על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1790987.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_BASH_JER_181026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_BASH_JER_181026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "בראש הטבלה: 1:2 למכבי חיפה על מכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1790315.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PAT_HAIFA_171026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PAT_HAIFA_171026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "פנדל שנוי במחלוקת העניק להפועל ת\"א ניצחון על טבריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1790319.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_TIBERIAS_171026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_TIBERIAS_171026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "דאבו כבש: מכבי נתניה ניצחה 0:1 את ק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1790341.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NETANIA_KASH_171026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NETANIA_KASH_171026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "חזרה למסלול הניצחונות: 0:2 לר\"ג על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1790353.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_RAG_171026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HHAIFA_RAG_171026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "במומנטום חיובי: 0:2 לבני סכנין על הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1790363.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SAKHNIN_HPT_171026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SAKHNIN_HPT_171026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "3 בישולים לברוניניו: 1:4 גדול למכבי חיפה על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1787889.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_121026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_121026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "צמד לאינו: בית\"ר ירושלים חגגה על הפועל ר\"ג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1787461.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_111026/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_111026/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
     },
@@ -7225,6 +7426,211 @@
      ]
     },
     {
+     "name": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה",
+     "channels": [
+      {
+       "name": "מוכנה לפלייאוף: 0:2 למכבי ת\"א מול מכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/798431.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8f/46/8f46431e-d92b-4c34-a94b-c7edc4fb286c/120320182311_nm_vtr_tak_mtlv_mptt_120318_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצהובים של ג'ורדי סיימו את הליגה הסדירה בצורה משכנעת. קיארטנסון ובלקמן כבשו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/8f/46/8f46431e-d92b-4c34-a94b-c7edc4fb286c/120320182311_nm_vtr_tak_mtlv_mptt_120318_,160,55,110,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "חזקה במירוץ: בית\"ר על רעננה, שכטר נפצע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/798137.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d1/6b/d16b44f3-c57b-423a-9b89-8dbd7c0dd98c/110320182210_nm_beitar_new_110318_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "בן זקן הבטיח את המקום השני בסיומה של הליגה הסדירה. קמארה כבש שער עצמי, סילבסטר הוסיף",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d1/6b/d16b44f3-c57b-423a-9b89-8dbd7c0dd98c/110320182210_nm_beitar_new_110318_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "האסלביינק כיכב עם שער ושני בישולים מול עכו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/798082.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d4/ae/d4ae226f-b1fc-45c5-a0d9-12a2202fb27e/110320182109_nm_tak_akko_kash_110318_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "החלוץ ההולנדי היה מעורב בכל השערים ב-0:3 של הצפוניים. איציק טוויזר וחניכיו עשו עוד צעד לעבר הליגה הלאומית",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/d4/ae/d4ae226f-b1fc-45c5-a0d9-12a2202fb27e/110320182109_nm_tak_akko_kash_110318_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "האלופה שמרה על הפסגה עם 0:2 מול סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/796884.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f0/c5/f0c58788-efc7-4de2-b839-91bb0c63f559/100320182311_nm_vtr_tak_bash_100318_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ב\"ש הבטיחה את המקום הראשון בתום העונה הסדירה. קבהא (שער בכורה) ופקהארט כבשו",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/f0/c5/f0c58788-efc7-4de2-b839-91bb0c63f559/100320182311_nm_vtr_tak_bash_100318_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "לא יכולות: 0:0 חלש בין אשקלון ומכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/796846.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/be/08/be08ac8f-4854-431d-90ca-6548201333cd/100320182109_nm_vtr_tak_ashkelon_mhaifa_100318_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הירוקים רשמו משחק ליגה 4 ללא ניצחון בעוד מסאיי דגו השיג נקודת בכורה באשקלון",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/be/08/be08ac8f-4854-431d-90ca-6548201333cd/100320182109_nm_vtr_tak_ashkelon_mhaifa_100318_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "בזמן פציעות: ניצחון דרמטי להפועל חיפה נגד אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/796834.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3d/a1/3da19db6-e480-4719-a65c-512e78a26415/100320182109_nm_vtr_tak_hapoel_haifa_ashdod_100318_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שער עצמי של יעקובוביץ' השאיר את האדומים בטווח סביר מהפסגה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/3d/a1/3da19db6-e480-4719-a65c-512e78a26415/100320182109_nm_vtr_tak_hapoel_haifa_ashdod_100318_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "ספורי הכריע: 0:1 לנתניה מול בני יהודה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/796827.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/dd/81/dd810257-064a-4b0a-843f-980b5c5e2793/100320182008_nm_vtr_tak_bney_yehuda_maccabi_natanya_100318_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הזהובים היו יותר מסוכנים, אבל שער בודד של ספורי מבישול של סבע סידר ליהלומים ניצחון",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/dd/81/dd810257-064a-4b0a-843f-980b5c5e2793/100320182008_nm_vtr_tak_bney_yehuda_maccabi_natanya_100318_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "גם בליגה: חיפה נצבעה באדום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/794729.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e2/f0/e2f093a1-7f2a-4d2e-b3e3-ca24f742292f/050320182311_nm_tak_derbi_haifa_050318_full_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ארבעה ימים אחרי הגביע, האדומים הראו לירוקים שהם גדולים עליהם השנה בכל מפעל עם 0:3 חלק",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e2/f0/e2f093a1-7f2a-4d2e-b3e3-ca24f742292f/050320182311_nm_tak_derbi_haifa_050318_full_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "הצלה גדולה לחיימוב בדקה ה-94, ב\"ש בפסגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/794378.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/9b/6c/9b6cd6aa-6439-44bf-b0a2-af9f112f28ac/040320182311_nm_vtr_tak_bash_040318_new_,110,80,35,160,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "השוער של ב\"ש במפגן הצלות מרהיבות העניק לבכר את המקום הראשון אחרי 0:1 משער מקרי של פקהארט",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/9b/6c/9b6cd6aa-6439-44bf-b0a2-af9f112f28ac/040320182311_nm_vtr_tak_bash_040318_new_,110,80,35,160,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "בית\"ר דרסה 0:3 את עכו ועלתה למקום השני",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/794407.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/76/24/76249808-b350-4f6e-b70d-9015d75ab4de/040320182311_nm_vtr_tak_beitar_040318_new_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הקבוצה מהבירה לא התקשתה מול נועלת הטבלה. סאבו פתח אחרי פנדל מפוקפק, שכטר הוסיף וקריאף נעל",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/76/24/76249808-b350-4f6e-b70d-9015d75ab4de/040320182311_nm_vtr_tak_beitar_040318_new_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "פחד גבהים: מכבי ת\"א מעדה באשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/794080.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7f/33/7f3365c3-ee2f-4f5b-bd35-945d75db10d3/030320182210_nm_tak_maccabi_tlv_030318_,80,110,160,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצהובים שוב איכזבו אחרי שכבשו את הפסגה וסיימו ב-0:0 בי\"א.",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/7f/33/7f3365c3-ee2f-4f5b-bd35-945d75db10d3/030320182210_nm_tak_maccabi_tlv_030318_,80,110,160,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "שער בכורה למלדה, נתניה התקרבה למקום ה-4",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/794056.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/07/da/07da4914-45d6-42cb-b7be-bad0fadb9afd/030320182109_nm_vtr_tak_natanya_030318_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "החלוץ הצעיר כבש ב-0:2 מול אשלקון, סבע הוסיף. היהלומים רחוקים רק 4 נקודות מהפועל חיפה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/07/da/07da4914-45d6-42cb-b7be-bad0fadb9afd/030320182109_nm_vtr_tak_natanya_030318_,110,80,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "בדקה ה-94: 2:2 דרמטי לבני יהודה מול סכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/794057.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0f/08/0f08c337-ab1d-4b53-8c03-b7a728e5aef3/030320182109_nm_vtr_tak_sachnin_030318_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ואלסקיס שוב כבש בדקות הסיום ומחק שער נדיר של מוגרבי",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/0f/08/0f08c337-ab1d-4b53-8c03-b7a728e5aef3/030320182109_nm_vtr_tak_sachnin_030318_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "בניון כבש במספרת, מהפך ו-2:3 לפ\"ת על רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/794134.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/21/28/21280da9-b575-4bb0-a54e-9115989ece85/030320181907_nm_vtr_tak_mpt_030318_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "משחק רב שערים במושבה: בניון ולידור כהן מחקו יתרון מוקדם של כליבאת, שהשלים צמד. מרסיאל חתם",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/21/28/21280da9-b575-4bb0-a54e-9115989ece85/030320181907_nm_vtr_tak_mpt_030318_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "מי אם לא הוא: בניון השלים מהפך מול עכו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/791841.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/41/de/41de9c51-6073-4e6c-b5f2-dd6cc00a0324/260220182210_nm_vtr_tak_mpt_260218_,160,110,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "היהלום וסולומון הפכו, המלאבס ניצחו 1:2 את האחרונה בטבלה.",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/41/de/41de9c51-6073-4e6c-b5f2-dd6cc00a0324/260220182210_nm_vtr_tak_mpt_260218_,160,110,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "נתראה בהמשך: 1:1 מרתק בין ב\"ש ובית\"ר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/791622.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6c/70/6c7001cf-164b-4ed7-af60-ee36e9611991/250220182311_nm_betar_new_250218_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ממן העלה את ב\"ש ליתרון, אך סילבסטר איזן וקבע שוייון מוצדק שנשאר עד הסיום",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/6c/70/6c7001cf-164b-4ed7-af60-ee36e9611991/250220182311_nm_betar_new_250218_,55,160,110,80,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "צ'יבוטה שלח את בני יהודה לפלייאוף העליון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/791605.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/24/91/2491392a-8e6d-4a69-9c5f-ee26b3afd610/250220182109_nm_vtr_bney_250218_,80,35,55,110,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הזהובים עמדו במטרה והבטיחו מקום בפל' העליון. ק\"ש תשחק בתחתון",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/24/91/2491392a-8e6d-4a69-9c5f-ee26b3afd610/250220182109_nm_vtr_bney_250218_,80,35,55,110,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "קונצרט: 0:4 מוחץ למכבי ת\"א על הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/791263.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/df/52/df52d51d-23f8-4010-aec4-c3b2ca2c6d7d/240220182210_nm_vtr_tak_maccabi_240218_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצהובים חגגו מול האדומים מהכרמל ועלו זמנית לפסגה משערים של בלקמן, דוידזאדה וצמד של רודריגס",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/df/52/df52d51d-23f8-4010-aec4-c3b2ca2c6d7d/240220182210_nm_vtr_tak_maccabi_240218_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "נתניה בפלייאוף העליון אחרי 1:2 בחיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/791204.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/51/6d/516db374-0862-4b7a-b58f-673e29b73ccf/240220182008_nm_vtr_tak_haifa_240218_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שערים של ויקי כחלון וערן לוי בפנדל מחקו יתרון של בן הרוש. החבורה של דראפיץ' וברדה הבטיחה מקום בין שש הראשונות",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/51/6d/516db374-0862-4b7a-b58f-673e29b73ccf/240220182008_nm_vtr_tak_haifa_240218_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      },
+      {
+       "name": "גם דגו לא עוזר: אשקלון הפסידה גם לסכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/791196.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5f/c4/5fc48670-58ec-4f68-83e3-c250790200a6/240220182008_nm_vtr_tak_ashkelon_240218_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הדרומיים סופרים כבר שבעה הפסדים רצופים וגם השינוי בעמדת המאמן לא עזר. מוגרבי בישל פעמיים לאזולאי ופושה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/5f/c4/5fc48670-58ec-4f68-83e3-c250790200a6/240220182008_nm_vtr_tak_ashkelon_240218_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - העונה הסדירה"
+      }
+     ]
+    },
+    {
      "name": "ליגת העל - 2016/17 - 2016/17 - פלייאוף עליון",
      "channels": [
       {
@@ -8431,6 +8837,41 @@
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HPT_MTA_230526/HLS/playlist.m3u8",
        "season": "ליגת העל - 2025/26 - 2025/26 - פלייאוף עליון - פלייאוף עליון - מחזור 10"
+      }
+     ]
+    },
+    {
+     "name": "ליגת העל - 2025/26 - 2025/26 - פלייאוף עליון - פלייאוף עליון - מחזור 9",
+     "channels": [
+      {
+       "name": "בפעם השישית: הפועל ב\"ש זכתה באליפות המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1721454.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_NEW_190526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_NEW_190526/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2025/26 - 2025/26 - פלייאוף עליון - פלייאוף עליון - מחזור 9"
+      },
+      {
+       "name": "תם החלום: בית\"ר י-ם מעדה עם 0:0 מול הפועל פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1721462.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HPTAH_190526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_HPTAH_190526/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2025/26 - 2025/26 - פלייאוף עליון - פלייאוף עליון - מחזור 9"
+      },
+      {
+       "name": "חגיגה ירוקה: מכבי חיפה הביסה את הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1721467.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_190526/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_190526/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2025/26 - 2025/26 - פלייאוף עליון - פלייאוף עליון - מחזור 9"
       }
      ]
     },
@@ -12790,6 +13231,81 @@
      ]
     },
     {
+     "name": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 4",
+     "channels": [
+      {
+       "name": "היה שווה לחכות: בית\"ר ניצחה 2:3 את מכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1462738.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_NEW_221024/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_NEW_221024/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 4"
+      },
+      {
+       "name": "מושלמת: מכבי ת\"א גברה 0:2 על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1452039.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_220924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASHDOD_220924/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 4"
+      },
+      {
+       "name": "אבו עקל הכריע: טבריה גברה על סכנין 0:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1451517.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SAKHNIN_210924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_SAKHNIN_210924/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 4"
+      },
+      {
+       "name": "חזרה לנצח: ב\"ש גברה 1:2 על חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1451596.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_210924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BASH_210924/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 4"
+      },
+      {
+       "name": "ניצחון בכורה: נתניה גברה על ק\"ש 0:2",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1451551.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NETANYA_210924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NETANYA_210924/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 4"
+      },
+      {
+       "name": "חלוקת נקודות: מכבי פ\"ת והפועל חיפה נפרדו בתיקו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1451554.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPT_NEW_210924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MPT_NEW_210924/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 4"
+      },
+      {
+       "name": "ממשיכה להרשים: ריינה גברה 0:1 על הפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1451511.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REINA_210924/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REINA_210924/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 4"
+      }
+     ]
+    },
+    {
      "name": "ליגת העל - 2024/25 - 2024/25 - ליגה סדירה - ליגה סדירה - מחזור 3",
      "channels": [
       {
@@ -16001,6 +16517,91 @@
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_MACCABI_030922/HLS/playlist.m3u8",
        "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 3"
+      }
+     ]
+    },
+    {
+     "name": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2",
+     "channels": [
+      {
+       "name": "קיבלה מתנה: עמוס טעה, חיפה גברה על סכנין בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1219433.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_300822_1/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAIFA_300822_1/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2"
+      },
+      {
+       "name": "הצגה שנייה: 0:6 מוחץ למכבי ת\"א על חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1219196.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HEDERA_290822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HEDERA_290822/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2"
+      },
+      {
+       "name": "נקודה היסטורית בליגה : 1:1 לריינה מול הפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1218834.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/nm_tak_raina_280822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/nm_tak_raina_280822/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2"
+      },
+      {
+       "name": "חמש והרבה אש: ב\"ש מחצה 0:5 את בית\"ר י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1218870.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_FULL_280822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_FULL_280822/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2"
+      },
+      {
+       "name": "אפטר פארטי: 1:4 לחיפה על נתניה, שלושער לאצילי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1218590.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HAIFA_NATANYA_270822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HAIFA_NATANYA_270822/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2"
+      },
+      {
+       "name": "עדיין ללא נקודה ושער: הפועל ת\"א הפסידה לסכנין",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1218599.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HAPOEL_SCHANIN_270822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_HAPOEL_SCHANIN_270822/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2"
+      },
+      {
+       "name": "סבטקוביץ' סידר לאשדוד ניצחון על נס ציונה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1218615.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_ASHDOD_NESS_270822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_ASHDOD_NESS_270822/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2"
+      },
+      {
+       "name": "שבירו פתח, סדריק איזן: 1:1 בין ק\"ש להפועל י-ם",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1218600.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_KASH_JER_270822/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_KASH_JER_270822/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2022/23 - 2022/23 - העונה הסדירה - העונה הסדירה - מחזור 2"
       }
      ]
     },
@@ -19311,6 +19912,81 @@
        "page": "",
        "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/wq6X3DuUYk/App/NM_HHAIFA_FULL_050121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
        "season": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 15"
+      }
+     ]
+    },
+    {
+     "name": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 14",
+     "channels": [
+      {
+       "name": "צמד לחליחל הלוהט ב-1:2 של ק\"ש על אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1075754.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/MWNoHandYB/App/TAK_KASH_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/MWNoHandYB/App/TAK_KASH_2_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 14"
+      },
+      {
+       "name": "קארצב המחליף כבש, מכבי ת\"א ניצחה גם את פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1065150.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/zrfOaCo12g/App/NM_VTR_MPT_MTA_040121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV6/zrfOaCo12g/App/NM_VTR_MPT_MTA_040121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 14"
+      },
+      {
+       "name": "לא שירת אף אחת: בני יהודה ובני סכנין סיימו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1064857.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/ne54p1ywpp/App/NM_BNEY_040121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/ne54p1ywpp/App/NM_BNEY_040121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 14"
+      },
+      {
+       "name": "בתום משחק מטורף: 3:3 בין בית\"ר להפועל חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1064621.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/lAimv96zeU/App/NM_VTR_TAK_BEITAR_JER_H_HAIFA__020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/lAimv96zeU/App/NM_VTR_TAK_BEITAR_JER_H_HAIFA__020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 14"
+      },
+      {
+       "name": "ז'וסוואה שוב כבש, ב\"ש ניצחה את נתניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1064609.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/j56PkXSGW4/App/NM_VTR_TAK_NATANYA_BASH_020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/j56PkXSGW4/App/NM_VTR_TAK_NATANYA_BASH_020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 14"
+      },
+      {
+       "name": "ה-8 ברצף: שרי העניק לחיפה ניצחון על חדרה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1064583.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/Z04NUFk9ws/App/NM_VTR_TAK_M_HAIFA_HADERA_020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/Z04NUFk9ws/App/NM_VTR_TAK_M_HAIFA_HADERA_020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 14"
+      },
+      {
+       "name": "שער נהדר לדוידה ב-1:1 של הפועל ת\"א מול כפ\"ס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1064581.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/sShEh2srKM/App/NM_VTR_TAK_HTA_KAFAS_020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/bynet/sport5/sport5/PRV5/sShEh2srKM/App/NM_VTR_TAK_HTA_KAFAS_020121_,400,700,1100,1800,.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2020/21 - 2020/21 - העונה הסדירה - העונה הסדירה - מחזור 14"
       }
      ]
     },
@@ -23050,6 +23726,51 @@
      ]
     },
     {
+     "name": "ליגת העל - 2017/18 - 2017/18 - פלייאוף תחתון - פלייאוף תחתון - מחזור 31",
+     "channels": [
+      {
+       "name": "נגמר: אשדוד ניצחה, אשקלון ועכו ירדו ללאומית",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/821709.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/08/09/0809fa2a-b429-474e-b65b-3bb0a91a8a04/290420182109_nm_tak_ashdod_ashkelon_290418_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סלאלום מרהיב של וובה בראון הבטיח לאשדוד עונה נוספת בליגה על חשבונן של אשדוד ואשקלון שנשרו ללאומית",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/08/09/0809fa2a-b429-474e-b65b-3bb0a91a8a04/290420182109_nm_tak_ashdod_ashkelon_290418_,55,110,80,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - פלייאוף תחתון - פלייאוף תחתון - מחזור 31"
+      },
+      {
+       "name": "שבה לאכזב: מכבי חיפה הפסידה בבית לק\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/820432.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ed/8d/ed8df585-4963-404e-8c9c-80c3ccb8fc43/280420182109_nm_vtr_tak_haifa_280418_,55,80,35,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "דוידוב וריאן כבשו לטובתו של סילבס, מזרחי צימק סמוך לסיום",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/ed/8d/ed8df585-4963-404e-8c9c-80c3ccb8fc43/280420182109_nm_vtr_tak_haifa_280418_,55,80,35,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - פלייאוף תחתון - פלייאוף תחתון - מחזור 31"
+      },
+      {
+       "name": "לא מוותרת: 1:2 חשוב לעכו על מכבי פ\"ת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/820433.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/18/ca/18ca8206-62c5-4464-b97f-4580f4f3ed8c/280420182109_nm_vtr_tak_akko_280418_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצפוניים ביצעו מהפך בזק תוך שתי דקות ושמרו על סיכוי לשרוד בליגה",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/18/ca/18ca8206-62c5-4464-b97f-4580f4f3ed8c/280420182109_nm_vtr_tak_akko_280418_,35,80,160,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - פלייאוף תחתון - פלייאוף תחתון - מחזור 31"
+      },
+      {
+       "name": "ברוך שובך: צמד לארבייטמן ב-1:3 של רעננה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/820434.jpg",
+       "url": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e5/4f/e54fbdeb-4114-4b10-94ff-ca6dd0ecff99/280420182210_nm_vtr_tak_sachnin_280418_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "החניכים של קורצקי גברו על בני סכנין במשחק לפרוטוקול",
+       "page": "",
+       "id": "https://rgesport5-vh.akamaihd.net/i/video/delivery/e5/4f/e54fbdeb-4114-4b10-94ff-ca6dd0ecff99/280420182210_nm_vtr_tak_sachnin_280418_,35,110,160,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "ליגת העל - 2017/18 - 2017/18 - פלייאוף תחתון - פלייאוף תחתון - מחזור 31"
+      }
+     ]
+    },
+    {
      "name": "ליגת העל - 2017/18 - 2017/18 - פלייאוף תחתון - פלייאוף תחתון - מחזור 30",
      "channels": [
       {
@@ -25740,7 +26461,7 @@
       {
        "name": "ואלסקיס כיכב בניצחון בני יהודה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/694115.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/68/ce/68ce2b6d-2a70-4e0d-9b76-0c19353cc5ca/190320172109_nm_vtr_raanana_full_190317_,800k,1600k,1100k,350k,550k,.mp4.csmil/master.m3u8",
+       "url": "https://rgevod.akamaized-staging.net/vodedge/_definst_/mp4:rge/video/delivery/68/ce/68ce2b6d-2a70-4e0d-9b76-0c19353cc5ca/190320172109_nm_vtr_raanana_full_190317/chunklist_b1600000.m3u8",
        "date": "",
        "plot": "הליטאי של הכתומים כבש צמד ב-0:2 על רעננה, הקבוצה של ניסן יחזקאל בורחת מהתחתית",
        "page": "",
