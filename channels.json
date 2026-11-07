@@ -1,6 +1,6 @@
 {
- "updated": "06.11.2026 11:19",
- "updated_utc": "2026-11-06T09:19:54Z",
+ "updated": "07.11.2026 13:47",
+ "updated_utc": "2026-11-07T11:47:28Z",
  "source": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/channels.json",
  "count": 84,
  "summary": {
@@ -24,7 +24,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_11b",
@@ -40,7 +40,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_11c",
@@ -57,7 +57,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_12",
@@ -73,7 +73,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_12b",
@@ -89,7 +89,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_12b2",
@@ -105,7 +105,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_12b3",
@@ -121,7 +121,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_12c",
@@ -137,7 +137,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_13",
@@ -154,7 +154,7 @@
     "Referer": "https://13tv.co.il/live/"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_13b",
@@ -171,7 +171,7 @@
     "Referer": "https://13tv.co.il/live/"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_13b2",
@@ -188,7 +188,7 @@
     "Referer": "https://13tv.co.il/allshows/2010263/"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_13c",
@@ -205,7 +205,7 @@
     "Referer": "https://13tv.co.il/live/"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_14",
@@ -222,7 +222,7 @@
     "Referer": "https://vod.c14.co.il/"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_14b",
@@ -238,7 +238,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "unreachable",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_14b2",
@@ -254,7 +254,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_10",
@@ -270,7 +270,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_23",
@@ -287,7 +287,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_23b",
@@ -303,7 +303,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_24",
@@ -319,7 +319,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_24b",
@@ -335,7 +335,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_bb",
@@ -351,7 +351,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "unreachable",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_bbb",
@@ -367,7 +367,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "unreachable",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_33",
@@ -384,7 +384,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_33b",
@@ -400,7 +400,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_66",
@@ -416,7 +416,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_97",
@@ -432,7 +432,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_99",
@@ -448,7 +448,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_99c",
@@ -464,7 +464,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_ynet",
@@ -480,7 +480,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_sport5",
@@ -497,7 +497,7 @@
     "Referer": "https://radio.sport5.co.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_100",
@@ -513,7 +513,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_9",
@@ -529,7 +529,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_891",
@@ -545,7 +545,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_kabru",
@@ -561,7 +561,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_musayof",
@@ -578,7 +578,7 @@
     "Referer": "http://media-line.co.il/Media-Line-Player/musayof/livePlayer.aspx"
    },
    "status": "unreachable",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_i24news",
@@ -594,7 +594,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_i24newsen",
@@ -610,7 +610,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_i24newsfr",
@@ -626,7 +626,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_i24newsar",
@@ -642,7 +642,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_16tv",
@@ -658,7 +658,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_13comedy",
@@ -675,7 +675,7 @@
     "Referer": "https://13tv.co.il/allshows/2605018/"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_13nofesh",
@@ -692,7 +692,7 @@
     "Referer": "https://13tv.co.il/allshows/2395628/"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_13reality",
@@ -709,7 +709,7 @@
     "Referer": "https://13tv.co.il/allshows/2395629/"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_erets",
@@ -725,7 +725,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_savri",
@@ -741,7 +741,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_free_comedy",
@@ -757,7 +757,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_free_drama",
@@ -773,7 +773,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_free_music",
@@ -789,7 +789,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "ch_free_food",
@@ -805,7 +805,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "needs_ticket",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_glglz",
@@ -821,7 +821,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_88",
@@ -838,7 +838,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_90",
@@ -854,7 +854,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_91",
@@ -870,7 +870,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_97",
@@ -886,7 +886,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_99",
@@ -902,7 +902,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_100",
@@ -918,7 +918,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_101",
@@ -934,7 +934,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_1015",
@@ -950,7 +950,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_102",
@@ -966,7 +966,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_102Eilat",
@@ -982,7 +982,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_103",
@@ -998,7 +998,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_1045",
@@ -1014,7 +1014,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_1075",
@@ -1030,7 +1030,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_glz",
@@ -1046,7 +1046,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_bet",
@@ -1063,7 +1063,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_gimel",
@@ -1080,7 +1080,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_culture",
@@ -1097,7 +1097,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_music",
@@ -1114,7 +1114,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_moreshet",
@@ -1131,7 +1131,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_kankids",
@@ -1148,7 +1148,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_sport5",
@@ -1165,7 +1165,7 @@
     "Referer": "https://radio.sport5.co.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_reka",
@@ -1182,7 +1182,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_891",
@@ -1198,7 +1198,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_1064",
@@ -1214,7 +1214,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_makan",
@@ -1231,7 +1231,7 @@
     "Referer": "https://www.kan.org.il"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_mizrahit",
@@ -1247,7 +1247,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_kolhay",
@@ -1263,7 +1263,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_kolhaymusic",
@@ -1279,7 +1279,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_kolbarama",
@@ -1295,7 +1295,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_kolplay",
@@ -1311,7 +1311,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_gly",
@@ -1327,7 +1327,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_fm995",
@@ -1343,7 +1343,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_noshmim_mizrahit",
@@ -1359,7 +1359,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   },
   {
    "id": "rd_diki",
@@ -1375,7 +1375,7 @@
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
    },
    "status": "ok",
-   "checked": "06.11.2026 11:18"
+   "checked": "07.11.2026 13:46"
   }
  ]
 }
