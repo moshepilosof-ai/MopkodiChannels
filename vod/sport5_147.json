@@ -6,13 +6,33 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1801291.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1801807.jpg",
    "plot": "",
-   "updated": "2026-11-08 11:39",
+   "updated": "2026-11-08 21:17",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "כריסטופר הצטיין: נס ציונה עם ניצחון חד צדדי על קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1801807.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESS_SAL_081126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NESS_SAL_081126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566865&poster=",
+       "season": ""
+      },
+      {
+       "name": "נצמדה לפ.ס.ז': ליל עם 1:2 חשוב על ראן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1801718.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REN_LOSC_081126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_REN_LOSC_081126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566859&poster=",
+       "season": ""
+      },
       {
        "name": "שוב איבדה נקודות: בית\"ר י-ם סיימה ב-1:1 מול טבריה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1801291.jpg",
@@ -191,26 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_KIRAT_GAT_YAFO/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566591&poster=h",
-       "season": ""
-      },
-      {
-       "name": "קינגס כיכב עם 37 נק' בניצחון גליל על חולון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1800569.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566658&poster=https://",
-       "season": ""
-      },
-      {
-       "name": "קרי שוב להט: גולדן סטייט גברה על מיאמי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1800483.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIAGSW_0188_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIAGSW_0188_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=566637&pos",
        "season": ""
       }
      ]

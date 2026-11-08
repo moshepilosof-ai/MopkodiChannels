@@ -6,16 +6,86 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fpremier-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fpremier-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292119",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292279",
    "plot": "",
-   "updated": "2026-11-08 12:33",
+   "updated": "2026-11-08 22:21",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: נוטינגהאם פורסט – מנצ'סטר סיטי 1:3",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292119",
+       "name": "תקציר: מנצ'סטר יונייטד – אסטון וילה 4:4",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292279",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117607/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1992630/",
+       "season": ""
+      },
+      {
+       "name": "צפו: יונייטד חזרה מפיגור כפול ל-2:2 מול וילה במחצית הראשונה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292271",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117552/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1992521/",
+       "season": ""
+      },
+      {
+       "name": "צפו: וירץ כיכב, ליברפול ניצחה 1:3 את פאלאס וחלאילי, שירדו למקום האחרון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292266",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117529/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1992484/",
+       "season": ""
+      },
+      {
+       "name": "צפו: צ'לסי הופתעה עם 1:0 אצל סנדרלנד וירדה למקום החמישי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292260",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117526/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1992473/",
+       "season": ""
+      },
+      {
+       "name": "כל שערי שבת מהליגה האנגלית, 7.11",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292243",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117243/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1992400/",
+       "season": ""
+      },
+      {
+       "name": "צפו בשער: מקאליסטר נגח והעניק לליברפול 0:1 על קריסטל פאלאס",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292234",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117503/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1992383/",
+       "season": ""
+      },
+      {
+       "name": "תיקתקנו, 8.11",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291665",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117433/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/1992216/",
+       "season": ""
+      },
+      {
+       "name": "צפו: הפסד ליגה שלישי רצוף למנצ'סטר סיטי, 3:1 לנוטינגהאם פורסט",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292119",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117189/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -31,76 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/1991514/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: פורסט – מנצ'סטר סיטי 0:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292119",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117100/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1991476/",
-       "season": ""
-      },
-      {
-       "name": "צפו: מרטין אודגור העניק לארסנל 0:1 קטן על האל ויציאה לפגרה מהפסגה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292098",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117055/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1991363/",
-       "season": ""
-      },
-      {
-       "name": "צפו: מרטין אודגור העניק לארסנל 0:1 קטן על האל",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292097",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117024/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1991327/",
-       "season": ""
-      },
-      {
-       "name": "צפו: המומנטום של טוטנהאם נעצר עם הפסד בלידס",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292071",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116962/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1991218/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: צמד ענק של תיירנו בארי, אברטון ניצחה 1:3 את קובנטרי",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292031",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116886/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1990898/",
-       "season": ""
-      },
-      {
-       "name": "צפו: האברץ כבש, ארסנל ניצחה באנפילד לראשונה אחרי 14 שנה ועלתה לפסגה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291333",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115407/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1986824/",
-       "season": ""
-      },
-      {
-       "name": "צפו: האברץ כבש, ארסנל ניצחה באנפילד לראשונה אחרי 14 שנה ועלתה לפסגה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291307",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115338/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1986690/",
        "season": ""
       }
      ]

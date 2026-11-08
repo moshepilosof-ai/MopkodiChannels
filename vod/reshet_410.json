@@ -8,24 +8,14 @@
    "series_id": "410",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb2367ab0fdc47ea8dabd2f8d2b6e2d8/version/9/width/800/height/1200/quality/90",
    "plot": "סדרה קומית מבית היוצר של חנן סביון וגיא עמיר (\"עספור\" ו\"מכתוב\"). אלדד ופיפו, צמד אחים לא יוצלחים, פותחים מלון בוטיק בירושלים, אך הדברים יוצאים משליטה",
-   "updated": "2026-11-08 11:29",
+   "updated": "2026-11-08 21:07",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
       {
-       "name": "שאטו עין כרם, עונה 1, פרק 6 - סיום עונה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2120e59e5b3942a59945f7ced5b93ab0/version/8/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bdvtjo0l/format/applehttp/protocol/https/a.m3u8",
-       "date": "2023-04-03",
-       "plot": "אורח מסתורי מגיע לשאטו ואלדד ופיפו חושדים שהוא מסתיר סוד שיזעזע את החיים הגם ככה מזעזעים שלהם. עם: גיא עמיר וחנן סביון",
-       "page": "",
-       "id": "--kaltura--1_bdvtjo0l===",
-       "season": "עונה 1"
-      },
-      {
        "name": "שאטו עין כרם, עונה 1, פרק 2 - מסיבת רווקות",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/86c59568e9d14ef28b6d7525deef857e/version/8/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/86c59568e9d14ef28b6d7525deef857e/version/10/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_25i5wtln/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "סדרה חדשה מהיוצרים של \"עספור\" ו\"מכתוב\" ובכיכובם! צמד אחים לא יוצלחים מנהלים מלון בוטיק בירושלים והערב: בשאטו נערכת מסיבת רווקות, הכל מסתבך כשמתברר שהכלה היא האקסית של אלדד. עם: חנן סביון וגיא עמיר",
@@ -34,18 +24,18 @@
        "season": "עונה 1"
       },
       {
-       "name": "שאטו עין כרם, עונה 1, פרק 5 - סבתא ג'ינה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe77d1dc5f68437c97d0dddb9bd9fbab/version/8/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_11d8nmb6/format/applehttp/protocol/https/a.m3u8",
+       "name": "שאטו עין כרם, עונה 1, פרק 6 - סיום עונה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2120e59e5b3942a59945f7ced5b93ab0/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bdvtjo0l/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
-       "plot": "סדרה קומית מהיוצרים של \"עספור\" ו\"מכתוב\" ובכיכובם! והערב: מה קורה כשרוצח מורשע והמשפחה הכי בעייתית באזור מחליטים לחגוג יום הולדת 90 לסבתא שלהם בשאטו",
+       "plot": "אורח מסתורי מגיע לשאטו ואלדד ופיפו חושדים שהוא מסתיר סוד שיזעזע את החיים הגם ככה מזעזעים שלהם. עם: גיא עמיר וחנן סביון",
        "page": "",
-       "id": "--kaltura--1_11d8nmb6===",
+       "id": "--kaltura--1_bdvtjo0l===",
        "season": "עונה 1"
       },
       {
        "name": "שאטו עין כרם, עונה 1, פרק 3 - בואי לאילת",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/849d03c9b2134df4b70e92576b299c69/version/8/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/849d03c9b2134df4b70e92576b299c69/version/10/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7c1crnxh/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "סדרה חדשה מהיוצרים של \"עספור\" ו\"מכתוב\" ובכיכובם! צמד אחים מנהלים מלון בוטיק בירושלים והערב: אלדד נוסע לכנס מנהלים באילת ומשאיר את המלון באחריות פיפו אבל לפיפו תכניות משלו... עם: חנן סביון וגיא עמיר",
@@ -54,23 +44,33 @@
        "season": "עונה 1"
       },
       {
-       "name": "שאטו עין כרם, עונה 1, פרק 4 - נערת השער",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37deb324a70d4554be10ed7fb16c639c/version/8/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jlm2zap0/format/applehttp/protocol/https/a.m3u8",
-       "date": "2023-03-30",
-       "plot": "סדרה קומית מהיוצרים של \"עספור\" ו\"מכתוב\" ובכיכובם! זוג אחים לא יוצלחים מנהלים יחד מלון בוטיק כושל, והפעם: מודעת שער בעיתון מוציאה את כל השדים מהעבר. מי תהיה נערת השער?",
+       "name": "שאטו עין כרם, עונה 1, פרק 5 - סבתא ג'ינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe77d1dc5f68437c97d0dddb9bd9fbab/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_11d8nmb6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סדרה קומית מהיוצרים של \"עספור\" ו\"מכתוב\" ובכיכובם! והערב: מה קורה כשרוצח מורשע והמשפחה הכי בעייתית באזור מחליטים לחגוג יום הולדת 90 לסבתא שלהם בשאטו",
        "page": "",
-       "id": "--kaltura--1_jlm2zap0===",
+       "id": "--kaltura--1_11d8nmb6===",
        "season": "עונה 1"
       },
       {
-       "name": "שאטו עין כרם, עונה 1, פרק 1 - פרק הבכורה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b14ba00cf33a4b728e746e4d90a57ff1/version/9/width/1280/height/720/quality/90",
+       "name": "שאטו עין כרם, עונה 1, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b14ba00cf33a4b728e746e4d90a57ff1/version/11/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5oj3qed5/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-03-30",
        "plot": "פרק בכורה לסדרה קומית חדשה מהיוצרים של \"עספור\" ו\"מכתוב\" ובכיכובם! אלדד ופיפו, צמד אחים לא יוצלחים, פותחים מלון בוטיק בירושלים. בזכות הכישרון והניסיון המפוקפקים שלהם הדברים יוצאים משליטה. עם: חנן סביון וגיא עמיר",
        "page": "",
        "id": "--kaltura--1_5oj3qed5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "שאטו עין כרם, עונה 1, פרק 4 - נערת השער",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37deb324a70d4554be10ed7fb16c639c/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jlm2zap0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "סדרה קומית מהיוצרים של \"עספור\" ו\"מכתוב\" ובכיכובם! זוג אחים לא יוצלחים מנהלים יחד מלון בוטיק כושל, והפעם: מודעת שער בעיתון מוציאה את כל השדים מהעבר. מי תהיה נערת השער?",
+       "page": "",
+       "id": "--kaltura--1_jlm2zap0===",
        "season": "עונה 1"
       }
      ]
@@ -80,7 +80,7 @@
      "channels": [
       {
        "name": "שאטו עין כרם, עונה 2, פרק 9 - שותפים ואחים",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52c0e20e1ef747228f1592ab2efd6e76/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52c0e20e1ef747228f1592ab2efd6e76/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wg05jyde/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: היחסים בין אלדד ופיפו מגיעים לשפל חדש, רק עזרה מקצועית תאפשר להם להמשיך יחד כשותפים וכאחים. משתתפים: חנן סביון וגיא עמיר",
@@ -89,8 +89,8 @@
        "season": "עונה 2"
       },
       {
-       "name": "שאטו עין כרם, עונה 2, פרק 8: מהפך במטבח",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d52666915c3d4717a9ff1177d7835341/version/8/width/1280/height/720/quality/90",
+       "name": "שאטו עין כרם, עונה 2, פרק 8 - מהפך במטבח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d52666915c3d4717a9ff1177d7835341/version/10/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yqsincn2/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "עונה חדשה לסדרה של יוצרי \"מכתוב\"! האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: תכנית הטלוויזיה \"באתי לעזרא\", באה לשקם את המלון. משתתפים: אקי אבני, חנן סביון וגיא עמיר",
@@ -100,7 +100,7 @@
       },
       {
        "name": "שאטו עין כרם, עונה 2, פרק 4 - מגדת עתידות",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8684866b98e2430c8463a198845339dc/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8684866b98e2430c8463a198845339dc/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h1t5pw14/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "עונה חדשה לסדרה של יוצרי \"מכתוב\"! האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: רצף אירועים הזויים בשאטו גורם לאחים לגייס את כוחות האופל. משתתפים: חנן סביון וגיא עמיר",
@@ -110,7 +110,7 @@
       },
       {
        "name": "שאטו עין כרם, עונה 2, פרק 3 - מאסטר שף",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7094da4a10f4e2f93bc93ebb5ca3a9b/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7094da4a10f4e2f93bc93ebb5ca3a9b/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3izai4uo/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "עונה חדשה לסדרה של יוצרי \"מכתוב\"! האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: פיפו קורס תחת הנטל במטבח ומרים תחרות שף מקומית. משתתפים: חנן סביון וגיא עמיר",
@@ -120,7 +120,7 @@
       },
       {
        "name": "שאטו עין כרם, עונה 2, פרק 2 - החבר של שירה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a83109ae13314b988b88d4c9e51b153f/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a83109ae13314b988b88d4c9e51b153f/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i2n7iwuj/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "עונה חדשה לסדרה של יוצרי \"מכתוב\"! האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: סודו של החבר החדש של שירה מתגלה לאחים ומעמיד אותם במבחן. משתתפים: חנן סביון וגיא עמיר",
@@ -130,7 +130,7 @@
       },
       {
        "name": "שאטו עין כרם, עונה 2, פרק 1 - פתרונות אבטחה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eee1ae413269494cb76cfb0625b25846/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eee1ae413269494cb76cfb0625b25846/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7p47pahn/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "עונה חדשה לסדרה של יוצרי \"מכתוב\"! האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: המצב הבטחוני מעלה את רמת החרדה והאחים מחפשים פתרונות אבטחה זולים. משתתפים: חנן סביון וגיא עמיר",
@@ -140,7 +140,7 @@
       },
       {
        "name": "שאטו עין כרם, עונה 2, פרק 6 - המאהב",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27e6f217e78d477a9274c70d3d74c4de/version/10/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27e6f217e78d477a9274c70d3d74c4de/version/12/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kkfz3ty3/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-03-30",
        "plot": "עונה חדשה לסדרה של יוצרי \"מכתוב\"! האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: היפה של השכונה עושה קאמבק שמרעיד את עין כרם. משתתפים: לירן כוהנר, חנן סביון וגיא עמיר",
@@ -150,7 +150,7 @@
       },
       {
        "name": "שאטו עין כרם, עונה 2, פרק 5 - הסנג'ר",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0687fa0a335f4ce88a98fd04b68637c2/version/8/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0687fa0a335f4ce88a98fd04b68637c2/version/10/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qsnpgnhf/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-03-30",
        "plot": "עונה חדשה לסדרה של יוצרי \"מכתוב\"! האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: אלדד מתוסכל מחוסר הרווחיות של המלון ובוחן מודל כלכלי חדש. משתתפים: חנן סביון וגיא עמיר",
@@ -160,7 +160,7 @@
       },
       {
        "name": "שאטו עין כרם, עונה 2, פרק 7 - חיים בסרט",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b24dc61b5174291ab52a4e0eb12080f/version/8/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b24dc61b5174291ab52a4e0eb12080f/version/10/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zbcdcf57/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-03-30",
        "plot": "עונה חדשה לסדרה של יוצרי \"מכתוב\"! האחים אלדד ופיפו, בעלי מלון בוטיק כושל, ממשיכים לסבך את החיים של כולם והערב: במאי מהולל מגיע לצלם את סרטו החדש בשאטו. משתתפים: ליאון רוזנברג, חנן סביון וגיא עמיר",

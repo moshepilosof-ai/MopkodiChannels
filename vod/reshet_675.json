@@ -8,11 +8,21 @@
    "series_id": "675",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b195c08ca50247518935668bbe3d5156/version/0/width/800/height/1200/quality/90",
    "plot": "חדשות 13 | מוריה וברקו - הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כל ערב ב-18:00 בערוץ 13",
-   "updated": "2026-11-08 11:34",
+   "updated": "2026-11-08 21:13",
    "sub_categories": [
     {
      "name": "תוכניות מלאות",
      "channels": [
+      {
+       "name": "מוריה וברקו 08.11.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2d13268c2f694d5ca5d8ddca8d2b16f7/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4690d7lr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-08",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_4690d7lr===",
+       "season": "תוכניות מלאות"
+      },
       {
        "name": "מוריה וברקו 07.11.26 - התכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/211f263674cd4d5db3f0cc7082790f4e/version/1/width/1280/height/720/quality/90",
@@ -985,7 +995,7 @@
       },
       {
        "name": "מוריה וברקו 12.07.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/503db3ac4ecf4f6dbdfd5386f113b131/version/97/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/503db3ac4ecf4f6dbdfd5386f113b131/version/98/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7yl9ft7l/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-13",
        "plot": "",
@@ -1245,7 +1255,7 @@
       },
       {
        "name": "מוריה וברקו 14.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fbdb92ce2fe45f6a27ca315f0583573/version/123/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0fbdb92ce2fe45f6a27ca315f0583573/version/124/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rriytyau/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-14",
        "plot": "",
@@ -1255,7 +1265,7 @@
       },
       {
        "name": "מוריה וברקו 13.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/26a969c1bad5479ba47c8a9afd6b83d9/version/124/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/26a969c1bad5479ba47c8a9afd6b83d9/version/125/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4451vkwz/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-13",
        "plot": "",
@@ -1275,7 +1285,7 @@
       },
       {
        "name": "מוריה וברקו 10.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c0cdb2179c7640d2b8735e32a594069b/version/126/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c0cdb2179c7640d2b8735e32a594069b/version/127/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9l4rfn3l/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-10",
        "plot": "",
@@ -1285,7 +1295,7 @@
       },
       {
        "name": "מוריה וברקו 09.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/466cbb6ff6b14e9682beecef2cdc96fc/version/127/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/466cbb6ff6b14e9682beecef2cdc96fc/version/128/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ep9g95xr/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-09",
        "plot": "",
@@ -1295,7 +1305,7 @@
       },
       {
        "name": "מוריה וברקו 08.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2a97fff010d4f72862927510f1d282a/version/128/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2a97fff010d4f72862927510f1d282a/version/129/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cwpsfjq7/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-08",
        "plot": "",
@@ -1305,7 +1315,7 @@
       },
       {
        "name": "מוריה וברקו 07.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/53547e4e1efd4999aa7a32c9a8330668/version/129/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/53547e4e1efd4999aa7a32c9a8330668/version/130/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_688ghgib/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-07",
        "plot": "",
@@ -1315,7 +1325,7 @@
       },
       {
        "name": "מוריה וברקו 06.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbe17c68fbd345338c8dd4aa6197a607/version/130/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbe17c68fbd345338c8dd4aa6197a607/version/131/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8cuajnaz/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-06",
        "plot": "",
@@ -1325,7 +1335,7 @@
       },
       {
        "name": "מוריה וברקו 04.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f724fe4eb5184083ab8170686ef09275/version/131/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f724fe4eb5184083ab8170686ef09275/version/132/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bqsewgg6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-04",
        "plot": "",
@@ -1335,7 +1345,7 @@
       },
       {
        "name": "מוריה וברקו 03.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13666a666dd549ffbcac8867d2a28d4f/version/132/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13666a666dd549ffbcac8867d2a28d4f/version/133/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g43lqb5r/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-03",
        "plot": "",
@@ -1345,7 +1355,7 @@
       },
       {
        "name": "מוריה וברקו 02.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4601f60d646b414f9a4a03bb5c42f73e/version/133/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4601f60d646b414f9a4a03bb5c42f73e/version/134/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_08rdhxar/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-02",
        "plot": "",
@@ -1355,7 +1365,7 @@
       },
       {
        "name": "מוריה וברקו 01.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b03c566e88c4fb1a5f68f5eb5ab18b7/version/134/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b03c566e88c4fb1a5f68f5eb5ab18b7/version/135/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ajiv9xpm/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-01",
        "plot": "",
@@ -1365,7 +1375,7 @@
       },
       {
        "name": "מוריה וברקו 31.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b34dcd8fbf94e52b6f84f096028aa7d/version/135/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b34dcd8fbf94e52b6f84f096028aa7d/version/136/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dvs9m3ab/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-31",
        "plot": "",
@@ -1375,7 +1385,7 @@
       },
       {
        "name": "מוריה וברקו 30.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfb0c36c4f424fa0b0d66bb5ac00f547/version/136/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfb0c36c4f424fa0b0d66bb5ac00f547/version/137/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j725ny02/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-30",
        "plot": "",
@@ -1385,7 +1395,7 @@
       },
       {
        "name": "מוריה וברקו 28.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6e5e38036c544f09bf36be3add39887/version/137/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6e5e38036c544f09bf36be3add39887/version/138/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ydjvtpn5/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-28",
        "plot": "",
@@ -1395,7 +1405,7 @@
       },
       {
        "name": "מוריה וברקו 27.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c2cf06bdb934dc58a88bbdaaf7602e7/version/138/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9c2cf06bdb934dc58a88bbdaaf7602e7/version/139/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5d3r9bvv/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-27",
        "plot": "",
@@ -1405,7 +1415,7 @@
       },
       {
        "name": "מוריה וברקו 26.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb45ef5dba1540fbb911d3345c78c5e4/version/139/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb45ef5dba1540fbb911d3345c78c5e4/version/140/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nr6e71rf/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-26",
        "plot": "",
@@ -1415,7 +1425,7 @@
       },
       {
        "name": "מוריה וברקו 25.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/401b5659532c472fb4b8f010181e6c0c/version/140/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/401b5659532c472fb4b8f010181e6c0c/version/141/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yr0xz347/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-25",
        "plot": "",
@@ -1425,7 +1435,7 @@
       },
       {
        "name": "מוריה וברקו 24.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a51df230ac641b9b3206558aac6c4a5/version/141/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a51df230ac641b9b3206558aac6c4a5/version/142/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6n4zspb2/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-24",
        "plot": "",
@@ -1435,7 +1445,7 @@
       },
       {
        "name": "מוריה וברקו 23.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbedb92f17e0401abaf0b4264976d0b2/version/142/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbedb92f17e0401abaf0b4264976d0b2/version/143/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9ecflvi4/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-23",
        "plot": "",
@@ -1445,7 +1455,7 @@
       },
       {
        "name": "מוריה וברקו 20.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/82e448038ac6467bb75108ae6a8509fa/version/143/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/82e448038ac6467bb75108ae6a8509fa/version/144/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t5cvyvt5/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-20",
        "plot": "",
@@ -1455,7 +1465,7 @@
       },
       {
        "name": "מוריה וברקו 19.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93d25701bee842ccab25214ce2a8d244/version/144/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93d25701bee842ccab25214ce2a8d244/version/145/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h7vpychs/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-19",
        "plot": "",
@@ -1465,7 +1475,7 @@
       },
       {
        "name": "מוריה וברקו 18.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1984feb2ea514ac7a6ac82152662ec63/version/145/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1984feb2ea514ac7a6ac82152662ec63/version/146/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2l4mkdkj/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-18",
        "plot": "",
@@ -1475,7 +1485,7 @@
       },
       {
        "name": "מוריה וברקו 17.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/02978237b14a4af39fe971ab8a5ad94d/version/146/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/02978237b14a4af39fe971ab8a5ad94d/version/147/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oz3dsedq/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-17",
        "plot": "",
@@ -1485,7 +1495,7 @@
       },
       {
        "name": "שיחת היום 17.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db2964d362274e71a0110a2bc9c95a9f/version/147/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/db2964d362274e71a0110a2bc9c95a9f/version/148/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ilum8f0y/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-17",
        "plot": "",
@@ -1495,7 +1505,7 @@
       },
       {
        "name": "מוריה וברקו 16.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47eeb540e6214ff8aa9eded99a4916a9/version/148/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47eeb540e6214ff8aa9eded99a4916a9/version/149/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bjfgfvjd/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-16",
        "plot": "",
@@ -1505,7 +1515,7 @@
       },
       {
        "name": "מוריה וברקו 14.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af97792350a74ee7b129c10206705bbb/version/149/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af97792350a74ee7b129c10206705bbb/version/150/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4quupgjv/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-14",
        "plot": "",
@@ -1515,7 +1525,7 @@
       },
       {
        "name": "מוריה וברקו 13.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07e7d5b6b6d343bea1e06976bd340511/version/150/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07e7d5b6b6d343bea1e06976bd340511/version/151/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e78gibzo/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-13",
        "plot": "",
@@ -1525,7 +1535,7 @@
       },
       {
        "name": "מוריה וברקו 12.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a912ff8480104c5eb5d11304f86c1ba1/version/151/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a912ff8480104c5eb5d11304f86c1ba1/version/152/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uoovd2k1/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-12",
        "plot": "",
@@ -1535,7 +1545,7 @@
       },
       {
        "name": "מוריה וברקו 11.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9e4905e3fa6d4bc1a02ad89f30fa527d/version/152/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9e4905e3fa6d4bc1a02ad89f30fa527d/version/153/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_abalcndq/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-11",
        "plot": "",
@@ -1545,7 +1555,7 @@
       },
       {
        "name": "מוריה וברקו 10.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14b35ee4edff464aa4a153a8ae7e46b9/version/152/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14b35ee4edff464aa4a153a8ae7e46b9/version/153/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_029fpi3f/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-10",
        "plot": "",
@@ -1555,7 +1565,7 @@
       },
       {
        "name": "מוריה וברקו 09.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41a5d09a8b474444875ded50c6c342f6/version/154/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41a5d09a8b474444875ded50c6c342f6/version/155/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jd8ngr03/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-09",
        "plot": "",
@@ -1565,7 +1575,7 @@
       },
       {
        "name": "מוריה וברקו 07.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7caaa1c72b504a5d9c1fa6f734e5717a/version/155/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7caaa1c72b504a5d9c1fa6f734e5717a/version/156/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qq8hfs34/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-07",
        "plot": "",
@@ -1575,7 +1585,7 @@
       },
       {
        "name": "מוריה וברקו 06.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16d0f6178e354f3283d7a665b663e055/version/156/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16d0f6178e354f3283d7a665b663e055/version/157/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6dme5bug/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-06",
        "plot": "",
@@ -1585,7 +1595,7 @@
       },
       {
        "name": "מוריה וברקו 05.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/245632a7c5e5481992e0f4d710a7426b/version/157/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/245632a7c5e5481992e0f4d710a7426b/version/158/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2gey6xtm/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-05",
        "plot": "",
@@ -1595,7 +1605,7 @@
       },
       {
        "name": "מוריה וברקו 04.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d63c1f6e071f457d995b0da3d807bb58/version/158/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d63c1f6e071f457d995b0da3d807bb58/version/159/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ocx7h6ph/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-04",
        "plot": "",
@@ -1605,7 +1615,7 @@
       },
       {
        "name": "מוריה וברקו 03.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b54c91b03554444786862479a77e0e9e/version/159/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b54c91b03554444786862479a77e0e9e/version/160/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w1flt9qg/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-03",
        "plot": "",
@@ -1615,7 +1625,7 @@
       },
       {
        "name": "מוריה וברקו 02.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4b270d103e7487c80d632fce4ce0fe2/version/160/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4b270d103e7487c80d632fce4ce0fe2/version/161/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h5d33tmb/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-02",
        "plot": "",
@@ -1625,7 +1635,7 @@
       },
       {
        "name": "מוריה וברקו 30.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/137241945c3245aba9ae57177cb4b1ac/version/161/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/137241945c3245aba9ae57177cb4b1ac/version/162/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5u7x0jb6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-30",
        "plot": "",
@@ -1635,7 +1645,7 @@
       },
       {
        "name": "מוריה וברקו 29.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34ddf1706a05490ba803f49d992ebbd5/version/162/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/34ddf1706a05490ba803f49d992ebbd5/version/163/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mkgcxx5m/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-29",
        "plot": "",
@@ -1645,7 +1655,7 @@
       },
       {
        "name": "מוריה וברקו 28.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a9a0e865dfd49f28eddcbd1cb0bb6c3/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a9a0e865dfd49f28eddcbd1cb0bb6c3/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bzzr2w8r/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-28",
        "plot": "",
@@ -1655,7 +1665,7 @@
       },
       {
        "name": "מוריה וברקו 27.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a81536fdea2f426fbe7a65fe3b4c74da/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a81536fdea2f426fbe7a65fe3b4c74da/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2onofi41/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-27",
        "plot": "",
@@ -1665,7 +1675,7 @@
       },
       {
        "name": "מוריה וברקו 26.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c382db7d2e3b47cbb47310b82aa34b34/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c382db7d2e3b47cbb47310b82aa34b34/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e5t93e9v/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-26",
        "plot": "",
@@ -1675,7 +1685,7 @@
       },
       {
        "name": "מוריה וברקו 25.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c1a72ef4a58d4dd8a92502ffbd5a0d3b/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c1a72ef4a58d4dd8a92502ffbd5a0d3b/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zomxjuq1/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-25",
        "plot": "",
@@ -1685,7 +1695,7 @@
       },
       {
        "name": "מוריה וברקו 23.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a50db96ac574542afcdd684d13ce595/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a50db96ac574542afcdd684d13ce595/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ns2nqmlc/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-23",
        "plot": "",
@@ -1695,7 +1705,7 @@
       },
       {
        "name": "מוריה וברקו 21.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a21e5c1cf9c41cfa3821c640c048a6b/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1a21e5c1cf9c41cfa3821c640c048a6b/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_76vho9h1/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-21",
        "plot": "",
@@ -1705,7 +1715,7 @@
       },
       {
        "name": "מוריה וברקו 20.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e4e389c3e834b1285318a90948a077a/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e4e389c3e834b1285318a90948a077a/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b5a86rhr/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-20",
        "plot": "",
@@ -1715,7 +1725,7 @@
       },
       {
        "name": "מוריה וברקו 19.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87710a44436344fb85632b0ab414228e/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87710a44436344fb85632b0ab414228e/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2s6f0mo2/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-19",
        "plot": "",
@@ -1725,7 +1735,7 @@
       },
       {
        "name": "מוריה וברקו 18.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c9cacc48dbd346d492b9cc6b868d5330/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c9cacc48dbd346d492b9cc6b868d5330/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mnr7gnyq/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-18",
        "plot": "",
@@ -1735,7 +1745,7 @@
       },
       {
        "name": "מוריה וברקו 16.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ba07e92a53140bf8d97934d2c50b18a/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ba07e92a53140bf8d97934d2c50b18a/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6yyh2ahy/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-16",
        "plot": "",
@@ -1745,7 +1755,7 @@
       },
       {
        "name": "מוריה וברקו 15.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a668c00e66ca48a09700fa38ba164246/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a668c00e66ca48a09700fa38ba164246/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l79q990h/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-15",
        "plot": "",
@@ -1755,7 +1765,7 @@
       },
       {
        "name": "מוריה וברקו 14.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5dd1cce55ab6481c91ab8de166e030d3/version/164/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5dd1cce55ab6481c91ab8de166e030d3/version/165/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k1uv3fs9/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-15",
        "plot": "",
@@ -1765,7 +1775,7 @@
       },
       {
        "name": "מוריה וברקו 13.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73b8639e07da4fbfafa8432e4f05e9df/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73b8639e07da4fbfafa8432e4f05e9df/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zn4ahe6y/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-13",
        "plot": "",
@@ -1775,7 +1785,7 @@
       },
       {
        "name": "מוריה וברקו 12.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79257f59439a4db39abf6f47e2de65e4/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79257f59439a4db39abf6f47e2de65e4/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1xzv5kaa/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-12",
        "plot": "",
@@ -1785,7 +1795,7 @@
       },
       {
        "name": "מוריה וברקו 11.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a0266f4f89f4282bfce251e8b8347e7/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a0266f4f89f4282bfce251e8b8347e7/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xxv300xy/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-11",
        "plot": "",
@@ -1795,7 +1805,7 @@
       },
       {
        "name": "מוריה וברקו 09.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b700a7e90f1e441eb01c75fa30d23e12/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b700a7e90f1e441eb01c75fa30d23e12/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_71soq27t/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-09",
        "plot": "",
@@ -1815,7 +1825,7 @@
       },
       {
        "name": "מוריה וברקו 06.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/23297b160d25426ea998d56d4e3c96ae/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/23297b160d25426ea998d56d4e3c96ae/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g3a1f0dv/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-06",
        "plot": "",
@@ -1825,7 +1835,7 @@
       },
       {
        "name": "מוריה וברקו 05.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f72c669237a46efa3e2aea054c27cdf/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8f72c669237a46efa3e2aea054c27cdf/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ua54pljw/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-05",
        "plot": "",
@@ -1835,7 +1845,7 @@
       },
       {
        "name": "מוריה וברקו 04.04.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d2428a59d4b46b9a60d77518e9d6fec/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d2428a59d4b46b9a60d77518e9d6fec/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_czmqy4i1/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-04",
        "plot": "",
@@ -1845,7 +1855,7 @@
       },
       {
        "name": "מוריה וברקו 31.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b543d1f8a74f426ab9aacfeddd2e0ac8/version/164/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b543d1f8a74f426ab9aacfeddd2e0ac8/version/165/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2jm0huj9/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-31",
        "plot": "",
@@ -1855,7 +1865,7 @@
       },
       {
        "name": "מוריה וברקו 30.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fdde93d215a64cf1ada977404a73dc23/version/165/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fdde93d215a64cf1ada977404a73dc23/version/166/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ryvvgeia/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-30",
        "plot": "",
@@ -1865,7 +1875,7 @@
       },
       {
        "name": "מוריה וברקו 29.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60e96a7193af4c18b4ca486ed780d17a/version/165/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/60e96a7193af4c18b4ca486ed780d17a/version/166/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_99kqj5lk/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-29",
        "plot": "",
@@ -1875,7 +1885,7 @@
       },
       {
        "name": "מוריה וברקו 28.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32cc1d081e3544c5a5ca3027ba5c613b/version/166/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32cc1d081e3544c5a5ca3027ba5c613b/version/167/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gxczy3gv/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-28",
        "plot": "",
@@ -1885,7 +1895,7 @@
       },
       {
        "name": "מוריה וברקו 26.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7705fac42f3b419fb2f69a97a0549e6a/version/167/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7705fac42f3b419fb2f69a97a0549e6a/version/168/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_67zmt734/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-26",
        "plot": "",
@@ -1895,7 +1905,7 @@
       },
       {
        "name": "מוריה וברקו 25.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ab56b71993c4d128a9e019f50fcf423/version/168/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ab56b71993c4d128a9e019f50fcf423/version/169/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_32txy83g/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-25",
        "plot": "",
@@ -1905,7 +1915,7 @@
       },
       {
        "name": "מוריה וברקו 24.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cc080bf36fcb461da738789665edef23/version/171/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cc080bf36fcb461da738789665edef23/version/172/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_651sjquo/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-24",
        "plot": "",
@@ -1915,7 +1925,7 @@
       },
       {
        "name": "מוריה וברקו 23.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17e2d5bc5e6e437aa7b4475dc2d3eba0/version/173/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17e2d5bc5e6e437aa7b4475dc2d3eba0/version/174/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8hgmtz8v/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-23",
        "plot": "",
@@ -1925,7 +1935,7 @@
       },
       {
        "name": "מוריה וברקו 22.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4fcfe2f5b2548098e567c4f5025f882/version/173/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4fcfe2f5b2548098e567c4f5025f882/version/174/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z1h2qmk8/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-22",
        "plot": "",
@@ -1935,7 +1945,7 @@
       },
       {
        "name": "מוריה וברקו 21.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8a7d0836e37445285b7857778fb82f5/version/173/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8a7d0836e37445285b7857778fb82f5/version/174/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_91gomcxc/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-21",
        "plot": "",
@@ -1945,7 +1955,7 @@
       },
       {
        "name": "מוריה וברקו 19.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/029dd2e3bd4749cfb05e404e5381f074/version/174/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/029dd2e3bd4749cfb05e404e5381f074/version/175/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k29df7nk/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-19",
        "plot": "",
@@ -1955,7 +1965,7 @@
       },
       {
        "name": "מוריה וברקו 18.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59f9f233c38c4eada416f447698b79a2/version/174/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59f9f233c38c4eada416f447698b79a2/version/175/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iyh1uj1o/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-18",
        "plot": "",
@@ -1965,7 +1975,7 @@
       },
       {
        "name": "מוריה וברקו 17.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17248d5f2ba143ff91cc362fd0b7f829/version/173/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17248d5f2ba143ff91cc362fd0b7f829/version/174/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pa0eu4e0/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-17",
        "plot": "",
@@ -1975,7 +1985,7 @@
       },
       {
        "name": "מוריה וברקו 16.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16dcf3b0bbde45dc985df3da220c94b2/version/174/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16dcf3b0bbde45dc985df3da220c94b2/version/175/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z20e889l/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-16",
        "plot": "",
@@ -1985,7 +1995,7 @@
       },
       {
        "name": "מוריה וברקו 15.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af9711210a894aa0bfa78b00743f739d/version/174/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/af9711210a894aa0bfa78b00743f739d/version/175/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fdup7f54/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-15",
        "plot": "",
@@ -1995,7 +2005,7 @@
       },
       {
        "name": "מוריה וברקו 14.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/670089fdde7143d59722b584bd9c840c/version/174/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/670089fdde7143d59722b584bd9c840c/version/175/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xfii6fl4/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-14",
        "plot": "",
@@ -2005,7 +2015,7 @@
       },
       {
        "name": "מוריה וברקו 13.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5126de05b59d4663b8acec21f9c03ca8/version/176/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5126de05b59d4663b8acec21f9c03ca8/version/177/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hwgrzgv6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-12",
        "plot": "",
@@ -2015,7 +2025,7 @@
       },
       {
        "name": "מוריה וברקו 11.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/538f03198b8d41b196e3829efe314a52/version/175/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/538f03198b8d41b196e3829efe314a52/version/176/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dgnkn0w6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-11",
        "plot": "",
@@ -2025,7 +2035,7 @@
       },
       {
        "name": "מוריה וברקו 10.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2e85432f0b504026a519b1b92670ef9b/version/175/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2e85432f0b504026a519b1b92670ef9b/version/176/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8rpe7izd/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-10",
        "plot": "",
@@ -2035,7 +2045,7 @@
       },
       {
        "name": "מוריה וברקו 09.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbe8d184d90e4d708aa9317f77240eb0/version/176/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbe8d184d90e4d708aa9317f77240eb0/version/177/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tn7n522f/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-09",
        "plot": "",
@@ -2045,7 +2055,7 @@
       },
       {
        "name": "מוריה וברקו 08.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/207bde89f88a474eb3028eea998eea5b/version/175/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/207bde89f88a474eb3028eea998eea5b/version/176/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w5amobzx/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-08",
        "plot": "",
@@ -2055,7 +2065,7 @@
       },
       {
        "name": "מוריה וברקו 07.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ee296e99d1947249db5efbdd0cf309e/version/179/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ee296e99d1947249db5efbdd0cf309e/version/180/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v3lpssii/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-07",
        "plot": "",
@@ -2065,7 +2075,7 @@
       },
       {
        "name": "מוריה וברקו 05.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52835062289646ecb51a083c4936e275/version/178/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52835062289646ecb51a083c4936e275/version/179/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wv8h5jxr/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-05",
        "plot": "",
@@ -2075,7 +2085,7 @@
       },
       {
        "name": "מוריה וברקו 04.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d22ae2b5ca744c1bac51d821ee0bc2ac/version/179/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d22ae2b5ca744c1bac51d821ee0bc2ac/version/180/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8z0vd7nt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-04",
        "plot": "",
@@ -2085,7 +2095,7 @@
       },
       {
        "name": "מוריה וברקו 02.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd148b724d1343dba1aed643de63b3be/version/182/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bd148b724d1343dba1aed643de63b3be/version/183/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7r7nwpr0/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-04",
        "plot": "",
@@ -2095,7 +2105,7 @@
       },
       {
        "name": "מוריה וברקו 02.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf16b88545b143d09cc473140f1f643a/version/181/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf16b88545b143d09cc473140f1f643a/version/182/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fgqz8pak/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-02",
        "plot": "",
@@ -2105,7 +2115,7 @@
       },
       {
        "name": "מוריה וברקו 01.03.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0f4b417e091140a487053bb0415275d1/version/181/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0f4b417e091140a487053bb0415275d1/version/182/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gms6ugdv/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-03-01",
        "plot": "",
@@ -2115,7 +2125,7 @@
       },
       {
        "name": "מוריה וברקו 26.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9643037ddd7547ad83306e9aec89b491/version/185/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9643037ddd7547ad83306e9aec89b491/version/186/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k2hbnlrh/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-26",
        "plot": "",
@@ -2125,7 +2135,7 @@
       },
       {
        "name": "מוריה וברקו 25.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2294db6869524727aa859e6932352d24/version/186/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2294db6869524727aa859e6932352d24/version/187/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zy6f824m/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-25",
        "plot": "",
@@ -2135,7 +2145,7 @@
       },
       {
        "name": "מוריה וברקו 24.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a37851e00f8c4e8d98f927992b4ab4bf/version/186/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a37851e00f8c4e8d98f927992b4ab4bf/version/187/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ahh1t0th/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-24",
        "plot": "",
@@ -2145,7 +2155,7 @@
       },
       {
        "name": "מוריה וברקו 23.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f18b85e867f4f7c832818b4b55a5ec8/version/190/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f18b85e867f4f7c832818b4b55a5ec8/version/191/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rfdz3yb3/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-23",
        "plot": "",
@@ -2155,7 +2165,7 @@
       },
       {
        "name": "מוריה וברקו 22.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/350d024f64a849a68ba61d0928fd5def/version/187/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/350d024f64a849a68ba61d0928fd5def/version/188/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mzk8oh0d/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-22",
        "plot": "",
@@ -2165,7 +2175,7 @@
       },
       {
        "name": "מוריה וברקו 21.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/82d0880d55f64391a5e8278a3f12f4f4/version/189/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/82d0880d55f64391a5e8278a3f12f4f4/version/190/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tg76gx21/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-21",
        "plot": "",
@@ -2175,7 +2185,7 @@
       },
       {
        "name": "מוריה וברקו 19.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2f34ba784ad54e55be69ce09ae6e1ab9/version/191/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2f34ba784ad54e55be69ce09ae6e1ab9/version/192/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1cfhkqhh/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-19",
        "plot": "",
@@ -2185,7 +2195,7 @@
       },
       {
        "name": "מוריה וברקו 18.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d58c91b3d80d421f982f6b23208866b3/version/192/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d58c91b3d80d421f982f6b23208866b3/version/193/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_redup9zp/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-18",
        "plot": "",
@@ -2195,7 +2205,7 @@
       },
       {
        "name": "מוריה וברקו 17.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/708a5d3539e34318956e2b009e8863b4/version/195/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/708a5d3539e34318956e2b009e8863b4/version/196/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_swr0ujlm/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-17",
        "plot": "",
@@ -2205,7 +2215,7 @@
       },
       {
        "name": "מוריה וברקו 16.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e358efeaf5f44bb4b24f9d6ea9da3df5/version/193/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e358efeaf5f44bb4b24f9d6ea9da3df5/version/194/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e1nmcehd/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-16",
        "plot": "",
@@ -2215,7 +2225,7 @@
       },
       {
        "name": "מוריה וברקו 15.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d692e9b93d1b44089f711149ee0e5b32/version/193/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d692e9b93d1b44089f711149ee0e5b32/version/194/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0jpe00w1/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-15",
        "plot": "",
@@ -2225,7 +2235,7 @@
       },
       {
        "name": "מוריה וברקו 14.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32a7c3a370b1496db545b49c54fa751a/version/195/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/32a7c3a370b1496db545b49c54fa751a/version/196/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p75xn29w/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-14",
        "plot": "",
@@ -2235,7 +2245,7 @@
       },
       {
        "name": "מוריה וברקו 12.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/86cb78810dae45bab1621d9cacef2353/version/198/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/86cb78810dae45bab1621d9cacef2353/version/199/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0p6pgvhf/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-12",
        "plot": "",
@@ -2245,7 +2255,7 @@
       },
       {
        "name": "מוריה וברקו 11.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0706443cddba44309223688d2f6be05f/version/198/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0706443cddba44309223688d2f6be05f/version/199/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_448j0mys/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-11",
        "plot": "",
@@ -2255,7 +2265,7 @@
       },
       {
        "name": "מוריה וברקו 10.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d9d2d694709455e8ee7d554ec0a693b/version/199/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d9d2d694709455e8ee7d554ec0a693b/version/200/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8xlmwp3w/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-10",
        "plot": "",
@@ -2265,7 +2275,7 @@
       },
       {
        "name": "מוריה וברקו 09.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4a960f9a4ca4b848332a3fb44b717b5/version/199/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f4a960f9a4ca4b848332a3fb44b717b5/version/200/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c986aibt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-09",
        "plot": "",
@@ -2275,7 +2285,7 @@
       },
       {
        "name": "מוריה וברקו 08.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b7c3d2be8014da88fe52602602e63eb/version/201/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b7c3d2be8014da88fe52602602e63eb/version/202/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o83mvrlt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-08",
        "plot": "",
@@ -2285,7 +2295,7 @@
       },
       {
        "name": "מוריה וברקו 07.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5bab9c72fbcf465fbfd04ec3b51c342f/version/201/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5bab9c72fbcf465fbfd04ec3b51c342f/version/202/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ggdj6k89/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-07",
        "plot": "",
@@ -2295,7 +2305,7 @@
       },
       {
        "name": "מוריה וברקו 05.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51bb9ffe9a2a4eb7b025b1a1efdccc25/version/201/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51bb9ffe9a2a4eb7b025b1a1efdccc25/version/202/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bqvpbjzc/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-05",
        "plot": "",
@@ -2305,7 +2315,7 @@
       },
       {
        "name": "מוריה וברקו 04.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d532264fb284ffb979e90e5cd7111cb/version/205/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d532264fb284ffb979e90e5cd7111cb/version/206/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9z9dd708/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-04",
        "plot": "",
@@ -2315,7 +2325,7 @@
       },
       {
        "name": "מוריה וברקו 03.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/28754cf617ad498c8e62a42f2741b216/version/204/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/28754cf617ad498c8e62a42f2741b216/version/205/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7sb98bw4/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-03",
        "plot": "",
@@ -2325,7 +2335,7 @@
       },
       {
        "name": "מוריה וברקו 02.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/505e0212f46045bd9a24a7bb88a78dc6/version/205/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/505e0212f46045bd9a24a7bb88a78dc6/version/206/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_omjvqtlp/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-02",
        "plot": "",
@@ -2335,7 +2345,7 @@
       },
       {
        "name": "מוריה וברקו 01.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa14b157e68f4c4981a8ce4e6c0cbdcd/version/208/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa14b157e68f4c4981a8ce4e6c0cbdcd/version/209/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9hb0rb6f/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-01",
        "plot": "",
@@ -2345,7 +2355,7 @@
       },
       {
        "name": "מוריה וברקו 31.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/635a8f592de04f27ae647730b7362ea8/version/209/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/635a8f592de04f27ae647730b7362ea8/version/210/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1evtlbrn/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-31",
        "plot": "",
@@ -2355,7 +2365,7 @@
       },
       {
        "name": "מוריה וברקו 29.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a0b4e796cd64dfe83566536c9e7a282/version/210/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a0b4e796cd64dfe83566536c9e7a282/version/211/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5uze8xjt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-29",
        "plot": "",
@@ -2365,7 +2375,7 @@
       },
       {
        "name": "מוריה וברקו 28.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84598805a5da4dc3930b944f73a5293b/version/212/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84598805a5da4dc3930b944f73a5293b/version/213/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_me7bkx5r/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-28",
        "plot": "",
@@ -2375,7 +2385,7 @@
       },
       {
        "name": "מוריה וברקו 27.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a60642c42fcc429fae49a0747739b1ca/version/213/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a60642c42fcc429fae49a0747739b1ca/version/214/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3vdeliqt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-27",
        "plot": "",
@@ -2385,7 +2395,7 @@
       },
       {
        "name": "מוריה וברקו 26.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1429ce7abd6f4928a6a3fc8a2ebff80e/version/212/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1429ce7abd6f4928a6a3fc8a2ebff80e/version/213/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m8ma0ga7/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-26",
        "plot": "",
@@ -2395,7 +2405,7 @@
       },
       {
        "name": "שיחת היום 26.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/342f9c7b37134ab28c8d3c7bad003423/version/214/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/342f9c7b37134ab28c8d3c7bad003423/version/215/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1nrkwtgg/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-26",
        "plot": "",
@@ -2405,7 +2415,7 @@
       },
       {
        "name": "מוריה וברקו 25.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be4d6628c207480da1e20b1850c73369/version/214/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be4d6628c207480da1e20b1850c73369/version/215/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yz90sazt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-25",
        "plot": "",
@@ -2415,7 +2425,7 @@
       },
       {
        "name": "מוריה וברקו 24.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ea276942ab044d080b694bab5ac5df0/version/215/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ea276942ab044d080b694bab5ac5df0/version/216/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5z1ldrii/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-24",
        "plot": "",
@@ -2425,7 +2435,7 @@
       },
       {
        "name": "מוריה וברקו 22.01.26 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1cd46576aad47a9a887212110f089ba/version/215/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e1cd46576aad47a9a887212110f089ba/version/216/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_la9mq5fe/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-22",
        "plot": "",
@@ -2445,7 +2455,7 @@
       },
       {
        "name": "מוריה וברקו 20.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/890340ed1cf34fcdb0278cc23a10dc53/version/221/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/890340ed1cf34fcdb0278cc23a10dc53/version/222/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wt8wwg2z/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-20",
        "plot": "",
@@ -2455,7 +2465,7 @@
       },
       {
        "name": "מוריה וברקו 19.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8763df7a366e488a9abf0e992a3cbb23/version/216/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8763df7a366e488a9abf0e992a3cbb23/version/217/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ofkxgrvv/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-19",
        "plot": "",
@@ -2465,7 +2475,7 @@
       },
       {
        "name": "מוריה וברקו 18.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/45b884e4432d4deb958aff41496948a7/version/220/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/45b884e4432d4deb958aff41496948a7/version/221/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w5hgo4ep/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-18",
        "plot": "",
@@ -2475,7 +2485,7 @@
       },
       {
        "name": "מוריה וברקו 17.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf07cb0d42904de3883597794987f1c3/version/217/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cf07cb0d42904de3883597794987f1c3/version/218/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wj3tvx21/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-17",
        "plot": "",
@@ -2485,7 +2495,7 @@
       },
       {
        "name": "מוריה וברקו 15.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e466f0e60e094f13b8fe9a627886893a/version/218/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e466f0e60e094f13b8fe9a627886893a/version/219/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l5naibvw/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-15",
        "plot": "",
@@ -2495,7 +2505,7 @@
       },
       {
        "name": "מוריה וברקו 14.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8f13cc6b2cb4864bd5c226ce138c108/version/221/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8f13cc6b2cb4864bd5c226ce138c108/version/222/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1cgrhzdh/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-14",
        "plot": "",
@@ -2505,7 +2515,7 @@
       },
       {
        "name": "מוריה וברקו 13.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cfdb9e00689f465fa82cef3af21d13d9/version/219/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cfdb9e00689f465fa82cef3af21d13d9/version/220/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3rdpmpne/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-13",
        "plot": "",
@@ -2515,7 +2525,7 @@
       },
       {
        "name": "מוריה וברקו 12.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bb6ab7f271a4b58ae9e8abf69b5acae/version/222/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bb6ab7f271a4b58ae9e8abf69b5acae/version/223/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r6x2r2rd/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-12",
        "plot": "",
@@ -2525,7 +2535,7 @@
       },
       {
        "name": "מוריה וברקו 11.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/94ba6181333e42df900b33ecf83dd672/version/218/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/94ba6181333e42df900b33ecf83dd672/version/219/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_10euu18v/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-11",
        "plot": "",
@@ -2535,7 +2545,7 @@
       },
       {
        "name": "מוריה וברקו 10.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/750ab50fd74a4ea19a7829a813e48808/version/219/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/750ab50fd74a4ea19a7829a813e48808/version/220/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t4amjjmo/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-10",
        "plot": "",
@@ -2545,7 +2555,7 @@
       },
       {
        "name": "מוריה וברקו 08.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ed89e4e571d43798360d60a1deefe92/version/219/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ed89e4e571d43798360d60a1deefe92/version/220/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bclz3vcc/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-08",
        "plot": "",
@@ -2555,7 +2565,7 @@
       },
       {
        "name": "מוריה וברקו 07.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d53bbb926de44ca900e5dcff58020f2/version/219/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d53bbb926de44ca900e5dcff58020f2/version/220/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bn7hsxp7/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-08",
        "plot": "",
@@ -2565,7 +2575,7 @@
       },
       {
        "name": "מוריה וברקו 06.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c066806eb95247bc9189e0de228397ce/version/218/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c066806eb95247bc9189e0de228397ce/version/219/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tb0hutvs/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-06",
        "plot": "",
@@ -2575,7 +2585,7 @@
       },
       {
        "name": "מוריה וברקו 05.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc78b31330d34a97ab6c81447ff0b076/version/221/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc78b31330d34a97ab6c81447ff0b076/version/222/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i68iiq78/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-05",
        "plot": "",
@@ -2585,7 +2595,7 @@
       },
       {
        "name": "מוריה וברקו 04.01.26- התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/201dd09535aa46a49abbe6b91a5d9cd5/version/221/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/201dd09535aa46a49abbe6b91a5d9cd5/version/222/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_df6tvlng/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-04",
        "plot": "",
@@ -2595,7 +2605,7 @@
       },
       {
        "name": "מוריה וברקו 03.01.26- התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d202cc54d75c48cebab1d7f36e9bebd7/version/221/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d202cc54d75c48cebab1d7f36e9bebd7/version/222/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a7squ5yn/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-03",
        "plot": "",
@@ -2605,7 +2615,7 @@
       },
       {
        "name": "מוריה וברקו 01.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05c47c3a442843cea11471bec6d4b230/version/225/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05c47c3a442843cea11471bec6d4b230/version/226/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ymn4krdu/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-01",
        "plot": "",
@@ -2615,7 +2625,7 @@
       },
       {
        "name": "מוריה וברקו 31.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5c2c7a6735f417790fc9fe3c6e1eeb9/version/225/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5c2c7a6735f417790fc9fe3c6e1eeb9/version/226/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i5e2t3eg/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-31",
        "plot": "",
@@ -2625,7 +2635,7 @@
       },
       {
        "name": "מוריה וברקו 30.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8496789233e44374b34f8bdb6ad37df3/version/225/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8496789233e44374b34f8bdb6ad37df3/version/226/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mmwa7hp2/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-30",
        "plot": "",
@@ -2635,7 +2645,7 @@
       },
       {
        "name": "מוריה וברקו 29.12.25  - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95944909dd734018bbded20d58b97436/version/226/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95944909dd734018bbded20d58b97436/version/227/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kdjhqdgo/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-29",
        "plot": "",
@@ -2645,7 +2655,7 @@
       },
       {
        "name": "מוריה וברקו 28.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d383741bc654fb2bfe9a7c2782eb1c1/version/231/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d383741bc654fb2bfe9a7c2782eb1c1/version/232/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eezmb7eh/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-28",
        "plot": "",
@@ -2655,7 +2665,7 @@
       },
       {
        "name": "מוריה וברקו 27.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fd7780c4eb74d6fa215a8605b2ea902/version/229/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fd7780c4eb74d6fa215a8605b2ea902/version/230/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d3rewioo/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-27",
        "plot": "",
@@ -2665,7 +2675,7 @@
       },
       {
        "name": "מוריה וברקו 25.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3af06613c6c4a058a991e1d5a716e66/version/227/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3af06613c6c4a058a991e1d5a716e66/version/228/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6b3qj4sd/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-25",
        "plot": "",
@@ -2675,7 +2685,7 @@
       },
       {
        "name": "מוריה וברקו 24.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2b48be86126491d9328fd49daca0646/version/235/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2b48be86126491d9328fd49daca0646/version/236/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dt4mp385/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-24",
        "plot": "",
@@ -2685,7 +2695,7 @@
       },
       {
        "name": "מוריה וברקו 23.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6de9b105fdad4cf78495ea39803fe579/version/234/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6de9b105fdad4cf78495ea39803fe579/version/235/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bm8u42wp/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-23",
        "plot": "",
@@ -2695,7 +2705,7 @@
       },
       {
        "name": "מוריה וברקו 22.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ee98e5005384ddfb8e72f2b719ffcde/version/235/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ee98e5005384ddfb8e72f2b719ffcde/version/236/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7t593sj9/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-22",
        "plot": "",
@@ -2705,7 +2715,7 @@
       },
       {
        "name": "מוריה וברקו 21.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b05b6d47fe10436dabda9cd6a319f8cf/version/240/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b05b6d47fe10436dabda9cd6a319f8cf/version/241/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1sipoc06/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-21",
        "plot": "",
@@ -2715,7 +2725,7 @@
       },
       {
        "name": "מוריה וברקו 20.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f10a55c375f4e11a3bfe2e5d3ea02d0/version/233/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6f10a55c375f4e11a3bfe2e5d3ea02d0/version/234/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ydwia45b/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-20",
        "plot": "",
@@ -2725,7 +2735,7 @@
       },
       {
        "name": "מוריה וברקו 18.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/26c5794f65294b73a7f8bd002f69acd8/version/234/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/26c5794f65294b73a7f8bd002f69acd8/version/235/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mxhdciqp/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-18",
        "plot": "",
@@ -2735,7 +2745,7 @@
       },
       {
        "name": "מוריה וברקו 17.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c8280d76816c45b49d4b63014ee42041/version/237/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c8280d76816c45b49d4b63014ee42041/version/238/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ildpvh9e/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-17",
        "plot": "",
@@ -2745,7 +2755,7 @@
       },
       {
        "name": "מוריה וברקו 16.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2defb4bbbe9d4608be523c57a44452ac/version/239/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2defb4bbbe9d4608be523c57a44452ac/version/240/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kk4j5d2d/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-16",
        "plot": "",
@@ -2755,7 +2765,7 @@
       },
       {
        "name": "מוריה וברקו 15.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87528b1da6f2445982420de58e793cb0/version/240/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87528b1da6f2445982420de58e793cb0/version/241/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gh2o34iz/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-15",
        "plot": "",
@@ -2765,7 +2775,7 @@
       },
       {
        "name": "מוריה וברקו 14.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9fcc8e07d0b4457aa136fd73a960a0ca/version/242/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9fcc8e07d0b4457aa136fd73a960a0ca/version/243/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gvwdzy8a/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-14",
        "plot": "",
@@ -2775,7 +2785,7 @@
       },
       {
        "name": "מוריה וברקו 13.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d597296a2cb1416287554fc15235454f/version/243/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d597296a2cb1416287554fc15235454f/version/244/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z1k6ncru/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-13",
        "plot": "",
@@ -2785,7 +2795,7 @@
       },
       {
        "name": "מוריה וברקו 11.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/55d4ad72f2e64ec586abcae5b8618995/version/241/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/55d4ad72f2e64ec586abcae5b8618995/version/242/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yf3evkyc/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-11",
        "plot": "",
@@ -2795,7 +2805,7 @@
       },
       {
        "name": "מוריה וברקו 10.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/99984e544aa14f12a306e8f5c7bfff8c/version/245/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/99984e544aa14f12a306e8f5c7bfff8c/version/246/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lss4fq49/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-10",
        "plot": "",
@@ -2805,7 +2815,7 @@
       },
       {
        "name": "מוריה וברקו 09.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a45ae46b16874b858a0e1a34a1fb4fef/version/242/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a45ae46b16874b858a0e1a34a1fb4fef/version/243/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pnta3rlk/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-09",
        "plot": "",
@@ -2815,7 +2825,7 @@
       },
       {
        "name": "מוריה וברקו 08.12.2025 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b904ddd58c954748958d10a88dca1fe6/version/248/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b904ddd58c954748958d10a88dca1fe6/version/249/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gfd6l01c/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-08",
        "plot": "",
@@ -2825,7 +2835,7 @@
       },
       {
        "name": "מוריה וברקו 06.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b114f7a2895343298d30f9dd61029180/version/248/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b114f7a2895343298d30f9dd61029180/version/249/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ark3bjiw/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-06",
        "plot": "",
@@ -2835,7 +2845,7 @@
       },
       {
        "name": "מוריה וברקו 04.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1172893cdd3943b6985f54b7d2e3b94a/version/246/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1172893cdd3943b6985f54b7d2e3b94a/version/247/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8ssipx41/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-04",
        "plot": "",
@@ -2845,7 +2855,7 @@
       },
       {
        "name": "מוריה וברקו 03.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/464c4c0f146c440ea92caf27c9baed48/version/250/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/464c4c0f146c440ea92caf27c9baed48/version/251/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o9sq8xl0/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-03",
        "plot": "",
@@ -2855,7 +2865,7 @@
       },
       {
        "name": "מוריה וברקו 02.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27a44a8da4504d86ac2356e63d102a41/version/250/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27a44a8da4504d86ac2356e63d102a41/version/251/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_87qhd73n/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-02",
        "plot": "",
@@ -2865,7 +2875,7 @@
       },
       {
        "name": "מוריה וברקו 01.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c4d1232b1fb944c993dd2186fb854199/version/246/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c4d1232b1fb944c993dd2186fb854199/version/247/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v8exswzy/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-01",
        "plot": "",
@@ -2875,7 +2885,7 @@
       },
       {
        "name": "מוריה וברקו 30.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a1803c96cf047e68e1dc37ab5b053f1/version/254/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a1803c96cf047e68e1dc37ab5b053f1/version/255/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_00z73qoh/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-30",
        "plot": "",
@@ -2885,7 +2895,7 @@
       },
       {
        "name": "מוריה וברקו 29.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/760a1617170e477a9e2eba83a950efa1/version/251/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/760a1617170e477a9e2eba83a950efa1/version/252/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p0bri9cr/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-29",
        "plot": "",
@@ -2895,7 +2905,7 @@
       },
       {
        "name": "מוריה וברקו 27.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9276719ab2de4f8bb34487c591da5861/version/251/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9276719ab2de4f8bb34487c591da5861/version/252/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fz5ytvmz/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-27",
        "plot": "",
@@ -2905,7 +2915,7 @@
       },
       {
        "name": "מוריה וברקו 26.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ac201ef71fa4bc9b8901e0f839f02fc/version/251/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ac201ef71fa4bc9b8901e0f839f02fc/version/252/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c84d61h9/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-26",
        "plot": "",
@@ -2915,7 +2925,7 @@
       },
       {
        "name": "מוריה וברקו 25.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6347f3a382934f5b9cb4485b9661b73d/version/288/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6347f3a382934f5b9cb4485b9661b73d/version/289/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oscusdza/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-25",
        "plot": "",
@@ -2925,7 +2935,7 @@
       },
       {
        "name": "מוריה וברקו 24.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b67c8344fd24b47a035f7e2917054c7/version/290/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b67c8344fd24b47a035f7e2917054c7/version/291/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_es8e63bg/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-24",
        "plot": "",
@@ -2935,7 +2945,7 @@
       },
       {
        "name": "מוריה וברקו 23.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90568abb7a2c4d8c9b86d8aa43dc9b47/version/292/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90568abb7a2c4d8c9b86d8aa43dc9b47/version/293/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p3zrcksq/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-23",
        "plot": "",
@@ -2945,7 +2955,7 @@
       },
       {
        "name": "מוריה וברקו 22.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c5f890c486c44afb9154e19b515185d/version/286/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3c5f890c486c44afb9154e19b515185d/version/287/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x6tytg0u/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-22",
        "plot": "",
@@ -2955,7 +2965,7 @@
       },
       {
        "name": "מוריה וברקו 20.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fad629f4b83d48809c138d9e1f51fb2d/version/290/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fad629f4b83d48809c138d9e1f51fb2d/version/291/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_elar85bb/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-20",
        "plot": "",
@@ -2965,7 +2975,7 @@
       },
       {
        "name": "מוריה וברקו 19.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/12762b7aee844861a16d8baafa215551/version/287/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/12762b7aee844861a16d8baafa215551/version/288/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ee8dmeft/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-19",
        "plot": "",
@@ -2975,7 +2985,7 @@
       },
       {
        "name": "מוריה וברקו 18.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ef29610f67c4877b95a18ce0860af5f/version/293/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ef29610f67c4877b95a18ce0860af5f/version/294/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2cm4voat/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-18",
        "plot": "",
@@ -2985,7 +2995,7 @@
       },
       {
        "name": "מוריה וברקו 17.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eef5418cb4f149b9bdef60bf958b33ba/version/295/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eef5418cb4f149b9bdef60bf958b33ba/version/296/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_81zxohai/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-17",
        "plot": "",
@@ -2995,7 +3005,7 @@
       },
       {
        "name": "מוריה וברקו 16.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7ab3928f3384a61b41d07519cdc4b34/version/292/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7ab3928f3384a61b41d07519cdc4b34/version/293/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mg2v341j/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-16",
        "plot": "",
@@ -3005,7 +3015,7 @@
       },
       {
        "name": "מוריה וברקו 15.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ce3c688ae13b48bca88ca74db44349ce/version/297/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ce3c688ae13b48bca88ca74db44349ce/version/298/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bt7i37c4/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-15",
        "plot": "",
@@ -3015,7 +3025,7 @@
       },
       {
        "name": "מוריה וברקו 13.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfa8fddbe497447ea8e9e81ad8e2b3e8/version/298/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfa8fddbe497447ea8e9e81ad8e2b3e8/version/299/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_36zswlg1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-13",
        "plot": "",
@@ -3025,7 +3035,7 @@
       },
       {
        "name": "מוריה וברקו 12.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b510b0e6e4124700a9e2838886da3dce/version/296/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b510b0e6e4124700a9e2838886da3dce/version/297/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lxksfnuc/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-12",
        "plot": "",
@@ -3035,7 +3045,7 @@
       },
       {
        "name": "מוריה וברקו 11.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6552ea637b1b4de192eae8cfd4a618f4/version/295/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6552ea637b1b4de192eae8cfd4a618f4/version/296/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5vv0w7jx/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-11",
        "plot": "",
@@ -3045,7 +3055,7 @@
       },
       {
        "name": "מוריה וברקו 10.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e08d4e4110e4c8dbcfdcb7e033133d6/version/296/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e08d4e4110e4c8dbcfdcb7e033133d6/version/297/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c0xdldla/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-10",
        "plot": "",
@@ -3055,7 +3065,7 @@
       },
       {
        "name": "מוריה וברקו 09.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e20a75044c40427291b11ed9639627cc/version/303/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e20a75044c40427291b11ed9639627cc/version/304/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_02gbnv2u/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-09",
        "plot": "",
@@ -3065,7 +3075,7 @@
       },
       {
        "name": "מוריה וברקו 08.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3bdfa17ed0144e868c7a846d371114f6/version/303/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3bdfa17ed0144e868c7a846d371114f6/version/304/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qslgd7tl/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-08",
        "plot": "",
@@ -3075,7 +3085,7 @@
       },
       {
        "name": "מוריה וברקו 06.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aef6d722ba904a11b73d9afee3183ba7/version/304/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aef6d722ba904a11b73d9afee3183ba7/version/305/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g3ey6jv3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-06",
        "plot": "",
@@ -3085,7 +3095,7 @@
       },
       {
        "name": "מוריה וברקו 05.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a2f06376ade47f181c70fbb25a3752d/version/302/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3a2f06376ade47f181c70fbb25a3752d/version/303/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lo2zbeja/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-05",
        "plot": "",
@@ -3095,7 +3105,7 @@
       },
       {
        "name": "מוריה וברקו 04.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d4701196d3742558a3472d58c793b72/version/304/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3d4701196d3742558a3472d58c793b72/version/305/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nkd8nakz/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-04",
        "plot": "",
@@ -3105,7 +3115,7 @@
       },
       {
        "name": "מוריה וברקו 03.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77a81901f0b44279900622911a4862d1/version/309/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77a81901f0b44279900622911a4862d1/version/310/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_83ozxe4z/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-03",
        "plot": "",
@@ -3115,7 +3125,7 @@
       },
       {
        "name": "מוריה וברקו 02.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd973c3b79d741d6bed69f022bfd90fe/version/307/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd973c3b79d741d6bed69f022bfd90fe/version/308/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4710g8ok/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-02",
        "plot": "",
@@ -3125,7 +3135,7 @@
       },
       {
        "name": "מוריה וברקו 01.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ebde18ab9347458db5e913587cf11b8d/version/310/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ebde18ab9347458db5e913587cf11b8d/version/311/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fbkn5zgw/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-01",
        "plot": "",
@@ -3135,7 +3145,7 @@
       },
       {
        "name": "מוריה וברקו 30.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0eb56ad4a8004bbabfa53cc49d16b1a7/version/313/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0eb56ad4a8004bbabfa53cc49d16b1a7/version/314/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4x0nimpk/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-30",
        "plot": "",
@@ -3145,7 +3155,7 @@
       },
       {
        "name": "מוריה וברקו 29.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b9f9e2ca3ab4d169f8d74863d7c9722/version/317/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8b9f9e2ca3ab4d169f8d74863d7c9722/version/318/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_osvr01qc/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-29",
        "plot": "",
@@ -3155,7 +3165,7 @@
       },
       {
        "name": "מוריה וברקו 28.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d9c1d8a46040479e9ee215c70e848ba9/version/319/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d9c1d8a46040479e9ee215c70e848ba9/version/320/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j01uuxg5/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-28",
        "plot": "",
@@ -3165,7 +3175,7 @@
       },
       {
        "name": "מוריה וברקו 27.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fc679d51324424eb77f72ca62bda6df/version/315/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fc679d51324424eb77f72ca62bda6df/version/316/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c9n8hpyu/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-27",
        "plot": "",
@@ -3175,7 +3185,7 @@
       },
       {
        "name": "מוריה וברקו 26.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab558f6783ea46cdab101d1aa6c813ed/version/318/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab558f6783ea46cdab101d1aa6c813ed/version/319/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sucd79a3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-26",
        "plot": "",
@@ -3185,7 +3195,7 @@
       },
       {
        "name": "מוריה וברקו 25.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b0f6065fc504f41800e9fc7c0fbbc91/version/318/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b0f6065fc504f41800e9fc7c0fbbc91/version/319/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_076g0oz3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-25",
        "plot": "",
@@ -3195,7 +3205,7 @@
       },
       {
        "name": "מוריה וברקו 23.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a985e542ab8478b86013bc71daa0b29/version/319/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a985e542ab8478b86013bc71daa0b29/version/320/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1tg90ycr/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-23",
        "plot": "",
@@ -3205,7 +3215,7 @@
       },
       {
        "name": "מוריה וברקו 22.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cce81bf70bb84092935126814f29efc4/version/324/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cce81bf70bb84092935126814f29efc4/version/325/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7x2letrb/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-22",
        "plot": "",
@@ -3215,7 +3225,7 @@
       },
       {
        "name": "מוריה וברקו 21.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/daef8597fe914ff297d203f9060badd9/version/326/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/daef8597fe914ff297d203f9060badd9/version/327/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8wfgl2os/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-21",
        "plot": "",
@@ -3225,7 +3235,7 @@
       },
       {
        "name": "מוריה וברקו 20.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/588e130553f5410c837223a2026b3e84/version/330/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/588e130553f5410c837223a2026b3e84/version/331/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u0saxtdf/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-20",
        "plot": "",
@@ -3235,7 +3245,7 @@
       },
       {
        "name": "מוריה וברקו 19.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a6030f2fe0114c93a723a41033a90ca1/version/325/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a6030f2fe0114c93a723a41033a90ca1/version/326/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kxstne3d/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-19",
        "plot": "",
@@ -3245,7 +3255,7 @@
       },
       {
        "name": "מוריה וברקו 18.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ea1b324f9764a9fab079575174b0d6e/version/329/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8ea1b324f9764a9fab079575174b0d6e/version/330/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nlnwvybo/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-18",
        "plot": "",
@@ -3255,7 +3265,7 @@
       },
       {
        "name": "מוריה וברקו 16.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6010730fd4a14cc6b76cc0d3fd8dfd66/version/332/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6010730fd4a14cc6b76cc0d3fd8dfd66/version/333/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yzag5h2r/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-16",
        "plot": "",
@@ -3265,7 +3275,7 @@
       },
       {
        "name": "מוריה וברקו 15.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a3b22d95140a48c9ab169d111d69cb46/version/337/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a3b22d95140a48c9ab169d111d69cb46/version/338/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u5a6443u/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-15",
        "plot": "",
@@ -3275,7 +3285,7 @@
       },
       {
        "name": "מוריה וברקו 13.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f447c19bf45942a98166c01005545da5/version/337/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f447c19bf45942a98166c01005545da5/version/338/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rt3wqc08/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-13",
        "plot": "",
@@ -3285,7 +3295,7 @@
       },
       {
        "name": "מוריה וברקו 12.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b24e833709942448b165f57a7b5c7a1/version/339/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6b24e833709942448b165f57a7b5c7a1/version/340/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lw1paq7q/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-12",
        "plot": "",
@@ -3295,7 +3305,7 @@
       },
       {
        "name": "מוריה וברקו 11.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c3f65012ed74c80bb4b5501a2ab063c/version/341/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c3f65012ed74c80bb4b5501a2ab063c/version/342/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ij03lnt1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-11",
        "plot": "",
@@ -3305,7 +3315,7 @@
       },
       {
        "name": "מוריה וברקו 08.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f340cba93264434f9b8b5c9f96a5a47d/version/348/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f340cba93264434f9b8b5c9f96a5a47d/version/349/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_70oz7on7/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-08",
        "plot": "",
@@ -3315,7 +3325,7 @@
       },
       {
        "name": "מוריה וברקו 05.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca5a327ce7e746dd9b3a73f3e1a633bf/version/342/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca5a327ce7e746dd9b3a73f3e1a633bf/version/343/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h3n5mc2g/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-05",
        "plot": "",
@@ -3325,7 +3335,7 @@
       },
       {
        "name": "מוריה וברקו 04.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e128137d2b3f4289874e1902a50adef6/version/350/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e128137d2b3f4289874e1902a50adef6/version/351/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vufexvs4/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-04",
        "plot": "",
@@ -3335,7 +3345,7 @@
       },
       {
        "name": "מוריה וברקו 30.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ec4c6ade6a64572ae7fec8a967255ce/version/346/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ec4c6ade6a64572ae7fec8a967255ce/version/347/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2kvlodic/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-30",
        "plot": "",
@@ -3345,7 +3355,7 @@
       },
       {
        "name": "מוריה וברקו 29.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/29d11fb1107d479aba2aa4f88d4288b8/version/354/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/29d11fb1107d479aba2aa4f88d4288b8/version/355/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yd1jbxy8/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-29",
        "plot": "",
@@ -3355,7 +3365,7 @@
       },
       {
        "name": "מוריה וברקו 28.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2706990e07c04ab78a451ae330de8539/version/356/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2706990e07c04ab78a451ae330de8539/version/357/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_51grrsuj/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-28",
        "plot": "",
@@ -3365,7 +3375,7 @@
       },
       {
        "name": "מוריה וברקו 27.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35b9b571cab14364b3e0a5392a4a3884/version/353/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35b9b571cab14364b3e0a5392a4a3884/version/354/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2nmguygo/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-27",
        "plot": "",
@@ -3375,7 +3385,7 @@
       },
       {
        "name": "מוריה וברקו 25.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b4b6f887dd91402898ea891030a58adb/version/365/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b4b6f887dd91402898ea891030a58adb/version/366/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f1fu25w9/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-25",
        "plot": "",
@@ -3385,7 +3395,7 @@
       },
       {
        "name": "מוריה וברקו 21.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/068ee78b5bf741a3a2a6055d556cf256/version/360/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/068ee78b5bf741a3a2a6055d556cf256/version/361/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ou2qz82j/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-21",
        "plot": "",
@@ -3395,7 +3405,7 @@
       },
       {
        "name": "מוריה וברקו 20.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9faa7093469b4208ab698d13398c7ab4/version/356/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9faa7093469b4208ab698d13398c7ab4/version/357/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vxv3jc48/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-20",
        "plot": "",
@@ -3405,7 +3415,7 @@
       },
       {
        "name": "מוריה וברקו 18.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a5427d7487945a086b14adb2d8ce6a1/version/360/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a5427d7487945a086b14adb2d8ce6a1/version/361/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1eowwmv9/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-18",
        "plot": "",
@@ -3415,7 +3425,7 @@
       },
       {
        "name": "מוריה וברקו 17.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c8d287297a340bca45cd85222c7a8d5/version/364/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c8d287297a340bca45cd85222c7a8d5/version/365/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_djhakitb/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-17",
        "plot": "",
@@ -3425,7 +3435,7 @@
       },
       {
        "name": "מוריה וברקו 15.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa8f5f9d088046dc9ab93dd8e0be4d45/version/366/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aa8f5f9d088046dc9ab93dd8e0be4d45/version/367/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2m479ir0/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-15",
        "plot": "",
@@ -3435,7 +3445,7 @@
       },
       {
        "name": "מוריה וברקו 14.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c9b92d7ce48b463ea88ff275296791f5/version/370/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c9b92d7ce48b463ea88ff275296791f5/version/371/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k19loa1n/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-14",
        "plot": "",
@@ -3445,7 +3455,7 @@
       },
       {
        "name": "מוריה וברקו 13.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a80524f50622414fa57bfb6168de9fba/version/376/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a80524f50622414fa57bfb6168de9fba/version/377/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_35w8113v/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-13",
        "plot": "",
@@ -3455,7 +3465,7 @@
       },
       {
        "name": "מוריה וברקו 11.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/032eec214c0f48d1abb63aa400efee25/version/379/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/032eec214c0f48d1abb63aa400efee25/version/380/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_itour3f2/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-11",
        "plot": "",
@@ -3465,7 +3475,7 @@
       },
       {
        "name": "מוריה וברקו 09.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f5c58e67f8434a588ed1c53cbd7c71c5/version/376/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f5c58e67f8434a588ed1c53cbd7c71c5/version/377/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e92udxn8/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-09",
        "plot": "",
@@ -3475,7 +3485,7 @@
       },
       {
        "name": "מוריה וברקו 08.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2c3d3b150a54859b8f782afff1485e4/version/382/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2c3d3b150a54859b8f782afff1485e4/version/383/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zdanxdb1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-08",
        "plot": "",
@@ -3485,7 +3495,7 @@
       },
       {
        "name": "מוריה וברקו 07.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b7391ab1a9144463b2d85bea1a51a0df/version/383/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b7391ab1a9144463b2d85bea1a51a0df/version/384/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lg6szk03/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-07",
        "plot": "",
@@ -3495,7 +3505,7 @@
       },
       {
        "name": "מוריה וברקו 06.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/76dd9bfbfd504d73869e3a40ff546d85/version/382/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/76dd9bfbfd504d73869e3a40ff546d85/version/383/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wdymcice/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-06",
        "plot": "",
@@ -3505,7 +3515,7 @@
       },
       {
        "name": "מוריה וברקו 04.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b6735aeeffa4df19f3fec6136dae095/version/389/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b6735aeeffa4df19f3fec6136dae095/version/390/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6ofuxu7u/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-04",
        "plot": "",
@@ -3515,7 +3525,7 @@
       },
       {
        "name": "מוריה וברקו 03.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4942927817844526aa538ebee210167b/version/386/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4942927817844526aa538ebee210167b/version/387/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1hln5xqf/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-03",
        "plot": "",
@@ -3525,7 +3535,7 @@
       },
       {
        "name": "מוריה וברקו 02.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3eedcc6d6ab40daace2bc1971f36c50/version/391/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3eedcc6d6ab40daace2bc1971f36c50/version/392/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qi7j1iki/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-02",
        "plot": "",
@@ -3535,7 +3545,7 @@
       },
       {
        "name": "מוריה וברקו 01.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/729ed795750148fb886883b9a1835233/version/390/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/729ed795750148fb886883b9a1835233/version/391/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tstj1gje/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-01",
        "plot": "",
@@ -3545,7 +3555,7 @@
       },
       {
        "name": "מוריה וברקו 30.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bb4fcbbfe6844755bfff2fa369c557a7/version/400/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bb4fcbbfe6844755bfff2fa369c557a7/version/401/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_di603yxg/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-30",
        "plot": "",
@@ -3555,7 +3565,7 @@
       },
       {
        "name": "מוריה וברקו 23.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef767677dde9411e9fcd9406f23acae6/version/396/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef767677dde9411e9fcd9406f23acae6/version/397/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_99sfordd/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-23",
        "plot": "",
@@ -3565,7 +3575,7 @@
       },
       {
        "name": "מוריה וברקו 16.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/935c0533ce0244e0bf04f2b5d15388b0/version/396/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/935c0533ce0244e0bf04f2b5d15388b0/version/397/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w48381hw/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-16",
        "plot": "",
@@ -3575,7 +3585,7 @@
       },
       {
        "name": "מוריה וברקו 09.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64744dfbd2864d84bb66bb30b8334a45/version/400/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64744dfbd2864d84bb66bb30b8334a45/version/401/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0lppvkon/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-09",
        "plot": "",
@@ -3585,7 +3595,7 @@
       },
       {
        "name": "מוריה וברקו 02.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a85329536ae467e80489e79ebf1de65/version/401/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a85329536ae467e80489e79ebf1de65/version/402/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2xhr2xsy/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-02",
        "plot": "",
@@ -3595,7 +3605,7 @@
       },
       {
        "name": "מוריה וברקו 26.07.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/25bc97e84cca4e6b8c4ed16642bb2c80/version/397/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/25bc97e84cca4e6b8c4ed16642bb2c80/version/398/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s2x4kmfe/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-26",
        "plot": "",
@@ -3605,7 +3615,7 @@
       },
       {
        "name": "מוריה וברקו 19.07.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbc462857869457398cf7f878b080d2e/version/409/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbc462857869457398cf7f878b080d2e/version/410/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ny70sz1l/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-19",
        "plot": "",
@@ -3615,7 +3625,7 @@
       },
       {
        "name": "מוריה וברקו 05.07.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/914bc2cae3e0431cb6e79e00b96e0696/version/410/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/914bc2cae3e0431cb6e79e00b96e0696/version/411/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0lgsia82/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-05",
        "plot": "",
@@ -3625,7 +3635,7 @@
       },
       {
        "name": "מוריה וברקו 20.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8bef9d4e181e4b8f8c210e5c76d018a9/version/410/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8bef9d4e181e4b8f8c210e5c76d018a9/version/411/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ypsll9yg/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-29",
        "plot": "",
@@ -3635,7 +3645,7 @@
       },
       {
        "name": "מוריה וברקו 28.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64afd4c0300245a681a066d48f24f87f/version/416/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/64afd4c0300245a681a066d48f24f87f/version/417/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5q3ch17b/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-28",
        "plot": "",
@@ -3645,7 +3655,7 @@
       },
       {
        "name": "מוריה וברקו 24.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1d1023f1fd4141f783ab19facbfb3170/version/418/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1d1023f1fd4141f783ab19facbfb3170/version/419/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ssvfpp6j/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-24",
        "plot": "",
@@ -3655,7 +3665,7 @@
       },
       {
        "name": "מוריה וברקו 23.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8d97036a65b14f1db6e0fe20e3a46412/version/415/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8d97036a65b14f1db6e0fe20e3a46412/version/416/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4rhms0gx/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-23",
        "plot": "",
@@ -3665,7 +3675,7 @@
       },
       {
        "name": "מוריה וברקו 22.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab267aef22394dbb85c9c86d90b014f0/version/424/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab267aef22394dbb85c9c86d90b014f0/version/425/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5rlenlb1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-22",
        "plot": "",
@@ -3675,7 +3685,7 @@
       },
       {
        "name": "מוריה וברקו 21.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d1f5c9ac3e74f9a8530284dbef7b2d8/version/425/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d1f5c9ac3e74f9a8530284dbef7b2d8/version/426/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vl71wlia/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-21",
        "plot": "",
@@ -3685,7 +3695,7 @@
       },
       {
        "name": "מוריה וברקו 19.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e4c42c5ad59478f865fbd10794778b8/version/425/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0e4c42c5ad59478f865fbd10794778b8/version/426/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w7auny57/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-19",
        "plot": "",
@@ -3695,7 +3705,7 @@
       },
       {
        "name": "מוריה וברקו 18.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/479c6a6fc2bc44e78f89db071dfd5fe1/version/429/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/479c6a6fc2bc44e78f89db071dfd5fe1/version/430/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bc1urdj3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-18",
        "plot": "",
@@ -3705,7 +3715,7 @@
       },
       {
        "name": "מוריה וברקו 17.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/126fb6de25b54d3a9ffa299aec13954f/version/428/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/126fb6de25b54d3a9ffa299aec13954f/version/429/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wlzy7iud/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-17",
        "plot": "",
@@ -3715,7 +3725,7 @@
       },
       {
        "name": "מוריה וברקו 14.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b25f734fab0488cab63ee715d1e7ecb/version/424/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b25f734fab0488cab63ee715d1e7ecb/version/425/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iairw9t3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-14",
        "plot": "",
@@ -3725,7 +3735,7 @@
       },
       {
        "name": "מוריה וברקו 07.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/539821ad863d4089a49a2b985c9f8ac0/version/432/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/539821ad863d4089a49a2b985c9f8ac0/version/433/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j26lde9p/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-07",
        "plot": "",
@@ -3735,7 +3745,7 @@
       },
       {
        "name": "מוריה וברקו 31.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f7a9a6a139b4ca987220c245ea01d9e/version/432/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f7a9a6a139b4ca987220c245ea01d9e/version/433/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_en94xfnj/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-31",
        "plot": "",
@@ -3745,7 +3755,7 @@
       },
       {
        "name": "מוריה וברקו 24.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/293b2da8f0a64544b58f866347a397ef/version/438/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/293b2da8f0a64544b58f866347a397ef/version/439/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qsgma5at/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-24",
        "plot": "",
@@ -3755,7 +3765,7 @@
       },
       {
        "name": "מוריה וברקו 17.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37a6bdc4246b4a51b216e344c2934a37/version/442/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/37a6bdc4246b4a51b216e344c2934a37/version/443/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t2gsh5lp/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-17",
        "plot": "",
@@ -3765,7 +3775,7 @@
       },
       {
        "name": "מוריה וברקו 10.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d78a475c21c24fe38b10239e34eadb5b/version/436/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d78a475c21c24fe38b10239e34eadb5b/version/437/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_erwfgts2/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-10",
        "plot": "",
@@ -3775,7 +3785,7 @@
       },
       {
        "name": "מוריה וברקו 03.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/861ea346179f4509ae6259c1575f4fd3/version/439/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/861ea346179f4509ae6259c1575f4fd3/version/440/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dyitmtg9/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-04",
        "plot": "",
@@ -3785,7 +3795,7 @@
       },
       {
        "name": "מוריה וברקו 26.04.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17d866244223452e81efc3e0c2dbd0d4/version/445/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/17d866244223452e81efc3e0c2dbd0d4/version/446/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pwru62xz/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-26",
        "plot": "",
@@ -3795,7 +3805,7 @@
       },
       {
        "name": "מוריה וברקו 19.04.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e64943beab9b4db9a5e18d5223706db4/version/451/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e64943beab9b4db9a5e18d5223706db4/version/452/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wwjcp7av/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-19",
        "plot": "",
@@ -3805,7 +3815,7 @@
       },
       {
        "name": "מוריה וברקו 05.04.25 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1725ad11ee9143b2aada5dca7ab1c8e6/version/447/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1725ad11ee9143b2aada5dca7ab1c8e6/version/448/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vvajqv88/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-05",
        "plot": "",
@@ -3815,7 +3825,7 @@
       },
       {
        "name": "מוריה וברקו 29.03.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79e5207a016f45aaa08276d323ce30e5/version/452/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79e5207a016f45aaa08276d323ce30e5/version/453/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w3egwxis/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-29",
        "plot": "",
@@ -3825,7 +3835,7 @@
       },
       {
        "name": "מוריה וברקו 22.03.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee718394af2041578884a36407376f17/version/454/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee718394af2041578884a36407376f17/version/455/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cjnt7s6j/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-22",
        "plot": "",
@@ -3835,7 +3845,7 @@
       },
       {
        "name": "מוריה וברקו 15.03.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95317d8cb4124e49a747805b7d6a855c/version/461/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/95317d8cb4124e49a747805b7d6a855c/version/462/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8k10iqgm/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-15",
        "plot": "",
@@ -3845,7 +3855,7 @@
       },
       {
        "name": "מוריה וברקו 08.03.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1c5d837f710b4e1bb5879ac51f808706/version/460/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1c5d837f710b4e1bb5879ac51f808706/version/461/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5t7navco/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-08",
        "plot": "",
@@ -3855,7 +3865,7 @@
       },
       {
        "name": "מוריה וברקו 01.03.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbb8a76ea918493c86837e01ed3db511/version/463/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbb8a76ea918493c86837e01ed3db511/version/464/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cgfemrfu/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-01",
        "plot": "",
