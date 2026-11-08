@@ -6,13 +6,43 @@
    "source": "sport5",
    "program_url": "3084",
    "series_id": "3084",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1798167.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1801392.jpg",
    "plot": "",
-   "updated": "2026-11-05 19:15",
+   "updated": "2026-11-08 12:23",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "סינאיוקו סידר לפריז 0:1 מול אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1801392.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AUXERRE_071126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AUXERRE_071126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=566821&poster",
+       "season": ""
+      },
+      {
+       "name": "ניצחון ליגה שביעי ברציפות: פ.ס.ז גברה על טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1801394.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_071126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_071126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=566672&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "ניצחון גדול לטולוז על שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1800786.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOU_STR_061126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOU_STR_061126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=566596&poster",
+       "season": ""
+      },
       {
        "name": "ליון גברה על אנז'ה ונצמדה לליל בצמרת",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1798167.jpg",
@@ -182,42 +212,42 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LE_MANS_190926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561226&poster",
        "season": ""
-      },
-      {
-       "name": "צמד לטנגסטדט, 2:3 לטולוז על לה האבר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1778148.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOULOUSE_190926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOULOUSE_190926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=561225&poste",
-       "season": ""
-      },
-      {
-       "name": "שער ניצחון לפראן, פ.ס.ז` השיגה ניצחון בכורה בליגה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1775282.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_130926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_130926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=560536&poster=htt",
-       "season": ""
-      },
-      {
-       "name": "אחרי פיגור כפול: לאנס חזרה ל-2:2 עם לה מאן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1775107.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LANS_130926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LANS_130926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=560535&poster=ht",
-       "season": ""
       }
      ]
     },
     {
      "name": "הליגה הצרפתית - 2026/27",
      "channels": [
+      {
+       "name": "סינאיוקו סידר לפריז 0:1 מול אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1801392.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AUXERRE_071126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_AUXERRE_071126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "ניצחון ליגה שביעי ברציפות: פ.ס.ז גברה על טרואה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1801394.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_071126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_071126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "ניצחון גדול לטולוז על שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1800786.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOU_STR_061126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOU_STR_061126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
       {
        "name": "ליון גברה על אנז'ה ונצמדה לליל בצמרת",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1798167.jpg",
@@ -386,36 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LE_MANS_190926/HLS/playlist.m3u8",
-       "season": "הליגה הצרפתית - 2026/27"
-      },
-      {
-       "name": "צמד לטנגסטדט, 2:3 לטולוז על לה האבר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1778148.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOULOUSE_190926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOULOUSE_190926/HLS/playlist.m3u8",
-       "season": "הליגה הצרפתית - 2026/27"
-      },
-      {
-       "name": "שער ניצחון לפראן, פ.ס.ז` השיגה ניצחון בכורה בליגה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1775282.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_130926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_130926/HLS/playlist.m3u8",
-       "season": "הליגה הצרפתית - 2026/27"
-      },
-      {
-       "name": "אחרי פיגור כפול: לאנס חזרה ל-2:2 עם לה מאן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1775107.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LANS_130926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LANS_130926/HLS/playlist.m3u8",
        "season": "הליגה הצרפתית - 2026/27"
       }
      ]

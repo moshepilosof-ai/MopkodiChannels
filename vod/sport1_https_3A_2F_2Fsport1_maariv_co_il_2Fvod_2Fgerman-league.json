@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fgerman-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fgerman-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291161",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292093",
    "plot": "",
-   "updated": "2026-11-05 19:25",
+   "updated": "2026-11-08 12:33",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: באיירן מינכן – בורוסיה דורטמונד 2:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291161",
+       "name": "תקציר: דורטמונד – אס.וה. אלברסברג 1:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292093",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117173/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1991505/",
+       "season": ""
+      },
+      {
+       "name": "צפו: באיירן מינכן ניצחה 1:2 את מיינץ ושמרה על הפסגה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292094",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117165/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/1991502/",
+       "season": ""
+      },
+      {
+       "name": "צפו: באיירן מינכן הוליכה פעמיים אבל דורטמונד חילצה 2:2 דרמטי בקלאסיקר",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291161",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4115082/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/german-league/video/1967786/",
-       "season": ""
-      },
-      {
-       "name": "צפו: נוייר טעה, באיירן מינכן סיימה ב-2:2 מאכזב מול אוגסבורג",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1288237",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4108080/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/german-league/video/1967778/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: באיירן מינכן – אוניון ברלין 0:7",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285917",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102883/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/german-league/video/1952310/",
        "season": ""
       }
      ]

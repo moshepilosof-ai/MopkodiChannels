@@ -8,14 +8,24 @@
    "series_id": "480",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be180a2ab5444b939f3a2bf20048b819/version/1/width/800/height/1200/quality/90",
    "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד\"ר הדר ישראלי",
-   "updated": "2026-11-06 23:56",
+   "updated": "2026-11-08 11:30",
    "sub_categories": [
     {
      "name": "פרקים מלאים",
      "channels": [
       {
+       "name": "מילון היופי - פרק 358 המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05c1d0293ff8413fb624006c56756556/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1mcj2i3q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-07",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_1mcj2i3q===",
+       "season": "פרקים מלאים"
+      },
+      {
        "name": "מילון היופי - פרק 357 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0334131c46cd41afa888d649d026f324/version/1/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0334131c46cd41afa888d649d026f324/version/2/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_50zs7wab/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-31",
        "plot": "",
@@ -25,7 +35,7 @@
       },
       {
        "name": "מילון היופי - פרק 356 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b222d386c738437bb0e748036ef841a2/version/2/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b222d386c738437bb0e748036ef841a2/version/3/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nvywd9gh/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-24",
        "plot": "",
@@ -35,7 +45,7 @@
       },
       {
        "name": "מילון היופי - פרק 355 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/12f84ca4e384470f8a00fbe53deaf7ab/version/3/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/12f84ca4e384470f8a00fbe53deaf7ab/version/4/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_52m2aff6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-18",
        "plot": "",
@@ -45,7 +55,7 @@
       },
       {
        "name": "מילון היופי - פרק 354 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e506b029f95945ad8f6bd10ccb2c57f8/version/4/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e506b029f95945ad8f6bd10ccb2c57f8/version/5/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2v77tmgw/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-10",
        "plot": "",
@@ -55,7 +65,7 @@
       },
       {
        "name": "מילון היופי - פרק 353 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/36af034746be4c90848ae14c1770e112/version/5/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/36af034746be4c90848ae14c1770e112/version/6/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k5viapeg/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-04",
        "plot": "",
@@ -65,7 +75,7 @@
       },
       {
        "name": "מילון היופי – פרק 352 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c8fd449e0cbd4e72a437eeb0bd2a8115/version/6/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c8fd449e0cbd4e72a437eeb0bd2a8115/version/7/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ueyvvi0k/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-26",
        "plot": "",
@@ -75,7 +85,7 @@
       },
       {
        "name": "מילון היופי – פרק 351 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cab50b0020c247249784a471ad442836/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cab50b0020c247249784a471ad442836/version/8/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aecna7px/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-19",
        "plot": "",
@@ -85,7 +95,7 @@
       },
       {
        "name": "מילון היופי – פרק 350 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2427973acf34c70a2a00adf6cb45e6c/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2427973acf34c70a2a00adf6cb45e6c/version/8/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2tgyr3lw/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-19",
        "plot": "",
@@ -95,7 +105,7 @@
       },
       {
        "name": "מילון היופי – פרק 349 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac28c347b2d14d16a74eec44d3758e84/version/8/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac28c347b2d14d16a74eec44d3758e84/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fs2sv3bi/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-05",
        "plot": "",
@@ -105,7 +115,7 @@
       },
       {
        "name": "מילון היופי - פרק 348 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16567ae67a7446129a0160a1c996786d/version/9/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/16567ae67a7446129a0160a1c996786d/version/10/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sc17bheh/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-29",
        "plot": "",
@@ -115,7 +125,7 @@
       },
       {
        "name": "מילון היופי – פרק 347 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e726dcb15e24588903e3fc5dd3972b5/version/10/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e726dcb15e24588903e3fc5dd3972b5/version/11/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uft8c28b/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-22",
        "plot": "",
@@ -125,7 +135,7 @@
       },
       {
        "name": "מילון היופי – פרק 346 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/547359ae83f04091a6aff78489025854/version/11/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/547359ae83f04091a6aff78489025854/version/12/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rm7m6qzw/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-15",
        "plot": "",
@@ -135,7 +145,7 @@
       },
       {
        "name": "מילון היופי - פרק 345 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a4c54dc4cde348a8bcfb459d1211f976/version/12/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a4c54dc4cde348a8bcfb459d1211f976/version/13/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dnwe5mh0/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-08",
        "plot": "",
@@ -145,7 +155,7 @@
       },
       {
        "name": "מילון היופי - פרק 344 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a665132676f948d09dffb51d1ebe0f98/version/13/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a665132676f948d09dffb51d1ebe0f98/version/14/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_psokbkuy/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-01",
        "plot": "",
@@ -155,7 +165,7 @@
       },
       {
        "name": "מילון היופי - פרק 342 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b1dc4f8dddf49a59c78afadb45a9124/version/13/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b1dc4f8dddf49a59c78afadb45a9124/version/14/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_on36zrcf/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-26",
        "plot": "",
@@ -165,7 +175,7 @@
       },
       {
        "name": "מילון היופי - פרק 343 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f247dad00384bb88c9a0b822f09a676/version/13/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f247dad00384bb88c9a0b822f09a676/version/14/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uf0lvvec/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-26",
        "plot": "",
@@ -175,7 +185,7 @@
       },
       {
        "name": "מילון היופי - פרק 341 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d84018880ed4fd89cd82fdd28df91f1/version/14/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d84018880ed4fd89cd82fdd28df91f1/version/15/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sb4omj55/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-11",
        "plot": "",
@@ -185,7 +195,7 @@
       },
       {
        "name": "מילון היופי – פרק 340 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd74f3f5e45b42ba89e932499e7d79c5/version/15/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd74f3f5e45b42ba89e932499e7d79c5/version/16/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jqfn09xk/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-04",
        "plot": "",
@@ -195,7 +205,7 @@
       },
       {
        "name": "מילון היופי – פרק 339 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e5d242a7e46842ab91c8bc32b3e26053/version/16/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e5d242a7e46842ab91c8bc32b3e26053/version/17/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_prdh63ei/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-28",
        "plot": "",
@@ -205,7 +215,7 @@
       },
       {
        "name": "מילון היופי – פרק 338 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2e16a304d48b43538dbe4665601cf1f5/version/17/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2e16a304d48b43538dbe4665601cf1f5/version/18/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2r7idfnm/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-21",
        "plot": "",
@@ -215,7 +225,7 @@
       },
       {
        "name": "מילון היופי – פרק 337 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91da254f83b9416fb64571526ac31443/version/18/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91da254f83b9416fb64571526ac31443/version/19/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k5imthj6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-14",
        "plot": "",
@@ -225,7 +235,7 @@
       },
       {
        "name": "מילון היופי – פרק 336 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05f0de8fdc7a4a3a9f79d2ef7723ebca/version/19/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05f0de8fdc7a4a3a9f79d2ef7723ebca/version/20/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x4a674oj/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-07",
        "plot": "",
@@ -235,7 +245,7 @@
       },
       {
        "name": "מילון היופי - פרק 335 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91bb31d341204339804eed0d0d3c350d/version/20/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91bb31d341204339804eed0d0d3c350d/version/21/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g3ejwptt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-31",
        "plot": "",
@@ -245,7 +255,7 @@
       },
       {
        "name": "מילון היופי - פרק 334 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e85eed056e05462eaa3d649d1b03b048/version/21/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e85eed056e05462eaa3d649d1b03b048/version/22/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0rp9bvx6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-26",
        "plot": "",
@@ -255,7 +265,7 @@
       },
       {
        "name": "מילון היופי - פרק 333 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/934469814c8645019c1bdf6b92fe40ff/version/22/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/934469814c8645019c1bdf6b92fe40ff/version/23/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kbsqraje/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-17",
        "plot": "",
@@ -265,7 +275,7 @@
       },
       {
        "name": "מילון היופי - פרק 332 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52f56e2d23e84d2bb17a0c502f163974/version/23/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52f56e2d23e84d2bb17a0c502f163974/version/24/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_crn85t53/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-10",
        "plot": "",
@@ -275,7 +285,7 @@
       },
       {
        "name": "מילון היופי - פרק 330 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfc452ec9e9e4e6e9f46522f49d10249/version/24/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfc452ec9e9e4e6e9f46522f49d10249/version/25/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w0kgo1in/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-03",
        "plot": "",
@@ -285,7 +295,7 @@
       },
       {
        "name": "מילון היופי - פרק 331 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/317f20981a264d8691a129d24eee1fe3/version/25/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/317f20981a264d8691a129d24eee1fe3/version/26/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d8pchczn/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-03",
        "plot": "",
@@ -295,7 +305,7 @@
       },
       {
        "name": "מילון היופי - פרק 329 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/214f0be6edff4cfea0f57ba451585a3d/version/25/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/214f0be6edff4cfea0f57ba451585a3d/version/26/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vxbm6wpx/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-19",
        "plot": "",
@@ -305,7 +315,7 @@
       },
       {
        "name": "מילון היופי - פרק 328 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6e46bede9c647e68bffdfee7a6233c4/version/25/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c6e46bede9c647e68bffdfee7a6233c4/version/26/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5v228orz/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-04-12",
        "plot": "",
@@ -315,7 +325,7 @@
       },
       {
        "name": "מילון היופי - פרק 329 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/99deabcb6e374536a880b491d442befc/version/28/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/99deabcb6e374536a880b491d442befc/version/29/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9cibvfr0/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-22",
        "plot": "",
@@ -325,7 +335,7 @@
       },
       {
        "name": "מילון היופי - פרק 328 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e726b496e3694ec29fdfea7756834cfb/version/28/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e726b496e3694ec29fdfea7756834cfb/version/29/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g6r73a02/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-22",
        "plot": "",
@@ -335,7 +345,7 @@
       },
       {
        "name": "מילון היופי - פרק 326 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/734fb82f366a46ab9579bb936b629339/version/31/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/734fb82f366a46ab9579bb936b629339/version/32/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_np8fg910/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-07",
        "plot": "",
@@ -345,7 +355,7 @@
       },
       {
        "name": "מילון היופי - פרק 325 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f3943b23b4f4115a525ddbfdffa71f7/version/30/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f3943b23b4f4115a525ddbfdffa71f7/version/31/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zxypvvrn/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-01",
        "plot": "",
@@ -355,7 +365,7 @@
       },
       {
        "name": "מילון היופי - פרק 323 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ddf0ced874d94902a69e096fb404bc53/version/30/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ddf0ced874d94902a69e096fb404bc53/version/31/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8dssz6ge/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-24",
        "plot": "",
@@ -365,7 +375,7 @@
       },
       {
        "name": "מילון היופי - פרק 322 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2583286af1814b6882fbdfa47b097e80/version/32/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2583286af1814b6882fbdfa47b097e80/version/33/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m65kwu43/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-17",
        "plot": "",
@@ -375,7 +385,7 @@
       },
       {
        "name": "מילון היופי - פרק 321 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21e6bf34764349cfa6fad24dda7a9dcf/version/30/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21e6bf34764349cfa6fad24dda7a9dcf/version/31/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pu9tuob5/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-10",
        "plot": "",
@@ -385,7 +395,7 @@
       },
       {
        "name": "מילון היופי - פרק 320 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6f527f440034af48a4886c24285c9fc/version/31/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e6f527f440034af48a4886c24285c9fc/version/32/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vmb0796o/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-03",
        "plot": "",
@@ -395,7 +405,7 @@
       },
       {
        "name": "מילון היופי - פרק 319 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/696a267f3b384406967d1cae8ff70f48/version/34/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/696a267f3b384406967d1cae8ff70f48/version/35/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b3jg9f4o/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-27",
        "plot": "",
@@ -405,7 +415,7 @@
       },
       {
        "name": "מילון היופי - פרק 318",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/42e2cc448e264428a8ec8b4143009fe7/version/34/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/42e2cc448e264428a8ec8b4143009fe7/version/35/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qfv6hhn0/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-20",
        "plot": "",
@@ -415,7 +425,7 @@
       },
       {
        "name": "מילון היופי - פרק 317 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6817fbfa3ac44971a3907fdb8d83bdef/version/33/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6817fbfa3ac44971a3907fdb8d83bdef/version/34/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cdmu3khc/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-13",
        "plot": "",
@@ -425,7 +435,7 @@
       },
       {
        "name": "מילון היופי - פרק 316 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd2891705d2b41d2973e156fb075675a/version/37/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd2891705d2b41d2973e156fb075675a/version/38/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kht9j26j/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-06",
        "plot": "",
@@ -435,7 +445,7 @@
       },
       {
        "name": "מילון היופי - פרק 315 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a99a504cf99480ca8792af2d31801c3/version/36/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a99a504cf99480ca8792af2d31801c3/version/37/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m7v2oi40/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-29",
        "plot": "",
@@ -445,7 +455,7 @@
       },
       {
        "name": "מילון היופי - פרק 314 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6c5b4f867a947c697a3f789a5fc55b3/version/36/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6c5b4f867a947c697a3f789a5fc55b3/version/37/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2okray9p/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-22",
        "plot": "",
@@ -455,7 +465,7 @@
       },
       {
        "name": "מילון היופי - פרק 313 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dcf2697f2bb7407fb802e64f5c5a2fcc/version/38/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dcf2697f2bb7407fb802e64f5c5a2fcc/version/39/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ytab57wb/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-15",
        "plot": "",
@@ -465,7 +475,7 @@
       },
       {
        "name": "מילון היופי - פרק 312 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ed11ec97caab4120bab17adbd03e4d4d/version/40/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ed11ec97caab4120bab17adbd03e4d4d/version/41/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6o3bfcj8/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-08",
        "plot": "",
@@ -475,7 +485,7 @@
       },
       {
        "name": "מילון היופי - פרק 311 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0636dbaf363e488d9d5c26e2eafe29fb/version/40/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0636dbaf363e488d9d5c26e2eafe29fb/version/41/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yl4125aw/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-01",
        "plot": "",
@@ -485,7 +495,7 @@
       },
       {
        "name": "מילון היופי - פרק 310 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc246e33143d471782f272a4b433f8ab/version/42/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc246e33143d471782f272a4b433f8ab/version/43/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ipt9eahd/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-26",
        "plot": "",
@@ -495,7 +505,7 @@
       },
       {
        "name": "מילון היופי - פרק 309 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ad6c5d0cf404800bb35e067fb9cb2bc/version/43/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ad6c5d0cf404800bb35e067fb9cb2bc/version/44/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_onhonwo3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-18",
        "plot": "",
@@ -505,7 +515,7 @@
       },
       {
        "name": "מילון היופי – פרק 308 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee8a4a06067144dd8b19f7e89db94588/version/44/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ee8a4a06067144dd8b19f7e89db94588/version/45/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ofy0bktl/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-11",
        "plot": "",
@@ -515,7 +525,7 @@
       },
       {
        "name": "מילון היופי – פרק 307 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9fcbc4acce4147eeaf11fe7dc1aedecc/version/45/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9fcbc4acce4147eeaf11fe7dc1aedecc/version/46/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gt7wno5z/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-27",
        "plot": "",
@@ -525,7 +535,7 @@
       },
       {
        "name": "מילון היופי – פרק 306 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06bd8a76c05a44f091fca7590e276b87/version/46/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06bd8a76c05a44f091fca7590e276b87/version/47/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gyebihx/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-20",
        "plot": "",
@@ -535,7 +545,7 @@
       },
       {
        "name": "מילון היופי – פרק 305 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b905dc9fe1674255a63259edd2a36299/version/47/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b905dc9fe1674255a63259edd2a36299/version/48/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3et8rkv2/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-13",
        "plot": "",
@@ -545,7 +555,7 @@
       },
       {
        "name": "מילון היופי – פרק 304 המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfd5606703a3455d99399266f5844abc/version/48/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfd5606703a3455d99399266f5844abc/version/49/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2fyaw1l1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-07",
        "plot": "",
@@ -555,7 +565,7 @@
       },
       {
        "name": "מילון היופי | 30.08.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/157d4a59c43143aab9947e04de319538/version/51/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/157d4a59c43143aab9947e04de319538/version/52/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_50k2qt7y/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-30",
        "plot": "",
@@ -565,7 +575,7 @@
       },
       {
        "name": "מילון היופי | 23.08.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e083e9861e984a0482ba95d1f72b505c/version/50/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e083e9861e984a0482ba95d1f72b505c/version/51/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4uufssoh/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-23",
        "plot": "",
@@ -575,7 +585,7 @@
       },
       {
        "name": "מילון היופי | 16.08.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80efa41e635c40cf81fb123d1f4bbed6/version/51/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80efa41e635c40cf81fb123d1f4bbed6/version/52/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gbo4e9xy/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-16",
        "plot": "",
@@ -585,7 +595,7 @@
       },
       {
        "name": "מילון היופי | 09.08.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b9f9a95e376c4e6480203ef3a5f34bf7/version/52/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b9f9a95e376c4e6480203ef3a5f34bf7/version/53/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fat32nqb/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-09",
        "plot": "",
@@ -595,7 +605,7 @@
       },
       {
        "name": "מילון היופי | 02.08.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad987dff462e490e9218af9f78f3a178/version/52/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad987dff462e490e9218af9f78f3a178/version/53/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a7a951p3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-09",
        "plot": "",
@@ -605,7 +615,7 @@
       },
       {
        "name": "מילון היופי | 26.07.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5313bd058fb646ffbb9c49c012465b23/version/53/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5313bd058fb646ffbb9c49c012465b23/version/54/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n26jiun3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-26",
        "plot": "",
@@ -615,7 +625,7 @@
       },
       {
        "name": "מילון היופי | 22.07.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/49fc7d766076489c90d5254604f96769/version/54/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/49fc7d766076489c90d5254604f96769/version/55/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0r2shlq3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-22",
        "plot": "",
@@ -625,7 +635,7 @@
       },
       {
        "name": "מילון היופי | 12.07.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13a8bcdc965d4266812cce57c5b64fb0/version/55/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13a8bcdc965d4266812cce57c5b64fb0/version/56/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9lphz7nf/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-12",
        "plot": "",
@@ -635,7 +645,7 @@
       },
       {
        "name": "מילון היופי | 05.07.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b239d6f56203464db8c4f3e47c2e4ede/version/55/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b239d6f56203464db8c4f3e47c2e4ede/version/56/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5g6v4nh5/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-07",
        "plot": "",
@@ -645,7 +655,7 @@
       },
       {
        "name": "מילון היופי | 28.06.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc688b00ff32446b925398eef682d58f/version/57/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc688b00ff32446b925398eef682d58f/version/58/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kuwqvhka/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-28",
        "plot": "",
@@ -655,7 +665,7 @@
       },
       {
        "name": "מילון היופי | 07.06.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3aab97d7cbb41dfa2f07590e34be4c6/version/58/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3aab97d7cbb41dfa2f07590e34be4c6/version/59/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8eb8oj3k/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-07",
        "plot": "",
@@ -665,7 +675,7 @@
       },
       {
        "name": "מילון היופי | 25.05.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50f84ffcf6084f60bbbad6807f13a448/version/61/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50f84ffcf6084f60bbbad6807f13a448/version/62/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rgmox1c5/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-24",
        "plot": "",
@@ -675,7 +685,7 @@
       },
       {
        "name": "מילון היופי | 17.05.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/08fbe00162be443a848b3fca977e8baf/version/60/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/08fbe00162be443a848b3fca977e8baf/version/61/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2vjwkwfp/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-17",
        "plot": "",
@@ -685,7 +695,7 @@
       },
       {
        "name": "מילון היופי | 10.05.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b83975e0084d45189543dbd3b9f4df9a/version/61/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b83975e0084d45189543dbd3b9f4df9a/version/62/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_528j1mxb/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-10",
        "plot": "",
@@ -695,7 +705,7 @@
       },
       {
        "name": "מילון היופי | 03.05.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9891aed5634e4a91b97f96181e338120/version/62/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9891aed5634e4a91b97f96181e338120/version/63/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ozc6v6lk/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-03",
        "plot": "",
@@ -705,7 +715,7 @@
       },
       {
        "name": "מילון היופי | 19.04.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b797dd7f58194b8183223a99a33ebfa9/version/63/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b797dd7f58194b8183223a99a33ebfa9/version/64/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0y37tzlh/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-19",
        "plot": "",
@@ -715,7 +725,7 @@
       },
       {
        "name": "מילון היופי | 05.04.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6844f29481484dca84d4cdf40a385b2a/version/64/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6844f29481484dca84d4cdf40a385b2a/version/65/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_trl0is32/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-05",
        "plot": "",
@@ -725,7 +735,7 @@
       },
       {
        "name": "מילון היופי | 08.03.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f001bebbb674372aadc7ad6a4afeafd/version/65/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f001bebbb674372aadc7ad6a4afeafd/version/66/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fjl63wht/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-08",
        "plot": "",
@@ -735,7 +745,7 @@
       },
       {
        "name": "מילון היופי | 15.02.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df8176305ae343f6a69b6cc05d35d850/version/66/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df8176305ae343f6a69b6cc05d35d850/version/67/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qmht0gdf/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-02-16",
        "plot": "",
@@ -745,7 +755,7 @@
       },
       {
        "name": "מילון היופי | 17.01.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d595499586b47b9a0df6fe59fc9e72a/version/69/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d595499586b47b9a0df6fe59fc9e72a/version/70/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8d0kmp84/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-01-18",
        "plot": "",
@@ -755,7 +765,7 @@
       },
       {
        "name": "מילון היופי | 04.01.25",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ce495e488e1d4ea3975c6499c7ac1729/version/70/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ce495e488e1d4ea3975c6499c7ac1729/version/71/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8male0fq/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-01-04",
        "plot": "",
@@ -765,7 +775,7 @@
       },
       {
        "name": "מילון היופי | 30.11.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eb0630e24f8244a7bdcff61244f403de/version/71/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eb0630e24f8244a7bdcff61244f403de/version/72/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r687caj4/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-02",
        "plot": "",
@@ -775,7 +785,7 @@
       },
       {
        "name": "מילון היופי | 02.11.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4de3d5b418cd41ee9a7d6f7c28ce4157/version/73/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4de3d5b418cd41ee9a7d6f7c28ce4157/version/74/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z6ga6bb8/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-02",
        "plot": "",
@@ -785,7 +795,7 @@
       },
       {
        "name": "מילון היופי | 21.09.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a2a16e1bfa0418386e7a1649348e965/version/73/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a2a16e1bfa0418386e7a1649348e965/version/74/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q1f9payq/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-21",
        "plot": "",
@@ -795,7 +805,7 @@
       },
       {
        "name": "מילון היופי | 14.09.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6414cb5a6fd4bd09f1f993a2b41cd34/version/76/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d6414cb5a6fd4bd09f1f993a2b41cd34/version/77/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_icfok2vl/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-14",
        "plot": "",
@@ -805,7 +815,7 @@
       },
       {
        "name": "מילון היופי | 25.08.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f03b1e5a284415695047655abf4906f/version/79/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f03b1e5a284415695047655abf4906f/version/80/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mxwy8qmx/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-07",
        "plot": "",
@@ -815,7 +825,7 @@
       },
       {
        "name": "מילון היופי | 24.08.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ed2f4c5612946eba2f59f90985674f9/version/78/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9ed2f4c5612946eba2f59f90985674f9/version/79/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_goq6yxy7/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-24",
        "plot": "",
@@ -825,7 +835,7 @@
       },
       {
        "name": "מילון היופי | 10.08.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc70693b32e34b04a7a95bc3fcf34d2a/version/79/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc70693b32e34b04a7a95bc3fcf34d2a/version/80/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8xx7udb3/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-10",
        "plot": "",
@@ -835,7 +845,7 @@
       },
       {
        "name": "מילון היופי | 09.03.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f4042a318e24882a739a043c763e451/version/78/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f4042a318e24882a739a043c763e451/version/79/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qcx55nkr/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-05",
        "plot": "",
@@ -845,7 +855,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 19.3.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/94178846c32f47a2b48b3035c9593c7e/version/81/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/94178846c32f47a2b48b3035c9593c7e/version/82/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s2jx9rfn/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-05",
        "plot": "",
@@ -855,7 +865,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 24.04.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73653a2cc955432cb8156ef908333cee/version/82/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/73653a2cc955432cb8156ef908333cee/version/83/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mcz6hk6i/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-05",
        "plot": "",
@@ -865,7 +875,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 14.8.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6f6e91ead1440debe058a29412ec685/version/81/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b6f6e91ead1440debe058a29412ec685/version/82/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_skng7pt4/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-05",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -875,7 +885,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 13.11.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d3a2c36a9d6742e9819ef452c13fda53/version/81/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d3a2c36a9d6742e9819ef452c13fda53/version/82/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jvvnvs97/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-05",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -885,7 +895,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 22.01.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57d9cfe6c037499a8a3f8e212f8e7788/version/80/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57d9cfe6c037499a8a3f8e212f8e7788/version/81/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_colo8agk/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-05",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -895,7 +905,7 @@
       },
       {
        "name": "מילון היופי | 03.08.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4fc113771de046ffa69ec0279805107a/version/80/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4fc113771de046ffa69ec0279805107a/version/81/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_53ysw8fy/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-03",
        "plot": "",
@@ -905,7 +915,7 @@
       },
       {
        "name": "מילון היופי | 27.07.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/15c0a6554fd24a0296632ab05cd85163/version/81/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/15c0a6554fd24a0296632ab05cd85163/version/82/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2kolq7i0/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-27",
        "plot": "",
@@ -915,7 +925,7 @@
       },
       {
        "name": "מילון היופי | 20.07.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1cc7984395f449c1902a509460c3414e/version/82/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1cc7984395f449c1902a509460c3414e/version/83/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8zu2ltwl/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-20",
        "plot": "",
@@ -925,7 +935,7 @@
       },
       {
        "name": "מילון היופי | 13.07.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4815ef6d630e4632a2b441f864fe270a/version/83/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4815ef6d630e4632a2b441f864fe270a/version/84/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2dpj4w3p/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-13",
        "plot": "",
@@ -935,7 +945,7 @@
       },
       {
        "name": "מילון היופי | 06.07.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecf8643ddc7c48119dd7c07f4f46fe84/version/84/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecf8643ddc7c48119dd7c07f4f46fe84/version/85/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lt4cqqw1/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-06",
        "plot": "",
@@ -945,7 +955,7 @@
       },
       {
        "name": "מילון היופי | 29.06.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da5f67740a054a208338233f0f649ad0/version/85/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da5f67740a054a208338233f0f649ad0/version/86/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q6jvtv0v/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-29",
        "plot": "",
@@ -955,7 +965,7 @@
       },
       {
        "name": "מילון היופי | 22.06.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/208e55bcf43b424fb4e34fb288f1767d/version/86/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/208e55bcf43b424fb4e34fb288f1767d/version/87/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ff3f79kf/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-22",
        "plot": "",
@@ -965,7 +975,7 @@
       },
       {
        "name": "מילון היופי | 08.06.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51a27c21c97c4d6eb43d61f57fc5a79e/version/87/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51a27c21c97c4d6eb43d61f57fc5a79e/version/88/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_chtheh5r/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-08",
        "plot": "",
@@ -975,7 +985,7 @@
       },
       {
        "name": "מילון היופי | 18.05.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d20ed7d4f3944daeb95e4a6a6a78a811/version/88/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d20ed7d4f3944daeb95e4a6a6a78a811/version/89/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_py7nqwru/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-05-18",
        "plot": "",
@@ -985,7 +995,7 @@
       },
       {
        "name": "מילון היופי | 11.05.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93835aed26344308b445adf720481f0e/version/88/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93835aed26344308b445adf720481f0e/version/89/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ymg1j6y1/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-05-18",
        "plot": "",
@@ -995,7 +1005,7 @@
       },
       {
        "name": "מילון היופי | 04.05.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2d10e703797f4fdd8666ddec8efdf81f/version/89/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2d10e703797f4fdd8666ddec8efdf81f/version/90/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c8qnpk0z/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-05-04",
        "plot": "",
@@ -1005,7 +1015,7 @@
       },
       {
        "name": "מילון היופי | 27.04.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3e363599b7140319f6f1101e980aeba/version/90/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3e363599b7140319f6f1101e980aeba/version/91/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gip7skqd/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-04-27",
        "plot": "",
@@ -1015,7 +1025,7 @@
       },
       {
        "name": "מילון היופי | 20.04.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35428f6140a1459ab1e4c2efa5bd44d4/version/91/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35428f6140a1459ab1e4c2efa5bd44d4/version/92/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_33vkr733/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-04-20",
        "plot": "",
@@ -1025,7 +1035,7 @@
       },
       {
        "name": "מילון היופי | 23.03.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27a29735fb5945b2a8f88bf2386ec755/version/93/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27a29735fb5945b2a8f88bf2386ec755/version/94/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fgr1mckv/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-03-23",
        "plot": "",
@@ -1035,7 +1045,7 @@
       },
       {
        "name": "מילון היופי | 16.03.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06c79fc28a584d37b004d57fcdf3129d/version/94/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06c79fc28a584d37b004d57fcdf3129d/version/95/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b1ppe8py/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-03-16",
        "plot": "",
@@ -1045,7 +1055,7 @@
       },
       {
        "name": "מילון היופי | 24.02.24",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f85e8015b93401aa21cd42f3ffac312/version/96/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f85e8015b93401aa21cd42f3ffac312/version/97/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jtytocrl/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-02-28",
        "plot": "",
@@ -1055,7 +1065,7 @@
       },
       {
        "name": "מילון היופי | 23.09.23",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/10f16b8b616e46d693ffdd343dc4d44c/version/97/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/10f16b8b616e46d693ffdd343dc4d44c/version/98/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t3vnwroh/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-23",
        "plot": "",
@@ -1065,7 +1075,7 @@
       },
       {
        "name": "מילון היופי | 09.09.23",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1d29919a1b854237806cbe5f808bc468/version/98/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1d29919a1b854237806cbe5f808bc468/version/99/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wuofmnxt/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-09",
        "plot": "",
@@ -1075,7 +1085,7 @@
       },
       {
        "name": "מילון היופי | 02.09.23",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff8f13ce120148d68ae75db845456c07/version/99/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff8f13ce120148d68ae75db845456c07/version/100/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0kw7nz3d/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-02",
        "plot": "",
@@ -1085,7 +1095,7 @@
       },
       {
        "name": "מילון היופי | 26.08.23",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/423b5cd68e0e43e89d3804c02efd082d/version/99/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/423b5cd68e0e43e89d3804c02efd082d/version/100/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0l6nfwaj/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-26",
        "plot": "",
@@ -1095,7 +1105,7 @@
       },
       {
        "name": "מילון היופי | 12.08.23",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/756e3a6e11f94fcf941a9af4cfabc8e8/version/100/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/756e3a6e11f94fcf941a9af4cfabc8e8/version/101/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i4yzbp6x/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-12",
        "plot": "",
@@ -1105,7 +1115,7 @@
       },
       {
        "name": "מילון היופי | 22.07.23",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7825b16a580143f2b92080c7be097b49/version/102/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7825b16a580143f2b92080c7be097b49/version/103/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a9dflp6t/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-22",
        "plot": "",
@@ -1115,7 +1125,7 @@
       },
       {
        "name": "מילון היופי 15.07.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/892441792a0d40f6ad31cb9ab56cfc9e/version/104/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/892441792a0d40f6ad31cb9ab56cfc9e/version/105/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bfmq1cj6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-15",
        "plot": "",
@@ -1125,7 +1135,7 @@
       },
       {
        "name": "מילון היופי 08.07.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d70105dd92d04e0b9bf342f46fed1755/version/105/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d70105dd92d04e0b9bf342f46fed1755/version/106/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sdb70igr/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-08",
        "plot": "",
@@ -1135,7 +1145,7 @@
       },
       {
        "name": "מילון היופי 01.07.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3945d87dc6ef42cbae205fea82bc6cfd/version/106/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3945d87dc6ef42cbae205fea82bc6cfd/version/107/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_q2qx6ow0/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-01",
        "plot": "",
@@ -1145,7 +1155,7 @@
       },
       {
        "name": "מילון היופי 17.06.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07a200ea1b114ae6a0b176dc8873ab19/version/107/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07a200ea1b114ae6a0b176dc8873ab19/version/108/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5tl74e7v/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-24",
        "plot": "",
@@ -1155,7 +1165,7 @@
       },
       {
        "name": "מילון היופי 17.06.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d64891ccf10b450abab0e227683259cc/version/109/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d64891ccf10b450abab0e227683259cc/version/110/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cir4os8f/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-17",
        "plot": "",
@@ -1165,7 +1175,7 @@
       },
       {
        "name": "מילון היופי 10.06.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1479f3e96a640dda66a3026c9f53f06/version/112/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1479f3e96a640dda66a3026c9f53f06/version/113/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r7vfh6eb/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-10",
        "plot": "",
@@ -1175,7 +1185,7 @@
       },
       {
        "name": "מילון היופי 31.12.22 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fc3df6a37bf4e899ff6f95649afbc7b/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fc3df6a37bf4e899ff6f95649afbc7b/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ircgtdx3/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1185,7 +1195,7 @@
       },
       {
        "name": "מילון היופי 24.12.22 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a66195f711014179ba909dfb1a7d567e/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a66195f711014179ba909dfb1a7d567e/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oypv3bs8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1195,7 +1205,7 @@
       },
       {
        "name": "מילון היופי 17.12.22 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aaf39119157e4d81964050d12225bc3a/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aaf39119157e4d81964050d12225bc3a/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_d58b4l1h/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1205,7 +1215,7 @@
       },
       {
        "name": "מילון היופי 10.12.22 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8cdae29bb44048e58e104f8a8fbba7b9/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8cdae29bb44048e58e104f8a8fbba7b9/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c4qizt37/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1215,7 +1225,7 @@
       },
       {
        "name": "מילון היופי 03.12.22 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f768f53e2fd1444780537b87d76ec318/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f768f53e2fd1444780537b87d76ec318/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nikynxj4/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1225,7 +1235,7 @@
       },
       {
        "name": "מילון היופי 26.11.22 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/520572f94a7242aa84bd38e819f8fa62/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/520572f94a7242aa84bd38e819f8fa62/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_29lxpni6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1235,7 +1245,7 @@
       },
       {
        "name": "מילון היופי 19.11.22 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b5c86a7ff3f452daadc85e7b4644626/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b5c86a7ff3f452daadc85e7b4644626/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_314cfi0h/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1245,7 +1255,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 12.11.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/20a79bde46f044918d2a9adabd191850/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/20a79bde46f044918d2a9adabd191850/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ji9eo83x/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1255,7 +1265,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 05.11.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f17c67f47524f23a7c7cb8abac514c8/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3f17c67f47524f23a7c7cb8abac514c8/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v4vqp7eq/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1265,7 +1275,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 29.10.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b954139819494eda90ab4efc9eb2e36d/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b954139819494eda90ab4efc9eb2e36d/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_60us6uu3/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1275,7 +1285,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 22.10.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eda53f68fc7f4fa4abfff16b2c199927/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eda53f68fc7f4fa4abfff16b2c199927/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yq3sf66z/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1285,7 +1295,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 30.09.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4bed94f2611543bcb5c42fc23fcba6e2/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4bed94f2611543bcb5c42fc23fcba6e2/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fror4xxw/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1295,7 +1305,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 24.09.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbbe79515ffa4a6ca6de8520d4908dea/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cbbe79515ffa4a6ca6de8520d4908dea/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i7vq9wxq/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1305,7 +1315,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 17.09.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/140205b9b1c74a408312bcebabe2e7ae/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/140205b9b1c74a408312bcebabe2e7ae/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dwzhcpr9/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1315,7 +1325,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 10.09.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72d1519f26924c41bd44c3cbcd98b699/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72d1519f26924c41bd44c3cbcd98b699/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yeub2d3c/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1325,7 +1335,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 03.09.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/153109d5094f4caba38fd51cc4c85357/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/153109d5094f4caba38fd51cc4c85357/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ptm4oj4j/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1335,7 +1345,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 27.08.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7863ee58191f411eaa87c5b05b7a6058/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7863ee58191f411eaa87c5b05b7a6058/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_coh2q7yf/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1345,7 +1355,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 20.08.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8ac231f930c4c6ca7fd260237f13a97/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8ac231f930c4c6ca7fd260237f13a97/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sggv247k/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1355,7 +1365,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 13.08.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4cce979803f940bca77a4952e0f9a257/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4cce979803f940bca77a4952e0f9a257/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sbwqv9ps/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1365,7 +1375,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 30.07.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/08d25caa395040598e8ba99fd3638c24/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/08d25caa395040598e8ba99fd3638c24/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k89e66ta/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1375,7 +1385,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 23.07.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4a3ac24ca2454b598b74c7b6ac806542/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4a3ac24ca2454b598b74c7b6ac806542/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4t4iyxky/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1385,7 +1395,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 16.07.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0870e63f195f45a490e52077ed916aa1/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0870e63f195f45a490e52077ed916aa1/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i2x7xwjl/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1395,7 +1405,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 09.07.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/739291fedaef40008849726f96ce0812/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/739291fedaef40008849726f96ce0812/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j80e9u3y/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1405,7 +1415,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 02.07.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ece3421fd61646ed99e7935f5cec4853/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ece3421fd61646ed99e7935f5cec4853/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8ry2e52i/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1415,7 +1425,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 25.06.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/860476c64d494cf5bb4e6d6a0fd33d31/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/860476c64d494cf5bb4e6d6a0fd33d31/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c2u9ji9a/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1425,7 +1435,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 18.06.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea72da49dfc4452e83c492e3a55cb87a/version/113/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea72da49dfc4452e83c492e3a55cb87a/version/114/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_89lcwdyj/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1435,7 +1445,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 11.06.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c1b5f017ea2948c184bc6a90d0b6ae9f/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c1b5f017ea2948c184bc6a90d0b6ae9f/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_546wc3d7/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1445,7 +1455,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 28.05.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21d9f35691b64ccb86c90afbafbf0a2d/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21d9f35691b64ccb86c90afbafbf0a2d/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gmm875z5/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות.  מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1455,7 +1465,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 21.05.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/531c8beb071e4752936755ad484a127b/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/531c8beb071e4752936755ad484a127b/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sutqbodl/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1465,7 +1475,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 14.05.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57184453d8df4a03a90d3e32bf4223a0/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/57184453d8df4a03a90d3e32bf4223a0/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tuezu82r/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1475,7 +1485,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 07.05.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/65f70307ba9848b991354b5c476e28d4/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/65f70307ba9848b991354b5c476e28d4/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w2zgjry6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1485,7 +1495,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 30.04.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6670688da7b04f5db7aecd92172ea3ce/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6670688da7b04f5db7aecd92172ea3ce/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zaoyu0tw/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1495,7 +1505,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 23.04.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecdfa5b30d1a4e83a0c50ec9e28540a1/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ecdfa5b30d1a4e83a0c50ec9e28540a1/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qm3ydae2/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1505,7 +1515,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 09.04.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59485dc393424015b4fef601aeb7800e/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59485dc393424015b4fef601aeb7800e/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oo2cw7jp/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1515,7 +1525,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 02.04.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8bdf65882394533a70e69c33df7f951/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d8bdf65882394533a70e69c33df7f951/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cl5ablcf/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1525,7 +1535,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 26.03.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fb7d775f70c0454eaac658eadbaca4f9/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fb7d775f70c0454eaac658eadbaca4f9/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xswyomzw/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1535,7 +1545,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 19.03.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06253dec93564053a553998aa26c815b/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06253dec93564053a553998aa26c815b/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pttvvom6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1545,7 +1555,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 12.03.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d77a673f1cf42c282ea6839d5946ace/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0d77a673f1cf42c282ea6839d5946ace/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o3zljkii/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1555,7 +1565,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 05.03.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6798c85832ae49d9bb32c0ddbc93e2b1/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6798c85832ae49d9bb32c0ddbc93e2b1/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eoibobif/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1565,7 +1575,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 26.02.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8fde51744d9e4885916c7719f7216b18/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8fde51744d9e4885916c7719f7216b18/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7gmbbc1e/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1575,7 +1585,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 19.02.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6dc8813e4c724f7eab8c48343ee605a3/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6dc8813e4c724f7eab8c48343ee605a3/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jnguoxvm/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1585,7 +1595,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 12.02.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22f11dfd3f724df2aa8d35b70b4b40ef/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/22f11dfd3f724df2aa8d35b70b4b40ef/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u01n7l0f/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1595,7 +1605,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 29.01.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e19036ea0fe433ab7561b9d622cc5e0/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e19036ea0fe433ab7561b9d622cc5e0/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z9gs9tfw/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1615,7 +1625,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 15.01.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ada6bea6d8a34bb1994d771aa050e6ef/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ada6bea6d8a34bb1994d771aa050e6ef/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5lshpwn8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1625,7 +1635,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 08.01.22",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cb2939efc754cc1b72ce0fd058d7107/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cb2939efc754cc1b72ce0fd058d7107/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h3n9bx43/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1645,7 +1655,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 18.12.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2989d00d7888464d85c6bf75c76fc999/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2989d00d7888464d85c6bf75c76fc999/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j30inrh1/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1655,7 +1665,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 11.12.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aeeca0c89fe24fe5b1050771d29877a1/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aeeca0c89fe24fe5b1050771d29877a1/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_21ahlyk8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1665,7 +1675,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 04.12.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd3e9b3f519b449eba3392bad2241cb9/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd3e9b3f519b449eba3392bad2241cb9/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_90698dy6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1675,7 +1685,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 27.11.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d435d52b18b84268a85a57ddf77fd29b/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d435d52b18b84268a85a57ddf77fd29b/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yutvvke1/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1685,7 +1695,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 20.11.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3a04ce9abce440f8b4d7590548ad6bd/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e3a04ce9abce440f8b4d7590548ad6bd/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_slm1oanp/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1695,7 +1705,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 06.11.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2511a1fcc934cd8ad5eaf3e4968a86b/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2511a1fcc934cd8ad5eaf3e4968a86b/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aamgpf9c/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1705,7 +1715,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 30.10.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ccef4bd8792d4e35b767b926116ff6c5/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ccef4bd8792d4e35b767b926116ff6c5/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_11ezwe52/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1715,7 +1725,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 23.10.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca7c523896004debad7a08c29c04defa/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca7c523896004debad7a08c29c04defa/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zhycraqz/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1725,7 +1735,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 16.10.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e45dcdab9174b1c8141369d8ad5ee7a/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e45dcdab9174b1c8141369d8ad5ee7a/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_skwg4je8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1735,7 +1745,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 09.10.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef77e7c0e1994606be823fc6cc5dacfa/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ef77e7c0e1994606be823fc6cc5dacfa/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2lzm25cp/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1745,7 +1755,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 02.10.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d0d2cd5a4c88464086fc6467d93bc406/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d0d2cd5a4c88464086fc6467d93bc406/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6pm75d37/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1765,7 +1775,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 11.09.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b9e77a7018a84f979aaeb6aabfb5f724/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b9e77a7018a84f979aaeb6aabfb5f724/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2oxtm0lo/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1775,7 +1785,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 03.09.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e111f269ad14c1b9b9f83028f8f78f3/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1e111f269ad14c1b9b9f83028f8f78f3/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5b69837z/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1785,7 +1795,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 28.8.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0051f57a9fa34465b4b5e1eb18b57e45/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0051f57a9fa34465b4b5e1eb18b57e45/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_db4szxfz/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות",
@@ -1795,7 +1805,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 21.8.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5547aacb0e094a7faefca766453645d9/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5547aacb0e094a7faefca766453645d9/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zlnveiw1/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1805,7 +1815,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 07.08.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c3f0f71125d42c9826a595589e88922/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c3f0f71125d42c9826a595589e88922/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yohjif22/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1815,7 +1825,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 31.7.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1703afbf6eb4fd6a937aa348dc0766e/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1703afbf6eb4fd6a937aa348dc0766e/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b96cofab/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1825,7 +1835,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 24.7.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/198dca5bddf04fd5b4d0a078a3d9d145/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/198dca5bddf04fd5b4d0a078a3d9d145/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_um70xkpt/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1835,7 +1845,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 17.07.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea0f6a2c2a054f40ad4aafe849a60cc9/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea0f6a2c2a054f40ad4aafe849a60cc9/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3fur47bc/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1845,7 +1855,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 02.07.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0272dfe90db34cccafe3f6d1faca2c0a/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0272dfe90db34cccafe3f6d1faca2c0a/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yt5w57v1/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1855,7 +1865,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 10.07.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7798e8a376de4af6b7212a766e2abbbd/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7798e8a376de4af6b7212a766e2abbbd/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_y8bvw20e/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד\"ר אלון לירן",
@@ -1865,7 +1875,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 26.06.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51ff1b86641d46d1b52489fefd82259f/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51ff1b86641d46d1b52489fefd82259f/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_48knp2ad/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1875,7 +1885,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 19.06.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ce9c6b0b43804ef183353a761c3e994d/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ce9c6b0b43804ef183353a761c3e994d/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x7tvy747/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1885,7 +1895,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 12.06.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd788431bd444a298738e05a5243ebba/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cd788431bd444a298738e05a5243ebba/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p3hyy2ow/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1895,7 +1905,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 05.06.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfe3553d18584fd0a4b381e2bac151ed/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfe3553d18584fd0a4b381e2bac151ed/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0qsrkkqz/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1905,7 +1915,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 15.05.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06ae4cf2445144b7916e14629d2567dc/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06ae4cf2445144b7916e14629d2567dc/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4gf9t17x/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות בהנחיית סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1915,7 +1925,7 @@
       },
       {
        "name": "מילון היופי – הפרק המלא | 08.05.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b09ca26930641ffa4083e84422bc950/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1b09ca26930641ffa4083e84422bc950/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1rovdx5e/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד\"ר להבית אקרמן",
@@ -1925,7 +1935,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 10.04.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c72dca030f084c8181d7bdc54b69e19d/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c72dca030f084c8181d7bdc54b69e19d/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aufeze9p/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1935,7 +1945,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 27.03.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ce5d54a6bb249ce8efabaf2b3303011/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4ce5d54a6bb249ce8efabaf2b3303011/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n1rv1hk1/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1945,7 +1955,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 03.04.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/85b090a3ee614f7092008ef9a475517c/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/85b090a3ee614f7092008ef9a475517c/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_siqctux8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1955,7 +1965,7 @@
       },
       {
        "name": "מילון היופי 03.06.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93001a602a494604a0377d6f35e6203e/version/112/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93001a602a494604a0377d6f35e6203e/version/113/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t9tzflup/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1965,7 +1975,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 06.03.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c4e6641c47747ed9b41a30fa438ebda/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c4e6641c47747ed9b41a30fa438ebda/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aun7jg7j/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1975,7 +1985,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 27.02.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cce0c0e356f14c1c9f357b8c27d54023/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cce0c0e356f14c1c9f357b8c27d54023/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6903ffdp/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-03",
        "plot": "",
@@ -1985,7 +1995,7 @@
       },
       {
        "name": "מילון היופי 25.03.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d420a6fd33694bebbe4d6d798ec794a0/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d420a6fd33694bebbe4d6d798ec794a0/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u65ala1d/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -1995,7 +2005,7 @@
       },
       {
        "name": "מילון היופי 18.03.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/791b10b8dd4c47e1bb76491285350098/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/791b10b8dd4c47e1bb76491285350098/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_svhrozu6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2005,7 +2015,7 @@
       },
       {
        "name": "מילון היופי 11.03.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/01241771c36d45a39d3fe92fdfb4f4b5/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/01241771c36d45a39d3fe92fdfb4f4b5/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c90cvgav/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2015,7 +2025,7 @@
       },
       {
        "name": "מילון היופי 04.03.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f85cdb61de24d6ca7cf091622118b4d/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4f85cdb61de24d6ca7cf091622118b4d/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5ne31oes/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2025,7 +2035,7 @@
       },
       {
        "name": "מילון היופי 18.02.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f7662a1211f45919e73270efd0f86a7/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f7662a1211f45919e73270efd0f86a7/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nxz55cx5/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2035,7 +2045,7 @@
       },
       {
        "name": "מילון היופי 25.02.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/69395478b50e45cd8b158233ae9e4134/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/69395478b50e45cd8b158233ae9e4134/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_61e7wnri/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2045,7 +2055,7 @@
       },
       {
        "name": "מילון היופי 11.02.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e0be259015e4053b320076f2cd9bead/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3e0be259015e4053b320076f2cd9bead/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_purzf5hi/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2055,7 +2065,7 @@
       },
       {
        "name": "מילון היופי 04.02.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8073a64f19d48e5bc50c9095f3020cf/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8073a64f19d48e5bc50c9095f3020cf/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o3ykk78k/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2065,7 +2075,7 @@
       },
       {
        "name": "מילון היופי 28.01.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/187deef624ea4a23955694049f9ad6c2/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/187deef624ea4a23955694049f9ad6c2/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wh8c34su/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2075,7 +2085,7 @@
       },
       {
        "name": "מילון היופי 07.01.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b59b4f541774eb5949078b79d7be3ae/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b59b4f541774eb5949078b79d7be3ae/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zju67i9z/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-29",
        "plot": "",
@@ -2085,7 +2095,7 @@
       },
       {
        "name": "מילון היופי 27.05.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e82f26098a54ca2826b9e5a6618fc2e/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7e82f26098a54ca2826b9e5a6618fc2e/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u173vqvi/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2095,7 +2105,7 @@
       },
       {
        "name": "מילון היופי 21.01.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7dc410a60634e00b4a7d8e8e364e349/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e7dc410a60634e00b4a7d8e8e364e349/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_udwvumyw/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2105,7 +2115,7 @@
       },
       {
        "name": "מילון היופי 14.01.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2dddb1c230f471698eacf49485dc935/version/114/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a2dddb1c230f471698eacf49485dc935/version/115/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7yzzrt6b/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2115,7 +2125,7 @@
       },
       {
        "name": "מילון היופי - הפרק המלא | 12.3.21",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/645977d6c3a241bc927381be0c9ef7da/version/113/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/645977d6c3a241bc927381be0c9ef7da/version/114/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zwuq1q1w/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2125,7 +2135,7 @@
       },
       {
        "name": "מילון היופי 20.05.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/090853d730a04a439010cc8461e4a6e6/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/090853d730a04a439010cc8461e4a6e6/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2fs1nrli/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2135,7 +2145,7 @@
       },
       {
        "name": "מילון היופי 06.05.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f3a037b5491543c3ad0d39859056046a/version/117/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f3a037b5491543c3ad0d39859056046a/version/118/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_baxgdqwp/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2145,7 +2155,7 @@
       },
       {
        "name": "מילון היופי 23.04.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0a1817a866b4c02a1b83f87aa03134b/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0a1817a866b4c02a1b83f87aa03134b/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5j0hg5r1/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2155,7 +2165,7 @@
       },
       {
        "name": "מילון היופי 23.04.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83145c315488425981ce4fbfe548f429/version/119/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83145c315488425981ce4fbfe548f429/version/120/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qr996m86/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2165,7 +2175,7 @@
       },
       {
        "name": "מילון היופי 15.04.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a913d52f46248009d86e680e401df14/version/119/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a913d52f46248009d86e680e401df14/version/120/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_muu7v860/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",
@@ -2175,7 +2185,7 @@
       },
       {
        "name": "מילון היופי 01.04.23 | הפרק המלא",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/353f6032533d432480657f4690df101d/version/119/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/353f6032533d432480657f4690df101d/version/120/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f2lyayce/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-28",
        "plot": "",

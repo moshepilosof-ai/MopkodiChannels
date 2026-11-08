@@ -8,7 +8,7 @@
    "series_id": "9775",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798756.jpg",
    "plot": "",
-   "updated": "2026-11-05 19:12",
+   "updated": "2026-11-08 12:20",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -81,6 +81,26 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HAPOELHAEMEKvsMACCABIRAMATGAN-GameHighlights_179347472631/HLS/playlist.m3u8&live=False&referrer=https://vod.sp",
+       "season": ""
+      },
+      {
+       "name": "טילמן וזלמנסון הובילו את ראשל''צ ל-61:97 על רמת גן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1801257.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIRAMATGANvsRISHONLEZION-GameHighlights_179407872696/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIRAMATGANvsRISHONLEZION-GameHighlights_179407872696/HLS/playlist.m3u8&live=False&referrer=https://vod.sp",
+       "season": ""
+      },
+      {
+       "name": "קינגס כיכב עם 37 נק' בניצחון גליל על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1800569.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12399%26Vi=566658&poster=https:",
        "season": ""
       },
       {
@@ -182,26 +202,6 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_NEW_171026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12379%26Vi=564014&po",
        "season": ""
-      },
-      {
-       "name": "ברוכים השבים: אילת גברה 80:89 על מכבי ראשל''צ",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787887.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RISHONLEZIONvsIRONIEILAT-GameHighlights1_179183294134/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/RISHONLEZIONvsIRONIEILAT-GameHighlights1_179183294134/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5",
-       "season": ""
-      },
-      {
-       "name": "פתיחה נהדרת: 79:89 מרשים להפועל ר\"ג על בני הרצליה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787877.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8&live=False&referrer=https://vod.sp",
-       "season": ""
       }
      ]
     },
@@ -276,6 +276,26 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HAPOELHAEMEKvsMACCABIRAMATGAN-GameHighlights_179347472631/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27"
+      },
+      {
+       "name": "טילמן וזלמנסון הובילו את ראשל''צ ל-61:97 על רמת גן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1801257.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIRAMATGANvsRISHONLEZION-GameHighlights_179407872696/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIRAMATGANvsRISHONLEZION-GameHighlights_179407872696/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27"
+      },
+      {
+       "name": "קינגס כיכב עם 37 נק' בניצחון גליל על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1800569.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8",
        "season": "ליגת העל בכדורסל - 2026/27"
       },
       {
@@ -386,26 +406,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_NEW_171026/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27"
-      },
-      {
-       "name": "ברוכים השבים: אילת גברה 80:89 על מכבי ראשל''צ",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787887.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RISHONLEZIONvsIRONIEILAT-GameHighlights1_179183294134/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RISHONLEZIONvsIRONIEILAT-GameHighlights1_179183294134/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27"
-      },
-      {
-       "name": "פתיחה נהדרת: 79:89 מרשים להפועל ר\"ג על בני הרצליה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787877.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8",
        "season": "ליגת העל בכדורסל - 2026/27"
       }
      ]
@@ -2329,6 +2329,26 @@
        "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
       },
       {
+       "name": "טילמן וזלמנסון הובילו את ראשל''צ ל-61:97 על רמת גן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1801257.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIRAMATGANvsRISHONLEZION-GameHighlights_179407872696/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIRAMATGANvsRISHONLEZION-GameHighlights_179407872696/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "קינגס כיכב עם 37 נק' בניצחון גליל על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1800569.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "66:77 לגליל עליון על מכבי אשדוד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1795281.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIASHDODvsGALILELION-GameHighlights_179304351898/HLS/playlist.m3u8",
@@ -2436,26 +2456,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_NEW_171026/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "ברוכים השבים: אילת גברה 80:89 על מכבי ראשל''צ",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787887.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RISHONLEZIONvsIRONIEILAT-GameHighlights1_179183294134/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/RISHONLEZIONvsIRONIEILAT-GameHighlights1_179183294134/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "פתיחה נהדרת: 79:89 מרשים להפועל ר\"ג על בני הרצליה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787877.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsMACCABIRAMATGAN-GameHighlights_179183642357/HLS/playlist.m3u8",
        "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
@@ -6141,6 +6141,26 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HAPOELHAEMEKvsMACCABIRAMATGAN-GameHighlights_179347472631/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 4"
+      },
+      {
+       "name": "טילמן וזלמנסון הובילו את ראשל''צ ל-61:97 על רמת גן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1801257.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIRAMATGANvsRISHONLEZION-GameHighlights_179407872696/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MACCABIRAMATGANvsRISHONLEZION-GameHighlights_179407872696/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 4"
+      },
+      {
+       "name": "קינגס כיכב עם 37 נק' בניצחון גליל על חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1800569.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_GAL_HOL/HLS/playlist.m3u8",
        "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 4"
       }
      ]

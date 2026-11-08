@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Ftennis",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Ftennis",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1289390",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292121",
    "plot": "",
-   "updated": "2026-11-05 19:27",
+   "updated": "2026-11-08 12:33",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר ניצחונו של אלחנדרו דוידוביץ' פוקינה על רפאל חודאר, גמר טורניר שנגחאי",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1289390",
+       "name": "תקציר טניס: קרלוס אלקראס – קספר רוד 4:6 4:6",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292121",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117161/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1991481/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אלחנדרו דוידוביץ' פוקינה רשם את הישג חייו בדרך לדירוג שיא",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1289390",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4110792/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/other-industries/tennis/video/1854072/",
-       "season": ""
-      },
-      {
-       "name": "צפו: סינר הביס את זברב בגמר טורניר מדריד ונכנס לספרי ההיסטוריה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1269156",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4045965/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1842119/",
        "season": ""
       }
      ]

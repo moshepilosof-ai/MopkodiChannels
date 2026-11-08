@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Feuropa-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Feuropa-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1290052",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291934",
    "plot": "",
-   "updated": "2026-11-05 19:25",
+   "updated": "2026-11-08 12:33",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: הליגה האירופאית יובנטוס – ראן 2:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1290052",
+       "name": "תקציר ליגה אירופית: קריסטל פאלאס – הופנהיים 1:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291934",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116753/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/1990303/",
+       "season": ""
+      },
+      {
+       "name": "יובנטוס שוב אכזבה עם 2:2 מול ראן, והלחץ על ספאלטי נמשך",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290052",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4112434/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/europa-league/video/1856654/",
-       "season": ""
-      },
-      {
-       "name": "צפו: אסטון וילה דרסה 0:4 את נוטינגהאם פורסט בדרך לגמר הליגה האירופית",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1269883",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4048024/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/europa-league/video/1846110/",
        "season": ""
       }
      ]

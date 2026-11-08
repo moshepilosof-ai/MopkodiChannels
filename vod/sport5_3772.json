@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3772",
    "series_id": "3772",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796605.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
    "plot": "",
-   "updated": "2026-11-05 18:55",
+   "updated": "2026-11-08 12:03",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "עוד הפסד לאוסף: מכבי ת\"א הובסה בבלגרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_061126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_061126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12365%26Vi=566654&poster",
+       "season": ""
+      },
       {
        "name": "ממשיכה לשקוע: מכבי ת\"א הפסידה 99:94 לפריז",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796605.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_OLYM_200126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12091%26Vi=531782&poste",
        "season": ""
-      },
-      {
-       "name": "חזרה לדשדש: מכבי ת\"א נכנעה לריאל מדריד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1656714.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_MAD_080126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_MAD_080126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12091%26Vi=530477&poster",
-       "season": ""
       }
      ]
     },
     {
      "name": "מכבי ת\"א ביורוליג - 2026/27",
      "channels": [
+      {
+       "name": "עוד הפסד לאוסף: מכבי ת\"א הובסה בבלגרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_061126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_061126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2026/27"
+      },
       {
        "name": "ממשיכה לשקוע: מכבי ת\"א הפסידה 99:94 לפריז",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796605.jpg",
@@ -2478,6 +2488,16 @@
     {
      "name": "מכבי ת\"א ביורוליג - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
+      {
+       "name": "עוד הפסד לאוסף: מכבי ת\"א הובסה בבלגרד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_061126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_061126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
       {
        "name": "ממשיכה לשקוע: מכבי ת\"א הפסידה 99:94 לפריז",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796605.jpg",

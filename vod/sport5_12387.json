@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "12387",
    "series_id": "12387",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1797785.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1800925.jpg",
    "plot": "",
-   "updated": "2026-11-05 18:57",
+   "updated": "2026-11-08 12:06",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "דני אבדיה נגד הלייקרס - קרוב לקוודרופל דאבל בגביע #מעקבדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1800925.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/7-11_179405453121/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/7-11_179405453121/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12387%26Vi=566747&poster=",
+       "season": ""
+      },
       {
        "name": "דני אבדיה נגד יוטה - דורס באלגנטיות #מעקבדיה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1797785.jpg",
