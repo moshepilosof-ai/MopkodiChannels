@@ -6,16 +6,46 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fligat-haal",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fligat-haal",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292132",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292345",
    "plot": "",
-   "updated": "2026-11-08 22:21",
+   "updated": "2026-11-09 13:26",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: עירוני טבריה – בית\"ר ירושלים 1:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292132",
+       "name": "הפועל פתח תקוה פרסמה סרטון בנוגע להפסד הטכני שספגה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292345",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117707/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1993119/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אלקוקין כבש בדקה ה-91 ונתן להפועל ת\"א 0:1 דרמטי מול הפועל ב\"ש",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292306",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117672/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1992787/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אלקוקין כבש בדקה ה-91 ונתן להפועל ת\"א 0:1 דרמטי מול הפועל ב\"ש",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292302",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1992730/",
+       "season": ""
+      },
+      {
+       "name": "צפו: בית\"ר ירושלים המשיכה לאכזב עם 1:1 מול עירוני טבריה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292132",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117256/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -71,36 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/israeli-soccer/ligat-haal/video/1991556/",
-       "season": ""
-      },
-      {
-       "name": "צפו בריאיון הנדיר: ברק בכר הודיע על התפטרותו ממכבי חיפה בשידור ישיר",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292110",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117132/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1991428/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: מכבי ת\"א ומכבי פ\"ת נפרדו ב-2:2 דרמטי, טיבי השווה בדקה ה-94",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292014",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116832/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1990669/",
-       "season": ""
-      },
-      {
-       "name": "צפו: יחזקאל מעלה את מכבי תל אביב ל-0:1 על מכבי פתח תקוה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291992",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116809/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1990608/",
        "season": ""
       }
      ]

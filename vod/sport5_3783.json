@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3783",
    "series_id": "3783",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1801231.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1801895.jpg",
    "plot": "",
-   "updated": "2026-11-08 21:49",
+   "updated": "2026-11-09 12:54",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "ובמקום ה-1: הפועל ת\"א עם 1:0 דרמטי על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1801895.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_HTA_081126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_HTA_081126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12392%26Vi=566867&po",
+       "season": ""
+      },
       {
        "name": "מפלה ענקית: מכבי חיפה הובסה 4:0 מול מכבי נתניה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1801231.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_191026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12380%26Vi=564339&post",
        "season": ""
-      },
-      {
-       "name": "צמד לזלאטונוביץ`: 1:2 לב\"ש על הפועל י-ם",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1790987.png",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_BASH_JER_181026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_BASH_JER_181026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12380%26Vi=56422",
-       "season": ""
       }
      ]
     },
     {
      "name": "ליגת העל - 2026/27",
      "channels": [
+      {
+       "name": "ובמקום ה-1: הפועל ת\"א עם 1:0 דרמטי על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1801895.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_HTA_081126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_HTA_081126/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27"
+      },
       {
        "name": "מפלה ענקית: מכבי חיפה הובסה 4:0 מול מכבי נתניה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1801231.jpg",
@@ -406,16 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_191026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27"
-      },
-      {
-       "name": "צמד לזלאטונוביץ`: 1:2 לב\"ש על הפועל י-ם",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1790987.png",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_BASH_JER_181026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_BASH_JER_181026/HLS/playlist.m3u8",
        "season": "ליגת העל - 2026/27"
       }
      ]
@@ -2474,6 +2474,16 @@
      "name": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "ובמקום ה-1: הפועל ת\"א עם 1:0 דרמטי על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1801895.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_HTA_081126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_HTA_081126/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "מפלה ענקית: מכבי חיפה הובסה 4:0 מול מכבי נתניה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1801231.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MHAIFA_071126/HLS/playlist.m3u8",
@@ -2661,16 +2671,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BEITAR_191026/HLS/playlist.m3u8",
-       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "צמד לזלאטונוביץ`: 1:2 לב\"ש על הפועל י-ם",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1790987.png",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_BASH_JER_181026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_BASH_JER_181026/HLS/playlist.m3u8",
        "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
@@ -8248,6 +8248,16 @@
     {
      "name": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 10",
      "channels": [
+      {
+       "name": "ובמקום ה-1: הפועל ת\"א עם 1:0 דרמטי על ב\"ש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1801895.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_HTA_081126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_BASH_HTA_081126/HLS/playlist.m3u8",
+       "season": "ליגת העל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 10"
+      },
       {
        "name": "מפלה ענקית: מכבי חיפה הובסה 4:0 מול מכבי נתניה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1801231.jpg",
