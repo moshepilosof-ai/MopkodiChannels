@@ -6,13 +6,73 @@
    "source": "sport5",
    "program_url": "9887",
    "series_id": "9887",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1800071.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1802696.jpg",
    "plot": "",
-   "updated": "2026-11-10 13:15",
+   "updated": "2026-11-10 23:54",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "סימן לבאות? אלקוקין העניק להפועל ת\"א ניצחון יקר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1802696.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_FOLO_HTA_091126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_FOLO_HTA_091126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=567176&po",
+       "season": ""
+      },
+      {
+       "name": "היום שאחרי הטלטלה: צומת הדרכים הגורלי בו נמצאת מכבי חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1802692.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_BACHAR_081126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_BACHAR_081126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=567175&post",
+       "season": ""
+      },
+      {
+       "name": "נפרד מהסלסאו: בגיל 41 כריסטיאנו רונאלדו פרש מהנברחת",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1802688.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_RONALDO_051126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_RONALDO_051126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=567174&pos",
+       "season": ""
+      },
+      {
+       "name": "ריאיון מיוחד עם דניאל פרץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1802683.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_PERETZ_081126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_PERETZ_081126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=567171&post",
+       "season": ""
+      },
+      {
+       "name": "פנים חדשות: רן בן שמעון פרסם את הסגל לקראת קוסובו ואוסטריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1802681.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_NIVHERET_051126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_NIVHERET_051126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=567170&po",
+       "season": ""
+      },
+      {
+       "name": "רגע לפני פגרה: מכבי ת\"א תקווה לשמור על הפסגה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1802685.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_LIGAT_AL_051126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_LIGAT_AL_051126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=567173&po",
+       "season": ""
+      },
       {
        "name": "טורפים את הקלפים: קלפי הספורט הנדירים של אבדיה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1800071.jpg",
@@ -151,66 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_BCHIROT_181026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=564342&poster",
-       "season": ""
-      },
-      {
-       "name": "שרק ימשיך להרוס לנו את שעות השינה: אבדיה התארח בפודסקאסט של דריימונד גרין",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1788183.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_DENNY_PODCAST_GREEN_121026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_DENNY_PODCAST_GREEN_121026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26V",
-       "season": ""
-      },
-      {
-       "name": "זמן לפרוח: סיפור הסינדרלה של נדים וראסנה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1788603.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_WARASNA_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_WARASNA_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563783&pos",
-       "season": ""
-      },
-      {
-       "name": "ראיון בלעדי עם ג'ייסון לוין, מבעלי מכבי ת''א",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1788601.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_LEVIN_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_LEVIN_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563781&poste",
-       "season": ""
-      },
-      {
-       "name": "חוזרים מהפגרה: הכתבים של ערוץ הספורט מכינים אתכם",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1788595.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_KATAVIM_081026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_KATAVIM_081026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563779&pos",
-       "season": ""
-      },
-      {
-       "name": "שנייה בעולם: כרם פרימו זכתה במדליית כסף באליפות בבאקו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1788593.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_PRIMO_081026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_PRIMO_081026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563778&poste",
-       "season": ""
-      },
-      {
-       "name": "פוצ'י-גיבורים: טורניר הפוצ'יוולי המיוחד להנצחת הנופלים",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1785625.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_FOCHIVOLLY_071026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_ITEM_FOCHIVOLLY_071026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=563027&",
        "season": ""
       }
      ]

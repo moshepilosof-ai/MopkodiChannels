@@ -8,7 +8,7 @@
    "series_id": "613",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/129ed519f3f440d79db87d875d3758c0/version/0/width/800/height/1200/quality/90",
    "plot": "תוכנית דוקו ריאליטי שתחשוף לראשונה את עולם השידוכים במגזר החרדי בדרך לחתונה המיוחלת",
-   "updated": "2026-11-10 12:20",
+   "updated": "2026-11-10 22:59",
    "sub_categories": [
     {
      "name": "עונה 2",
@@ -347,6 +347,21 @@
        "page": "",
        "id": "--kaltura--1_jevzf1wo===",
        "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "ווארט, עונה 3, פרק 1: פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ebf961927514f1193824154b340c041/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gx7npaoj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-10",
+       "plot": "תוכנית השידוכים שסחפה מדינה שלמה חוזרת בעונה חדשה, שתיכנס אל הלב של כולנו. בואו לגלות כמה מפתיעה הדרך אל החופה | \"ווארט\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_gx7npaoj===",
+       "season": "עונה 3"
       }
      ]
     }
