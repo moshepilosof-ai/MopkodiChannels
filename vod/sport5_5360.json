@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "5360",
    "series_id": "5360",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1783309.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1802499.jpg",
    "plot": "",
-   "updated": "2026-11-09 13:15",
+   "updated": "2026-11-10 02:31",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "בלתי נתפס: מכבי ת\"א זכתה בגביע ווינר לאחר קאמבק משוגע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1802499.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_DERBI_GAVIA_091126_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_DERBI_GAVIA_091126_NEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12362%26V",
+       "season": ""
+      },
       {
        "name": "חוזרת לקצב: מכבי ת\"א הביסה 71:88 את הפועל י-ם",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1783309.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_250925/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12076%26Vi=520203&poste",
        "season": ""
-      },
-      {
-       "name": "עלתה לחצי: הפועל י-ם גברה על בני הרצליה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1605778.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_240925/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_JER_SAL_240925/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12076%26Vi=520124&poster",
-       "season": ""
       }
      ]
     },
     {
      "name": "גביע ווינר - 2026/27",
      "channels": [
+      {
+       "name": "בלתי נתפס: מכבי ת\"א זכתה בגביע ווינר לאחר קאמבק משוגע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1802499.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_DERBI_GAVIA_091126_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_DERBI_GAVIA_091126_NEW/HLS/playlist.m3u8",
+       "season": "גביע ווינר - 2026/27"
+      },
       {
        "name": "חוזרת לקצב: מכבי ת\"א הביסה 71:88 את הפועל י-ם",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1783309.jpg",
