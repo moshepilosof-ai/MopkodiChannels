@@ -1,6 +1,6 @@
 {
  "name": "MopkodiChannels VOD",
- "updated": "2026-11-11 00:07",
+ "updated": "2026-11-11 12:55",
  "addon_version": "4.0.5",
  "sources": [
   {
@@ -11,21 +11,9 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f3d07fca082042648bc56158deaae6e0/version/1/width/800/height/1200/quality/90",
    "episodes": 26,
    "seasons": 1,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-09-06",
    "oldest": "2026-07-08"
-  },
-  {
-   "name": "VOICE OVER",
-   "provider": "reshet",
-   "provider_name": "רשת 13",
-   "file": "vod/reshet_732.json",
-   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ed7ed4918db4ac380513eae88162359/version/0/width/800/height/1200/quality/90",
-   "episodes": 4,
-   "seasons": 1,
-   "updated": "2026-11-10 22:59",
-   "newest": "2026-07-31",
-   "oldest": "2026-07-11"
   },
   {
    "name": "אבודים",
@@ -35,7 +23,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/667ee07213664be28ed8dfdf7f8ec9f1/version/12/width/800/height/1200/quality/90",
    "episodes": 94,
    "seasons": 17,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2025-10-02",
    "oldest": "2023-03-30"
   },
@@ -47,7 +35,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a9192f794adb4580a9d99aee97ea5e76/version/1/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-05-15",
    "oldest": "2023-05-09"
   },
@@ -59,7 +47,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f6e0e661341c4c2d9fbbf7af0edb68a9/version/0/width/800/height/1200/quality/90",
    "episodes": 99,
    "seasons": 5,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-03-04",
    "oldest": "2023-03-27"
   },
@@ -71,7 +59,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/436c7c11b76b48d284005219ee21e7ae/version/0/width/800/height/1200/quality/90",
    "episodes": 5,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-12-30",
    "oldest": "2023-11-19"
   },
@@ -83,7 +71,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/924a68781fe34aa8ad411f5ce7647b4c/version/0/width/800/height/1200/quality/90",
    "episodes": 14,
    "seasons": 2,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2024-03-13",
    "oldest": "2024-01-22"
   },
@@ -95,7 +83,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc49b23c1ab04bed823b8352ea57fba3/version/0/width/800/height/1200/quality/90",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:57",
    "newest": "2026-02-08",
    "oldest": "2026-01-26"
   },
@@ -107,7 +95,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7aa9831020fb4a3a903478050a04614f/version/0/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2025-05-22",
    "oldest": "2025-04-03"
   },
@@ -119,7 +107,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d3e36d8b903447a2952e75c94a6fa47a/version/0/width/800/height/1200/quality/90",
    "episodes": 893,
    "seasons": 1,
-   "updated": "2026-11-10 23:04",
+   "updated": "2026-11-11 11:54",
    "newest": "2026-11-10",
    "oldest": "2023-03-30"
   },
@@ -131,7 +119,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e882465617d14a7f90020f8182601642/version/1/width/800/height/1200/quality/90",
    "episodes": 74,
    "seasons": 4,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2026-06-27",
    "oldest": "2023-06-02"
   },
@@ -143,7 +131,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/55e14b07decd4daa8a13410507315514/version/3/width/800/height/1200/quality/90",
    "episodes": 14,
    "seasons": 2,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-08-16",
    "oldest": "2023-05-28"
   },
@@ -155,7 +143,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8dfcce47f3b145f0a4a284543cb2c507/version/7/width/800/height/1200/quality/90",
    "episodes": 11,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-04",
    "oldest": "2023-04-04"
   },
@@ -167,7 +155,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1f6e904986f6463d8bbf871cc7373155/version/0/width/800/height/1200/quality/90",
    "episodes": 30,
    "seasons": 3,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-07-09",
    "oldest": "2023-05-31"
   },
@@ -179,7 +167,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/edfeb50818934a2ab78631fdada95124/version/0/width/800/height/1200/quality/90",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-05-15",
    "oldest": "2023-05-15"
   },
@@ -191,7 +179,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0928c62e9d54701a7a88782e96b3dfe/version/0/width/800/height/1200/quality/90",
    "episodes": 12,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-05-21",
    "oldest": "2023-05-21"
   },
@@ -203,7 +191,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1ed4d4bc38b46709b6260d14ace2988/version/2/width/800/height/1200/quality/90",
    "episodes": 3,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-05-16",
    "oldest": "2023-05-16"
   },
@@ -215,7 +203,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8c00147b494466aacd0a84386e3795f/version/7/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-05-22",
    "oldest": "2023-05-15"
   },
@@ -227,7 +215,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bffa5cbde8744eb3b710a4f48ea07225/version/10/width/800/height/1200/quality/90",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -239,7 +227,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4d43af1bf1654bf1bfd83e43b3db7147/version/1/width/800/height/1200/quality/90",
    "episodes": 21,
    "seasons": 1,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-10-29",
    "oldest": "2026-06-04"
   },
@@ -251,7 +239,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2fd9b924dc0344fe987fd2e14ee21076/version/10/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -263,7 +251,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/296e1d08b7f848bf8a6101b29b196b04/version/1/width/800/height/1200/quality/90",
    "episodes": 139,
    "seasons": 7,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-08-05",
    "oldest": "2023-06-07"
   },
@@ -275,7 +263,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5aed1ca7bd4b4d3f9aa83de903331dbc/version/8/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -287,7 +275,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f624d9359d8d400fa64f97a1f2bb826b/version/14/width/800/height/1200/quality/90",
    "episodes": 26,
    "seasons": 2,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -299,7 +287,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a0828235ccc749a6a02c3bdb6dca21d1/version/9/width/800/height/1200/quality/90",
    "episodes": 21,
    "seasons": 3,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -311,7 +299,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dadd5380fe6844759edeba5bdccc5a19/version/0/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-11-03",
    "oldest": "2026-10-11"
   },
@@ -323,7 +311,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/335e353074d04c7287d62ad75aea1f0c/version/11/width/800/height/1200/quality/90",
    "episodes": 2,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -335,7 +323,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/62077ca37c744da78585700571a6f6dd/version/0/width/800/height/1200/quality/90",
    "episodes": 544,
    "seasons": 10,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-07-04",
    "oldest": "2023-03-30"
   },
@@ -347,7 +335,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9e264da43d924b318f63cd060baf5cd3/version/1/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-02-05",
    "oldest": "2025-12-04"
   },
@@ -359,7 +347,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9dabec6c15f54aaea24adb3eb219d872/version/0/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 2,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-11-09",
    "oldest": "2026-10-03"
   },
@@ -371,7 +359,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be6432e346ae4592a48791463d350811/version/1/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:07",
+   "updated": "2026-11-11 11:57",
    "newest": "2025-04-02",
    "oldest": "2025-02-05"
   },
@@ -383,7 +371,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52f934d59f2e4cd5b3c5c985d314324a/version/9/width/800/height/1200/quality/90",
    "episodes": 52,
    "seasons": 4,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-01-01",
    "oldest": "2023-12-04"
   },
@@ -395,7 +383,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8225902ed5f2436b82fd1225e414efce/version/9/width/800/height/1200/quality/90",
    "episodes": 95,
    "seasons": 5,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2025-08-11",
    "oldest": "2023-03-30"
   },
@@ -405,10 +393,10 @@
    "provider_name": "רשת 13",
    "file": "vod/reshet_294.json",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/748f232cdc6347bc97a92394b83375fd/version/15/width/800/height/1200/quality/90",
-   "episodes": 762,
+   "episodes": 763,
    "seasons": 1,
-   "updated": "2026-11-10 23:07",
-   "newest": "2026-11-09",
+   "updated": "2026-11-11 11:56",
+   "newest": "2026-11-11",
    "oldest": "2023-04-03"
   },
   {
@@ -419,7 +407,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6ce7a5b096564f8cb0a71ea9c9cce60c/version/15/width/800/height/1200/quality/90",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2025-11-16",
    "oldest": "2023-03-30"
   },
@@ -431,7 +419,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/47b2caf8e5664172b080f73a31df7d53/version/3/width/800/height/1200/quality/90",
    "episodes": 103,
    "seasons": 3,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-11-07",
    "oldest": "2023-03-30"
   },
@@ -443,7 +431,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a81de17488946868d29b57b8dc80ea9/version/8/width/800/height/1200/quality/90",
    "episodes": 48,
    "seasons": 4,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2026-11-08",
    "oldest": "2023-04-03"
   },
@@ -455,7 +443,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a791c429a62c4697a300cd3243b72995/version/25/width/800/height/1200/quality/90",
    "episodes": 21,
    "seasons": 2,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2025-11-16",
    "oldest": "2023-03-28"
   },
@@ -467,7 +455,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8dcfa9987df453a844b96a86526dbde/version/14/width/800/height/1200/quality/90",
    "episodes": 124,
    "seasons": 1,
-   "updated": "2026-11-10 23:07",
+   "updated": "2026-11-11 11:57",
    "newest": "2026-11-06",
    "oldest": "2023-04-03"
   },
@@ -479,7 +467,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/00596fcd357a43a19f6226137c05ab13/version/9/width/800/height/1200/quality/90",
    "episodes": 27,
    "seasons": 2,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-10-03",
    "oldest": "2023-03-30"
   },
@@ -489,10 +477,10 @@
    "provider_name": "רשת 13",
    "file": "vod/reshet_278.json",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ec6b3e4b5a94502986f4dfba58eba5c/version/17/width/800/height/1200/quality/90",
-   "episodes": 1055,
+   "episodes": 1056,
    "seasons": 1,
-   "updated": "2026-11-10 23:06",
-   "newest": "2026-11-09",
+   "updated": "2026-11-11 11:56",
+   "newest": "2026-11-11",
    "oldest": "2023-03-30"
   },
   {
@@ -503,7 +491,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/975ebe872ee44d3da155b0557a9c08a2/version/0/width/800/height/1200/quality/90",
    "episodes": 16,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-08-28",
    "oldest": "2023-08-28"
   },
@@ -515,7 +503,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/effc56904cf643058a88ce0d636f325c/version/0/width/800/height/1200/quality/90",
    "episodes": 37,
    "seasons": 3,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-10-05",
    "oldest": "2023-05-08"
   },
@@ -527,7 +515,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1719eabba24f410695b3034a04b6d0e6/version/8/width/800/height/1200/quality/90",
    "episodes": 59,
    "seasons": 8,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2025-02-05",
    "oldest": "2023-03-30"
   },
@@ -539,7 +527,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9129305e342f449cbb1657ca12e4181d/version/10/width/800/height/1200/quality/90",
    "episodes": 24,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -551,7 +539,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cdbb3b38532e4df89feebd69af0787f5/version/0/width/800/height/1200/quality/90",
    "episodes": 22,
    "seasons": 2,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-11-06",
    "oldest": "2026-03-08"
   },
@@ -563,7 +551,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/13bf02510462436db32a740f03b868b8/version/0/width/800/height/1200/quality/90",
    "episodes": 25,
    "seasons": 3,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2024-08-05",
    "oldest": "2023-06-07"
   },
@@ -575,7 +563,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66e46c5d72234158bbc16f5c5e5e9c87/version/0/width/800/height/1200/quality/90",
    "episodes": 35,
    "seasons": 2,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2024-03-05",
    "oldest": "2023-05-24"
   },
@@ -587,7 +575,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e2b421e70324b289985f22bce8e6b44/version/0/width/800/height/1200/quality/90",
    "episodes": 289,
    "seasons": 11,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-10-05",
    "oldest": "2023-03-30"
   },
@@ -599,7 +587,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fea683e48d3242e898ded84b75836723/version/10/width/800/height/1200/quality/90",
    "episodes": 21,
    "seasons": 2,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-08-29",
    "oldest": "2023-07-24"
   },
@@ -611,7 +599,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2f54304b9a714cb79ea679631ad09fd2/version/0/width/800/height/1200/quality/90",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-09-23",
    "oldest": "2023-08-05"
   },
@@ -623,7 +611,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/98d4c7bfc12a4569b9942112116dbf4d/version/0/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2025-05-26",
    "oldest": "2025-04-20"
   },
@@ -635,7 +623,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/551f12535d3d45f282b900a3608c6bcb/version/0/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2024-04-10",
    "oldest": "2024-03-13"
   },
@@ -645,10 +633,10 @@
    "provider_name": "רשת 13",
    "file": "vod/reshet_275.json",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1994801445b9402890f27e1ab58cc2e2/version/3/width/800/height/1200/quality/90",
-   "episodes": 782,
+   "episodes": 783,
    "seasons": 1,
-   "updated": "2026-11-10 23:04",
-   "newest": "2026-11-09",
+   "updated": "2026-11-11 11:53",
+   "newest": "2026-11-11",
    "oldest": "2023-04-03"
   },
   {
@@ -659,7 +647,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/48e9f23cfffd4991a624a29a45e9f197/version/10/width/800/height/1200/quality/90",
    "episodes": 5,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -671,7 +659,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2af599084b3744e0aef12b0b939156d4/version/2/width/800/height/1200/quality/90",
    "episodes": 12,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2024-08-05",
    "oldest": "2023-05-16"
   },
@@ -683,7 +671,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d937c752805c4f45984e9fe925ddbb7c/version/11/width/800/height/1200/quality/90",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -695,7 +683,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e05b3f438bde4cbf88c856444a0a8b4b/version/10/width/800/height/1200/quality/90",
    "episodes": 2,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-05-28",
    "oldest": "2023-05-28"
   },
@@ -707,7 +695,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5551a62dcb734cfa9295c154472236c9/version/10/width/800/height/1200/quality/90",
    "episodes": 22,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2026-01-28",
    "oldest": "2023-03-30"
   },
@@ -719,7 +707,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7a926130563a4fbd86f9dcf28c4ce439/version/0/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2025-05-11",
    "oldest": "2023-08-30"
   },
@@ -731,7 +719,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/129ed519f3f440d79db87d875d3758c0/version/0/width/800/height/1200/quality/90",
    "episodes": 34,
    "seasons": 3,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-11-10",
    "oldest": "2024-05-20"
   },
@@ -743,7 +731,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a6d74a1ea6b84145bc3717cda151f08c/version/1/width/800/height/1200/quality/90",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-05-15",
    "oldest": "2023-05-15"
   },
@@ -755,7 +743,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da0f9dc01d1140a2aefb45c0b53c9c6f/version/16/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -767,7 +755,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58ae67fa6a064806849a62e3c22b669c/version/12/width/800/height/1200/quality/90",
    "episodes": 50,
    "seasons": 3,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -779,7 +767,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1dae819922d24110b1dcce30507170b2/version/2/width/800/height/1200/quality/90",
    "episodes": 91,
    "seasons": 1,
-   "updated": "2026-11-10 23:05",
+   "updated": "2026-11-11 11:55",
    "newest": "2025-11-07",
    "oldest": "2024-01-13"
   },
@@ -791,7 +779,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/80c0dc11d3924c459be2ca5092c2cd6d/version/10/width/800/height/1200/quality/90",
    "episodes": 51,
    "seasons": 4,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -803,7 +791,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fbde31feca7f423f83d5fa3c58a12bb7/version/9/width/800/height/1200/quality/90",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -815,7 +803,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/acec40f482fd4d1fbd66a24875a67021/version/13/width/800/height/1200/quality/90",
    "episodes": 5,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -827,7 +815,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a89945713f094a648fa8626bd4b60689/version/10/width/800/height/1200/quality/90",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-04-03"
   },
@@ -839,7 +827,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fba88f8a4ed44b8682c9bc84da442e0d/version/0/width/800/height/1200/quality/90",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2024-02-07",
    "oldest": "2023-05-22"
   },
@@ -851,7 +839,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1c0e6ba2476e48d3a17459e55f736937/version/16/width/800/height/1200/quality/90",
    "episodes": 25,
    "seasons": 2,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -863,7 +851,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/38bb35b4364f4d4b90eb8cb48d1453e7/version/14/width/800/height/1200/quality/90",
    "episodes": 36,
    "seasons": 2,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-12-06",
    "oldest": "2023-03-30"
   },
@@ -875,7 +863,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa8e72dba4f941c1a4039322068442d8/version/1/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:57",
    "newest": "2025-05-18",
    "oldest": "2025-03-02"
   },
@@ -887,7 +875,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d32de20d3c6f4aa5a46d9035e944d802/version/0/width/800/height/1200/quality/90",
    "episodes": 39,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-07-25",
    "oldest": "2023-07-05"
   },
@@ -899,7 +887,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3042e02736b041919be740a28fd540ab/version/0/width/800/height/1200/quality/90",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2026-07-09",
    "oldest": "2023-08-15"
   },
@@ -911,7 +899,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/152bccb5391a4b8e8c2f71dc764a579a/version/0/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-01-11",
    "oldest": "2023-06-14"
   },
@@ -923,7 +911,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/742a87662f934f5db49f763d0dd43090/version/10/width/800/height/1200/quality/90",
    "episodes": 60,
    "seasons": 5,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2026-03-19",
    "oldest": "2023-03-30"
   },
@@ -935,7 +923,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b1dae8781964deb8f46825d54e3b8df/version/2/width/800/height/1200/quality/90",
    "episodes": 36,
    "seasons": 2,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-05-28",
    "oldest": "2023-05-21"
   },
@@ -947,7 +935,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c92aaf118a45498c9993751e1954ee8b/version/8/width/800/height/1200/quality/90",
    "episodes": 42,
    "seasons": 3,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -959,7 +947,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8a7ddb4b04424223b7f3e2894348561a/version/0/width/800/height/1200/quality/90",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:57",
    "newest": "2026-04-15",
    "oldest": "2026-01-20"
   },
@@ -971,7 +959,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bb63b7d070184fcd98499cf48952b09b/version/16/width/800/height/1200/quality/90",
    "episodes": 33,
    "seasons": 2,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-07-17",
    "oldest": "2023-04-03"
   },
@@ -983,7 +971,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7b52403d3cc54a20b2ed76c73167c16c/version/10/width/800/height/1200/quality/90",
    "episodes": 5,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-04-03"
   },
@@ -995,7 +983,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b25163a70d034557b5b8cf5aaa13c2a0/version/8/width/800/height/1200/quality/90",
    "episodes": 18,
    "seasons": 2,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1007,7 +995,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05a65e97174144809ffc0dffb0104716/version/0/width/800/height/1200/quality/90",
    "episodes": 16,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-05-24",
    "oldest": "2023-05-23"
   },
@@ -1019,7 +1007,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ef403d036b048e1b1891958cc398611/version/1/width/800/height/1200/quality/90",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-05-21",
    "oldest": "2023-05-21"
   },
@@ -1031,7 +1019,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/adc7249895124301875ea05811c1e324/version/14/width/800/height/1200/quality/90",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2025-07-14",
    "oldest": "2023-03-30"
   },
@@ -1043,7 +1031,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/77d36f694f6f4a3982f735f6b26b858e/version/0/width/800/height/1200/quality/90",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-10-08",
    "oldest": "2023-10-02"
   },
@@ -1055,7 +1043,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df4da9c8d54746cb9f33bdc3bd432da6/version/2/width/800/height/1200/quality/90",
    "episodes": 16,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2025-10-10",
    "oldest": "2025-06-23"
   },
@@ -1067,7 +1055,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/870a53d54019439ca408fc67b845a917/version/0/width/800/height/1200/quality/90",
    "episodes": 17,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-02-01",
    "oldest": "2023-12-12"
   },
@@ -1079,7 +1067,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27de40a62849461f852704b291dc0d4c/version/16/width/800/height/1200/quality/90",
    "episodes": 214,
    "seasons": 1,
-   "updated": "2026-11-10 23:07",
+   "updated": "2026-11-11 11:57",
    "newest": "2026-11-07",
    "oldest": "2023-04-03"
   },
@@ -1091,7 +1079,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b195c08ca50247518935668bbe3d5156/version/0/width/800/height/1200/quality/90",
    "episodes": 388,
    "seasons": 1,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:57",
    "newest": "2026-11-10",
    "oldest": "2025-03-01"
   },
@@ -1103,7 +1091,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/be180a2ab5444b939f3a2bf20048b819/version/1/width/800/height/1200/quality/90",
    "episodes": 218,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:53",
    "newest": "2026-11-07",
    "oldest": "2023-05-28"
   },
@@ -1115,7 +1103,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fd0db82a98b34a088508cac7ec388c67/version/2/width/800/height/1200/quality/90",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2025-07-27",
    "oldest": "2023-05-22"
   },
@@ -1127,7 +1115,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2bc410d8ed454fafab95162687458cd6/version/10/width/800/height/1200/quality/90",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-12-27",
    "oldest": "2023-12-27"
   },
@@ -1139,7 +1127,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9535dc3c38f244119cac3567db04efcf/version/11/width/800/height/1200/quality/90",
    "episodes": 17,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1151,7 +1139,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1fcecdd17f4240879eb9ffd5ee790354/version/0/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-01-18",
    "oldest": "2024-01-18"
   },
@@ -1163,7 +1151,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3bbe863bb8524d0ea587bfd1e3ca61a8/version/0/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-04",
    "oldest": "2023-04-04"
   },
@@ -1175,7 +1163,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6a1fe2cc216b41c28aba71bdf621245e/version/14/width/800/height/1200/quality/90",
    "episodes": 16,
    "seasons": 2,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-27"
   },
@@ -1187,7 +1175,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/909e621a7da54944bd38f5bb01d6d179/version/0/width/800/height/1200/quality/90",
    "episodes": 19,
    "seasons": 2,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-08-05",
    "oldest": "2023-08-17"
   },
@@ -1199,7 +1187,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2a0a283521384f5d9fc7bae0d8182821/version/0/width/800/height/1200/quality/90",
    "episodes": 55,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-08-05",
    "oldest": "2023-07-23"
   },
@@ -1211,7 +1199,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a4d2c1c02314fa2946144976607a535/version/21/width/800/height/1200/quality/90",
    "episodes": 301,
    "seasons": 8,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-03-07",
    "oldest": "2023-03-30"
   },
@@ -1223,7 +1211,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b89ea6051e240d2b43e9b2967b055d9/version/9/width/800/height/1200/quality/90",
    "episodes": 23,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1235,7 +1223,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c96b0506e9a444398741935d17fa5c70/version/10/width/800/height/1200/quality/90",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1247,7 +1235,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bfa28f0ca4df41a0920a5685f1fa9f28/version/0/width/800/height/1200/quality/90",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:57",
    "newest": "2025-11-23",
    "oldest": "2025-11-22"
   },
@@ -1259,7 +1247,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5c5a372524fa40e4a948d0cfef7e26b3/version/2/width/800/height/1200/quality/90",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-05-15",
    "oldest": "2023-05-15"
   },
@@ -1271,7 +1259,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5146c7c20fef44eca850dcec36752d0a/version/11/width/800/height/1200/quality/90",
    "episodes": 29,
    "seasons": 2,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1283,7 +1271,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/030e42a712324a8b90e070745c767dfd/version/8/width/800/height/1200/quality/90",
    "episodes": 11,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1295,7 +1283,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c647c51304294003a2feaad888e38042/version/10/width/800/height/1200/quality/90",
    "episodes": 66,
    "seasons": 5,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1307,7 +1295,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/02fcceb5e1a74c6ea450a5697a5f8bcc/version/0/width/800/height/1200/quality/90",
    "episodes": 14,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-07-25",
    "oldest": "2023-07-13"
   },
@@ -1319,7 +1307,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b63a4524433f4d1ca654b96fecbe9367/version/1/width/800/height/1200/quality/90",
    "episodes": 133,
    "seasons": 1,
-   "updated": "2026-11-10 23:07",
+   "updated": "2026-11-11 11:57",
    "newest": "2026-11-06",
    "oldest": "2024-03-22"
   },
@@ -1331,7 +1319,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/35d6a5fe1fad4d16b2b88c5e8fc4bcfa/version/0/width/800/height/1200/quality/90",
    "episodes": 3,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-06-19",
    "oldest": "2023-06-19"
   },
@@ -1343,7 +1331,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1bbddf99564f4bf4bb060d8f64bc2879/version/163/width/800/height/1200/quality/90",
    "episodes": 12,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-04-03"
   },
@@ -1355,7 +1343,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c5c87e0cf2b842b1a6ea015ced82b92e/version/10/width/800/height/1200/quality/90",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1367,7 +1355,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/efb8f02bc8434c4ba99a35d892010700/version/1/width/800/height/1200/quality/90",
    "episodes": 19,
    "seasons": 1,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2026-08-31",
    "oldest": "2026-06-28"
   },
@@ -1379,7 +1367,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/810cb90e7a2049b28a06ff3dec33dcff/version/0/width/800/height/1200/quality/90",
    "episodes": 11,
    "seasons": 1,
-   "updated": "2026-11-10 22:59",
+   "updated": "2026-11-11 11:49",
    "newest": "2025-03-09",
    "oldest": "2024-11-28"
   },
@@ -1391,7 +1379,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe0a2ab9ebba4a1089ed0345cda33022/version/13/width/800/height/1200/quality/90",
    "episodes": 14,
    "seasons": 1,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1403,7 +1391,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a8215fd7e8d04e8ba569908c38b78d3f/version/14/width/800/height/1200/quality/90",
    "episodes": 14,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:51",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1415,7 +1403,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7859b569631144d0a4e18e8bc38a3879/version/13/width/800/height/1200/quality/90",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:53",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1427,7 +1415,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63aa90fdc2654f8683ff4015d5b6e19e/version/3/width/800/height/1200/quality/90",
    "episodes": 78,
    "seasons": 5,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-08-05",
    "oldest": "2023-05-08"
   },
@@ -1439,7 +1427,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f115f532199f4c949dd31c111df2b9bd/version/10/width/800/height/1200/quality/90",
    "episodes": 12,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1451,7 +1439,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/90ecc4b26ecc4667916a4faa03bfe163/version/14/width/800/height/1200/quality/90",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1463,7 +1451,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/de4ad7ee08dd472bb6fb4b05ca0a35ad/version/9/width/800/height/1200/quality/90",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1475,7 +1463,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b4dea3de4b94f2c97988edb937aa20b/version/11/width/800/height/1200/quality/90",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:53",
    "newest": "2023-04-03",
    "oldest": "2023-04-03"
   },
@@ -1487,7 +1475,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/064aa96f07a24de79ff9bc2012ab3ac6/version/10/width/800/height/1200/quality/90",
    "episodes": 21,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:53",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1499,7 +1487,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/81f664bf13ac4b7a8c170f549ac18b8b/version/9/width/800/height/1200/quality/90",
    "episodes": 2,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:53",
    "newest": "2023-04-03",
    "oldest": "2023-04-03"
   },
@@ -1511,7 +1499,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bff70ac36ef54edfae5c07ae5f83fc82/version/13/width/800/height/1200/quality/90",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1523,7 +1511,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cb2367ab0fdc47ea8dabd2f8d2b6e2d8/version/9/width/800/height/1200/quality/90",
    "episodes": 15,
    "seasons": 2,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1535,7 +1523,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a0e74b7a34e48f2bc399289f37fdc8e/version/0/width/800/height/1200/quality/90",
    "episodes": 82,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2024-10-30",
    "oldest": "2024-06-02"
   },
@@ -1547,7 +1535,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae3ed2416b2c42d6890fa49455a16e7e/version/1/width/800/height/1200/quality/90",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-10 23:01",
+   "updated": "2026-11-11 11:50",
    "newest": "2024-04-18",
    "oldest": "2023-07-25"
   },
@@ -1559,7 +1547,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d286e775183f49868c129fbe56453801/version/0/width/800/height/1200/quality/90",
    "episodes": 712,
    "seasons": 1,
-   "updated": "2026-11-10 23:05",
+   "updated": "2026-11-11 11:55",
    "newest": "2026-11-09",
    "oldest": "2023-08-14"
   },
@@ -1571,7 +1559,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fe2050fbe5274856a1b3abda89234781/version/0/width/800/height/1200/quality/90",
    "episodes": 24,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-06-20",
    "oldest": "2023-05-28"
   },
@@ -1583,7 +1571,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d29792f3748e47d497bce9fdecdd75c2/version/14/width/800/height/1200/quality/90",
    "episodes": 88,
    "seasons": 5,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1595,7 +1583,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f3e15e08021e46a69707b88683466041/version/2/width/800/height/1200/quality/90",
    "episodes": 48,
    "seasons": 2,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2024-05-14",
    "oldest": "2023-05-10"
   },
@@ -1607,7 +1595,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0f8996b57f264db788a370991aa79a64/version/23/width/800/height/1200/quality/90",
    "episodes": 9,
    "seasons": 2,
-   "updated": "2026-11-10 23:00",
+   "updated": "2026-11-11 11:50",
    "newest": "2023-05-23",
    "oldest": "2023-04-03"
   },
@@ -1619,7 +1607,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7c1a4a1d4ff04a9f97a2e4717de81065/version/9/width/800/height/1200/quality/90",
    "episodes": 9,
    "seasons": 2,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-03-30"
   },
@@ -1631,7 +1619,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8c0a5d79a5124f37a18fe1978078a558/version/10/width/800/height/1200/quality/90",
    "episodes": 5,
    "seasons": 1,
-   "updated": "2026-11-10 23:02",
+   "updated": "2026-11-11 11:52",
    "newest": "2023-04-03",
    "oldest": "2023-04-03"
   },
@@ -1643,7 +1631,7 @@
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/531c9bb2b1aa4853b36d3d044c407ebf/version/10/width/800/height/1200/quality/90",
    "episodes": 12,
    "seasons": 1,
-   "updated": "2026-11-10 23:03",
+   "updated": "2026-11-11 11:53",
    "newest": "2023-04-03",
    "oldest": "2023-04-03"
   },
@@ -1655,7 +1643,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/001f7434-42a5-408e-be39-4d5f48969c6d.png",
    "episodes": 16,
    "seasons": 9,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2026-01-14",
    "oldest": "2023-01-29"
   },
@@ -1667,7 +1655,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/fb498773-9025-4f15-9217-25b2a7bf3b8a.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1679,7 +1667,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/b451b805-ee4c-4fa4-8383-44e627fddff0.png",
    "episodes": 23,
    "seasons": 7,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-04-08",
    "oldest": "2022-12-21"
   },
@@ -1691,7 +1679,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/4408b83b-e0bc-4b27-b1e2-400d9b53947a.jpeg",
    "episodes": 311,
    "seasons": 15,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:58",
    "newest": "2026-05-06",
    "oldest": "2023-01-29"
   },
@@ -1703,7 +1691,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/ed86e026-804e-4481-aa6f-80369bd92f1a.png",
    "episodes": 44,
    "seasons": 21,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:57",
    "newest": "2026-11-03",
    "oldest": "2023-03-01"
   },
@@ -1715,7 +1703,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/db22f92f-c801-4286-92f3-721270768cf3.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1727,7 +1715,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/6408763b-1f36-4cd4-bd48-771fde6c649e.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1739,7 +1727,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/34962621-586b-4436-bd2d-10b8922205ad.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1751,7 +1739,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/4a722ee0-d655-4bc6-8a39-04a796338b5b.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1763,7 +1751,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/ede108eb-4534-4e45-9630-642d5d369e3c.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1775,7 +1763,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/60ebacc7-9ebe-447e-a92f-089d5279df9c.png",
    "episodes": 155,
    "seasons": 8,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2025-08-27",
    "oldest": "2022-06-08"
   },
@@ -1787,7 +1775,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/0c25881a-e07e-412c-8de0-cf88e7137aa6.png",
    "episodes": 23,
    "seasons": 7,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-04-08",
    "oldest": "2022-12-21"
   },
@@ -1799,7 +1787,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/17b9a2c4-00a3-4e45-8b2f-8efde3fe18a6.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1811,7 +1799,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/5b63f075-a74a-4f12-91fe-fe69a5bf3e25.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1823,7 +1811,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/306814d8-c3b5-48c9-8589-b5acc731cf50.png",
    "episodes": 155,
    "seasons": 8,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2025-08-27",
    "oldest": "2022-06-08"
   },
@@ -1835,7 +1823,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/c5edc6ee-3f07-47c0-a263-1d283df26c9b.png",
    "episodes": 23,
    "seasons": 7,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-04-08",
    "oldest": "2022-12-21"
   },
@@ -1847,7 +1835,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/57b0a291-cdfe-4cb9-b7f5-21b2d5b45d71.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1859,7 +1847,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/745d419a-36c5-45db-9b84-cb2fab1f756d.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1871,7 +1859,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/39c735c9-87b6-4ed0-99d3-c8f4adc1e4c1.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1883,7 +1871,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/9da5e997-58fc-484a-ac4b-577cbc72de8e.png",
    "episodes": 23,
    "seasons": 7,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-04-08",
    "oldest": "2022-12-21"
   },
@@ -1895,7 +1883,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/3b392fb5-2602-4ec3-a1ee-492a8bf90e9c.png",
    "episodes": 155,
    "seasons": 8,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2025-08-27",
    "oldest": "2022-06-08"
   },
@@ -1907,7 +1895,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/bbb92b94-cf99-412b-aab2-3638e820f425.png",
    "episodes": 4,
    "seasons": 2,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-04-08",
    "oldest": "2024-03-26"
   },
@@ -1919,7 +1907,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/420c798a-2272-42dc-8dad-a911816b1c5f.png",
    "episodes": 9,
    "seasons": 5,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-04-01",
    "oldest": "2023-02-07"
   },
@@ -1931,7 +1919,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/f7947e42-c0ab-43f8-b090-fa2132589a79.jpeg",
    "episodes": 311,
    "seasons": 15,
-   "updated": "2026-11-10 23:08",
+   "updated": "2026-11-11 11:58",
    "newest": "2026-05-06",
    "oldest": "2023-01-29"
   },
@@ -1943,7 +1931,7 @@
    "logo": "https://channel14.vod.immergo.tv/channel14/uploaded/121e51f4-8428-4fdb-a1ea-764810608ce3.png",
    "episodes": 1,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2024-02-04",
    "oldest": "2024-02-04"
   },
@@ -1955,7 +1943,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/cf5d0c35-f004-4e86-b93b-81589a3f2707.jpg",
    "episodes": 57,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:59",
    "newest": "2026-11-02",
    "oldest": "2026-08-02"
   },
@@ -1967,7 +1955,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/c39cd1f1-e871-42d0-b2b9-dbb6b7793006.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:59",
    "newest": "2026-10-30",
    "oldest": "2025-09-26"
   },
@@ -1979,7 +1967,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/bf698380-2602-4fb4-8467-657e597eb613.jpg",
    "episodes": 63,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:59",
    "newest": "2026-11-05",
    "oldest": "2026-08-02"
   },
@@ -1991,7 +1979,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/94537e69-d6c2-4f89-aaa4-9f47d47a3acc.jpeg",
    "episodes": 23,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2023-06-05",
    "oldest": "2022-09-03"
   },
@@ -2003,7 +1991,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/7da84f2f-a86b-4f65-87ba-c76cac56eb40.jpeg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2026-10-01",
    "oldest": "2018-06-19"
   },
@@ -2015,7 +2003,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/26532cd9-3d9a-49da-8c9a-5930101f9c41.jpeg",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2026-02-07",
    "oldest": "2025-12-13"
   },
@@ -2027,7 +2015,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/433ee3e6-bde8-4ab7-8d8e-a1011c28633b.jpg",
    "episodes": 18,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2026-10-31",
    "oldest": "2025-09-26"
   },
@@ -2039,7 +2027,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/71c8d2c8-40f2-493f-b14a-f6192b469568.jpeg",
    "episodes": 19,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2026-09-02",
    "oldest": "2021-05-28"
   },
@@ -2051,7 +2039,7 @@
    "logo": "https://channel9.vod.immergo.tv/channel9/uploaded/fe6b1ee7-293d-43d5-beeb-faba33e19604.jpeg",
    "episodes": 17,
    "seasons": 1,
-   "updated": "2026-11-10 23:09",
+   "updated": "2026-11-11 11:58",
    "newest": "2026-09-28",
    "oldest": "2016-01-18"
   },
@@ -2061,9 +2049,9 @@
    "provider_name": "i24news",
    "file": "vod/i24news_action_3Dseasons_univtec_26series_id_3D69dd53db08729d93535c6.json",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/b99fcb26-67c9-44f9-a7b4-f1f1ae30e5c6.jpeg",
-   "episodes": 195,
+   "episodes": 196,
    "seasons": 11,
-   "updated": "2026-11-10 23:10",
+   "updated": "2026-11-11 12:00",
    "newest": "2026-10-05",
    "oldest": "2025-01-04"
   },
@@ -2073,9 +2061,9 @@
    "provider_name": "i24news",
    "file": "vod/i24news_action_3Dseasons_univtec_26series_id_3D69dd53d908729d93535c6.json",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/8d5aee23-4ee9-4374-86d0-2be034bae018.png",
-   "episodes": 166,
+   "episodes": 168,
    "seasons": 11,
-   "updated": "2026-11-10 23:11",
+   "updated": "2026-11-11 12:01",
    "newest": "2645-02-04",
    "oldest": "2006-05-20"
   },
@@ -2085,9 +2073,9 @@
    "provider_name": "i24news",
    "file": "vod/i24news_action_3Dseasons_univtec_26series_id_3D69dd53d808729d93535c6.json",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/c81b3a0f-ef17-49b2-8024-159e312850ea.png",
-   "episodes": 339,
+   "episodes": 340,
    "seasons": 11,
-   "updated": "2026-11-10 23:10",
+   "updated": "2026-11-11 11:59",
    "newest": "2026-11-08",
    "oldest": "2010-03-13"
   },
@@ -2099,7 +2087,7 @@
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/e793e72e-4239-4c97-8d47-b01a717ef97e.png",
    "episodes": 77,
    "seasons": 11,
-   "updated": "2026-11-10 23:10",
+   "updated": "2026-11-11 12:00",
    "newest": "2026-08-15",
    "oldest": "2026-01-01"
   },
@@ -2111,7 +2099,7 @@
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/be9531d1-5201-4c0a-9dcc-dd7657bcd948.jpeg",
    "episodes": 47,
    "seasons": 11,
-   "updated": "2026-11-10 23:10",
+   "updated": "2026-11-11 11:59",
    "newest": "2026-10-10",
    "oldest": "2026-01-03"
   },
@@ -2121,9 +2109,9 @@
    "provider_name": "i24news",
    "file": "vod/i24news_action_3Dseasons_univtec_26series_id_3D69dd53da08729d93535c6.json",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/0309bc3e-eec5-477e-8c71-8577b46e67d9.jpeg",
-   "episodes": 184,
+   "episodes": 185,
    "seasons": 11,
-   "updated": "2026-11-10 23:11",
+   "updated": "2026-11-11 12:01",
    "newest": "2026-10-05",
    "oldest": "2026-01-04"
   },
@@ -2133,9 +2121,9 @@
    "provider_name": "i24news",
    "file": "vod/i24news_action_3Dseasons_univtec_26series_id_3D69dd53d808729d93535c6.json",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/b5e84197-ec20-4322-bad2-3c5587fa0c18.png",
-   "episodes": 192,
+   "episodes": 193,
    "seasons": 11,
-   "updated": "2026-11-10 23:11",
+   "updated": "2026-11-11 12:00",
    "newest": "2026-10-05",
    "oldest": "2025-01-05"
   },
@@ -2145,9 +2133,9 @@
    "provider_name": "i24news",
    "file": "vod/i24news_action_3Dseasons_univtec_26series_id_3D69dd53da08729d93535c6.json",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/e2dd17c8-a070-4ad0-900e-d7f930c67a14.jpeg",
-   "episodes": 178,
+   "episodes": 179,
    "seasons": 10,
-   "updated": "2026-11-10 23:12",
+   "updated": "2026-11-11 12:01",
    "newest": "2026-10-05",
    "oldest": "2025-01-05"
   },
@@ -2157,9 +2145,9 @@
    "provider_name": "i24news",
    "file": "vod/i24news_action_3Dseasons_univtec_26series_id_3D69dd53d808729d93535c6.json",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/0f1b0313-de1b-4c86-99ae-d442bb0bf447.jpeg",
-   "episodes": 222,
+   "episodes": 223,
    "seasons": 11,
-   "updated": "2026-11-10 23:12",
+   "updated": "2026-11-11 12:02",
    "newest": "2026-26-17",
    "oldest": "2025-01-05"
   },
@@ -2171,7 +2159,7 @@
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/4090689c-635c-41e7-8c42-159e8c1be034.jpeg",
    "episodes": 85,
    "seasons": 11,
-   "updated": "2026-11-10 23:11",
+   "updated": "2026-11-11 12:00",
    "newest": "2026-10-10",
    "oldest": "2025-01-02"
   },
@@ -2183,7 +2171,7 @@
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/ac3fd451-0931-408d-b742-ff20d786fff7.png",
    "episodes": 54,
    "seasons": 10,
-   "updated": "2026-11-10 23:10",
+   "updated": "2026-11-11 11:59",
    "newest": "2026-08-28",
    "oldest": "2025-01-02"
   },
@@ -2195,7 +2183,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1297911.jpg",
    "episodes": 185,
    "seasons": 29,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -2207,7 +2195,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1009101.jpg",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2216,10 +2204,10 @@
    "provider": "sport5",
    "provider_name": "ספורט 5",
    "file": "vod/sport5_4985.json",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1802587.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1802893.jpg",
    "episodes": 737,
    "seasons": 40,
-   "updated": "2026-11-10 23:44",
+   "updated": "2026-11-11 12:32",
    "newest": "",
    "oldest": ""
   },
@@ -2231,7 +2219,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1213503.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:02",
+   "updated": "2026-11-11 12:50",
    "newest": "",
    "oldest": ""
   },
@@ -2243,7 +2231,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1547610.jpg",
    "episodes": 13,
    "seasons": 1,
-   "updated": "2026-11-11 00:00",
+   "updated": "2026-11-11 12:48",
    "newest": "",
    "oldest": ""
   },
@@ -2255,7 +2243,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1434696.jpg",
    "episodes": 154,
    "seasons": 14,
-   "updated": "2026-11-11 00:01",
+   "updated": "2026-11-11 12:49",
    "newest": "",
    "oldest": ""
   },
@@ -2267,7 +2255,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1676127.jpg",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-11 00:01",
+   "updated": "2026-11-11 12:49",
    "newest": "",
    "oldest": ""
   },
@@ -2279,7 +2267,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1355865.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "2024-01-31",
    "oldest": "2023-08-08"
   },
@@ -2291,7 +2279,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1517962.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:01",
+   "updated": "2026-11-11 12:49",
    "newest": "",
    "oldest": ""
   },
@@ -2303,7 +2291,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1359762.jpg",
    "episodes": 40,
    "seasons": 4,
-   "updated": "2026-11-11 00:03",
+   "updated": "2026-11-11 12:51",
    "newest": "",
    "oldest": ""
   },
@@ -2315,7 +2303,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1659528.jpg",
    "episodes": 32,
    "seasons": 2,
-   "updated": "2026-11-10 23:58",
+   "updated": "2026-11-11 12:46",
    "newest": "",
    "oldest": ""
   },
@@ -2327,7 +2315,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1720878.jpg",
    "episodes": 59,
    "seasons": 5,
-   "updated": "2026-11-11 00:01",
+   "updated": "2026-11-11 12:49",
    "newest": "2026-05-18",
    "oldest": "2019-03-04"
   },
@@ -2339,7 +2327,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1728784.jpg",
    "episodes": 56,
    "seasons": 6,
-   "updated": "2026-11-10 23:38",
+   "updated": "2026-11-11 12:27",
    "newest": "",
    "oldest": ""
   },
@@ -2351,7 +2339,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1089687.jpg",
    "episodes": 71,
    "seasons": 5,
-   "updated": "2026-11-11 00:05",
+   "updated": "2026-11-11 12:53",
    "newest": "",
    "oldest": ""
   },
@@ -2363,7 +2351,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1794318.jpg",
    "episodes": 14,
    "seasons": 1,
-   "updated": "2026-11-10 23:54",
+   "updated": "2026-11-11 12:42",
    "newest": "",
    "oldest": ""
   },
@@ -2375,7 +2363,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1798918.jpg",
    "episodes": 8,
    "seasons": 2,
-   "updated": "2026-11-10 23:54",
+   "updated": "2026-11-11 12:43",
    "newest": "",
    "oldest": ""
   },
@@ -2387,7 +2375,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1753464.jpg",
    "episodes": 297,
    "seasons": 27,
-   "updated": "2026-11-11 00:00",
+   "updated": "2026-11-11 12:48",
    "newest": "",
    "oldest": ""
   },
@@ -2399,7 +2387,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1151995.jpg",
    "episodes": 243,
    "seasons": 23,
-   "updated": "2026-11-10 23:38",
+   "updated": "2026-11-11 12:27",
    "newest": "",
    "oldest": ""
   },
@@ -2411,7 +2399,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1677916.jpg",
    "episodes": 117,
    "seasons": 12,
-   "updated": "2026-11-10 23:57",
+   "updated": "2026-11-11 12:45",
    "newest": "",
    "oldest": ""
   },
@@ -2423,7 +2411,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1802499.jpg",
    "episodes": 75,
    "seasons": 7,
-   "updated": "2026-11-10 23:58",
+   "updated": "2026-11-11 12:46",
    "newest": "",
    "oldest": ""
   },
@@ -2435,7 +2423,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1207795.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2447,7 +2435,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1010195.jpg",
    "episodes": 6,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2459,7 +2447,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1410825.jpg",
    "episodes": 402,
    "seasons": 49,
-   "updated": "2026-11-11 00:03",
+   "updated": "2026-11-11 12:51",
    "newest": "",
    "oldest": ""
   },
@@ -2471,7 +2459,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1802000.jpg",
    "episodes": 320,
    "seasons": 27,
-   "updated": "2026-11-10 23:57",
+   "updated": "2026-11-11 12:45",
    "newest": "",
    "oldest": ""
   },
@@ -2483,7 +2471,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1124500.jpg",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2495,7 +2483,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
    "episodes": 64,
    "seasons": 4,
-   "updated": "2026-11-10 23:38",
+   "updated": "2026-11-11 12:26",
    "newest": "",
    "oldest": ""
   },
@@ -2507,7 +2495,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1743744.jpg",
    "episodes": 127,
    "seasons": 11,
-   "updated": "2026-11-11 00:00",
+   "updated": "2026-11-11 12:48",
    "newest": "",
    "oldest": ""
   },
@@ -2519,7 +2507,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1285067.jpg",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-11 00:03",
+   "updated": "2026-11-11 12:51",
    "newest": "",
    "oldest": ""
   },
@@ -2528,10 +2516,10 @@
    "provider": "sport5",
    "provider_name": "ספורט 5",
    "file": "vod/sport5_147.json",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1802777.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1802893.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:12",
+   "updated": "2026-11-11 12:02",
    "newest": "2026-11-09",
    "oldest": "2026-11-09"
   },
@@ -2540,12 +2528,12 @@
    "provider": "sport5",
    "provider_name": "ספורט 5",
    "file": "vod/sport5_3968.json",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1802611.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1802936.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:54",
-   "newest": "2026-11-09",
-   "oldest": "2026-10-14"
+   "updated": "2026-11-11 12:42",
+   "newest": "2026-11-10",
+   "oldest": "2026-10-15"
   },
   {
    "name": "חמישיות",
@@ -2555,7 +2543,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1730427.jpg",
    "episodes": 209,
    "seasons": 13,
-   "updated": "2026-11-10 23:58",
+   "updated": "2026-11-11 12:46",
    "newest": "2026-06-16",
    "oldest": "2015-05-19"
   },
@@ -2567,7 +2555,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1802659.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:54",
+   "updated": "2026-11-11 12:43",
    "newest": "2026-11-01",
    "oldest": "2026-10-25"
   },
@@ -2579,7 +2567,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1117156.jpg",
    "episodes": 172,
    "seasons": 17,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2591,7 +2579,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/949612.jpg",
    "episodes": 105,
    "seasons": 6,
-   "updated": "2026-11-11 00:05",
+   "updated": "2026-11-11 12:53",
    "newest": "",
    "oldest": ""
   },
@@ -2603,7 +2591,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/997010.jpg",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-11 00:05",
+   "updated": "2026-11-11 12:53",
    "newest": "2020-12-05",
    "oldest": "2020-12-04"
   },
@@ -2615,7 +2603,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1224894.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2627,7 +2615,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1601529.jpg",
    "episodes": 56,
    "seasons": 6,
-   "updated": "2026-11-10 23:58",
+   "updated": "2026-11-11 12:46",
    "newest": "",
    "oldest": ""
   },
@@ -2639,7 +2627,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
    "episodes": 573,
    "seasons": 35,
-   "updated": "2026-11-10 23:40",
+   "updated": "2026-11-11 12:28",
    "newest": "",
    "oldest": ""
   },
@@ -2648,11 +2636,11 @@
    "provider": "sport5",
    "provider_name": "ספורט 5",
    "file": "vod/sport5_2770.json",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1802609.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1802938.jpg",
    "episodes": 200,
    "seasons": 10,
-   "updated": "2026-11-10 23:54",
-   "newest": "2026-11-09",
+   "updated": "2026-11-11 12:42",
+   "newest": "2026-11-10",
    "oldest": "2016-03-17"
   },
   {
@@ -2663,7 +2651,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1801045.jpg",
    "episodes": 40,
    "seasons": 2,
-   "updated": "2026-11-10 23:57",
+   "updated": "2026-11-11 12:45",
    "newest": "2026-11-06",
    "oldest": "2025-04-11"
   },
@@ -2675,7 +2663,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1527761.jpg",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-11 00:01",
+   "updated": "2026-11-11 12:49",
    "newest": "",
    "oldest": ""
   },
@@ -2687,7 +2675,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1600307.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:05",
+   "updated": "2026-11-11 12:53",
    "newest": "",
    "oldest": ""
   },
@@ -2699,7 +2687,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1309307.jpg",
    "episodes": 12,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2711,7 +2699,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1191305.jpg",
    "episodes": 2,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2723,7 +2711,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1802696.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:54",
+   "updated": "2026-11-11 12:42",
    "newest": "",
    "oldest": ""
   },
@@ -2735,7 +2723,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1486741.jpg",
    "episodes": 16,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2747,7 +2735,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1800695.jpg",
    "episodes": 360,
    "seasons": 18,
-   "updated": "2026-11-10 23:56",
+   "updated": "2026-11-11 12:44",
    "newest": "",
    "oldest": ""
   },
@@ -2759,7 +2747,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1600527.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2771,7 +2759,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1783437.jpg",
    "episodes": 80,
    "seasons": 4,
-   "updated": "2026-11-10 23:57",
+   "updated": "2026-11-11 12:45",
    "newest": "",
    "oldest": ""
   },
@@ -2783,7 +2771,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1773316.jpg",
    "episodes": 2095,
    "seasons": 150,
-   "updated": "2026-11-10 23:18",
+   "updated": "2026-11-11 12:07",
    "newest": "",
    "oldest": ""
   },
@@ -2795,7 +2783,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1688903.jpg",
    "episodes": 154,
    "seasons": 9,
-   "updated": "2026-11-11 00:02",
+   "updated": "2026-11-11 12:50",
    "newest": "",
    "oldest": ""
   },
@@ -2807,7 +2795,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1801895.jpg",
    "episodes": 2668,
    "seasons": 379,
-   "updated": "2026-11-10 23:37",
+   "updated": "2026-11-11 12:25",
    "newest": "",
    "oldest": ""
   },
@@ -2819,7 +2807,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1798756.jpg",
    "episodes": 2263,
    "seasons": 323,
-   "updated": "2026-11-10 23:54",
+   "updated": "2026-11-11 12:42",
    "newest": "",
    "oldest": ""
   },
@@ -2831,7 +2819,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1191017.jpg",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2843,7 +2831,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1004458.jpg",
    "episodes": 120,
    "seasons": 6,
-   "updated": "2026-11-11 00:05",
+   "updated": "2026-11-11 12:52",
    "newest": "2020-03-12",
    "oldest": "2016-01-21"
   },
@@ -2855,7 +2843,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1316466.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2867,7 +2855,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1158921.jpg",
    "episodes": 42,
    "seasons": 3,
-   "updated": "2026-11-11 00:05",
+   "updated": "2026-11-11 12:52",
    "newest": "2022-01-11",
    "oldest": "2019-01-15"
   },
@@ -2879,7 +2867,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1798839.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:37",
+   "updated": "2026-11-11 12:25",
    "newest": "",
    "oldest": ""
   },
@@ -2891,7 +2879,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1317758.jpg",
    "episodes": 66,
    "seasons": 5,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2903,7 +2891,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1749420.jpg",
    "episodes": 70,
    "seasons": 6,
-   "updated": "2026-11-10 23:55",
+   "updated": "2026-11-11 12:43",
    "newest": "",
    "oldest": ""
   },
@@ -2915,7 +2903,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1576871.jpg",
    "episodes": 54,
    "seasons": 5,
-   "updated": "2026-11-10 23:58",
+   "updated": "2026-11-11 12:47",
    "newest": "",
    "oldest": ""
   },
@@ -2927,7 +2915,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1318286.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:03",
+   "updated": "2026-11-11 12:51",
    "newest": "",
    "oldest": ""
   },
@@ -2939,7 +2927,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1198450.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2951,7 +2939,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1015791.jpg",
    "episodes": 10,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -2963,7 +2951,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
    "episodes": 451,
    "seasons": 26,
-   "updated": "2026-11-10 23:37",
+   "updated": "2026-11-11 12:26",
    "newest": "",
    "oldest": ""
   },
@@ -2975,7 +2963,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1657482.jpg",
    "episodes": 19,
    "seasons": 1,
-   "updated": "2026-11-10 23:59",
+   "updated": "2026-11-11 12:47",
    "newest": "",
    "oldest": ""
   },
@@ -2987,7 +2975,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1800925.jpg",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-10 23:40",
+   "updated": "2026-11-11 12:28",
    "newest": "",
    "oldest": ""
   },
@@ -2999,7 +2987,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1312698.jpg",
    "episodes": 36,
    "seasons": 2,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:51",
    "newest": "2023-08-21",
    "oldest": "2023-07-17"
   },
@@ -3011,7 +2999,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1783437.jpg",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-10 23:38",
+   "updated": "2026-11-11 12:27",
    "newest": "",
    "oldest": ""
   },
@@ -3023,7 +3011,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1682088.png",
    "episodes": 20,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -3035,7 +3023,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1209568.jpg",
    "episodes": 8,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -3047,7 +3035,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1652844.jpg",
    "episodes": 5,
    "seasons": 1,
-   "updated": "2026-11-11 00:02",
+   "updated": "2026-11-11 12:50",
    "newest": "",
    "oldest": ""
   },
@@ -3059,7 +3047,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1004751.jpg",
    "episodes": 68,
    "seasons": 10,
-   "updated": "2026-11-11 00:05",
+   "updated": "2026-11-11 12:53",
    "newest": "2023-09-13",
    "oldest": "2016-06-23"
   },
@@ -3071,7 +3059,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1737569.jpg",
    "episodes": 5,
    "seasons": 1,
-   "updated": "2026-11-10 23:54",
+   "updated": "2026-11-11 12:43",
    "newest": "",
    "oldest": ""
   },
@@ -3083,7 +3071,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1307848.jpg",
    "episodes": 58,
    "seasons": 4,
-   "updated": "2026-11-10 23:59",
+   "updated": "2026-11-11 12:47",
    "newest": "",
    "oldest": ""
   },
@@ -3095,7 +3083,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1228924.jpg",
    "episodes": 22,
    "seasons": 3,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -3107,7 +3095,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1296681.jpg",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:04",
+   "updated": "2026-11-11 12:52",
    "newest": "",
    "oldest": ""
   },
@@ -3119,7 +3107,7 @@
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1801498.png",
    "episodes": 88,
    "seasons": 5,
-   "updated": "2026-11-10 23:54",
+   "updated": "2026-11-11 12:43",
    "newest": "2026-11-07",
    "oldest": "2023-09-18"
   },
@@ -3131,7 +3119,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1051857",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-11 00:07",
+   "updated": "2026-11-11 12:55",
    "newest": "",
    "oldest": ""
   },
@@ -3143,7 +3131,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1290845",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3155,7 +3143,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/1207459",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:07",
+   "updated": "2026-11-11 12:55",
    "newest": "",
    "oldest": ""
   },
@@ -3167,7 +3155,7 @@
    "logo": "https://raw.githubusercontent.com/Fishenzon/repo/master/plugin.video.idanplus/images/sport1.jpg",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:07",
+   "updated": "2026-11-11 12:55",
    "newest": "",
    "oldest": ""
   },
@@ -3179,7 +3167,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1026020",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3191,7 +3179,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292121",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3203,7 +3191,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292283",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3215,7 +3203,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1054658",
    "episodes": 7,
    "seasons": 1,
-   "updated": "2026-11-11 00:07",
+   "updated": "2026-11-11 12:55",
    "newest": "",
    "oldest": ""
   },
@@ -3227,7 +3215,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291934",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3239,7 +3227,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292279",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3251,7 +3239,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292093",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3263,7 +3251,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1163600",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:07",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3275,7 +3263,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1263005",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:07",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3287,7 +3275,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1286672",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3299,7 +3287,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292345",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3311,7 +3299,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1137746",
    "episodes": 9,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3323,7 +3311,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1177243",
    "episodes": 2,
    "seasons": 1,
-   "updated": "2026-11-11 00:06",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   },
@@ -3335,7 +3323,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/655549",
    "episodes": 3,
    "seasons": 1,
-   "updated": "2026-11-11 00:07",
+   "updated": "2026-11-11 12:55",
    "newest": "",
    "oldest": ""
   },
@@ -3347,7 +3335,7 @@
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1051280",
    "episodes": 4,
    "seasons": 1,
-   "updated": "2026-11-11 00:07",
+   "updated": "2026-11-11 12:54",
    "newest": "",
    "oldest": ""
   }
