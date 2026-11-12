@@ -8,7 +8,7 @@
    "series_id": "9776",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
    "plot": "",
-   "updated": "2026-11-12 12:53",
+   "updated": "2026-11-13 00:14",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -219,6 +219,16 @@
      "name": "יורוליג - 2026/27",
      "channels": [
       {
+       "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
+      {
        "name": "עוד הפסד לאוסף: מכבי ת\"א הובסה בבלגרד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_061126/HLS/playlist.m3u8",
@@ -406,16 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_dubai_bayern/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "לסורט להט: פנאתינייקוס ניצחה את באסקוניה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1793157.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PANA_BASK/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PANA_BASK/HLS/playlist.m3u8",
        "season": "יורוליג - 2026/27"
       }
      ]
@@ -2474,6 +2474,16 @@
      "name": "יורוליג - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "עוד הפסד לאוסף: מכבי ת\"א הובסה בבלגרד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_061126/HLS/playlist.m3u8",
@@ -2661,16 +2671,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_dubai_bayern/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "לסורט להט: פנאתינייקוס ניצחה את באסקוניה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1793157.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PANA_BASK/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PANA_BASK/HLS/playlist.m3u8",
        "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]

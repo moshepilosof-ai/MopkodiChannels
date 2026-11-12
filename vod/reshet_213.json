@@ -1,0 +1,121 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - סימני שאלה",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "213",
+   "series_id": "213",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41d4c536261a4b9795ef3aa5b83b70f4/version/10/width/800/height/1200/quality/90",
+   "plot": "סדרת דרמה המלווה את חייהם של צעירים חרדים שנטשו את הדת ועברו לחיות בתל-אביב בדירת מסתור. בכיכובם של דן שפירא, יונה אליאן, גאלה קוגן, יון תומרקין, איתי תורג'מן, טל טלמון ועוד",
+   "updated": "2026-11-12 23:34",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "סימני שאלה, עונה 1, פרק 2: יש מחיר לחופש",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3929acfd669d489c8c68571b29ff8320/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7i4qnjhr/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שירה זוכה לביקור מפתיע מאחותה והפגישה של אלי עם בנו מסתבכת.",
+       "page": "",
+       "id": "--kaltura--1_7i4qnjhr===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק 8: רומן אמיתי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/eea364fb9f0b4ab1b46ff80621e5a6a7/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rxb03qg9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אלי ובתיה מתגברים על הכעסים ומממשים את אהבתם. מה עם שירה?",
+       "page": "",
+       "id": "--kaltura--1_rxb03qg9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק 5: עכשיו התור לאהבה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7769db506df4939a1621d0f6b223c37/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dze4f5sj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "שירה ואלון מתקרבים. מה יעלה בגורל יחסיהם של שירה ואלי?",
+       "page": "",
+       "id": "--kaltura--1_dze4f5sj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק 7: אתה צריך אהבה חדשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7b4ecf9662c4c709e694fc47baf039d/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_csrqndn3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם אהרון מתחיל זוגיות חדשה ורבקי היא זיכרון ישן?",
+       "page": "",
+       "id": "--kaltura--1_csrqndn3===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק 4: חרדים לגורלם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a11295923f5436083c3ce338fa026e7/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b4sd3at2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "למה אלי הובהל לבית החולים ומדוע חזרה דידי לדירת המסתור?",
+       "page": "",
+       "id": "--kaltura--1_b4sd3at2===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק 3: אלימות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a46a2dc1e2704cc5a296b29a610d2aee/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ccomg68p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "חמי מגלה את הצד האפל של העיר הגדולה. האם הוא יבקש עזרה?",
+       "page": "",
+       "id": "--kaltura--1_ccomg68p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק 6: החיים בלעדיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6fc1e3067e4546848d4dd765da39adab/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_344vw3mt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אהרון מאבד את אהבת חייו. האם הוא ישנה את דעתו וישוב לעולם החרדי?",
+       "page": "",
+       "id": "--kaltura--1_344vw3mt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק הבכורה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aae7351933c54565833d83dc95183196/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vqplra7u/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "סדרת דרמה המלווה את חייהם של צעירים חרדים שנטשו את הדת ועברו לחיות בתל-אביב בדירת מסתור. בכיכובם של דן שפירא, יונה אליאן, גאלה קוגן, יון תומרקין, איתי תורג'מן, טל טלמון ועוד",
+       "page": "",
+       "id": "--kaltura--1_vqplra7u===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק 9: ברית עולם?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bdf1a09501254fda98013786e91a262a/version/15/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qlk426gt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "בתיה מציעה לאלי הצעה שלא יוכל לסרב לה. האם הם יחזרו?",
+       "page": "",
+       "id": "--kaltura--1_qlk426gt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "סימני שאלה, עונה 1, פרק 10: אות משמיים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7539e3291f264a82b062386d61d3a884/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k31y3q64/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-03-30",
+       "plot": "מה יהיה גורל יחסיהם של אלי, בתיה ושירה? ומה מתכננים חמי ודידי?",
+       "page": "",
+       "id": "--kaltura--1_k31y3q64===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

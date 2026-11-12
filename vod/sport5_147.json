@@ -8,7 +8,7 @@
    "series_id": "147",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
    "plot": "",
-   "updated": "2026-11-12 12:26",
+   "updated": "2026-11-12 23:47",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -21,6 +21,16 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567376&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "דני אבדיה נגד אוקלהומה - הפיתוי מהשלוש #מעקבדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1803435.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/_179447991335/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/_179447991335/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567372&poster=https:",
        "season": ""
       },
       {
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_DERBI_GAVIA_091126_NEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=",
-       "season": ""
-      },
-      {
-       "name": "הצגה של וומבי: סן אנטוניו פירקה על פיניקס 96:122",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1802587.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SASPHX_0209_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SASPHX_0209_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567115&pos",
        "season": ""
       }
      ]

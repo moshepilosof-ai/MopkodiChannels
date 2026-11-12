@@ -8,7 +8,7 @@
    "series_id": "10202",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
    "plot": "",
-   "updated": "2026-11-12 12:50",
+   "updated": "2026-11-13 00:11",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -21,6 +21,16 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=567376&poster=http",
+       "season": ""
+      },
+      {
+       "name": "דני אבדיה נגד אוקלהומה - הפיתוי מהשלוש #מעקבדיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1803435.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/_179447991335/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/_179447991335/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=567372&poster=http",
        "season": ""
       },
       {
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/AvdijaMAVS1_177467550235/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=538510&",
-       "season": ""
-      },
-      {
-       "name": "שוב בלט: 18 נק` לדני אבדיה מול מילווקי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1691599.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsMilwaukeeBucks_1_177450245797/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsMilwaukeeBucks_1_177450245797/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.",
        "season": ""
       }
      ]

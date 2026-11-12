@@ -6,16 +6,76 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292283",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292880",
    "plot": "",
-   "updated": "2026-11-12 13:17",
+   "updated": "2026-11-13 00:41",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר ליגה איטלקית: אינטר – קומו 0:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292283",
+       "name": "תקציר: צ'כיה – ספרד 2:0",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292880",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118920/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/nations-league/video/1996245/",
+       "season": ""
+      },
+      {
+       "name": "צפו: איטליה הפכה פיגור ל-1:3 על צרפת ועלתה על חשבונה לפסגת הבית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292904",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118921/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1996237/",
+       "season": ""
+      },
+      {
+       "name": "צפו: הארי קיין שבר את שיא ההופעות בנבחרת אנגליה וגם ניצח את קרואטיה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292902",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118919/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/nations-league/video/1996227/",
+       "season": ""
+      },
+      {
+       "name": "צפו בשערים: איטליה – צרפת 1:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292885",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118901/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1996170/",
+       "season": ""
+      },
+      {
+       "name": "צפו בשערים: איטליה – צרפת 1:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292885",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118873/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1996151/",
+       "season": ""
+      },
+      {
+       "name": "צפו: בעיטה חופשית מדהימה של גולר לא הספיקה, בלגיה הפכה וניצחה בטורקיה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292865",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118805/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1996100/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: אינטר התאוששה מההפסד בדרבי וניצחה 0:2 את קומו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292283",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117608/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -41,66 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/serie-a/video/1992604/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: מילאן גברה 1:2 על גנואה והתקרבה לחבורת הצמרת",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292278",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117571/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/1992591/",
-       "season": ""
-      },
-      {
-       "name": "צפו: יונייטד חזרה מפיגור כפול ל-2:2 מול וילה במחצית הראשונה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292271",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117552/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1992521/",
-       "season": ""
-      },
-      {
-       "name": "צפו: וירץ כיכב, ליברפול ניצחה 1:3 את פאלאס וחלאילי, שירדו למקום האחרון",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292266",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117529/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1992484/",
-       "season": ""
-      },
-      {
-       "name": "צפו: צ'לסי הופתעה עם 1:0 אצל סנדרלנד וירדה למקום החמישי",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292260",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117526/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1992473/",
-       "season": ""
-      },
-      {
-       "name": "כל שערי שבת מהליגה האנגלית, 7.11",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292243",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117243/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1992400/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשער: מקאליסטר נגח והעניק לליברפול 0:1 על קריסטל פאלאס",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292234",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117503/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1992383/",
        "season": ""
       }
      ]

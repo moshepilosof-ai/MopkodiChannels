@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fligat-haal",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fligat-haal",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292345",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292812",
    "plot": "",
-   "updated": "2026-11-12 13:17",
+   "updated": "2026-11-13 00:41",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
+       "name": "תיקתקנו, 12.11",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292812",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118714/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/1995853/",
+       "season": ""
+      },
+      {
        "name": "הפועל פתח תקוה פרסמה סרטון בנוגע להפסד הטכני שספגה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292345",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292345",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117707/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/israeli-soccer/ligat-haal/video/1991557/",
-       "season": ""
-      },
-      {
-       "name": "צפו: בית\"ר ירושלים המאכזבת סיימה ב-1:1 עם עירוני טבריה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292124",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117181/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1991556/",
        "season": ""
       }
      ]
