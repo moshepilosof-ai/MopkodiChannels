@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "10202",
    "series_id": "10202",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1802893.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
    "plot": "",
-   "updated": "2026-11-12 00:08",
+   "updated": "2026-11-12 12:50",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "החגיגה נמשכת: 28 נק' לדני בניצחון המרשים על OKC",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=567376&poster=http",
+       "season": ""
+      },
       {
        "name": "אבדיה כיכב, פורטלנד הביסה את אוקלהומה סיטי",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1802893.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPlaysvsMilwaukeeBucks_1_177450245797/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.",
-       "season": ""
-      },
-      {
-       "name": "אבדיה הוביל את פורטלנד נגד הקליפרס בדרך למקום השמיני",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1689878.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPointsAssistsvsMinnesotaTimberwolves_177406720612/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/DeniAvdijaTopPointsAssistsvsMinnesotaTimberwolves_177406720612/HLS/playlist.m3u8&live=False&referrer=https://v",
        "season": ""
       }
      ]
