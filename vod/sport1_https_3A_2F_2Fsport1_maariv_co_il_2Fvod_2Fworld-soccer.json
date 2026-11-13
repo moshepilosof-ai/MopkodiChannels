@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292880",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292987",
    "plot": "",
-   "updated": "2026-11-13 14:21",
+   "updated": "2026-11-14 00:05",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: צ'כיה – ספרד 2:0",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292880",
+       "name": "תקציר מחצית: הולנד – יוון 0:5",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292987",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119015/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1996714/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ספרד ניצחה 0:2 את צ'כיה ושמרה על מאזן מושלם בליגת האומות",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292880",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118920/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/1992630/",
-       "season": ""
-      },
-      {
-       "name": "צפו: לאציו סיימה בתיקו 1:1 עם נאפולי ונעצרה לאחר שישה ניצחונות רצופים",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292282",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117550/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/1992604/",
        "season": ""
       }
      ]

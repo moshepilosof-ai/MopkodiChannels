@@ -8,14 +8,24 @@
    "series_id": "300",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8dcfa9987df453a844b96a86526dbde/version/14/width/800/height/1200/quality/90",
    "plot": "המגזין עם נגה ניר נאמן - תוכנית חדשות ואקטואליה שבועית בערוץ 13 - כל תוכניות המגזין עם נגה ניר נאמן לצפייה ישירה",
-   "updated": "2026-11-13 13:20",
+   "updated": "2026-11-13 23:07",
    "sub_categories": [
     {
      "name": "התוכניות המלאות",
      "channels": [
       {
+       "name": "המגזין 13.11.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/103fd38138644028b44091fbc0520a85/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e8uh24dk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-13",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_e8uh24dk===",
+       "season": "התוכניות המלאות"
+      },
+      {
        "name": "המגזין 06.11.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/498e35363d7546a5a4405652a37f04f2/version/1/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/498e35363d7546a5a4405652a37f04f2/version/2/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_au7hcld1/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-11-06",
        "plot": "",
@@ -25,7 +35,7 @@
       },
       {
        "name": "המגזין 30.10.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f95800eb6574feaad9fee4e95066889/version/2/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f95800eb6574feaad9fee4e95066889/version/3/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_le3osttm/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-30",
        "plot": "",
@@ -35,7 +45,7 @@
       },
       {
        "name": "המגזין 16.10.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2dd0b27e6eb042a9aad04d827dad34c6/version/3/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2dd0b27e6eb042a9aad04d827dad34c6/version/4/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w7876gzs/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-16",
        "plot": "",
@@ -45,7 +55,7 @@
       },
       {
        "name": "המגזין 09.10.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c9c2d1be8524c45a325c04ede186997/version/4/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0c9c2d1be8524c45a325c04ede186997/version/5/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sml9lssa/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-09",
        "plot": "",
@@ -55,7 +65,7 @@
       },
       {
        "name": "המגזין 02.10.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2554033ffb44fc294c6d54a9193c8f8/version/5/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f2554033ffb44fc294c6d54a9193c8f8/version/6/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7vsmdnoo/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-10-03",
        "plot": "",
@@ -65,7 +75,7 @@
       },
       {
        "name": "המגזין 25.09.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/31a18bb51df2462cb93aa10fe21a74bb/version/6/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/31a18bb51df2462cb93aa10fe21a74bb/version/7/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sl544ye5/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-26",
        "plot": "",
@@ -75,7 +85,7 @@
       },
       {
        "name": "המגזין 18.09.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cd4ff5103ad46fcbfc4d127723d6436/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cd4ff5103ad46fcbfc4d127723d6436/version/8/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jdm9ew29/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-18",
        "plot": "",
@@ -85,7 +95,7 @@
       },
       {
        "name": "המגזין 04.09.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/feaba7113b2b416ab0d5ecc38e24d673/version/8/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/feaba7113b2b416ab0d5ecc38e24d673/version/9/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p8ctj4z0/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-09-04",
        "plot": "",
@@ -95,7 +105,7 @@
       },
       {
        "name": "המגזין 28.08.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9201da39032c4576959c4d7b9d1e5d5a/version/9/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9201da39032c4576959c4d7b9d1e5d5a/version/10/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_usbjfb1m/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-28",
        "plot": "",
@@ -105,7 +115,7 @@
       },
       {
        "name": "המגזין 21.08.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea204dbf6f234729b06cc9174545aa32/version/10/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea204dbf6f234729b06cc9174545aa32/version/11/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_emodnzni/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-21",
        "plot": "",
@@ -115,7 +125,7 @@
       },
       {
        "name": "המגזין 14.08.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21c2a63b6c2d4be6a15f6a126dee188c/version/11/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21c2a63b6c2d4be6a15f6a126dee188c/version/12/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vn4mm10v/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-14",
        "plot": "",
@@ -125,7 +135,7 @@
       },
       {
        "name": "המגזין 07.08.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ea81e56889b463ca196e67038eece67/version/12/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0ea81e56889b463ca196e67038eece67/version/13/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_vvdi7v4t/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-07",
        "plot": "",
@@ -135,7 +145,7 @@
       },
       {
        "name": "המגזין 31.07.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac084306dbbe4d29b12e44551461b3c3/version/13/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ac084306dbbe4d29b12e44551461b3c3/version/14/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6rov4186/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-31",
        "plot": "",
@@ -145,7 +155,7 @@
       },
       {
        "name": "המגזין 24.07.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06de095d3660455d98261c1e2f8bd168/version/14/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06de095d3660455d98261c1e2f8bd168/version/15/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b03yn7bs/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-24",
        "plot": "",
@@ -155,7 +165,7 @@
       },
       {
        "name": "המגזין 10.07.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2e4d9a092ae5482689888a3896f44d20/version/16/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2e4d9a092ae5482689888a3896f44d20/version/17/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_37vciz3z/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-10",
        "plot": "",
@@ -165,7 +175,7 @@
       },
       {
        "name": "המגזין 03.07.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc2ad894f21641b18f384c9f313751cf/version/17/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dc2ad894f21641b18f384c9f313751cf/version/18/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1u5yt8xt/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-07-03",
        "plot": "",
@@ -175,7 +185,7 @@
       },
       {
        "name": "המגזין 19.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d3aff02b3404ebaa7dd53d4fdabf867/version/18/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d3aff02b3404ebaa7dd53d4fdabf867/version/19/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_04dahc82/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-19",
        "plot": "",
@@ -185,7 +195,7 @@
       },
       {
        "name": "המגזין 12.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/00d0a1a9ed2942c6945d744977d12a66/version/19/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/00d0a1a9ed2942c6945d744977d12a66/version/20/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ceiq5u9u/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-12",
        "plot": "",
@@ -195,7 +205,7 @@
       },
       {
        "name": "המגזין 05.06.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/727cfdedc007473e9aabecebb59dd770/version/20/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/727cfdedc007473e9aabecebb59dd770/version/21/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p4jrohsh/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-06-05",
        "plot": "",
@@ -205,7 +215,7 @@
       },
       {
        "name": "המגזין 29.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ddae6632784f4196b1f57ab04b41876d/version/22/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ddae6632784f4196b1f57ab04b41876d/version/23/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fdlt7j7x/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-29",
        "plot": "",
@@ -215,7 +225,7 @@
       },
       {
        "name": "המגזין 08.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f45abc4e65c7487eb683f38eec110c90/version/22/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f45abc4e65c7487eb683f38eec110c90/version/23/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zjtxwmo7/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-08",
        "plot": "",
@@ -225,7 +235,7 @@
       },
       {
        "name": "המגזין 01.05.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92f56c659d7b4c0b836fa1fab9cfd872/version/23/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/92f56c659d7b4c0b836fa1fab9cfd872/version/24/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xaphzl71/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-05-01",
        "plot": "",
@@ -235,7 +245,7 @@
       },
       {
        "name": "המגזין 27.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b5415073f2540639185cde63ca9139b/version/24/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5b5415073f2540639185cde63ca9139b/version/25/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6vvy3x94/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-27",
        "plot": "",
@@ -245,7 +255,7 @@
       },
       {
        "name": "המגזין 20.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06e0c712e39b4073acaf8b28fbaa9b33/version/26/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06e0c712e39b4073acaf8b28fbaa9b33/version/27/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_zqgbbh5u/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-20",
        "plot": "",
@@ -255,7 +265,7 @@
       },
       {
        "name": "המגזין 13.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b47f8b30debd4f74b818693cca9e5fe3/version/27/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b47f8b30debd4f74b818693cca9e5fe3/version/28/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pf9mwue2/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-13",
        "plot": "",
@@ -265,7 +275,7 @@
       },
       {
        "name": "המגזין 06.02.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21906e40d7ea47e9b8c08c08e88e46dc/version/27/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21906e40d7ea47e9b8c08c08e88e46dc/version/28/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_oy7f5pul/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-02-06",
        "plot": "",
@@ -275,7 +285,7 @@
       },
       {
        "name": "המגזין 30.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfa8b6ad00be479aa84fed22290a1bb0/version/30/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dfa8b6ad00be479aa84fed22290a1bb0/version/31/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1g7y61c4/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-30",
        "plot": "",
@@ -285,7 +295,7 @@
       },
       {
        "name": "המגזין 23.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e03b7adf9536499aae94de43f6f0a07b/version/30/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e03b7adf9536499aae94de43f6f0a07b/version/31/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i75lfzoa/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-23",
        "plot": "",
@@ -295,7 +305,7 @@
       },
       {
        "name": "המגזין 16.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8897a633c0fd450aa16ee4a130c16830/version/29/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8897a633c0fd450aa16ee4a130c16830/version/30/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fu34te2b/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-16",
        "plot": "",
@@ -305,7 +315,7 @@
       },
       {
        "name": "המגזין 09.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ccbc2b5b738d41939ba3342d38a572c5/version/29/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ccbc2b5b738d41939ba3342d38a572c5/version/30/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u6u4tqr3/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-09",
        "plot": "",
@@ -315,7 +325,7 @@
       },
       {
        "name": "המגזין 02.01.26 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/81797916fff34dc4bcee179eaefc0215/version/30/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/81797916fff34dc4bcee179eaefc0215/version/31/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6efb1vj6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-01-02",
        "plot": "",
@@ -325,7 +335,7 @@
       },
       {
        "name": "המגזין 19.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0dda08d23772463382e612a4e8014fe4/version/31/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0dda08d23772463382e612a4e8014fe4/version/32/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tbumrpo5/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-19",
        "plot": "",
@@ -335,7 +345,7 @@
       },
       {
        "name": "המגזין 12.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a484b1e0c864423aec380ddb4d2e027/version/32/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9a484b1e0c864423aec380ddb4d2e027/version/33/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ijo96lth/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-12",
        "plot": "",
@@ -345,7 +355,7 @@
       },
       {
        "name": "המגזין 05.12.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d5223724424746ef88de836455b5d683/version/33/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d5223724424746ef88de836455b5d683/version/34/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mr984hh1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-12-05",
        "plot": "",
@@ -355,7 +365,7 @@
       },
       {
        "name": "המגזין 28.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d63e98472d9c49e2b759aa1192b1685d/version/34/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d63e98472d9c49e2b759aa1192b1685d/version/35/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pfm6r7df/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-28",
        "plot": "",
@@ -365,7 +375,7 @@
       },
       {
        "name": "המגזין 21.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1dbdc88711a94a628f3e68895220b372/version/35/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1dbdc88711a94a628f3e68895220b372/version/36/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_85iwwafq/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-21",
        "plot": "",
@@ -375,7 +385,7 @@
       },
       {
        "name": "המגזין 14.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6bcdc9164886456bb425e9ce897640b3/version/36/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6bcdc9164886456bb425e9ce897640b3/version/37/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mjju265r/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-14",
        "plot": "",
@@ -385,7 +395,7 @@
       },
       {
        "name": "המגזין 07.11.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae6e2de50f894758a8e869a83b3f160b/version/38/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae6e2de50f894758a8e869a83b3f160b/version/39/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_77czq9l3/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-07",
        "plot": "",
@@ -395,7 +405,7 @@
       },
       {
        "name": "המגזין 31.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3e62e81ebc648b2973fd60c93e37470/version/39/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3e62e81ebc648b2973fd60c93e37470/version/40/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_aysb097o/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-31",
        "plot": "",
@@ -405,7 +415,7 @@
       },
       {
        "name": "המגזין 24.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7cd141cc6e7844c4b6f0ab895972ad59/version/42/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7cd141cc6e7844c4b6f0ab895972ad59/version/43/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n5xb4xac/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-24",
        "plot": "",
@@ -415,7 +425,7 @@
       },
       {
        "name": "המגזין 17.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b1794e7947a467b87d22022b632776f/version/43/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b1794e7947a467b87d22022b632776f/version/44/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mgnuek5p/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-17",
        "plot": "",
@@ -425,7 +435,7 @@
       },
       {
        "name": "המגזין 03.10.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/142585d214cf4d69ae90f6db92b08cc7/version/44/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/142585d214cf4d69ae90f6db92b08cc7/version/45/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_engygnx0/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-10-03",
        "plot": "",
@@ -435,7 +445,7 @@
       },
       {
        "name": "המגזין 19.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/123f05a645774aab863871e5362ef7a4/version/47/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/123f05a645774aab863871e5362ef7a4/version/48/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5ek06qm6/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-19",
        "plot": "",
@@ -455,7 +465,7 @@
       },
       {
        "name": "המגזין 05.09.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1611033858514e0781e2db2d57f1a40f/version/49/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1611033858514e0781e2db2d57f1a40f/version/50/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1t4ghpxa/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-06",
        "plot": "",
@@ -465,7 +475,7 @@
       },
       {
        "name": "המגזין 29.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0165d695d06e4fa38ec351b1387cb9db/version/51/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0165d695d06e4fa38ec351b1387cb9db/version/52/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ucjnx40j/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-29",
        "plot": "",
@@ -475,7 +485,7 @@
       },
       {
        "name": "המגזין 22.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6bf94e8fc76a4c188808a74bdd9bf1a9/version/53/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6bf94e8fc76a4c188808a74bdd9bf1a9/version/54/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g7fknxft/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-22",
        "plot": "",
@@ -485,7 +495,7 @@
       },
       {
        "name": "המגזין 15.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/11844bd083ed42a2bdd7f693d5d2c78f/version/54/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/11844bd083ed42a2bdd7f693d5d2c78f/version/55/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b1kk3f4y/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-15",
        "plot": "",
@@ -495,7 +505,7 @@
       },
       {
        "name": "המגזין 08.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84ae4c84dfa548f4b0aac03b50d7fda0/version/56/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84ae4c84dfa548f4b0aac03b50d7fda0/version/57/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_04s33dbo/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-08",
        "plot": "",
@@ -505,7 +515,7 @@
       },
       {
        "name": "המגזין 01.08.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1992c72b1e4493f94e0d7bd2cc038d9/version/58/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1992c72b1e4493f94e0d7bd2cc038d9/version/59/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qz99awji/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-08-01",
        "plot": "",
@@ -515,7 +525,7 @@
       },
       {
        "name": "המגזין 25.07.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b95f98aa2f174b66bdea049556fcacb5/version/61/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b95f98aa2f174b66bdea049556fcacb5/version/62/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_f5947blr/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-25",
        "plot": "",
@@ -525,7 +535,7 @@
       },
       {
        "name": "המגזין 18.07.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec12edcb0f494653a99cfcce2df7e60e/version/64/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec12edcb0f494653a99cfcce2df7e60e/version/65/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7m2d0dh2/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-18",
        "plot": "",
@@ -535,7 +545,7 @@
       },
       {
        "name": "המגזין 11.07.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1c0282a759f464fa38c485ec7209bfa/version/65/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a1c0282a759f464fa38c485ec7209bfa/version/66/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g9w6imnp/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-11",
        "plot": "",
@@ -545,7 +555,7 @@
       },
       {
        "name": "המגזין 04.07.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/873158d770ea424b927e4591179af891/version/67/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/873158d770ea424b927e4591179af891/version/68/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0z3yvaba/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-07-04",
        "plot": "",
@@ -565,7 +575,7 @@
       },
       {
        "name": "המגזין 06.06.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/422ad541e96a4ea6a2214a6769a1ccf5/version/68/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/422ad541e96a4ea6a2214a6769a1ccf5/version/69/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bmqki07b/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-06-06",
        "plot": "",
@@ -575,7 +585,7 @@
       },
       {
        "name": "המגזין 24.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e713b70d1a234e5aa3a4730d1eb40923/version/72/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e713b70d1a234e5aa3a4730d1eb40923/version/73/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b991mjnf/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-30",
        "plot": "",
@@ -585,7 +595,7 @@
       },
       {
        "name": "המגזין 23.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07338354134f44028d4dce016c7f4843/version/73/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07338354134f44028d4dce016c7f4843/version/74/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6wf124io/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-23",
        "plot": "",
@@ -595,7 +605,7 @@
       },
       {
        "name": "המגזין 16.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3809507c012544cea663a93aac81f85e/version/76/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3809507c012544cea663a93aac81f85e/version/77/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tm6ebbfi/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-16",
        "plot": "",
@@ -605,7 +615,7 @@
       },
       {
        "name": "המגזין 09.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bafda31b47fe4e7b8ee4be9582eb1566/version/78/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bafda31b47fe4e7b8ee4be9582eb1566/version/79/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1sl9j4if/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-09",
        "plot": "",
@@ -615,7 +625,7 @@
       },
       {
        "name": "המגזין 02.05.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa888256c8ed480c81cfd7df2bd23072/version/79/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fa888256c8ed480c81cfd7df2bd23072/version/80/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9cka98yb/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-05-02",
        "plot": "",
@@ -625,7 +635,7 @@
       },
       {
        "name": "המגזין 25.04.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0bd1489756214f438fc91673c90449b4/version/80/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0bd1489756214f438fc91673c90449b4/version/81/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_royt7stz/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-25",
        "plot": "",
@@ -635,7 +645,7 @@
       },
       {
        "name": "המגזין 11.04.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff775532d7dc4938985d35d6a419804a/version/82/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ff775532d7dc4938985d35d6a419804a/version/83/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ys3n262w/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-11",
        "plot": "",
@@ -645,7 +655,7 @@
       },
       {
        "name": "המגזין 04.04.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52bcb97538a34dfc825a7c9dae844351/version/84/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/52bcb97538a34dfc825a7c9dae844351/version/85/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_em0x0gm4/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-04-04",
        "plot": "",
@@ -655,7 +665,7 @@
       },
       {
        "name": "המגזין 28.03.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f17cd575694c4db4b7d7940534ffc94d/version/86/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f17cd575694c4db4b7d7940534ffc94d/version/87/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xo9xdrk1/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-28",
        "plot": "",
@@ -665,7 +675,7 @@
       },
       {
        "name": "המגזין 14.03.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c18793b7c0534d339393d989f3598a85/version/92/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c18793b7c0534d339393d989f3598a85/version/93/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_i2792zwt/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-14",
        "plot": "",
@@ -675,7 +685,7 @@
       },
       {
        "name": "המגזין 07.03.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f5d9de053b6445a1aca3eed8d9d57fd4/version/93/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f5d9de053b6445a1aca3eed8d9d57fd4/version/94/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2mb9bg7v/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-03-07",
        "plot": "",
@@ -685,7 +695,7 @@
       },
       {
        "name": "המגזין 28.02.25 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c5256252c4e14dc292bf4e58022fa6f5/version/94/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c5256252c4e14dc292bf4e58022fa6f5/version/95/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_djlrpl8y/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-02-28",
        "plot": "",
@@ -695,7 +705,7 @@
       },
       {
        "name": "המגזין 27.12.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e4580e957514412eb68da4b57253e9e0/version/97/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e4580e957514412eb68da4b57253e9e0/version/98/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3omk4rtg/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-27",
        "plot": "",
@@ -705,7 +715,7 @@
       },
       {
        "name": "המגזין 20.12.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/97f429a7e2424b768140d9ef4ca9c593/version/98/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/97f429a7e2424b768140d9ef4ca9c593/version/99/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ka1qlo1x/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-20",
        "plot": "",
@@ -715,7 +725,7 @@
       },
       {
        "name": "המגזין 13.12.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c590515d7e6e4470a2bc525a80febb4d/version/101/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c590515d7e6e4470a2bc525a80febb4d/version/102/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9t5qn4tl/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-13",
        "plot": "",
@@ -725,7 +735,7 @@
       },
       {
        "name": "המגזין 06.12.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d4f1f86856e4602a3634c8ce0f56a31/version/102/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d4f1f86856e4602a3634c8ce0f56a31/version/103/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_clpf2osw/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-12-06",
        "plot": "",
@@ -735,7 +745,7 @@
       },
       {
        "name": "המגזין 29.11.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8db272e2aab14d3a977385455cf061ee/version/105/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8db272e2aab14d3a977385455cf061ee/version/106/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x8fke554/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-29",
        "plot": "",
@@ -745,7 +755,7 @@
       },
       {
        "name": "המגזין 22.11.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cb70c0e4cb04ee2bebc0e1045dcaeaa/version/106/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0cb70c0e4cb04ee2bebc0e1045dcaeaa/version/107/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k9y7pwmr/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-22",
        "plot": "",
@@ -755,7 +765,7 @@
       },
       {
        "name": "המגזין 15.11.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d44da92be42a4d57bca1ac1f95ab7796/version/109/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d44da92be42a4d57bca1ac1f95ab7796/version/110/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8n0qby65/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-15",
        "plot": "",
@@ -765,7 +775,7 @@
       },
       {
        "name": "המגזין 01.11.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3eeb6876447445d4a9a35e8c3172a6c6/version/110/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3eeb6876447445d4a9a35e8c3172a6c6/version/111/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_v2xw2jy6/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-11-01",
        "plot": "",
@@ -775,7 +785,7 @@
       },
       {
        "name": "המגזין 25.10.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b65bef072f514e27bdf1fc328924140d/version/113/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b65bef072f514e27bdf1fc328924140d/version/114/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_23meygyn/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-10-25",
        "plot": "",
@@ -785,7 +795,7 @@
       },
       {
        "name": "המגזין 18.10.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec451ffd8baa4d80a933154847d4c749/version/115/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ec451ffd8baa4d80a933154847d4c749/version/116/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pj1kwqnr/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-10-18",
        "plot": "",
@@ -795,7 +805,7 @@
       },
       {
        "name": "המגזין 20.09.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f1fe5f0b907f4dc2b26e1827c0af650d/version/116/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f1fe5f0b907f4dc2b26e1827c0af650d/version/117/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_89bc0bad/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-20",
        "plot": "",
@@ -805,7 +815,7 @@
       },
       {
        "name": "המגזין 13.09.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58dea7fe503949b6b843d2454b51ff16/version/118/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/58dea7fe503949b6b843d2454b51ff16/version/119/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p2dnp7dc/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-13",
        "plot": "",
@@ -815,7 +825,7 @@
       },
       {
        "name": "המגזין 06.09.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b17605e464a49588484fd73bcfcfbbc/version/120/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3b17605e464a49588484fd73bcfcfbbc/version/121/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qo6avgi5/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-09-06",
        "plot": "",
@@ -825,7 +835,7 @@
       },
       {
        "name": "המגזין 30.08.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e0cd97de00b14deaa78c7bc88357a696/version/122/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e0cd97de00b14deaa78c7bc88357a696/version/123/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k5rbthav/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-30",
        "plot": "",
@@ -835,7 +845,7 @@
       },
       {
        "name": "המגזין 23.08.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bda8d7dda3bd4630bddfaef6cfdab544/version/124/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bda8d7dda3bd4630bddfaef6cfdab544/version/125/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yh9njkto/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-23",
        "plot": "",
@@ -845,7 +855,7 @@
       },
       {
        "name": "המגזין 16.08.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/553edf9811244ce7b662c0e1fb1ba2d9/version/126/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/553edf9811244ce7b662c0e1fb1ba2d9/version/127/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6iwd7sn7/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-16",
        "plot": "",
@@ -855,7 +865,7 @@
       },
       {
        "name": "המגזין 09.08.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63e9a7292ec14df597958c2df937a3a6/version/128/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/63e9a7292ec14df597958c2df937a3a6/version/129/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_04dwm00j/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-09",
        "plot": "",
@@ -865,7 +875,7 @@
       },
       {
        "name": "המגזין 02.08.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae60b427ab2e4b78a927ccb967807c31/version/130/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ae60b427ab2e4b78a927ccb967807c31/version/131/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0ms0jkpy/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-08-02",
        "plot": "",
@@ -875,7 +885,7 @@
       },
       {
        "name": "המגזין 26.07.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/29b32408a33f477d901f52cf0a975ab9/version/132/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/29b32408a33f477d901f52cf0a975ab9/version/133/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cjsfnkwi/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-26",
        "plot": "",
@@ -885,7 +895,7 @@
       },
       {
        "name": "המגזין 05.07.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/912fd559c1174f869b235e0a08241af7/version/136/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/912fd559c1174f869b235e0a08241af7/version/137/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_n1pt067e/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-12",
        "plot": "",
@@ -895,7 +905,7 @@
       },
       {
        "name": "המגזין 05.07.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/88af490b595445c28cdf806f5cf70710/version/137/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/88af490b595445c28cdf806f5cf70710/version/138/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8jnzrjdl/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-07-05",
        "plot": "",
@@ -905,7 +915,7 @@
       },
       {
        "name": "המגזין 28.06.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/050591bd7c0c4bd797a69ab9ced8eeab/version/138/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/050591bd7c0c4bd797a69ab9ced8eeab/version/139/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9470nn2d/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-28",
        "plot": "",
@@ -915,7 +925,7 @@
       },
       {
        "name": "המגזין 21.06.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b78e971d59542a18b4460210fdab48a/version/139/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b78e971d59542a18b4460210fdab48a/version/140/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e9urk0x6/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-21",
        "plot": "",
@@ -925,7 +935,7 @@
       },
       {
        "name": "המגזין 14.06.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6606c52932a54137b7677754737c6162/version/142/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6606c52932a54137b7677754737c6162/version/143/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wmgzll18/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-14",
        "plot": "",
@@ -935,7 +945,7 @@
       },
       {
        "name": "המגזין 07.06.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d431284984da4118b64373cd923b1cdc/version/145/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d431284984da4118b64373cd923b1cdc/version/146/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ddi92a7j/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-06-07",
        "plot": "",
@@ -945,7 +955,7 @@
       },
       {
        "name": "המגזין 31.05.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c2b29be75cf4dd49f1ef8f1355af495/version/146/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c2b29be75cf4dd49f1ef8f1355af495/version/147/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pouzf6kc/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-05-31",
        "plot": "",
@@ -955,7 +965,7 @@
       },
       {
        "name": "המגזין 17.05.24 – התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/753ebf02ae4f46fa8d9744c4bb9fe1fa/version/148/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/753ebf02ae4f46fa8d9744c4bb9fe1fa/version/149/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qgibhawl/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-05-19",
        "plot": "",
@@ -975,7 +985,7 @@
       },
       {
        "name": "המגזין - 03.05.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a6b7621f795d4090a2341a31914eab55/version/155/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a6b7621f795d4090a2341a31914eab55/version/156/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c5t20cbt/format/applehttp/protocol/https/a.m3u8",
        "date": "2024-05-05",
        "plot": "",
@@ -985,7 +995,7 @@
       },
       {
        "name": "המגזין - 01.09.23 התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4638265feb51434aa1f7212c26bbd706/version/161/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4638265feb51434aa1f7212c26bbd706/version/162/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t5limgln/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-09-01",
        "plot": "",
@@ -995,7 +1005,7 @@
       },
       {
        "name": "המגזין - 25.08.23 התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da6f7134b10f4582abee7c6b89ff4565/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/da6f7134b10f4582abee7c6b89ff4565/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9l0vfnnm/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-25",
        "plot": "",
@@ -1005,7 +1015,7 @@
       },
       {
        "name": "המגזין 18.08.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6add1cb83dbd41e2890392f23b8d4e07/version/163/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6add1cb83dbd41e2890392f23b8d4e07/version/164/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_odm7xmsx/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-18",
        "plot": "",
@@ -1015,7 +1025,7 @@
       },
       {
        "name": "המגזין 12.08.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d03342ecdc434fa4855025744a2ce849/version/165/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d03342ecdc434fa4855025744a2ce849/version/166/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2tuh82wh/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-12",
        "plot": "",
@@ -1025,7 +1035,7 @@
       },
       {
        "name": "המגזין 04.08.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b327a29c0094c8180b68d7b128276f3/version/165/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b327a29c0094c8180b68d7b128276f3/version/166/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_w0rg4wbd/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-08-04",
        "plot": "",
@@ -1035,7 +1045,7 @@
       },
       {
        "name": "המגזין 28.07.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7ec605bee3e940a19c2b17549163c27b/version/170/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7ec605bee3e940a19c2b17549163c27b/version/171/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xy0mfjs5/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-28",
        "plot": "",
@@ -1045,7 +1055,7 @@
       },
       {
        "name": "המגזין 21.07.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21010e8dbb9140d180997d32b73fa227/version/169/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/21010e8dbb9140d180997d32b73fa227/version/170/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p491kiey/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-21",
        "plot": "",
@@ -1055,7 +1065,7 @@
       },
       {
        "name": "המגזין 14.07.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc6e0ab358cd4f988db31adeb407eab1/version/171/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc6e0ab358cd4f988db31adeb407eab1/version/172/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3ki00mth/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-14",
        "plot": "",
@@ -1065,7 +1075,7 @@
       },
       {
        "name": "המגזין 07.07.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/072da65da43a4e559bb15ec19c6f3386/version/175/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/072da65da43a4e559bb15ec19c6f3386/version/176/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8zxdf804/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-07-07",
        "plot": "",
@@ -1075,7 +1085,7 @@
       },
       {
        "name": "המגזין 30.06.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0096432ee7f8490dae9e74b1e536b7cf/version/176/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0096432ee7f8490dae9e74b1e536b7cf/version/177/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pwezwro6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-30",
        "plot": "",
@@ -1085,7 +1095,7 @@
       },
       {
        "name": "המגזין 23.06.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c81bd472ccd94dc3b1371f9727ca7fcf/version/176/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c81bd472ccd94dc3b1371f9727ca7fcf/version/177/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ac7hlikj/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-23",
        "plot": "",
@@ -1095,7 +1105,7 @@
       },
       {
        "name": "המגזין 16.06.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06e6840426384eeda8622473319208d9/version/180/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06e6840426384eeda8622473319208d9/version/181/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2fhd72o9/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-16",
        "plot": "",
@@ -1105,7 +1115,7 @@
       },
       {
        "name": "המגזין 09.06.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7c987b0ae9a4aa993e288796ebbc3e4/version/183/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f7c987b0ae9a4aa993e288796ebbc3e4/version/184/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lrmdo0yp/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-06-09",
        "plot": "",
@@ -1115,7 +1125,7 @@
       },
       {
        "name": "המגזין 26.05.23 – התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e03e40330474d7ea4596897f553d0b3/version/184/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8e03e40330474d7ea4596897f553d0b3/version/185/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_r43abox1/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-26",
        "plot": "",
@@ -1125,7 +1135,7 @@
       },
       {
        "name": "המגזין 19.05.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87686404fd464482901e8fd0d94131fc/version/189/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/87686404fd464482901e8fd0d94131fc/version/190/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m4h938zw/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-19",
        "plot": "",
@@ -1135,7 +1145,7 @@
       },
       {
        "name": "המגזין 05.05.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/733a325e2353443e894cd081f63bdab7/version/194/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/733a325e2353443e894cd081f63bdab7/version/195/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_iqogt692/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-05-05",
        "plot": "",
@@ -1145,7 +1155,7 @@
       },
       {
        "name": "המגזין 28.04.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/42f6c67f06a5427289048e41fb6f0d60/version/193/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/42f6c67f06a5427289048e41fb6f0d60/version/194/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2vu16ti8/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-28",
        "plot": "",
@@ -1155,7 +1165,7 @@
       },
       {
        "name": "המגזין 14.04.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f9cc6c0a8ae943b6a9e16aed03c26077/version/192/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f9cc6c0a8ae943b6a9e16aed03c26077/version/193/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1rp0nfsk/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-21",
        "plot": "",
@@ -1165,7 +1175,7 @@
       },
       {
        "name": "המגזין 21.04.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e842d7478c964763ae99c296170de48a/version/195/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e842d7478c964763ae99c296170de48a/version/196/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xismk5sm/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-21",
        "plot": "",
@@ -1175,7 +1185,7 @@
       },
       {
        "name": "המגזין 24.03.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b380788974f74adc8a31a51f5e06ec51/version/196/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b380788974f74adc8a31a51f5e06ec51/version/197/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ie1su0ab/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1185,7 +1195,7 @@
       },
       {
        "name": "המגזין 03.03.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/240cac5981294e98a2c44f0f99d4508b/version/197/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/240cac5981294e98a2c44f0f99d4508b/version/198/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8ks24hug/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1195,7 +1205,7 @@
       },
       {
        "name": "המגזין 17.02.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a1aa761b6914b36b75364cebbfa8cf1/version/197/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a1aa761b6914b36b75364cebbfa8cf1/version/198/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o2pgckb6/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1205,7 +1215,7 @@
       },
       {
        "name": "המגזין 03.02.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50839895b87148d18171f0441c6e83b9/version/197/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/50839895b87148d18171f0441c6e83b9/version/198/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7sps0ye4/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1215,7 +1225,7 @@
       },
       {
        "name": "המגזין 27.01.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3468de946ddb40e38032548be35d37f6/version/197/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3468de946ddb40e38032548be35d37f6/version/198/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xc8ikfx9/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1225,7 +1235,7 @@
       },
       {
        "name": "המגזין 20.01.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/712802802cca40ce9a6a85a613214aaf/version/196/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/712802802cca40ce9a6a85a613214aaf/version/197/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wfm0rz3x/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1235,7 +1245,7 @@
       },
       {
        "name": "המגזין 17.03.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72325d49b2a643c19ffc32ef80edf16f/version/200/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72325d49b2a643c19ffc32ef80edf16f/version/201/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_besw7cy7/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -1245,7 +1255,7 @@
       },
       {
        "name": "המגזין 31.03.23 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e57f3ed2ee946b1ad25c9f6f7cbe7b9/version/198/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e57f3ed2ee946b1ad25c9f6f7cbe7b9/version/199/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0oysdoyn/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",

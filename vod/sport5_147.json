@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803928.jpg",
    "plot": "",
-   "updated": "2026-11-13 13:25",
+   "updated": "2026-11-13 23:12",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "הפרובוקציה שניסו לחולל בכלי תקשורת בקוסובו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803928.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KOSOVO_GAZA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/KOSOVO_GAZA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567487&poster=https://",
+       "season": ""
+      },
       {
        "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_POR/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567191&poster=https://www.",
-       "season": ""
-      },
-      {
-       "name": "מזכיר נשכחות: ג`ורג` הוביל את בוסטון לניצחון גדול בפילי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1802889.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BOSPHI_0212_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BOSPHI_0212_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567190&pos",
        "season": ""
       }
      ]
