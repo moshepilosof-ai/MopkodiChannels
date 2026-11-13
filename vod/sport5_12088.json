@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "12088",
    "series_id": "12088",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
    "plot": "",
-   "updated": "2026-11-13 00:12",
+   "updated": "2026-11-13 13:52",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=567346&p",
+       "season": ""
+      },
       {
        "name": "רצף הניצחונות נעצר: הפועל תל אביב נכנעה לדובאי בחוץ",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_240326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=538148&post",
-       "season": ""
-      },
-      {
-       "name": "ניצחון גדול להפועל ת\"א על ברצלונה במאבק על הפלייאוף",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1687110.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_130326/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HAPOEL_130326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=537150&post",
        "season": ""
       }
      ]

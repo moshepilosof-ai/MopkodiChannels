@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
    "plot": "",
-   "updated": "2026-11-12 23:47",
+   "updated": "2026-11-13 13:25",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567346&pos",
+       "season": ""
+      },
       {
        "name": "החגיגה נמשכת: 28 נק' לדני בניצחון המרשים על OKC",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
@@ -21,6 +31,26 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567376&poster=https:",
+       "season": ""
+      },
+      {
+       "name": "תצוגה היסטורית לקייד ב-140:144 של דטרויט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803817.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567482&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "עודד קטש לאחר הניצחון בדרבי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803767.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KATASH_SY1_179452073942/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/KATASH_SY1_179452073942/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567374&pos",
        "season": ""
       },
       {
@@ -41,6 +71,36 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_OKCPOR_0226_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567345&pos",
+       "season": ""
+      },
+      {
+       "name": "פרוצ'ידה כיכב: ריאל מדריד ניצחה את הכוכב האדום",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1803782.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567344&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "ממשיכה לדהור: ולנסיה ניצחה את באיירן 87:102",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803718.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567342&poster=https:/",
+       "season": ""
+      },
+      {
+       "name": "בקלילות: אולימפיאקוס פירקה את דובאי 72:101",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1803712.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567349&poster=https:/",
        "season": ""
       },
       {
@@ -151,66 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BOSPHI_0212_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567190&pos",
-       "season": ""
-      },
-      {
-       "name": "נוקאאוט במדבר: פיניקס הביסה את הקליפרס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1802902.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LACPHX_0213_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LACPHX_0213_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567189&pos",
-       "season": ""
-      },
-      {
-       "name": "דאבל דאבל ליאניס, מיאמי גברה 109:115 על יוטה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1802900.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIAUTA_0214_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MIAUTA_0214_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567188&pos",
-       "season": ""
-      },
-      {
-       "name": "משחק ענק לואגנר, אורלנדו ניצחה את שארפ וסקרמנטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1802906.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_ORLSAC_0215_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_ORLSAC_0215_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567187&pos",
-       "season": ""
-      },
-      {
-       "name": "ברונסון הוביל את הניקס ל-85:117 על מילווקי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1802887.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MILNYK_0211_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MILNYK_0211_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567186&pos",
-       "season": ""
-      },
-      {
-       "name": "פספוס: חולון נכנעה 90:85 לרסטה וכטה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1802777.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_101126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HOLON_101126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567162&poster=",
-       "season": ""
-      },
-      {
-       "name": "בלתי נתפס: מכבי ת\"א זכתה בגביע ווינר לאחר קאמבק משוגע",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1802499.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_DERBI_GAVIA_091126_NEW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_VTR_TAK_DERBI_GAVIA_091126_NEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=",
        "season": ""
       }
      ]

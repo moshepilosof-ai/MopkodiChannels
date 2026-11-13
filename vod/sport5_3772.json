@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3772",
    "series_id": "3772",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
    "plot": "",
-   "updated": "2026-11-13 00:12",
+   "updated": "2026-11-13 13:51",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12365%26Vi=567346&p",
+       "season": ""
+      },
       {
        "name": "עוד הפסד לאוסף: מכבי ת\"א הובסה בבלגרד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1800772.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_PAO_2201261_17691165992/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12091%26",
-       "season": ""
-      },
-      {
-       "name": "בור עמוק: מכבי הפסידה 100:93 מאולימפיאקוס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1662740.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_OLYM_200126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_OLYM_200126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12091%26Vi=531782&poste",
        "season": ""
       }
      ]

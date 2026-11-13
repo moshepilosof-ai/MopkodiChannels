@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "9887",
    "series_id": "9887",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1803372.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803887.jpg",
    "plot": "",
-   "updated": "2026-11-13 00:28",
+   "updated": "2026-11-13 14:08",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "מאמן חדש כחול - לבן: ננו גינצבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803887.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_GINZBURG_121126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_GINZBURG_121126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=567522&poste",
+       "season": ""
+      },
       {
        "name": "בשבת: קוסובו - ישראל. ההכנות של היריבה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1803372.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_TVERIA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=565137&poster=https:/",
-       "season": ""
-      },
-      {
-       "name": "המחזור השמיני בפתח:",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1794316.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_KATAVIM/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ITEM_KATAVIM/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=9887%26Vi=565136&poster=https:",
        "season": ""
       }
      ]
