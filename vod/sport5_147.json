@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1804109.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804246.jpg",
    "plot": "",
-   "updated": "2026-11-14 11:34",
+   "updated": "2026-11-14 21:40",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "עדיין בלי ניצחון: ישראל וקוסובו נפרדו ב-0:0",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804246.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISR_KOSOV_141126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISR_KOSOV_141126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567509&poster",
+       "season": ""
+      },
       {
        "name": "קשה בלי קרי: הספרס דרסו את גולדן סטייט",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1804109.jpg",
@@ -91,6 +101,16 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PORSAC_0041_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567501&pos",
+       "season": ""
+      },
+      {
+       "name": "21 נק לאודיאסי: הפועל ת\"א התאוששה עם 71:78 על הרצליה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1804377.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_HERTZ_141126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_HERTZ_141126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567503&poster",
        "season": ""
       },
       {
@@ -181,26 +201,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567344&poster=https://",
-       "season": ""
-      },
-      {
-       "name": "ממשיכה לדהור: ולנסיה ניצחה את באיירן 87:102",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803718.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567342&poster=https:/",
-       "season": ""
-      },
-      {
-       "name": "בקלילות: אולימפיאקוס פירקה את דובאי 72:101",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1803712.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=567349&poster=https:/",
        "season": ""
       }
      ]

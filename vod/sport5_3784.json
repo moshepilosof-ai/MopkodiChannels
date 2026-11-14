@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3784",
    "series_id": "3784",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1783437.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804246.jpg",
    "plot": "",
-   "updated": "2026-11-14 12:01",
+   "updated": "2026-11-14 22:06",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "עדיין בלי ניצחון: ישראל וקוסובו נפרדו ב-0:0",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804246.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISR_KOSOV_141126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISR_KOSOV_141126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3784%26Vi=567509&poste",
+       "season": ""
+      },
       {
        "name": "תחושת החמצה: דור פרץ כבש, רק 1:1 מול אירלנד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1783437.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NIVHERET_PSHECHA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3784%26Vi=488645&poster=ht",
-       "season": ""
-      },
-      {
-       "name": "עדיין ללא נקודה: 1:4 לאיטליה על נבחרת ישראל",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1459752.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISRAEL_141024/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ISRAEL_141024/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3784%26Vi=485927&poster=h",
        "season": ""
       }
      ]

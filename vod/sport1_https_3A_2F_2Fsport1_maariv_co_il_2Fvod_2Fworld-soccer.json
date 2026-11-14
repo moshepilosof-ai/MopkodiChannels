@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292987",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293080",
    "plot": "",
-   "updated": "2026-11-14 12:30",
+   "updated": "2026-11-14 22:35",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: סרביה – גרמניה 3:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292987",
+       "name": "תקציר ליגת האומות: גאורגיה – הונגריה 2:0",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293080",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119265/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1997358/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: נורבגיה יצאה מהמשבר עם 1:3 מול ויילס",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293062",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119264/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1997349/",
+       "season": ""
+      },
+      {
+       "name": "צפו: גרמניה ניצחה 1:3 את סרביה שנותרה בתשעה שחקנים, שער מדהים לגרודה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292987",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119021/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/video/1996170/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: איטליה – צרפת 1:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292885",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118873/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1996151/",
-       "season": ""
-      },
-      {
-       "name": "צפו: בעיטה חופשית מדהימה של גולר לא הספיקה, בלגיה הפכה וניצחה בטורקיה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292865",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118805/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1996100/",
        "season": ""
       }
      ]
