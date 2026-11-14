@@ -8,7 +8,7 @@
    "series_id": "3792",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1677916.jpg",
    "plot": "",
-   "updated": "2026-11-13 23:55",
+   "updated": "2026-11-14 12:20",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -1082,6 +1082,161 @@
        "page": "",
        "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a2/37/a237ce2e-4f1f-42bc-8bb5-64ada95ae420/051020162210_jer_051016_,160,80,55,110,35,0k.mp4.csmil/master.m3u8",
        "season": "גביע המדינה בכדורסל - 2016/17"
+      }
+     ]
+    },
+    {
+     "name": "גביע המדינה בכדורסל - 2015/16",
+     "channels": [
+      {
+       "name": "האלופה בגמר הגביע: ניצחון קל לאשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/590913.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/86/9f/869f8a42-e5a5-4a77-a36d-194d7e6bf169/140320162109_ashdod_tak_140316_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "50:69 לבנות של עדן ענבר על בנות הרצליה, בדרך לקרב על התואר מול מכבי רמת חן",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/86/9f/869f8a42-e5a5-4a77-a36d-194d7e6bf169/140320162109_ashdod_tak_140316_,160,110,80,55,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "רמת חן דהרה לגמר גביע המדינה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/590879.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/16/60/1660ed91-dcf5-4a7a-b59f-aaa62d6cb9c5/140320161907_ramat_hen_holon_140316_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "מוליכת הליגה דרסה 70:92 את אליצור חולון. 25 נקודות לתורנטון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/16/60/1660ed91-dcf5-4a7a-b59f-aaa62d6cb9c5/140320161907_ramat_hen_holon_140316_,160,80,35,55,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "אוהדי מכבי נטשו את היציע ברבע ה-1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/585019.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/e7/ffe7b134-31da-49fd-8020-bccc7d8c18ad/180220162109_maccabi_fans_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "כחלק ממחאת העלאת מחירי המנויים לעונה הבאה, הגרעין הקשה של אוהדי מכבי קם ממושביו",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ff/e7/ffe7b134-31da-49fd-8020-bccc7d8c18ad/180220162109_maccabi_fans_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "היסטוריה לאשדוד או גביע 43 למכבי?",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/584934.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b7/e1/b7e1c188-6594-403d-84eb-eb7bdda5ca18/180220161301_clip_final_cup_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אשדוד הפתיעה את הצהובים פעמיים העונה, בפעם השלישית זה עלול להגמר בגביע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b7/e1/b7e1c188-6594-403d-84eb-eb7bdda5ca18/180220161301_clip_final_cup_,35,110,160,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "נגמר בכעס: צביקה מול טבק ב-1989",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/584907.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3d/12/3d122ea3-aa48-4d79-b836-35519e0e7af6/180220161212_tzvika_sherf_180216_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שרף, אז מאמן מכבי תל אביב, הפסיד לספליט בגמר האירופי. מה גרם לו להתרגז?",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3d/12/3d122ea3-aa48-4d79-b836-35519e0e7af6/180220161212_tzvika_sherf_180216_,80,110,35,55,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "הצגה של הישראלים, מכבי תל אביב בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/584389.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a5/49/a549ad7a-cdfb-40d0-83ca-8b9ae1c97dd9/160220160012_maccabi-nes_tak_gavia_150216_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצהובים פיגרו לאורך דקות ארוכות, אבל אוחיון ומקל סחפו אותם ל-66:81 על נס ציונה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a5/49/a549ad7a-cdfb-40d0-83ca-8b9ae1c97dd9/160220160012_maccabi-nes_tak_gavia_150216_,80,55,160,110,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "2 הארכות במשחק משוגע: אשדוד בגמר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/584321.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/3c/a3/3ca362c4-2437-4ea6-9062-0481e298d72a/150220162109_rishon_asdod_tak_gavia_150215_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "אחרי רכבת הרים בהיכל, הקבוצה של צביקה שרף עלתה לקרב על התואר עם 82:84 על ראשל\"צ",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/3c/a3/3ca362c4-2437-4ea6-9062-0481e298d72a/150220162109_rishon_asdod_tak_gavia_150215_,35,110,55,160,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "נס ציונה העפילה לחצי גמר הגביע",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/572611.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/bb/64/bb64e5d5-b769-4ee6-b643-739f3e490b6e/1001162139_n_vo_givataim_100116 copy_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סיפור הסינדרלה של הפועל רמת גן/גבעתיים הסתיים לאחר הפסד 78:91 לנס ציונה מליגת העל.",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/bb/64/bb64e5d5-b769-4ee6-b643-739f3e490b6e/1001162139_n_vo_givataim_100116 copy_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "ראשל\"צ בחצי אחרי דרמה וסל על הבאזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/572276.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/a7/1c/a71c46e0-4e0a-4177-8777-43e40c17c0fe/0901162036_tak_hertzeliya_rishon_090116_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ליונס שבר לבני הרצליה את הלב ב-77:78 ברבע גמר הגביע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/a7/1c/a71c46e0-4e0a-4177-8777-43e40c17c0fe/0901162036_tak_hertzeliya_rishon_090116_,35,55,110,80,160,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "ניצלה: מכבי בחצי עם 70:73 על חיפה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/572397.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/43/5e/435e99af-a1ec-4fb4-9c9a-d3cc96da4358/0901162342_tak_haifa_maccabi_sal_090116_new_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "שלשה של רוצ'סטי 0.4 שניות לסיום הצילה את הצהובים מהדחה ברבע הגמר",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/43/5e/435e99af-a1ec-4fb4-9c9a-d3cc96da4358/0901162342_tak_haifa_maccabi_sal_090116_new_,110,160,55,35,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "כמו יין: טפירו גבר על הפועל עם הבאזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/568617.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/10/b2102ec2-552a-4287-b149-245b78898a55/2412152108_hapoel_gat_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "סל ניצחון של הגארד בן ה-40 קבע 82:83 לקרית גת על הפועל ת\"א",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b2/10/b2102ec2-552a-4287-b149-245b78898a55/2412152108_hapoel_gat_,80,110,55,160,35,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "והיה לו גם זמן לכדורסל: פניני כיכב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/568433.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/2c/90/2c90b64c-6688-4532-8e3b-f63501b90b5b/2312152332_tak_macabi_sal_231215_,35,55,80,160,110,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פורוורד מכבי ת\"א קלע 19 נקודות בניצחון 61:83 על גלבוע/גליל בדרך לרבע גמר הגביע",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/2c/90/2c90b64c-6688-4532-8e3b-f63501b90b5b/2312152332_tak_macabi_sal_231215_,35,55,80,160,110,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "Bad גיא: פניני הושיט יד לעזרה ו...",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/568418.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/49/22/492253c4-3e6e-423b-80dc-82e3bd43e2cf/2312152222_pnini_231215_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "פורוורד מכבי ת\"א  \"כיכב\" במשחק מול גלבוע/גליל",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/49/22/492253c4-3e6e-423b-80dc-82e3bd43e2cf/2312152222_pnini_231215_,160,110,35,55,80,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "NBA בנהריה: דאנק אדיר של בראון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/568406.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d1/6c/d16c1569-de5c-4c45-8588-839bcd00dde9/2312152126_naharia_dunk_231215_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "ביצוע שלא היה מבייש אפילו את הגדולים באמריקה, הפורוורד של הקבוצה הצפונית ברגע לפנתיאון",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d1/6c/d16c1569-de5c-4c45-8588-839bcd00dde9/2312152126_naharia_dunk_231215_,160,35,110,80,55,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
+      },
+      {
+       "name": "האקס צלף 36 נק', והדיח את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/551506.jpg",
+       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/8c/b08c5b37-1765-4af0-a3e0-7dc6b7ebd1cd/0810152150_holon_081015_,110,80,55,35,140,0k.mp4.csmil/master.m3u8",
+       "date": "",
+       "plot": "הצגה גדולה של יועד בן יוסף סחפה את הפועל ר\"ג/גבעתיים לניצחון ענק בסיבוב הראשו של גביע המדינה",
+       "page": "",
+       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/b0/8c/b08c5b37-1765-4af0-a3e0-7dc6b7ebd1cd/0810152150_holon_081015_,110,80,55,35,140,0k.mp4.csmil/master.m3u8",
+       "season": "גביע המדינה בכדורסל - 2015/16"
       }
      ]
     }

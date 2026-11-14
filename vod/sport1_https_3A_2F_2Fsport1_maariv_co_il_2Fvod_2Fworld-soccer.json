@@ -8,14 +8,34 @@
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
    "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292987",
    "plot": "",
-   "updated": "2026-11-14 00:05",
+   "updated": "2026-11-14 12:30",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר מחצית: הולנד – יוון 0:5",
+       "name": "תקציר: סרביה – גרמניה 3:1",
        "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292987",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119021/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1996738/",
+       "season": ""
+      },
+      {
+       "name": "צפו: הולנד חגגה עם שביעייה לרשת של יוון, שלושער לריינדרס",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292989",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119020/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1996731/",
+       "season": ""
+      },
+      {
+       "name": "תקציר מחצית: הולנד – יוון 0:5",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292987",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119015/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/video/1996100/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: אינטר התאוששה מההפסד בדרבי וניצחה 0:2 את קומו",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292283",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117608/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/1992640/",
-       "season": ""
-      },
-      {
-       "name": "צפו: מנצ'סטר יונייטד הבקיעה צמד בתוספת הזמן בדרך ל-4:4 מטורף מול וילה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292279",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117607/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/1992630/",
        "season": ""
       }
      ]

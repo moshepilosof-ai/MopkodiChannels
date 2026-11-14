@@ -8,7 +8,7 @@
    "series_id": "3772",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
    "plot": "",
-   "updated": "2026-11-13 23:39",
+   "updated": "2026-11-14 12:00",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -297,6 +297,211 @@
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_ASL_240926/HLS/playlist.m3u8",
        "season": "מכבי ת\"א ביורוליג - 2026/27"
+      }
+     ]
+    },
+    {
+     "name": "מכבי ת\"א ביורוליג - 2025/26",
+     "channels": [
+      {
+       "name": "מכבי ת\"א נפרדת מעונת היורוליג עם הפסד לוירטוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1702837.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_160426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_160426/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "הבטיחה פלייאוף: הפועל גברה על מכבי בדרבי יורוליג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1701332.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_120426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_120426/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "קריסה טוטאלית: מכבי ת\"א הובסה מול פריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1698809.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_090426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_090426/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "בדרך הנכונה: מכבי ת\"א ניצחה את אנדולו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1694023.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_AND_020426/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_AND_020426/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "מכבי ת\"א גברה על דובאי אחרי דרמה בהארכה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1691983.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_260326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_260326/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "מהגדולים העונה: מכבי ת\"א גברה על פנרבחצ'ה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1691144.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_240326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_240326/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "סורקין ובלאט כיכבו בניצחון של מכבי ת\"א על וילרבאן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1689717.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_VILERBAN_200326/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_VILERBAN_200326/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "ממשיכה להרשים: מכבי ת\"א גברה 86:91 על מונאקו בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1681196.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MONACO_MTA_260225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MONACO_MTA_260225/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "בתום דרמה: מכבי ת\"א גברה 106:111 על באיירן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1674664.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_130226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_130226/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "קלארק להט: מכבי ת\"א גברה 92:93 על הכוכב",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1671601.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_060226/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_060226/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "הפסד 5 רצוף בחוץ: מכבי ת\"א נכנעה לולנסיה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1667480.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/K_MTA_VALENCIA_290126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/K_MTA_VALENCIA_290126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "שמרה על הבית: מכבי ת\"א גברה 71:75 על פאו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1663857.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_PAO_2201261_17691165992/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_PAO_2201261_17691165992/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "בור עמוק: מכבי הפסידה 100:93 מאולימפיאקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1662740.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_OLYM_200126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_OLYM_200126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "חזרה לדשדש: מכבי ת\"א נכנעה לריאל מדריד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1656714.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_MAD_080126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_MAD_080126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "ניסיון הקאמבק לא הספיק: מכבי נכנעה לבארסה בחוץ",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1655718.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_060126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_060126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "שיא שלילי לעונה: מכבי ת\"א הפסידה 95:71 לבאיירן מינכן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1653639.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_020126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MACCABI_020126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "הצגה בבלגרד: מכבי ת\"א השפילה 87:112 את פרטיזן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1650434.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_261225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_261225/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "בתום דרמה אדירה: מכבי המשיכה את רצף הנצחונות",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1646915.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_181225_FULL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_181225_FULL/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "לונדברג כיכב במאני טיים, מכבי ניצחה את דובאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1646086.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_DUBAI_161225/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_DUBAI_161225/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
+      },
+      {
+       "name": "ווקר לא שותף: מכבי ת\"א הפסידה 99:89 לבולוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1632134.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_211125/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL_211125/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2025/26"
       }
      ]
     },
