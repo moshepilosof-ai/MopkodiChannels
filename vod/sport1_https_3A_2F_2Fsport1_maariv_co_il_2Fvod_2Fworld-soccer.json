@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293108",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293220",
    "plot": "",
-   "updated": "2026-11-15 12:59",
+   "updated": "2026-11-15 23:06",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר ליגת האומות: פורטוגל – דנמרק 4:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293108",
+       "name": "צפו בשערים: בלגיה – איטליה 1:3",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293220",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119551/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998356/",
+       "season": ""
+      },
+      {
+       "name": "עידן פוסט רונאלדו של נבחרת פורטוגל נפתח בתבוסה ביתית מהדהדת לדנמרק",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293108",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119325/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/video/1996237/",
-       "season": ""
-      },
-      {
-       "name": "צפו: הארי קיין שבר את שיא ההופעות בנבחרת אנגליה וגם ניצח את קרואטיה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292902",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118919/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/nations-league/video/1996227/",
        "season": ""
       }
      ]
