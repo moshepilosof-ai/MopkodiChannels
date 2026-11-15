@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fnations-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fnations-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1292880",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293108",
    "plot": "",
-   "updated": "2026-11-14 22:36",
+   "updated": "2026-11-15 12:59",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: צ'כיה – ספרד 2:0",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1292880",
+       "name": "תקציר ליגת האומות: פורטוגל – דנמרק 4:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293108",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119325/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/nations-league/video/1997761/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ספרד ניצחה 0:2 את צ'כיה ושמרה על מאזן מושלם בליגת האומות",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292880",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118920/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/nations-league/video/469732/",
-       "season": ""
-      },
-      {
-       "name": "הזוי: טעות איומה של קורטואה, 2:4 לבלגיה על דנמרק",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1017368",
-       "url": "https://sport1-video-f.wcdn.co.il/3232769/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/nations-league/video/469726/",
        "season": ""
       }
      ]
