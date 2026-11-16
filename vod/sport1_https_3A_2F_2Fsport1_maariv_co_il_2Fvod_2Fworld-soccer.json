@@ -6,101 +6,101 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293220",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293244",
    "plot": "",
-   "updated": "2026-11-15 23:06",
+   "updated": "2026-11-16 13:16",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "צפו בשערים: בלגיה – איטליה 1:3",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293220",
+       "name": "תקציר: בלגיה – איטליה 1:4",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293244",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119596/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998442/",
+       "season": ""
+      },
+      {
+       "name": "צפו: צרפת ניצחה 1:2 את טורקיה וסיימה בראשות הבית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293238",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119595/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998441/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אנגליה עצרה את הרצף ההיסטורי של ספרד עם 2:3 מטורף במדריד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293247",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119592/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998418/",
+       "season": ""
+      },
+      {
+       "name": "צפו: בלגיה הביסה 1:4 את איטליה והדיחה אותה מליגת האומות",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293220",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119590/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998409/",
+       "season": ""
+      },
+      {
+       "name": "צפו: צרפת ניצחה 1:2 את טורקיה וסיימה בראשות הבית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293238",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119589/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998402/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אנגליה עצרה את הרצף ההיסטורי של ספרד עם 2:3 מטורף במדריד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293240",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998401/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אנגליה כבר הובילה 0:3, ספרד הצליחה לצמק ל-3:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293240",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998392/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אנגליה כבר הובילה 0:3, ספרד הצליחה לצמק ל-3:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293240",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1998394/",
+       "season": ""
+      },
+      {
+       "name": "צפו: בלגיה השלימה מהפך במחצית הראשונה ועלתה ל-1:3 מול איטליה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293220",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119551/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
        "page": "",
        "id": "/world-soccer/video/1998356/",
-       "season": ""
-      },
-      {
-       "name": "עידן פוסט רונאלדו של נבחרת פורטוגל נפתח בתבוסה ביתית מהדהדת לדנמרק",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293108",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119325/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/nations-league/video/1997761/",
-       "season": ""
-      },
-      {
-       "name": "צפו: הונגריה ניצחה 0:2 את גאורגיה והתקרבה לעליית שלב בליגת האומות",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293080",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119265/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1997358/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: נורבגיה יצאה מהמשבר עם 1:3 מול ויילס",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293062",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119264/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1997349/",
-       "season": ""
-      },
-      {
-       "name": "צפו: גרמניה ניצחה 1:3 את סרביה שנותרה בתשעה שחקנים, שער מדהים לגרודה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292987",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119021/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1996738/",
-       "season": ""
-      },
-      {
-       "name": "צפו: הולנד חגגה עם שביעייה לרשת של יוון, שלושער לריינדרס",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292989",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119020/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1996731/",
-       "season": ""
-      },
-      {
-       "name": "תקציר מחצית: הולנד – יוון 0:5",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292987",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119015/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1996714/",
-       "season": ""
-      },
-      {
-       "name": "צפו: ספרד ניצחה 0:2 את צ'כיה ושמרה על מאזן מושלם בליגת האומות",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292880",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118920/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/nations-league/video/1996245/",
-       "season": ""
-      },
-      {
-       "name": "צפו: איטליה הפכה פיגור ל-1:3 על צרפת ועלתה על חשבונה לפסגת הבית",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292904",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4118921/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1996237/",
        "season": ""
       }
      ]

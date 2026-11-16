@@ -6,13 +6,33 @@
    "source": "sport5",
    "program_url": "4985",
    "series_id": "4985",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1804622.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1804999.jpg",
    "plot": "",
-   "updated": "2026-11-15 22:42",
+   "updated": "2026-11-16 12:53",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "דאבל דאבל ללברון: פילי גברה על אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1804999.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDPHI_0236_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDPHI_0236_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=567711&p",
+       "season": ""
+      },
+      {
+       "name": "דונצ'יץ' חם: ניצחון גדול ללייקרס על הסאנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806101.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALPHX_0237_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALPHX_0237_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=567710&p",
+       "season": ""
+      },
       {
        "name": "14 נק' לוולף: ברוקלין הפסידה 129:110 לממפיס",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1804622.jpg",
@@ -182,32 +202,32 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_TOR_PHI/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=567483&poster=h",
        "season": ""
-      },
-      {
-       "name": "תצוגה היסטורית לקייד ב-140:144 של דטרויט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803817.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=567482&poster=h",
-       "season": ""
-      },
-      {
-       "name": "החגיגה נמשכת: 28 נק' לדני בניצחון המרשים על OKC",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12376%26Vi=567376&poster=http",
-       "season": ""
       }
      ]
     },
     {
      "name": "NBA - עונות",
      "channels": [
+      {
+       "name": "דאבל דאבל ללברון: פילי גברה על אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1804999.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDPHI_0236_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDPHI_0236_RAW/HLS/playlist.m3u8",
+       "season": "NBA - עונות"
+      },
+      {
+       "name": "דונצ'יץ' חם: ניצחון גדול ללייקרס על הסאנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806101.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALPHX_0237_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALPHX_0237_RAW/HLS/playlist.m3u8",
+       "season": "NBA - עונות"
+      },
       {
        "name": "14 נק' לוולף: ברוקלין הפסידה 129:110 לממפיס",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1804622.jpg",
@@ -386,26 +406,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_TOR_PHI/HLS/playlist.m3u8",
-       "season": "NBA - עונות"
-      },
-      {
-       "name": "תצוגה היסטורית לקייד ב-140:144 של דטרויט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803817.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8",
-       "season": "NBA - עונות"
-      },
-      {
-       "name": "החגיגה נמשכת: 28 נק' לדני בניצחון המרשים על OKC",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8",
        "season": "NBA - עונות"
       }
      ]
@@ -619,6 +619,26 @@
      "name": "NBA - עונות - עונות - 2026/27",
      "channels": [
       {
+       "name": "דאבל דאבל ללברון: פילי גברה על אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1804999.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDPHI_0236_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDPHI_0236_RAW/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27"
+      },
+      {
+       "name": "דונצ'יץ' חם: ניצחון גדול ללייקרס על הסאנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806101.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALPHX_0237_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALPHX_0237_RAW/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27"
+      },
+      {
        "name": "14 נק' לוולף: ברוקלין הפסידה 129:110 לממפיס",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1804622.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNMEM_0234_RAW_pal/HLS/playlist.m3u8",
@@ -796,26 +816,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_TOR_PHI/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27"
-      },
-      {
-       "name": "תצוגה היסטורית לקייד ב-140:144 של דטרויט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803817.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27"
-      },
-      {
-       "name": "החגיגה נמשכת: 28 נק' לדני בניצחון המרשים על OKC",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8",
        "season": "NBA - עונות - עונות - 2026/27"
       }
      ]
@@ -2874,6 +2874,26 @@
      "name": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "דאבל דאבל ללברון: פילי גברה על אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1804999.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDPHI_0236_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_INDPHI_0236_RAW/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "דונצ'יץ' חם: ניצחון גדול ללייקרס על הסאנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806101.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALPHX_0237_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_LALPHX_0237_RAW/HLS/playlist.m3u8",
+       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "14 נק' לוולף: ברוקלין הפסידה 129:110 לממפיס",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1804622.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNMEM_0234_RAW_pal/HLS/playlist.m3u8",
@@ -3051,26 +3071,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_TOR_PHI/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "תצוגה היסטורית לקייד ב-140:144 של דטרויט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803817.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DET_WAS/HLS/playlist.m3u8",
-       "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "החגיגה נמשכת: 28 נק' לדני בניצחון המרשים על OKC",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1803331.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/avdija_vs_okc/HLS/playlist.m3u8",
        "season": "NBA - עונות - עונות - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
