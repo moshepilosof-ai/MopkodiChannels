@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Ftennis",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Ftennis",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293341",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293547",
    "plot": "",
-   "updated": "2026-11-17 02:37",
+   "updated": "2026-11-18 01:41",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: קרלוס אלקראס גבר על פרנסס טיאפו בפתיחת טורניר גמר הסבב",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293341",
+       "name": "טורניר גמר הסבב: תקציר ניצחונו של סשה זברב על בן שלטון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293547",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120246/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/2000253/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: פיס ניצח את חודאר בטורניר סוף השנה והשיג ניצחון בכורה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293463",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120070/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/1999862/",
+       "season": ""
+      },
+      {
+       "name": "צפו: קרלוס אלקראס גבר על פרנסס טיאפו בפתיחת טורניר גמר הסבב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293341",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119782/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/other-industries/tennis/video/1931742/",
-       "season": ""
-      },
-      {
-       "name": "אוהדי נבחרת נורבגיה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1277217",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4073376/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1891652/",
-       "season": ""
-      },
-      {
-       "name": "סשה זברב טניסאי גרמני, אלוף רולאן גארוס 2026",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1273705",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4061442/hls/406x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1869054/",
        "season": ""
       }
      ]

@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3772",
    "series_id": "3772",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
    "plot": "",
-   "updated": "2026-11-17 02:08",
+   "updated": "2026-11-18 01:13",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "הכי כואב שיש! מכבי ת\"א הפסידה בהארכה מול אולימפיאקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_171126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_171126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12365%26Vi=567920&poste",
+       "season": ""
+      },
       {
        "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/K_MTA_VALENCIA_290126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12091%26Vi=532819&pos",
        "season": ""
-      },
-      {
-       "name": "שמרה על הבית: מכבי ת\"א גברה 71:75 על פאו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1663857.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_PAO_2201261_17691165992/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_PAO_2201261_17691165992/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12091%26",
-       "season": ""
       }
      ]
     },
     {
      "name": "מכבי ת\"א ביורוליג - 2026/27",
      "channels": [
+      {
+       "name": "הכי כואב שיש! מכבי ת\"א הפסידה בהארכה מול אולימפיאקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_171126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_171126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2026/27"
+      },
       {
        "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
@@ -2498,6 +2508,16 @@
     {
      "name": "מכבי ת\"א ביורוליג - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
+      {
+       "name": "הכי כואב שיש! מכבי ת\"א הפסידה בהארכה מול אולימפיאקוס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_171126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_171126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
       {
        "name": "שבוע צהוב: מכבי ת\"א גברה על הפועל ת\"א 73:80",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803708.jpg",
