@@ -6,16 +6,56 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293244",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293388",
    "plot": "",
-   "updated": "2026-11-16 13:16",
+   "updated": "2026-11-17 02:37",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: בלגיה – איטליה 1:4",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293244",
+       "name": "תקציר: גרמניה – הולנד 0:5",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293388",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119904/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1999303/",
+       "season": ""
+      },
+      {
+       "name": "צפו: צמד לווירץ, גרמניה הביסה 0:5 את הולנד ועלתה לרבע גמר ליגת האומות",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293388",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119900/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1999294/",
+       "season": ""
+      },
+      {
+       "name": "צפו: צמד נהדר לווירץ, גרמניה חוגגת עם 0:5 גדול על הולנד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293384",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119894/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1999275/",
+       "season": ""
+      },
+      {
+       "name": "צפו: שראנט הבקיע שער בכורה נהדר והעלה את גרמניה ל-0:1 מול הולנד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293381",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119888/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/1999253/",
+       "season": ""
+      },
+      {
+       "name": "צפו: בלגיה הביסה 1:4 את איטליה והדיחה אותה מליגת האומות",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293244",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119596/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -61,46 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/video/1998402/",
-       "season": ""
-      },
-      {
-       "name": "צפו: אנגליה עצרה את הרצף ההיסטורי של ספרד עם 2:3 מטורף במדריד",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293240",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1998401/",
-       "season": ""
-      },
-      {
-       "name": "צפו: אנגליה כבר הובילה 0:3, ספרד הצליחה לצמק ל-3:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293240",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1998392/",
-       "season": ""
-      },
-      {
-       "name": "צפו: אנגליה כבר הובילה 0:3, ספרד הצליחה לצמק ל-3:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293240",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1998394/",
-       "season": ""
-      },
-      {
-       "name": "צפו: בלגיה השלימה מהפך במחצית הראשונה ועלתה ל-1:3 מול איטליה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293220",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119551/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1998356/",
        "season": ""
       }
      ]
