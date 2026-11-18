@@ -8,7 +8,7 @@
    "series_id": "9776",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
    "plot": "",
-   "updated": "2026-11-18 01:15",
+   "updated": "2026-11-18 13:20",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -31,6 +31,46 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_171126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=567919&poster=",
+       "season": ""
+      },
+      {
+       "name": "25 נק' ללארקין: פנרבחצ'ה פירקה את וילרבאן 81:115",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1806969.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Fenerbahce_ASVEL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Fenerbahce_ASVEL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=567918&poster=h",
+       "season": ""
+      },
+      {
+       "name": "בתום דרמה: פאריס גברה על ברצלונה 86:89",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806971.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_barca/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_barca/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=567917&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "אחרי הארכה: 114:117 לז'לגיריס על באיירן",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806980.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TopPlaysfromZalgirisKaunasvsFCBayernMunich_179495494774/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TopPlaysfromZalgirisKaunasvsFCBayernMunich_179495494774/HLS/playlist.m3u8&live=False&referrer=https://vod.spor",
+       "season": ""
+      },
+      {
+       "name": "בשיניים: דובאי ניצחה 75:80 את אנאדולו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1806972.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Dubai_Anadolu/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Dubai_Anadolu/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=567912&poster=http",
        "season": ""
       },
       {
@@ -171,46 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=565639&poster=",
-       "season": ""
-      },
-      {
-       "name": "מלדון הוביל את ריאל לניצחון גדול על פנר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1796669.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/real_fener_26/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/real_fener_26/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=565638&poster=http",
-       "season": ""
-      },
-      {
-       "name": "הכוכב האדום התפוצצה עם 73:103 על באיירן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1796660.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/zvezda_bayern_tak_work/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/zvezda_bayern_tak_work/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=565637&po",
-       "season": ""
-      },
-      {
-       "name": "ניצחון ענק: 88:118 להפועל ת\"א על אנאדולו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1795991.png",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_281026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_281026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=565493&poster=",
-       "season": ""
-      },
-      {
-       "name": "עוד תצוגת נפל: מכבי ת''א הובסה ע''י הכוכב האדום",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1795603.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_271026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_271026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=565388&poster=",
        "season": ""
       }
      ]

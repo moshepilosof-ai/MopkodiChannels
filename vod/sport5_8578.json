@@ -8,7 +8,7 @@
    "series_id": "8578",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1806947.png",
    "plot": "",
-   "updated": "2026-11-18 01:32",
+   "updated": "2026-11-18 13:37",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -41,6 +41,16 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_WALES_171126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=568014&poster=",
+       "season": ""
+      },
+      {
+       "name": "מספרת גדולה לפרץ ב-1:1 של ישראל מול אוסטריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806871.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_171126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_171126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=567921&po",
        "season": ""
       },
       {
@@ -202,16 +212,6 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_AUSTRIA_270926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561859&p",
        "season": ""
-      },
-      {
-       "name": "צמד גדול למירדינק: הולנד ניצחה 1:2 את סרביה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1780669.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SERBIA_270926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SERBIA_270926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12370%26Vi=561857&post",
-       "season": ""
       }
      ]
     },
@@ -246,6 +246,16 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_WALES_171126/HLS/playlist.m3u8",
+       "season": "ליגת האומות - 2026"
+      },
+      {
+       "name": "מספרת גדולה לפרץ ב-1:1 של ישראל מול אוסטריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806871.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_171126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_171126/HLS/playlist.m3u8",
        "season": "ליגת האומות - 2026"
       },
       {
@@ -406,16 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/N_VO_TAK_AUSTRIA_270926/HLS/playlist.m3u8",
-       "season": "ליגת האומות - 2026"
-      },
-      {
-       "name": "צמד גדול למירדינק: הולנד ניצחה 1:2 את סרביה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1780669.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SERBIA_270926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_SERBIA_270926/HLS/playlist.m3u8",
        "season": "ליגת האומות - 2026"
       }
      ]

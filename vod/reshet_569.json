@@ -1,0 +1,71 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אללה אסלאם",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "569",
+   "series_id": "569",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/aaf89a144bfd45598a5e0cb4d60015ad/version/3/width/800/height/1200/quality/90",
+   "plot": "אללה אסלאם היא סדרה דוקומנטרית מקורית שנוצרה על ידי הבמאי דוד דרעי וצבי יחזקאלי.",
+   "updated": "2026-11-18 12:39",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אללה אסלאם - פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8aa901debd034c14a05796aa86cb9851/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j5shhadt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-25",
+       "plot": "צבי יחזקאלי נכנס לדמותו של עיתונאי פלסטינאי ומתחקה אחר המוסלמים החדשים והוותיקים של אירופה, הנמצאים בעינה של סערה חברתית, פוליטית ודתית שמעוררת עניין רב בעולם כולו",
+       "page": "",
+       "id": "--kaltura--1_j5shhadt===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אללה אסלאם - פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/379d52da8d344fa6961703d198152114/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j87gnnkh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-25",
+       "plot": "צבי יחזקאלי נכנס לדמותו של עיתונאי פלסטינאי ומתחקה אחר המוסלמים החדשים והוותיקים של אירופה, הנמצאים בעינה של סערה חברתית, פוליטית ודתית שמעוררת עניין רב בעולם כולו",
+       "page": "",
+       "id": "--kaltura--1_j87gnnkh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אללה אסלאם - פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4fc931a211eb4531b637bfa0d517154b/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xyukhu7r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-25",
+       "plot": "צבי יחזקאלי נכנס לדמותו של עיתונאי פלסטינאי ומתחקה אחר המוסלמים החדשים והוותיקים של אירופה, הנמצאים בעינה של סערה חברתית, פוליטית ודתית שמעוררת עניין רב בעולם כולו",
+       "page": "",
+       "id": "--kaltura--1_xyukhu7r===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אללה אסלאם - פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/11b775e5a2ec4545bef57372e5c132ca/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_phnpr2vz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-25",
+       "plot": "צבי יחזקאלי נכנס לדמותו של עיתונאי פלסטינאי ומתחקה אחר המוסלמים החדשים והוותיקים של אירופה, הנמצאים בעינה של סערה חברתית, פוליטית ודתית שמעוררת עניין רב בעולם כולו",
+       "page": "",
+       "id": "--kaltura--1_phnpr2vz===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אללה אסלאם - פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9d875adc56eb486da025be0ee3bc40cb/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_g0dudi0x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-10-25",
+       "plot": "צבי יחזקאלי נכנס לדמותו של עיתונאי פלסטינאי ומתחקה אחר המוסלמים החדשים והוותיקים של אירופה, הנמצאים בעינה של סערה חברתית, פוליטית ודתית שמעוררת עניין רב בעולם כולו",
+       "page": "",
+       "id": "--kaltura--1_g0dudi0x===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

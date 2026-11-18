@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3784",
    "series_id": "3784",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804246.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806871.jpg",
    "plot": "",
-   "updated": "2026-11-18 01:14",
+   "updated": "2026-11-18 13:18",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "מספרת גדולה לפרץ ב-1:1 של ישראל מול אוסטריה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1806871.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_171126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_171126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3784%26Vi=567921&pos",
+       "season": ""
+      },
       {
        "name": "עדיין בלי ניצחון: ישראל וקוסובו נפרדו ב-0:0",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804246.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MASSAT_ISRAEL_131124/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3784%26Vi=488689&poste",
-       "season": ""
-      },
-      {
-       "name": "הנאום המרגש של שלמה שרף לשחקני הנבחרת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1472012.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NIVHERET_PSHECHA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NIVHERET_PSHECHA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3784%26Vi=488645&poster=ht",
        "season": ""
       }
      ]
