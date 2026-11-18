@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "9776",
    "series_id": "9776",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807319.jpg",
    "plot": "",
-   "updated": "2026-11-18 13:20",
+   "updated": "2026-11-19 00:59",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "נעצרה: ריאל מדריד הפסידה 83:79 לבשיקטאש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807319.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BESIKTAS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BESIKTAS/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=568170&poster=https",
+       "season": ""
+      },
       {
        "name": "הכי כואב שיש! מכבי ת\"א הפסידה בהארכה מול אולימפיאקוס",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=565765&p",
        "season": ""
-      },
-      {
-       "name": "ממשיכה לשקוע: מכבי ת\"א הפסידה 99:94 לפריז",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796605.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=565639&poster=",
-       "season": ""
       }
      ]
     },
     {
      "name": "יורוליג - 2026/27",
      "channels": [
+      {
+       "name": "נעצרה: ריאל מדריד הפסידה 83:79 לבשיקטאש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807319.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BESIKTAS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BESIKTAS/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
       {
        "name": "הכי כואב שיש! מכבי ת\"א הפסידה בהארכה מול אולימפיאקוס",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
@@ -406,16 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "ממשיכה לשקוע: מכבי ת\"א הפסידה 99:94 לפריז",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796605.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8",
        "season": "יורוליג - 2026/27"
       }
      ]
@@ -2474,6 +2474,16 @@
      "name": "יורוליג - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "נעצרה: ריאל מדריד הפסידה 83:79 לבשיקטאש",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807319.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BESIKTAS/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BESIKTAS/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "הכי כואב שיש! מכבי ת\"א הפסידה בהארכה מול אולימפיאקוס",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806740.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_SAL1_171126/HLS/playlist.m3u8",
@@ -2661,16 +2671,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "ממשיכה לשקוע: מכבי ת\"א הפסידה 99:94 לפריז",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1796605.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_291026/HLS/playlist.m3u8",
        "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]

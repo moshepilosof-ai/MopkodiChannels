@@ -8,11 +8,31 @@
    "series_id": "action_3Dseasons_univtec_26series_id_3D69dd53d808729d93535c6",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/0f1b0313-de1b-4c86-99ae-d442bb0bf447.jpeg",
    "plot": "המהדורה השנייה ביום שמביאה את כל הסיפורים החשובים של היום, עדכונים שוטפים ושידורים חיים מכל הזירות הרלוונטיות בהשתתפות נבחרת הכתבים והפרשנים של הערוץ.",
-   "updated": "2026-11-18 12:53",
+   "updated": "2026-11-19 00:31",
    "sub_categories": [
     {
      "name": "נובמבר 2026",
      "channels": [
+      {
+       "name": "מהדורת חמש 18-11-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71131006810.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/67c2f7fb-7e36-4a52-9659-b037f67a295d/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/67c2f7fb-7e36-4a52-9659-b037f67a295d/hls/master.m3u8",
+       "season": "נובמבר 2026"
+      },
+      {
+       "name": "מהדורת חמש 17-11-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71122953271.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/152e310a-f7b4-423d-b3a9-156c3e8f8f9c/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/152e310a-f7b4-423d-b3a9-156c3e8f8f9c/hls/master.m3u8",
+       "season": "נובמבר 2026"
+      },
       {
        "name": "מהדורת חמש 17-11-26",
        "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71096662184.jpg",

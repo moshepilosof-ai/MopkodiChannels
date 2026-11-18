@@ -8,11 +8,31 @@
    "series_id": "action_3Dseasons_univtec_26series_id_3D69dd53d908729d93535c6",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/8d5aee23-4ee9-4374-86d0-2be034bae018.png",
    "plot": "אורי קואל עם תוכנית אקטואליה-פוליטית שמסכמת את כל הכותרות והסיפורים הבוערים מעיניהם של קבוצת פרשנים שחושבים אחרת ואוהבים להתווכח ללא פילטרים, ללא צנזורה ועם לא מעט הומור. בין הפאנליסטים הקבועים: אלי אוחנה,  פיני גרשון, שאול מזרחי, עו\\\"ד פנינת ינאי, יריב אופנהיימר ועוד.",
-   "updated": "2026-11-18 12:52",
+   "updated": "2026-11-19 00:30",
    "sub_categories": [
     {
      "name": "נובמבר 2026",
      "channels": [
+      {
+       "name": "הישראלים 18-11-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71137606974.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1d4bd2a0-0a09-4394-82a5-7bfe1ab1c0d8/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/1d4bd2a0-0a09-4394-82a5-7bfe1ab1c0d8/hls/master.m3u8",
+       "season": "נובמבר 2026"
+      },
+      {
+       "name": "הישראלים 17-11-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71123081306.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/613566e0-9ea1-4048-af02-1da7a0d93d23/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/613566e0-9ea1-4048-af02-1da7a0d93d23/hls/master.m3u8",
+       "season": "נובמבר 2026"
+      },
       {
        "name": "הישראלים 16-11-26",
        "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71093208165.jpg",
