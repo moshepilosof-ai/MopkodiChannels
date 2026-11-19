@@ -8,7 +8,7 @@
    "series_id": "278",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ec6b3e4b5a94502986f4dfba58eba5c/version/17/width/800/height/1200/quality/90",
    "plot": "המהדורה המרכזית של חדשות 13",
-   "updated": "2026-11-19 00:25",
+   "updated": "2026-11-19 12:50",
    "sub_categories": [
     {
      "name": "התוכניות המלאות",
@@ -2685,7 +2685,7 @@
       },
       {
        "name": "המהדורה המרכזית 12.11.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf652465aefb49bfa5f01719bb1febf6/version/530/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf652465aefb49bfa5f01719bb1febf6/version/532/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_tzatzv4o/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-11-12",
        "plot": "",
@@ -3075,7 +3075,7 @@
       },
       {
        "name": "מהדורת החג 22.09.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91d197f257074366942d0db230d81a7e/version/639/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91d197f257074366942d0db230d81a7e/version/641/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1oasz9gx/format/applehttp/protocol/https/a.m3u8",
        "date": "2025-09-24",
        "plot": "",
