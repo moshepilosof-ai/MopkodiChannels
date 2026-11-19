@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Ftennis",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Ftennis",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293547",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293791",
    "plot": "",
-   "updated": "2026-11-19 13:50",
+   "updated": "2026-11-20 01:32",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "טורניר גמר הסבב: תקציר ניצחונו של סשה זברב על בן שלטון",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293547",
+       "name": "טורניר גמר הסבב: תקציר ניצחונו של סשה זברב על ארתור פיס",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293791",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120676/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/2001798/",
+       "season": ""
+      },
+      {
+       "name": "טורניר גמר הסבב: תקציר ניצחונו של בן שלטון על רפאל חודאר",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293791",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120610/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/2001773/",
+       "season": ""
+      },
+      {
+       "name": "צפו: זברב ניצח את שלטון ועלה לחצי גמר טורניר גמר הסבב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293547",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120246/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/other-industries/tennis/video/1966198/",
-       "season": ""
-      },
-      {
-       "name": "תיקתקנו, 30.8",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1283395",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4094386/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1936568/",
-       "season": ""
-      },
-      {
-       "name": "תקציר גמר סינסינטי: ארתור פילס נגד פרננס טיאפו",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1282718",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4091720/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1931742/",
        "season": ""
       }
      ]

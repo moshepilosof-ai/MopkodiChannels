@@ -8,7 +8,7 @@
    "series_id": "737",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9dabec6c15f54aaea24adb3eb219d872/version/0/width/800/height/1200/quality/90",
    "plot": "חמישה יהודים מרחבי העולם מגיעים לישראל כדי לבדוק איך זה באמת לחיות כאן - האם בסופו של המסע הם יבחרו לעשות עלייה?",
-   "updated": "2026-11-19 12:43",
+   "updated": "2026-11-20 00:24",
    "sub_categories": [
     {
      "name": "עונה 1",
@@ -79,8 +79,18 @@
      "name": "עונה 2",
      "channels": [
       {
+       "name": "הארץ המובטחת, עונה 2, פרק 3: משפחה ישראלית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ce49fdeb892482daf067c8f3ec3328e/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_h2wwxgv5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-19",
+       "plot": "זאק, לינור, חנה וידיאל ממשיכים במסע בארץ לקראת ההחלטה שתשנה את חייהם. והערב: מה יותר ישראלי ממשפחה? הארבעה יבלו יום עם המשפחות של ליהיא גרינר, אודיה פינטו, עומר ברנע והטרסובים | הארץ המובטחת, לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_h2wwxgv5===",
+       "season": "עונה 2"
+      },
+      {
        "name": "הארץ המובטחת, עונה 2, פרק 2: עכשיו התור לאהבה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8218950442044048bdafe0fda5962db/version/4/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f8218950442044048bdafe0fda5962db/version/5/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_25x62aod/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-11-09",
        "plot": "תוך כדי בחינת הפרק הבא בקריירה שלהם, חנה, לינור, זאק וידיאל מוצאים זמן לדבר החשוב באמת - אהבה וזוגיות | הארץ המובטחת, לצפייה ישירה",
@@ -90,7 +100,7 @@
       },
       {
        "name": "הארץ המובטחת, עונה 2, פרק 1: עונה חדשה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca5cef01e5bd474dba087ec6ba462a2e/version/7/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ca5cef01e5bd474dba087ec6ba462a2e/version/8/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yvg518pl/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-11-08",
        "plot": "תכירו את חנה, לינור, זאק וידיאל, ארבעה צעירים יהודים מהעולם שחולמים על ישראל, ומגיעים לכאן כדי לקבל את ההחלטה שיכולה לשנות את חייהם: האם לעזוב את החיים שהשאירו מאחור ולעשות עלייה לישראל? | הארץ המובטחת, לצפייה ישירה",

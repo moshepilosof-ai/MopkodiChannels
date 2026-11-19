@@ -6,13 +6,53 @@
    "source": "sport5",
    "program_url": "9776",
    "series_id": "9776",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807319.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807758.jpg",
    "plot": "",
-   "updated": "2026-11-19 13:23",
+   "updated": "2026-11-20 01:05",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "בתום דרמה גדולה: הפועל ת\"א נכנעה לפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PARIS_HTA_191126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PARIS_HTA_191126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=568211&poste",
+       "season": ""
+      },
+      {
+       "name": "לא יודעת לקחת: מכבי ת\"א נכנעה 80:74 לדובאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807675.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_DUBAI_191126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_DUBAI_191126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=568210&poste",
+       "season": ""
+      },
+      {
+       "name": "עצרה אותה: פאו חגגה 72:87 על ז`לגיריס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1807726.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zalgiris_Panathinaikos/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Zalgiris_Panathinaikos/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=568209&po",
+       "season": ""
+      },
+      {
+       "name": "ציון 100: באיירן רמסה את באסקוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1807762.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Bayern_Baskonia/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Bayern_Baskonia/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=568208&poster=ht",
+       "season": ""
+      },
       {
        "name": "נעצרה: ריאל מדריד הפסידה 83:79 לבשיקטאש",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807319.jpg",
@@ -172,52 +212,52 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ANADOLO_PARIS/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=566534&poster=http",
        "season": ""
-      },
-      {
-       "name": "הורטון טאקר בלט: פנר הביסה את באסקוניה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1800383.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FENER_BASKONIA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/FENER_BASKONIA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=566533&poster=htt",
-       "season": ""
-      },
-      {
-       "name": "33 נקודות ברבע ה-4 ולנסיה ניצחה 73:84 את מילאנו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1800399.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MIL_VAL/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MIL_VAL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=566532&poster=https:",
-       "season": ""
-      },
-      {
-       "name": "בתום דרמה: באיירן ניצחה את 95:99 את וילרבאן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1800407.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASV-BAY_/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASV-BAY_/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=566615&poster=https",
-       "season": ""
-      },
-      {
-       "name": "רצף הניצחונות נעצר: הפועל תל אביב נכנעה לדובאי בחוץ",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=565765&p",
-       "season": ""
       }
      ]
     },
     {
      "name": "יורוליג - 2026/27",
      "channels": [
+      {
+       "name": "בתום דרמה גדולה: הפועל ת\"א נכנעה לפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PARIS_HTA_191126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PARIS_HTA_191126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
+      {
+       "name": "לא יודעת לקחת: מכבי ת\"א נכנעה 80:74 לדובאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807675.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_DUBAI_191126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_DUBAI_191126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
+      {
+       "name": "עצרה אותה: פאו חגגה 72:87 על ז`לגיריס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1807726.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zalgiris_Panathinaikos/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zalgiris_Panathinaikos/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
+      {
+       "name": "ציון 100: באיירן רמסה את באסקוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1807762.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Bayern_Baskonia/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Bayern_Baskonia/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
       {
        "name": "נעצרה: ריאל מדריד הפסידה 83:79 לבשיקטאש",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807319.jpg",
@@ -376,46 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ANADOLO_PARIS/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "הורטון טאקר בלט: פנר הביסה את באסקוניה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1800383.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FENER_BASKONIA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FENER_BASKONIA/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "33 נקודות ברבע ה-4 ולנסיה ניצחה 73:84 את מילאנו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1800399.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MIL_VAL/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MIL_VAL/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "בתום דרמה: באיירן ניצחה את 95:99 את וילרבאן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1800407.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASV-BAY_/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASV-BAY_/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "רצף הניצחונות נעצר: הפועל תל אביב נכנעה לדובאי בחוץ",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
        "season": "יורוליג - 2026/27"
       }
      ]
@@ -2474,6 +2474,46 @@
      "name": "יורוליג - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "בתום דרמה גדולה: הפועל ת\"א נכנעה לפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PARIS_HTA_191126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PARIS_HTA_191126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "לא יודעת לקחת: מכבי ת\"א נכנעה 80:74 לדובאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807675.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_DUBAI_191126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_MTA_DUBAI_191126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "עצרה אותה: פאו חגגה 72:87 על ז`לגיריס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1807726.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zalgiris_Panathinaikos/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Zalgiris_Panathinaikos/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "ציון 100: באיירן רמסה את באסקוניה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1807762.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Bayern_Baskonia/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Bayern_Baskonia/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "נעצרה: ריאל מדריד הפסידה 83:79 לבשיקטאש",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807319.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_BESIKTAS/HLS/playlist.m3u8",
@@ -2631,46 +2671,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ANADOLO_PARIS/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "הורטון טאקר בלט: פנר הביסה את באסקוניה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1800383.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FENER_BASKONIA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/FENER_BASKONIA/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "33 נקודות ברבע ה-4 ולנסיה ניצחה 73:84 את מילאנו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1800399.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MIL_VAL/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MIL_VAL/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "בתום דרמה: באיירן ניצחה את 95:99 את וילרבאן",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1800407.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASV-BAY_/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ASV-BAY_/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "רצף הניצחונות נעצר: הפועל תל אביב נכנעה לדובאי בחוץ",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1796933.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DUBAI_HTA_301026/HLS/playlist.m3u8",
        "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]

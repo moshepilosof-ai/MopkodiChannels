@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "12088",
    "series_id": "12088",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1806868.png",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807758.jpg",
    "plot": "",
-   "updated": "2026-11-19 13:21",
+   "updated": "2026-11-20 01:03",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "בתום דרמה גדולה: הפועל ת\"א נכנעה לפריז",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807758.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PARIS_HTA_191126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PARIS_HTA_191126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12367%26Vi=568211&poste",
+       "season": ""
+      },
       {
        "name": "התעוררה בזמן: הפועל ת\"א ניצחה 82:85 את באסקוניה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1806868.png",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_HTA_PAN_020426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=539025&poster",
-       "season": ""
-      },
-      {
-       "name": "מסתבכת: הפועל ת\"א הובכה עם 118:109 נגד באסקוניה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1692318.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_270326/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_270326/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12092%26Vi=538507&poster=",
        "season": ""
       }
      ]

@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "12343",
    "series_id": "12343",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1806565.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807528.jpg",
    "plot": "",
-   "updated": "2026-11-19 13:38",
+   "updated": "2026-11-20 01:20",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807528.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_191126_NEW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_191126_NEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=568205&poster=",
+       "season": ""
+      },
       {
        "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1806565.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_15092026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=560769&poster=ht",
-       "season": ""
-      },
-      {
-       "name": "\"לעשות קולות של קוף לכיווני? בלתי נסלח\"",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1774347.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HENTI_INTERVIEW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HENTI_INTERVIEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=560402&poster=ht",
        "season": ""
       }
      ]
