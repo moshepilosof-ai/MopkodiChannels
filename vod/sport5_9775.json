@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "9775",
    "series_id": "9775",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804866.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
    "plot": "",
-   "updated": "2026-11-20 13:19",
+   "updated": "2026-11-21 00:51",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12401%26Vi=568366&poster=",
+       "season": ""
+      },
       {
        "name": "ממשיכה במומנטום: 74:89 לאשדוד בקרית אתא",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804866.jpg",
@@ -209,6 +219,16 @@
      "name": "ליגת העל בכדורסל - 2026/27",
      "channels": [
       {
+       "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27"
+      },
+      {
        "name": "ממשיכה במומנטום: 74:89 לאשדוד בקרית אתא",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804866.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATA_ASHDOD/HLS/playlist.m3u8",
@@ -396,16 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHON_MTA_SAL_241026/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27"
-      },
-      {
-       "name": "האריס הצטיין: הפועל חולון ניצחה 75:91 את ב\"ש",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1793358.jpg",
-       "url": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/8/1793358.jpg&useAkamai=true",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/8/1793358.jpg&useAkamai=true",
        "season": "ליגת העל בכדורסל - 2026/27"
       }
      ]
@@ -2259,6 +2269,16 @@
      "name": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "ממשיכה במומנטום: 74:89 לאשדוד בקרית אתא",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1804866.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ATA_ASHDOD/HLS/playlist.m3u8",
@@ -2446,16 +2466,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHON_MTA_SAL_241026/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "האריס הצטיין: הפועל חולון ניצחה 75:91 את ב\"ש",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1793358.jpg",
-       "url": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/8/1793358.jpg&useAkamai=true",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "&iOSPosterImage=https://www.sport5.co.il/Sip_Storage/FILES/8/1793358.jpg&useAkamai=true",
        "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
@@ -24112,196 +24122,6 @@
        "page": "",
        "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ac/fe/acfea913-fd0e-4672-abbd-caac0fe99a88/060620162311_eilat_jer_060616_,55,35,80,110,160,0k.mp4.csmil/master.m3u8",
        "season": "ליגת העל בכדורסל - 2015/16 - 2015/16 - פלייאוף - פלייאוף - פיינל פור - פיינל פור - חצי הגמר"
-      }
-     ]
-    },
-    {
-     "name": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - אילת - ראשל\"צ",
-     "channels": [
-      {
-       "name": "ראשל\"צ בפיינל פור אחרי ניצחון חוץ ענק",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/713089.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/79/b0/79b008bc-c956-4c7c-8ec3-d528ae83a4b9/070620172109_nm_tak_eilat_076017_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "האלופה לא מוותרת על התואר: הכתומים גברו 77:82 על אילת ויפגשו את המנצחת בין י-ם לנהריה",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/79/b0/79b008bc-c956-4c7c-8ec3-d528ae83a4b9/070620172109_nm_tak_eilat_076017_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - אילת - ראשל\"צ"
-      },
-      {
-       "name": "הנרי להט, אילת כפתה משחק חמישי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/712350.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ed/48/ed482503-22ef-449f-8dcf-9b10dc58c693/040620172109_nm_vtr_tak_rishon_sal_040617_,160,80,110,55,35,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "החניכים של קטש עשו את העבודה למרות רבע אחרון מצוין של המארחים, 94:91 בסיום לאורחים. 31 נק' להנרי",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ed/48/ed482503-22ef-449f-8dcf-9b10dc58c693/040620172109_nm_vtr_tak_rishon_sal_040617_,160,80,110,55,35,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - אילת - ראשל\"צ"
-      },
-      {
-       "name": "כאן האלופה: ראשל\"צ ניצחה באילת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/711712.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/92/59/9259d66d-35b8-430d-ac9c-6b9aa50b7f21/010620172109_nm_vtr_tak_eilat_010617_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הכתומים \"גנבו\" את יתרון הביתיות אחרי ניצחון באילת. לונג ודוסון הצטיינו",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/92/59/9259d66d-35b8-430d-ac9c-6b9aa50b7f21/010620172109_nm_vtr_tak_eilat_010617_,80,35,110,160,55,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - אילת - ראשל\"צ"
-      },
-      {
-       "name": "עדיין פה: האלופה השוותה מול אילת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/710973.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/bf/52/bf523a31-819e-451c-b33d-eeb9e6b31a3a/280520172109_nm_vtr_tak_eilat_280517_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "האלופה מראשל\"צ ניצחה בקלות את אילת והשוותה את הסדרה ל-1:1",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/bf/52/bf523a31-819e-451c-b33d-eeb9e6b31a3a/280520172109_nm_vtr_tak_eilat_280517_,55,80,110,35,160,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - אילת - ראשל\"צ"
-      },
-      {
-       "name": "הנרי כיכב, 0:1 לאילת על ראשל\"צ",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/709406.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/ad/07/ad0756ad-1453-4a9c-8aef-276040848eac/210520172109_nm_tak_eilat_210517_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הקבוצה של קטש ניצחה את האלופה בבית והשיגה יתרון בסדרה. דאבל-דאבל לפריאיי הנרי (25 נק' ו-10 ריב')",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/ad/07/ad0756ad-1453-4a9c-8aef-276040848eac/210520172109_nm_tak_eilat_210517_,80,35,160,55,110,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - אילת - ראשל\"צ"
-      }
-     ]
-    },
-    {
-     "name": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - חולון - חיפה",
-     "channels": [
-      {
-       "name": "היסטוריה ירוקה: חיפה בפיינל פור",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/712394.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/e1/c2/e1c2d936-108f-4901-8dc1-a009dc54f207/040620172311_nm_vtr_tak_haifa_holon_040617_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "רחימי ושחקניו הפכו לראשונים שעולים מהמקום השמיני אחרי 1:3 על חולון",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/e1/c2/e1c2d936-108f-4901-8dc1-a009dc54f207/040620172311_nm_vtr_tak_haifa_holon_040617_,80,55,110,35,160,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - חולון - חיפה"
-      },
-      {
-       "name": "מהפך: ניצחון דרמטי לחיפה בחולון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/711511.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/0d/7b/0d7bd662-45fb-433c-b68e-43cba56f4cb4/310520172311_nm_vtr_tak_hulon_haifa_310517_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "<H2 class=article-sub-main style=\"BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: Arial; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(51,51,51); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 12px; LETTER-SPACING: normal; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial\">יכולת קבוצתית נהדרת של מכבי חיפה איפשרה לה לגבור 77:78<SPAN class=Apple-converted-space> על חולון בחוץ ולעלות ל-1:2 בסדרה</SPAN></H2>",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/0d/7b/0d7bd662-45fb-433c-b68e-43cba56f4cb4/310520172311_nm_vtr_tak_hulon_haifa_310517_,35,55,110,160,80,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - חולון - חיפה"
-      },
-      {
-       "name": "חיפה הביסה את חולון ואיזנה ל-1:1",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/710768.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f5/0f/f50fa9d1-6a01-4ea1-85ac-f7ec6451a0ef/NM_TAK_HAIFA_HOLON_270517_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "במעמד צד אחד. הירוקים פירקו 70:101 את חניכיו של שמיר וחזרו בגדול לסדרה",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f5/0f/f50fa9d1-6a01-4ea1-85ac-f7ec6451a0ef/NM_TAK_HAIFA_HOLON_270517_,80,55,35,160,110,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - חולון - חיפה"
-      },
-      {
-       "name": "בתום 2 הארכות: חולון גברה על חיפה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/709706.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c0/61/c061723e-8194-443c-984d-e5412098c9f8/220520172109_nm_vtr_tak_holon_sal_220517_,110,55,35,80,160,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "משחק דרמטי בחולון הסתיים בניצחון המקומיים לאחרי 2 הארכות. הולוואי הצטיין",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c0/61/c061723e-8194-443c-984d-e5412098c9f8/220520172109_nm_vtr_tak_holon_sal_220517_,110,55,35,80,160,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - חולון - חיפה"
-      }
-     ]
-    },
-    {
-     "name": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - מכבי ת\"א - הרצליה",
-     "channels": [
-      {
-       "name": "מכבי ת\"א בחצי אחרי סוויפ על הרצליה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/711740.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/bd/e2/bde2bfa2-2b2d-4d7b-99ee-14b067577115/010620172210_nm_tak_maccabi_010617_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הצהובים המשיכו להראות טוב תחת שיבק ורשמו ניצחון קליל, שסידר להם את הכרטיס לפיינל פור",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/bd/e2/bde2bfa2-2b2d-4d7b-99ee-14b067577115/010620172210_nm_tak_maccabi_010617_,35,55,80,110,160,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - מכבי ת\"א - הרצליה"
-      },
-      {
-       "name": "משחק מהחצי: מכבי ניצחה בהרצליה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/711031.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c3/71/c37167d6-dff4-4526-87cd-d393c2f560fc/280520172311_nm_tak_maccabi_280517_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "מחזיקת הגביע המשיכה להראות טוב תחת אריק שיבק והשיגה ניצחון חוץ חשוב בסדרה מול הרצליה",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c3/71/c37167d6-dff4-4526-87cd-d393c2f560fc/280520172311_nm_tak_maccabi_280517_,55,35,110,80,160,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - מכבי ת\"א - הרצליה"
-      },
-      {
-       "name": "ברגל ימין: מכבי ניצחה בבכורה של שיבק",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/709735.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/fc/17/fc17b216-3e81-45db-8e48-ebec698075ba/220520172311_nm_tak_maccabi_hertzelia_220517_,80,110,160,55,35,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הצהובים פתחו טוב את סדרת רבע הגמר עם ניצחון משכנע על הרצליה",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/fc/17/fc17b216-3e81-45db-8e48-ebec698075ba/220520172311_nm_tak_maccabi_hertzelia_220517_,80,110,160,55,35,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - מכבי ת\"א - הרצליה"
-      }
-     ]
-    },
-    {
-     "name": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - הפועל י-ם - נהריה",
-     "channels": [
-      {
-       "name": "המהפך הושלם: ירושלים בפיינל פור",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/713371.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/5a/59/5a596b0d-8877-4a59-9a1d-92b5a4af813a/080620172311_nm_tak_jer_086017_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "הירושלמים העפילו לפיינל פור אחרי 88:88 על נהריה במשחק החמישי בסדרה. 16 נק' לדייסון",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/5a/59/5a596b0d-8877-4a59-9a1d-92b5a4af813a/080620172311_nm_tak_jer_086017_,35,80,110,55,160,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - הפועל י-ם - נהריה"
-      },
-      {
-       "name": "חזרה לחיים: ניצחון קריטי לי-ם בנהריה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/712672.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/f2/c4/f2c43c3f-de19-41a8-af1b-877b92ed2854/050620172311_nm_tak_jer_056017_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "האדומים הגיעו עם הגב לקיר, אך ניצחון דרמטי שלהם סידר משחק 5 בסדרה",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/f2/c4/f2c43c3f-de19-41a8-af1b-877b92ed2854/050620172311_nm_tak_jer_056017_,80,160,35,110,55,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - הפועל י-ם - נהריה"
-      },
-      {
-       "name": "עדיין כאן: י-ם צימקה ל-2:1 מול נהריה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/711923.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/08/c808bd12-d7a6-4fa1-a83c-d3e0976587e1/020620171705_nm_vtr_tak_jer_020617_,80,110,160,55,35,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "האדומים ניצח 75:84 את הצפוניים וינסו להפוך את הקערה בדרך לפיינל פור. האוול כיכב",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/c8/08/c808bd12-d7a6-4fa1-a83c-d3e0976587e1/020620171705_nm_vtr_tak_jer_020617_,80,110,160,55,35,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - הפועל י-ם - נהריה"
-      },
-      {
-       "name": "על סף הדחה: י-ם בפיגור 2:0 מול נהריה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/711243.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/d6/e0/d6e0436c-a05d-4afe-9c3d-9c5fd8a9196e/290520172311_nm_tak_jer_290517_,160,110,80,35,55,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "החניכים של פיאנג'יאני בצרות לאחר הפסד נוסף לנהריה. שולדברנד הצטיין אצל המקומיים עם 16 נק'",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/d6/e0/d6e0436c-a05d-4afe-9c3d-9c5fd8a9196e/290520172311_nm_tak_jer_290517_,160,110,80,35,55,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - הפועל י-ם - נהריה"
-      },
-      {
-       "name": "גנבה את הביתיות: 0:1 לנהריה מול י-ם",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/709916.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/96/4e/964ed121-25ba-4750-a67b-a7eae65cabc7/230520172311_nm_tak_jer_230517_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "סל ניצחון ענק של סקוטי הופסון קבע 85:86 לחבורה של אלפסי שחזרה מפיגור של 23 נקודות לקאמבק משוגע",
-       "page": "",
-       "id": "https://sport5-vh.akamaihd.net/i/video/delivery/96/4e/964ed121-25ba-4750-a67b-a7eae65cabc7/230520172311_nm_tak_jer_230517_,110,35,160,55,80,0k.mp4.csmil/master.m3u8",
-       "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - פלייאוף - פלייאוף - רבע הגמר - רבע הגמר - הפועל י-ם - נהריה"
       }
      ]
     }

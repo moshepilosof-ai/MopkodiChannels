@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1807866.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
    "plot": "",
-   "updated": "2026-11-20 12:39",
+   "updated": "2026-11-21 00:10",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568366&poster=ht",
+       "season": ""
+      },
       {
        "name": "שוב ללא דני: פורטלנד ניצחה את מילווקי 114:124",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1807866.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_UTALAL_0268_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568178&pos",
-       "season": ""
-      },
-      {
-       "name": "בוקר וברוקס להטו, פיניקס הביסה את סקרמנטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807438.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHIORL_0261_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHIORL_0261_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568177&pos",
        "season": ""
       }
      ]

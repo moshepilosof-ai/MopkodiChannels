@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293557",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293867",
    "plot": "",
-   "updated": "2026-11-20 13:31",
+   "updated": "2026-11-21 01:02",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: וולס – פורטוגל 3:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293557",
+       "name": "תקציר ליגה גרמנית: באיירן מינכן – קלן 1:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293867",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120780/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/2002324/",
+       "season": ""
+      },
+      {
+       "name": "הגרלת פלייאוף ליגת האומות",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1278444",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120752/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/2002207/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מספר 7 החדש של פורטוגל נתן לה 2:3 מול ויילס ואת פסגת הבית",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293557",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120254/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/video/1998442/",
-       "season": ""
-      },
-      {
-       "name": "צפו: צרפת ניצחה 1:2 את טורקיה וסיימה בראשות הבית",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293238",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119595/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1998441/",
-       "season": ""
-      },
-      {
-       "name": "צפו: אנגליה עצרה את הרצף ההיסטורי של ספרד עם 2:3 מטורף במדריד",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293247",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119592/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1998418/",
        "season": ""
       }
      ]
