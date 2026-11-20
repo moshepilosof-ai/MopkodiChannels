@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "10202",
    "series_id": "10202",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806440.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1807866.jpg",
    "plot": "",
-   "updated": "2026-11-20 01:02",
+   "updated": "2026-11-20 13:02",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "שוב ללא דני: פורטלנד ניצחה את מילווקי 114:124",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1807866.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PORMIL_0271_RAW/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PORMIL_0271_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=568334&p",
+       "season": ""
+      },
       {
        "name": "מחצית ראשונה אדירה לדני שסיים עם 27 נק` מול מינסוטה",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1806440.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_POR_SAN_290426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=542697&pos",
-       "season": ""
-      },
-      {
-       "name": "26 נק` לאבדיה: הפסד מאכזב לפורטלנד מול הספרס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1707237.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_POR_SAN4_260426/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_POR_SAN4_260426/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=542414&po",
        "season": ""
       }
      ]
