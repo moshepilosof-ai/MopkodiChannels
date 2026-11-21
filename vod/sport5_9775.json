@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "9775",
    "series_id": "9775",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1808401.jpg",
    "plot": "",
-   "updated": "2026-11-21 13:09",
+   "updated": "2026-11-21 23:35",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "הפועל ת\"א ברחה ברבע ה-4 והביסה את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1808401.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_211126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12401%26Vi=568376&poster=",
+       "season": ""
+      },
       {
        "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
@@ -202,22 +212,32 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsIRONIEILAT-GameHighlights_179304405814/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.",
        "season": ""
-      },
-      {
-       "name": "הפסד בכורה בליגה: מכבי ת\"א נכנעה 90:93 לראשל\"צ בהארכה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1794019.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHON_MTA_SAL_241026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHON_MTA_SAL_241026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12389%26Vi=564891",
-       "season": ""
       }
      ]
     },
     {
      "name": "ליגת העל בכדורסל - 2026/27",
      "channels": [
+      {
+       "name": "חזרה לנצח: מכבי ת''א רמסה 58:93 את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1808486.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_211126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27"
+      },
+      {
+       "name": "הפועל ת\"א ברחה ברבע ה-4 והביסה את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1808401.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_211126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27"
+      },
       {
        "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
@@ -396,26 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAG_KIRYAT_ATA_261026/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27"
-      },
-      {
-       "name": "בתום דרמה: 93:96 להרצליה על הפועל אילת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795279.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsIRONIEILAT-GameHighlights_179304405814/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsIRONIEILAT-GameHighlights_179304405814/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27"
-      },
-      {
-       "name": "הפסד בכורה בליגה: מכבי ת\"א נכנעה 90:93 לראשל\"צ בהארכה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1794019.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHON_MTA_SAL_241026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHON_MTA_SAL_241026/HLS/playlist.m3u8",
        "season": "ליגת העל בכדורסל - 2026/27"
       }
      ]
@@ -2269,6 +2269,26 @@
      "name": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "חזרה לנצח: מכבי ת''א רמסה 58:93 את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1808486.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_211126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "הפועל ת\"א ברחה ברבע ה-4 והביסה את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1808401.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_211126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
@@ -2446,26 +2466,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RAG_KIRYAT_ATA_261026/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "בתום דרמה: 93:96 להרצליה על הפועל אילת",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1795279.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsIRONIEILAT-GameHighlights_179304405814/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/BNEIHERZLIYAvsIRONIEILAT-GameHighlights_179304405814/HLS/playlist.m3u8",
-       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "הפסד בכורה בליגה: מכבי ת\"א נכנעה 90:93 לראשל\"צ בהארכה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1794019.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHON_MTA_SAL_241026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_RISHON_MTA_SAL_241026/HLS/playlist.m3u8",
        "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]
@@ -6077,6 +6077,41 @@
        "page": "",
        "id": "https://sport5-vh.akamaihd.net/i/video/delivery/1b/96/1b964632-8808-4238-91fb-7acdb679ec7a/070520172109_mn_tak_nahariya_070517_,160,35,110,55,80,0k.mp4.csmil/master.m3u8",
        "season": "ליגת העל בכדורסל - 2016/17 - 2016/17 - העונה הסדירה"
+      }
+     ]
+    },
+    {
+     "name": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 7",
+     "channels": [
+      {
+       "name": "חזרה לנצח: מכבי ת''א רמסה 58:93 את חולון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1808486.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_211126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 7"
+      },
+      {
+       "name": "הפועל ת\"א ברחה ברבע ה-4 והביסה את קרית אתא",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1808401.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_HTA_211126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 7"
+      },
+      {
+       "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/ASHDDO_JER_201126/HLS/playlist.m3u8",
+       "season": "ליגת העל בכדורסל - 2026/27 - 2026/27 - עונה סדירה - עונה סדירה - מחזור 7"
       }
      ]
     },

@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3084",
    "series_id": "3084",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1802000.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1808407.jpg",
    "plot": "",
-   "updated": "2026-11-21 13:12",
+   "updated": "2026-11-21 23:38",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "דואה כבש ונפצע ב-2:3 של פ.ס.ז' מול ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1808407.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_211126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=568375&poster=",
+       "season": ""
+      },
       {
        "name": "בתום דרמה: מארסיי גברה על לאנס 1:2",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1802000.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563193&poster=h",
        "season": ""
-      },
-      {
-       "name": "שני בישולים לתובאן, לאנס ניצחה את ליון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786583.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LENS_LYON_TAKTZIR/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LENS_LYON_TAKTZIR/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563298&poster=",
-       "season": ""
       }
      ]
     },
     {
      "name": "הליגה הצרפתית - 2026/27",
      "channels": [
+      {
+       "name": "דואה כבש ונפצע ב-2:3 של פ.ס.ז' מול ניס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1808407.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_211126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
       {
        "name": "בתום דרמה: מארסיי גברה על לאנס 1:2",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1802000.jpg",
@@ -406,16 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8",
-       "season": "הליגה הצרפתית - 2026/27"
-      },
-      {
-       "name": "שני בישולים לתובאן, לאנס ניצחה את ליון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786583.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LENS_LYON_TAKTZIR/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LENS_LYON_TAKTZIR/HLS/playlist.m3u8",
        "season": "הליגה הצרפתית - 2026/27"
       }
      ]
