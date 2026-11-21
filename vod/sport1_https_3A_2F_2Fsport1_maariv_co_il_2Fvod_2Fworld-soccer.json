@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293867",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293894",
    "plot": "",
-   "updated": "2026-11-21 01:02",
+   "updated": "2026-11-21 13:22",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר ליגה גרמנית: באיירן מינכן – קלן 1:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293867",
+       "name": "תקציר: פורטו נגד פארדש, גביע פורטוגלי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293894",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120792/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/video/2002513/",
+       "season": ""
+      },
+      {
+       "name": "צפו: קיין ואוליסה נפצעו, באיירן מינכן חזרה מהפגרה עם 1:1 מאכזב מול קלן",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293867",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120780/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/video/1999253/",
-       "season": ""
-      },
-      {
-       "name": "צפו: בלגיה הביסה 1:4 את איטליה והדיחה אותה מליגת האומות",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293244",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119596/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/video/1998442/",
        "season": ""
       }
      ]

@@ -6,13 +6,103 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808178.jpg",
    "plot": "",
-   "updated": "2026-11-21 00:10",
+   "updated": "2026-11-21 12:26",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "בשניות האחרונות: אורלנדו ניצחה את ברוקלין 111:113",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808178.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ORL_BKN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_ORL_BKN/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568434&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "יוקיץ' ושנגון כיכבו: דנבר גברה על יוסטון 124:133",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1808184.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DEN_HOU/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_DEN_HOU/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568433&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "בתום דרמה: הלייקרס ניצחו את סקרמנטו 104:106",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808188.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_LAL_SAC/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/LONG_TAK_LAL_SAC/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568432&poster=htt",
+       "season": ""
+      },
+      {
+       "name": "בוקר בלט: 101:111 לפיניקס על יוטה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1808190.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PHX_UTA/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PHX_UTA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568431&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "40 נק' לשיי: 120:126 לאוקלהומה על הפליקנס",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1808192.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NOP_OKC/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_NOP_OKC/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568430&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "דייויס להט: וושינגטון ניצחה את שיקגו 94:98",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1808194.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WAS_CHI/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_WAS_CHI/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568429&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "29 נק' לבארנס: 102:105 לטורנוטו על דטרויט",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808198.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOR_DET/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_TOR_DET/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568428&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "51 נק' להארדן: 119:128 לקליבלנד על אינדיאנה",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1808200.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_IND_CLE/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_IND_CLE/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568427&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "ג'ונסון בלט: אטלנטה ניצחה את שארלוט 97:111",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1808202.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHA_ATL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_CHA_ATL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568426&poster=https://",
+       "season": ""
+      },
       {
        "name": "בלתי מנוצחת: הפועל י-ם הביסה 68:92 את אשדוד",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1808018.jpg",
@@ -121,96 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_CHIBKN_0262_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568189&pos",
-       "season": ""
-      },
-      {
-       "name": "יוקיץ` הוביל קאמבק, דנבר ניצחה 101:105 את בוסטון",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807459.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BOSDEN_0266_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BOSDEN_0266_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568188&pos",
-       "season": ""
-      },
-      {
-       "name": "אמביד קלע 26, פילדלפיה ניצחה 116:121 את אורלנדו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1807457.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHIORL_0261_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_PHIORL_0261_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568187&pos",
-       "season": ""
-      },
-      {
-       "name": "יאניס כיכב מול האקסית, מיאמי ניצחה 130:137 את מילווקי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807455.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MILMIA_0260_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MILMIA_0260_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568186&pos",
-       "season": ""
-      },
-      {
-       "name": "דוראנט הוביל, יוסטון ניצחה 104:119 את אינדיאנה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1807451.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_HOUIND_0259_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_HOUIND_0259_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568185&pos",
-       "season": ""
-      },
-      {
-       "name": "ספנסר קלע 26, ממפיס ניצחה 121:124 את קליבלנד",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1807449.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MEMCLE_0258_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_MEMCLE_0258_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568183&pos",
-       "season": ""
-      },
-      {
-       "name": "דיבנטסה כיכב, וושינגטון ניצחה 99:103 את טורונטו",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1807447.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_WASTOR_0263_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_WASTOR_0263_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568182&pos",
-       "season": ""
-      },
-      {
-       "name": "ג`ונסון רשם טריפל דאבל, אטלנטה ניצחה את אוקלהומה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807445.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_ATLOKC_0265_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_ATLOKC_0265_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568180&pos",
-       "season": ""
-      },
-      {
-       "name": "קולינס בלט, דטרויט ניצחה 109:122 את ניו אורלינס",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1807443.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNOP_0264_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_DETNOP_0264_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568179&pos",
-       "season": ""
-      },
-      {
-       "name": "ג`ורג` קלע 30, יוטה הפתיעה את הלייקרס עם 97:109",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1807440.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_UTALAL_0268_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_UTALAL_0268_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568178&pos",
        "season": ""
       }
      ]
