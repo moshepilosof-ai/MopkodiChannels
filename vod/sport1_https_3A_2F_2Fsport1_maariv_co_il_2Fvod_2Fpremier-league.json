@@ -6,16 +6,56 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fpremier-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fpremier-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293949",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294147",
    "plot": "",
-   "updated": "2026-11-22 13:20",
+   "updated": "2026-11-22 23:54",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: צ'לסי – לידס 4:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293949",
+       "name": "תקציר: ליברפול – מנצ'סטר יונייטד 0:4",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294147",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121288/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2003994/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ליברפול חוגגת עם 0:3 מול מנצ'סטר יונייטד בבכורה של פוצ'טינו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294147",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121272/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2003939/",
+       "season": ""
+      },
+      {
+       "name": "צפו: שערים נהדרים לווירץ וסובוסלאי, ליברפול ב-0:2 מוקדם מול יונייטד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294113",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121238/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2003832/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ברייטון ספגה שני שערים מאוחרים והפסידה במפתיע להאל סיטי",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294106",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121227/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2003810/",
+       "season": ""
+      },
+      {
+       "name": "צפו: לידס השפילה את צ'לסי בסטמפורד ברידג' עם רביעייה מהדהדת",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293949",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120871/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -61,46 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/2002878/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשער: אזה העלה את ארסנל ל-0:1 בזכות בישול נהדר של האברץ",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293954",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120877/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2002852/",
-       "season": ""
-      },
-      {
-       "name": "צפו: קובנטרי גברה 2:3 על קריסטל פאלאס, 73 דקות לענאן חלאילי",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293935",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120869/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2002824/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: לידס השפילה את צ'לסי בסטמפורד ברידג' עם רביעייה מהדהדת",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293949",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120864/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2002801/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: קובנטרי גברה 2:3 על קריסטל פאלאס, 73 דקות לענאן חלאילי",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293935",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120865/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2002804/",
        "season": ""
       }
      ]

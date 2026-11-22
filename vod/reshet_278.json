@@ -8,7 +8,7 @@
    "series_id": "278",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ec6b3e4b5a94502986f4dfba58eba5c/version/17/width/800/height/1200/quality/90",
    "plot": "המהדורה המרכזית של חדשות 13",
-   "updated": "2026-11-22 12:20",
+   "updated": "2026-11-22 22:57",
    "sub_categories": [
     {
      "name": "התוכניות המלאות",
@@ -4684,16 +4684,6 @@
        "season": "התוכניות המלאות"
       },
       {
-       "name": "המהדורה המרכזית 05.02.25 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dbd0f358e2864f8bb4e016cd01224cbf/version/1248/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xi0dj6xk/format/applehttp/protocol/https/a.m3u8",
-       "date": "2025-02-05",
-       "plot": "",
-       "page": "",
-       "id": "--kaltura--1_xi0dj6xk===",
-       "season": "התוכניות המלאות"
-      },
-      {
        "name": "המהדורה המרכזית 04.02.25 - המהדורה המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d533d26c13af49e48342aaafd8308030/version/1249/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wfcaj2tl/format/applehttp/protocol/https/a.m3u8",
@@ -5181,6 +5171,16 @@
        "plot": "",
        "page": "",
        "id": "--kaltura--1_hylg6vy6===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "המהדורה המרכזית 25.11.24 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f30ba328ec5748648fbf1a1cc9c0dbda/version/1419/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_odldap0h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-11-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_odldap0h===",
        "season": "התוכניות המלאות"
       },
       {
@@ -7254,16 +7254,6 @@
        "season": "התוכניות המלאות"
       },
       {
-       "name": "המהדורה המרכזית 08.02.24 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/26ae96c552544a2498a3243342caaf71/version/1979/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ha2dh1v/format/applehttp/protocol/https/a.m3u8",
-       "date": "2024-02-09",
-       "plot": "",
-       "page": "",
-       "id": "--kaltura--1_7ha2dh1v===",
-       "season": "התוכניות המלאות"
-      },
-      {
        "name": "שיחת היום 08.02.24 - התכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e32394bfde694da881698754fee50eca/version/1977/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8g1c593k/format/applehttp/protocol/https/a.m3u8",
@@ -7704,6 +7694,16 @@
        "season": "התוכניות המלאות"
       },
       {
+       "name": "המהדורה המרכזית 19.09.23 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ec6b3e4b5a94502986f4dfba58eba5c/version/17/width/800/height/1200/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cxiwy7mb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-18",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_cxiwy7mb===",
+       "season": "התוכניות המלאות"
+      },
+      {
        "name": "המהדורה המרכזית 11.07.23 - המהדורה המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2ec6b3e4b5a94502986f4dfba58eba5c/version/17/width/800/height/1200/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6huw0nvp/format/applehttp/protocol/https/a.m3u8",
@@ -7911,6 +7911,16 @@
        "plot": "",
        "page": "",
        "id": "--kaltura--1_xmnh9cil===",
+       "season": "התוכניות המלאות"
+      },
+      {
+       "name": "המהדורה המרכזית 10.12.23 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c19eab0503714618b626447a6397620a/version/2091/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9zy14ioy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-12-10",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9zy14ioy===",
        "season": "התוכניות המלאות"
       },
       {
@@ -10124,16 +10134,6 @@
        "season": "התוכניות המלאות"
       },
       {
-       "name": "המהדורה המרכזית 02.09.21 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/180423eac17e41eb83d84828133d5118/version/1561/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_40bu1zoj/format/applehttp/protocol/https/a.m3u8",
-       "date": "2023-04-03",
-       "plot": "",
-       "page": "",
-       "id": "--kaltura--1_40bu1zoj===",
-       "season": "התוכניות המלאות"
-      },
-      {
        "name": "המהדורה המרכזית 29.08.21 - המהדורה המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7fddd1c25f5745bdb693a49868efaaf2/version/1560/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0075b44c/format/applehttp/protocol/https/a.m3u8",
@@ -10385,7 +10385,7 @@
       },
       {
        "name": "המהדורה המרכזית 13.07.21 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a374b4b55e5a45e4b6418e18b2eefa63/version/1561/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a374b4b55e5a45e4b6418e18b2eefa63/version/1562/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lucpis9o/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -10435,7 +10435,7 @@
       },
       {
        "name": "המהדורה המרכזית 29.06.21 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d618bb9624c4594aa7644a9c9470278/version/1561/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6d618bb9624c4594aa7644a9c9470278/version/1562/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x8juxdrg/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",
@@ -10464,8 +10464,18 @@
        "season": "התוכניות המלאות"
       },
       {
+       "name": "המהדורה המרכזית 23.06.21 - המהדורה המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7f707d9450684a4e991ef6e4fb8207bd/version/1566/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z40fj2a2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_z40fj2a2===",
+       "season": "התוכניות המלאות"
+      },
+      {
        "name": "המהדורה המרכזית 22.06.21 - המהדורה המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e269208d51e9468292d0ba1de0490b13/version/1568/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e269208d51e9468292d0ba1de0490b13/version/1569/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lsull8gz/format/applehttp/protocol/https/a.m3u8",
        "date": "2023-04-03",
        "plot": "",

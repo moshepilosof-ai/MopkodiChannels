@@ -8,7 +8,7 @@
    "series_id": "613",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/129ed519f3f440d79db87d875d3758c0/version/0/width/800/height/1200/quality/90",
    "plot": "תוכנית דוקו ריאליטי שתחשוף לראשונה את עולם השידוכים במגזר החרדי בדרך לחתונה המיוחלת",
-   "updated": "2026-11-22 12:13",
+   "updated": "2026-11-22 22:49",
    "sub_categories": [
     {
      "name": "עונה 2",
@@ -353,6 +353,16 @@
     {
      "name": "עונה 3",
      "channels": [
+      {
+       "name": "ווארט, עונה 3, פרק 4: אלי ולופז בסימן שאלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/153be91f418144679a4a4bf5b0a64f09/version/1/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wbpaqvxk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-22",
+       "plot": "עונה חדשה לתוכנית השידוכים שכבשה את המדינה. והערב: אלי ולופז מגלים שאחרי ההתלהבות וההתאמה, יש גם שאלות שיכולות להעמיד את היחסים בסכנה | \"ווארט\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_wbpaqvxk===",
+       "season": "עונה 3"
+      },
       {
        "name": "ווארט, עונה 3, פרק 3: השד העדתי מתפוצץ",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/93e2fad455914a5b86e3276537cef1df/version/2/width/1280/height/720/quality/90",

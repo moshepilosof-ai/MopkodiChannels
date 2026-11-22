@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Feuropa-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Feuropa-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1291934",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294184",
    "plot": "",
-   "updated": "2026-11-22 13:20",
+   "updated": "2026-11-22 23:54",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר ליגה אירופית: קריסטל פאלאס – הופנהיים 1:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1291934",
+       "name": "ציון 3 עונה 1 פרק 92",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294184",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120607/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2004110/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: ענאן חלאילי וקריסטל פאלאס סיימו ב-1:1 מול הופנהיים",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291934",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4116753/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/europa-league/video/1950646/",
-       "season": ""
-      },
-      {
-       "name": "צפו: אסטון וילה הביסה 0:3 את פרייבורג וזכתה בליגה האירופית",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1271675",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4054316/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/europa-league/video/1856654/",
        "season": ""
       }
      ]

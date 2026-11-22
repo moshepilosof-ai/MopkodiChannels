@@ -6,16 +6,66 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Ftennis",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Ftennis",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293851",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294175",
    "plot": "",
-   "updated": "2026-11-22 13:21",
+   "updated": "2026-11-22 23:55",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "טורניר גמר הסבב: תקציר ניצחונו של קרלוס אלקראס על פלאביו קובולי",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293851",
+       "name": "תקציר גמר טורניר גמר הסבב: ניצחונו של קרלוס אלקראס על סשה זברב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294175",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121319/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/2004099/",
+       "season": ""
+      },
+      {
+       "name": "קרלוס אלקרס מנצח את אלכסנדר זברב בגמר טורניר הסבב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294169",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121304/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/2004062/",
+       "season": ""
+      },
+      {
+       "name": "קרלוס אלקרס בנקודה מדהימה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294145",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121282/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/2003976/",
+       "season": ""
+      },
+      {
+       "name": "קרלוס אלקראס זוכה במערכה הראשונה 2:6",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294145",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121276/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/2003955/",
+       "season": ""
+      },
+      {
+       "name": "תקציר: סשה זברב גובר על מדבדב ועולה לגמר טורניר גמר הסבב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294132",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121028/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/other-industries/tennis/video/2003871/",
+       "season": ""
+      },
+      {
+       "name": "צפו: אלקראס ניצח את קובולי תוך 65 דקות בלבד והוא בדרך לתואר שטרם השיג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293851",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120741/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -51,56 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/other-industries/tennis/video/2000253/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: פיס ניצח את חודאר בטורניר סוף השנה והשיג ניצחון בכורה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293463",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120070/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1999862/",
-       "season": ""
-      },
-      {
-       "name": "צפו: קרלוס אלקראס גבר על פרנסס טיאפו בפתיחת טורניר גמר הסבב",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293341",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119782/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1999029/",
-       "season": ""
-      },
-      {
-       "name": "טורניר גמר הסבב: תקציר ניצחונו של סשה זברב על רפאל חודאר",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293181",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4119486/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1998152/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: אלקראס גבר על רוד ועלה לגמר המאסטרס בפריז",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292121",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117161/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1991481/",
-       "season": ""
-      },
-      {
-       "name": "צפו: אלחנדרו דוידוביץ' פוקינה רשם את הישג חייו בדרך לדירוג שיא",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1289390",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4110792/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/other-industries/tennis/video/1975077/",
        "season": ""
       }
      ]
