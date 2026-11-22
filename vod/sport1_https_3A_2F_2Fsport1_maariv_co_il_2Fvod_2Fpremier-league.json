@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fpremier-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fpremier-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293957",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293949",
    "plot": "",
-   "updated": "2026-11-21 23:48",
+   "updated": "2026-11-22 13:20",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: ניוקאסל – ארסנל 2:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293957",
+       "name": "תקציר: צ'לסי – לידס 4:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293949",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120871/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2003248/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: ארסנל התקשתה וחילצה תיקו 2:2 מול ניוקאסל",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293957",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120939/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/2002804/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: קובנטרי עלתה ליתרון מהאגף של חלאילי, וירדה להפסקה ב-2:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293935",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120852/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2002734/",
        "season": ""
       }
      ]

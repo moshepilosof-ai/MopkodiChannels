@@ -8,7 +8,7 @@
    "series_id": "3084",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1808407.jpg",
    "plot": "",
-   "updated": "2026-11-21 23:38",
+   "updated": "2026-11-22 13:11",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -21,6 +21,46 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_211126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=568375&poster=",
+       "season": ""
+      },
+      {
+       "name": "בידסטרוף סידר לליון 0:1 על ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1808554.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_211126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=568374&poste",
+       "season": ""
+      },
+      {
+       "name": "בדקה ה-82: מונאקו חילצה 1:1 מול אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1808552.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MONACO_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MONACO_211126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=568373&post",
+       "season": ""
+      },
+      {
+       "name": "חלוקת נקודות: לאנס וטולוז נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1808547.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LENS_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LENS_211126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=568372&poster",
+       "season": ""
+      },
+      {
+       "name": "ברסט שרדה מותחן וגברה 0:1 על שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1808539.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_STRASBOURG_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_STRASBOURG_211126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=568371&",
        "season": ""
       },
       {
@@ -172,46 +212,6 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_171026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=564013&poster=htt",
        "season": ""
-      },
-      {
-       "name": "מתרחקת מהאלופות: ניס הפסידה 2:1 לנאנט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1787411.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NICE_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NICE_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563382&poster",
-       "season": ""
-      },
-      {
-       "name": "נקודה מהפסגה: 1:4 לראן מול אוקזר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787417.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RENN_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RENN_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563381&poster",
-       "season": ""
-      },
-      {
-       "name": "מארסיי גברה 0:3 על טרואה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1787602.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MARSEILLE_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MARSEILLE_111026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563380&p",
-       "season": ""
-      },
-      {
-       "name": "בקווה כבש, 0:1 לליל על לה האבר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786593.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12356%26Vi=563193&poster=h",
-       "season": ""
       }
      ]
     },
@@ -226,6 +226,46 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_PSG_211126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "בידסטרוף סידר לליון 0:1 על ליל",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size272x202/1808554.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LILLE_211126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "בדקה ה-82: מונאקו חילצה 1:1 מול אוקזר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1808552.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MONACO_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MONACO_211126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "חלוקת נקודות: לאנס וטולוז נפרדו ב-1:1",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1808547.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LENS_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_LENS_211126/HLS/playlist.m3u8",
+       "season": "הליגה הצרפתית - 2026/27"
+      },
+      {
+       "name": "ברסט שרדה מותחן וגברה 0:1 על שטרסבורג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1808539.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_STRASBOURG_211126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_STRASBOURG_211126/HLS/playlist.m3u8",
        "season": "הליגה הצרפתית - 2026/27"
       },
       {
@@ -376,46 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PSG_171026/HLS/playlist.m3u8",
-       "season": "הליגה הצרפתית - 2026/27"
-      },
-      {
-       "name": "מתרחקת מהאלופות: ניס הפסידה 2:1 לנאנט",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1787411.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NICE_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NICE_111026/HLS/playlist.m3u8",
-       "season": "הליגה הצרפתית - 2026/27"
-      },
-      {
-       "name": "נקודה מהפסגה: 1:4 לראן מול אוקזר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1787417.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RENN_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_RENN_111026/HLS/playlist.m3u8",
-       "season": "הליגה הצרפתית - 2026/27"
-      },
-      {
-       "name": "מארסיי גברה 0:3 על טרואה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1787602.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MARSEILLE_111026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MARSEILLE_111026/HLS/playlist.m3u8",
-       "season": "הליגה הצרפתית - 2026/27"
-      },
-      {
-       "name": "בקווה כבש, 0:1 לליל על לה האבר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1786593.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_LILLE_101026/HLS/playlist.m3u8",
        "season": "הליגה הצרפתית - 2026/27"
       }
      ]
