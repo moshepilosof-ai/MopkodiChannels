@@ -1,0 +1,381 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - אי האהבה - ספרד",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "637",
+   "series_id": "637",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/27dc490133e14212a07a021ca046004d/version/0/width/800/height/1200/quality/90",
+   "plot": "קבוצה של צעירים המתגוררים בבידוד מן העולם החיצון בווילה מדהימה, באי בספרד ונמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+   "updated": "2026-11-23 13:10",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "אי האהבה ספרד – פרק 32 – למי מהזוגות יש עתיד?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9b83b6d94ff64d6eb93a82931c71f613/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jswfauk4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_jswfauk4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 33 – מי יגיע לגמר?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/962a42e6ac584b76a1d77cbe7a0a703a/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l4fopms9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_l4fopms9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 34 – סערת רגשות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/07740a3748964c95b9518946ea993ed9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wjb3848s/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_wjb3848s===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 36 – זמן לסיכומים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7ce7c6ef08694bd79d608909318d0049/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k7nc265n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_k7nc265n===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 31 – מי הזוג שבסכנה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7ec5cdaf6f294598b114406c602e2c87/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_py3kafco/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_py3kafco===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 35 – הגמר הגדול",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0b891d8717394fd98662a3a7dedf659f/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_egw87uk9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_egw87uk9===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 29 – הדחה כפולה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06c0302a94734eb08f923ad88b37d959/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qe8zjpb0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_qe8zjpb0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 30 – השבוע החמישי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/83e51912f2034f3db102d25af2657c24/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1kiylzzn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_1kiylzzn===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 28 – מכתב מהבית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9fbd8429c2764f3ea1f26e5e31fd67c9/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ikk3fvwh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_ikk3fvwh===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 25 – ההתלבטות של מור וקארי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bf0531e507a54fa3a1025ac7fd5e8bae/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_xzcjohm0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_xzcjohm0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 27 – סינתיה על הכוונת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8fe479a1fb1c45c7b881949c3d733c05/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yx4be61k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_yx4be61k===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 21 – מיגל וסיליה בסכנה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/215ab47105954b7fbc8cb02f65ce19f5/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t3o2q89t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_t3o2q89t===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 26 – ההפתעה של סיליה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a880279716344758b5b9f21c0203e653/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_x28p83dc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_x28p83dc===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 24 – השבוע הרביעי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a4ee13a2c29d48799864a54878348d67/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l8x1r214/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_l8x1r214===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 23 – מרינה חוגגת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1d705ec45b7a4c99a475f4337f772ff7/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lyy9zycd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_lyy9zycd===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 19 – צלצול גורלי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5085257a551a4704b549e6fa9c4a56fa/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9c628f42/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_9c628f42===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 20 – רוחות חדשות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/723f274e7a1f444bb5d23b4ffd278aff/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pdcbrifx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_pdcbrifx===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 22 – ההחלטה של מיגל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9cb4a6cd4c9d4aea8152796f2f95d9c4/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z2da52it/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_z2da52it===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 16 – ההחלטה של קארי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/01810dbece8b4b15bc36860916874b63/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t7pmtuxo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_t7pmtuxo===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 11 – דיירים חדשים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/24bf79d0b0cd4670968f620115e9c407/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2rpvzv6o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_2rpvzv6o===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 17 – פבלו ופדרו",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8488abbcd76446a086a6eb6d5315c28b/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o5o7mi2r/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_o5o7mi2r===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 18 – השבוע השלישי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0a67259e8f484e648f7cdc5edb83ba17/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_b8w66tmp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_b8w66tmp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 14 – המשבר של סיליה ומיגל",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ab5e6e392a7e442898077bc5cb077ee8/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_owoho3x7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_owoho3x7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 13 – הכל בגלל הכימיה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/02668708d06f4ae6b293d8ea4216e45d/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pjke9yve/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_pjke9yve===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 15 – קבלו את מרינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/84ceabc587604239bcf8b04abe69fd5d/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2x5sm2e5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_2x5sm2e5===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 12 – השבוע השני",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/949a8d53234e4310bd0ae9f6fb9f9349/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mw05ac1m/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_mw05ac1m===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 10 – מי יעזוב את הווילה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/44700d904239490196bd531d7b721781/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8zkoot69/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "חבורה של רווקים עוברת לוילה משולמת על אי למהלך הקיץ, בתקווה למצוא שם את אהבתם. המתחרים נמצאים תחת מעקב מצלמות 24/7 . כדי לשרוד את הווילה כל מתחרה חייב למצוא בן או בת זוג, בין אם זה בשביל אהבה, ידידות או כסף. המתחרה שמוצא את עצמו לבד – מודח מהאי",
+       "page": "",
+       "id": "--kaltura--1_8zkoot69===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 5 – החלטות קשות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/56d57581b8d54cf9951eb92952daae3c/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dyec272h/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_dyec272h===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 6 – השבוע הראשון",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e98980c6ccf4b159c16b028438e5b0c/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_p4ptu36p/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_p4ptu36p===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 4 – ג'ובאן וריקי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/907a926c5ae44b2d90b012c6020b3c71/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_a6l0xsg7/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_a6l0xsg7===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 9 – הדיירות החדשות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b1ec7c5374064595949c4f70634556aa/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z59wykl4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_z59wykl4===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 3 – רווקה חדשה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a6b4f4eaa7904d43bb357d6a691ec8bb/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_avm4refp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_avm4refp===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 7 – הטלפון האדום",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/06dad10f03dc4cb98fd78c987893a025/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4vj0hwpj/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_4vj0hwpj===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 8 – ההחלטה של חסוס וקרלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9810f31d7a85425595cf88bdfd8ec686/version/5/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_14bkmci0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_14bkmci0===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 2 – קבלו את יסמינה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2037f2d0b9de4c5b9e9135684b36afd7/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pbz9nfju/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_pbz9nfju===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "אי האהבה ספרד – פרק 1 – ברוכים הבאים לווילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/55f09e77480d4fc491e31593cdd9927f/version/7/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mtsf58rs/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-08-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_mtsf58rs===",
+       "season": "עונה 1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
