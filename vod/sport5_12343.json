@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "12343",
    "series_id": "12343",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807528.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1809363.jpg",
    "plot": "",
-   "updated": "2026-11-23 14:06",
+   "updated": "2026-11-24 04:46",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "\"אם הייתי משחק הייתי מקבל התקף לב\": בלוריאן התראיין ל-5 באוויר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1809363.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/OR_BLORIAN_RADIO/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/OR_BLORIAN_RADIO/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=568719&poster=h",
+       "season": ""
+      },
       {
        "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1807528.jpg",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_160926_NEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=560835&poster=",
-       "season": ""
-      },
-      {
-       "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1776006.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_15092026/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_15092026/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=560769&poster=ht",
        "season": ""
       }
      ]

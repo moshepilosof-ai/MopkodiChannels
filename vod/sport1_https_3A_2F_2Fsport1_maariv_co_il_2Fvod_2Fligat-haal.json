@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fligat-haal",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fligat-haal",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1293746",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294253",
    "plot": "",
-   "updated": "2026-11-23 14:17",
+   "updated": "2026-11-24 04:57",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
+       "name": "תיקתקנו, 23.11",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294253",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121474/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/2004663/",
+       "season": ""
+      },
+      {
        "name": "תיקתקנו, 19.11",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1293746",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293746",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120582/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/israeli-soccer/ligat-haal/video/1992730/",
-       "season": ""
-      },
-      {
-       "name": "צפו: בית\"ר ירושלים המשיכה לאכזב עם 1:1 מול עירוני טבריה",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292132",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117256/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1991877/",
        "season": ""
       }
      ]
