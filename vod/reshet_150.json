@@ -1,0 +1,396 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - מהפכה במטבח",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "150",
+   "series_id": "150",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4b539992338c49dca68e41ba864cb6a9/version/12/width/800/height/1200/quality/90",
+   "plot": "סדרת דוקו ריאליטי בהנחיית השף אסף גרניט. בכל פרק מוזמן השף למסעדה אחרת החווה קשיים פיננסיים וניהוליים ולא מצליחה להתרומם. גרניט בוחן את כל ההיבטים המצריכים שינוי ושיפור ובהמשך מנחה ומלווה באופן מקצועי את בעלי המסעדה אל עבר החלמת העסק.",
+   "updated": "2026-11-24 14:54",
+   "sub_categories": [
+    {
+     "name": "עונה 1",
+     "channels": [
+      {
+       "name": "עונה 1, פרק 5: מסעדת האימה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/79cea43cfd5343ebbbe8729acebb0349/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0pd26xra/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם השף גרניט יכול לעזור למסעדה שהעובדים בה לא מוכנים להתקרב לאוכל?",
+       "page": "",
+       "id": "--kaltura--1_0pd26xra===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 2: מסעדה בלתי נשכחת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/49e7505239a6452da46241efadca3a19/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fjqxk292/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השף אסף גרניט מגיע למסעדת ווקס באשדוד ועושה להם מהפכה במטבח!",
+       "page": "",
+       "id": "--kaltura--1_fjqxk292===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 4: מלחמה במטבח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5995dbbc9dbe443da39a06308bb34b2e/version/6/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3128h78t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השף אסף גרניט מגיע למסעדת קשקפה שבקריות ועושה להם מהפכה במטבח!",
+       "page": "",
+       "id": "--kaltura--1_3128h78t===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, פרק 1: המהפכה החלה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f093a095081a4eef8363f9e48f997ef8/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t1arlcce/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השף אסף גרניט עושה מהפכה למטבח של מסעדת ספרא בב\"ש, השינוי הגדול התחיל!",
+       "page": "",
+       "id": "--kaltura--1_t1arlcce===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "עונה 1, תכנית 3: אגוז קשה לפיצוח",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/86756bb7a2aa425abeb5c0ef8188080a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gotytwv6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השף אסף גרניט מגיע  למסעדת אסאדו בורגר&בר שבצפון ועושה להם מהפכה במטבח!",
+       "page": "",
+       "id": "--kaltura--1_gotytwv6===",
+       "season": "עונה 1"
+      }
+     ]
+    },
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "עונה 2, פרק 1: סערה בקפה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5f803f433f0642f5b85fab5745f2d0ea/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c4y2ye4k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק פתיחת העונה, אסף גרניט מגיע לעשות מהפכה במטבח במסעדת קפוצ'ינו בחדרה",
+       "page": "",
+       "id": "--kaltura--1_c4y2ye4k===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 2: מסעדה כזו עוד לא ראיתם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e2da59fe5a1046928cf5088ed0cbf091/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u9rrwbin/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע לעשות מהפכה בקפה גידי ברמת גן ולא מאמין למראה עיניו",
+       "page": "",
+       "id": "--kaltura--1_u9rrwbin===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 3: אל תסמוך על ההמבורגר",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d215b6d39d2f45359afb4dd5681a095b/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hi18nvyl/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם אסף יציל את מסעדת ההמבורגרים המשפחתית מקריסה?",
+       "page": "",
+       "id": "--kaltura--1_hi18nvyl===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 7: סיפור סיני עתיק",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/51136bad6beb4238b6af530b13e450aa/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7l28nrlw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע למסעדת \"בטעם הסיני\" בקרית שמונה ונתקל במשבר משפחתי בין אב ובנו",
+       "page": "",
+       "id": "--kaltura--1_7l28nrlw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 5: מהפכה באולם",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/245391c6e0174fa59b9b165a117dad0c/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_7ds5g9wh/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע לעשות מהפכה באולם שמחות ומעמת את הבעלים עם לקוחות מאוכזבים",
+       "page": "",
+       "id": "--kaltura--1_7ds5g9wh===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 6: מלחמת הגיסים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f6d7665491c438589ac56268eb8e5f9/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_hpss2x8n/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איזה שינוי חולל אסף גרניט במסעדת בראשית? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_hpss2x8n===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 8: המהפכה של ג'ינג'י",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9bea9162a4314db18fb08ee564659cb5/version/8/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dskrksd8/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע לאום אל-פחם למהפכה מיוחדת במינה. מה יקרה כשבעל המסעדה, ג'ינג'י, יגלה את המהפכה הכפולה שמחכה לו",
+       "page": "",
+       "id": "--kaltura--1_dskrksd8===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 4: עסק משפחתי",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/59e16cd4b3104f1dbb307f25ccb08d00/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8cpmgjj0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם אסף יצליח לגרום לחיים ובן לעבוד יחד בצורה נכונה?",
+       "page": "",
+       "id": "--kaltura--1_8cpmgjj0===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "עונה 2, פרק 9: מהפכת הקובה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6c80b9cae26e4d8989b5cb42cb6aefc5/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_k6druvpa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "בפרק הסיום, שף אסף גרניט מגיע לקובה של מומו כדי להבין שהבעיה הכי גדולה של המקום, זה הקובה. צפו בתכנית המלאה",
+       "page": "",
+       "id": "--kaltura--1_k6druvpa===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 3",
+     "channels": [
+      {
+       "name": "עונה 3, פרק 10: אסף עוצר את הסרוויס במסעדת השובך",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ba17f3acb1b44cbe82a1e57b0a8d8a43/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_6m1gefe6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השף אסף גרניט מגיע למסעדת \"השובך\" בתחפושת על מנת להתרשם מהמסעדה במצב \"טבעי\". הוא מגלה מסעדה במצב תברואתי קשה שגורם לו לנקוט בצעד קיצוני",
+       "page": "",
+       "id": "--kaltura--1_6m1gefe6===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 4: קפה ניצה. צפו בפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d349726dcd9642f5b1c1b6ea2bb7e31a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_u06rvm7x/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע לקפה ניצה בנתניה ומוצא את עצמו בסערה משפחתית בה האם והבת פשוט לא מצליחות להסתדר",
+       "page": "",
+       "id": "--kaltura--1_u06rvm7x===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 9: מהפכה צרפתית במסעדת ימית. הפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/cc09e80851a740a39d20109bdcfbd407/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_kdbrfat3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "איך מסעדן שלא אוהב אנשים יכול לנהל מסעדה? אסף גרניט פוגש עולה חדש מצרפת שמתקשה להתמודד עם הלקוחות הישראלים. האם הוא יציל את המסעדה?",
+       "page": "",
+       "id": "--kaltura--1_kdbrfat3===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "מהפכה במטבח פרק 8 מסעדת \"סוזן\": כשאסף פגש את ענבל גבריאלי. הפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a99465e66d1746dfb52b7cd6480e1e49/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nfodyioc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע למסעדה של בעלה של חברת הכנסת לשעבר ענבל גבריאלי.  האם הוא יצליח להציל אותה? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_nfodyioc===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 5: מהפכה מרגשת בקפה אנה. צפו בפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/3706f7a632dd4687a9bc046059a7fbb4/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yjqfla5l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע לקפה אנה ופוגש בעלת מסעדה שירשה את העסק מאחותה שנפטרה ומסרבת להאמין שהיא לא תשוב לעולם",
+       "page": "",
+       "id": "--kaltura--1_yjqfla5l===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "עונה 3, פרק 6: סערה בלונה בר. צפו בפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/447baa160ada498ba2f55682c946dec4/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_795y0yam/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע עד ערד, מגלה מסעדה שיש בה יותר זבובים מלקוחות ואוכל את הארוחה הגרועה בחייו",
+       "page": "",
+       "id": "--kaltura--1_795y0yam===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "מהפכה במטבח פרק 7: המסעדן הפחדן מברד אנד ברקפסט. הפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/7bfaf85c29b34a3c8eef9be247ed85f2/version/10/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_fndpa212/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע למסעדה שבה השותפים לא מדברים אחד עם השני והמטבח לא מתפקד. האם הוא יצליח להציל אותה מסגירה?",
+       "page": "",
+       "id": "--kaltura--1_fndpa212===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 3, פרק 3: בוריטו חי. צפו בפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/72020c0e692e4b2bb2d38c63ff0daccc/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ombkk4oa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע למסעדה המקסיקנית \"בוריטו חי\" ונתקל בבעת מסעדה שלא יכולה להתמודד עם ביקורת",
+       "page": "",
+       "id": "--kaltura--1_ombkk4oa===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 3, פרק 1: מאמא דורית. צפו בפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1ec3e14d53f742749156582aec351d7a/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_8ikqosyn/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק פתיחת העונה: אסף גרניט מגיע ל\"מאמא דורית\" כדי להציל את ניהול המסעדה ומוצא את עצמו בתסבוכת משפחתית",
+       "page": "",
+       "id": "--kaltura--1_8ikqosyn===",
+       "season": "עונה 3"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 3, פרק 2: קפה אגוז. צפו בפרק המלא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a5eb1d58c4664e35b9dd4bacb39f186e/version/9/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yhz940ni/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט נתקל במקרה הכי קשה בכל העונות. האם הוא יצליח להציל את קפה אגוז? צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_yhz940ni===",
+       "season": "עונה 3"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 11: בר גיורא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea53187adea846d084c544f9dc1d5b91/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_i50yuxau/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע לראשונה לבר. האם המהפך יסתיים במייקאובר או בהנגאובר? | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_i50yuxau===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 12: מה נשתנה?",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/573328673ace42d79004676168f90207/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_3hk6igqo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט חוזר לבקר בהפתעה את המסעדות מכל העונות. מי עמד בגבורה בשינוי ומי בחר בכיוון קצת אחר? | צפו בפרק המלא",
+       "page": "",
+       "id": "--kaltura--1_3hk6igqo===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 2: מסעדה טבעונית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9f6a71b2522c4fd9a4fe3c37459bdba1/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_e3u4kg01/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף נוסע לבירת הטבעונות הישראלית, תל אביב, שם הוא מבקר במסעדת \"הרצוג\" הטבעונית ומתחבר לאידיאולוגיה, לאמא אדמה ולאמא של בעל המסעדה",
+       "page": "",
+       "id": "--kaltura--1_e3u4kg01===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 10: מסעדת בופה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d57d7d46eadb47f186c38da49d9de6e4/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_43irlda6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף מגיע למסעדת בופה, מזדעזע מהבופה ומוצא את עצמו במלחמה בין האב לבן | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_43irlda6===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 9: מפעל הפסטה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/965d817a942d412ea63d2b46f880270b/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_teaxgxem/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף מגיע למפעל פסטה, וסוף סוף נהנה מהאוכל שמוגש לו, אבל נתקל בבעיה אחרת: הבעלים | לצפייה בפרק המלא",
+       "page": "",
+       "id": "--kaltura--0_teaxgxem===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 7: אולם אירועים",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e5f9132a1bbc4f33a71f959215d95fd1/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_9nlkk3k0/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט מגיע לבקר באולם האירועים \"אגדת שיר\" ומגלה שמי שחוגג בו כל יום מחדש הוא הבלגן העצום שנוצר במקום",
+       "page": "",
+       "id": "--kaltura--0_9nlkk3k0===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 6: מסעדה דרוזית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/bca69708265940d3bfce681115ffd62d/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_nbpi830k/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "השף אסף גרניט מגיע לבקר במסעדת מזאג', שם הוא פוגש את פאדי ואת כל בני משפחתו. הוא מחליט לנקוט בצעד יוצא דופן ונעזר בשוקר חשמלי כדי להרחיק אותם מהמטבח",
+       "page": "",
+       "id": "--kaltura--0_nbpi830k===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 4: מחלקת יולדות",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2fef43e9495b47c590f4bebef47ca5b5/version/14/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_ya7sv7sb/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "אסף גרניט יוצא מגבולות המסעדנות ומגיע לבקר במטבח של בית החולים הלל יפה בחדרה, שם הוא מנסה להעניק חיים חדשים למנות שמוגשות לנשים במחלקת היולדות",
+       "page": "",
+       "id": "--kaltura--0_ya7sv7sb===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 8: אוכל ביתי ברמת גן",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9dab339f9a1a4046a9efe848a8d534a9/version/11/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_hgbi3ckz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "האם נמצא בעל המסעדה שיגרום לאסף גרניט להרים ידיים?",
+       "page": "",
+       "id": "--kaltura--0_hgbi3ckz===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 3: מרכז גמילה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b2fb08c4b32e42379384167be8146de9/version/12/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_rv94j5up/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "כשכל העובדים הם מכורים לשעבר, האתגר של אסף גרניט הוא הקשה מכולם. האם הוא יצליח להפוך עולמות ולהשאיר בחיים את המסעדה שמצילה את עובדיה מעצמם?",
+       "page": "",
+       "id": "--kaltura--1_rv94j5up===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 5: אילת",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6bc19f24cae34bb2a3511ce54f4fdf65/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/0_39jmeze5/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "לראשונה ב\"מהפכה במטבח\", אסף עולה על מטוס ונוחת בעיר הדרומית ביותר, אילת! הוא מבקר בבית הקפה השכונתי \"קפה רייצ'ל\", זוכה לחיקוי משעשע בדמותו ומתמודד עם אתגרים חדשים",
+       "page": "",
+       "id": "--kaltura--0_39jmeze5===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "מהפכה במטבח, עונה 4, פרק 1: מסעדה חרדית",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0bde3cdb9bf04ddebe3044050edb676a/version/13/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_03jfstg3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2023-04-03",
+       "plot": "פרק הבכורה של העונה הרביעית נפתח עם ביקורו של אסף גרניט בשכונת מאה שערים בירושלים, במהלכו הוא עוזר למוישל'ה, בעלים של מסעדה חרדית, להציל את המסעדה שלו לפני שהיא נסגרת לחלוטין",
+       "page": "",
+       "id": "--kaltura--1_03jfstg3===",
+       "season": "עונה 4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
