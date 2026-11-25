@@ -8,11 +8,21 @@
    "series_id": "275",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1994801445b9402890f27e1ab58cc2e2/version/3/width/800/height/1200/quality/90",
    "plot": "גיא לרר בתכנית אקטואליה חברתית עם תחקירים, כתבות וסיפורים חמים מהרשת",
-   "updated": "2026-11-24 15:00",
+   "updated": "2026-11-25 01:41",
    "sub_categories": [
     {
      "name": "עונה 1",
      "channels": [
+      {
+       "name": "הצינור 24.11.2026 - התוכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b8f69df7d4464586a0fdb2b76d9a95fb/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ibakpskf/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ibakpskf===",
+       "season": "עונה 1"
+      },
       {
        "name": "הצינור 23.11.2026 - התוכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6faf16a223124908a64d74fabab760c3/version/1/width/1280/height/720/quality/90",

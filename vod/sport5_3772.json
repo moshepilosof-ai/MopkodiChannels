@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3772",
    "series_id": "3772",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807675.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
    "plot": "",
-   "updated": "2026-11-24 15:39",
+   "updated": "2026-11-25 02:12",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "רבע רביעי נהדר לסורקין, מכבי ת\"א חזרה לנצח ביורוליג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12365%26Vi=568818&poster=htt",
+       "season": ""
+      },
       {
        "name": "לא יודעת לקחת: מכבי ת\"א נכנעה 80:74 לדובאי",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807675.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_130226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12091%26Vi=534388&pos",
        "season": ""
-      },
-      {
-       "name": "קלארק להט: מכבי ת\"א גברה 92:93 על הכוכב",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1671601.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_060226/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_MTA_SAL_060226/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12091%26Vi=533732&pos",
-       "season": ""
       }
      ]
     },
     {
      "name": "מכבי ת\"א ביורוליג - 2026/27",
      "channels": [
+      {
+       "name": "רבע רביעי נהדר לסורקין, מכבי ת\"א חזרה לנצח ביורוליג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2026/27"
+      },
       {
        "name": "לא יודעת לקחת: מכבי ת\"א נכנעה 80:74 לדובאי",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807675.jpg",
@@ -2518,6 +2528,16 @@
     {
      "name": "מכבי ת\"א ביורוליג - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
+      {
+       "name": "רבע רביעי נהדר לסורקין, מכבי ת\"א חזרה לנצח ביורוליג",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8",
+       "season": "מכבי ת\"א ביורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
       {
        "name": "לא יודעת לקחת: מכבי ת\"א נכנעה 80:74 לדובאי",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1807675.jpg",
