@@ -1,0 +1,386 @@
+{
+ "categories": [
+  {
+   "name": "רשת 13 - היפה והחנון",
+   "type": "vod",
+   "source": "reshet",
+   "program_url": "653",
+   "series_id": "653",
+   "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5af6cef7d3ef488585714da8db98f78d/version/0/width/800/height/1200/quality/90",
+   "plot": "היפה והחנון היא תוכנית מציאות ישראלית המבוססת על פורמט אמריקאי בו מפגישים בין חבורת גברים חנונים עם כישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישורים חברתיים גבוהים",
+   "updated": "2026-11-25 13:40",
+   "sub_categories": [
+    {
+     "name": "עונה 2",
+     "channels": [
+      {
+       "name": "היפה והחנון, עונה 2, פרק 17",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a11fa7b234e64a36ba1d10a77a0d35c2/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_822hl8tw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-04",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_822hl8tw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 18",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/894ce2ab51e44ed1bfd6692e273330af/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wss689me/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_wss689me===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 16",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/971888cd6aea4d51ae08d65cdde976b7/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uwpta1k4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_uwpta1k4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 15",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/413b358af90248b0a07880035dac6426/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_t5d3ic5q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_t5d3ic5q===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/66fabc719c5e4b5182a0a5942796fa76/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ktjqev05/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_ktjqev05===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/91c368d859ff42f8b2d6d39a7dd75658/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_gkvy54km/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_gkvy54km===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 14",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4562bbff64df4bc09da2fb2914acb50f/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_m5on1632/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_m5on1632===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8569a3f4a7324bd3a7fd29c4a8672e33/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_coztaucw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_coztaucw===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a342aa4190564790aa0993eefd175755/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_o2a5u2yd/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_o2a5u2yd===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/974c078e1cb74d12811271875198e571/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wtnlb8o9/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_wtnlb8o9===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/2c8d3b75936348c285944142adbbd4e6/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ay0wr1l4/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_ay0wr1l4===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a4e18bb735514fad80726ae0dd03b83f/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_egdp5r4o/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_egdp5r4o===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6714ead9095443a795236e787e1bc22a/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_31fw8ax6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_31fw8ax6===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ac362a6f2924e45b9ee04fb48aca627/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_dns8loju/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_dns8loju===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6633c6e0b1ea4099a0e895f8ca206953/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_eat1uzfm/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_eat1uzfm===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3ff664bf4094453bcc9a6d1ea1952b6/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_yyoxnjys/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_yyoxnjys===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/19ebf563a02c4522b3de9d0469f8c1d2/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_l9ai2zdc/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_l9ai2zdc===",
+       "season": "עונה 2"
+      },
+      {
+       "name": "היפה והחנון, עונה 2, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30b3f54391144444b30bad37f5a34471/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4qpcc853/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-28",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_4qpcc853===",
+       "season": "עונה 2"
+      }
+     ]
+    },
+    {
+     "name": "עונה 4",
+     "channels": [
+      {
+       "name": "היפה והחנון, עונה 4, פרק 15",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b38905d967fc408294425185cb14e5d6/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mgtddh76/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_mgtddh76===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 17",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/39df53277fdf4947b446acc8d2107f09/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_lyym9q6t/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_lyym9q6t===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 18",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/09783b724adc48c3bb890dc13107f417/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_sw0yfona/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_sw0yfona===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 14",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/54310479194241c4b84b9d31582372a2/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_wioai0pa/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_wioai0pa===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 13",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e086dbb4f4894bc4afe949b5ddbb0fb6/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_begnc6zt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_begnc6zt===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 16",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/495987e78de6424082d7830e132aa109/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s3a6r75q/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_s3a6r75q===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 9",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8cf89407c2aa49618d46eb185e387659/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_mr95xjjo/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_mr95xjjo===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 12",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/9050232cb93043c88f87026e4bf5bd31/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ydwbawrw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_ydwbawrw===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 10",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/18c3162428b74d42956ba0a3de8b5f88/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ajnl7e1l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_ajnl7e1l===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 11",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/05869eae07684e23a4e7069b470ed7f5/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_z5c5ffcy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים, לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_z5c5ffcy===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 8",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/c2245113275343059e184d1fc1a30e22/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_284281h3/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבוהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_284281h3===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 7",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/89f92ddebbf8471d972e09667bf85de7/version/3/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_cj2tebs6/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-06-29",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_cj2tebs6===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 5",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ad5f8dd1dbd8496b9e2e8c2c5b94d260/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_bi2mox0l/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-15",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_bi2mox0l===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 3",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/4677d1edff844dd9974dbbe08ea9280b/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ijizs5sz/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-14",
+       "plot": "היפה והחנון , תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_ijizs5sz===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 6",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b7e30456bfcd4db38388de6acd1f4373/version/4/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_j0qdegzp/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-14",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_j0qdegzp===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 2",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/abd09d4849cd41d4a9dde195a2265b14/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_uccey9ib/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-14",
+       "plot": "היפה והחנון , תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים.",
+       "page": "",
+       "id": "--kaltura--1_uccey9ib===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 4",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/0eb61887046347aab7a238a1922b0cf5/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_2xdeb5lt/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-14",
+       "plot": "תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים",
+       "page": "",
+       "id": "--kaltura--1_2xdeb5lt===",
+       "season": "עונה 4"
+      },
+      {
+       "name": "היפה והחנון, עונה 4, פרק 1",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5ac2b63ef8b343308d3e092a1e651407/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ef5vi4uw/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-10-14",
+       "plot": "היפה והחנון , תוכנית מציאות המפגישה חבורת גברים חנונים בעלי אינטלגציה גבוהה וכישורים חברתיים נמוכים , לבין חבורת נשים יפות בעלות כישוריים חברתיים גבווהים וחסרות ידע כללי בתחומים בסיסיים.",
+       "page": "",
+       "id": "--kaltura--1_ef5vi4uw===",
+       "season": "עונה 4"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

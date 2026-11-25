@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fpremier-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fpremier-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294147",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1288877",
    "plot": "",
-   "updated": "2026-11-25 02:41",
+   "updated": "2026-11-25 14:48",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: ליברפול – מנצ'סטר יונייטד 0:4",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294147",
+       "name": "תקציר: פורטסמות' – ווסטהאם 0:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1288877",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121794/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2005846/",
+       "season": ""
+      },
+      {
+       "name": "צפו: פרץ ספג בדקה ה-90, סאות'המפטון סיימה ב-1:1 מול שפילד יונייטד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1288367",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121793/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2005840/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: ליברפול השפילה 0:4 את מנצ'סטר יונייטד בבכורה של פוצ'טינו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294147",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121288/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/2002916/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: ניוקאסל – ארסנל 1:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293958",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120897/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2002906/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: ניוקאסל – ארסנל 1:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293953",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120889/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2002878/",
        "season": ""
       }
      ]

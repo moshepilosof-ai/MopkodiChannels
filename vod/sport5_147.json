@@ -6,13 +6,43 @@
    "source": "sport5",
    "program_url": "147",
    "series_id": "147",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1810002.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1810119.png",
    "plot": "",
-   "updated": "2026-11-25 01:50",
+   "updated": "2026-11-25 13:53",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "מושלמת בגביע: 101:120 לדאלאס מול דנבר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1810119.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DEN_DAL/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DEN_DAL/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568921&poster=https://",
+       "season": ""
+      },
+      {
+       "name": "ללא קנינגהאם: דטרויט הביסה את אורלנדו",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1810117.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/_HLSVideo_8068101_recap27_DETORL_0052_RAW_179557990706/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/_HLSVideo_8068101_recap27_DETORL_0052_RAW_179557990706/HLS/playlist.m3u8&live=False&referrer=https://vod.sport",
+       "season": ""
+      },
+      {
+       "name": "41 לטייטום, בוסטון ניצחה את וושינגטון",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1810113.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/_HLSVideo_8068217_recap27_BOSWAS_0053_RAW_179558224854/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/_HLSVideo_8068217_recap27_BOSWAS_0053_RAW_179558224854/HLS/playlist.m3u8&live=False&referrer=https://vod.sport",
+       "season": ""
+      },
       {
        "name": "בלינגהאם כבש שער אדיר, ריאל רמסה את פ.ס.וו",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1810002.jpg",
@@ -181,36 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/PORPHIL_NEW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568772&poster=https://",
-       "season": ""
-      },
-      {
-       "name": "רבע רביעי נהדר לסורקין, מכבי ת\"א חזרה לנצח ביורוליג",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568818&poster=https",
-       "season": ""
-      },
-      {
-       "name": "מקדניאלס להט: 116:142 למינסוטה על ברוקלין",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809621.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNMIN_0291_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_BKNMIN_0291_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568775&pos",
-       "season": ""
-      },
-      {
-       "name": "ללא וומבי: הספרס ניצחו את בקרמנטו 107:123",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1809619.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SASSAC_0296_RAW/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/recap27_SASSAC_0296_RAW/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=147%26Vi=568781&pos",
        "season": ""
       }
      ]
