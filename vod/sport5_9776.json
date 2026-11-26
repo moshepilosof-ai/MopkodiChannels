@@ -6,13 +6,43 @@
    "source": "sport5",
    "program_url": "9776",
    "series_id": "9776",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1810505.png",
    "plot": "",
-   "updated": "2026-11-25 14:21",
+   "updated": "2026-11-26 01:55",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "תבוסה קשה: 79:104 לאולימפיאקוס על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1810505.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_SAL_251126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_SAL_251126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=568938&poster=",
+       "season": ""
+      },
+      {
+       "name": "פנר גברה על שאחטר בסטמפורד ברידג`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1810553.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/13-13N_VO_FENER_251126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/13-13N_VO_FENER_251126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=568929&po",
+       "season": ""
+      },
+      {
+       "name": "71:84 לפרטיזן בלגרד על דובאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1810513.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DUBAI_PARTIZAN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DUBAI_PARTIZAN/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=568928&poster",
+       "season": ""
+      },
       {
        "name": "רבע רביעי נהדר לסורקין, מכבי ת\"א חזרה לנצח ביורוליג",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
@@ -182,42 +212,42 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=567346&p",
        "season": ""
-      },
-      {
-       "name": "עודד קטש לאחר הניצחון בדרבי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803767.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KATASH_SY1_179452073942/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/KATASH_SY1_179452073942/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=567374&p",
-       "season": ""
-      },
-      {
-       "name": "פרוצ'ידה כיכב: ריאל מדריד ניצחה את הכוכב האדום",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1803782.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=567344&poster=https:",
-       "season": ""
-      },
-      {
-       "name": "ממשיכה לדהור: ולנסיה ניצחה את באיירן 87:102",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803718.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12369%26Vi=567342&poster=https",
-       "season": ""
       }
      ]
     },
     {
      "name": "יורוליג - 2026/27",
      "channels": [
+      {
+       "name": "תבוסה קשה: 79:104 לאולימפיאקוס על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1810505.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_SAL_251126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_SAL_251126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
+      {
+       "name": "פנר גברה על שאחטר בסטמפורד ברידג`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1810553.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/13-13N_VO_FENER_251126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/13-13N_VO_FENER_251126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
+      {
+       "name": "71:84 לפרטיזן בלגרד על דובאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1810513.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DUBAI_PARTIZAN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DUBAI_PARTIZAN/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27"
+      },
       {
        "name": "רבע רביעי נהדר לסורקין, מכבי ת\"א חזרה לנצח ביורוליג",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
@@ -386,36 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "עודד קטש לאחר הניצחון בדרבי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803767.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KATASH_SY1_179452073942/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KATASH_SY1_179452073942/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "פרוצ'ידה כיכב: ריאל מדריד ניצחה את הכוכב האדום",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1803782.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27"
-      },
-      {
-       "name": "ממשיכה לדהור: ולנסיה ניצחה את באיירן 87:102",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803718.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
        "season": "יורוליג - 2026/27"
       }
      ]
@@ -2474,6 +2474,36 @@
      "name": "יורוליג - 2026/27 - 2026/27 - עונה סדירה",
      "channels": [
       {
+       "name": "תבוסה קשה: 79:104 לאולימפיאקוס על הפועל ת\"א",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/5/Size272x202/1810505.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_SAL_251126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_HTA_SAL_251126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "פנר גברה על שאחטר בסטמפורד ברידג`",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1810553.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/13-13N_VO_FENER_251126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/13-13N_VO_FENER_251126/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
+       "name": "71:84 לפרטיזן בלגרד על דובאי",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size272x202/1810513.png",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DUBAI_PARTIZAN/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_DUBAI_PARTIZAN/HLS/playlist.m3u8",
+       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
+      },
+      {
        "name": "רבע רביעי נהדר לסורקין, מכבי ת\"א חזרה לנצח ביורוליג",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size272x202/1809931.jpg",
        "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_MTA_241126/HLS/playlist.m3u8",
@@ -2641,36 +2671,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_DERBI_SAL_121126/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "עודד קטש לאחר הניצחון בדרבי",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1803767.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KATASH_SY1_179452073942/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/KATASH_SY1_179452073942/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "פרוצ'ידה כיכב: ריאל מדריד ניצחה את הכוכב האדום",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1803782.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/tak_rma_zve/HLS/playlist.m3u8",
-       "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
-      },
-      {
-       "name": "ממשיכה לדהור: ולנסיה ניצחה את באיירן 87:102",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1803718.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_VALENCIA/HLS/playlist.m3u8",
        "season": "יורוליג - 2026/27 - 2026/27 - עונה סדירה"
       }
      ]

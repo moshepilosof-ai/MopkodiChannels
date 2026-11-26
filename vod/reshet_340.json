@@ -8,11 +8,21 @@
    "series_id": "340",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d3e36d8b903447a2952e75c94a6fa47a/version/0/width/800/height/1200/quality/90",
    "plot": "חדשות 13 | אזור בחירה - תוכנית אקטואליה פוליטית יומית בהגשת רביב דרוקר. כל ערב ב-19:00 בערוץ 13",
-   "updated": "2026-11-25 13:45",
+   "updated": "2026-11-26 01:22",
    "sub_categories": [
     {
      "name": "התוכניות המלאות",
      "channels": [
+      {
+       "name": "אזור בחירה 25.11.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/14b6bdbce03e46b6959ad45373510f69/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_9r8pcacx/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-25",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_9r8pcacx===",
+       "season": "התוכניות המלאות"
+      },
       {
        "name": "אזור בחירה 23.11.26 - התכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/633ad0604e2b4c7bb0adf9f08d2f8fb3/version/1/width/1280/height/720/quality/90",

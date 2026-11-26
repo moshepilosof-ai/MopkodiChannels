@@ -1,20 +1,30 @@
 {
  "categories": [
   {
-   "name": "i24news - 7 שרון גל",
+   "name": "i24news - 7 נדב אלימלך",
    "type": "vod",
    "source": "i24news",
-   "program_url": "action%3Dseasons_univtec%26series_id%3D69dd53db08729d93535c6f66%26show_name%3D7%2B%25D7%25A9%25D7%25A8%25D7%2595%25D7%259F%2B%25D7%2592%25D7%259C",
+   "program_url": "action%3Dseasons_univtec%26series_id%3D69dd53db08729d93535c6f66%26show_name%3D7%2B%25D7%25A0%25D7%2593%25D7%2591%2B%25D7%2590%25D7%259C%25D7%2599%25D7%259E%25D7%259C%25D7%259A",
    "series_id": "action_3Dseasons_univtec_26series_id_3D69dd53db08729d93535c6",
-   "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/b99fcb26-67c9-44f9-a7b4-f1f1ae30e5c6.jpeg",
-   "plot": "שרון גל – החדשות, הדעות והאנשים שמעצבים את המציאות. ישיר, חד וללא פילטרים – כל ערב בשבע.",
-   "updated": "2026-11-25 13:51",
+   "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/uploaded/99709729-fac9-45aa-ba65-0775dbe45193.jpeg",
+   "plot": "נדב אלימלך – החדשות, הדעות והאנשים שמעצבים את המציאות. ישיר, חד וללא פילטרים – כל ערב בשבע.",
+   "updated": "2026-11-26 01:28",
    "sub_categories": [
     {
      "name": "נובמבר 2026",
      "channels": [
       {
-       "name": "7 שרון גל 24-11-26",
+       "name": "7 נדב אלימלך 25-11-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71378908111.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/54bd169e-0295-4cfc-a5c9-4d3c2ddd44a8/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/54bd169e-0295-4cfc-a5c9-4d3c2ddd44a8/hls/master.m3u8",
+       "season": "נובמבר 2026"
+      },
+      {
+       "name": "7 נדב אלימלך 24-11-26",
        "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71348330505.jpg",
        "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/e6f073d2-cf70-44e5-a973-9ad3d8e1eede/hls/master.m3u8",
        "date": "",

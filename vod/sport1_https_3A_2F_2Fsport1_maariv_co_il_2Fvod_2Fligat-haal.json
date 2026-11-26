@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fligat-haal",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fligat-haal",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294465",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294478",
    "plot": "",
-   "updated": "2026-11-25 14:48",
+   "updated": "2026-11-26 02:21",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
+       "name": "מיגל ויטור, רן קוז'וך, הפועל באר שבע",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294478",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121928/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/2006178/",
+       "season": ""
+      },
+      {
        "name": "תיקתקנו, 25.11",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294465",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294465",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/israeli-soccer/ligat-haal/video/1993119/",
-       "season": ""
-      },
-      {
-       "name": "צפו: אלקוקין כבש בדקה ה-91 ונתן להפועל ת\"א 0:1 דרמטי מול הפועל ב\"ש",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1292306",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4117672/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/1992787/",
        "season": ""
       }
      ]
