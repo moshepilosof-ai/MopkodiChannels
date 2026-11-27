@@ -8,11 +8,21 @@
    "series_id": "546",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/d286e775183f49868c129fbe56453801/version/0/width/800/height/1200/quality/90",
    "plot": "לוסי אהריש חוזרת לחדשות 13 עם תוכנית אקטואליה יומית ומעמיקה בנושאים שחייבים לדבר עליהם",
-   "updated": "2026-11-26 13:33",
+   "updated": "2026-11-27 01:21",
    "sub_categories": [
     {
      "name": "התוכניות המלאות",
      "channels": [
+      {
+       "name": "שיחת היום 26.11.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5a356673246b4794bfcab139a2a4f0ff/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_jp7km2k2/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_jp7km2k2===",
+       "season": "התוכניות המלאות"
+      },
       {
        "name": "שיחת היום 25.11.26 - התכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/dff16bfb13a548f9ae7aec4114c8a6c7/version/0/width/1280/height/720/quality/90",

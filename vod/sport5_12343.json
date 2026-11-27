@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "12343",
    "series_id": "12343",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1809706.png",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1810782.jpg",
    "plot": "",
-   "updated": "2026-11-26 14:21",
+   "updated": "2026-11-27 02:09",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "כל חדשות היום במקום אחד: צפו במבזק של חמש באוויר",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size272x202/1810782.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_261126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/MIVZAK_261126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=569095&poster=http",
+       "season": ""
+      },
       {
        "name": "רביבו בראיון מיוחד: \"שווה לתת צ'אנס לברקוביץ' בנבחרת\"",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size272x202/1809706.png",
@@ -201,16 +211,6 @@
        "plot": "",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/REVIVO_HAIM_RADIO_220926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=561400&",
-       "season": ""
-      },
-      {
-       "name": "סוכן השחקנים עידן בן אבו: \"קשה להוציא שחקנים לאירופה\"",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1778719.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_IDAN_BEN_ABU_220926/HLS/playlist.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/INT_IDAN_BEN_ABU_220926/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12343%26Vi=561399&p",
        "season": ""
       }
      ]

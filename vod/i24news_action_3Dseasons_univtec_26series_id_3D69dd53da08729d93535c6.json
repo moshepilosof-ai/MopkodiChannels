@@ -8,11 +8,21 @@
    "series_id": "action_3Dseasons_univtec_26series_id_3D69dd53da08729d93535c6",
    "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/e2dd17c8-a070-4ad0-900e-d7f930c67a14.jpeg",
    "plot": "סיון סיסאי ונדב אלימלך עם החדשות והכותרות המרכזיות של היום, הסיפורים המעניינים ועם פאנל הפרשנים והכתבים של i24NEWS",
-   "updated": "2026-11-26 13:40",
+   "updated": "2026-11-27 01:28",
    "sub_categories": [
     {
      "name": "נובמבר 2026",
      "channels": [
+      {
+       "name": "מהדורת 15 26-11-26",
+       "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71409085201.jpg",
+       "url": "https://i24israel.vod.immergo.tv/i24israel/transcoded/70ff1441-4f3d-4046-bd2d-adee0584e8ef/hls/master.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://i24israel.vod.immergo.tv/i24israel/transcoded/70ff1441-4f3d-4046-bd2d-adee0584e8ef/hls/master.m3u8",
+       "season": "נובמבר 2026"
+      },
       {
        "name": "מהדורת 15 25-11-26",
        "logo": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71374749313.jpg",

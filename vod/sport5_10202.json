@@ -8,7 +8,7 @@
    "series_id": "10202",
    "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1810677.jpg",
    "plot": "",
-   "updated": "2026-11-26 14:04",
+   "updated": "2026-11-27 01:51",
    "sub_categories": [
     {
      "name": "פרקים",
@@ -16,11 +16,11 @@
       {
        "name": "ערב ענק לאבדיה: פורטלנד גברה על הספרס",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/1810677.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/Avdija_TopPlays/HLS/playlist.m3u8",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PORTLAND_SPURS/HLS/playlist.m3u8",
        "date": "",
        "plot": "",
        "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/Avdija_TopPlays/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=569052&poster=ht",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/TAK_PORTLAND_SPURS/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=10202%26Vi=569052&poster",
        "season": ""
       },
       {

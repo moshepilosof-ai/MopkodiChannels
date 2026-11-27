@@ -8,11 +8,21 @@
    "series_id": "294",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/748f232cdc6347bc97a92394b83375fd/version/15/width/800/height/1200/quality/90",
    "plot": "תוכנית סיכום היום: הכותרות הבולטות, הסיפורים החשובים והעדכונים האחרונים",
-   "updated": "2026-11-26 13:34",
+   "updated": "2026-11-27 01:23",
    "sub_categories": [
     {
      "name": "התוכניות המלאות",
      "channels": [
+      {
+       "name": "היום שהיה 26.11.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f04aba98fe144294b3865d71cdfc50e9/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_0ui8ldsy/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-26",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_0ui8ldsy===",
+       "season": "התוכניות המלאות"
+      },
       {
        "name": "היום שהיה 25.11.26 - התכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6c977ce2446c4c34a5d83a2f13234ea7/version/0/width/1280/height/720/quality/90",

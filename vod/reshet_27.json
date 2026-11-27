@@ -8,11 +8,21 @@
    "series_id": "27",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/5e2b421e70324b289985f22bce8e6b44/version/0/width/800/height/1200/quality/90",
    "plot": "תוכנית תחקירים בהגשת רביב דרוקר. התוכנית זכתה בפרסי האקדמיה לטלוויזיה.",
-   "updated": "2026-11-26 13:27",
+   "updated": "2026-11-27 01:16",
    "sub_categories": [
     {
      "name": "עונה 25",
      "channels": [
+      {
+       "name": "המקור, עונה 25, פרק 11: הסודות מאחורי הרב הינוקא",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b3f4f3ef218e4f41a260b0f7287037b8/version/2/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_606j96ye/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-26",
+       "plot": "מה מסתתר מאחורי תופעת הרב הינוקא? תחקיר \"המקור\" חושף את תעשיית הניסים של הרב שסחף מדינה שלמה, ובודק מה קורה למי שמעז לצאת נגדו | \"המקור\", לצפייה ישירה",
+       "page": "",
+       "id": "--kaltura--1_606j96ye===",
+       "season": "עונה 25"
+      },
       {
        "name": "המקור, עונה 25, פרק 10: הגיבורים שחצו את הגבול",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/a58686663acb4157822554270c8f1601/version/7/width/1280/height/720/quality/90",
