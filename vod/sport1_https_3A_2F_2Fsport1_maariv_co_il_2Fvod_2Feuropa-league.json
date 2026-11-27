@@ -6,16 +6,56 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Feuropa-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Feuropa-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294184",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294638",
    "plot": "",
-   "updated": "2026-11-27 02:20",
+   "updated": "2026-11-27 14:28",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
+       "name": "תקציר: סלטה ויגו – בורנמות' 2:1",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294638",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122221/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2007451/",
+       "season": ""
+      },
+      {
+       "name": "צפו: 10 דקות לחלאילי, קריסטל פאלאס רשמה מהפך דרמטי ו-1:2 על סוסיאדד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294656",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122220/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2007447/",
+       "season": ""
+      },
+      {
+       "name": "צפו: יובנטוס הפכה פיגור מוקדם ל-1:4 גדול על אומוניה ניקוסיה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294675",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122222/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2007438/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מילאן חזרה מפיגור 2:0 ל-2:4 מטורף על אולימפיאקוס בחוץ",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294639",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122219/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2007431/",
+       "season": ""
+      },
+      {
        "name": "ציון 3 עונה 1 פרק 92",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294184",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294184",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120607/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -61,46 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/europa-league/video/1951594/",
-       "season": ""
-      },
-      {
-       "name": "צפו: חלאילי ופאלאס פתחו את הליגה האירופית עם 0:4 מוחץ מול לך פוזנן",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285786",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102675/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/europa-league/video/1951407/",
-       "season": ""
-      },
-      {
-       "name": "ירמי פינו מעלה את קריסטל פלאס ליתרון נגד לך פוזנאן",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285031",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102669/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/europa-league/video/1951378/",
-       "season": ""
-      },
-      {
-       "name": "צפו: מילאן פתחה את הליגה האירופאית עם הפסד היסטורי לבנפיקה בסן סירו",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285652",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4102287/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/europa-league/video/1950930/",
-       "season": ""
-      },
-      {
-       "name": "תקציר: לאציו – מילאן 2:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1285652",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4100417/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/europa-league/video/1950646/",
        "season": ""
       }
      ]

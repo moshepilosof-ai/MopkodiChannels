@@ -6,16 +6,66 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294643",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294093",
    "plot": "",
-   "updated": "2026-11-27 02:20",
+   "updated": "2026-11-27 14:28",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
+       "name": "תקציר: פרייבורג – טוונטה 1:2",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294093",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122218/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/%d7%a7%d7%95%d7%a0%d7%a4%d7%a8%d7%a0%d7%a1-%d7%9c%d7%99%d7%92/video/2007452/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מהפך מדהים בעשרה שחקנים ו-1:2 לבורנמות' בחוץ על סלטה ויגו",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294638",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122221/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2007451/",
+       "season": ""
+      },
+      {
+       "name": "צפו: 10 דקות לחלאילי, קריסטל פאלאס רשמה מהפך דרמטי ו-1:2 על סוסיאדד",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294656",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122220/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2007447/",
+       "season": ""
+      },
+      {
+       "name": "צפו: יובנטוס הפכה פיגור מוקדם ל-1:4 גדול על אומוניה ניקוסיה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294675",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122222/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2007438/",
+       "season": ""
+      },
+      {
+       "name": "צפו: מילאן חזרה מפיגור 2:0 ל-2:4 מטורף על אולימפיאקוס בחוץ",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294639",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122219/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/europa-league/video/2007431/",
+       "season": ""
+      },
+      {
        "name": "מהומה ביציעי אוהדי בשיקטאש נגד הפועל באר שבע",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294643",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294643",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122196/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -51,56 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/europa-league/video/2004110/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: מילאן הביסה 1:5 את פרוזינונה והתבססה בצמרת",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294166",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121306/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/2004059/",
-       "season": ""
-      },
-      {
-       "name": "צפו: מילאן הביסה 1:5 את פרוזינונה והתבססה בצמרת",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294166",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121293/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/serie-a/video/2004039/",
-       "season": ""
-      },
-      {
-       "name": "צפו: ורדר ברמן חזרה לנצח עם 0:4 גדול על המבורג",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294155",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121291/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/german-league/video/2004014/",
-       "season": ""
-      },
-      {
-       "name": "צפו בתקציר: ליברפול השפילה 0:4 את מנצ'סטר יונייטד בבכורה של פוצ'טינו",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294147",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121288/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2003994/",
-       "season": ""
-      },
-      {
-       "name": "צפו: ליברפול חוגגת עם 0:3 מול מנצ'סטר יונייטד בבכורה של פוצ'טינו",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294147",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121272/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2003939/",
        "season": ""
       }
      ]

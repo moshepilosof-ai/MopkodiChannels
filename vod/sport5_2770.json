@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "2770",
    "series_id": "2770",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1809669.jpg",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1811080.jpg",
    "plot": "",
-   "updated": "2026-11-27 02:09",
+   "updated": "2026-11-27 14:16",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "יציע העיתונות, 26.11.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1811080.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740653/HLS/playlist.m3u8",
+       "date": "2026-11-26",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740653/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=569195&poster=https://",
+       "season": ""
+      },
       {
        "name": "יציע העיתונות, 23.11.26",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1809669.jpg",
@@ -202,22 +212,22 @@
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740632/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=564341&poster=https://",
        "season": ""
-      },
-      {
-       "name": "יציע העיתונות, 16.10.26",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1789539.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740631/HLS/playlist.m3u8",
-       "date": "2026-10-16",
-       "plot": "",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740631/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=12344%26Vi=563993&poster=https://",
-       "season": ""
       }
      ]
     },
     {
      "name": "יציע העיתונות - 2026/27",
      "channels": [
+      {
+       "name": "יציע העיתונות, 26.11.26",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1811080.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740653/HLS/playlist.m3u8",
+       "date": "2026-11-26",
+       "plot": "",
+       "page": "",
+       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740653/HLS/playlist.m3u8",
+       "season": "יציע העיתונות - 2026/27"
+      },
       {
        "name": "יציע העיתונות, 23.11.26",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1809669.jpg",
@@ -406,16 +416,6 @@
        "plot": "",
        "page": "",
        "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740632/HLS/playlist.m3u8",
-       "season": "יציע העיתונות - 2026/27"
-      },
-      {
-       "name": "יציע העיתונות, 16.10.26",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size272x202/1789539.jpg",
-       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740631/HLS/playlist.m3u8",
-       "date": "2026-10-16",
-       "plot": "",
-       "page": "",
-       "id": "https://sport5api.akamaized.net/Redirector/sport5/manifest/HSP740631/HLS/playlist.m3u8",
        "season": "יציע העיתונות - 2026/27"
       }
      ]

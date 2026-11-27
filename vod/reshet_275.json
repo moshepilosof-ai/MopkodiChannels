@@ -8,7 +8,7 @@
    "series_id": "275",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/1994801445b9402890f27e1ab58cc2e2/version/3/width/800/height/1200/quality/90",
    "plot": "גיא לרר בתכנית אקטואליה חברתית עם תחקירים, כתבות וסיפורים חמים מהרשת",
-   "updated": "2026-11-27 01:20",
+   "updated": "2026-11-27 13:26",
    "sub_categories": [
     {
      "name": "עונה 1",
@@ -425,7 +425,7 @@
       },
       {
        "name": "הצינור 25.08.2026 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/416626f7c26f43caaff8167b5b836b4b/version/37/width/1280/height/720/quality/90",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/416626f7c26f43caaff8167b5b836b4b/version/38/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_62c3a7u6/format/applehttp/protocol/https/a.m3u8",
        "date": "2026-08-26",
        "plot": "",
@@ -1544,6 +1544,16 @@
        "season": "עונה 1"
       },
       {
+       "name": "הצינור 28.01.2026 - התוכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e10f055fe39d49c7b2b216f11ff90d57/version/124/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4tbettll/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-01-29",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_4tbettll===",
+       "season": "עונה 1"
+      },
+      {
        "name": "הצינור 27.01.2026 - התוכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/749bf8968ec548aa96ca0b16614b87c8/version/126/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_no3q3ta6/format/applehttp/protocol/https/a.m3u8",
@@ -2034,16 +2044,6 @@
        "season": "עונה 1"
       },
       {
-       "name": "הצינור 4.11.2025 - התוכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/135a261ab94245e58603461386761306/version/171/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_1cdkissw/format/applehttp/protocol/https/a.m3u8",
-       "date": "2025-11-05",
-       "plot": "",
-       "page": "",
-       "id": "--kaltura--1_1cdkissw===",
-       "season": "עונה 1"
-      },
-      {
        "name": "הצינור 03.11.2025 התוכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/6775d16469e04a07893b1d53a308df63/version/174/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ovzqxcoq/format/applehttp/protocol/https/a.m3u8",
@@ -2531,6 +2531,16 @@
        "plot": "",
        "page": "",
        "id": "--kaltura--1_60y1svdw===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הצינור 13.07.2025 - התוכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/8bfaf10235644153ad23d47ef508de9c/version/266/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_ohwer3my/format/applehttp/protocol/https/a.m3u8",
+       "date": "2025-07-14",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_ohwer3my===",
        "season": "עונה 1"
       },
       {
@@ -4534,16 +4544,6 @@
        "season": "עונה 1"
       },
       {
-       "name": "הצינור 18.06.24 - התכנית המלאה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/ea5a9f3a258a48c7a8bfc0f02bbf656d/version/683/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_s6mfiz2h/format/applehttp/protocol/https/a.m3u8",
-       "date": "2024-06-19",
-       "plot": "",
-       "page": "",
-       "id": "--kaltura--1_s6mfiz2h===",
-       "season": "עונה 1"
-      },
-      {
        "name": "הצינור 16.06.24 - התכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/41b285c2e1e845e5af5c1ddf68bf5fd3/version/686/width/1280/height/720/quality/90",
        "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_icckd36p/format/applehttp/protocol/https/a.m3u8",
@@ -5521,6 +5521,16 @@
        "plot": "",
        "page": "",
        "id": "--kaltura--1_ykcdn970===",
+       "season": "עונה 1"
+      },
+      {
+       "name": "הצינור 3.1.24 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/f03d5a8d0ac44a6299db0a697cf2874a/version/893/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_nci2fsj1/format/applehttp/protocol/https/a.m3u8",
+       "date": "2024-01-04",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_nci2fsj1===",
        "season": "עונה 1"
       },
       {
@@ -7561,16 +7571,6 @@
        "plot": "גיא לרר בתכנית אקטואליה חברתית עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. והפעם: רגב הוד באולפן אחרי שידור הפרק של המועצה הדרמטית ששלחה אותו לדו קרב מול אלינה, והחלק הראשון של כתבתו של בר שם-אור על פרופ' יורם לס והביקורת על התנהלותו בזמן מגפת הפוליו. התכנית המלאה לצפייה ישירה",
        "page": "",
        "id": "--kaltura--1_qij5vx7c===",
-       "season": "עונה 1"
-      },
-      {
-       "name": "הצינור 09.08.20 התוכנית המלאה | אסי נגד אלה",
-       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/de8722d2be934087afd8baa350ca947a/version/1073/width/1280/height/720/quality/90",
-       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_5wseipu8/format/applehttp/protocol/https/a.m3u8",
-       "date": "2023-04-03",
-       "plot": "גיא לרר בתכנית אקטואליה חברתית עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. והפעם: רגב הוד מספר על הדילמה בהישרדות ועל המתווה החדש של עולם התרבות, ריאיון עם נסים קריספיל חוקר הקנאביס שנכלא וביקש להישאר בכלא, ספי עובדיה עם עדכוני תקציב המדינה, הילה אלרואי עם עדכוני המאבק בקורונה, ולמה אסי בוזגלו הסיר עוקב מבת בריתו אלה איילון? התכנית המלאה לצפייה ישירה",
-       "page": "",
-       "id": "--kaltura--1_5wseipu8===",
        "season": "עונה 1"
       },
       {
