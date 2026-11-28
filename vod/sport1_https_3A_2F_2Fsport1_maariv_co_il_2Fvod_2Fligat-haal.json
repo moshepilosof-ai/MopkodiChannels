@@ -6,16 +6,66 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fligat-haal",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fligat-haal",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1289192",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294644",
    "plot": "",
-   "updated": "2026-11-27 14:28",
+   "updated": "2026-11-28 13:56",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
+       "name": "עימות בין אוהדי הפועל באר שבע לאוהדים טורקים בשדה התעופה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294644",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122346/hls/406x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/2008168/",
+       "season": ""
+      },
+      {
+       "name": "שחקני הפועל באר שבע בשדה התעופה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294756",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122339/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/2008148/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ספנס הבקיע שער נהדר, מכבי פתח תקוה היממה עם 0:2 מול הפועל תל אביב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294696",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122280/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/2007678/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ספנס הבקיע שער נהדר, מכבי פתח תקוה היממה עם 0:2 מול הפועל תל אביב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294696",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122274/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/2007645/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ללינדאל שגה, חדידה העלה את מכבי פתח תקוה ליתרון מול הפועל תל אביב",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294693",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122263/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/israeli-soccer/ligat-haal/video/2007619/",
+       "season": ""
+      },
+      {
        "name": "תיקתקנו, 27.11",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1289192",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1289192",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122215/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -51,56 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/israeli-soccer/ligat-haal/video/2007135/",
-       "season": ""
-      },
-      {
-       "name": "מהומה ביציעי אוהדי בשיקטאש נגד הפועל באר שבע",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1291211",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122179/hls/1278x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/2007090/",
-       "season": ""
-      },
-      {
-       "name": "מיגל ויטור, רן קוז'וך, הפועל באר שבע",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294478",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121928/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/2006178/",
-       "season": ""
-      },
-      {
-       "name": "תיקתקנו, 25.11",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294465",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/2979578/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/2006116/",
-       "season": ""
-      },
-      {
-       "name": "תיקתקנו, 23.11",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294253",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121474/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/2004663/",
-       "season": ""
-      },
-      {
-       "name": "תיקתקנו, 19.11",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293746",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120582/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/israeli-soccer/ligat-haal/video/2001587/",
        "season": ""
       }
      ]

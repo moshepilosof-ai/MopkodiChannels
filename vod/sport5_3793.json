@@ -6,13 +6,23 @@
    "source": "sport5",
    "program_url": "3793",
    "series_id": "3793",
-   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1682088.png",
+   "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1811350.jpg",
    "plot": "",
-   "updated": "2026-11-27 14:25",
+   "updated": "2026-11-28 13:53",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
+      {
+       "name": "נבחרת ישראל ניצחה 84:90 את נבחרת הולנד",
+       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size272x202/1811350.jpg",
+       "url": "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_271126/HLS/playlist.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "https://watch.sport5.co.il?src=https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_NIVHERET_271126/HLS/playlist.m3u8&live=False&referrer=https://vod.sport5.co.il/?Vc=3793%26Vi=569207&pos",
+       "season": ""
+      },
       {
        "name": "בשורות טובות: 54:83 לישראל מול קפריסין",
        "logo": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size272x202/1682088.png",
@@ -201,16 +211,6 @@
        "plot": "הנבחרת מושלמת אחרי שני משחקים ביורובאסקט. והפעם: 66:79 על הפינים",
        "page": "",
        "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/30/51/30514c2d-522a-40a8-843a-be46eb3c775e/0609152036_tak_israel_vs_finland_060915_,140,80,55,35,110,0k.mp4.csmil/master.",
-       "season": ""
-      },
-      {
-       "name": "הירואי: צפו בניצחון של ישראל על רוסיה",
-       "logo": "https://www.sport5.co.il/Sip_Storage/FILES/7/Size272x202/544977.jpg",
-       "url": "https://sport5-vh.akamaihd.net/i/video/delivery/61/88/6188daa0-5d41-489b-9590-a44f36b8d007/0509152041_tak_israel_russia_,110,55,35,140,80,0k.mp4.csmil/master.m3u8",
-       "date": "",
-       "plot": "21 נקודות של כספי הובילו את הנבחרת ל-73:76 ענק בפתיחת היורובאסקט",
-       "page": "",
-       "id": "https://watch.sport5.co.il?src=https://sport5-vh.akamaihd.net/i/video/delivery/61/88/6188daa0-5d41-489b-9590-a44f36b8d007/0509152041_tak_israel_russia_,110,55,35,140,80,0k.mp4.csmil/master.m3u8&live=F",
        "season": ""
       }
      ]

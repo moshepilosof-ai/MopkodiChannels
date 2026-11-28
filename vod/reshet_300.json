@@ -8,11 +8,21 @@
    "series_id": "300",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/e8dcfa9987df453a844b96a86526dbde/version/14/width/800/height/1200/quality/90",
    "plot": "המגזין עם נגה ניר נאמן - תוכנית חדשות ואקטואליה שבועית בערוץ 13 - כל תוכניות המגזין עם נגה ניר נאמן לצפייה ישירה",
-   "updated": "2026-11-27 13:30",
+   "updated": "2026-11-28 12:58",
    "sub_categories": [
     {
      "name": "התוכניות המלאות",
      "channels": [
+      {
+       "name": "המגזין 27.11.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/53623133411041fa8743a090a45f231d/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_c7nb4psg/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_c7nb4psg===",
+       "season": "התוכניות המלאות"
+      },
       {
        "name": "המגזין 20.11.26 - התכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/df6baa7767fe4e438324ecd2ccd9b9cf/version/1/width/1280/height/720/quality/90",

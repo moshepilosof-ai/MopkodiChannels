@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fpremier-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fpremier-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1288877",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294738",
    "plot": "",
-   "updated": "2026-11-27 14:28",
+   "updated": "2026-11-28 13:56",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: פורטסמות' – ווסטהאם 0:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1288877",
+       "name": "תקציר ליגה אנגלית: נוטינגהאם פורסט – צ'לסי 2:3",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294738",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122323/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2007964/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: ווסטהאם שוב אכזבה והפסידה 1:0 לפורטסמות', 69 דקות לסולומון",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1288877",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121794/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/2003009/",
-       "season": ""
-      },
-      {
-       "name": "צפו בשערים: ארסנל נחלצה מהפסד מפתיע וסחטה 2:2 בניוקאסל",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1293959",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120906/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2002916/",
        "season": ""
       }
      ]

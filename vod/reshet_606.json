@@ -8,11 +8,21 @@
    "series_id": "606",
    "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/b63a4524433f4d1ca654b96fecbe9367/version/1/width/800/height/1200/quality/90",
    "plot": "מקבלים את השבת במגזין סיכום השבוע של אריק וייס, עם כל העדכונים, החדשות והסיפורים המרגשים",
-   "updated": "2026-11-27 13:30",
+   "updated": "2026-11-28 12:58",
    "sub_categories": [
     {
      "name": "תוכניות מלאות",
      "channels": [
+      {
+       "name": "עושים שישי עם אריק וייס 27.11.26 - התכנית המלאה",
+       "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/78f97d6e132f4853a8a9e09d89207af9/version/0/width/1280/height/720/quality/90",
+       "url": "https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_pej86zqk/format/applehttp/protocol/https/a.m3u8",
+       "date": "2026-11-27",
+       "plot": "",
+       "page": "",
+       "id": "--kaltura--1_pej86zqk===",
+       "season": "תוכניות מלאות"
+      },
       {
        "name": "עושים שישי עם אריק וייס 20.11.26 - התכנית המלאה",
        "logo": "https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/30cf7d7cbe3f41b28fe7eb66ca4225b9/version/1/width/1280/height/720/quality/90",

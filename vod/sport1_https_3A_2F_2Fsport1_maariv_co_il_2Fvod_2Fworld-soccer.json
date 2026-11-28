@@ -6,16 +6,36 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fworld-soccer",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fworld-soccer",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294093",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294738",
    "plot": "",
-   "updated": "2026-11-27 14:28",
+   "updated": "2026-11-28 13:56",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: פרייבורג – טוונטה 1:2",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294093",
+       "name": "תקציר ליגה אנגלית: נוטינגהאם פורסט – צ'לסי 2:3",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294738",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122323/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/premier-league/video/2007964/",
+       "season": ""
+      },
+      {
+       "name": "צפו בתקציר: שער של פולקרוג בתוספת הזמן העניק לורדר ברמן נקודה יקרה",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294736",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122322/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/2007958/",
+       "season": ""
+      },
+      {
+       "name": "צפו: פרייבורג ניצחה 1:2 דרמטי את טוונטה, תשע דקות לסתיו למקין",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294093",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122218/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -81,26 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/premier-league/video/2005846/",
-       "season": ""
-      },
-      {
-       "name": "צפו: פרץ ספג בדקה ה-90, סאות'המפטון סיימה ב-1:1 מול שפילד יונייטד",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1288367",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121793/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/premier-league/video/2005840/",
-       "season": ""
-      },
-      {
-       "name": "ציון 3 עונה 1 פרק 92",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294184",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4120607/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/europa-league/video/2004110/",
        "season": ""
       }
      ]

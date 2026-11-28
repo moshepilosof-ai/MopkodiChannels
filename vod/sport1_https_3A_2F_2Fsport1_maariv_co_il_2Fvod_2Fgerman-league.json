@@ -6,16 +6,26 @@
    "source": "sport1",
    "program_url": "https%3A%2F%2Fsport1.maariv.co.il%2Fvod%2Fgerman-league",
    "series_id": "https_3A_2F_2Fsport1_maariv_co_il_2Fvod_2Fgerman-league",
-   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294155",
+   "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_1280,h_720/1294736",
    "plot": "",
-   "updated": "2026-11-27 14:28",
+   "updated": "2026-11-28 13:56",
    "sub_categories": [
     {
      "name": "פרקים",
      "channels": [
       {
-       "name": "תקציר: ורדר ברמן – המבורג 0:4",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294155",
+       "name": "תקציר ליגה גרמנית: ורדר ברמן – בורוסיה מנשנגלדבאך 3:3",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_437,h_291/1294736",
+       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4122322/hls/1280x720/index.m3u8",
+       "date": "",
+       "plot": "",
+       "page": "",
+       "id": "/world-soccer/german-league/video/2007958/",
+       "season": ""
+      },
+      {
+       "name": "צפו: ורדר ברמן חזרה לנצח עם 0:4 גדול על המבורג",
+       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1294155",
        "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4121291/hls/1280x720/index.m3u8",
        "date": "",
        "plot": "",
@@ -91,16 +101,6 @@
        "plot": "",
        "page": "",
        "id": "/world-soccer/german-league/video/1981247/",
-       "season": ""
-      },
-      {
-       "name": "תקציר: פרייבורג – באיירן מינכן 3:1",
-       "logo": "https://sport1images.maariv.co.il/image/upload/f_auto,fl_lossy,c_thumb,g_north,w_260,h_160/1290429",
-       "url": "https://armageddon-media-proxy.walla.cloud/walla/destination/4113324/hls/1280x720/index.m3u8",
-       "date": "",
-       "plot": "",
-       "page": "",
-       "id": "/world-soccer/german-league/video/1981248/",
        "season": ""
       }
      ]
